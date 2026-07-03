@@ -244,14 +244,14 @@ image: /assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-1-so
 
 ## Introduction
 
-The strongest conclusion from the available evidence is not that Qatar has a large catalogue of unexplained aerial incidents, but that most documented cases sit in a grey zone between anecdotal witness testimony and ordinary astronomical or aerospace explanations. A few reports remain technically unresolved because there is not enough evidence to identify the object. However, the best-documented events in Qatar tend to move towards conventional explanations once independent information becomes available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+The strongest conclusion from the available evidence is not that Qatar has a large catalogue of unexplained aerial incidents, but that most documented cases sit in a grey zone between anecdotal witness testimony and ordinary astronomical or aerospace explanations. A few reports remain technically unresolved because there is not enough evidence to identify the object. However, the best-documented events in Qatar tend to move towards conventional explanations once independent information becomes available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 <img src="{{ "/assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-1-dark.svg" | relative_url }}" alt="Qatar UFO records illustration 1" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Qatar Has a Thin UFO Archive
 
 One of the most important facts about Qatar's UFO history is the lack of institutional documentation. There is no public equivalent to the United Kingdom's former Ministry of Defence UFO files, nor a publicly accessible Qatari defence archive dedicated to unexplained aerial reports. The result is a record dominated by voluntary civilian submissions.
 
-The main searchable source is the National UFO Reporting Center (NUFORC), a United States-based reporting system that accepts submissions from around the world. Qatar appears only sporadically in its database, with a small number of reports spread across decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+The main searchable source is the National UFO Reporting Center (NUFORC), a United States-based reporting system that accepts submissions from around the world. Qatar appears only sporadically in its database, with a small number of reports spread across decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 A thin archive creates several reliability problems:
 
@@ -269,7 +269,7 @@ This does not mean the reports are false. It means that evidential confidence is
 
 ## The 1997 Doha Highway Case Shows the Main Reliability Problem
 
-The most frequently cited early Qatar report is a NUFORC entry describing an incident near Doha on 18 September 1997. Two witnesses travelling by car reportedly observed three circular lights in a triangular arrangement moving in a zig-zag pattern. The report also claimed temporary radio interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationQatar... Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Ro...</span></span></span>
+The most frequently cited early Qatar report is a NUFORC entry describing an incident near Doha on 18 September 1997. Two witnesses travelling by car reportedly observed three circular lights in a triangular arrangement moving in a zig-zag pattern. The report also claimed temporary radio interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationQatar... Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Ro...</span></span></span>
 
 At first glance, the case appears stronger than many UFO narratives because it includes:
 
@@ -284,7 +284,7 @@ At first glance, the case appears stronger than many UFO narratives because it i
 
 However, the reliability weaknesses are substantial.
 
-The report was not submitted until 2001, roughly four years after the event. No photographs, recordings, radar tracks, maintenance records or independent witness statements are attached. The radio-interference claim is based entirely on memory rather than measurement. The case therefore falls into a category often seen in historical UFO databases: detailed enough to be interesting, but lacking the supporting evidence needed for verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</span><span class="citation-popover-meta">Published: June 16, 2001</span></span></span>
+The report was not submitted until 2001, roughly four years after the event. No photographs, recordings, radar tracks, maintenance records or independent witness statements are attached. The radio-interference claim is based entirely on memory rather than measurement. The case therefore falls into a category often seen in historical UFO databases: detailed enough to be interesting, but lacking the supporting evidence needed for verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</span><span class="citation-popover-meta">Published: June 16, 2001</span></span></span>
 
 From an evidential standpoint, it is best described as unresolved rather than unexplained. There is insufficient information either to confirm a mundane explanation or to establish an anomalous one.
 
@@ -292,9 +292,9 @@ From an evidential standpoint, it is best described as unresolved rather than un
 
 Several later reports connected to Doha appear in UFO databases and mirror patterns seen internationally.
 
-A 2011 sighting archived by UFO-focused reporting sites described a bright white object moving slowly across the sky before apparently brightening and disappearing. Witnesses estimated a very large apparent size and significant altitude, but no independent documentation accompanied the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo-hunters.com/sightings/search/51438fec0ad2e1e9be44993d/UFO%20Sighting%20in%20Doha%20%28Qatar%29%2C%20AL%20on%20Wednesday%2006%20July%202011" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011UFO Report: Round object emitting steady white light seen flying ove...</span><span class="citation-popover-meta">Published: July 2011</span></span></span>
+A 2011 sighting archived by UFO-focused reporting sites described a bright white object moving slowly across the sky before apparently brightening and disappearing. Witnesses estimated a very large apparent size and significant altitude, but no independent documentation accompanied the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo-hunters.com/sightings/search/51438fec0ad2e1e9be44993d/UFO%20Sighting%20in%20Doha%20%28Qatar%29%2C%20AL%20on%20Wednesday%2006%20July%202011" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011UFO Report: Round object emitting steady white light seen flying ove...</span><span class="citation-popover-meta">Published: July 2011</span></span></span>
 
-A more recent NUFORC entry from December 2024 involved four observers reporting blue-white circular lights near Doha. Significantly, the report itself included the possibility that the object was a planet or star. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</span><span class="citation-popover-meta">Published: December 21, 2024</span></span></span>
+A more recent NUFORC entry from December 2024 involved four observers reporting blue-white circular lights near Doha. Significantly, the report itself included the possibility that the object was a planet or star.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</span><span class="citation-popover-meta">Published: December 21, 2024</span></span></span>
 
 These reports demonstrate an important distinction between a documented sighting and reliable evidence.
 
@@ -319,7 +319,7 @@ Most Qatar cases stop at the first stage.
 
 The October [2017 fireball]({{ '2017-fireball/' | relative_url }}) event is valuable because it demonstrates what a comparatively reliable identification looks like.
 
-Residents across Qatar and neighbouring states reported a bright object crossing the sky. Initial reactions included speculation about meteors and unidentified objects. Shortly afterwards, the Qatar Astronomical Centre publicly identified the phenomenon as the atmospheric re-entry of a Russian SL-4 rocket body. Local media reported the explanation and connected the observations to a wider regional viewing area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+Residents across Qatar and neighbouring states reported a bright object crossing the sky. Initial reactions included speculation about meteors and unidentified objects. Shortly afterwards, the Qatar Astronomical Centre publicly identified the phenomenon as the atmospheric re-entry of a Russian SL-4 rocket body. Local media reported the explanation and connected the observations to a wider regional viewing area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 Several factors make this case stronger than most UFO reports:
 
@@ -340,11 +340,11 @@ Importantly, the case shows how dramatic aerial events can appear extraordinary 
 
 Since the expansion of Starlink and other satellite constellations, unusual lights in the sky have become increasingly common sources of UFO reports worldwide.
 
-In 2022, observers across parts of the Middle East reported mysterious lights moving through the sky. Regional reporting, including coverage discussed by Doha News, quickly focused on satellite explanations rather than extraterrestrial hypotheses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dohanews.co">[Doha News &#124; Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dohanews.co</span><span class="citation-popover-snippet">Doha News &#124; QatarWhat are the strange &#x27;UFOs&#x27; spotted above Middle East?What are the strange &#x27;UFOs&#x27; spotted above Middle East?... Mysteri...</span></span></span>
+In 2022, observers across parts of the Middle East reported mysterious lights moving through the sky. Regional reporting, including coverage discussed by Doha News, quickly focused on satellite explanations rather than extraterrestrial hypotheses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dohanews.co">[Doha News &#124; Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dohanews.co</span><span class="citation-popover-snippet">Doha News &#124; QatarWhat are the strange &#x27;UFOs&#x27; spotted above Middle East?What are the strange &#x27;UFOs&#x27; spotted above Middle East?... Mysteri...</span></span></span>
 
 The reliability challenge is straightforward: many people have never previously seen a satellite train. A line of bright moving objects can look highly unusual, especially under dark desert conditions or near coastal areas.
 
-Scientific research has documented both the visibility and electromagnetic characteristics of Starlink satellites, confirming that large constellations create novel visual phenomena that can surprise observers unfamiliar with orbital traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.02316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Unintended electromagnetic radiation from Starlink satellites detected with LOFAR between 110 and 188 MHzJuly 5, 2023...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span>
+Scientific research has documented both the visibility and electromagnetic characteristics of Starlink satellites, confirming that large constellations create novel visual phenomena that can surprise observers unfamiliar with orbital traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.02316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Unintended electromagnetic radiation from Starlink satellites detected with LOFAR between 110 and 188 MHzJuly 5, 2023...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span>
 
 This matters for Qatar because:
 
@@ -365,7 +365,7 @@ As a result, any modern Qatar UFO report involving multiple evenly spaced lights
 
 ### NUFORC: Useful but Limited
 
-NUFORC remains the most accessible repository for Qatar sightings. It preserves reports that might otherwise disappear and provides searchable dates, locations and witness narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+NUFORC remains the most accessible repository for Qatar sightings. It preserves reports that might otherwise disappear and provides searchable dates, locations and witness narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 Its weaknesses are equally important:
 
@@ -375,18 +375,18 @@ Its weaknesses are equally important:
 * Technical investigation standards vary.
 * False reports and [misidentifications]({{ 'misidentifications-ffb151/' | relative_url }}) can enter the database.
 
-NUFORC is best used as a catalogue of claims rather than proof of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nuforc sightings categorized by decade and shape.14610</span><span class="citation-popover-snippet">NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</span></span></span>
+NUFORC is best used as a catalogue of claims rather than proof of events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nuforc sightings categorized by decade and shape.14610</span><span class="citation-popover-snippet">NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</span></span></span>
 
 ### Local News Coverage: Moderate Reliability
 
-Qatari news outlets become valuable when unusual sky events generate widespread public attention. Reports concerning rocket re-entries or astronomy-based explanations tend to be more reliable because journalists can consult specialists and public institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+Qatari news outlets become valuable when unusual sky events generate widespread public attention. Reports concerning rocket re-entries or astronomy-based explanations tend to be more reliable because journalists can consult specialists and public institutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 However, breaking stories about mysterious lights often begin before explanations are available. Early reports should therefore be treated as observations rather than final conclusions.
 
 <img src="{{ "/assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-3-dark.svg" | relative_url }}" alt="Qatar UFO records illustration 3" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e_qatar_ufo_records_an_60a82a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social Media: High Volume, Low Verification
 
-Many recent Qatar sightings first appear on social platforms, community forums and discussion groups. Reddit discussions, Facebook posts and similar sources provide useful evidence of public reaction but very weak evidence about the actual nature of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/qatar/comments/1ly4zkz/some_weird_thing_moving_in_the_night_sky_above/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Some weird thing moving in the night sky above dukhan</span><span class="citation-popover-snippet">Some weird thing moving in the night sky above dukhanJuly 12, 2025 —... • 1y ago. It&#x27;s the aliens. Fun-Nefariousness186. • 1y ago...</span><span class="citation-popover-meta">Published: July 12, 2025</span></span></span>
+Many recent Qatar sightings first appear on social platforms, community forums and discussion groups. Reddit discussions, Facebook posts and similar sources provide useful evidence of public reaction but very weak evidence about the actual nature of the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/qatar/comments/1ly4zkz/some_weird_thing_moving_in_the_night_sky_above/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Some weird thing moving in the night sky above dukhan</span><span class="citation-popover-snippet">Some weird thing moving in the night sky above dukhanJuly 12, 2025 —... • 1y ago. It&#x27;s the aliens. Fun-Nefariousness186. • 1y ago...</span><span class="citation-popover-meta">Published: July 12, 2025</span></span></span>
 
 The main risks include:
 
@@ -406,7 +406,7 @@ Social-media material is most useful when it preserves multiple independent obse
 
 When astronomical organisations provide explanations, they usually offer the most technically grounded public assessments available in Qatar's UFO landscape.
 
-The 2017 rocket-body identification illustrates this advantage. Astronomers can compare observations against known satellite trajectories, meteor activity, planetary positions and space-debris tracking data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iloveqatar.net">[2I Love Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iloveqatar.net</span><span class="citation-popover-title">I Love Qatar Last night&#x27;s meteor wasn&#x27;t a meteor!</span><span class="citation-popover-snippet">Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</span></span></span>
+The 2017 rocket-body identification illustrates this advantage. Astronomers can compare observations against known satellite trajectories, meteor activity, planetary positions and space-debris tracking data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iloveqatar.net">[2I Love Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iloveqatar.net</span><span class="citation-popover-title">I Love Qatar Last night&#x27;s meteor wasn&#x27;t a meteor!</span><span class="citation-popover-snippet">Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BSItX-WvGQ8" title="UFOs Unlocked: Inside the Pentagon’s secret files | This Is America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer">UFOs Unlocked: Inside the Pentagon’s secret files | This Is America</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 99.7K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BSItX-WvGQ8">Open on YouTube</a></p></div></div></div>
 
@@ -427,7 +427,7 @@ The distinction matters. In evidence analysis, "unidentified" often means "insuf
 
 ## The Most Defensible Assessment of Qatar's UFO Record
 
-Qatar's UFO archive is best understood as a small collection of civilian sightings rather than a body of confirmed anomalous events. The country has produced a handful of interesting reports, but the strongest documented cases tend to move towards conventional explanations once astronomical or aerospace data become available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+Qatar's UFO archive is best understood as a small collection of civilian sightings rather than a body of confirmed anomalous events. The country has produced a handful of interesting reports, but the strongest documented cases tend to move towards conventional explanations once astronomical or aerospace data become available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 For researchers comparing Qatar with other Gulf states, the key limitation is not the number of sightings but the quality of documentation. The absence of publicly accessible military records, radar disclosures and systematic investigations means that source reliability becomes more important than raw sighting counts.
 
@@ -440,194 +440,194 @@ The result is a record dominated by three categories:
 Viewed through that framework, Qatar's UFO history is less a story of hidden mysteries than a case study in how evidence quality determines what can reasonably be concluded from unusual sightings.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Qatar&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Qatar&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evidence standards and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence standards and unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for understanding how fragmented records shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how fragmented records shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Focuses on evaluating records, witnesses and government information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating records, witnesses and government information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centres on documentary evidence, official records and source reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on documentary evidence, official records and source reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-qatar-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-qatar-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ Viewed through that framework, Qatar's UFO history is less a story of hidden mys
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ Viewed through that framework, Qatar's UFO history is less a story of hidden mys
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ Viewed through that framework, Qatar's UFO history is less a story of hidden mys
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ Viewed through that framework, Qatar's UFO history is less a story of hidden mys
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -792,7 +792,7 @@ Viewed through that framework, Qatar's UFO history is less a story of hidden mys
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,197 +830,196 @@ Viewed through that framework, Qatar's UFO history is less a story of hidden mys
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dohanews.co  
-   Link: <a href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Doha News | QatarWhat are the strange &#x27;UFOs&#x27; spotted above Middle East?What are the strange &#x27;UFOs&#x27; spotted above Middle East?... Mysteri...</p></details>
+   Link:<a href="https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://dohanews.co/what-are-the-strange-ufos-spotted-above-middle-east/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doha News | QatarWhat are the strange &#x27;UFOs&#x27; spotted above Middle East?What are the strange &#x27;UFOs&#x27; spotted above Middle East?... Mysteri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationQatar... Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Ro...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationQatar... Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Ro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</p></details>
    Published: June 16, 2001  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011  
-   Link: <a href="https://ufo-hunters.com/sightings/search/51438fec0ad2e1e9be44993d/UFO%20Sighting%20in%20Doha%20%28Qatar%29%2C%20AL%20on%20Wednesday%2006%20July%202011" target="_blank" rel="noopener noreferrer nofollow">https://ufo-hunters.com/sightings/search/51438fec0ad2e1e9be44993d/UFO%20Sighting%20in%20Doha%20%28Qatar%29%2C%20AL%20on%20Wednesday%2006%20July%202011</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011UFO Report: Round object emitting steady white light seen flying ove...</p></details>
+   Link:<a href="https://ufo-hunters.com/sightings/search/51438fec0ad2e1e9be44993d/UFO%20Sighting%20in%20Doha%20%28Qatar%29%2C%20AL%20on%20Wednesday%2006%20July%202011" target="_blank" rel="noopener noreferrer nofollow">https://ufo-hunters.com/sightings/search/51438fec0ad2e1e9be44993d/UFO%20Sighting%20in%20Doha%20%28Qatar%29%2C%20AL%20on%20Wednesday%2006%20July%202011</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Doha (Qatar), AL on Wednesday 06 July 2011UFO Report: Round object emitting steady white light seen flying ove...</p></details>
    Published: July 2011  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Doha on Sunday 12 June 2011  
-   Link: <a href="https://ufo-hunters.com/sightings/search/51438fe40ad2e1e9be44970e/UFO%20Sighting%20in%20Doha%20on%20Sunday%2012%20June%202011" target="_blank" rel="noopener noreferrer nofollow">https://ufo-hunters.com/sightings/search/51438fe40ad2e1e9be44970e/UFO%20Sighting%20in%20Doha%20on%20Sunday%2012%20June%202011</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Doha on Sunday 12 June 2011 - UFO HuntersSIGHTING: DOHA; Sighted On. Sunday 12. June 2011; Reported On. Tues...</p></details>
+   Link:<a href="https://ufo-hunters.com/sightings/search/51438fe40ad2e1e9be44970e/UFO%20Sighting%20in%20Doha%20on%20Sunday%2012%20June%202011" target="_blank" rel="noopener noreferrer nofollow">https://ufo-hunters.com/sightings/search/51438fe40ad2e1e9be44970e/UFO%20Sighting%20in%20Doha%20on%20Sunday%2012%20June%202011</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Doha on Sunday 12 June 2011 - UFO HuntersSIGHTING: DOHA; Sighted On. Sunday 12. June 2011; Reported On. Tues...</p></details>
    Published: June 2011  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185845</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185845</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</p></details>
    Published: December 21, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.02316" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.02316</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unintended electromagnetic radiation from Starlink satellites detected with LOFAR between 110 and 188 MHzJuly 5, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.02316" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.02316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unintended electromagnetic radiation from Starlink satellites detected with LOFAR between 110 and 188 MHzJuly 5, 2023...</p></details>
    Published: July 5, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.02923" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.02923</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Tracking of the February 2022 Starlink Satellites (and the Possible Immediate Loss of 32 Satellites)...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.02923" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.02923</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Tracking of the February 2022 Starlink Satellites (and the Possible Immediate Loss of 32 Satellites)...</p></details>
    Published: February 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: Some weird thing moving in the night sky above dukhan  
-   Link: <a href="https://www.reddit.com/r/qatar/comments/1ly4zkz/some_weird_thing_moving_in_the_night_sky_above/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/qatar/comments/1ly4zkz/some_weird_thing_moving_in_the_night_sky_above/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some weird thing moving in the night sky above dukhanJuly 12, 2025 —... • 1y ago. It&#x27;s the aliens. Fun-Nefariousness186. • 1y ago...</p></details>
+   Link:<a href="https://www.reddit.com/r/qatar/comments/1ly4zkz/some_weird_thing_moving_in_the_night_sky_above/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/qatar/comments/1ly4zkz/some_weird_thing_moving_in_the_night_sky_above/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some weird thing moving in the night sky above dukhanJuly 12, 2025 —... • 1y ago. It&#x27;s the aliens. Fun-Nefariousness186. • 1y ago...</p></details>
    Published: July 12, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tes ago? Lanterns? UFO? Starlink? No photo description available...</p></details>
+   Link:<a href="https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tes ago? Lanterns? UFO? Starlink? No photo description available...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193025" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1930256 Oct 2025 — NUFORC UFO Sighting 193025; Occurred: 2025-10-06 02:00 Local; Reported: 2025-10-05 23:41 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=193025" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1930256 Oct 2025 — NUFORC UFO Sighting 193025; Occurred: 2025-10-06 02:00 Local; Reported: 2025-10-05 23:41 Pacific...</p></details>
    Published: October 6, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/31/1992 21:30, Connellsville; Open, 10/31/1992 19:00, Ostervil...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/31/1992 21:30, Connellsville; Open, 10/31/1992 19:00, Ostervil...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/04, 180. 2026/03, 196. 2026/02, 174. 2026/01, 277. 2025/12, 262. 2025/11...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/04, 180. 2026/03, 196. 2026/02, 174. 2026/01, 277. 2025/12, 262. 2025/11...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Sighting ReportNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</p></details>
+   Link:<a href="https://nuforc.org/sighting/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Sighting ReportNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dohanews/posts/%EF%B8%8F-mysterious-lights-were-spotted-throughout-the-middle-east-over-the-weekend-cli/10159198430743683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dohanews/posts/%EF%B8%8F-mysterious-lights-were-spotted-throughout-the-middle-east-over-the-weekend-cli/10159198430743683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🔗 Click the link in bio for some of the rumors and speculations...</p></details>
+   Link:<a href="https://www.facebook.com/dohanews/posts/%EF%B8%8F-mysterious-lights-were-spotted-throughout-the-middle-east-over-the-weekend-cli/10159198430743683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dohanews/posts/%EF%B8%8F-mysterious-lights-were-spotted-throughout-the-middle-east-over-the-weekend-cli/10159198430743683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🔗 Click the link in bio for some of the rumors and speculations...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: While it may feel mysterious,  
-   Link: <a href="https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last night, strange lights appeared in the sky, raising a big...They can look unusual if you&#x27;re seeing them for the first time, which is...</p></details>
+   Link:<a href="https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Last night, strange lights appeared in the sky, raising a big...They can look unusual if you&#x27;re seeing them for the first time, which is...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/QatarNews/posts/astronomy-center-announced-that-debris-of-the-chinese-space-rocket-long-march-5b/5374318499270223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QatarNews/posts/astronomy-center-announced-that-debris-of-the-chinese-space-rocket-long-march-5b/5374318499270223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Qatar is safe from the debris of Chinese space rocketAstronomy Center announced that debris of the Chinese space rocket, Long March 5B, m...</p></details>
+   Link:<a href="https://www.facebook.com/QatarNews/posts/astronomy-center-announced-that-debris-of-the-chinese-space-rocket-long-march-5b/5374318499270223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QatarNews/posts/astronomy-center-announced-that-debris-of-the-chinese-space-rocket-long-march-5b/5374318499270223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Qatar is safe from the debris of Chinese space rocketAstronomy Center announced that debris of the Chinese space rocket, Long March 5B, m...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thepeninsulaqatar.com  
-   Link: <a href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow">https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</p></details>
+   Link:<a href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow">https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</p></details>
    Published: October 17, 2017  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iloveqatar.net  
    Title: I Love Qatar Last night's meteor wasn't a meteor!  
-   Link: <a href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow">https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</p></details>
+   Link:<a href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow">https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Qatar UFO Sightings and Experience ReportsAlso, if you should have any additional evidence to go along with your Qatar UFO sighting, or A...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/qatar-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Qatar UFO Sightings and Experience ReportsAlso, if you should have any additional evidence to go along with your Qatar UFO sighting, or A...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in Night Sky? It was SpaceX Starlink, not UFOsWhat you saw was likely a SpaceX Starlink satellite train which appears as a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in Night Sky? It was SpaceX Starlink, not UFOsWhat you saw was likely a SpaceX Starlink satellite train which appears as a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencemediacentre.es  
    Title: reactions study warning about risks uncontrolled rocket re entry  
-   Link: <a href="https://sciencemediacentre.es/en/reactions-study-warning-about-risks-uncontrolled-rocket-re-entry" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/reactions-study-warning-about-risks-uncontrolled-rocket-re-entry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reactions to study warning about risks of uncontrolled...11 Jul 2022 — The study points out that there are sufficient means, without the...</p></details>
+   Link:<a href="https://sciencemediacentre.es/en/reactions-study-warning-about-risks-uncontrolled-rocket-re-entry" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/reactions-study-warning-about-risks-uncontrolled-rocket-re-entry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reactions to study warning about risks of uncontrolled...11 Jul 2022 — The study points out that there are sufficient means, without the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
    Title: Someone said the weird lights in the sky are Starlink  
-   Link: <a href="https://www.instagram.com/reel/DX8bagRIPWS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX8bagRIPWS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>look like several satellites moving in and out of a direction from one solid state point. Satellites are supposed to go in...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DX8bagRIPWS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX8bagRIPWS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>look like several satellites moving in and out of a direction from one solid state point. Satellites are supposed to go in...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Solomon, &quot;Observations of the GT-5 Rocket-Body Reentry - Preliminary Analysis&quot;. SAO Special Rp...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Solomon, &quot;Observations of the GT-5 Rocket-Body Reentry - Preliminary Analysis&quot;. SAO Special Rp...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: channelnewsasia.com  
-   Link: <a href="https://www.channelnewsasia.com/shorts/iranian-strikes-falling-debris-sparks-fireball-in-qatar-5961946" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/shorts/iranian-strikes-falling-debris-sparks-fireball-in-qatar-5961946</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iranian strikes: Falling debris sparks fireball in Qatar1 Mar 2026 — Iranian strikes: Falling debris sparks fireball in Qatar...</p></details>
+   Link:<a href="https://www.channelnewsasia.com/shorts/iranian-strikes-falling-debris-sparks-fireball-in-qatar-5961946" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/shorts/iranian-strikes-falling-debris-sparks-fireball-in-qatar-5961946</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iranian strikes: Falling debris sparks fireball in Qatar1 Mar 2026 — Iranian strikes: Falling debris sparks fireball in Qatar...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: x.com  
-   Link: <a href="https://x.com/WDTN/status/2050953573995884739" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WDTN/status/2050953573995884739</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Miami Valley saw a SpaceX Starlink satellite pass over us. UFO...</p></details>
+   Link:<a href="https://x.com/WDTN/status/2050953573995884739" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WDTN/status/2050953573995884739</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Miami Valley saw a SpaceX Starlink satellite pass over us. UFO...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: uapmonitor.org  
    Title: Interactive map, credibility scoring,  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map...UAP Monitor aggregates 198000+ UFO and UAP sighting reports from 15 verified so...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map...UAP Monitor aggregates 198000+ UFO and UAP sighting reports from 15 verified so...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q38c4_DxURk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q38c4_DxURk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower details UAP encounter: What is the CIA hiding? | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q38c4_DxURk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q38c4_DxURk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower details UAP encounter: What is the CIA hiding? | Reality Check...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: whio.com  
-   Link: <a href="https://www.whio.com/news/local/did-you-spot-mysterious-lights-sky-this-morning-heres-what-caused-them/OHFPD5FHMRHM3DXLZ5AORFQLB4/" target="_blank" rel="noopener noreferrer nofollow">https://www.whio.com/news/local/did-you-spot-mysterious-lights-sky-this-morning-heres-what-caused-them/OHFPD5FHMRHM3DXLZ5AORFQLB4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you spot mysterious lights in the sky this morning?...17 Apr 2026 — Starlink Satellite caused mysterious lights spotted in... The l...</p></details>
+   Link:<a href="https://www.whio.com/news/local/did-you-spot-mysterious-lights-sky-this-morning-heres-what-caused-them/OHFPD5FHMRHM3DXLZ5AORFQLB4/" target="_blank" rel="noopener noreferrer nofollow">https://www.whio.com/news/local/did-you-spot-mysterious-lights-sky-this-morning-heres-what-caused-them/OHFPD5FHMRHM3DXLZ5AORFQLB4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did you spot mysterious lights in the sky this morning?...17 Apr 2026 — Starlink Satellite caused mysterious lights spotted in... The l...</p></details>

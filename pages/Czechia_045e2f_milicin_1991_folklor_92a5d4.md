@@ -252,25 +252,25 @@ image: /assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-1-
 
 ## Introduction
 
-The 1991 Miličín sightings became important in Czech UFO culture not because of hard physical evidence, but because of how deeply the stories entered local memory. Reports of glowing orange spheres, strange humanoid figures and unsettling encounters spread through villages around Miličín in central Bohemia during the summer of 1991. Over time, the event evolved from a cluster of alleged sightings into a piece of regional folklore often nicknamed the “Czech Roswell”. The case still circulates in Czech television documentaries, paranormal media, online discussions and local storytelling more than three decades later. Aktuálně.cz - Víte, co se právě děje <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazin.aktualne.cz">[magazin.aktualne.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazin.aktualne.cz</span><span class="citation-popover-snippet">Místní si dodnes šeptají o...13 May 2025 — Ve vesnici Miličín a jejím okolí - v Mezně, Ješeticích i Řepeči - byla po několik dní pozorov...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceskasibir.cz">[2Česká Sibir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceskasibir.cz</span><span class="citation-popover-snippet">Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</span></span></span>
+The 1991 Miličín sightings became important in Czech UFO culture not because of hard physical evidence, but because of how deeply the stories entered local memory. Reports of glowing orange spheres, strange humanoid figures and unsettling encounters spread through villages around Miličín in central Bohemia during the summer of 1991. Over time, the event evolved from a cluster of alleged sightings into a piece of regional folklore often nicknamed the “Czech Roswell”. The case still circulates in Czech television documentaries, paranormal media, online discussions and local storytelling more than three decades later. Aktuálně.cz - Víte, co se právě děje<span class="citation-chip-wrap"><a class="citation-chip" href="https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazin.aktualne.cz">[magazin.aktualne.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazin.aktualne.cz</span><span class="citation-popover-snippet">Místní si dodnes šeptají o...13 May 2025 — Ve vesnici Miličín a jejím okolí - v Mezně, Ješeticích i Řepeči - byla po několik dní pozorov...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceskasibir.cz">[2Česká Sibir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceskasibir.cz</span><span class="citation-popover-snippet">Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</span></span></span>
 
 <img src="{{ "/assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-1-dark.svg" | relative_url }}" alt="Miličín 1991 illustration 1" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes Miličín culturally significant is not that the sightings were verified. In fact, the surviving evidence is fragmentary and heavily dependent on witness recollections gathered years later. Instead, the case demonstrates how a UFO narrative can become socially embedded in a rural community during a moment of political and cultural transition after the fall of communism. In [Czechia]({{ 'czechia/' | relative_url }})’s UFO history, Miličín functions less as a solved mystery than as a living folklore event. Česká Sibir <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[Metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span>
+What makes Miličín culturally significant is not that the sightings were verified. In fact, the surviving evidence is fragmentary and heavily dependent on witness recollections gathered years later. Instead, the case demonstrates how a UFO narrative can become socially embedded in a rural community during a moment of political and cultural transition after the fall of communism. In [Czechia]({{ 'czechia/' | relative_url }})’s UFO history, Miličín functions less as a solved mystery than as a living folklore event. Česká Sibir<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[Metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span>
 
 ## Why the Miličín sightings spread so widely
 
-The core reports centred on glowing orange or reddish spheres seen around Miličín and neighbouring villages including Mezno, Ješetice and Řepeč in July 1991. Witnesses described lights moving silently, following people or hovering over fields and buildings. Later retellings added claims about towering humanoid figures, strange footprints and psychological effects on observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://badatele.net/milicinske-unosy-do-ufo-podrobne-vypovedi-svedku/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badatele.net">[badatele.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badatele.net</span><span class="citation-popover-snippet">Miličínské únosy do UFO: Podrobné výpovědi svědků2 Jul 2021 — Hledání v archivech nás dovedlo k výpovědi jedné ze dvou žen, které byly u...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazin.aktualne.cz">[3Aktuálně]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazin.aktualne.cz</span><span class="citation-popover-snippet">Místní si dodnes šeptají o...13 May 2025 — Ve vesnici Miličín a jejím okolí - v Mezně, Ješeticích i Řepeči - byla po několik dní pozorov...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. cz - Víte, co se právě děje <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO sightings in the Czech Republic</span><span class="citation-popover-snippet">edit. On 12 July 1991 a glowing round object was seen near Miličín causing panic among local population. Sphere appeared randomly, silent...</span><span class="citation-popover-meta">Published: July 1991</span></span></span> Several factors helped the story spread rapidly through the region:
+The core reports centred on glowing orange or reddish spheres seen around Miličín and neighbouring villages including Mezno, Ješetice and Řepeč in July 1991. Witnesses described lights moving silently, following people or hovering over fields and buildings. Later retellings added claims about towering humanoid figures, strange footprints and psychological effects on observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://badatele.net/milicinske-unosy-do-ufo-podrobne-vypovedi-svedku/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badatele.net">[badatele.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badatele.net</span><span class="citation-popover-snippet">Miličínské únosy do UFO: Podrobné výpovědi svědků2 Jul 2021 — Hledání v archivech nás dovedlo k výpovědi jedné ze dvou žen, které byly u...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazin.aktualne.cz">[3Aktuálně]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazin.aktualne.cz</span><span class="citation-popover-snippet">Místní si dodnes šeptají o...13 May 2025 — Ve vesnici Miličín a jejím okolí - v Mezně, Ješeticích i Řepeči - byla po několik dní pozorov...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>. cz - Víte, co se právě děje<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO sightings in the Czech Republic</span><span class="citation-popover-snippet">edit. On 12 July 1991 a glowing round object was seen near Miličín causing panic among local population. Sphere appeared randomly, silent...</span><span class="citation-popover-meta">Published: July 1991</span></span></span> Several factors helped the story spread rapidly through the region:
 
 * The sightings allegedly involved multiple villages rather than a single isolated witness.
 * The reports emerged during the early post-1989 media environment, when previously marginal paranormal subjects became openly discussable in Czech public life.
 * Many stories circulated informally before investigators attempted documentation, allowing rumours and embellishments to grow.
-* Witness reluctance and fear of ridicule added an atmosphere of secrecy that strengthened the mythology around the case. Česká Sibir <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span> Unlike the more militarised 1987 Vranov nad Dyjí incident, Miličín developed through ordinary social networks: neighbours talking to neighbours, local gossip, tabloid retellings and later paranormal television coverage. That made the case culturally sticky even though its evidential basis remained weak.
+* Witness reluctance and fear of ridicule added an atmosphere of secrecy that strengthened the mythology around the case. Česká Sibir<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span> Unlike the more militarised 1987 Vranov nad Dyjí incident, Miličín developed through ordinary social networks: neighbours talking to neighbours, local gossip, tabloid retellings and later paranormal television coverage. That made the case culturally sticky even though its evidential basis remained weak.
 
 ## Eyewitness stories and the power of the orange spheres
 
-The most enduring image from the Miličín case is the glowing sphere itself. Czech retellings repeatedly focus on the object’s silent movement and its apparent interaction with observers. Some accounts claimed the lights reacted intelligently to human presence or induced fear and disorientation. Aktuálně.cz - Víte, co se právě děje <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO sightings in the Czech Republic</span><span class="citation-popover-snippet">edit. On 12 July 1991 a glowing round object was seen near Miličín causing panic among local population. Sphere appeared randomly, silent...</span><span class="citation-popover-meta">Published: July 1991</span></span></span> These details mattered socially because they transformed the event from a distant“light in the sky” into something intimate and personal. Witness narratives often described emotional experiences rather than technical observations. Fear, fascination and confusion became central parts of the story. That emotional dimension helped the case survive in oral memory long after specific dates and details blurred together.
+The most enduring image from the Miličín case is the glowing sphere itself. Czech retellings repeatedly focus on the object’s silent movement and its apparent interaction with observers. Some accounts claimed the lights reacted intelligently to human presence or induced fear and disorientation. Aktuálně.cz - Víte, co se právě děje<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO sightings in the Czech Republic</span><span class="citation-popover-snippet">edit. On 12 July 1991 a glowing round object was seen near Miličín causing panic among local population. Sphere appeared randomly, silent...</span><span class="citation-popover-meta">Published: July 1991</span></span></span> These details mattered socially because they transformed the event from a distant“light in the sky” into something intimate and personal. Witness narratives often described emotional experiences rather than technical observations. Fear, fascination and confusion became central parts of the story. That emotional dimension helped the case survive in oral memory long after specific dates and details blurred together.
 
-The most dramatic stories — including alleged encounters with three-metre figures and claims of missing time or attempted abduction — appeared mainly in later retellings and paranormal media. Researchers connected to [Projekt Záře]({{ 'projekt-záře/' | relative_url }}), one of Czechia’s best-known civilian UFO groups, acknowledged that many testimonies were second-hand and difficult to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceskasibir.cz">[Česká Sibir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceskasibir.cz</span><span class="citation-popover-snippet">Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</span></span></span>
+The most dramatic stories — including alleged encounters with three-metre figures and claims of missing time or attempted abduction — appeared mainly in later retellings and paranormal media. Researchers connected to [Projekt Záře]({{ 'projekt-záře/' | relative_url }}), one of Czechia’s best-known civilian UFO groups, acknowledged that many testimonies were second-hand and difficult to verify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceskasibir.cz">[Česká Sibir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceskasibir.cz</span><span class="citation-popover-snippet">Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</span></span></span>
 
 This uncertainty paradoxically increased the folklore appeal. In local legend-making, incomplete evidence often keeps a story alive longer than a definitive explanation would. Miličín became a place where “something strange happened”, even if nobody could fully prove what.
 
@@ -278,20 +278,20 @@ This uncertainty paradoxically increased the folklore appeal. In local legend-ma
 
 ## How Miličín became the “Czech Roswell”
 
-Over the years, journalists and paranormal enthusiasts increasingly referred to Miličín as the “Czech Roswell”. The comparison exaggerated the evidential strength of the case, but it successfully framed the village as Czechia’s best-known UFO folklore location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[Metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span>
+Over the years, journalists and paranormal enthusiasts increasingly referred to Miličín as the “Czech Roswell”. The comparison exaggerated the evidential strength of the case, but it successfully framed the village as Czechia’s best-known UFO folklore location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[Metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span>
 
 This label had several cultural effects.
 
 First, it turned a local event into a nationally recognisable reference point within Czech UFO culture. People interested in unexplained phenomena could immediately associate Miličín with alien stories in the same way Americans associate Roswell with UFO mythology.
 
-Second, the identity became partially self-reinforcing. As documentaries, articles and online discussions repeated the nickname, the village’s connection to UFO lore strengthened regardless of whether new evidence emerged. Local tourism never developed on the scale seen in Roswell, New Mexico, but the association became part of regional identity and internet-era folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: czechology.com">[Czechology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">czechology.com</span><span class="citation-popover-title">ufo in czech republic</span><span class="citation-popover-snippet">UFO in Czech Republic2 Jul 2024 — The Miličín municipality could be called the Czech Roswell. There have been so many UFO sight...</span></span></span>
+Second, the identity became partially self-reinforcing. As documentaries, articles and online discussions repeated the nickname, the village’s connection to UFO lore strengthened regardless of whether new evidence emerged. Local tourism never developed on the scale seen in Roswell, New Mexico, but the association became part of regional identity and internet-era folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: czechology.com">[Czechology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">czechology.com</span><span class="citation-popover-title">ufo in czech republic</span><span class="citation-popover-snippet">UFO in Czech Republic2 Jul 2024 — The Miličín municipality could be called the Czech Roswell. There have been so many UFO sight...</span></span></span>
 
 Third, the case illustrated how post-Cold War Czech society absorbed global UFO mythology into local culture. During the communist era, paranormal discussion existed but circulated in a more restricted environment. After 1989, Western-style UFO narratives, conspiracy themes and paranormal entertainment spread more openly through Czech media. Miličín emerged at exactly the right historical moment to become part of that transition.
 
 <img src="{{ "/assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-2-dark.svg" | relative_url }}" alt="Miličín 1991 illustration 2" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The role of media and paranormal television
 
-The long-term survival of the Miličín story depended heavily on Czech paranormal media. Articles, television segments and online documentaries repeatedly revived the case for new audiences. Investigative-style programmes mixed witness interviews with dramatic reconstruction, often blurring the line between documentation and entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stream.cz/badatele/desiva-svedectvi-z-milicina-unosy-od-ufo-a-trimetrove-postavy-64544903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stream.cz">[Stream]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stream.cz</span><span class="citation-popover-title">desiva svedectvi z milicina unosy od ufo a trimetrove postavy 64544903</span><span class="citation-popover-snippet">StreamÚnosy UFO v Miličíně a projekt Záře &#124; Badatelé30 Jan 2023 — Případ miličínské světelné koule a svědectví z místa. Záznam z badatels...</span></span></span> YouTube This media cycle changed the case in important ways: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFO classified cases: Fire balls and figures over MiličínThe most serious case of UFOs over our territory. What did light balls, three-me...</span></span></span>
+The long-term survival of the Miličín story depended heavily on Czech paranormal media. Articles, television segments and online documentaries repeatedly revived the case for new audiences. Investigative-style programmes mixed witness interviews with dramatic reconstruction, often blurring the line between documentation and entertainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stream.cz/badatele/desiva-svedectvi-z-milicina-unosy-od-ufo-a-trimetrove-postavy-64544903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stream.cz">[Stream]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stream.cz</span><span class="citation-popover-title">desiva svedectvi z milicina unosy od ufo a trimetrove postavy 64544903</span><span class="citation-popover-snippet">StreamÚnosy UFO v Miličíně a projekt Záře &#124; Badatelé30 Jan 2023 — Případ miličínské světelné koule a svědectví z místa. Záznam z badatels...</span></span></span> YouTube This media cycle changed the case in important ways:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFO classified cases: Fire balls and figures over MiličínThe most serious case of UFOs over our territory. What did light balls, three-me...</span></span></span>
 
 ### The story became more dramatic over time
 
@@ -305,13 +305,13 @@ People connected to the sightings gradually shifted from anonymous villagers to 
 
 ### Investigation merged with storytelling
 
-Groups such as Projekt Záře attempted to collect testimonies more systematically, but many public presentations of the case mixed serious inquiry with sensational framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceskasibir.cz">[Česká Sibir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceskasibir.cz</span><span class="citation-popover-snippet">Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</span></span></span>
+Groups such as Projekt Záře attempted to collect testimonies more systematically, but many public presentations of the case mixed serious inquiry with sensational framing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceskasibir.cz">[Česká Sibir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceskasibir.cz</span><span class="citation-popover-snippet">Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</span></span></span>
 
 This produced a tension that still shapes Czech discussion of Miličín today: was it an authentic unexplained event distorted by folklore, or a folklore event that grew out of ordinary misinterpretations and social contagion?
 
 ## Local memory versus hard evidence
 
-One reason the Miličín case remains culturally durable is that it exists in a space between belief and scepticism. There is no widely accepted photographic evidence, no released government archive confirming extraordinary activity and no decisive technical analysis proving an unknown craft was present. Much of the surviving testimony was collected years later. Česká Sibir <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span> Yet the absence of proof did not erase the event from collective memory.
+One reason the Miličín case remains culturally durable is that it exists in a space between belief and scepticism. There is no widely accepted photographic evidence, no released government archive confirming extraordinary activity and no decisive technical analysis proving an unknown craft was present. Much of the surviving testimony was collected years later. Česká Sibir<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span> Yet the absence of proof did not erase the event from collective memory.
 
 In local folklore terms, the important fact was that many people believed something unusual had occurred. The stories became social artefacts in their own right. Even sceptical residents often remembered the atmosphere of fear, rumours and fascination surrounding the summer of 1991.
 
@@ -333,157 +333,157 @@ The Miličín sightings also continue to reflect broader themes in Czech society
 
 </div>
 
-Modern retellings often acknowledge that the evidence is weak while still presenting the story as culturally meaningful. That balance explains why the case has endured. Miličín is remembered less as a proven extraterrestrial event than as one of the clearest examples of how UFO narratives become woven into local identity in Czechia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[Metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: czechology.com">[Czechology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">czechology.com</span><span class="citation-popover-title">ufo in czech republic</span><span class="citation-popover-snippet">UFO in Czech Republic2 Jul 2024 — The Miličín municipality could be called the Czech Roswell. There have been so many UFO sight...</span></span></span>
+Modern retellings often acknowledge that the evidence is weak while still presenting the story as culturally meaningful. That balance explains why the case has endured. Miličín is remembered less as a proven extraterrestrial event than as one of the clearest examples of how UFO narratives become woven into local identity in Czechia.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metro.cz">[Metro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metro.cz</span><span class="citation-popover-title">Třímetrové bytosti i podivné světelné úkazy</span><span class="citation-popover-snippet">Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: czechology.com">[Czechology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">czechology.com</span><span class="citation-popover-title">ufo in czech republic</span><span class="citation-popover-snippet">UFO in Czech Republic2 Jul 2024 — The Miličín municipality could be called the Czech Roswell. There have been so many UFO sight...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rVHKWpZnoGY" title="Utajené případy UFO: Ohnivé koule a postavy nad Miličínem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer">Utajené případy UFO: Ohnivé koule a postavy nad Miličínem</a></p><p class="youtube-embed-meta">Channel: Badatelé &middot; Views: 73.1K &middot; Uploaded: September 2018 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rVHKWpZnoGY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for How Did the 1991 Miličín UFO Sightings Shape Local Folklore?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for How Did the 1991 Miličín UFO Sightings Shape Local Folklore?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-1991-mili-n-ufo-sightings-shape-local-folklore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -499,7 +499,7 @@ Modern retellings often acknowledge that the evidence is weak while still presen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -519,7 +519,7 @@ Modern retellings often acknowledge that the evidence is weak while still presen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -551,7 +551,7 @@ Modern retellings often acknowledge that the evidence is weak while still presen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -603,7 +603,7 @@ Modern retellings often acknowledge that the evidence is weak while still presen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -648,7 +648,7 @@ Modern retellings often acknowledge that the evidence is weak while still presen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -686,111 +686,110 @@ Modern retellings often acknowledge that the evidence is weak while still presen
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: magazin.aktualne.cz  
-   Link: <a href="https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Místní si dodnes šeptají o...13 May 2025 — Ve vesnici Miličín a jejím okolí - v Mezně, Ješeticích i Řepeči - byla po několik dní pozorov...</p></details>
+   Link:<a href="https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/ufo-v-cesku-pripad-milicovskych-kouli/r~eb8f20fa2b1011f0ae9c0cc47ab5f122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Místní si dodnes šeptají o...13 May 2025 — Ve vesnici Miličín a jejím okolí - v Mezně, Ješeticích i Řepeči - byla po několik dní pozorov...</p></details>
    Published: May 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: czechology.com  
    Title: ufo in czech republic  
-   Link: <a href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.czechology.com/ufo-in-czech-republic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Czech Republic2 Jul 2024 — The Miličín municipality could be called the Czech Roswell. There have been so many UFO sight...</p></details>
+   Link:<a href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.czechology.com/ufo-in-czech-republic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Czech Republic2 Jul 2024 — The Miličín municipality could be called the Czech Roswell. There have been so many UFO sight...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metro.cz  
    Title: Třímetrové bytosti i podivné světelné úkazy  
-   Link: <a href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow">https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</p></details>
+   Link:<a href="https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr" target="_blank" rel="noopener noreferrer nofollow">https://www.metro.cz/spolecnost/trimetrove-bytosti-i-podivne-svetelne-ukazy-cesky-roswell-najdete-na-benesovsku.A200424_190522_metro-spolecnost_hyr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Český Roswell...25 Apr 2020 — Kéž bychom se mohli vydat do Miličína těsně po prvních hlášených událostech v roce 1991! To ale bohužel po...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of UFO sightings in the Czech Republic  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>edit. On 12 July 1991 a glowing round object was seen near Miličín causing panic among local population. Sphere appeared randomly, silent...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>edit. On 12 July 1991 a glowing round object was seen near Miličín causing panic among local population. Sphere appeared randomly, silent...</p></details>
    Published: July 1991  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: badatele.net  
-   Link: <a href="https://badatele.net/milicinske-unosy-do-ufo-podrobne-vypovedi-svedku/" target="_blank" rel="noopener noreferrer nofollow">https://badatele.net/milicinske-unosy-do-ufo-podrobne-vypovedi-svedku/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Miličínské únosy do UFO: Podrobné výpovědi svědků2 Jul 2021 — Hledání v archivech nás dovedlo k výpovědi jedné ze dvou žen, které byly u...</p></details>
+   Link:<a href="https://badatele.net/milicinske-unosy-do-ufo-podrobne-vypovedi-svedku/" target="_blank" rel="noopener noreferrer nofollow">https://badatele.net/milicinske-unosy-do-ufo-podrobne-vypovedi-svedku/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miličínské únosy do UFO: Podrobné výpovědi svědků2 Jul 2021 — Hledání v archivech nás dovedlo k výpovědi jedné ze dvou žen, které byly u...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stream.cz  
    Title: desiva svedectvi z milicina unosy od ufo a trimetrove postavy 64544903  
-   Link: <a href="https://www.stream.cz/badatele/desiva-svedectvi-z-milicina-unosy-od-ufo-a-trimetrove-postavy-64544903" target="_blank" rel="noopener noreferrer nofollow">https://www.stream.cz/badatele/desiva-svedectvi-z-milicina-unosy-od-ufo-a-trimetrove-postavy-64544903</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StreamÚnosy UFO v Miličíně a projekt Záře | Badatelé30 Jan 2023 — Případ miličínské světelné koule a svědectví z místa. Záznam z badatels...</p></details>
+   Link:<a href="https://www.stream.cz/badatele/desiva-svedectvi-z-milicina-unosy-od-ufo-a-trimetrove-postavy-64544903" target="_blank" rel="noopener noreferrer nofollow">https://www.stream.cz/badatele/desiva-svedectvi-z-milicina-unosy-od-ufo-a-trimetrove-postavy-64544903</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StreamÚnosy UFO v Miličíně a projekt Záře | Badatelé30 Jan 2023 — Případ miličínské světelné koule a svědectví z místa. Záznam z badatels...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rVHKWpZnoGY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO classified cases: Fire balls and figures over MiličínThe most serious case of UFOs over our territory. What did light balls, three-me...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rVHKWpZnoGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rVHKWpZnoGY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO classified cases: Fire balls and figures over MiličínThe most serious case of UFOs over our territory. What did light balls, three-me...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: New testimony: UFO abductions in Millicin, three-meter characters and attacks  
-   Link: <a href="https://www.youtube.com/watch?v=BsgXjpo5JnI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BsgXjpo5JnI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tohle je NEJZNÁMĚJŠÍ případ UFO v České republice...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BsgXjpo5JnI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BsgXjpo5JnI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tohle je NEJZNÁMĚJŠÍ případ UFO v České republice...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Tohle je NEJZNÁMĚJŠÍ případ UFO v České republice  
-   Link: <a href="https://www.youtube.com/watch?v=1WzJvPdkxK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1WzJvPdkxK0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO V ČESKU?! | HorrorEcho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1WzJvPdkxK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1WzJvPdkxK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO V ČESKU?! | HorrorEcho...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: UFO V ČESKU?! | Horror Echo  
-   Link: <a href="https://www.youtube.com/watch?v=HsQej1VlDY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HsQej1VlDY4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nejzáhadnější případy UFO | Vladimír Šiška...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HsQej1VlDY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HsQej1VlDY4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nejzáhadnější případy UFO | Vladimír Šiška...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Nejzáhadnější případy UFO | Vladimír Šiška  
-   Link: <a href="https://www.youtube.com/watch?v=pB5JF0FE6xk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pB5JF0FE6xk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=pB5JF0FE6xk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pB5JF0FE6xk</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ceskasibir.cz  
-   Link: <a href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ceskasibir.cz/milicin/dok/ufo.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</p></details>
+   Link:<a href="https://www.ceskasibir.cz/milicin/dok/ufo.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ceskasibir.cz/milicin/dok/ufo.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Česká SibirObec Miličín, Obec Miličín, UFOA jeden z nich se odehrával v roce 1991 v Miličíně a jeho okolí. Tehdy se k nám donesly zprávy...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/301494877221412/?locale=zh_CN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301494877221412/?locale=zh_CN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD UFO SIGHTINGS AND PARANORMAL ACTIVITYGLOWING ORANGE HUMANOIDS. On August 24, 1970, a young man named Raymond, and two others were w...</p></details>
+   Link:<a href="https://www.facebook.com/groups/301494877221412/?locale=zh_CN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301494877221412/?locale=zh_CN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD UFO SIGHTINGS AND PARANORMAL ACTIVITYGLOWING ORANGE HUMANOIDS. On August 24, 1970, a young man named Raymond, and two others were w...</p></details>
    Published: August 24, 1970  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nomanzone.com  
    Title: No Man Zone.com UF O sightings in the Czech Republic  
-   Link: <a href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-the-czech-republic/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/news/ufo-uap/ufo-sightings-in-the-czech-republic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Czech Republic - NoManZone.com29 Jan 2025 — The 1991 Miličín incident remains one of the most fascinating UFO sighti...</p></details>
+   Link:<a href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-the-czech-republic/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/news/ufo-uap/ufo-sightings-in-the-czech-republic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Czech Republic - NoManZone.com29 Jan 2025 — The 1991 Miličín incident remains one of the most fascinating UFO sighti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: the strangest ufo case from the 1990s in czech  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14l6hip/the_strangest_ufo_case_from_the_1990s_in_czech/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14l6hip/the_strangest_ufo_case_from_the_1990s_in_czech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RepublicIt is a forgotten and yet very interesting case of sighting. In Miličín, in the early 90s, strange balls of light and perhaps thr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14l6hip/the_strangest_ufo_case_from_the_1990s_in_czech/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14l6hip/the_strangest_ufo_case_from_the_1990s_in_czech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RepublicIt is a forgotten and yet very interesting case of sighting. In Miličín, in the early 90s, strange balls of light and perhaps thr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/469394723618847/posts/1349973478894296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/469394723618847/posts/1349973478894296/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gators believe it numbers in the millions.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/469394723618847/posts/1349973478894296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/469394723618847/posts/1349973478894296/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gators believe it numbers in the millions.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theses.cz  
    Title: Karlik disertacni prace  
-   Link: <a href="https://theses.cz/id/jhmgww/Karlik_disertacni_prace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.cz/id/jhmgww/Karlik_disertacni_prace.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Již z předběžné rešerše běžně dostupné muzikologické literatury a katalogizačních...Read more...</p></details>
+   Link:<a href="https://theses.cz/id/jhmgww/Karlik_disertacni_prace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.cz/id/jhmgww/Karlik_disertacni_prace.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Již z předběžné rešerše běžně dostupné muzikologické literatury a katalogizačních...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
    Title: Brázdil, R  
-   Link: <a href="https://www.academia.edu/20197545/Br%C3%A1zdil_R_Kotyza_O_Dobrovoln%C3%BD_P_%C5%98ezn%C3%AD%C4%8Dkov%C3%A1_L_Val%C3%A1%C5%A1ek_H_2013_History_of_Weather_and_Climate_in_the_Czech_Lands_X_Climate_of_the_Sixteenth_Century_in_the_Czech_Lands_Masaryk_University_Brno_286_pp" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/20197545/Br%C3%A1zdil_R_Kotyza_O_Dobrovoln%C3%BD_P_%C5%98ezn%C3%AD%C4%8Dkov%C3%A1_L_Val%C3%A1%C5%A1ek_H_2013_History_of_Weather_and_Climate_in_the_Czech_Lands_X_Climate_of_the_Sixteenth_Century_in_the_Czech_Lands_Masaryk_University_Brno_286_pp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kotyza, O. – Dobrovolný, P. – Řezníčková, L. –...2013: History of Weather and Climate in the Czech Lands X. Climate of the Sixteenth C...</p></details>
+   Link:<a href="https://www.academia.edu/20197545/Br%C3%A1zdil_R_Kotyza_O_Dobrovoln%C3%BD_P_%C5%98ezn%C3%AD%C4%8Dkov%C3%A1_L_Val%C3%A1%C5%A1ek_H_2013_History_of_Weather_and_Climate_in_the_Czech_Lands_X_Climate_of_the_Sixteenth_Century_in_the_Czech_Lands_Masaryk_University_Brno_286_pp" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/20197545/Br%C3%A1zdil_R_Kotyza_O_Dobrovoln%C3%BD_P_%C5%98ezn%C3%AD%C4%8Dkov%C3%A1_L_Val%C3%A1%C5%A1ek_H_2013_History_of_Weather_and_Climate_in_the_Czech_Lands_X_Climate_of_the_Sixteenth_Century_in_the_Czech_Lands_Masaryk_University_Brno_286_pp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kotyza, O. – Dobrovolný, P. – Řezníčková, L. –...2013: History of Weather and Climate in the Czech Lands X. Climate of the Sixteenth C...</p></details>

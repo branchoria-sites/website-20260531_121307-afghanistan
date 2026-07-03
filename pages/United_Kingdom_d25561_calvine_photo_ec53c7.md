@@ -248,22 +248,22 @@ image: /assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-1-
 
 ## Introduction
 
-The Calvine photograph is often described as the most intriguing UFO image ever connected to the [United Kingdom]({{ 'united-kingdom/' | relative_url }}). Yet its importance has less to do with proving what was in the sky above Perthshire in 1990 than with exposing a deeper problem: even a striking photograph can leave a mystery unresolved when the chain of evidence is incomplete. For more than three decades, the image existed largely as rumour inside UFO circles, supported by references in Ministry of Defence files and testimony from officials who claimed to have seen it. When a surviving print finally surfaced in 2022, it appeared to confirm that the photograph was real. What it did not confirm was the identity of the object itself. The Calvine case therefore sits at the centre of a recurring debate in British UFO history: when does a photograph become evidence, and when does it become another source of uncertainty? <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">best ufo picture calvine photo found 30 years missing 1733673</span><span class="citation-popover-snippet">But while Clarke admits the photo is &quot;by far the best UFO photograph&quot; he has ever seen...Read more...</span></span></span>
+The Calvine photograph is often described as the most intriguing UFO image ever connected to the [United Kingdom]({{ 'united-kingdom/' | relative_url }}). Yet its importance has less to do with proving what was in the sky above Perthshire in 1990 than with exposing a deeper problem: even a striking photograph can leave a mystery unresolved when the chain of evidence is incomplete. For more than three decades, the image existed largely as rumour inside UFO circles, supported by references in Ministry of Defence files and testimony from officials who claimed to have seen it. When a surviving print finally surfaced in 2022, it appeared to confirm that the photograph was real. What it did not confirm was the identity of the object itself. The Calvine case therefore sits at the centre of a recurring debate in British UFO history: when does a photograph become evidence, and when does it become another source of uncertainty?<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">best ufo picture calvine photo found 30 years missing 1733673</span><span class="citation-popover-snippet">But while Clarke admits the photo is &quot;by far the best UFO photograph&quot; he has ever seen...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-1-dark.svg" | relative_url }}" alt="Calvine illustration 1" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The reported sighting and missing image trail
 
-According to accounts later reconstructed by researchers, two men were walking on moorland near the hamlet of Calvine in Perthshire on 4 August 1990 when they reportedly saw a large diamond-shaped object hovering silently in the sky. They claimed the object remained visible for several minutes while a military jet circled nearby. The witnesses allegedly took a series of photographs before the object ascended rapidly and disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/the-calvine-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-title">the calvine ufo</span><span class="citation-popover-snippet">On the evening of August 4 1990, two witnesses in Calvine, Scotland, saw a vast, diamond-shaped UFO. The UFO hovered for about 10 minutes...</span></span></span> Wikipedia The story became unusual almost immediately. Rather than entering public folklore through newspaper publication <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>, the photographs apparently vanished from public view. The witnesses reportedly submitted prints and negatives to the Scottish Daily Record, which then passed the material to the Ministry of Defence. The newspaper never published the images. The original negatives subsequently disappeared, and the identities of the photographers remained unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
+According to accounts later reconstructed by researchers, two men were walking on moorland near the hamlet of Calvine in Perthshire on 4 August 1990 when they reportedly saw a large diamond-shaped object hovering silently in the sky. They claimed the object remained visible for several minutes while a military jet circled nearby. The witnesses allegedly took a series of photographs before the object ascended rapidly and disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/the-calvine-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-title">the calvine ufo</span><span class="citation-popover-snippet">On the evening of August 4 1990, two witnesses in Calvine, Scotland, saw a vast, diamond-shaped UFO. The UFO hovered for about 10 minutes...</span></span></span> Wikipedia The story became unusual almost immediately. Rather than entering public folklore through newspaper publication<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>, the photographs apparently vanished from public view. The witnesses reportedly submitted prints and negatives to the Scottish Daily Record, which then passed the material to the Ministry of Defence. The newspaper never published the images. The original negatives subsequently disappeared, and the identities of the photographers remained unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
 
-For years, the strongest evidence that the photographs had existed came not from the photographs themselves but from official traces left behind. Declassified material released through The National Archives included a poor-quality photocopy and internal briefing references discussing a large diamond-shaped object and what officials believed was a Harrier aircraft visible in the image. One briefing note stated that no definite conclusion had been reached regarding the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</span></span></span>
+For years, the strongest evidence that the photographs had existed came not from the photographs themselves but from official traces left behind. Declassified material released through The National Archives included a poor-quality photocopy and internal briefing references discussing a large diamond-shaped object and what officials believed was a Harrier aircraft visible in the image. One briefing note stated that no definite conclusion had been reached regarding the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</span></span></span>
 
 This created a peculiar situation. Researchers knew that government officials had examined photographs, yet the public could not inspect the images that generated the discussion. The Calvine case became famous largely because the primary evidence was absent.
 
 ## Why the surfaced print matters
 
-The case changed dramatically in 2022 when researcher David Clarke revealed that a retired RAF press officer, Craig Lindsay, had retained a copy of one of the original prints. The image showed a dark diamond-shaped object suspended against a cloudy Scottish sky, with what appeared to be a military aircraft nearby. For the first time, the public could examine something close to the photograph that had circulated within official channels in 1990. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-snippet">Centre For Contemporary LegendCALVINEThe image concerned was taken by Dr David Clarke when collecting the print from Lindsay in June 2022...</span><span class="citation-popover-meta">Published: June 2022</span></span></span>
+The case changed dramatically in 2022 when researcher David Clarke revealed that a retired RAF press officer, Craig Lindsay, had retained a copy of one of the original prints. The image showed a dark diamond-shaped object suspended against a cloudy Scottish sky, with what appeared to be a military aircraft nearby. For the first time, the public could examine something close to the photograph that had circulated within official channels in 1990.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.co.uk">[Centre For Contemporary Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.co.uk</span><span class="citation-popover-snippet">Centre For Contemporary LegendCALVINEThe image concerned was taken by Dr David Clarke when collecting the print from Lindsay in June 2022...</span><span class="citation-popover-meta">Published: June 2022</span></span></span>
 
-The significance of the surfaced print was not that it solved the mystery. Instead, it solved a different question: whether the photograph itself had been exaggerated or invented through decades of retelling. The discovery established that a genuine photograph had existed and that descriptions in released government documents broadly matched the surviving image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
+The significance of the surfaced print was not that it solved the mystery. Instead, it solved a different question: whether the photograph itself had been exaggerated or invented through decades of retelling. The discovery established that a genuine photograph had existed and that descriptions in released government documents broadly matched the surviving image.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
 
 At the same time, the photograph highlighted the limitations of visual evidence.
 
@@ -273,7 +273,7 @@ Several key elements remain missing:
 * Only one known print has surfaced from the reported set of six photographs.
 * The photographers have never been conclusively identified.
 * The precise location and viewing geometry remain debated.
-* No independent technical examination of original negative material has been possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>, the image is simultaneously more credible and more frustrating than many famous UFO photographs. It has a stronger documentary history than countless anonymous internet images, yet lacks the complete evidential chain needed for definitive analysis.
+* No independent technical examination of original negative material has been possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>, the image is simultaneously more credible and more frustrating than many famous UFO photographs. It has a stronger documentary history than countless anonymous internet images, yet lacks the complete evidential chain needed for definitive analysis.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uDS3ahkAXdA" title="British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope • 179" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uDS3ahkAXdA" target="_blank" rel="noopener noreferrer">British UFO Head Exposes Most Chilling Alien Sighting in UK History | Nick Pope • 179</a></p><p class="youtube-embed-meta">Channel: Julian Dorey &middot; Views: 460.5K &middot; Uploaded: January 2024 &middot; Length: 3 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uDS3ahkAXdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uDS3ahkAXdA">Open on YouTube</a></p></div></div></div>
 
@@ -294,14 +294,14 @@ Photographs freeze a moment but remove context. They do not automatically preser
 
 </div>
 
-In the Calvine case, a dark diamond shape appears visually dramatic. Yet analysts disagree over whether it represents a large airborne object, a smaller nearby object, an optical illusion, or even a constructed hoax. Without the original negatives and a complete sequence of images, many of the most important questions remain difficult to answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Robinson Photographic Analysis Version5(Vo R</span><span class="citation-popover-snippet">PHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO...by A Robinson · 2025 — This paper is an updated version of the original analysis I produced i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 3</span><span class="citation-popover-snippet">Claim: Original Calvine UFO Photo &#124; Page 313 Aug 2022 — Interesting hoax photo found by David Clarke who re-discovered the Calvin...</span></span></span> This is why the strongest UFO investigations rarely rely on photographs alone. Radar returns, multiple witness accounts, flight records, physical traces and contemporaneous documentation generally provide more reliable paths toward identification than a single image.
+In the Calvine case, a dark diamond shape appears visually dramatic. Yet analysts disagree over whether it represents a large airborne object, a smaller nearby object, an optical illusion, or even a constructed hoax. Without the original negatives and a complete sequence of images, many of the most important questions remain difficult to answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Robinson Photographic Analysis Version5(Vo R</span><span class="citation-popover-snippet">PHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO...by A Robinson · 2025 — This paper is an updated version of the original analysis I produced i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 3</span><span class="citation-popover-snippet">Claim: Original Calvine UFO Photo &#124; Page 313 Aug 2022 — Interesting hoax photo found by David Clarke who re-discovered the Calvin...</span></span></span> This is why the strongest UFO investigations rarely rely on photographs alone. Radar returns, multiple witness accounts, flight records, physical traces and contemporaneous documentation generally provide more reliable paths toward identification than a single image.
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-2-dark.svg" | relative_url }}" alt="Calvine illustration 2" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The mirror, reflection and hoax arguments
 
-One of the most persistent sceptical interpretations is that the object may not have been a distant craft at all. Critics have suggested that the image could depict a small model or object suspended close to the camera, possibly photographed against a distant landscape. Others have argued that the apparent diamond could be a reflection in water or another visual illusion created by unusual viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 3</span><span class="citation-popover-snippet">Claim: Original Calvine UFO Photo &#124; Page 313 Aug 2022 — Interesting hoax photo found by David Clarke who re-discovered the Calvin...</span></span></span>
+One of the most persistent sceptical interpretations is that the object may not have been a distant craft at all. Critics have suggested that the image could depict a small model or object suspended close to the camera, possibly photographed against a distant landscape. Others have argued that the apparent diamond could be a reflection in water or another visual illusion created by unusual viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 3</span><span class="citation-popover-snippet">Claim: Original Calvine UFO Photo &#124; Page 313 Aug 2022 — Interesting hoax photo found by David Clarke who re-discovered the Calvin...</span></span></span>
 
-Supporters of the photograph counter that the overall scene appears difficult to reconcile with a simple prank. They point to the reported involvement of military officials, the existence of multiple photographs and the apparent aircraft visible in the frame. They also note that the image entered official channels during a period when defence authorities were still monitoring unusual aerial reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/the-calvine-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-title">the calvine ufo</span><span class="citation-popover-snippet">On the evening of August 4 1990, two witnesses in Calvine, Scotland, saw a vast, diamond-shaped UFO. The UFO hovered for about 10 minutes...</span></span></span>
+Supporters of the photograph counter that the overall scene appears difficult to reconcile with a simple prank. They point to the reported involvement of military officials, the existence of multiple photographs and the apparent aircraft visible in the frame. They also note that the image entered official channels during a period when defence authorities were still monitoring unusual aerial reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/the-calvine-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[2nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-title">the calvine ufo</span><span class="citation-popover-snippet">On the evening of August 4 1990, two witnesses in Calvine, Scotland, saw a vast, diamond-shaped UFO. The UFO hovered for about 10 minutes...</span></span></span>
 
 The difficulty is that both sides face missing evidence.
 
@@ -311,13 +311,13 @@ A hoax theory requires explaining why the image generated sustained official int
 
 Among non-extraterrestrial explanations, the secret aircraft hypothesis has become one of the most discussed.
 
-Researchers examining declassified material and witness recollections have noted that the sighting occurred during a period of intense speculation about American "black projects" and advanced aerospace programmes. Some accounts connected the image to rumours surrounding classified aircraft allegedly operating from UK-linked facilities during the late Cold War and Gulf War era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-snippet">Taipei TimesThe mystery behind the &#x27;best&#x27; UFO picture ever seen12 Feb 2025 — By 2009, he was using his encyclopedic knowledge of UFOs to...</span></span></span>
+Researchers examining declassified material and witness recollections have noted that the sighting occurred during a period of intense speculation about American "black projects" and advanced aerospace programmes. Some accounts connected the image to rumours surrounding classified aircraft allegedly operating from UK-linked facilities during the late Cold War and Gulf War era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-snippet">Taipei TimesThe mystery behind the &#x27;best&#x27; UFO picture ever seen12 Feb 2025 — By 2009, he was using his encyclopedic knowledge of UFOs to...</span></span></span>
 
-The theory gained attention because former officials reportedly suggested that defence personnel believed they understood the object's identity. According to later reporting, an intelligence source told David Clarke that the photographs had caused concern inside government circles but that the object was believed to be an experimental American aircraft rather than something extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine?</span><span class="citation-popover-snippet">The mystery behind...February 11, 2025 — 11 Feb 2025 — Clarke asked the former UFO hunter if he had seen anything “truly inexplicable” d...</span><span class="citation-popover-meta">Published: February 11, 2025</span></span></span>
+The theory gained attention because former officials reportedly suggested that defence personnel believed they understood the object's identity. According to later reporting, an intelligence source told David Clarke that the photographs had caused concern inside government circles but that the object was believed to be an experimental American aircraft rather than something extraterrestrial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine?</span><span class="citation-popover-snippet">The mystery behind...February 11, 2025 — 11 Feb 2025 — Clarke asked the former UFO hunter if he had seen anything “truly inexplicable” d...</span><span class="citation-popover-meta">Published: February 11, 2025</span></span></span>
 
 Yet this explanation also faces major obstacles.
 
-No publicly available documentation identifies a specific aircraft. No declassified programme has been conclusively linked to the image. The shape visible in the photograph does not correspond neatly to any acknowledged aircraft from the period. The theory therefore remains plausible but unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine?</span><span class="citation-popover-snippet">The mystery behind...February 11, 2025 — 11 Feb 2025 — Clarke asked the former UFO hunter if he had seen anything “truly inexplicable” d...</span><span class="citation-popover-meta">Published: February 11, 2025</span></span></span>
+No publicly available documentation identifies a specific aircraft. No declassified programme has been conclusively linked to the image. The shape visible in the photograph does not correspond neatly to any acknowledged aircraft from the period. The theory therefore remains plausible but unproven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine?</span><span class="citation-popover-snippet">The mystery behind...February 11, 2025 — 11 Feb 2025 — Clarke asked the former UFO hunter if he had seen anything “truly inexplicable” d...</span><span class="citation-popover-meta">Published: February 11, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u8vYE9PpPvc" title="UFO Insider Reveals Most INSANE UFO Photo Ever Captured" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u8vYE9PpPvc" target="_blank" rel="noopener noreferrer">UFO Insider Reveals Most INSANE UFO Photo Ever Captured</a></p><p class="youtube-embed-meta">Channel: Camp Gagnon &middot; Views: 63.8K &middot; Uploaded: March 2024 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u8vYE9PpPvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u8vYE9PpPvc">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +325,7 @@ No publicly available documentation identifies a specific aircraft. No declassif
 
 The Calvine story is sometimes presented as evidence that the Ministry of Defence secretly possessed proof of an extraordinary craft. The released record is more restrained.
 
-What the documentary trail clearly demonstrates is that officials received photographs, circulated copies and discussed possible explanations. Internal briefing material acknowledged uncertainty about the diamond-shaped object while expressing greater confidence regarding the aircraft visible nearby. Decades later, ministers stated that the Ministry of Defence no longer held the relevant records or photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</span></span></span>
+What the documentary trail clearly demonstrates is that officials received photographs, circulated copies and discussed possible explanations. Internal briefing material acknowledged uncertainty about the diamond-shaped object while expressing greater confidence regarding the aircraft visible nearby. Decades later, ministers stated that the Ministry of Defence no longer held the relevant records or photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</span></span></span>
 
 This distinction matters.
 
@@ -337,205 +337,205 @@ The files support the claim that officials took the photographs seriously enough
 
 The Calvine photograph occupies a unique place within the United Kingdom's UFO archive because it combines three elements rarely found together.
 
-First, there is a genuine official paper trail. Second, there is a surviving image rather than a purely verbal account. Third, there is a major evidential gap caused by the disappearance of the original negatives and the incomplete release of supporting material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
+First, there is a genuine official paper trail. Second, there is a surviving image rather than a purely verbal account. Third, there is a major evidential gap caused by the disappearance of the original negatives and the incomplete release of supporting material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
 
 That combination makes Calvine more valuable as a lesson in evidence than as proof of any particular explanation.
 
-For believers, the image appears unusually compelling because it looks unlike most easily debunked UFO photographs. For sceptics, it demonstrates how quickly uncertainty grows when provenance is incomplete. For historians of British UFO culture, it shows how government secrecy, media silence, lost records and later rediscovery can transform a single photograph into a decades-long mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O</span><span class="citation-popover-snippet">PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</span></span></span>
+For believers, the image appears unusually compelling because it looks unlike most easily debunked UFO photographs. For sceptics, it demonstrates how quickly uncertainty grows when provenance is incomplete. For historians of British UFO culture, it shows how government secrecy, media silence, lost records and later rediscovery can transform a single photograph into a decades-long mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O</span><span class="citation-popover-snippet">PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</span></span></span>
 
-The central question therefore remains unchanged since 1990. The photograph may be authentic as a photograph, but authenticity of the image is not the same thing as identification of the object. Calvine endures because those two issues are often confused, and because the surviving evidence is strong enough to sustain debate while remaining too incomplete to end it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Robinson Photographic Analysis Version5(Vo R</span><span class="citation-popover-snippet">PHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO...by A Robinson · 2025 — This paper is an updated version of the original analysis I produced i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
+The central question therefore remains unchanged since 1990. The photograph may be authentic as a photograph, but authenticity of the image is not the same thing as identification of the object. Calvine endures because those two issues are often confused, and because the surviving evidence is strong enough to sustain debate while remaining too incomplete to end it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Robinson Photographic Analysis Version5(Vo R</span><span class="citation-popover-snippet">PHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO...by A Robinson · 2025 — This paper is an updated version of the original analysis I produced i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Ministry of Defence</span><span class="citation-popover-snippet">Dr. David ClarkeMinistry of Defence &#124; - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</span></span></span>
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-3-dark.svg" | relative_url }}" alt="Calvine illustration 3" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_calvine_photo_ec53c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Calvine Photograph Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Calvine Photograph Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">One of the best-known books connected to the MoD UFO files era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">One of the best-known books connected to the MoD UFO files era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context for Calvine and declassified files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Calvine and declassified files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses evidential standards for photographic and official cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidential standards for photographic and official cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for assessing photographic evidence and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing photographic evidence and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-calvine-photograph-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-the-calvine-photograph-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ The central question therefore remains unchanged since 1990. The photograph may 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ The central question therefore remains unchanged since 1990. The photograph may 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ The central question therefore remains unchanged since 1990. The photograph may 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ The central question therefore remains unchanged since 1990. The photograph may 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ The central question therefore remains unchanged since 1990. The photograph may 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,154 +738,153 @@ The central question therefore remains unchanged since 1990. The photograph may 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
    Title: best ufo picture calvine photo found 30 years missing 1733673  
-   Link: <a href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But while Clarke admits the photo is &quot;by far the best UFO photograph&quot; he has ever seen...Read more...</p></details>
+   Link:<a href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But while Clarke admits the photo is &quot;by far the best UFO photograph&quot; he has ever seen...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nickpope.net  
    Title: the calvine ufo  
-   Link: <a href="https://nickpope.net/wpte19/the-calvine-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/the-calvine-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of August 4 1990, two witnesses in Calvine, Scotland, saw a vast, diamond-shaped UFO. The UFO hovered for about 10 minutes...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/the-calvine-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/the-calvine-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of August 4 1990, two witnesses in Calvine, Scotland, saw a vast, diamond-shaped UFO. The UFO hovered for about 10 minutes...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO photographThe Calvine UFO was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Per...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO photographThe Calvine UFO was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Per...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: shura.shu.ac.uk  
    Title: Robinson Photographic Analysis Version5(Vo R)  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO...by A Robinson · 2025 — This paper is an updated version of the original analysis I produced i...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO...by A Robinson · 2025 — This paper is an updated version of the original analysis I produced i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: page 3  
-   Link: <a href="https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: Original Calvine UFO Photo | Page 313 Aug 2022 — Interesting hoax photo found by David Clarke who re-discovered the Calvin...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-original-calvine-ufo-photo.12571/page-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: Original Calvine UFO Photo | Page 313 Aug 2022 — Interesting hoax photo found by David Clarke who re-discovered the Calvin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Apr 24, 2025 — This page provides a list of photographs related to UFOs and...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Apr 24, 2025 — This page provides a list of photographs related to UFOs and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke Ministry of Defence  
-   Link: <a href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/ministry-of-defence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David ClarkeMinistry of Defence | - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/ministry-of-defence/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/ministry-of-defence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David ClarkeMinistry of Defence | - Dr David Clarke13 Jul 2025 — Last year I told a freelance journalist how The National Archives ha...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesHighlights GuideImage (poor quality photocopy) of a large diamond-shaped UFO hovering over Calvine (Scotland) and what w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: drdavidclarke.co.uk  
    Title: 35 years of mystery  
-   Link: <a href="https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Clarke35 Years of Mystery | - Dr David ClarkeJul 13, 2025 — The image was one of six colour photographs allegedly taken by two myst...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2025/07/13/35-years-of-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Clarke35 Years of Mystery | - Dr David ClarkeJul 13, 2025 — The image was one of six colour photographs allegedly taken by two myst...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei TimesThe mystery behind the &#x27;best&#x27; UFO picture ever seen12 Feb 2025 — By 2009, he was using his encyclopedic knowledge of UFOs to...</p></details>
+   Link:<a href="https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/feat/archives/2025/02/12/2003831727</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei TimesThe mystery behind the &#x27;best&#x27; UFO picture ever seen12 Feb 2025 — By 2009, he was using his encyclopedic knowledge of UFOs to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre For Contemporary LegendCALVINEThe image concerned was taken by Dr David Clarke when collecting the print from Lindsay in June 2022...</p></details>
+   Link:<a href="https://contemporarylegend.co.uk/calvine/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/calvine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre For Contemporary LegendCALVINEThe image concerned was taken by Dr David Clarke when collecting the print from Lindsay in June 2022...</p></details>
    Published: June 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: drdavidclarke.co.uk  
    Title: the calvine photographs mod response to mps questions  
-   Link: <a href="https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine photographs – MoD response to MP&#x27;s questions |23 Oct 2022 — The Ministry of Defence no longer hold records about the mysterio...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/10/23/the-calvine-photographs-mod-response-to-mps-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine photographs – MoD response to MP&#x27;s questions |23 Oct 2022 — The Ministry of Defence no longer hold records about the mysterio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian What really happened in Calvine?  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind...February 11, 2025 — 11 Feb 2025 — Clarke asked the former UFO hunter if he had seen anything “truly inexplicable” d...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind...February 11, 2025 — 11 Feb 2025 — Clarke asked the former UFO hunter if he had seen anything “truly inexplicable” d...</p></details>
    Published: February 11, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O  
-   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: original source image of calvine ufo 1990  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wncba8/original_source_image_of_calvine_ufo_1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wncba8/original_source_image_of_calvine_ufo_1990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO Photo - World&#x27;s &#x27;best ever&#x27; UFO image taken in Scotland 1990... r/UFOs - Uap disclosure UFO Files, report 1950s. 196. 37. U...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wncba8/original_source_image_of_calvine_ufo_1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wncba8/original_source_image_of_calvine_ufo_1990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO Photo - World&#x27;s &#x27;best ever&#x27; UFO image taken in Scotland 1990... r/UFOs - Uap disclosure UFO Files, report 1950s. 196. 37. U...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/andythehighlander/posts/on-the-4th-of-august-1990-above-the-scottish-moors-near-the-quiet-hamlet-of-calv/1358033885693580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/andythehighlander/posts/on-the-4th-of-august-1990-above-the-scottish-moors-near-the-quiet-hamlet-of-calv/1358033885693580/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Andy the HighlanderSkeptics argue the object might be a secret military craft, a weather balloon, or even a hoax, while UFO enthusiasts b...</p></details>
+   Link:<a href="https://www.facebook.com/andythehighlander/posts/on-the-4th-of-august-1990-above-the-scottish-moors-near-the-quiet-hamlet-of-calv/1358033885693580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/andythehighlander/posts/on-the-4th-of-august-1990-above-the-scottish-moors-near-the-quiet-hamlet-of-calv/1358033885693580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Andy the HighlanderSkeptics argue the object might be a secret military craft, a weather balloon, or even a hoax, while UFO enthusiasts b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: behindthehedge.wordpress.com  
    Title: Behind the Hedge The Calvine UFO Photo | Behind the Hedge  
-   Link: <a href="https://behindthehedge.wordpress.com/2023/03/14/the-calvine-ufo-photo/" target="_blank" rel="noopener noreferrer nofollow">https://behindthehedge.wordpress.com/2023/03/14/the-calvine-ufo-photo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1990 were strolling about in rural Scotland and took some pictures of an object they said they saw flying about. They gave the photos and...</p></details>
+   Link:<a href="https://behindthehedge.wordpress.com/2023/03/14/the-calvine-ufo-photo/" target="_blank" rel="noopener noreferrer nofollow">https://behindthehedge.wordpress.com/2023/03/14/the-calvine-ufo-photo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1990 were strolling about in rural Scotland and took some pictures of an object they said they saw flying about. They gave the photos and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/18gzh51/the_1990_calvine_ufo_photo_perthshire_scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/18gzh51/the_1990_calvine_ufo_photo_perthshire_scotland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1990 Calvine UFO photo, Perthshire, Scotland: r/aliensCalvine photo possibility at Loch Tummel, which is just south of Calvine...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/18gzh51/the_1990_calvine_ufo_photo_perthshire_scotland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/18gzh51/the_1990_calvine_ufo_photo_perthshire_scotland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1990 Calvine UFO photo, Perthshire, Scotland: r/aliensCalvine photo possibility at Loch Tummel, which is just south of Calvine...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/histimages/posts/3409352685983850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/histimages/posts/3409352685983850/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Calvine photo”, taken in Perthshire in 1990 is...What was the Calvine UFO incident and why was it classified for 30 years?...</p></details>
+   Link:<a href="https://www.facebook.com/groups/histimages/posts/3409352685983850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/histimages/posts/3409352685983850/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “Calvine photo”, taken in Perthshire in 1990 is...What was the Calvine UFO incident and why was it classified for 30 years?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: the government hid this photo until 2022 now we  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1oljm1s/the_government_hid_this_photo_until_2022_now_we/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oljm1s/the_government_hid_this_photo_until_2022_now_we/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government Hid This Photo Until 2022. Now We Know...The iconic Calvine UFO photo you&#x27;ve seen throughout this video wasn&#x27;t seen again...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1oljm1s/the_government_hid_this_photo_until_2022_now_we/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oljm1s/the_government_hid_this_photo_until_2022_now_we/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Government Hid This Photo Until 2022. Now We Know...The iconic Calvine UFO photo you&#x27;ve seen throughout this video wasn&#x27;t seen again...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Clarke released the photo on August 2022 via the sun and daily mail etc. The ministry of defence have acknowledged the ot...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Clarke released the photo on August 2022 via the sun and daily mail etc. The ministry of defence have acknowledged the ot...</p></details>
    Published: August 2022  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: calvine ufo photo worlds best ever ufo image  
-   Link: <a href="https://www.reddit.com/r/CasualUK/comments/wo9e22/calvine_ufo_photo_worlds_best_ever_ufo_image/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CasualUK/comments/wo9e22/calvine_ufo_photo_worlds_best_ever_ufo_image/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s &#x27;best ever&#x27; UFO image taken in Scotland 1990...&quot;It was silent and shot straight up and out of sight&quot; - Infamous &quot;Calvine UAP&quot; ph...</p></details>
+   Link:<a href="https://www.reddit.com/r/CasualUK/comments/wo9e22/calvine_ufo_photo_worlds_best_ever_ufo_image/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CasualUK/comments/wo9e22/calvine_ufo_photo_worlds_best_ever_ufo_image/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s &#x27;best ever&#x27; UFO image taken in Scotland 1990...&quot;It was silent and shot straight up and out of sight&quot; - Infamous &quot;Calvine UAP&quot; ph...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: westcoasttoday.co.uk  
-   Link: <a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that he was a chef in the Fisher&#x27;s Hotel in Pitlochry in 1990...</p></details>
+   Link:<a href="https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer" target="_blank" rel="noopener noreferrer nofollow">https://www.westcoasttoday.co.uk/news/documentarians-need-help-to-identify-calvine-ufo-photographer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that he was a chef in the Fisher&#x27;s Hotel in Pitlochry in 1990...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: simplyarchivists.wordpress.com  
    Title: Thirty years have passed since then,  
-   Link: <a href="https://simplyarchivists.wordpress.com/2020/10/18/the-truth-is-out-there-foia-and-the-calvine-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://simplyarchivists.wordpress.com/2020/10/18/the-truth-is-out-there-foia-and-the-calvine-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth Is Out There: FOIA and the Calvine UFO sightingOct 18, 2020 — In 1990, one of the most famous UFO sightings in Britain occurred ove...</p></details>
+   Link:<a href="https://simplyarchivists.wordpress.com/2020/10/18/the-truth-is-out-there-foia-and-the-calvine-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://simplyarchivists.wordpress.com/2020/10/18/the-truth-is-out-there-foia-and-the-calvine-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truth Is Out There: FOIA and the Calvine UFO sightingOct 18, 2020 — In 1990, one of the most famous UFO sightings in Britain occurred ove...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arranbanner/posts/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138096012818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arranbanner/posts/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138096012818/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK ministry of national defense...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/arranbanner/posts/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138096012818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arranbanner/posts/the-calvine-ufo-is-one-of-the-most-mysterious-photos-ever-taken-in-scotland-nobo/1561138096012818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK ministry of national defense...Read more...</p></details>

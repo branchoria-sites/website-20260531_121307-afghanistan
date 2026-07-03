@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /canada-cd6a7b-index/
 description: Focused pages that expand on What Canada UFO Reports Really Show.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Canada_cd6a7b
 parent_title: What Canada UFO Reports Really Show
@@ -16,7 +16,7 @@ parent_permalink: /what-canada-ufo-reports-really-show/
 
 # Explore Topics in What Canada UFO Reports Really Show
 
-The following pages expand on the main **[What Canada UFO Reports Really Show]({{ '/what-canada-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Canada UFO Reports Really Show]({{ '/what-canada-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Reporting]({{ '/reporting-f4bb1f/' | relative_url }})
 - [Archives]({{ '/archives-85c745/' | relative_url }})

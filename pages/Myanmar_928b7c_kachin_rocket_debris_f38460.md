@@ -254,14 +254,14 @@ image: /assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-1-
 
 ## Introduction
 
-In November 2016 a dramatic incident in northern **Kachin State**, **Myanmar** briefly grabbed global media attention and local imaginations alike: a massive metallic object plummeted out of the sky and crashed into a jade‑mining area near **Hpakant** township, startling villagers with a loud boom and shaking the ground upon impact. Early local reactions speculated wildly, with some witnesses describing the fall as a “UFO” or an unidentified object from the heavens. Subsequent reporting and expert analysis, however, placed the event within the well‑understood phenomenon of **rocket debris re‑entry** — hardware from space missions that survive atmospheric descent and hit the ground far from launch sites. This case exemplifies how sensational descriptions can mask ordinary [explanations]({{ 'explanations-88f664/' | relative_url }}), illuminating common pitfalls in interpreting dramatic aerial debris as unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
+In November 2016 a dramatic incident in northern **Kachin State**, **Myanmar** briefly grabbed global media attention and local imaginations alike: a massive metallic object plummeted out of the sky and crashed into a jade‑mining area near **Hpakant** township, startling villagers with a loud boom and shaking the ground upon impact. Early local reactions speculated wildly, with some witnesses describing the fall as a “UFO” or an unidentified object from the heavens. Subsequent reporting and expert analysis, however, placed the event within the well‑understood phenomenon of **rocket debris re‑entry** — hardware from space missions that survive atmospheric descent and hit the ground far from launch sites. This case exemplifies how sensational descriptions can mask ordinary [explanations]({{ 'explanations-88f664/' | relative_url }}), illuminating common pitfalls in interpreting dramatic aerial debris as unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-1-dark.svg" | relative_url }}" alt="Kachin Debris illustration 1" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Fell in Kachin State and How It Was Seen
 
-On **10 November 2016**, residents near a jade mine in Hpakant township were jolted awake by a loud explosion‑like sound and saw a large metallic object embedded in mud on land owned by a mining company. The main object was described as a **barrel‑shaped metal cylinder** roughly **4.5 metres long and just over 1 metre in diameter**, with smaller fragments, one bearing **Chinese characters**, also recovered nearby — one reportedly crashing through a house roof. No injuries were reported, but the dramatic nature of the fall, including the object reportedly **bouncing 50 metres** after impact, added to the spectacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
+On **10 November 2016**, residents near a jade mine in Hpakant township were jolted awake by a loud explosion‑like sound and saw a large metallic object embedded in mud on land owned by a mining company. The main object was described as a **barrel‑shaped metal cylinder** roughly **4.5 metres long and just over 1 metre in diameter**, with smaller fragments, one bearing **Chinese characters**, also recovered nearby — one reportedly crashing through a house roof. No injuries were reported, but the dramatic nature of the fall, including the object reportedly **bouncing 50 metres** after impact, added to the spectacle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
 
-Local villagers initially interpreted the event as an explosion or attack. One resident, Ko Maung Myo, recounted that they first thought the noise was artillery and, upon inspection, found what appeared to be **engine‑like hardware and wiring** attached to the debris. Images circulated on social media showing exposed electronics and copper wiring inside the large cylinder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.co.uk/huge-mysterious-metal-object-lands-northern-myanmar-1591128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-title">huge mysterious metal object lands northern myanmar 1591128</span><span class="citation-popover-snippet">International Business Times UKMyanmar: Huge mysterious metal object lands in Kachin state &#124; IBTimes UKNovember 11, 2016...</span><span class="citation-popover-meta">Published: November 11, 2016</span></span></span>
+Local villagers initially interpreted the event as an explosion or attack. One resident, Ko Maung Myo, recounted that they first thought the noise was artillery and, upon inspection, found what appeared to be **engine‑like hardware and wiring** attached to the debris. Images circulated on social media showing exposed electronics and copper wiring inside the large cylinder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.co.uk/huge-mysterious-metal-object-lands-northern-myanmar-1591128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-title">huge mysterious metal object lands northern myanmar 1591128</span><span class="citation-popover-snippet">International Business Times UKMyanmar: Huge mysterious metal object lands in Kachin state &#124; IBTimes UKNovember 11, 2016...</span><span class="citation-popover-meta">Published: November 11, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N1K1rt0ral8" title="Remnants of Chinese rocket expected to crash into Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N1K1rt0ral8" target="_blank" rel="noopener noreferrer">Remnants of Chinese rocket expected to crash into Earth</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 312.7K &middot; Uploaded: May 2021 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N1K1rt0ral8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N1K1rt0ral8">Open on YouTube</a></p></div></div></div>
 
@@ -269,20 +269,20 @@ Local villagers initially interpreted the event as an explosion or attack. One r
 
 The incident quickly gained attention under sensational headlines referencing “UFOs” or unidentified objects falling from space, in part because of the lack of immediate official identification and the dramatic visuals of a large metallic tube in a remote landscape. These initial narratives mirrored a wider tendency in sensational reporting on aerial anomalies to foreground mystery over mundane cause.
 
-Space and rocket experts weighed in soon after, offering evidence pointing to a **terrestrial origin** consistent with known patterns for *rocket stage re‑entry debris*. On the same day the object landed, space trackers had recorded a Chinese **Long March 11** (CZ‑11) rocket launching from the **Jiuquan Satellite Launch Centre** with multiple satellites aboard. Myanmar’s position south of Jiuquan put it along the southern trajectory of that launch, making it plausible for expendable stages intended to fall back to Earth to land in northern Myanmar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
+Space and rocket experts weighed in soon after, offering evidence pointing to a **terrestrial origin** consistent with known patterns for *rocket stage re‑entry debris*. On the same day the object landed, space trackers had recorded a Chinese **Long March 11** (CZ‑11) rocket launching from the **Jiuquan Satellite Launch Centre** with multiple satellites aboard. Myanmar’s position south of Jiuquan put it along the southern trajectory of that launch, making it plausible for expendable stages intended to fall back to Earth to land in northern Myanmar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
 
-A Dutch science blogger and satellite tracker compared the dimensions of the object to known rocket stage specifications, concluding that the shape matched parts of the Long March 11 vehicle — particularly the second (or possibly third) stage hardware released during ascent — and noting that its impact site lay along the launch corridor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coconuts.co">[Coconuts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coconuts.co</span><span class="citation-popover-title">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts</span><span class="citation-popover-snippet">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts...</span></span></span>
+A Dutch science blogger and satellite tracker compared the dimensions of the object to known rocket stage specifications, concluding that the shape matched parts of the Long March 11 vehicle — particularly the second (or possibly third) stage hardware released during ascent — and noting that its impact site lay along the launch corridor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coconuts.co">[Coconuts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coconuts.co</span><span class="citation-popover-title">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts</span><span class="citation-popover-snippet">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts...</span></span></span>
 
-Experts emphasised that **space debris re‑entry events**, while relatively rare, are not unknown. Large expendable rocket segments usually detach and re‑enter the atmosphere downrange of launch sites; the Long March family of rockets typically jettisons upper stages before orbital insertion. In controlled missions, these are planned to fall into the ocean or sparsely inhabited regions. However, on occasion, debris can survive re‑entry and land inland, particularly without precise de‑orbiting control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment4</span><span class="citation-popover-snippet">Abandoned Rocket Bodies More than six decades afFebruary 22, 2026...</span><span class="citation-popover-meta">Published: February 22, 2026</span></span></span> University Press & Assessment
+Experts emphasised that **space debris re‑entry events**, while relatively rare, are not unknown. Large expendable rocket segments usually detach and re‑enter the atmosphere downrange of launch sites; the Long March family of rockets typically jettisons upper stages before orbital insertion. In controlled missions, these are planned to fall into the ocean or sparsely inhabited regions. However, on occasion, debris can survive re‑entry and land inland, particularly without precise de‑orbiting control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment4</span><span class="citation-popover-snippet">Abandoned Rocket Bodies More than six decades afFebruary 22, 2026...</span><span class="citation-popover-meta">Published: February 22, 2026</span></span></span> University Press & Assessment
 
 <img src="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-2-dark.svg" | relative_url }}" alt="Kachin Debris illustration 2" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Case Was Interpreted and Misinterpreted
 
 The **UFO framing** largely stemmed from two factors: the object’s unfamiliar look to ground‑level observers and the absence of immediate confirmation from official sources. Without an early expert explanation, local media and social‑media discussions were open to dramatic interpretation, including suggestions of extraterrestrial origin.
 
-Major international outlets initially ran stories that highlighted the mystery aspect, citing villagers’ reactions and the lack of official origin verification. Some reports speculated the object might be engine parts from a missile, aircraft, or satellite. These descriptions, while sometimes cautious, nonetheless contributed to the perception of an unusual sky object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.natureworldnews.com/articles/31755/20161113/ufo-space-china-space-junk-space-debris-mystery-ufo-myanmar-mysterious-space-junk.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natureworldnews.com">[Nature World News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natureworldnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Major international outlets initially ran stories that highlighted the mystery aspect, citing villagers’ reactions and the lack of official origin verification. Some reports speculated the object might be engine parts from a missile, aircraft, or satellite. These descriptions, while sometimes cautious, nonetheless contributed to the perception of an unusual sky object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.natureworldnews.com/articles/31755/20161113/ufo-space-china-space-junk-space-debris-mystery-ufo-myanmar-mysterious-space-junk.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natureworldnews.com">[Nature World News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natureworldnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case was later clarified by orbit analysts and space enthusiasts who connected the debris to the Long March 11 launch. Although official confirmation from Chinese space authorities was absent, the circumstantial trajectory data and physical match made the terrestrial explanation compelling and credible within the broader context of space debris science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coconuts.co">[Coconuts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coconuts.co</span><span class="citation-popover-title">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts</span><span class="citation-popover-snippet">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts...</span></span></span>
+The case was later clarified by orbit analysts and space enthusiasts who connected the debris to the Long March 11 launch. Although official confirmation from Chinese space authorities was absent, the circumstantial trajectory data and physical match made the terrestrial explanation compelling and credible within the broader context of space debris science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coconuts.co">[Coconuts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coconuts.co</span><span class="citation-popover-title">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts</span><span class="citation-popover-snippet">Dutch science blogger identifies Kachin State &#x27;UFO&#x27; &#124; Coconuts...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yHqeZu3MYcQ" title="World braces for out-of-control Chinese rocket&#x27;s remnants return to Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yHqeZu3MYcQ" target="_blank" rel="noopener noreferrer">World braces for out-of-control Chinese rocket&#x27;s remnants return to Earth</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 225.7K &middot; Uploaded: May 2021 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yHqeZu3MYcQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yHqeZu3MYcQ">Open on YouTube</a></p></div></div></div>
 
@@ -292,206 +292,206 @@ The Kachin incident offers several insights into how dramatic aerial events can 
 
 * **Trajectory and timing matter:** Aligning reported debris strikes with known rocket launches or re‑entry events helps disambiguate unexplained sightings quickly.
 * **Physical context reduces mystery:** Large rocket stages often look unusual at ground level to untrained eyes. Expert analysis of size, material, markings, and wiring usually ties such fragments to known hardware.
-* **Space debris is a known phenomenon:** Uncontrolled re‑entries of rocket hardware occur globally and have produced documented cases far from launch sites, without implying anything beyond human space activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment4</span><span class="citation-popover-snippet">Abandoned Rocket Bodies More than six decades afFebruary 22, 2026...</span><span class="citation-popover-meta">Published: February 22, 2026</span></span></span> University Press & Assessment
+* **Space debris is a known phenomenon:** Uncontrolled re‑entries of rocket hardware occur globally and have produced documented cases far from launch sites, without implying anything beyond human space activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment4</span><span class="citation-popover-snippet">Abandoned Rocket Bodies More than six decades afFebruary 22, 2026...</span><span class="citation-popover-meta">Published: February 22, 2026</span></span></span> University Press & Assessment
 
 By situating dramatic events like the Kachin crash within established space engineering practices and debris patterns, observers and analysts can avoid conflating unfamiliar hardware with unexplained or extraterrestrial phenomena.
 
 <img src="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-3-dark.svg" | relative_url }}" alt="Kachin Debris illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_kachin_rocket_debris_f38460-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Broader Context Within Myanmar UFO Reports
 
-Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands out because it involved **physical debris rather than merely eyewitness sightings**. It exemplifies the risks of leaping to exotic conclusions when a terrestrial explanation — here, rocket debris — fits the available evidence. Understanding such episodes helps ground future inquiries into sky phenomena in **verifiable data** and established physical mechanisms rather than unresolved speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
+Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands out because it involved **physical debris rather than merely eyewitness sightings**. It exemplifies the risks of leaping to exotic conclusions when a terrestrial explanation — here, rocket debris — fits the available evidence. Understanding such episodes helps ground future inquiries into sky phenomena in **verifiable data** and established physical mechanisms rather than unresolved speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-snippet">Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</span><span class="citation-popover-meta">Published: November 14, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtDjfbEWg20" title="Space debris from Chinese rocket fall to Earth, but no one knows where it will land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtDjfbEWg20" target="_blank" rel="noopener noreferrer">Space debris from Chinese rocket fall to Earth, but no one knows where it will land</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 207.5K &middot; Uploaded: May 2021 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtDjfbEWg20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtDjfbEWg20">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Kachin Crash Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Kachin Crash Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines common sources of UFO misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines common sources of UFO misidentification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a case ultimately linked to likely rocket debris and mistaken UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a case ultimately linked to likely rocket debris and mistaken UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Useful for understanding official investigation of aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding official investigation of aerial incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts stronger documented cases with events having conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts stronger documented cases with events having conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kachin-crash-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kachin-crash-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -694,114 +694,113 @@ Within Myanmar’s broader catalogue of aerial anomaly reports, this case stands
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencealert.com  
-   Link: <a href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</p></details>
+   Link:<a href="https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/it-looks-like-part-of-a-chinese-rocket-crash-landed-next-to-a-myanmar-village</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fragments of a Suspected Chinese Rocket Have Crash-Landed Next to a Village in Myanmar: ScienceAlertNovember 14, 2016...</p></details>
    Published: November 14, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ibtimes.co.uk  
    Title: huge mysterious metal object lands northern myanmar 1591128  
-   Link: <a href="https://www.ibtimes.co.uk/huge-mysterious-metal-object-lands-northern-myanmar-1591128" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/huge-mysterious-metal-object-lands-northern-myanmar-1591128</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKMyanmar: Huge mysterious metal object lands in Kachin state | IBTimes UKNovember 11, 2016...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/huge-mysterious-metal-object-lands-northern-myanmar-1591128" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/huge-mysterious-metal-object-lands-northern-myanmar-1591128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKMyanmar: Huge mysterious metal object lands in Kachin state | IBTimes UKNovember 11, 2016...</p></details>
    Published: November 11, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: coconuts.co  
    Title: Dutch science blogger identifies Kachin State 'UFO' | Coconuts  
-   Link: <a href="https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch science blogger identifies Kachin State &#x27;UFO&#x27; | Coconuts...</p></details>
+   Link:<a href="https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://coconuts.co/yangon/news/dutch-science-blogger-identifies-kachin-state-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch science blogger identifies Kachin State &#x27;UFO&#x27; | Coconuts...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment4  
-   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abandoned Rocket Bodies More than six decades afFebruary 22, 2026...</p></details>
+   Link:<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9DEA61F24E8326B49CC00304543823B/9781108497831c4_114-129.pdf/abandoned-rocket-bodies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abandoned Rocket Bodies More than six decades afFebruary 22, 2026...</p></details>
    Published: February 22, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mystery-debris-that-could-be-from-chinese-satellite-hits-mine-10653312" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mystery-debris-that-could-be-from-chinese-satellite-hits-mine-10653312</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsMystery debris that could be from Chinese satellite hits mine | World News | Sky News...</p></details>
+   Link:<a href="https://news.sky.com/story/mystery-debris-that-could-be-from-chinese-satellite-hits-mine-10653312" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mystery-debris-that-could-be-from-chinese-satellite-hits-mine-10653312</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsMystery debris that could be from Chinese satellite hits mine | World News | Sky News...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: natureworldnews.com  
-   Link: <a href="https://www.natureworldnews.com/articles/31755/20161113/ufo-space-china-space-junk-space-debris-mystery-ufo-myanmar-mysterious-space-junk.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.natureworldnews.com/articles/31755/20161113/ufo-space-china-space-junk-space-debris-mystery-ufo-myanmar-mysterious-space-junk.htm</a>  
+   Link:<a href="https://www.natureworldnews.com/articles/31755/20161113/ufo-space-china-space-junk-space-debris-mystery-ufo-myanmar-mysterious-space-junk.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.natureworldnews.com/articles/31755/20161113/ufo-space-china-space-junk-space-debris-mystery-ufo-myanmar-mysterious-space-junk.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ibtimes.sg  
    Title: * By Jacob J November 12,  
-   Link: <a href="https://www.ibtimes.sg/myanmar-investigates-mysterious-space-debris-jade-mining-area-4644" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.sg/myanmar-investigates-mysterious-space-debris-jade-mining-area-4644</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Myanmar investigates mysterious space debris in jade mining areaNovember 12, 2016 — MYANMAR INVESTIGATES MYSTERIOUS SPACE DEBRIS IN JADE...</p></details>
+   Link:<a href="https://www.ibtimes.sg/myanmar-investigates-mysterious-space-debris-jade-mining-area-4644" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.sg/myanmar-investigates-mysterious-space-debris-jade-mining-area-4644</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myanmar investigates mysterious space debris in jade mining areaNovember 12, 2016 — MYANMAR INVESTIGATES MYSTERIOUS SPACE DEBRIS IN JADE...</p></details>
    Published: November 12, 2016  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/news/world/large-metal-mystery-object-falls-from-sky-in-myanmar-a3393646.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/world/large-metal-mystery-object-falls-from-sky-in-myanmar-a3393646.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Large metal mystery object falls from sky&#x27; in Myanmar | London Evening Standard | The StandardNovember 11, 2016 — &#x27;LARGE METAL MYSTERY O...</p></details>
+   Link:<a href="https://www.standard.co.uk/news/world/large-metal-mystery-object-falls-from-sky-in-myanmar-a3393646.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/world/large-metal-mystery-object-falls-from-sky-in-myanmar-a3393646.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Large metal mystery object falls from sky&#x27; in Myanmar | London Evening Standard | The StandardNovember 11, 2016 — &#x27;LARGE METAL MYSTERY O...</p></details>
    Published: November 11, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/fallen-from-the-sky-mysterious-debris-crash-lands-in-northern-myanmar/story-hPva2Bp8FZyPvtNsbCKQML.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/fallen-from-the-sky-mysterious-debris-crash-lands-in-northern-myanmar/story-hPva2Bp8FZyPvtNsbCKQML.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2016 — FALLEN FROM THE SKY: MYSTERIOUS DEBRIS CRASH-LANDS IN NORTHERN MYANMAR THE LARGE BARREL-SHAPED OBJECT, 4.5 METRES (15...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/fallen-from-the-sky-mysterious-debris-crash-lands-in-northern-myanmar/story-hPva2Bp8FZyPvtNsbCKQML.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/fallen-from-the-sky-mysterious-debris-crash-lands-in-northern-myanmar/story-hPva2Bp8FZyPvtNsbCKQML.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2016 — FALLEN FROM THE SKY: MYSTERIOUS DEBRIS CRASH-LANDS IN NORTHERN MYANMAR THE LARGE BARREL-SHAPED OBJECT, 4.5 METRES (15...</p></details>
    Published: November 11, 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: taipeitimes.com  
    Title: Mysterious metal debris crash-lands in northern Myanmar, state media report  
-   Link: <a href="https://www.taipeitimes.com/News/world/archives/2016/11/12/2003659110" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2016/11/12/2003659110</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei TimesNovember 12, 2016 — SAT, NOV 12, 2016 PAGE6 * # Mysterious metal debris crash-lands in northern Myanmar, state media report *...</p></details>
+   Link:<a href="https://www.taipeitimes.com/News/world/archives/2016/11/12/2003659110" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2016/11/12/2003659110</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei TimesNovember 12, 2016 — SAT, NOV 12, 2016 PAGE6 * # Mysterious metal debris crash-lands in northern Myanmar, state media report *...</p></details>
    Published: November 12, 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: Photograph: Facebook Residents reported hearing an explosion as the object  
-   Link: <a href="https://www.theguardian.com/p/5bb2c" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/p/5bb2c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large metal cylinder crashes to earth in Myanmar | Myanmar | The GuardianNovember 11, 2016 — Residents reported hearing an explosion as t...</p></details>
+   Link:<a href="https://www.theguardian.com/p/5bb2c" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/p/5bb2c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Large metal cylinder crashes to earth in Myanmar | Myanmar | The GuardianNovember 11, 2016 — Residents reported hearing an explosion as t...</p></details>
    Published: November 11, 2016  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2016/nov/11/large-metal-object-chinese-satellite-crashes-earth-myanmar" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2016/nov/11/large-metal-object-chinese-satellite-crashes-earth-myanmar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large metal cylinder crashes to earth in Myanmar | Myanmar | The GuardianNovember 11, 2016 — Residents reported hearing an explosion as t...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2016/nov/11/large-metal-object-chinese-satellite-crashes-earth-myanmar" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2016/nov/11/large-metal-object-chinese-satellite-crashes-earth-myanmar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Large metal cylinder crashes to earth in Myanmar | Myanmar | The GuardianNovember 11, 2016 — Residents reported hearing an explosion as t...</p></details>
    Published: November 11, 2016  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationthailand.com  
    Title: Mysterious debris crash-lands in northern Myanmar: state media  
-   Link: <a href="https://www.nationthailand.com/in-focus/30299735" target="_blank" rel="noopener noreferrer nofollow">https://www.nationthailand.com/in-focus/30299735</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2016 — In Focus MYSTERIOUS DEBRIS CRASH-LANDS IN NORTHERN MYANMAR: STATE MEDIA FRIDAY, NOVEMBER 11, 2016 | Agence France-Pre...</p></details>
+   Link:<a href="https://www.nationthailand.com/in-focus/30299735" target="_blank" rel="noopener noreferrer nofollow">https://www.nationthailand.com/in-focus/30299735</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2016 — In Focus MYSTERIOUS DEBRIS CRASH-LANDS IN NORTHERN MYANMAR: STATE MEDIA FRIDAY, NOVEMBER 11, 2016 | Agence France-Pre...</p></details>
    Published: November 11, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: atlasobscura.com  
    Title: Mystery Space Junk Crashes Into Myanmar  
-   Link: <a href="https://www.atlasobscura.com/articles/mystery-space-junk-crashes-into-myanmar" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/mystery-space-junk-crashes-into-myanmar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Eric Grundhauser November 11, 2016 Image: Where did this cosmic crap come from?Where did this cosmic crap come from? While the metap...</p></details>
+   Link:<a href="https://www.atlasobscura.com/articles/mystery-space-junk-crashes-into-myanmar" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/mystery-space-junk-crashes-into-myanmar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Eric Grundhauser November 11, 2016 Image: Where did this cosmic crap come from?Where did this cosmic crap come from? While the metap...</p></details>
    Published: November 11, 2016  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thedailystar.net  
    Title: Debris from space lands in Myanmar  
-   Link: <a href="https://www.thedailystar.net/world/debris-space-lands-myanmar-1313500" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailystar.net/world/debris-space-lands-myanmar-1313500</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2016 — DEBRIS FROM SPACE LANDS IN MYANMAR 11 November 2016, 18:00 PM UPDATED 12 November 2016, 00:04 AM WORLD Afp, Yangon Im...</p></details>
+   Link:<a href="https://www.thedailystar.net/world/debris-space-lands-myanmar-1313500" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailystar.net/world/debris-space-lands-myanmar-1313500</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2016 — DEBRIS FROM SPACE LANDS IN MYANMAR 11 November 2016, 18:00 PM UPDATED 12 November 2016, 00:04 AM WORLD Afp, Yangon Im...</p></details>
    Published: November 11, 2016  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=tPVfxliaUXI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tPVfxliaUXI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Unidentified Object Crashes in Myanmar The Red Phoenix · 7.5K views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=tPVfxliaUXI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tPVfxliaUXI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Unidentified Object Crashes in Myanmar The Red Phoenix · 7.5K views...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: popularmechanics.com  
    Title: myanmar metal cylinder falls sky  
-   Link: <a href="https://www.popularmechanics.com/space/rockets/a23839/myanmar-metal-cylinder-falls-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/rockets/a23839/myanmar-metal-cylinder-falls-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Hunk of Metal—Possibly From a Chinese Rocket—Falls Out of the Sky in MyanmarNovember 11, 2016 — BIG HUNK OF METAL—POSSIBLY FROM A CHI...</p></details>
+   Link:<a href="https://www.popularmechanics.com/space/rockets/a23839/myanmar-metal-cylinder-falls-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/rockets/a23839/myanmar-metal-cylinder-falls-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Hunk of Metal—Possibly From a Chinese Rocket—Falls Out of the Sky in MyanmarNovember 11, 2016 — BIG HUNK OF METAL—POSSIBLY FROM A CHI...</p></details>
    Published: November 11, 2016

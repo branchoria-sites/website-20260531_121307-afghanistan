@@ -257,7 +257,7 @@ image: /assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-1
 Many unusual sky reports linked to Turkmenistan become less mysterious when viewed in their wider Central Asian setting. The country sits beneath vast desert skies, has relatively low light pollution in many regions, lies near international borders, and shares airspace corridors with neighbouring states. Under those conditions, meteors, satellite trains, rocket re-entries, military aircraft, atmospheric effects, and distant lights can appear unfamiliar or dramatic to observers on the ground.
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-1-dark.svg" | relative_url }}" alt="Sky Context illustration 1" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every reported aerial anomaly is automatically explained. Rather, the available evidence suggests that a large proportion of borderland sightings around Turkmenistan can plausibly be connected to ordinary astronomical, aerospace, or atmospheric events before more exotic explanations are considered. Understanding those possibilities helps place the country's sparse UFO record into a more realistic context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">The Times Of Central Asia Bright Objects in the Sky?</span><span class="citation-popover-snippet">Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+This does not mean every reported aerial anomaly is automatically explained. Rather, the available evidence suggests that a large proportion of borderland sightings around Turkmenistan can plausibly be connected to ordinary astronomical, aerospace, or atmospheric events before more exotic explanations are considered. Understanding those possibilities helps place the country's sparse UFO record into a more realistic context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">The Times Of Central Asia Bright Objects in the Sky?</span><span class="citation-popover-snippet">Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 ## Borderland Reports Near Turkmenistan
 
@@ -265,9 +265,9 @@ Turkmenistan occupies a geographically unusual position. It borders Kazakhstan, 
 
 The eastern city of [Turkmenabat]({{ 'turkmenabat/' | relative_url }}), which features prominently in the limited documented UFO-related record of the country, lies close to the Uzbek border. In such regions, observers may see lights or aircraft operating far beyond the frontier while having little way to judge distance, altitude, or national origin. A bright object over a neighbouring state can appear local when viewed across a flat desert horizon.
 
-This borderland effect is especially important because the public record for Turkmenistan itself is thin. There is no extensive archive of investigated national cases. Instead, scattered reports from nearby regions sometimes become incorporated into broader narratives about unexplained activity over Turkmenistan. The result is a mixture of local observations, regional folklore, and cross-border reports that are not always easy to separate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufos-over-kazakhstan-central-asia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">UFOs over Kazakhstan, Central AsiaJune 15, 2016 — 15 Jun 2016 — UFOs over Kazakhstan, Central Asia; Kazakhstan (Credit: Google Maps); A...</span><span class="citation-popover-meta">Published: June 15, 2016</span></span></span>
+This borderland effect is especially important because the public record for Turkmenistan itself is thin. There is no extensive archive of investigated national cases. Instead, scattered reports from nearby regions sometimes become incorporated into broader narratives about unexplained activity over Turkmenistan. The result is a mixture of local observations, regional folklore, and cross-border reports that are not always easy to separate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufos-over-kazakhstan-central-asia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">UFOs over Kazakhstan, Central AsiaJune 15, 2016 — 15 Jun 2016 — UFOs over Kazakhstan, Central Asia; Kazakhstan (Credit: Google Maps); A...</span><span class="citation-popover-meta">Published: June 15, 2016</span></span></span>
 
-Another factor is visibility. Central Asia contains large sparsely populated areas with dark skies. Astronomers have long regarded parts of the region as favourable observing locations because of low light pollution and good atmospheric conditions. Those same qualities make unusual celestial events more noticeable to ordinary observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Mt</span><span class="citation-popover-snippet">Dushak-Erekdag Observatory: A Chance to Close...The sky seeing at the site is one of the best in Central Asia: a low light pollution, hi...</span></span></span>
+Another factor is visibility. Central Asia contains large sparsely populated areas with dark skies. Astronomers have long regarded parts of the region as favourable observing locations because of low light pollution and good atmospheric conditions. Those same qualities make unusual celestial events more noticeable to ordinary observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Mt</span><span class="citation-popover-snippet">Dushak-Erekdag Observatory: A Chance to Close...The sky seeing at the site is one of the best in Central Asia: a low light pollution, hi...</span></span></span>
 
 ## Meteors, Aircraft, Satellites, and Rockets
 
@@ -277,7 +277,7 @@ One of the most common explanations for dramatic sky reports is a bright meteor,
 
 These events are particularly important when evaluating reports from desert regions. A meteor seen over hundreds of kilometres may be interpreted differently by witnesses separated by large distances. What appears to be a low-flying object can in reality be a high-altitude atmospheric entry occurring far away.
 
-Recent Central Asian examples illustrate the point. Bright streaking objects observed across Kazakhstan prompted public speculation before defence authorities stated that the phenomenon was consistent with spacecraft debris or meteor activity rather than an airspace intrusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">The Times Of Central Asia Bright Objects in the Sky?</span><span class="citation-popover-snippet">Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+Recent Central Asian examples illustrate the point. Bright streaking objects observed across Kazakhstan prompted public speculation before defence authorities stated that the phenomenon was consistent with spacecraft debris or meteor activity rather than an airspace intrusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">The Times Of Central Asia Bright Objects in the Sky?</span><span class="citation-popover-snippet">Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_TRYHPKg8qA" title="Disturbing Geological Anomalies Found Around the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_TRYHPKg8qA" target="_blank" rel="noopener noreferrer">Disturbing Geological Anomalies Found Around the World</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 12.7K &middot; Uploaded: September 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_TRYHPKg8qA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_TRYHPKg8qA">Open on YouTube</a></p></div></div></div>
 
@@ -285,7 +285,7 @@ Recent Central Asian examples illustrate the point. Bright streaking objects obs
 
 The growing number of satellites in low Earth orbit has created new opportunities for misidentification. Satellite trains can appear as multiple lights moving in formation, while tumbling satellites can brighten and dim unexpectedly.
 
-Rocket stages and spacecraft re-entries are even more dramatic. Re-entering debris can produce bright glowing fragments crossing the sky in formation, sometimes generating reports of fleets of unidentified objects. Such events are visible across huge portions of Central Asia and are often observed simultaneously in several countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[Astronomy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Astronomy CenterInternational Astronomical Center (IAC)12 Jun 2021 — SRW is a collaboration program between international experts in the...</span></span></span>
+Rocket stages and spacecraft re-entries are even more dramatic. Re-entering debris can produce bright glowing fragments crossing the sky in formation, sometimes generating reports of fleets of unidentified objects. Such events are visible across huge portions of Central Asia and are often observed simultaneously in several countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[Astronomy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Astronomy CenterInternational Astronomical Center (IAC)12 Jun 2021 — SRW is a collaboration program between international experts in the...</span></span></span>
 
 Turkmenistan's position beneath routes used by orbiting spacecraft means that residents can occasionally witness these phenomena without any local launch activity. A distant re-entry over another region may still produce a striking display visible from Turkmen territory.
 
@@ -321,7 +321,7 @@ Dark skies also reveal phenomena that many people rarely notice elsewhere:
 
 </div>
 
-Professional astronomical observers value these conditions because they improve visibility. The same conditions can make ordinary phenomena seem extraordinary to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Mt</span><span class="citation-popover-snippet">Dushak-Erekdag Observatory: A Chance to Close...The sky seeing at the site is one of the best in Central Asia: a low light pollution, hi...</span></span></span>
+Professional astronomical observers value these conditions because they improve visibility. The same conditions can make ordinary phenomena seem extraordinary to casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Mt</span><span class="citation-popover-snippet">Dushak-Erekdag Observatory: A Chance to Close...The sky seeing at the site is one of the best in Central Asia: a low light pollution, hi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y3vKUkjFhvI" title="Bangui Magnetic Anomaly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer">Bangui Magnetic Anomaly</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 1.6K &middot; Uploaded: February 2021 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y3vKUkjFhvI">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +351,7 @@ Satellite tracking, meteor databases, and re-entry forecasts frequently provide 
 
 Cross-border aircraft, distant lights, and reports imported from neighbouring countries can all complicate attribution.
 
-Applying these questions is particularly important in Turkmenistan because the country's documented UFO record remains limited. The strongest publicly available material points more toward interest in unexplained aerial reports than toward any confirmed anomalous event. In that environment, ordinary sky phenomena are not merely alternative explanations; they are often the starting point for understanding why unusual reports emerge at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">The Times Of Central Asia Bright Objects in the Sky?</span><span class="citation-popover-snippet">Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+Applying these questions is particularly important in Turkmenistan because the country's documented UFO record remains limited. The strongest publicly available material points more toward interest in unexplained aerial reports than toward any confirmed anomalous event. In that environment, ordinary sky phenomena are not merely alternative explanations; they are often the starting point for understanding why unusual reports emerge at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">The Times Of Central Asia Bright Objects in the Sky?</span><span class="citation-popover-snippet">Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-3-dark.svg" | relative_url }}" alt="Sky Context illustration 3" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Turkmenistan's UFO Record
@@ -363,194 +363,194 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=w3AQpVRHjzg" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=w3AQpVRHjzg</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3AQpVRHjzg" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=w3AQpVRHjzg</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3AQpVRHjzg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3AQpVRHjzg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Might Explain Turkmenistan&#x27;s Strange Sky Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Might Explain Turkmenistan&#x27;s Strange Sky Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains skeptical evaluation of unusual sky phenomena and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains skeptical evaluation of unusual sky phenomena and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Compares well-documented cases against ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Compares well-documented cases against ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides astronomical context for interpreting lights and objects in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides astronomical context for interpreting lights and objects in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines classification and investigation of aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classification and investigation of aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-might-explain-turkmenistan-s-strange-sky-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,96 +753,95 @@ For that reason, many unusual sky stories associated with Turkmenistan are best 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Mt  
-   Link: <a href="https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dushak-Erekdag Observatory: A Chance to Close...The sky seeing at the site is one of the best in Central Asia: a low light pollution, hi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253041450_Mt_Dushak-Erekdag_Observatory_A_Chance_to_Close_the_Asian_Gaps_in_WET_Coverage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dushak-Erekdag Observatory: A Chance to Close...The sky seeing at the site is one of the best in Central Asia: a low light pollution, hi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: openminds.tv  
-   Link: <a href="https://openminds.tv/ufos-over-kazakhstan-central-asia/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/ufos-over-kazakhstan-central-asia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Kazakhstan, Central AsiaJune 15, 2016 — 15 Jun 2016 — UFOs over Kazakhstan, Central Asia; Kazakhstan (Credit: Google Maps); A...</p></details>
+   Link:<a href="https://openminds.tv/ufos-over-kazakhstan-central-asia/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/ufos-over-kazakhstan-central-asia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Kazakhstan, Central AsiaJune 15, 2016 — 15 Jun 2016 — UFOs over Kazakhstan, Central Asia; Kazakhstan (Credit: Google Maps); A...</p></details>
    Published: June 15, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Stellarium 25.2 User Guide  
-   Link: <a href="https://www.researchgate.net/profile/Alexander-Wolf-5/publication/395955516_Stellarium_253_User_Guide/links/68da9bf9f3032e2b4be440ff/Stellarium-253-User-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Alexander-Wolf-5/publication/395955516_Stellarium_253_User_Guide/links/68da9bf9f3032e2b4be440ff/Stellarium-253-User-Guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>astronomical phenomena such as meteor showers or comets, and solar or lunar eclipses. Stellarium may be used as an educational tool for t...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Alexander-Wolf-5/publication/395955516_Stellarium_253_User_Guide/links/68da9bf9f3032e2b4be440ff/Stellarium-253-User-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Alexander-Wolf-5/publication/395955516_Stellarium_253_User_Guide/links/68da9bf9f3032e2b4be440ff/Stellarium-253-User-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>astronomical phenomena such as meteor showers or comets, and solar or lunar eclipses. Stellarium may be used as an educational tool for t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: timesca.com  
    Title: The Times Of Central Asia Bright Objects in the Sky?  
-   Link: <a href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</p></details>
+   Link:<a href="https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/bright-objects-in-the-sky-nothing-to-worry-about-kazakhstan-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing to Worry About...June 6, 2025 — 6 Jun 2025 — Witnesses in Kazakhstan reported seeing bright objects streaking through the sky la...</p></details>
    Published: June 6, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: astronomycenter.net  
-   Link: <a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy CenterInternational Astronomical Center (IAC)12 Jun 2021 — SRW is a collaboration program between international experts in the...</p></details>
+   Link:<a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy CenterInternational Astronomical Center (IAC)12 Jun 2021 — SRW is a collaboration program between international experts in the...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/5889909863/posts/10161751864319864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/5889909863/posts/10161751864319864/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kosmos 482 Re-entry over New Zealand TonightKeep an eye skywards tonight for the possible re-entry of Kosmos 482. The ground track has it...</p></details>
+   Link:<a href="https://www.facebook.com/groups/5889909863/posts/10161751864319864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/5889909863/posts/10161751864319864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kosmos 482 Re-entry over New Zealand TonightKeep an eye skywards tonight for the possible re-entry of Kosmos 482. The ground track has it...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... central 20 air come chinese town leader army line never little played prime... asia budget ret...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... central 20 air come chinese town leader army line never little played prime... asia budget ret...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: an 88 million satellite died earlyand still blew the lid off industry emissions  
-   Link: <a href="https://www.facebook.com/gizmodo/posts/an-88-million-satellite-died-earlyand-still-blew-the-lid-off-industry-emissions/1336269451699519/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gizmodo/posts/an-88-million-satellite-died-earlyand-still-blew-the-lid-off-industry-emissions/1336269451699519/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An $88 Million Satellite Died Early—and Still Blew the Lid...In January 2025, over 120 SpaceX Starlink satellites burned up, creating sp...</p></details>
+   Link:<a href="https://www.facebook.com/gizmodo/posts/an-88-million-satellite-died-earlyand-still-blew-the-lid-off-industry-emissions/1336269451699519/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gizmodo/posts/an-88-million-satellite-died-earlyand-still-blew-the-lid-off-industry-emissions/1336269451699519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An $88 Million Satellite Died Early—and Still Blew the Lid...In January 2025, over 120 SpaceX Starlink satellites burned up, creating sp...</p></details>
    Published: January 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hazardexonthenet.net  
    Title: Satellite pinpoints major methane leak from Central Asian oilfield.aspx  
-   Link: <a href="https://www.hazardexonthenet.net/article/175930/Satellite-pinpoints-major-methane-leak-from-Central-Asian-oilfield.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hazardexonthenet.net/article/175930/Satellite-pinpoints-major-methane-leak-from-Central-Asian-oilfield.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite pinpoints major methane leak from Central Asian...26 Nov 2019 — The satellite was searching for emissions from mud volcanoes w...</p></details>
+   Link:<a href="https://www.hazardexonthenet.net/article/175930/Satellite-pinpoints-major-methane-leak-from-Central-Asian-oilfield.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hazardexonthenet.net/article/175930/Satellite-pinpoints-major-methane-leak-from-Central-Asian-oilfield.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite pinpoints major methane leak from Central Asian...26 Nov 2019 — The satellite was searching for emissions from mud volcanoes w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: progres.online  
    Title: satellite data on methane emissions reveal new insights in turkmenistan  
-   Link: <a href="https://progres.online/society/environment/satellite-data-on-methane-emissions-reveal-new-insights-in-turkmenistan/" target="_blank" rel="noopener noreferrer nofollow">https://progres.online/society/environment/satellite-data-on-methane-emissions-reveal-new-insights-in-turkmenistan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite data on methane emissions reveal new insights in...20 May 2025 — One of the key findings showed that the South Caspian Basin i...</p></details>
+   Link:<a href="https://progres.online/society/environment/satellite-data-on-methane-emissions-reveal-new-insights-in-turkmenistan/" target="_blank" rel="noopener noreferrer nofollow">https://progres.online/society/environment/satellite-data-on-methane-emissions-reveal-new-insights-in-turkmenistan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite data on methane emissions reveal new insights in...20 May 2025 — One of the key findings showed that the South Caspian Basin i...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: business-humanrights.org  
-   Link: <a href="https://www.business-humanrights.org/en/latest-news/nasa-detects-12-high-level-methane-leaks-from-oil-and-gas-infrastructure-in-turkmenistan/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/en/latest-news/nasa-detects-12-high-level-methane-leaks-from-oil-and-gas-infrastructure-in-turkmenistan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ne emissions from oil and gas infrastructure facilities located on the east coast...Read more...</p></details>
+   Link:<a href="https://www.business-humanrights.org/en/latest-news/nasa-detects-12-high-level-methane-leaks-from-oil-and-gas-infrastructure-in-turkmenistan/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/en/latest-news/nasa-detects-12-high-level-methane-leaks-from-oil-and-gas-infrastructure-in-turkmenistan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ne emissions from oil and gas infrastructure facilities located on the east coast...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: dust storm turkmenistan central asia 36310  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/dust-storm-turkmenistan-central-asia-36310/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/dust-storm-turkmenistan-central-asia-36310/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Storm, Turkmenistan, Central AsiaAn astronaut photograph shot with a short focal length lens shows a wide swath of central Asia and the E...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/dust-storm-turkmenistan-central-asia-36310/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/dust-storm-turkmenistan-central-asia-36310/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Storm, Turkmenistan, Central AsiaAn astronaut photograph shot with a short focal length lens shows a wide swath of central Asia and the E...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: timesca.com  
    Title: russia signals readiness to train turkmen cosmonaut  
-   Link: <a href="https://timesca.com/russia-signals-readiness-to-train-turkmen-cosmonaut/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/russia-signals-readiness-to-train-turkmen-cosmonaut/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2026 — Russia is prepared to support the training of a Turkmen cosmonaut if Turkmenistan expresses interest, Russian Ambassador Iv...</p></details>
+   Link:<a href="https://timesca.com/russia-signals-readiness-to-train-turkmen-cosmonaut/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/russia-signals-readiness-to-train-turkmen-cosmonaut/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2026 — Russia is prepared to support the training of a Turkmen cosmonaut if Turkmenistan expresses interest, Russian Ambassador Iv...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brycetech.com  
    Title: Commercial Space Transportation Forecasts 2014  
-   Link: <a href="https://brycetech.com/reports/report-documents/Commercial_Space_Transportation_Forecasts_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brycetech.com/reports/report-documents/Commercial_Space_Transportation_Forecasts_2014.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2014 Commercial Space Transportation ForecastsDemand for satellite services continues to be strong in certain regions, led by substantial...</p></details>
+   Link:<a href="https://brycetech.com/reports/report-documents/Commercial_Space_Transportation_Forecasts_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brycetech.com/reports/report-documents/Commercial_Space_Transportation_Forecasts_2014.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2014 Commercial Space Transportation ForecastsDemand for satellite services continues to be strong in certain regions, led by substantial...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: live.worldtourismforum.net  
    Title: Catch up the latest news in tourism industry  
-   Link: <a href="https://live.worldtourismforum.net/news/Catch-up-the-latest-news-in-tourism-industry" target="_blank" rel="noopener noreferrer nofollow">https://live.worldtourismforum.net/news/Catch-up-the-latest-news-in-tourism-industry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News - WTFI Live12 Aug 2025 — As a Kazakh website noted: “Within the Central Asian region, Turkmenistan stands out as a country where his...</p></details>
+   Link:<a href="https://live.worldtourismforum.net/news/Catch-up-the-latest-news-in-tourism-industry" target="_blank" rel="noopener noreferrer nofollow">https://live.worldtourismforum.net/news/Catch-up-the-latest-news-in-tourism-industry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News - WTFI Live12 Aug 2025 — As a Kazakh website noted: “Within the Central Asian region, Turkmenistan stands out as a country where his...</p></details>

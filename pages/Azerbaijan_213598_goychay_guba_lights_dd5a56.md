@@ -257,7 +257,7 @@ image: /assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-
 The Goychay sighting in 2012 and the Guba sighting in 2014 became the two most widely repeated modern UFO stories in [Azerbaijan]({{ 'what-is-behind-azerbaijans-ufo-reports/' | relative_url }}) because they shared the same basic pattern: bright lights appearing suddenly at night, brief witness observation, amateur filming, and no firm official conclusion. Neither case produced physical evidence, radar confirmation, or a formal state investigation, yet both spread rapidly through local media and online discussion. In a country with relatively few nationally known UFO reports, these two incidents came to define Azerbaijans contemporary UFO narrative.
 
 <img src="{{ "/assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-1-dark.svg" | relative_url }}" alt="Goychay Guba illustration 1" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What made them memorable was not the complexity of the sightings, but their simplicity. Witnesses described glowing or flashing lights rather than structured craft, occupants, or close encounters. The events were short, visually dramatic, and difficult to verify after the fact. That combination placed them in the category often described by researchers as repeat light cases recurring reports of unexplained aerial lights that generate public fascination while remaining evidentially weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-snippet">appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</span></span></span>
+What made them memorable was not the complexity of the sightings, but their simplicity. Witnesses described glowing or flashing lights rather than structured craft, occupants, or close encounters. The events were short, visually dramatic, and difficult to verify after the fact. That combination placed them in the category often described by researchers as repeat light cases recurring reports of unexplained aerial lights that generate public fascination while remaining evidentially weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-snippet">appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</span></span></span>
 
 ## What Witnesses Reported
 
@@ -265,15 +265,15 @@ What made them memorable was not the complexity of the sightings, but their simp
 
 Local Azerbaijani media reported that residents in the Goychay region observed a bright glowing object in the night sky during November 2012. Witnesses described the light as moving laterally before disappearing after roughly two minutes. Accounts stressed the objects brightness and apparent altitude, with observers claiming it hovered well above the ground and behaved differently from ordinary aircraft lights.
 
-The sighting gained attention because it appeared during a period when Azerbaijani media were already circulating several amateur UFO claims from Baku, Ganja, and other regions. Reports from Goychay fitted a wider pattern of public interest in strange lights and atmospheric events during the early 2010s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azernews.az">[AzerNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azernews.az</span><span class="citation-popover-snippet">Azeri expert dismisses reports on UFOs11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying unidentified flying...</span></span></span>
+The sighting gained attention because it appeared during a period when Azerbaijani media were already circulating several amateur UFO claims from Baku, Ganja, and other regions. Reports from Goychay fitted a wider pattern of public interest in strange lights and atmospheric events during the early 2010s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azernews.az">[AzerNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azernews.az</span><span class="citation-popover-snippet">Azeri expert dismisses reports on UFOs11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying unidentified flying...</span></span></span>
 
 No verified photographs from the Goychay event became widely archived, and later retellings mostly relied on the original witness descriptions. That lack of preserved visual evidence became important later, because the story survived mainly through repetition in news summaries and UFO compilations rather than through independently reviewable material.
 
 ### The 2014 Guba lights
 
-The Guba incident in May 2014 attracted more attention because residents reportedly captured video footage on mobile phones. According to local reporting, witnesses saw flashing lights in the night sky that appeared to expand or branch before fading away. Observers described surprise and confusion rather than fear, with many simply gathering outdoors to watch the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-snippet">appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</span></span></span>
+The Guba incident in May 2014 attracted more attention because residents reportedly captured video footage on mobile phones. According to local reporting, witnesses saw flashing lights in the night sky that appeared to expand or branch before fading away. Observers described surprise and confusion rather than fear, with many simply gathering outdoors to watch the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-snippet">appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</span></span></span>
 
-Unlike classic UFO narratives involving metallic discs or low-altitude encounters, the Guba case centred entirely on luminous forms. The lights were reportedly visible for a short period before disappearing. Media coverage highlighted the fact that several residents saw the event simultaneously, which gave the case a stronger sense of collective credibility in public discussion even though the footage itself remained low quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-snippet">appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</span></span></span>
+Unlike classic UFO narratives involving metallic discs or low-altitude encounters, the Guba case centred entirely on luminous forms. The lights were reportedly visible for a short period before disappearing. Media coverage highlighted the fact that several residents saw the event simultaneously, which gave the case a stronger sense of collective credibility in public discussion even though the footage itself remained low quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-snippet">appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</span></span></span>
 
 The mobile-phone recordings circulated online and through television rebroadcasts, helping the case become one of the most recognisable Azerbaijani UFO stories of the decade.
 
@@ -319,7 +319,7 @@ The stories became self-reinforcing over time. Once Goychay and Guba were repeat
 
 ## What Skeptics and Astronomers Pointed To
 
-Azerbaijani astronomers and scientific commentators generally rejected claims that the sightings represented extraterrestrial craft. In 2012, an Azerbaijani scholar cited by AzerNews argued that alleged UFO photographs and reports from several regions were more likely to involve atmospheric phenomena or man-made objects misidentified under unusual viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azernews.az">[AzerNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azernews.az</span><span class="citation-popover-snippet">Azeri expert dismisses reports on UFOs11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying unidentified flying...</span></span></span>
+Azerbaijani astronomers and scientific commentators generally rejected claims that the sightings represented extraterrestrial craft. In 2012, an Azerbaijani scholar cited by AzerNews argued that alleged UFO photographs and reports from several regions were more likely to involve atmospheric phenomena or man-made objects misidentified under unusual viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azernews.az">[AzerNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azernews.az</span><span class="citation-popover-snippet">Azeri expert dismisses reports on UFOs11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying unidentified flying...</span></span></span>
 
 This sceptical interpretation fits several ordinary explanations commonly associated with night-light sightings:
 
@@ -356,194 +356,194 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
 <img src="{{ "/assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-3-dark.svg" | relative_url }}" alt="Goychay Guba illustration 3" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598_goychay_guba_lights_dd5a56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Goychay and Guba Stand Out?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Goychay and Guba Stand Out?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify bright moving lights, meteors, planets, and satellite-like phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify bright moving lights, meteors, planets, and satellite-like phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Useful for understanding ordinary sky objects behind visually dramatic reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding ordinary sky objects behind visually dramatic reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Strongly fits brief glowing-light cases with no physical evidence or formal confirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongly fits brief glowing-light cases with no physical evidence or formal confirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a method for evaluating light cases without overclaiming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a method for evaluating light cases without overclaiming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-goychay-and-guba-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-goychay-and-guba-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,120 +746,119 @@ That balance explains why they remain Azerbaijans best-known modern UFO light ca
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</p></details>
+   Link:<a href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: azernews.az  
-   Link: <a href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow">https://www.azernews.az/nation/41254.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Azeri expert dismisses reports on UFOs11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying unidentified flying...</p></details>
+   Link:<a href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow">https://www.azernews.az/nation/41254.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Azeri expert dismisses reports on UFOs11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying unidentified flying...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/-145468" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-145468</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alleges alien discovery in Russian UFO hotspotWhile the video stresses its authenticity, the internet is, of course, abuzz with those cal...</p></details>
+   Link:<a href="https://en.apa.az/incident/-145468" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-145468</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alleges alien discovery in Russian UFO hotspotWhile the video stresses its authenticity, the internet is, of course, abuzz with those cal...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/-37336" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-37336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sighted in NakhchivanThe village residents say that the object was clearly seen for several minutes. Some filmed the UFO. The village res...</p></details>
+   Link:<a href="https://en.apa.az/incident/-37336" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-37336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sighted in NakhchivanThe village residents say that the object was clearly seen for several minutes. Some filmed the UFO. The village res...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/-164684" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-164684</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APA reports that the blast happened in Garayazi village of Goychay region.Read more...</p></details>
+   Link:<a href="https://en.apa.az/incident/-164684" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-164684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APA reports that the blast happened in Garayazi village of Goychay region.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/-164667" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-164667</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Azerbaijani court convicts Turalbay Mehdiyev of treason, jails him for 16 years...Read more...</p></details>
+   Link:<a href="https://en.apa.az/incident/-164667" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-164667</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Azerbaijani court convicts Turalbay Mehdiyev of treason, jails him for 16 years...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/azerbaijani-army/Defense-Ministry-comments-on-information-about-dropping-balloon-with-plastic-container-in-the-territory-of-Goychay-region-298717" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/azerbaijani-army/Defense-Ministry-comments-on-information-about-dropping-balloon-with-plastic-container-in-the-territory-of-Goychay-region-298717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://en.apa.az/azerbaijani-army/Defense-Ministry-comments-on-information-about-dropping-balloon-with-plastic-container-in-the-territory-of-Goychay-region-298717" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/azerbaijani-army/Defense-Ministry-comments-on-information-about-dropping-balloon-with-plastic-container-in-the-territory-of-Goychay-region-298717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/social/-163078" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/social/-163078</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>astronomers comment on reports about...Azerbaijani astronomers comment on reports about Judgment Day in 2012.Read more...</p></details>
+   Link:<a href="https://en.apa.az/social/-163078" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/social/-163078</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>astronomers comment on reports about...Azerbaijani astronomers comment on reports about Judgment Day in 2012.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/social/-168035" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/social/-168035</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>damages 36 houses in Azerbaijan’s...Local residents said there were nearly 50 dangerous structures in the village as a result of recen...</p></details>
+   Link:<a href="https://en.apa.az/social/-168035" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/social/-168035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>damages 36 houses in Azerbaijan’s...Local residents said there were nearly 50 dangerous structures in the village as a result of recen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/culture-policy/underground-bath-in-azerbaijans-goychay-to-be-restored-378463" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/culture-policy/underground-bath-in-azerbaijans-goychay-to-be-restored-378463</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bath in Azerbaijan&#x27;s Goychay to be restoredThe State Service intends to take measures to restore and reuse the underground bath located i...</p></details>
+   Link:<a href="https://en.apa.az/culture-policy/underground-bath-in-azerbaijans-goychay-to-be-restored-378463" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/culture-policy/underground-bath-in-azerbaijans-goychay-to-be-restored-378463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bath in Azerbaijan&#x27;s Goychay to be restoredThe State Service intends to take measures to restore and reuse the underground bath located i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/-165276" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-165276</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>snowfall creates some problems in Azerbaijani Aran...APA’s local bureau reports that now thickness of snow cover reaches 10-15 centime...</p></details>
+   Link:<a href="https://en.apa.az/incident/-165276" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-165276</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>snowfall creates some problems in Azerbaijani Aran...APA’s local bureau reports that now thickness of snow cover reaches 10-15 centime...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/-175362" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-175362</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 bridges passing over Yekekhana, Garayazi, Garamaryam and Shahsoltanli irrigation canals collapsed. Flows damaged Kurdmashi...Read more...</p></details>
+   Link:<a href="https://en.apa.az/incident/-175362" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-175362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 bridges passing over Yekekhana, Garayazi, Garamaryam and Shahsoltanli irrigation canals collapsed. Flows damaged Kurdmashi...Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/abovethenormnews/posts/894244450309216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/abovethenormnews/posts/894244450309216/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake hits Caspian Sea near AzerbaijanOn the territory of Sheki, where was its epicenter, tremors were felt up to seven points. In M...</p></details>
+   Link:<a href="https://www.facebook.com/groups/abovethenormnews/posts/894244450309216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/abovethenormnews/posts/894244450309216/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake hits Caspian Sea near AzerbaijanOn the territory of Sheki, where was its epicenter, tremors were felt up to seven points. In M...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/view/journals/casu/aop/article-10.30965-23761202-bja10047/article-10.30965-23761202-bja10047.pdf?srsltid=AfmBOopA4PvJd1L_LPwUGw-0domNl7TYoi02w98kjAu7ChEnkGIT9A5-" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/view/journals/casu/aop/article-10.30965-23761202-bja10047/article-10.30965-23761202-bja10047.pdf?srsltid=AfmBOopA4PvJd1L_LPwUGw-0domNl7TYoi02w98kjAu7ChEnkGIT9A5-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Turkish and Iranian Soft Power in AzerbaijanThis article uses Joseph Nye&#x27;s soft power framework to identify and compare the so...</p></details>
+   Link:<a href="https://brill.com/view/journals/casu/aop/article-10.30965-23761202-bja10047/article-10.30965-23761202-bja10047.pdf?srsltid=AfmBOopA4PvJd1L_LPwUGw-0domNl7TYoi02w98kjAu7ChEnkGIT9A5-" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/view/journals/casu/aop/article-10.30965-23761202-bja10047/article-10.30965-23761202-bja10047.pdf?srsltid=AfmBOopA4PvJd1L_LPwUGw-0domNl7TYoi02w98kjAu7ChEnkGIT9A5-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Turkish and Iranian Soft Power in AzerbaijanThis article uses Joseph Nye&#x27;s soft power framework to identify and compare the so...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bip.ug.edu.pl  
-   Link: <a href="https://bip.ug.edu.pl/sites/default/files/postepowania_naukowe/110410/praca/phd_dissertation_feyruz_mustafayev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bip.ug.edu.pl/sites/default/files/postepowania_naukowe/110410/praca/phd_dissertation_feyruz_mustafayev.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential Role of Renewable Energy in Providing...by F Mustafayev Cited by 6 The development of the renewable energy industry is hig...</p></details>
+   Link:<a href="https://bip.ug.edu.pl/sites/default/files/postepowania_naukowe/110410/praca/phd_dissertation_feyruz_mustafayev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bip.ug.edu.pl/sites/default/files/postepowania_naukowe/110410/praca/phd_dissertation_feyruz_mustafayev.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential Role of Renewable Energy in Providing...by F Mustafayev Cited by 6 The development of the renewable energy industry is hig...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: artangel.org.uk  
-   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldTo observers at the base, the UFO first appeared to be a small pointed star, and then grew larger and...</p></details>
+   Link:<a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldTo observers at the base, the UFO first appeared to be a small pointed star, and then grew larger and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: downloads.cs.stanford.edu  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... azerbaijan respective compound 120 vincent seemed exhibitions mtv protests... ufo neoclassical...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... azerbaijan respective compound 120 vincent seemed exhibitions mtv protests... ufo neoclassical...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gU6XUD8tEOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gU6XUD8tEOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Movie Trailer (Jean-Claude Van Damme)UFO Trailer &quot;Try to remain calm&quot;! Starring Jean-Claude Van Damme, Bianca Bree, and Sean Brosnan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gU6XUD8tEOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gU6XUD8tEOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Movie Trailer (Jean-Claude Van Damme)UFO Trailer &quot;Try to remain calm&quot;! Starring Jean-Claude Van Damme, Bianca Bree, and Sean Brosnan...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x4aHpf1TLaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4aHpf1TLaQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness Shares Video Footage With Ben | UFO WitnessSteve Baron has been documenting black triangle sightings in this region for over...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x4aHpf1TLaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4aHpf1TLaQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness Shares Video Footage With Ben | UFO WitnessSteve Baron has been documenting black triangle sightings in this region for over...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/40165626/Thesis.pdf?fbclid=IwAR0ZqFm0kNy2T-YfaXfNRyv89zvZv6F5O8yv9BrlzJjUjaW6EMO_9fLWkbo" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/40165626/Thesis.pdf?fbclid=IwAR0ZqFm0kNy2T-YfaXfNRyv89zvZv6F5O8yv9BrlzJjUjaW6EMO_9fLWkbo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Azerbaijan on 27 February 1988 the situation was ready to explode.54 Meanwhile...Read more...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/40165626/Thesis.pdf?fbclid=IwAR0ZqFm0kNy2T-YfaXfNRyv89zvZv6F5O8yv9BrlzJjUjaW6EMO_9fLWkbo" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/40165626/Thesis.pdf?fbclid=IwAR0ZqFm0kNy2T-YfaXfNRyv89zvZv6F5O8yv9BrlzJjUjaW6EMO_9fLWkbo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Azerbaijan on 27 February 1988 the situation was ready to explode.54 Meanwhile...Read more...</p></details>
    Published: February 1988  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: icj-web.leman.un-icc.cloud  
    Title: cloud MEMORIA L OF THE STATE OF QATAR ANNEXES 102  
-   Link: <a href="https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/172/172-20190425-WRI-01-03-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/172/172-20190425-WRI-01-03-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF THE STATE OF QATAR ANNEXES 102 - 12325 Apr 2019 On the basis of the consideration at its fifth session of reports submitted by State...</p></details>
+   Link:<a href="https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/172/172-20190425-WRI-01-03-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/172/172-20190425-WRI-01-03-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF THE STATE OF QATAR ANNEXES 102 - 12325 Apr 2019 On the basis of the consideration at its fifth session of reports submitted by State...</p></details>

@@ -254,20 +254,20 @@ image: /assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-1-s
 
 ## Introduction
 
-The Kaikōura lights remain the most important UFO case in New Zealand because they sit at the uncomfortable intersection of witness testimony, radar tracking, recorded audio, television footage and competing technical [explanations]({{ 'explanations-61f9e4/' | relative_url }}). Unlike many famous UFO stories that depend on a single observer, the events of December 1978 involved airline pilots, air traffic controllers, journalists and camera crews. The case produced physical records that could be analysed long after the sightings themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span>
+The Kaikōura lights remain the most important UFO case in New Zealand because they sit at the uncomfortable intersection of witness testimony, radar tracking, recorded audio, television footage and competing technical [explanations]({{ 'explanations-61f9e4/' | relative_url }}). Unlike many famous UFO stories that depend on a single observer, the events of December 1978 involved airline pilots, air traffic controllers, journalists and camera crews. The case produced physical records that could be analysed long after the sightings themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span>
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-1-dark.svg" | relative_url }}" alt="Kaikoura Lights illustration 1" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-More than four decades later, the argument is not simply whether strange lights were seen over the South Island. That is largely uncontested. The real dispute concerns what those lights actually were. Supporters of the unexplained interpretation argue that radar contacts, visual observations and filmed objects point to something extraordinary. Sceptics counter that several different ordinary phenomena were bundled together into a single dramatic narrative, creating the illusion of a single mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
+More than four decades later, the argument is not simply whether strange lights were seen over the South Island. That is largely uncontested. The real dispute concerns what those lights actually were. Supporters of the unexplained interpretation argue that radar contacts, visual observations and filmed objects point to something extraordinary. Sceptics counter that several different ordinary phenomena were bundled together into a single dramatic narrative, creating the illusion of a single mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
 
 ## What witnesses and radar reportedly recorded
 
-The most significant sightings began on 21 December 1978 during a Safe Air cargo flight between Blenheim and Christchurch. Pilots Vern Powell and Ian Pirie reported unusual lights moving near their aircraft over the Kaikōura coast. At roughly the same time, radar operators at Wellington Airport reportedly observed unusual returns that appeared consistent with the pilots' reports. Local residents also reported strange lights in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bruce_Maccabee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bruce Maccabee Bruce S. Maccabee</span><span class="citation-popover-snippet">Bruce MaccabeeBruce S. Maccabee (May 6, 1942 – May 10, 2024) was an American optical physicist employed by the United States Navy, and...</span><span class="citation-popover-meta">Published: May 6, 1942</span></span></span>
+The most significant sightings began on 21 December 1978 during a Safe Air cargo flight between Blenheim and Christchurch. Pilots Vern Powell and Ian Pirie reported unusual lights moving near their aircraft over the Kaikōura coast. At roughly the same time, radar operators at Wellington Airport reportedly observed unusual returns that appeared consistent with the pilots' reports. Local residents also reported strange lights in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bruce_Maccabee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bruce Maccabee Bruce S. Maccabee</span><span class="citation-popover-snippet">Bruce MaccabeeBruce S. Maccabee (May 6, 1942 – May 10, 2024) was an American optical physicist employed by the United States Navy, and...</span><span class="citation-popover-meta">Published: May 6, 1942</span></span></span>
 
-What elevated the case above an ordinary sighting report was the apparent combination of visual observation and radar detection. Witnesses described bright objects that seemed to pace the aircraft, change position and remain visible for extended periods. Wellington air traffic control personnel reported radar targets that appeared difficult to identify through normal traffic procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.1964.co.nz/kaikoura-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1964.co.nz">[1964 Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1964.co.nz</span><span class="citation-popover-title">kaikoura ufos</span><span class="citation-popover-snippet">It was sometime after 2am on December 21, 1978. An Argosy turboprop freight plane ...Read more</span></span></span>
+What elevated the case above an ordinary sighting report was the apparent combination of visual observation and radar detection. Witnesses described bright objects that seemed to pace the aircraft, change position and remain visible for extended periods. Wellington air traffic control personnel reported radar targets that appeared difficult to identify through normal traffic procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.1964.co.nz/kaikoura-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1964.co.nz">[1964 Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1964.co.nz</span><span class="citation-popover-title">kaikoura ufos</span><span class="citation-popover-snippet">It was sometime after 2am on December 21, 1978. An Argosy turboprop freight plane ...Read more</span></span></span>
 
-The radar element has always been central to believers' arguments. A bright planet such as Venus can explain a visual light in the sky, but it cannot explain an independent radar return. Likewise, a radar anomaly alone does not explain multiple visual observations. The apparent overlap between the two types of evidence is what made the Kaikōura case stand out internationally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+The radar element has always been central to believers' arguments. A bright planet such as Venus can explain a visual light in the sky, but it cannot explain an independent radar return. Likewise, a radar anomaly alone does not explain multiple visual observations. The apparent overlap between the two types of evidence is what made the Kaikōura case stand out internationally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
-At the same time, critics argue that the radar evidence is less clear-cut than often presented. Radar operators in 1978 were working with equipment susceptible to atmospheric effects, false echoes and propagation anomalies. Later reviews noted that unusual radar returns were not unheard of and that radar contacts were not consistently confirmed by all stations involved. Christchurch radar reportedly did not see the same targets that Wellington operators reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span>
+At the same time, critics argue that the radar evidence is less clear-cut than often presented. Radar operators in 1978 were working with equipment susceptible to atmospheric effects, false echoes and propagation anomalies. Later reviews noted that unusual radar returns were not unheard of and that radar contacts were not consistently confirmed by all stations involved. Christchurch radar reportedly did not see the same targets that Wellington operators reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span>
 
 The result is a familiar problem in UFO investigations: the evidence appears stronger than a simple eyewitness story, yet weaker than a fully verified instrument record.
 
@@ -275,7 +275,7 @@ The result is a familiar problem in UFO investigations: the evidence appears str
 
 The incident that transformed the Kaikōura lights from a regional aviation mystery into an international UFO story occurred on the night of 30–31 December 1978.
 
-An Australian television crew from Channel 0 boarded a Safe Air Argosy cargo aircraft specifically to document the earlier reports. On board were reporter Quentin Fogarty, cameraman David Crockett, sound operator Ngaire Crockett and the flight crew Bill Startup and Bob Guard. During the flight, the pilots again reported unusual lights. The television team filmed some of the objects while audio recordings captured real-time reactions from those involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bruce_Maccabee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bruce Maccabee Bruce S. Maccabee</span><span class="citation-popover-snippet">Bruce MaccabeeBruce S. Maccabee (May 6, 1942 – May 10, 2024) was an American optical physicist employed by the United States Navy, and...</span><span class="citation-popover-meta">Published: May 6, 1942</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ngataonga.org.nz/search-use-collection/search/F1910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngataonga.org.nz">[ngataonga.org.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngataonga.org.nz</span><span class="citation-popover-snippet">UFO: A TRUE STORYSeveral airborne lights were captured on film. The witnesses relate their experiences. The plane returned from Christchu...</span></span></span>
+An Australian television crew from Channel 0 boarded a Safe Air Argosy cargo aircraft specifically to document the earlier reports. On board were reporter Quentin Fogarty, cameraman David Crockett, sound operator Ngaire Crockett and the flight crew Bill Startup and Bob Guard. During the flight, the pilots again reported unusual lights. The television team filmed some of the objects while audio recordings captured real-time reactions from those involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bruce_Maccabee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bruce Maccabee Bruce S. Maccabee</span><span class="citation-popover-snippet">Bruce MaccabeeBruce S. Maccabee (May 6, 1942 – May 10, 2024) was an American optical physicist employed by the United States Navy, and...</span><span class="citation-popover-meta">Published: May 6, 1942</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ngataonga.org.nz/search-use-collection/search/F1910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngataonga.org.nz">[ngataonga.org.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngataonga.org.nz</span><span class="citation-popover-snippet">UFO: A TRUE STORYSeveral airborne lights were captured on film. The witnesses relate their experiences. The plane returned from Christchu...</span></span></span>
 
 Several aspects of this flight made the footage unusually influential:
 
@@ -285,11 +285,11 @@ Several aspects of this flight made the footage unusually influential:
 * Multiple witnesses observed the lights simultaneously.
 * The pilots communicated with radar operators while events unfolded.
 * The encounter was recorded on professional 16 mm film rather than amateur home equipment.
-* Audio recordings preserved immediate witness reactions instead of later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+* Audio recordings preserved immediate witness reactions instead of later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 </div>
 
-When the footage aired on television, it rapidly became one of the most widely discussed UFO recordings in the world. The timing mattered. The late 1970s saw intense public interest in UFOs, and the idea that a television crew had accidentally filmed an object already being tracked on radar created a powerful impression of authenticity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.1964.co.nz/kaikoura-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1964.co.nz">[1964 Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1964.co.nz</span><span class="citation-popover-title">kaikoura ufos</span><span class="citation-popover-snippet">It was sometime after 2am on December 21, 1978. An Argosy turboprop freight plane ...Read more</span></span></span>
+When the footage aired on television, it rapidly became one of the most widely discussed UFO recordings in the world. The timing mattered. The late 1970s saw intense public interest in UFOs, and the idea that a television crew had accidentally filmed an object already being tracked on radar created a powerful impression of authenticity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.1964.co.nz/kaikoura-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1964.co.nz">[1964 Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1964.co.nz</span><span class="citation-popover-title">kaikoura ufos</span><span class="citation-popover-snippet">It was sometime after 2am on December 21, 1978. An Argosy turboprop freight plane ...Read more</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lqHKN56ajKs" title="The 1978 New Zealand UFO Footage (Season 5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lqHKN56ajKs" target="_blank" rel="noopener noreferrer">The 1978 New Zealand UFO Footage (Season 5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 27.1K &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lqHKN56ajKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lqHKN56ajKs">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +297,7 @@ When the footage aired on television, it rapidly became one of the most widely d
 
 One reason the Kaikōura debate persists is that the film itself is less decisive than many people remember.
 
-The footage contains bright lights against a dark night background, but it does not provide a clear image of a structured craft. Viewers see luminous objects whose apparent size, brightness and movement are difficult to interpret because of camera limitations, atmospheric conditions and the lack of stable visual references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+The footage contains bright lights against a dark night background, but it does not provide a clear image of a structured craft. Viewers see luminous objects whose apparent size, brightness and movement are difficult to interpret because of camera limitations, atmospheric conditions and the lack of stable visual references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 Supporters of the unexplained interpretation emphasise several features:
 
@@ -307,7 +307,7 @@ Supporters of the unexplained interpretation emphasise several features:
 * Witnesses reported objects changing position around the plane.
 * Some lights seemed to maintain pace with the aircraft.
 * Radar reports appeared to coincide with visual observations.
-* Multiple independent observers described similar events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+* Multiple independent observers described similar events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 </div>
 
@@ -318,7 +318,7 @@ Sceptics focus on different aspects:
 * Bright point sources can appear to move because of aircraft motion and camera movement.
 * Filming through aircraft windows can introduce reflections and distortions.
 * Long-distance lights over water are notoriously difficult to judge in terms of size and distance.
-* The footage lacks clear scale references that would allow precise measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+* The footage lacks clear scale references that would allow precise measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 </div>
 
@@ -329,7 +329,7 @@ The film therefore became evidence for both sides. Believers saw confirmation of
 
 New Zealand authorities did not conclude that extraterrestrial vehicles had been observed. Instead, investigators assembled a combination of conventional explanations that they believed could account for the reports.
 
-The Royal New Zealand Air Force, government scientists and other agencies examined the incidents. Their conclusions pointed toward a mixture of atmospheric conditions, radar anomalies and misidentified lights rather than a single unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
+The Royal New Zealand Air Force, government scientists and other agencies examined the incidents. Their conclusions pointed toward a mixture of atmospheric conditions, radar anomalies and misidentified lights rather than a single unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
 
 The main official explanations included:
 
@@ -337,9 +337,9 @@ The main official explanations included:
 * **Atmospheric refraction:** Weather conditions can bend light and create unusual visual effects.
 * **Radar propagation anomalies:** Temperature inversions and other atmospheric conditions can produce false or displaced radar targets.
 * **Venus and astronomical objects:** Venus was particularly bright during the period and could have contributed to some observations.
-* **Ground lights:** Vehicle headlights, trains and other terrestrial sources may have been distorted by atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
+* **Ground lights:** Vehicle headlights, trains and other terrestrial sources may have been distorted by atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
 
-A major official theme was that no single explanation needed to account for every reported observation. Different witnesses may have been observing different phenomena at different times, later grouped together under the label "Kaikōura lights". <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
+A major official theme was that no single explanation needed to account for every reported observation. Different witnesses may have been observing different phenomena at different times, later grouped together under the label "Kaikōura lights".<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QR5w7QdXD0g" title="Second Report of Kaikoura Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QR5w7QdXD0g" target="_blank" rel="noopener noreferrer">Second Report of Kaikoura Lights</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 1.3K &middot; Uploaded: December 2019 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QR5w7QdXD0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QR5w7QdXD0g">Open on YouTube</a></p></div></div></div>
 
@@ -347,234 +347,234 @@ A major official theme was that no single explanation needed to account for ever
 
 Among all sceptical explanations, none generated more debate than the squid fishing fleet theory.
 
-Government scientists argued that powerful fishing lights from vessels operating offshore could explain at least some of the bright lights reported by aircrews. Under certain atmospheric conditions, those lights might appear elevated, distorted or unusually bright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+Government scientists argued that powerful fishing lights from vessels operating offshore could explain at least some of the bright lights reported by aircrews. Under certain atmospheric conditions, those lights might appear elevated, distorted or unusually bright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 Critics objected for several reasons.
 
-First, pilots reported lights appearing at altitudes and positions that seemed inconsistent with distant vessels. Second, some witnesses believed the lights manoeuvred relative to the aircraft. Third, radar contacts appeared to accompany at least some observations, creating the question of how fishing vessels could generate corresponding airborne radar targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.1964.co.nz/kaikoura-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1964.co.nz">[1964 Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1964.co.nz</span><span class="citation-popover-title">kaikoura ufos</span><span class="citation-popover-snippet">It was sometime after 2am on December 21, 1978. An Argosy turboprop freight plane ...Read more</span></span></span>
+First, pilots reported lights appearing at altitudes and positions that seemed inconsistent with distant vessels. Second, some witnesses believed the lights manoeuvred relative to the aircraft. Third, radar contacts appeared to accompany at least some observations, creating the question of how fishing vessels could generate corresponding airborne radar targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.1964.co.nz/kaikoura-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1964.co.nz">[1964 Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1964.co.nz</span><span class="citation-popover-title">kaikoura ufos</span><span class="citation-popover-snippet">It was sometime after 2am on December 21, 1978. An Argosy turboprop freight plane ...Read more</span></span></span>
 
-The debate eventually shifted from whether squid boats existed in the region to whether they could plausibly account for the specific combination of witness reports, radar observations and filmed lights. That question remains unresolved because the available records do not allow every reported observation to be reconstructed with certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+The debate eventually shifted from whether squid boats existed in the region to whether they could plausibly account for the specific combination of witness reports, radar observations and filmed lights. That question remains unresolved because the available records do not allow every reported observation to be reconstructed with certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 ## Bruce Maccabee's analysis and the counter-argument
 
-The most influential defence of the unexplained interpretation came from American optical physicist Bruce Maccabee, a US Navy scientist who specialised in imaging and laser technology. After studying the footage and interviewing witnesses, he concluded that the events involved genuinely unidentified aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+The most influential defence of the unexplained interpretation came from American optical physicist Bruce Maccabee, a US Navy scientist who specialised in imaging and laser technology. After studying the footage and interviewing witnesses, he concluded that the events involved genuinely unidentified aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
-Maccabee argued that the brightness and apparent behaviour of some objects made simple explanations inadequate. He challenged aspects of the squid boat interpretation and maintained that the available evidence pointed to objects that remained unidentified after technical review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+Maccabee argued that the brightness and apparent behaviour of some objects made simple explanations inadequate. He challenged aspects of the squid boat interpretation and maintained that the available evidence pointed to objects that remained unidentified after technical review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
-Government scientists disagreed sharply. The Department of Scientific and Industrial Research (DSIR) argued that the film contained distortions and observational problems that limited its evidential value. Internal assessments reportedly concluded that parts of the footage could be replicated through reflections and optical effects. DSIR investigators stated that some filmed results could be reproduced by shining lights onto aircraft windows under similar conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+Government scientists disagreed sharply. The Department of Scientific and Industrial Research (DSIR) argued that the film contained distortions and observational problems that limited its evidential value. Internal assessments reportedly concluded that parts of the footage could be replicated through reflections and optical effects. DSIR investigators stated that some filmed results could be reproduced by shining lights onto aircraft windows under similar conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
-This disagreement became one of the defining features of the Kaikōura case. Neither side could completely eliminate the other's interpretation. Maccabee believed the official explanations failed to account for the totality of evidence, while government investigators believed UFO researchers were overestimating the reliability of ambiguous visual material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+This disagreement became one of the defining features of the Kaikōura case. Neither side could completely eliminate the other's interpretation. Maccabee believed the official explanations failed to account for the totality of evidence, while government investigators believed UFO researchers were overestimating the reliability of ambiguous visual material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-3-dark.svg" | relative_url }}" alt="Kaikoura Lights illustration 3" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_kaikoura_lights_a0b5bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The CIA and intelligence interest
 
 The Kaikōura lights acquired additional notoriety because references to the case appeared in declassified intelligence material.
 
-CIA-related documents discussing the incident described it as unusual because it involved a comparatively large collection of evidence, including witness testimony, radar observations, audio recordings and colour film. The language has often been cited by UFO researchers because it acknowledged that the case possessed more documentation than many civilian sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+CIA-related documents discussing the incident described it as unusual because it involved a comparatively large collection of evidence, including witness testimony, radar observations, audio recordings and colour film. The language has often been cited by UFO researchers because it acknowledged that the case possessed more documentation than many civilian sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
-However, the intelligence interest is often misunderstood. The documents do not represent a CIA conclusion that alien craft were present. Instead, they reflect the fact that the incident had become internationally known and generated sufficient attention to warrant reporting and assessment. The same files do not provide a definitive explanation for the sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+However, the intelligence interest is often misunderstood. The documents do not represent a CIA conclusion that alien craft were present. Instead, they reflect the fact that the incident had become internationally known and generated sufficient attention to warrant reporting and assessment. The same files do not provide a definitive explanation for the sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 ## Why the Kaikōura lights still matter
 
 The Kaikōura lights endure because they expose the strengths and weaknesses of UFO evidence better than almost any other New Zealand case.
 
-For supporters of the unexplained interpretation, the event remains compelling because it combines multiple witnesses, aviation professionals, radar reports, audio recordings and film. Few UFO cases possess all of those elements simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+For supporters of the unexplained interpretation, the event remains compelling because it combines multiple witnesses, aviation professionals, radar reports, audio recordings and film. Few UFO cases possess all of those elements simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
-For sceptics, the case demonstrates how several ordinary phenomena can become fused into a single mystery. Atmospheric refraction, bright celestial objects, fishing fleets, radar artefacts and human perception may together create a far more dramatic narrative than any one factor alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
+For sceptics, the case demonstrates how several ordinary phenomena can become fused into a single mystery. Atmospheric refraction, bright celestial objects, fishing fleets, radar artefacts and human perception may together create a far more dramatic narrative than any one factor alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
 
-The most cautious conclusion sits between those positions. The Kaikōura lights are not persuasive proof of extraterrestrial visitation, but neither are they a trivial misidentification. They remain New Zealand's strongest radar-visual UFO case because the evidence is substantial enough to resist a simple dismissal, yet ambiguous enough to resist a definitive solution. That unresolved tension is precisely why the incident continues to dominate discussions of New Zealand's UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
+The most cautious conclusion sits between those positions. The Kaikōura lights are not persuasive proof of extraterrestrial visitation, but neither are they a trivial misidentification. They remain New Zealand's strongest radar-visual UFO case because the evidence is substantial enough to resist a simple dismissal, yet ambiguous enough to resist a definitive solution. That unresolved tension is precisely why the incident continues to dominate discussions of New Zealand's UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Mountain Culture Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6L4vpiOZ1NQ" title="Top 10 Real Alien Sightings That Changed History Forever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6L4vpiOZ1NQ" target="_blank" rel="noopener noreferrer">Top 10 Real Alien Sightings That Changed History Forever</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 11.7K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6L4vpiOZ1NQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6L4vpiOZ1NQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Kaikoura Lights Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Kaikoura Lights Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible aviation-related UFO cases comparable to Kaikoura.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible aviation-related UFO cases comparable to Kaikoura.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate multi-witness and radar-supported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate multi-witness and radar-supported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places official investigations like Kaikoura into historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places official investigations like Kaikoura into historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Let%27s+hope+they%27re+friendly%21+Quentin+Fogarty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Let&#x27;s hope they&#x27;re friendly! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Let%27s+hope+they%27re+friendly%21+Quentin+Fogarty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Let&#x27;s hope they&#x27;re friendly!">Let&#x27;s hope they&#x27;re friendly!</a>
-        </h4>
-        <p class="fr-book-author">By Quentin Fogarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Let%27s+hope+they%27re+friendly%21+Quentin+Fogarty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Let&#x27;s hope they&#x27;re friendly! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Let%27s+hope+they%27re+friendly%21+Quentin+Fogarty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Let&#x27;s hope they&#x27;re friendly!">Let&#x27;s hope they&#x27;re friendly!</a>
+</h4>
+<p class="fr-book-author">By Quentin Fogarty</p>
         
-        <p class="fr-book-desc">First published 1982.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Let%27s+hope+they%27re+friendly%21+Quentin+Fogarty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Let%27s+hope+they%27re+friendly%21+Quentin+Fogarty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-kaikoura-lights-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-kaikoura-lights-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ The most cautious conclusion sits between those positions. The Kaikōura lights 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ The most cautious conclusion sits between those positions. The Kaikōura lights 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ The most cautious conclusion sits between those positions. The Kaikōura lights 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ The most cautious conclusion sits between those positions. The Kaikōura lights 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ The most cautious conclusion sits between those positions. The Kaikōura lights 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,100 +777,99 @@ The most cautious conclusion sits between those positions. The Kaikōura lights 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ngataonga.org.nz  
-   Link: <a href="https://www.ngataonga.org.nz/search-use-collection/search/F1910/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/F1910/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: A TRUE STORYSeveral airborne lights were captured on film. The witnesses relate their experiences. The plane returned from Christchu...</p></details>
+   Link:<a href="https://www.ngataonga.org.nz/search-use-collection/search/F1910/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/F1910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: A TRUE STORYSeveral airborne lights were captured on film. The witnesses relate their experiences. The plane returned from Christchu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Bruce Maccabee Bruce S. Maccabee (  
-   Link: <a href="https://en.wikipedia.org/wiki/Bruce_Maccabee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bruce_Maccabee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bruce MaccabeeBruce S. Maccabee (May 6, 1942 – May 10, 2024) was an American optical physicist employed by the United States Navy, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bruce_Maccabee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bruce_Maccabee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bruce MaccabeeBruce S. Maccabee (May 6, 1942 – May 10, 2024) was an American optical physicist employed by the United States Navy, and...</p></details>
    Published: May 6, 1942  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Kaikoura</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</p></details>
+   Link:<a href="https://fr.wikipedia.org/wiki/Kaikoura" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Kaikoura</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KaikouraKaikoura est une petite ville de Nouvelle-Zélande d&#x27;environ 2 000 habitants. Elle est située sur l&#x27;île du Sud, à environ 180 k...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ngataonga.org.nz  
-   Link: <a href="https://www.ngataonga.org.nz/search-use-collection/search/31842/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/31842/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified flying objects].Morning Report programmes during the early January 1979. They cover reaction to the UFO sightings over the...</p></details>
+   Link:<a href="https://www.ngataonga.org.nz/search-use-collection/search/31842/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/31842/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified flying objects].Morning Report programmes during the early January 1979. They cover reaction to the UFO sightings over the...</p></details>
    Published: January 1979  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: odt.co.nz  
    Title: air force report explains kaikoura ufo sightings  
-   Link: <a href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</p></details>
+   Link:<a href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: the rnzafs orions were called to help in a variety of missions over the years bu  
-   Link: <a href="https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RNZAF&#x27;s Orions were called to help...In late December 1978 New Zealand was gripped by UFO fever after a series of unexplained sighti...</p></details>
+   Link:<a href="https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RNZAF&#x27;s Orions were called to help...In late December 1978 New Zealand was gripped by UFO fever after a series of unexplained sighti...</p></details>
    Published: December 1978  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Full text of "Declassified New Zealand UFO documents"  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lights over Kaikoura. A number of these have been picked up by Wellington radar. ** The plane did an orbit (hexagon on the map) which las...</p></details>
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights over Kaikoura. A number of these have been picked up by Wellington radar. ** The plane did an orbit (hexagon on the map) which las...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: in 1978 this footage was the best example of ufos  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15hzj2i/in_1978_this_footage_was_the_best_example_of_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15hzj2i/in_1978_this_footage_was_the_best_example_of_ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kaikōura Lights - in 1978 these were considered the best examples of UFOs caught on a professional TV camera at 14,000 feet...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15hzj2i/in_1978_this_footage_was_the_best_example_of_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15hzj2i/in_1978_this_footage_was_the_best_example_of_ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kaikōura Lights - in 1978 these were considered the best examples of UFOs caught on a professional TV camera at 14,000 feet...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ootage of the Kaikōura lights UFO sightings in December 1978.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ootage of the Kaikōura lights UFO sightings in December 1978.Read more...</p></details>
    Published: December 1978  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sunrisepage.com  
    Title: AIR 1080 6 897 Volume 1 1978 1981  
-   Link: <a href="https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand Defence Force UFO Files 1978-1981The files contain reports of sightings by private individuals and military personnel, invest...</p></details>
+   Link:<a href="https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand Defence Force UFO Files 1978-1981The files contain reports of sightings by private individuals and military personnel, invest...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rnzaf.proboards.com  
    Title: defence force releases ufo files  
-   Link: <a href="https://rnzaf.proboards.com/thread/12537/defence-force-releases-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://rnzaf.proboards.com/thread/12537/defence-force-releases-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wings Over New Zealand21 Dec 2010 — The files include every witness account of unidentified flying objects reported to authorities sinc...</p></details>
+   Link:<a href="https://rnzaf.proboards.com/thread/12537/defence-force-releases-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://rnzaf.proboards.com/thread/12537/defence-force-releases-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wings Over New Zealand21 Dec 2010 — The files include every witness account of unidentified flying objects reported to authorities sinc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: claytongraham.com.au  
-   Link: <a href="https://claytongraham.com.au/the-kaikoura-lights-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://claytongraham.com.au/the-kaikoura-lights-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE KAIKOURA LIGHTS MYSTERY - Clayton Graham14 Apr 2023 — Skeptics said it was Venus, it was squid boats, it was radar returns from a fie...</p></details>
+   Link:<a href="https://claytongraham.com.au/the-kaikoura-lights-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://claytongraham.com.au/the-kaikoura-lights-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE KAIKOURA LIGHTS MYSTERY - Clayton Graham14 Apr 2023 — Skeptics said it was Venus, it was squid boats, it was radar returns from a fie...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fosstodon.org  
    Title: darkufo: "The Kaikoura UFOs  
-   Link: <a href="https://fosstodon.org/%40darkufo/112858996395481959" target="_blank" rel="noopener noreferrer nofollow">https://fosstodon.org/%40darkufo/112858996395481959</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1978 On t…&quot;Jul 27, 2024 — YouTubeThe Kaikoura UFOs - 1978By Marlborough Video Vault · #UFO#UAP... You&#x27;d so rarely see any footage on TV...</p></details>
+   Link:<a href="https://fosstodon.org/%40darkufo/112858996395481959" target="_blank" rel="noopener noreferrer nofollow">https://fosstodon.org/%40darkufo/112858996395481959</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1978 On t…&quot;Jul 27, 2024 — YouTubeThe Kaikoura UFOs - 1978By Marlborough Video Vault · #UFO#UAP... You&#x27;d so rarely see any footage on TV...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: data0.eklablog.com  
-   Link: <a href="https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Exploration in 1984.) OPTICAL POWER OUTPUT OF AN UNIDENTIFIED. HIGH ALTITUDE LIGHT SOURCE by Bruce Maccabee (c) 2000 by B Macc...</p></details>
+   Link:<a href="https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Exploration in 1984.) OPTICAL POWER OUTPUT OF AN UNIDENTIFIED. HIGH ALTITUDE LIGHT SOURCE by Bruce Maccabee (c) 2000 by B Macc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metabunk.org  
    Title: kaikoura lights.12064  
-   Link: <a href="https://www.metabunk.org/threads/kaikoura-lights.12064/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/kaikoura-lights.12064/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kaikoura Lights10 Oct 2021 — He knew enough to know that what the Argosy aircraft&#x27;s occupants saw that night was neither squid boat light...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/kaikoura-lights.12064/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/kaikoura-lights.12064/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kaikoura Lights10 Oct 2021 — He knew enough to know that what the Argosy aircraft&#x27;s occupants saw that night was neither squid boat light...</p></details>

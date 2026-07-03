@@ -254,14 +254,14 @@ image: /assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illus
 
 ## Introduction
 
-The Petrozavodsk incident of September 1977 became one of the most famous UFO cases in Soviet and later Russian history because it combined two things that rarely occur together: a large number of witnesses and a real aerospace event occurring at nearly the same time. Residents of Petrozavodsk in Soviet Karelia reported a glowing object that appeared before dawn, expanded into a jellyfish-like form, and seemed to shower the city with luminous rays. The sighting quickly spread through Soviet media and became an international story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">February 9, 2026 — Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Ko...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
+The Petrozavodsk incident of September 1977 became one of the most famous UFO cases in Soviet and later Russian history because it combined two things that rarely occur together: a large number of witnesses and a real aerospace event occurring at nearly the same time. Residents of Petrozavodsk in Soviet Karelia reported a glowing object that appeared before dawn, expanded into a jellyfish-like form, and seemed to shower the city with luminous rays. The sighting quickly spread through Soviet media and became an international story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">February 9, 2026 — Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Ko...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illustration-1-dark.svg" | relative_url }}" alt="Petrozavodsk illustration 1" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case especially important is that it sits at the boundary between genuine mystery and likely misidentification. Soviet researchers never produced a completely unanimous explanation, but over time the strongest official and technical interpretation linked the event to the launch of the Kosmos-955 satellite from the Plesetsk Cosmodrome. The Petrozavodsk case therefore became a classic example of how rocket launches can create spectacular sky displays that look entirely unlike ordinary aircraft or familiar astronomical objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSR... Petrozavodsk Incident. This sighting was eventually attributed to the la...</span></span></span>
+What makes the case especially important is that it sits at the boundary between genuine mystery and likely misidentification. Soviet researchers never produced a completely unanimous explanation, but over time the strongest official and technical interpretation linked the event to the launch of the Kosmos-955 satellite from the Plesetsk Cosmodrome. The Petrozavodsk case therefore became a classic example of how rocket launches can create spectacular sky displays that look entirely unlike ordinary aircraft or familiar astronomical objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSR... Petrozavodsk Incident. This sighting was eventually attributed to the la...</span></span></span>
 
 ## What Witnesses Reported in 1977
 
-In the early hours of 20 September 1977, people across parts of north-western Soviet territory and neighbouring regions reported unusual lights in the sky. The most famous accounts came from Petrozavodsk, where witnesses described a bright object appearing over the city around 4 a.m. local time. Reports often compared it to a star, a glowing sphere, or a giant jellyfish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+In the early hours of 20 September 1977, people across parts of north-western Soviet territory and neighbouring regions reported unusual lights in the sky. The most famous accounts came from Petrozavodsk, where witnesses described a bright object appearing over the city around 4 a.m. local time. Reports often compared it to a star, a glowing sphere, or a giant jellyfish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
 Several recurring features appeared in witness testimony:
 
@@ -271,21 +271,21 @@ Several recurring features appeared in witness testimony:
 * Expansion into a circular or jellyfish-shaped luminous structure.
 * Long glowing filaments or rays extending downward.
 * Apparently slow movement or hovering.
-* Visibility lasting several minutes rather than a brief flash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+* Visibility lasting several minutes rather than a brief flash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 </div>
 
-The event was dramatic enough that newspapers reported it openly, an unusual development in the late Soviet period. Some witnesses believed the object was directly above the city. Others thought it was much farther away but exceptionally large. The difference mattered because human observers often have difficulty estimating the distance and size of luminous objects seen against a dark sky without familiar reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">February 9, 2026 — Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Ko...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
+The event was dramatic enough that newspapers reported it openly, an unusual development in the late Soviet period. Some witnesses believed the object was directly above the city. Others thought it was much farther away but exceptionally large. The difference mattered because human observers often have difficulty estimating the distance and size of luminous objects seen against a dark sky without familiar reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">February 9, 2026 — Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Ko...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
 
-Reports were not limited to Petrozavodsk itself. Observations came from a broad area extending across parts of northern Europe and the Soviet Union. That geographical spread later became one of the strongest clues that the phenomenon was linked to a high-altitude aerospace event rather than a local object hovering over a single city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+Reports were not limited to Petrozavodsk itself. Observations came from a broad area extending across parts of northern Europe and the Soviet Union. That geographical spread later became one of the strongest clues that the phenomenon was linked to a high-altitude aerospace event rather than a local object hovering over a single city.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
 ## Why the Incident Alarmed Soviet Authorities
 
 The Petrozavodsk sightings occurred during the Cold War, when unexplained aerial phenomena carried military implications. A strange object over northern Soviet territory could theoretically indicate foreign reconnaissance, experimental technology, missile activity, or a security breach.
 
-The event also attracted attention outside the USSR. Officials in northern European countries reportedly contacted Soviet scientific authorities asking whether the phenomenon was connected to weapons testing or posed any environmental risk. That reaction helped elevate the incident from a local curiosity into a matter of state interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+The event also attracted attention outside the USSR. Officials in northern European countries reportedly contacted Soviet scientific authorities asking whether the phenomenon was connected to weapons testing or posed any environmental risk. That reaction helped elevate the incident from a local curiosity into a matter of state interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
-The case contributed to the creation of formal Soviet programmes for studying anomalous atmospheric and aerospace phenomena. Rather than treating every report as evidence of extraterrestrial visitation, Soviet researchers increasingly approached such incidents as technical and scientific problems requiring investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+The case contributed to the creation of formal Soviet programmes for studying anomalous atmospheric and aerospace phenomena. Rather than treating every report as evidence of extraterrestrial visitation, Soviet researchers increasingly approached such incidents as technical and scientific problems requiring investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XBGGY5EebNU" title="Petrozavodsk Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XBGGY5EebNU" target="_blank" rel="noopener noreferrer">Petrozavodsk Phenomenon</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 1.7K &middot; Uploaded: September 2020 &middot; Length: 1 minute 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XBGGY5EebNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XBGGY5EebNU">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +293,7 @@ The case contributed to the creation of formal Soviet programmes for studying an
 
 The central debate surrounding Petrozavodsk concerns timing.
 
-Kosmos-955, a Soviet electronic intelligence satellite, was launched from the Plesetsk Cosmodrome in northern Russia on 20 September 1977. The launch occurred at roughly the same time as the reported sightings. Because Plesetsk lies north-east of Petrozavodsk, observers looking toward the launch trajectory could potentially have seen illuminated exhaust products at high altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+Kosmos-955, a Soviet electronic intelligence satellite, was launched from the Plesetsk Cosmodrome in northern Russia on 20 September 1977. The launch occurred at roughly the same time as the reported sightings. Because Plesetsk lies north-east of Petrozavodsk, observers looking toward the launch trajectory could potentially have seen illuminated exhaust products at high altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 Supporters of the rocket-launch explanation point to several factors:
 
@@ -302,13 +302,13 @@ Supporters of the rocket-launch explanation point to several factors:
 * The launch time closely matched the main wave of reports.
 * The phenomenon was visible across a very large region.
 * Similar luminous structures have since been observed during other satellite launches.
-* The object's apparent expansion resembles known rocket-plume behaviour in the upper atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+* The object's apparent expansion resembles known rocket-plume behaviour in the upper atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 </div>
 
-However, critics of the explanation have highlighted complications. Soviet investigators noted reports from some locations that appeared to precede the launch. Other witnesses described motion, positioning, or apparent hovering that seemed difficult to reconcile with a rocket travelling along a ballistic trajectory. Researchers examining eyewitness accounts also disagreed about the object's apparent size and direction of travel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+However, critics of the explanation have highlighted complications. Soviet investigators noted reports from some locations that appeared to precede the launch. Other witnesses described motion, positioning, or apparent hovering that seemed difficult to reconcile with a rocket travelling along a ballistic trajectory. Researchers examining eyewitness accounts also disagreed about the object's apparent size and direction of travel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
-This does not necessarily invalidate the launch explanation. Large public events often generate imperfect timelines, memory distortions, and multiple independent observations of different phenomena. Nevertheless, the timing discrepancies became one reason the case remained controversial even after aerospace specialists increasingly favoured a launch-related cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+This does not necessarily invalidate the launch explanation. Large public events often generate imperfect timelines, memory distortions, and multiple independent observations of different phenomena. Nevertheless, the timing discrepancies became one reason the case remained controversial even after aerospace specialists increasingly favoured a launch-related cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illustration-2-dark.svg" | relative_url }}" alt="Petrozavodsk illustration 2" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_petrozavodsk_rocket_49a93a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rocket Plumes Mimic UFOs
@@ -317,7 +317,7 @@ The most important lesson from Petrozavodsk is not whether every witness describ
 
 ### The twilight illumination effect
 
-One of the leading explanations advanced by Soviet researchers such as Yuliy Platov was that observers were on the dark side of Earth while the rocket and its exhaust plume remained illuminated by sunlight at high altitude. In those conditions, exhaust gases can become brilliantly visible against a dark sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+One of the leading explanations advanced by Soviet researchers such as Yuliy Platov was that observers were on the dark side of Earth while the rocket and its exhaust plume remained illuminated by sunlight at high altitude. In those conditions, exhaust gases can become brilliantly visible against a dark sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 A launch that appears ordinary in daylight can therefore look extraordinary before sunrise or after sunset.
 
@@ -330,7 +330,7 @@ As a rocket climbs, exhaust products spread into regions where the atmosphere is
 * Circular halos.
 * Cone-shaped structures.
 * Umbrella or jellyfish forms.
-* Apparently glowing domes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+* Apparently glowing domes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 </div>
 
@@ -340,11 +340,11 @@ These shapes are often much larger than observers expect, leading people to inte
 
 ### The illusion of hovering
 
-High-altitude rocket plumes can appear almost stationary even while travelling at great speed. Because they are extremely distant, changes in position occur slowly relative to the observer's field of view. Witnesses may therefore describe a moving object as hovering or hanging in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+High-altitude rocket plumes can appear almost stationary even while travelling at great speed. Because they are extremely distant, changes in position occur slowly relative to the observer's field of view. Witnesses may therefore describe a moving object as hovering or hanging in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 ### The “rays” over Petrozavodsk
 
-One of the most famous elements of the case was the report that the object emitted rays or luminous rain. Researchers favouring the launch explanation argued that these effects could result from illuminated exhaust structures, perspective effects, atmospheric scattering, and the visual appearance of expanding plume boundaries against the dark pre-dawn sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+One of the most famous elements of the case was the report that the object emitted rays or luminous rain. Researchers favouring the launch explanation argued that these effects could result from illuminated exhaust structures, perspective effects, atmospheric scattering, and the visual appearance of expanding plume boundaries against the dark pre-dawn sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VFq8nqD18mw" title="Soviet UFO Secrets | Dyatlov Pass, Voronezh &amp; Petrozavodsk | Full Documentary Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VFq8nqD18mw" target="_blank" rel="noopener noreferrer">Soviet UFO Secrets | Dyatlov Pass, Voronezh &amp; Petrozavodsk | Full Documentary Movie</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 7.2K &middot; Uploaded: May 2025 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VFq8nqD18mw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VFq8nqD18mw">Open on YouTube</a></p></div></div></div>
 
@@ -352,9 +352,9 @@ One of the most famous elements of the case was the report that the object emitt
 
 Although the rocket-plume interpretation became the dominant scientific explanation, not everyone accepted it.
 
-Some Soviet-era researchers argued that witness descriptions contained details not easily reproduced by known launch effects. Others pointed to the complexity of the reports, noting that sightings occurred across multiple locations and may not all have referred to the same phenomenon. The Soviet Academy of Sciences' early investigations did not claim to have fully solved every aspect of the event. One preliminary assessment reportedly concluded that the available data did not allow a completely satisfactory explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+Some Soviet-era researchers argued that witness descriptions contained details not easily reproduced by known launch effects. Others pointed to the complexity of the reports, noting that sightings occurred across multiple locations and may not all have referred to the same phenomenon. The Soviet Academy of Sciences' early investigations did not claim to have fully solved every aspect of the event. One preliminary assessment reportedly concluded that the available data did not allow a completely satisfactory explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
-Even some investigators who accepted the Kosmos-955 connection suggested that additional atmospheric, geophysical, or military factors might have influenced what people observed. Later discussions also mentioned the possibility that other tests or activities in the region occurred around the same period, further complicating reconstruction efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+Even some investigators who accepted the Kosmos-955 connection suggested that additional atmospheric, geophysical, or military factors might have influenced what people observed. Later discussions also mentioned the possibility that other tests or activities in the region occurred around the same period, further complicating reconstruction efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 The result is a case that remains historically important without necessarily remaining scientifically mysterious. The strongest explanation is a rocket launch, yet the enormous volume of witness testimony ensures continuing debate.
 
@@ -363,201 +363,201 @@ The result is a case that remains historically important without necessarily rem
 
 Petrozavodsk occupies a special place in the Russian UFO record because it helped establish a recurring pattern: spectacular sightings in northern Russia often coincide with aerospace activity.
 
-Subsequent Soviet investigations found that many dramatic UFO reports were linked to satellite launches, missile tests, rocket exhaust clouds, and other high-altitude technological events. The Petrozavodsk incident became the most famous demonstration of that pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSR... Petrozavodsk Incident. This sighting was eventually attributed to the la...</span></span></span>
+Subsequent Soviet investigations found that many dramatic UFO reports were linked to satellite launches, missile tests, rocket exhaust clouds, and other high-altitude technological events. The Petrozavodsk incident became the most famous demonstration of that pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSR... Petrozavodsk Incident. This sighting was eventually attributed to the la...</span></span></span>
 
-The case also foreshadowed a phenomenon that later became familiar worldwide. Modern observers frequently record so-called “space jellyfish” produced by rockets launched at twilight. Videos from the United States, Russia, and other spacefaring nations show glowing plume structures remarkably similar to descriptions from Petrozavodsk in 1977. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
+The case also foreshadowed a phenomenon that later became familiar worldwide. Modern observers frequently record so-called “space jellyfish” produced by rockets launched at twilight. Videos from the United States, Russia, and other spacefaring nations show glowing plume structures remarkably similar to descriptions from Petrozavodsk in 1977.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 955</span><span class="citation-popover-snippet">April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</span><span class="citation-popover-meta">Published: April 11, 2026</span></span></span>
 
 For that reason, Petrozavodsk remains one of the most instructive UFO cases in the [Russian Federation]({{ 'russian-federation/' | relative_url }})'s wider history. It demonstrates how a real, observable event can be extraordinary enough to generate thousands of UFO reports while still having a largely conventional explanation rooted in spaceflight technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Petrozavodsk a UFO or a Rocket Plume?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Petrozavodsk a UFO or a Rocket Plume?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines major UFO reports and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines major UFO reports and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how investigators separate anomalies from conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how investigators separate anomalies from conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Represents contemporary attempts to explain unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents contemporary attempts to explain unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for how unusual sky phenomena become enduring UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how unusual sky phenomena become enduring UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-petrozavodsk-a-ufo-or-a-rocket-plume-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ For that reason, Petrozavodsk remains one of the most instructive UFO cases in t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ For that reason, Petrozavodsk remains one of the most instructive UFO cases in t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ For that reason, Petrozavodsk remains one of the most instructive UFO cases in t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ For that reason, Petrozavodsk remains one of the most instructive UFO cases in t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ For that reason, Petrozavodsk remains one of the most instructive UFO cases in t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,95 +760,94 @@ For that reason, Petrozavodsk remains one of the most instructive UFO cases in t
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Petrozavodsk phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2026 — Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Ko...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2026 — Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Ko...</p></details>
    Published: February 9, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kosmos 955  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_955</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_955" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_955</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2026 — Kosmos 955 was a Soviet ELINT satellite, launched from the Plesetsk Cosmodrome on September 20, 1977, at 01:01 UTC. The...</p></details>
    Published: April 11, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerA History of State UFO Research in the USSR... Petrozavodsk Incident. This sighting was eventually attributed to the la...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerA History of State UFO Research in the USSR... Petrozavodsk Incident. This sighting was eventually attributed to the la...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: themoscowtimes.com  
-   Link: <a href="https://www.themoscowtimes.com/all/52335?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/all/52335?amp=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Look at the Official Soviet X-Files Investigation31 Mar 2016 — It was &quot;the greatest UFO cover-up in history.&quot; Rather than alien landing...</p></details>
+   Link:<a href="https://www.themoscowtimes.com/all/52335?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/all/52335?amp=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Look at the Official Soviet X-Files Investigation31 Mar 2016 — It was &quot;the greatest UFO cover-up in history.&quot; Rather than alien landing...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arcana.wikidot.com  
    Title: petrozavodsk incident  
-   Link: <a href="https://arcana.wikidot.com/petrozavodsk-incident" target="_blank" rel="noopener noreferrer nofollow">https://arcana.wikidot.com/petrozavodsk-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident - The Arcana Wiki - WikidotToday, Petrozavodsk Incident is attributed to the atmospheric effects caused by launch of Kosmos 955...</p></details>
+   Link:<a href="https://arcana.wikidot.com/petrozavodsk-incident" target="_blank" rel="noopener noreferrer nofollow">https://arcana.wikidot.com/petrozavodsk-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident - The Arcana Wiki - WikidotToday, Petrozavodsk Incident is attributed to the atmospheric effects caused by launch of Kosmos 955...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: astronautix.com  
-   Link: <a href="https://www.astronautix.com/g/giantufoovetwocontinents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/g/giantufoovetwocontinents.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant UFO Over Two ContinentsAnother major factor is that there are too many UFO reports to be handled by the handful of qualified part-t...</p></details>
+   Link:<a href="https://www.astronautix.com/g/giantufoovetwocontinents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/g/giantufoovetwocontinents.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant UFO Over Two ContinentsAnother major factor is that there are too many UFO reports to be handled by the handful of qualified part-t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/pobjg7/the_petrozavodsk_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/pobjg7/the_petrozavodsk_incident/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/pobjg7/the_petrozavodsk_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/pobjg7/the_petrozavodsk_incident/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nlp.stanford.edu  
-   Link: <a href="https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words" target="_blank" rel="noopener noreferrer nofollow">https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(text)... explain explained explaining explains explanation explanations explanatory expletive expletives explication explicit explicitly...</p></details>
+   Link:<a href="https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words" target="_blank" rel="noopener noreferrer nofollow">https://nlp.stanford.edu/~lmthang/morphoNLM/cwCsmRNN.words</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(text)... explain explained explaining explains explanation explanations explanatory expletive expletives explication explicit explicitly...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Petrozavodsk Phenomenon: A Celestial Mystery Seen...Jul 24, 2025 — On September 20, 1977, citizens of northern Europe and Soviet Rus...</p></details>
+   Link:<a href="https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Petrozavodsk Phenomenon: A Celestial Mystery Seen...Jul 24, 2025 — On September 20, 1977, citizens of northern Europe and Soviet Rus...</p></details>
    Published: September 20, 1977  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: themoscowtimes.com  
-   Link: <a href="https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: A Look at the Official Soviet X-Files...31 Mar 2016 — It was &quot;the greatest UFO cover-up in history.&quot; Rather than alien...</p></details>
+   Link:<a href="https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: A Look at the Official Soviet X-Files...31 Mar 2016 — It was &quot;the greatest UFO cover-up in history.&quot; Rather than alien...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XBGGY5EebNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XBGGY5EebNU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Petrozavodsk PhenomenonThe Petrozavodsk phenomenon was a of celestial events of a disputed nature that occurred on September 20, 1977. Th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XBGGY5EebNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XBGGY5EebNU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Petrozavodsk PhenomenonThe Petrozavodsk phenomenon was a of celestial events of a disputed nature that occurred on September 20, 1977. Th...</p></details>
    Published: September 20, 1977  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/10q54b5/what_was_the_petrozavodsk_phenomenon_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10q54b5/what_was_the_petrozavodsk_phenomenon_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else know anything about it. Apparently, there is a Netflix docuseries on it. Top Secret UFO Projects...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/10q54b5/what_was_the_petrozavodsk_phenomenon_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10q54b5/what_was_the_petrozavodsk_phenomenon_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else know anything about it. Apparently, there is a Netflix docuseries on it. Top Secret UFO Projects...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: moviemaker.com  
    Title: petrozavodsk phenomenon jellyfish shaped ufo russia 1977  
-   Link: <a href="https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Petrozavodsk Phenomenon, Jellyfish...31 Jan 2023 — Looking for more information on the Petrozavodsk Phenomenon, the jellyfi...</p></details>
+   Link:<a href="https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Petrozavodsk Phenomenon, Jellyfish...31 Jan 2023 — Looking for more information on the Petrozavodsk Phenomenon, the jellyfi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sputniknews.com  
-   Link: <a href="https://sputniknews.com/20180324/paranormal-phenomena-ufo-studies-1062862671.html" target="_blank" rel="noopener noreferrer nofollow">https://sputniknews.com/20180324/paranormal-phenomena-ufo-studies-1062862671.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st-launched by the Russian military earlier in the day; the plume of the missiles&#x27;...</p></details>
+   Link:<a href="https://sputniknews.com/20180324/paranormal-phenomena-ufo-studies-1062862671.html" target="_blank" rel="noopener noreferrer nofollow">https://sputniknews.com/20180324/paranormal-phenomena-ufo-studies-1062862671.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st-launched by the Russian military earlier in the day; the plume of the missiles&#x27;...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cryptidz.fandom.com  
    Title: Jellyfish Anomaly of Petrosavodsk | Cryptid Wiki  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Jellyfish_Anomaly_of_Petrosavodsk" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Jellyfish_Anomaly_of_Petrosavodsk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomaly of Petrosavodsk - Cryptid Wiki - FandomGromov said: &quot;In my opinion it was either a UFO, the messenger of a higher intelligence wi...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Jellyfish_Anomaly_of_Petrosavodsk" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Jellyfish_Anomaly_of_Petrosavodsk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomaly of Petrosavodsk - Cryptid Wiki - FandomGromov said: &quot;In my opinion it was either a UFO, the messenger of a higher intelligence wi...</p></details>

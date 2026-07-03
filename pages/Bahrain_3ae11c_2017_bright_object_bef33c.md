@@ -248,14 +248,14 @@ image: /assets/images/Bahrain_3ae11c_2017_bright_object_bef33c-Illustration-1-so
 
 ## Introduction
 
-In October 2017, a bright object crossing the evening sky above Bahrain triggered a familiar wave of speculation. Social-media users described it as a UFO, a missile, or an unexplained fiery craft, while videos spread across the Gulf within minutes. Yet the available [evidence]({{ 'evidence/' | relative_url }}) quickly pointed in a far more ordinary direction: a high-altitude atmospheric event linked either to a meteor-like fireball or to the re-entry of space hardware burning up over the region. Reports from Gulf astronomy observers and space-tracking specialists strongly favoured a satellite or rocket-body re-entry rather than an anomalous aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-snippet">Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</span></span></span>
+In October 2017, a bright object crossing the evening sky above Bahrain triggered a familiar wave of speculation. Social-media users described it as a UFO, a missile, or an unexplained fiery craft, while videos spread across the Gulf within minutes. Yet the available [evidence]({{ 'evidence/' | relative_url }}) quickly pointed in a far more ordinary direction: a high-altitude atmospheric event linked either to a meteor-like fireball or to the re-entry of space hardware burning up over the region. Reports from Gulf astronomy observers and space-tracking specialists strongly favoured a satellite or rocket-body re-entry rather than an anomalous aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-snippet">Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</span></span></span>
 
 <img src="{{ "/assets/images/Bahrain_3ae11c_2017_bright_object_bef33c-Illustration-1-dark.svg" | relative_url }}" alt="2017 Object illustration 1" data-theme-src-dark="{{ "/assets/images/Bahrain_3ae11c_2017_bright_object_bef33c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bahrain_3ae11c_2017_bright_object_bef33c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Bahrain’s UFO record, the incident matters because it is one of the country’s clearest examples of a “UFO” that became less mysterious as more regional evidence emerged. Instead of remaining a local rumour, the event was observed across multiple Gulf states, allowing researchers to compare witness accounts, trajectories and timing in a way that is rarely possible with isolated sightings.
 
 ## What witnesses saw over Bahrain
 
-The sighting occurred on the evening of 16 October 2017. Residents in Bahrain reported a bright glowing object moving across the sky, leaving a visible fiery trail behind it. Videos and photographs circulated rapidly online, especially through Gulf-based social media accounts and local news pages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
+The sighting occurred on the evening of 16 October 2017. Residents in Bahrain reported a bright glowing object moving across the sky, leaving a visible fiery trail behind it. Videos and photographs circulated rapidly online, especially through Gulf-based social media accounts and local news pages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
 
 Several details made the event appear dramatic to observers:
 
@@ -268,31 +268,31 @@ Several details made the event appear dramatic to observers:
 
 </div>
 
-That combination often leads the public to assume something artificial or military is involved. Fast-moving aircraft lights normally do not break apart visibly, while meteors are usually seen only for a few seconds. The Bahrain object reportedly remained visible for close to a minute in some locations across the Gulf. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
+That combination often leads the public to assume something artificial or military is involved. Fast-moving aircraft lights normally do not break apart visibly, while meteors are usually seen only for a few seconds. The Bahrain object reportedly remained visible for close to a minute in some locations across the Gulf.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
 
-The regional scale of the sighting also fed rumours. Witnesses from Bahrain, the UAE, Oman, Kuwait and eastern Saudi Arabia all discussed the same object online almost simultaneously. In the absence of immediate official clarification, speculation escalated quickly into missile theories and UFO claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
+The regional scale of the sighting also fed rumours. Witnesses from Bahrain, the UAE, Oman, Kuwait and eastern Saudi Arabia all discussed the same object online almost simultaneously. In the absence of immediate official clarification, speculation escalated quickly into missile theories and UFO claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
 
 ## Why experts leaned toward space debris
 
-The strongest technical explanation came from regional astronomy and space-tracking analysis rather than UFO investigators. The UAE Astronomical Cameras Network later identified the object as the re-entry of a Russian rocket body connected to the Progress MS-07 mission. According to the network, the object visible over Bahrain and neighbouring Gulf states was the second stage of a Soyuz rocket re-entering Earth’s atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[Astronomy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Astronomy CenterUAE Astronomical Cameras Network (UACN)16 October 2017: Satellite re-entry was seen on Monday 16 October 2017 at 19:30 (U...</span><span class="citation-popover-meta">Published: October 2017</span></span></span>
+The strongest technical explanation came from regional astronomy and space-tracking analysis rather than UFO investigators. The UAE Astronomical Cameras Network later identified the object as the re-entry of a Russian rocket body connected to the Progress MS-07 mission. According to the network, the object visible over Bahrain and neighbouring Gulf states was the second stage of a Soyuz rocket re-entering Earth’s atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[Astronomy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Astronomy CenterUAE Astronomical Cameras Network (UACN)16 October 2017: Satellite re-entry was seen on Monday 16 October 2017 at 19:30 (U...</span><span class="citation-popover-meta">Published: October 2017</span></span></span>
 
 This explanation matched several observed characteristics unusually well.
 
 ### The event lasted too long for a typical meteor
 
-Natural meteors often flash brightly but disappear quickly. Re-entering space debris behaves differently because it travels through the atmosphere at a shallower angle and at lower speeds than many meteoroids. As a result, debris can remain visible for tens of seconds while slowly breaking apart. Aerospace researchers note that re-entering objects commonly produce a bright head, a glowing tail and multiple fragments spread across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
+Natural meteors often flash brightly but disappear quickly. Re-entering space debris behaves differently because it travels through the atmosphere at a shallower angle and at lower speeds than many meteoroids. As a result, debris can remain visible for tens of seconds while slowly breaking apart. Aerospace researchers note that re-entering objects commonly produce a bright head, a glowing tail and multiple fragments spread across the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
 
 Witnesses in Bahrain described exactly this sort of behaviour.
 
 ### Fragmentation pointed toward man-made material
 
-Videos from across the Gulf showed the object separating into several glowing pieces rather than exploding in a single flash. That pattern is common during satellite or rocket-body re-entry because different components burn at different rates. Thin structural materials, fuel tanks and insulation can detach and incandesce separately as atmospheric drag increases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
+Videos from across the Gulf showed the object separating into several glowing pieces rather than exploding in a single flash. That pattern is common during satellite or rocket-body re-entry because different components burn at different rates. Thin structural materials, fuel tanks and insulation can detach and incandesce separately as atmospheric drag increases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
 
 By contrast, many natural meteors either burn out rapidly or produce a shorter-lived fireball.
 
 ### The trajectory matched a regional atmospheric pass
 
-The object’s visibility from Bahrain, Oman, Kuwait, Saudi Arabia and the UAE suggested a very high-altitude event travelling across a broad geographic corridor. A low-flying aircraft or local atmospheric anomaly would not normally be seen over such a large area at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
+The object’s visibility from Bahrain, Oman, Kuwait, Saudi Arabia and the UAE suggested a very high-altitude event travelling across a broad geographic corridor. A low-flying aircraft or local atmospheric anomaly would not normally be seen over such a large area at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
 
 Space re-entries, however, are often visible across entire regions because the objects burn up high in the upper atmosphere. The Gulf-wide observation pattern therefore strengthened the debris explanation considerably.
 
@@ -312,7 +312,7 @@ In many UFO cases, investigators are limited to:
 
 </div>
 
-The 2017 Bahrain object was different because observers across several countries independently described a similar phenomenon. That allowed astronomers and satellite trackers to compare timing windows and flight paths against known orbital re-entry predictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
+The 2017 Bahrain object was different because observers across several countries independently described a similar phenomenon. That allowed astronomers and satellite trackers to compare timing windows and flight paths against known orbital re-entry predictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span>
 
 This is a recurring feature of Gulf-region sky incidents. Bahrain’s small geographic size means many dramatic aerial phenomena are actually regional atmospheric events rather than uniquely Bahraini occurrences. High-altitude meteors, bolides and re-entering satellites can easily be visible across the Arabian Gulf because of:
 
@@ -344,9 +344,9 @@ Several common UFO indicators were absent:
 
 </div>
 
-Instead, the object behaved consistently with atmospheric burn-up physics. The visible fragmentation, sustained glow and long travel path all aligned with known re-entry characteristics described by aerospace specialists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
+Instead, the object behaved consistently with atmospheric burn-up physics. The visible fragmentation, sustained glow and long travel path all aligned with known re-entry characteristics described by aerospace specialists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
 
-Media coverage in the Gulf also shifted noticeably within a short period. Early headlines focused on mystery and speculation, but later reporting increasingly referred to meteors, space debris or rocket re-entry explanations rather than unidentified craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-snippet">Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</span></span></span>
+Media coverage in the Gulf also shifted noticeably within a short period. Early headlines focused on mystery and speculation, but later reporting increasingly referred to meteors, space debris or rocket re-entry explanations rather than unidentified craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-snippet">Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</span></span></span>
 
 That does not mean every witness immediately accepted the explanation. UFO narratives often persist online after technical clarifications appear, especially when dramatic footage exists. But in evidential terms, the Bahrain 2017 incident sits much closer to a resolved atmospheric event than to an unexplained aerial case.
 
@@ -366,197 +366,197 @@ It highlights several recurring themes in Bahrain’s small public UFO history:
 
 </div>
 
-The case also illustrates an important distinction in UFO research between “unidentified at first sight” and “unexplainable after investigation”. In Bahrain’s 2017 event, the object initially appeared mysterious because of its brightness, fragmentation and visibility across multiple countries. Once orbital re-entry data and regional observations were compared, however, the ordinary explanation became considerably more persuasive than the UFO interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-snippet">Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</span></span></span>
+The case also illustrates an important distinction in UFO research between “unidentified at first sight” and “unexplainable after investigation”. In Bahrain’s 2017 event, the object initially appeared mysterious because of its brightness, fragmentation and visibility across multiple countries. Once orbital re-entry data and regional observations were compared, however, the ordinary explanation became considerably more persuasive than the UFO interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-snippet">Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Bahrain&#x27;s 2017 UFO Actually Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Bahrain&#x27;s 2017 UFO Actually Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains how investigators separate unexplained sightings from conventional aerospace events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how investigators separate unexplained sightings from conventional aerospace events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification and evaluation of reported aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification and evaluation of reported aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Directly addresses mistaken interpretations of astronomical and atmospheric events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses mistaken interpretations of astronomical and atmospheric events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Useful for understanding fireballs and meteor-like sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding fireballs and meteor-like sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-bahrain-s-2017-ufo-actually-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The case also illustrates an important distinction in UFO research between “un
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The case also illustrates an important distinction in UFO research between “un
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The case also illustrates an important distinction in UFO research between “un
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The case also illustrates an important distinction in UFO research between “un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The case also illustrates an important distinction in UFO research between “un
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,85 +762,85 @@ The case also illustrates an important distinction in UFO research between “un
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: watchers.news  
-   Link: <a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</p></details>
+   Link:<a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — The event lasted more than 55 seconds and was visi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</p></details>
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: english.alarabiya.net  
-   Link: <a href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</p></details>
+   Link:<a href="https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/News/gulf/2017/10/17/-Flame-in-the-sky-spotted-by-UAE-residents-turns-out-to-be-meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Al Arabiya English&#x27;Flame in UAE sky&#x27; turns out to be Russian space debrisThe light seen in the night sky over the United Arab Emirates li...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astronomycenter.net  
-   Link: <a href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/uacn/index.html?l=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy CenterUAE Astronomical Cameras Network (UACN)16 October 2017: Satellite re-entry was seen on Monday 16 October 2017 at 19:30 (U...</p></details>
+   Link:<a href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/uacn/index.html?l=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy CenterUAE Astronomical Cameras Network (UACN)16 October 2017: Satellite re-entry was seen on Monday 16 October 2017 at 19:30 (U...</p></details>
    Published: October 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis meteorite fall, which was one of the largest recorded to date, was reported as very bright and produced numerou...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis meteorite fall, which was one of the largest recorded to date, was reported as very bright and produced numerou...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.org  
    Title: Did interstellar debris fall to the sea floor?  
-   Link: <a href="https://www.science.org/content/article/did-interstellar-debris-fall-sea-floor-claim-meets-sea-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/did-interstellar-debris-fall-sea-floor-claim-meets-sea-doubt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim meets...30 Aug 2023 — Did interstellar debris fall to the sea floor? Claim meets sea of doubt. Controversial astrophysicist says m...</p></details>
+   Link:<a href="https://www.science.org/content/article/did-interstellar-debris-fall-sea-floor-claim-meets-sea-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/did-interstellar-debris-fall-sea-floor-claim-meets-sea-doubt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim meets...30 Aug 2023 — Did interstellar debris fall to the sea floor? Claim meets sea of doubt. Controversial astrophysicist says m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gulfnews.com  
    Title: light streaking through dubais night sky meteorite or satellite 1.2107170  
-   Link: <a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Light streaking through Dubai&#x27;s night sky: Meteorite or...1 Nov 2018 — Space tracking sites suggest Russian-made spacecraft re-entered a...</p></details>
+   Link:<a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light streaking through Dubai&#x27;s night sky: Meteorite or...1 Nov 2018 — Space tracking sites suggest Russian-made spacecraft re-entered a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>well not quite, the lights are a string of satellites being sent into space to further improve LEO satellite broadband across the...Read...</p></details>
+   Link:<a href="https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStarOnline/posts/photos-and-videos-of-the-unusual-sighting-went-viral-on-social-media-sparking-a-/1413781787451009/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>well not quite, the lights are a string of satellites being sent into space to further improve LEO satellite broadband across the...Read...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iflscience.com  
-   Title: astronomers asked observe alien megastructure star more detail 31439  
-   Link: <a href="https://www.iflscience.com/astronomers-asked-observe-alien-megastructure-star-more-detail-31439" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/astronomers-asked-observe-alien-megastructure-star-more-detail-31439</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers Asked To Observe &quot;Alien Megastructure Star...22 Oct 2015 — Astronomers Asked To Observe &quot;Alien Megastructure Star&quot; In More D...</p></details>
+   Title: astronomers asked observe alien megastructure star  
+   Link:<a href="https://www.iflscience.com/astronomers-asked-observe-alien-megastructure-star-more-detail-31439" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/astronomers-asked-observe-alien-megastructure-star-more-detail-31439</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers Asked To Observe &quot;Alien Megastructure Star...22 Oct 2015 — Astronomers Asked To Observe &quot;Alien Megastructure Star&quot; In More D...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ibtimes.co.in  
-   Link: <a href="https://www.ibtimes.co.in/ufos-2017-major-sightings-that-were-covered-by-main-media-watch-video-753463" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/ufos-2017-major-sightings-that-were-covered-by-main-media-watch-video-753463</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in 2017: Major sightings that were covered by main...16 Dec 2017 — UFOs in 2017: Major sightings that were covered by main media [W...</p></details>
+   Link:<a href="https://www.ibtimes.co.in/ufos-2017-major-sightings-that-were-covered-by-main-media-watch-video-753463" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/ufos-2017-major-sightings-that-were-covered-by-main-media-watch-video-753463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in 2017: Major sightings that were covered by main...16 Dec 2017 — UFOs in 2017: Major sightings that were covered by main media [W...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/1178981/page_view_event/metrics/page_action/aggregate" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/1178981/page_view_event/metrics/page_action/aggregate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arab NewsDid you see the fiery streaks in the sky over the Gulf on...17 Oct 2017 — There were sightings reported in Dubai and Abu Dhabi...</p></details>
+   Link:<a href="https://www.arabnews.com/node/1178981/page_view_event/metrics/page_action/aggregate" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/1178981/page_view_event/metrics/page_action/aggregate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arab NewsDid you see the fiery streaks in the sky over the Gulf on...17 Oct 2017 — There were sightings reported in Dubai and Abu Dhabi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQ3fF5UAYHi/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ3fF5UAYHi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor was seen streaking across Bahrain&#x27;s southern sky...A meteor was seen streaking across Bahrain&#x27;s southern sky last night, spotte...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQ3fF5UAYHi/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ3fF5UAYHi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor was seen streaking across Bahrain&#x27;s southern sky...A meteor was seen streaking across Bahrain&#x27;s southern sky last night, spotte...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: &middot; Qatar's skies are expected to witness  
-   Link: <a href="https://www.instagram.com/reel/DQ3mivuEYUp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ3mivuEYUp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A bright meteor was spotted over the south of Bahrain last...A bright meteor was spotted over the south of Bahrain last night, visible t...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQ3mivuEYUp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ3mivuEYUp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A bright meteor was spotted over the south of Bahrain last...A bright meteor was spotted over the south of Bahrain last night, visible t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GulfInsider/posts/a-bright-meteor-was-spotted-over-the-south-of-bahrain-last-night-visible-to-resi/1293251939507426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GulfInsider/posts/a-bright-meteor-was-spotted-over-the-south-of-bahrain-last-night-visible-to-resi/1293251939507426/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sky was Starlink-30167, a satellite from SpaceX&#x27;s Starlink...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/GulfInsider/posts/a-bright-meteor-was-spotted-over-the-south-of-bahrain-last-night-visible-to-resi/1293251939507426/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GulfInsider/posts/a-bright-meteor-was-spotted-over-the-south-of-bahrain-last-night-visible-to-resi/1293251939507426/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky was Starlink-30167, a satellite from SpaceX&#x27;s Starlink...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mostamazingtop10videos/posts/real-alien-photos-that-were-stolen-from-nasa/938098304354636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mostamazingtop10videos/posts/real-alien-photos-that-were-stolen-from-nasa/938098304354636/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Knight Satellites! Updated on May 8, 2017...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mostamazingtop10videos/posts/real-alien-photos-that-were-stolen-from-nasa/938098304354636/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mostamazingtop10videos/posts/real-alien-photos-that-were-stolen-from-nasa/938098304354636/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Knight Satellites! Updated on May 8, 2017...Read more...</p></details>
    Published: May 8, 2017

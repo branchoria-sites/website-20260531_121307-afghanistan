@@ -1199,28 +1199,28 @@ That makes Turkmenistan a thin-evidence UFO page rather than a classic case file
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1-overview.webp" | relative_url }}" alt="Overview image for What Is Really Known About Turkmenistan..." loading="eager" decoding="sync" fetchpriority="high">
 ## What is actually documented?
 
-The central document is a 12 November 2004 U.S. Embassy Ashgabat cable titled “Turkmenistan, Civil Society and UFOs”. It records a 5 November meeting in Turkmenabat, in Lebap province, between the embassy deputy chief of mission, the USAID director, and members of the Union of UFOlogists of Turkmenabat. The cable says the organisation was originally founded to study life on other planets, had attended international UFO forums, and had published on the subject. It also says that, over time, the group’s work became more practical: helping NGOs register, assisting small and medium-sized businesses, distributing humanitarian aid, and acting as an umbrella for other local activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
+The central document is a 12 November 2004 U.S. Embassy Ashgabat cable titled “Turkmenistan, Civil Society and UFOs”. It records a 5 November meeting in Turkmenabat, in Lebap province, between the embassy deputy chief of mission, the USAID director, and members of the Union of UFOlogists of Turkmenabat. The cable says the organisation was originally founded to study life on other planets, had attended international UFO forums, and had published on the subject. It also says that, over time, the group’s work became more practical: helping NGOs register, assisting small and medium-sized businesses, distributing humanitarian aid, and acting as an umbrella for other local activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
 
-The UFO-specific passage is narrow but important. Ovezberdy Muradov, the UOU president, reportedly told U.S. officials that Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace. In the same passage, he added the limiting detail that there had been “no confirmed sightings of UFOs in Turkmenistan”. That caveat matters: the cable is evidence for a local UFO organisation and second-hand official curiosity, not evidence for a verified anomalous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
+The UFO-specific passage is narrow but important. Ovezberdy Muradov, the UOU president, reportedly told U.S. officials that Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace. In the same passage, he added the limiting detail that there had been “no confirmed sightings of UFOs in Turkmenistan”. That caveat matters: the cable is evidence for a local UFO organisation and second-hand official curiosity, not evidence for a verified anomalous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
 
-The same cable also explains why UFO interest may have been socially useful in Turkmenabat. Muradov told U.S. officials that “everyone is interested in UFOs”, and the embassy described the group as having good rapport with local authorities. The organisation’s reputation seems to have rested less on solving aerial mysteries than on being a trusted, flexible local actor in a restrictive civic environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
+The same cable also explains why UFO interest may have been socially useful in Turkmenabat. Muradov told U.S. officials that “everyone is interested in UFOs”, and the embassy described the group as having good rapport with local authorities. The organisation’s reputation seems to have rested less on solving aerial mysteries than on being a trusted, flexible local actor in a restrictive civic environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really Known About Turkmenistan... illustration 1" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Turkmenabat matters more than Ashgabat in this record
 
-The only well-sourced national UFO node is not the capital, Ashgabat, but Turkmenabat in eastern Turkmenistan. That is significant because Turkmenabat sits in Lebap province near the Amu Darya corridor and the Uzbek border, away from the marble-clad capital and closer to cross-border Central Asian traffic, rural settlements, and desert-edge skies. The U.S. cable describes the UOU as having more than 1,000 members, including some from other provinces, but its organisational base was clearly Turkmenabat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
+The only well-sourced national UFO node is not the capital, Ashgabat, but Turkmenabat in eastern Turkmenistan. That is significant because Turkmenabat sits in Lebap province near the Amu Darya corridor and the Uzbek border, away from the marble-clad capital and closer to cross-border Central Asian traffic, rural settlements, and desert-edge skies. The U.S. cable describes the UOU as having more than 1,000 members, including some from other provinces, but its organisational base was clearly Turkmenabat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
 
 This gives Turkmenistan’s UFO record a regional rather than capital-centred shape. There is no public archive showing a dense Ashgabat sighting chronology, no released Turkmen air-defence file comparable to better-known Cold War military UFO records, and no verified national investigation dossier. Instead, the strongest trail leads to a local NGO whose UFO identity gave it a memorable public profile and perhaps unusual access to officials.
 
-A nearby but non-Turkmen case illustrates the problem of borderland interpretation. A NUFORC report from Shavat, Uzbekistan, near the Turkmenistan border, describes a green moving light seen in 2005 and reported in 2007. It is not a Turkmenistan case, and it rests on witness testimony rather than official investigation, but it shows the sort of regional sighting claim that can drift into broader “Turkmenistan UFO” discussions because of proximity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A nearby but non-Turkmen case illustrates the problem of borderland interpretation. A NUFORC report from Shavat, Uzbekistan, near the Turkmenistan border, describes a green moving light seen in 2005 and reported in 2007. It is not a Turkmenistan case, and it rests on witness testimony rather than official investigation, but it shows the sort of regional sighting claim that can drift into broader “Turkmenistan UFO” discussions because of proximity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G0oUpgzkl6c" title="First Impressions of Ashgabat, Turkmenistan (World&#x27;s Strangest City)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G0oUpgzkl6c" target="_blank" rel="noopener noreferrer">First Impressions of Ashgabat, Turkmenistan (World&#x27;s Strangest City)</a></p><p class="youtube-embed-meta">Channel: Doug Barnard &middot; Views: 93.4K &middot; Uploaded: January 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G0oUpgzkl6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G0oUpgzkl6c">Open on YouTube</a></p></div></div></div>
 
 ## The Karakum stories remain weakly sourced
 
-Online discussions sometimes refer to alleged Soviet-era UFO reports from the Karakum Desert: silent lights, metallic spheres, military interest, or marks in the sand. The problem is provenance. In the accessible public record, these claims are generally repeated in forum-style or social-media contexts without a clear primary document, named witness chain, date, location, or investigation file. A recent Central Asia-focused article reviewing newly released U.S. UFO files similarly noted that revived [Karakum claims]({{ 'karakum-claims/' | relative_url }}) lacked a government or military source, while identifying the 2004 Turkmenabat NGO cable as the better documented Turkmenistan-related oddity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">pentagon ufo files include 1994 tajik air report over kazakhstan</span><span class="citation-popover-snippet">pentagon ufo files include 1994 tajik air report over kazakhstan</span></span></span>
+Online discussions sometimes refer to alleged Soviet-era UFO reports from the Karakum Desert: silent lights, metallic spheres, military interest, or marks in the sand. The problem is provenance. In the accessible public record, these claims are generally repeated in forum-style or social-media contexts without a clear primary document, named witness chain, date, location, or investigation file. A recent Central Asia-focused article reviewing newly released U.S. UFO files similarly noted that revived [Karakum claims]({{ 'karakum-claims/' | relative_url }}) lacked a government or military source, while identifying the 2004 Turkmenabat NGO cable as the better documented Turkmenistan-related oddity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">pentagon ufo files include 1994 tajik air report over kazakhstan</span><span class="citation-popover-snippet">pentagon ufo files include 1994 tajik air report over kazakhstan</span></span></span>
 
-The geography still helps explain why such stories are plausible as folklore. The Karakum Desert covers about 70 percent of Turkmenistan, creating huge dark-sky areas where meteors, aircraft lights, rocket-related phenomena, military activity, and atmospheric effects can appear dramatic to isolated witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span></span></span> But geography is not evidence. A desert setting can make a story vivid; it does not make it verified.
+The geography still helps explain why such stories are plausible as folklore. The Karakum Desert covers about 70 percent of Turkmenistan, creating huge dark-sky areas where meteors, aircraft lights, rocket-related phenomena, military activity, and atmospheric effects can appear dramatic to isolated witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span></span></span> But geography is not evidence. A desert setting can make a story vivid; it does not make it verified.
 
 For a Turkmenistan case to move from “interesting claim” to “serious incident”, it would need at least some of the following: a date narrow enough to compare with astronomical and aviation records, multiple independent witnesses, a precise location, photographs or sensor data with chain of custody, and an official or technical record that can be checked. The public Karakum material currently falls short of that standard.
 
@@ -1228,7 +1228,7 @@ For a Turkmenistan case to move from “interesting claim” to “serious incid
 
 ## Why local-source reliability is unusually difficult
 
-Turkmenistan is one of the hardest countries in the region for open-source [verification]({{ 'verification-a314af/' | relative_url }}). Freedom House describes the country as a repressive authoritarian state where political rights and civil liberties are almost completely denied in practice. Reporters Without Borders says publications are controlled by the government and that websites are regularly blocked. Human Rights Watch likewise reports severe restrictions on freedoms of association, information, and movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://freedomhouse.org/country/turkmenistan/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freedomhouse.org">[Freedom House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freedomhouse.org</span><span class="citation-popover-title">freedom world</span><span class="citation-popover-snippet">freedom world</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/turkmenistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Turkmenistan is one of the hardest countries in the region for open-source [verification]({{ 'verification-a314af/' | relative_url }}). Freedom House describes the country as a repressive authoritarian state where political rights and civil liberties are almost completely denied in practice. Reporters Without Borders says publications are controlled by the government and that websites are regularly blocked. Human Rights Watch likewise reports severe restrictions on freedoms of association, information, and movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://freedomhouse.org/country/turkmenistan/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freedomhouse.org">[Freedom House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freedomhouse.org</span><span class="citation-popover-title">freedom world</span><span class="citation-popover-snippet">freedom world</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/turkmenistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This does not mean every local story is false. It means the normal verification pipeline is damaged. Independent journalists face major pressure; local witnesses may have little incentive to report unusual observations publicly; state media are unlikely to host open-ended debate about airspace anomalies; and foreign researchers have limited access to archives, witnesses, and local officials. A lack of public reports in Turkmenistan therefore cannot be read simply as a lack of unusual observations.
 
@@ -1239,30 +1239,30 @@ The same restrictions also raise the risk of distortion. In a closed information
 
 A useful way to read Turkmenistan’s UFO material is to split it by evidence quality rather than by excitement.
 
-**Confirmed:** the Union of UFOlogists of Turkmenabat existed as a registered NGO and was important enough for U.S. Embassy and USAID officials to meet in 2004. The U.S. cable confirms that the group had a UFO-related origin, ran UFO-related seminars, had contact with officials, and was consulted about mysterious airspace occurrences. It also confirms the group’s president said there were no confirmed UFO sightings in Turkmenistan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
+**Confirmed:** the Union of UFOlogists of Turkmenabat existed as a registered NGO and was important enough for U.S. Embassy and USAID officials to meet in 2004. The U.S. cable confirms that the group had a UFO-related origin, ran UFO-related seminars, had contact with officials, and was consulted about mysterious airspace occurrences. It also confirms the group’s president said there were no confirmed UFO sightings in Turkmenistan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
 
 **Contested or unverified:** claims of Karakum Desert lights, Soviet-era military tracking, and physical traces remain weak unless a specific primary source can be tied to them. They may preserve local rumour, genuine witness memory, or later internet embroidery. At present, they should not be treated as established incidents.
 
-**Borderline regional material:** sightings near Turkmenistan, such as the NUFORC Shavat report from Uzbekistan, may be useful for understanding the wider Amu Darya borderland sky culture, but they should not be reclassified as Turkmen national incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Borderline regional material:** sightings near Turkmenistan, such as the NUFORC Shavat report from Uzbekistan, may be useful for understanding the wider Amu Darya borderland sky culture, but they should not be reclassified as Turkmen national incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunked or probably ordinary explanations:** no major Turkmenistan-specific case in the public record has a widely accepted technical debunking because there is no major, well-documented case to debunk. More generally, UAP investigations often find that balloons, aircraft, satellites, birds, drones, and natural phenomena account for many resolved reports; AARO’s historical review found no empirical evidence of extraterrestrial craft or beings, while NASA’s independent study stressed that many UAP accounts suffer from limited high-quality data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
+**Debunked or probably ordinary explanations:** no major Turkmenistan-specific case in the public record has a widely accepted technical debunking because there is no major, well-documented case to debunk. More generally, UAP investigations often find that balloons, aircraft, satellites, birds, drones, and natural phenomena account for many resolved reports; AARO’s historical review found no empirical evidence of extraterrestrial craft or beings, while NASA’s independent study stressed that many UAP accounts suffer from limited high-quality data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,</span></span></span>(#endnote-1 "Endnote 1")
 
 <img src="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really Known About Turkmenistan... illustration 3" data-theme-src-dark="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkmenistan_1f8dc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What ordinary phenomena could explain Turkmenistan sightings?
 
-The most likely explanations for many Turkmenistan sky reports would be ordinary but visually impressive phenomena. Fireballs and meteors can appear green, white, or blue, cross large parts of the sky, fragment, flare, and vanish abruptly. The International Meteor Organization maintains public fireball-reporting tools that show how common such reports are globally, including in countries with sparse observer networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.imo.net">[Fireball.imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.imo.net</span><span class="citation-popover-title">browse events</span><span class="citation-popover-snippet">browse events</span></span></span>
+The most likely explanations for many Turkmenistan sky reports would be ordinary but visually impressive phenomena. Fireballs and meteors can appear green, white, or blue, cross large parts of the sky, fragment, flare, and vanish abruptly. The International Meteor Organization maintains public fireball-reporting tools that show how common such reports are globally, including in countries with sparse observer networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.imo.net">[Fireball.imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.imo.net</span><span class="citation-popover-title">browse events</span><span class="citation-popover-snippet">browse events</span></span></span>
 
 Aircraft and satellites are also plausible in a country whose main population centres lie along transport corridors, borders, and the Caspian region. Low light pollution in desert areas can make satellites and high-altitude aircraft more conspicuous than they would be in brightly lit cities. Re-entry debris or rocket-related phenomena can also create startling lights over Central Asia, though any specific Turkmenistan claim would need to be matched to a known launch or re-entry before that explanation could be used confidently.
 
-Atmospheric effects deserve attention as well. Dust, heat haze, mirages, bright planets near the horizon, and unusual cloud illumination can all change how lights are perceived, especially in arid terrain. The Karakum’s long, hot, dry summers and broad open horizons make misjudgement of distance and altitude especially easy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span></span></span>
+Atmospheric effects deserve attention as well. Dust, heat haze, mirages, bright planets near the horizon, and unusual cloud illumination can all change how lights are perceived, especially in arid terrain. The Karakum’s long, hot, dry summers and broad open horizons make misjudgement of distance and altitude especially easy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Karakum Desert &#124; Map &amp; Facts</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EWHNS3mSIy8" title="Aliens Over Asia Insane Video Proof | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer">Aliens Over Asia Insane Video Proof | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 487.1K &middot; Uploaded: June 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EWHNS3mSIy8">Open on YouTube</a></p></div></div></div>
 
 ## How Turkmenistan fits the wider Central Asian UFO map
 
-Turkmenistan is best understood as a low-documentation sibling branch in a broader Central Asian UFO project. Kazakhstan has better-known aviation, launch-site, and Soviet military associations; Uzbekistan appears in borderland and post-Soviet sighting claims; Tajikistan appears in declassified U.S. reporting through a 1994 Tajik Air case over Kazakhstan. Against that regional background, Turkmenistan stands out less for a dramatic incident than for the institutional oddity of the Turkmenabat UFO NGO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">pentagon ufo files include 1994 tajik air report over kazakhstan</span><span class="citation-popover-snippet">pentagon ufo files include 1994 tajik air report over kazakhstan</span></span></span>
+Turkmenistan is best understood as a low-documentation sibling branch in a broader Central Asian UFO project. Kazakhstan has better-known aviation, launch-site, and Soviet military associations; Uzbekistan appears in borderland and post-Soviet sighting claims; Tajikistan appears in declassified U.S. reporting through a 1994 Tajik Air case over Kazakhstan. Against that regional background, Turkmenistan stands out less for a dramatic incident than for the institutional oddity of the Turkmenabat UFO NGO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">pentagon ufo files include 1994 tajik air report over kazakhstan</span><span class="citation-popover-snippet">pentagon ufo files include 1994 tajik air report over kazakhstan</span></span></span>
 
-The Soviet legacy is relevant but should be handled carefully. The USSR did have state-linked interest in “anomalous atmospheric phenomena”, especially after the widely reported 1977 Petrozavodsk phenomenon, which helped prompt Soviet research structures known as Setka. However, that does not automatically validate later claims from every former Soviet republic. It simply means Soviet-era UFO language, military curiosity, and atmospheric-phenomena reporting formed part of the wider environment in which Turkmenistan’s later UFO culture developed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Soviet legacy is relevant but should be handled carefully. The USSR did have state-linked interest in “anomalous atmospheric phenomena”, especially after the widely reported 1977 Petrozavodsk phenomenon, which helped prompt Soviet research structures known as Setka. However, that does not automatically validate later claims from every former Soviet republic. It simply means Soviet-era UFO language, military curiosity, and atmospheric-phenomena reporting formed part of the wider environment in which Turkmenistan’s later UFO culture developed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The practical verdict
 
@@ -1271,194 +1271,194 @@ The responsible verdict is restrained: Turkmenistan has a real UFO-related insti
 For readers assessing future Turkmenistan UFO claims, the key test is provenance. A strong claim should identify who saw what, where, when, under what conditions, and what records support it. A weak claim will rely on “Soviet files”, “military sources”, desert mystery, or anonymous local stories without documents. In Turkmenistan, where information is unusually hard to verify, that distinction is not a technicality; it is the difference between a case file and a rumour.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Known About Turkmenistan UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Known About Turkmenistan UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how investigators handle limited reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how investigators handle limited reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Fits a region where folklore, sparse records, and unusual observations overlap.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a region where folklore, sparse records, and unusual observations overlap.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows the kind of evidence often missing from thinly documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the kind of evidence often missing from thinly documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides context for sparse and culturally mediated UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for sparse and culturally mediated UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-known-about-turkmenistan-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-known-about-turkmenistan-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1474,7 +1474,7 @@ For readers assessing future Turkmenistan UFO claims, the key test is provenance
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1494,7 +1494,7 @@ For readers assessing future Turkmenistan UFO claims, the key test is provenance
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1526,7 +1526,7 @@ For readers assessing future Turkmenistan UFO claims, the key test is provenance
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1578,7 +1578,7 @@ For readers assessing future Turkmenistan UFO claims, the key test is provenance
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1623,7 +1623,7 @@ For readers assessing future Turkmenistan UFO claims, the key test is provenance
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1661,218 +1661,217 @@ For readers assessing future Turkmenistan UFO claims, the key test is provenance
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War State Department UAP Cable 4, Ashgabat, Turkmenistan,  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59777</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59777</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Karakum Desert | Map & Facts  
-   Link: <a href="https://www.britannica.com/place/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Karakum-Desert</a>  
+   Link:<a href="https://www.britannica.com/place/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Karakum-Desert</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fireball.imo.net  
    Title: browse events  
-   Link: <a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
+   Link:<a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fireball.imo.net  
    Title: browse reports  
-   Link: <a href="https://fireball.imo.net/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_reports</a>  
+   Link:<a href="https://fireball.imo.net/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_reports</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Karakum Desert  
-   Link: <a href="https://www.britannica.com/place/Karakum-Desert/Climate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Karakum-Desert/Climate</a>  
+   Link:<a href="https://www.britannica.com/place/Karakum-Desert/Climate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Karakum-Desert/Climate</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Karakum Desert  
-   Link: <a href="https://www.britannica.com/summary/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Karakum-Desert</a>  
+   Link:<a href="https://www.britannica.com/summary/Karakum-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Karakum-Desert</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/kids/article/Turkmenistan/345806" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Turkmenistan/345806</a>  
+   Link:<a href="https://kids.britannica.com/kids/article/Turkmenistan/345806" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Turkmenistan/345806</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Turkmenistan</a>  
+   Link:<a href="https://www.britannica.com/place/Turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Turkmenistan</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: state.gov  
    Title: 624521 TURKMENISTAN 2024 HUMAN RIGHTS REPORT  
-   Link: <a href="https://www.state.gov/wp-content/uploads/2025/07/624521_TURKMENISTAN-2024-HUMAN-RIGHTS-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/wp-content/uploads/2025/07/624521_TURKMENISTAN-2024-HUMAN-RIGHTS-REPORT.pdf</a>  
+   Link:<a href="https://www.state.gov/wp-content/uploads/2025/07/624521_TURKMENISTAN-2024-HUMAN-RIGHTS-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/wp-content/uploads/2025/07/624521_TURKMENISTAN-2024-HUMAN-RIGHTS-REPORT.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: state.gov  
-   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/turkmenistan</a>  
+   Link:<a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/turkmenistan</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/planet-stories/spooky-sites-spotted-by-space-satellites-3c737af1d421" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/planet-stories/spooky-sites-spotted-by-space-satellites-3c737af1d421</a>  
+   Link:<a href="https://medium.com/planet-stories/spooky-sites-spotted-by-space-satellites-3c737af1d421" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/planet-stories/spooky-sites-spotted-by-space-satellites-3c737af1d421</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/34178" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/34178</a>  
+   Link:<a href="https://encyclopedia.pub/entry/34178" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/34178</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timesca.com  
    Title: pentagon ufo files include 1994 tajik air report over kazakhstan  
-   Link: <a href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/</a>  
+   Link:<a href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: freedomhouse.org  
    Title: freedom world  
-   Link: <a href="https://freedomhouse.org/country/turkmenistan/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/turkmenistan/freedom-world/2024</a>  
+   Link:<a href="https://freedomhouse.org/country/turkmenistan/freedom-world/2024" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/turkmenistan/freedom-world/2024</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en/country/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/turkmenistan</a>  
+   Link:<a href="https://rsf.org/en/country/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/turkmenistan</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hrw.org  
-   Link: <a href="https://www.hrw.org/europe/central-asia/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/europe/central-asia/turkmenistan</a>  
+   Link:<a href="https://www.hrw.org/europe/central-asia/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/europe/central-asia/turkmenistan</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517511" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517511</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517511" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517511</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Karakum Desert  
-   Link: <a href="https://en.wikipedia.org/wiki/Karakum_Desert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Karakum_Desert</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Karakum_Desert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Karakum_Desert</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Petrozavodsk phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hrw.org  
-   Link: <a href="https://www.hrw.org/world-report/2024/country-chapters/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2024/country-chapters/turkmenistan</a>  
+   Link:<a href="https://www.hrw.org/world-report/2024/country-chapters/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2024/country-chapters/turkmenistan</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: data.worldbank.org  
-   Link: <a href="https://data.worldbank.org/country/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/turkmenistan</a>  
+   Link:<a href="https://data.worldbank.org/country/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/turkmenistan</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: freedomhouse.org  
    Title: nations transit  
-   Link: <a href="https://freedomhouse.org/country/turkmenistan/nations-transit/2024" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/turkmenistan/nations-transit/2024</a>  
+   Link:<a href="https://freedomhouse.org/country/turkmenistan/nations-transit/2024" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/turkmenistan/nations-transit/2024</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: freedomhouse.org  
-   Link: <a href="https://freedomhouse.org/report/freedom-net" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/report/freedom-net</a>  
+   Link:<a href="https://freedomhouse.org/report/freedom-net" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/report/freedom-net</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/turkmenistan</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/turkmenistan</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: fieldsupport.dliflc.edu  
-   Link: <a href="https://fieldsupport.dliflc.edu/products/cip/turkmenistan/website/Turkmenistan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fieldsupport.dliflc.edu/products/cip/turkmenistan/website/Turkmenistan.pdf</a>  
+   Link:<a href="https://fieldsupport.dliflc.edu/products/cip/turkmenistan/website/Turkmenistan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fieldsupport.dliflc.edu/products/cip/turkmenistan/website/Turkmenistan.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: advantour.com  
-   Link: <a href="https://www.advantour.com/turkmenistan/nature/karakum.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.advantour.com/turkmenistan/nature/karakum.htm</a>  
+   Link:<a href="https://www.advantour.com/turkmenistan/nature/karakum.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.advantour.com/turkmenistan/nature/karakum.htm</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: relief.unboundmedicine.com  
-   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563231/all/Turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563231/all/Turkmenistan</a>  
+   Link:<a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563231/all/Turkmenistan" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563231/all/Turkmenistan</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nationsonline.org  
-   Link: <a href="https://www.nationsonline.org/oneworld/turkmenistan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationsonline.org/oneworld/turkmenistan.htm</a>  
+   Link:<a href="https://www.nationsonline.org/oneworld/turkmenistan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationsonline.org/oneworld/turkmenistan.htm</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1Dpv_bAYLFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Dpv_bAYLFY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reveal Asia: That One with The Ancient Aliens! | (Full Video)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1Dpv_bAYLFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Dpv_bAYLFY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reveal Asia: That One with The Ancient Aliens! | (Full Video)...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Aliens Over Asia Insane Video Proof | Ancient Aliens | History  
-   Link: <a href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EWHNS3mSIy8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everyone thought he was crazy, until he showed proof of his abduction | Mysteries of Asia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EWHNS3mSIy8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everyone thought he was crazy, until he showed proof of his abduction | Mysteries of Asia...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: First Impressions of Ashgabat, Turkmenistan (World's Strangest City)  
-   Link: <a href="https://www.youtube.com/watch?v=G0oUpgzkl6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G0oUpgzkl6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Over Asia Insane Video Proof | Ancient Aliens | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G0oUpgzkl6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G0oUpgzkl6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Over Asia Insane Video Proof | Ancient Aliens | History...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: UFO Reveal Asia: That One with The Ancient Aliens! | (Full Video)  
-   Link: <a href="https://www.youtube.com/watch?v=-oqozlvwga8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-oqozlvwga8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Still Can&#x27;t Explain This 16-Year-Old UFO Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-oqozlvwga8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-oqozlvwga8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Still Can&#x27;t Explain This 16-Year-Old UFO Video...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR</a>  
+   Link:<a href="https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341837585_The_Rate_of_Falls_of_Meteorites_and_Bolides" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341837585_The_Rate_of_Falls_of_Meteorites_and_Bolides</a>  
+   Link:<a href="https://www.researchgate.net/publication/341837585_The_Rate_of_Falls_of_Meteorites_and_Bolides" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341837585_The_Rate_of_Falls_of_Meteorites_and_Bolides</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: disclosdex.com  
-   Link: <a href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november-5-2004</a>  
+   Link:<a href="https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/2026-pursue-release-01-155-state-department-uap-cable-4-ashgabat-turkmenistan-november</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/sites/default/files/medias/file/2025/03/2024%20RSF%20Activity%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/sites/default/files/medias/file/2025/03/2024%20RSF%20Activity%20Report.pdf</a>  
+   Link:<a href="https://rsf.org/sites/default/files/medias/file/2025/03/2024%20RSF%20Activity%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/sites/default/files/medias/file/2025/03/2024%20RSF%20Activity%20Report.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14uwfx5/any_russian_speaker_here_ever_did_a_deep_dive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uwfx5/any_russian_speaker_here_ever_did_a_deep_dive/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14uwfx5/any_russian_speaker_here_ever_did_a_deep_dive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uwfx5/any_russian_speaker_here_ever_did_a_deep_dive/</a>

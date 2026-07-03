@@ -257,7 +257,7 @@ image: /assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illus
 The alleged UFO ground encounters around Chorwon and the Iron Triangle during the Korean War remain among the most disputed military sighting stories associated with the Korean peninsula. Unlike better-documented radar or pilot reports from the era, these claims rest largely on retrospective testimony recorded decades after the events. The core account centres on former US Army soldier Francis P. Wall, who stated that his unit encountered a glowing airborne object near Chorwon in spring 1951 and later suffered unusual physical effects after firing at it.
 
 <img src="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-1-dark.svg" | relative_url }}" alt="Iron Triangle 1951 illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case notable is not the strength of the evidence, which remains weak and heavily contested, but the way it sits at the intersection of wartime confusion, Cold War secrecy and later UFO culture. The Iron Triangle region was one of the most violently contested sectors of the Korean War, and the surviving record is fragmentary. Researchers continue to debate whether the story reflects a genuine unexplained experience, distorted combat memory, psychological stress, misidentified military technology or later embellishment. The case survives primarily because interviews and archival references were preserved by UFO researchers rather than through any confirmed military investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span> University Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span>
+What makes the case notable is not the strength of the evidence, which remains weak and heavily contested, but the way it sits at the intersection of wartime confusion, Cold War secrecy and later UFO culture. The Iron Triangle region was one of the most violently contested sectors of the Korean War, and the surviving record is fragmentary. Researchers continue to debate whether the story reflects a genuine unexplained experience, distorted combat memory, psychological stress, misidentified military technology or later embellishment. The case survives primarily because interviews and archival references were preserved by UFO researchers rather than through any confirmed military investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span> University Archives<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span>
 
 ## Why the Iron Triangle Became a UFO Setting
 
@@ -265,7 +265,7 @@ The Iron Triangle was a heavily fought area bounded roughly by Chorwon, Kumhwa a
 
 That environment matters because many UFO narratives emerging from wars share similar characteristics: isolated observers, unclear visibility, stress, fragmented documentation and retrospective retelling. In Korea, soldiers regularly encountered unfamiliar aircraft sounds, illumination rounds, tracer fire and experimental equipment. Any later claim involving unusual lights or unexplained effects must therefore be weighed against a battlefield already saturated with strange visual and sensory stimuli.
 
-The Chorwon reports also differ from the more widely discussed 1952 Wonsan–Sunchon airborne sightings. Those later incidents involved bomber crews and generated official Air Force attention. The Iron Triangle claims, by contrast, are mostly ground-level recollections from infantry personnel and lack a comparable documentary trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wonsan-Sunchon UFO incident</span><span class="citation-popover-snippet">Wonsan-Sunchon UFO incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">korean war us army ufo attack illness</span><span class="citation-popover-snippet">When Dozens of Korean War GIs Claimed a UFO Made...13 Sept 2018 — When Dozens of Korean War GIs Claimed a UFO Made Them Sick. The...</span></span></span>
+The Chorwon reports also differ from the more widely discussed 1952 Wonsan–Sunchon airborne sightings. Those later incidents involved bomber crews and generated official Air Force attention. The Iron Triangle claims, by contrast, are mostly ground-level recollections from infantry personnel and lack a comparable documentary trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wonsan-Sunchon UFO incident</span><span class="citation-popover-snippet">Wonsan-Sunchon UFO incident</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">korean war us army ufo attack illness</span><span class="citation-popover-snippet">When Dozens of Korean War GIs Claimed a UFO Made...13 Sept 2018 — When Dozens of Korean War GIs Claimed a UFO Made Them Sick. The...</span></span></span>
 
 ## Francis P. Wall Testimony
 
@@ -273,7 +273,7 @@ The Chorwon reports also differ from the more widely discussed 1952 Wonsan–Sun
 
 The central witness, Francis P. Wall, said he was serving with a US Army infantry unit near Chorwon during spring 1951 when soldiers observed a glowing orange object moving across mountainous terrain at night. Later retellings described it as resembling a floating “jack-o-lantern”. According to Wall, artillery units fired at the object without visible effect. He then claimed to have used armour-piercing ammunition against it at closer range.
 
-In the account preserved by UFO researchers, Wall said the object reacted erratically after being struck and emitted a beam or pulsating light toward the soldiers. He further alleged that personnel exposed to the light later experienced illness, burning sensations and other physical symptoms. The story eventually evolved into a dramatic narrative in which dozens of soldiers required medical treatment after the encounter. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span> HISTORY The strongest verifiable point is not the encounter itself but the existence of a recorded interview. Rice University archives preserve a cat <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">korean war us army ufo attack illness</span><span class="citation-popover-snippet">When Dozens of Korean War GIs Claimed a UFO Made...13 Sept 2018 — When Dozens of Korean War GIs Claimed a UFO Made Them Sick. The...</span></span></span> alogue entry for a 1987 audio interview conducted by John Timmerman for the Center for UFO Studies, listing Francis P. Wall as witness and the Iron Triangle as the location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span>
+In the account preserved by UFO researchers, Wall said the object reacted erratically after being struck and emitted a beam or pulsating light toward the soldiers. He further alleged that personnel exposed to the light later experienced illness, burning sensations and other physical symptoms. The story eventually evolved into a dramatic narrative in which dozens of soldiers required medical treatment after the encounter. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span> HISTORY The strongest verifiable point is not the encounter itself but the existence of a recorded interview. Rice University archives preserve a cat<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">korean war us army ufo attack illness</span><span class="citation-popover-snippet">When Dozens of Korean War GIs Claimed a UFO Made...13 Sept 2018 — When Dozens of Korean War GIs Claimed a UFO Made Them Sick. The...</span></span></span> alogue entry for a 1987 audio interview conducted by John Timmerman for the Center for UFO Studies, listing Francis P. Wall as witness and the Iron Triangle as the location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w56c9_QlUAw" title="Military Can&#x27;t Explain These Bizarre UFO Encounters (Compilation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w56c9_QlUAw" target="_blank" rel="noopener noreferrer">Military Can&#x27;t Explain These Bizarre UFO Encounters (Compilation)</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.6M &middot; Uploaded: April 2024 &middot; Length: 3 hours 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w56c9_QlUAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w56c9_QlUAw">Open on YouTube</a></p></div></div></div>
 
@@ -291,13 +291,13 @@ Several parts of the narrative remain difficult to establish independently:
 
 </div>
 
-This distinction is crucial. Many popular retellings blur the line between “a veteran later claimed this happened” and “the military documented this happening at the time”. The first is demonstrably true; the second remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span> University Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span>
+This distinction is crucial. Many popular retellings blur the line between “a veteran later claimed this happened” and “the military documented this happening at the time”. The first is demonstrably true; the second remains unproven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span> University Archives<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span>
 
 ## Archival Preservation and Interviews
 
 ### How the Story Survived
 
-The Chorwon case survived largely through UFO research networks rather than mainstream military archives. Richard F. Haines, a former NASA scientist who later became a prominent UFO investigator, helped preserve interview material connected to Wall’s testimony. Archival guides at Rice University and other repositories show that Haines accumulated extensive audio recordings, papers and witness files relating to military UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv847688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[Archives West]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-title">Archives West Richard F</span><span class="citation-popover-snippet">Haines papers, 1945-2017 - Archives WestRichard F. Haines was a research scientist at NASA, who, after retirement began to research UFO i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://txarchives.org/ricewrc/finding_aids/01189.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txarchives.org">[Texas Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txarchives.org</span><span class="citation-popover-title">Texas Archives Guide to the Richard F</span><span class="citation-popover-snippet">Haines Ufology papers, 1947-2015 MS 706ATAC; Spring 1951, Korea, UFO sighting, witness: Framces P. Wall, location: Iron Triangle, date of...</span></span></span>
+The Chorwon case survived largely through UFO research networks rather than mainstream military archives. Richard F. Haines, a former NASA scientist who later became a prominent UFO investigator, helped preserve interview material connected to Wall’s testimony. Archival guides at Rice University and other repositories show that Haines accumulated extensive audio recordings, papers and witness files relating to military UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv847688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[Archives West]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-title">Archives West Richard F</span><span class="citation-popover-snippet">Haines papers, 1945-2017 - Archives WestRichard F. Haines was a research scientist at NASA, who, after retirement began to research UFO i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://txarchives.org/ricewrc/finding_aids/01189.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txarchives.org">[Texas Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txarchives.org</span><span class="citation-popover-title">Texas Archives Guide to the Richard F</span><span class="citation-popover-snippet">Haines Ufology papers, 1947-2015 MS 706ATAC; Spring 1951, Korea, UFO sighting, witness: Framces P. Wall, location: Iron Triangle, date of...</span></span></span>
 
 This preservation history cuts both ways. On one hand, it means the testimony was not entirely invented by internet folklore decades later; there is a traceable archival chain. On the other hand, the surviving material emerged from organisations already interested in anomalous phenomena, raising concerns about confirmation bias, selective memory and insufficient independent verification.
 
@@ -306,7 +306,7 @@ The interview itself reportedly took place thirty-six years after the alleged in
 <img src="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-2-dark.svg" | relative_url }}" alt="Iron Triangle 1951 illustration 2" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Role of UFO Media
 
-The case gained wider attention after appearing in television documentaries, magazine features and internet retellings. History Channel coverage and later podcasts transformed a relatively obscure interview into a frequently repeated “Korean War UFO attack” story. HISTORY <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/lv/podcast/korean-war-soldiers-attacked-by-jack-o-lantern-ufo/id1468688105?i=1000549632676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO1 Feb 2022 — Korean War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO... In May 1951, one year...</span><span class="citation-popover-meta">Published: May 1951</span></span></span>
+The case gained wider attention after appearing in television documentaries, magazine features and internet retellings. History Channel coverage and later podcasts transformed a relatively obscure interview into a frequently repeated “Korean War UFO attack” story. HISTORY<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/lv/podcast/korean-war-soldiers-attacked-by-jack-o-lantern-ufo/id1468688105?i=1000549632676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO1 Feb 2022 — Korean War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO... In May 1951, one year...</span><span class="citation-popover-meta">Published: May 1951</span></span></span>
 
 As the story spread, details often became more dramatic. Some versions added stronger claims about radiation-like injuries, weapon effects or hostile intent by the object. Yet these additions are difficult to trace back to any original contemporaneous source. The evolution of the narrative illustrates how UFO stories can accumulate layers over time, especially once they enter popular media ecosystems.
 
@@ -334,7 +334,7 @@ The physical symptoms described in later accounts are similarly difficult to eva
 
 Researchers examining the story have noted inconsistencies in dates, unit details and technical descriptions across different retellings. Some versions describe sophisticated energy beams or electromagnetic effects in language that sounds more influenced by later science-fiction imagery than by immediate 1951 reporting.
 
-Even sympathetic investigators generally concede that the Chorwon case does not meet modern evidentiary standards for a verified anomalous event. At most, it represents an unresolved witness narrative preserved in archival interviews rather than a documented military encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">s most infamous ufo sightings</span><span class="citation-popover-snippet">History&#x27;s Most Infamous UFO Sightings of the Modern EraJul 6, 2017 — History&#x27;s most infamous UFO sightings of the modern era, still-unexp...</span></span></span>
+Even sympathetic investigators generally concede that the Chorwon case does not meet modern evidentiary standards for a verified anomalous event. At most, it represents an unresolved witness narrative preserved in archival interviews rather than a documented military encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">s most infamous ufo sightings</span><span class="citation-popover-snippet">History&#x27;s Most Infamous UFO Sightings of the Modern EraJul 6, 2017 — History&#x27;s most infamous UFO sightings of the modern era, still-unexp...</span></span></span>
 
 <img src="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-3-dark.svg" | relative_url }}" alt="Iron Triangle 1951 illustration 3" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Chorwon Case Still Reveals
@@ -345,197 +345,197 @@ The Chorwon narrative also highlights the unusual position of Korea within UFO h
 
 Within the [Democratic People]({{ 'democratic-people-s-republic-of-korea/' | relative_url }})’s Republic of Korea context specifically, the Iron Triangle reports are less significant as proof of anomalous craft than as examples of how sparse and unstable the historical record becomes in wartime border regions. The case survives because later researchers collected oral testimony that otherwise might have vanished entirely.
 
-That preservation creates a difficult balance for historians. The interviews cannot simply be dismissed, because they document what at least one veteran believed he experienced. Yet they also cannot be treated as verified evidence of extraordinary technology. The most defensible position remains that the Chorwon sightings are unresolved retrospective claims shaped by memory, wartime ambiguity and decades of UFO reinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span> University Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span>
+That preservation creates a difficult balance for historians. The interviews cannot simply be dismissed, because they document what at least one veteran believed he experienced. Yet they also cannot be treated as verified evidence of extraordinary technology. The most defensible position remains that the Chorwon sightings are unresolved retrospective claims shaped by memory, wartime ambiguity and decades of UFO reinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[rice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</span></span></span> University Archives<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Ground Forces Encounter Strange Objects in the Iron Triangle?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Ground Forces Encounter Strange Objects in the Iron Triangle?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the era and military reporting environment linked to Korean War cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the era and military reporting environment linked to Korean War cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating witness testimony and disputed encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating witness testimony and disputed encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places military UFO testimony within historical investigative records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places military UFO testimony within historical investigative records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines disputed military encounters and evidentiary challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines disputed military encounters and evidentiary challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ground-forces-encounter-strange-objects-in-the-iron-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ That preservation creates a difficult balance for historians. The interviews can
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ That preservation creates a difficult balance for historians. The interviews can
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ That preservation creates a difficult balance for historians. The interviews can
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ That preservation creates a difficult balance for historians. The interviews can
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ That preservation creates a difficult balance for historians. The interviews can
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,137 +738,136 @@ That preservation creates a difficult balance for historians. The interviews can
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/323830</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</p></details>
+   Link:<a href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/323830</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wall, location: Iron Triangle, date of interview: 1987, by John Timmerman, CUFOS (digital id# HAINES...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/springkor.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</p></details>
+   Link:<a href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/springkor.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korean War Battlefield UFO EncounterThe interview took place in January, 1987. Noted UFO researcher Richard F. Haines checked milita...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: korean war us army ufo attack illness  
-   Link: <a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Dozens of Korean War GIs Claimed a UFO Made...13 Sept 2018 — When Dozens of Korean War GIs Claimed a UFO Made Them Sick. The...</p></details>
+   Link:<a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Dozens of Korean War GIs Claimed a UFO Made...13 Sept 2018 — When Dozens of Korean War GIs Claimed a UFO Made Them Sick. The...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Wonsan-Sunchon UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: in may 1951 a ufo attacked a group of american  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1faosn4/in_may_1951_a_ufo_attacked_a_group_of_american/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1faosn4/in_may_1951_a_ufo_attacked_a_group_of_american/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In May 1951, a UFO attacked a group of American soldiers...Nineteen years later, a UFO attacked a Brazilian security guard. Both U...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1faosn4/in_may_1951_a_ufo_attacked_a_group_of_american/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1faosn4/in_may_1951_a_ufo_attacked_a_group_of_american/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In May 1951, a UFO attacked a group of American soldiers...Nineteen years later, a UFO attacked a Brazilian security guard. Both U...</p></details>
    Published: may 1951  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/lv/podcast/korean-war-soldiers-attacked-by-jack-o-lantern-ufo/id1468688105?i=1000549632676" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/lv/podcast/korean-war-soldiers-attacked-by-jack-o-lantern-ufo/id1468688105?i=1000549632676</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO1 Feb 2022 — Korean War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO... In May 1951, one year...</p></details>
+   Link:<a href="https://podcasts.apple.com/lv/podcast/korean-war-soldiers-attacked-by-jack-o-lantern-ufo/id1468688105?i=1000549632676" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/lv/podcast/korean-war-soldiers-attacked-by-jack-o-lantern-ufo/id1468688105?i=1000549632676</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO1 Feb 2022 — Korean War Soldiers Attacked By &#x27;Jack-O-Lantern&#x27; UFO... In May 1951, one year...</p></details>
    Published: May 1951  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1p5zx57/dr_richard_haines_phd_talks_how_he_interviewed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p5zx57/dr_richard_haines_phd_talks_how_he_interviewed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Richard Haines, PhD, talks how he interviewed men...Dr. Richard Haines, PhD, talks how he interviewed men claiming a UFO attacked an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1p5zx57/dr_richard_haines_phd_talks_how_he_interviewed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p5zx57/dr_richard_haines_phd_talks_how_he_interviewed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Richard Haines, PhD, talks how he interviewed men...Dr. Richard Haines, PhD, talks how he interviewed men claiming a UFO attacked an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: s most infamous ufo sightings  
-   Link: <a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Most Infamous UFO Sightings of the Modern EraJul 6, 2017 — History&#x27;s most infamous UFO sightings of the modern era, still-unexp...</p></details>
+   Link:<a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Most Infamous UFO Sightings of the Modern EraJul 6, 2017 — History&#x27;s most infamous UFO sightings of the modern era, still-unexp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: txarchives.org  
    Title: Texas Archives Guide to the Richard F  
-   Link: <a href="https://txarchives.org/ricewrc/finding_aids/01189.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/ricewrc/finding_aids/01189.xml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Haines Ufology papers, 1947-2015 MS 706ATAC; Spring 1951, Korea, UFO sighting, witness: Framces P. Wall, location: Iron Triangle, date of...</p></details>
+   Link:<a href="https://txarchives.org/ricewrc/finding_aids/01189.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/ricewrc/finding_aids/01189.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haines Ufology papers, 1947-2015 MS 706ATAC; Spring 1951, Korea, UFO sighting, witness: Framces P. Wall, location: Iron Triangle, date of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archiveswest.orbiscascade.org  
    Title: Archives West Richard F  
-   Link: <a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv847688" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv847688</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haines papers, 1945-2017 - Archives WestRichard F. Haines was a research scientist at NASA, who, after retirement began to research UFO i...</p></details>
+   Link:<a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv847688" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv847688</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haines papers, 1945-2017 - Archives WestRichard F. Haines was a research scientist at NASA, who, after retirement began to research UFO i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sk.sagepub.com  
    Title: korean war  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/encyclopedia-of-deception/chpt/korean-war" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/encyclopedia-of-deception/chpt/korean-war</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference - Encyclopedia of Deception - Korean WarThe American public was told that the war was spurred by a surprise attack... UFOs · U...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/encyclopedia-of-deception/chpt/korean-war" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/encyclopedia-of-deception/chpt/korean-war</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference - Encyclopedia of Deception - Korean WarThe American public was told that the war was spurred by a surprise attack... UFOs · U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weirddarkness.com  
    Title: korean war ufo  
-   Link: <a href="https://weirddarkness.com/korean-war-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/korean-war-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night an American Soldier Shot at a UFO1 Apr 2026 — In the spring of 1951, PFC Francis P. Wall was on a hillside near Chorwon, North...</p></details>
+   Link:<a href="https://weirddarkness.com/korean-war-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/korean-war-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Night an American Soldier Shot at a UFO1 Apr 2026 — In the spring of 1951, PFC Francis P. Wall was on a hillside near Chorwon, North...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scmp/posts/south-koreans-were-spooked-by-ufo-that-wasnt-southkorea-korea-ufo-missile-scmpne/10160541035044820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scmp/posts/south-koreans-were-spooked-by-ufo-that-wasnt-southkorea-korea-ufo-missile-scmpne/10160541035044820/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans were spooked by UFO that wasn&#x27;t....The Chorwon UFO During the #KoreanWar on May 20, 1951, a group of 20... South Korean g...</p></details>
+   Link:<a href="https://www.facebook.com/scmp/posts/south-koreans-were-spooked-by-ufo-that-wasnt-southkorea-korea-ufo-missile-scmpne/10160541035044820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scmp/posts/south-koreans-were-spooked-by-ufo-that-wasnt-southkorea-korea-ufo-missile-scmpne/10160541035044820/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans were spooked by UFO that wasn&#x27;t....The Chorwon UFO During the #KoreanWar on May 20, 1951, a group of 20... South Korean g...</p></details>
    Published: May 20, 1951  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports During the Korean War | PDFFollowing is a transcript of an interview between Mr. Francis P. Wall, a private first class in th...</p></details>
+   Link:<a href="https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports During the Korean War | PDFFollowing is a transcript of an interview between Mr. Francis P. Wall, a private first class in th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Across the country, Americans were constantly looking up....UFO SHOOTS A RAY AT SOLDIERS, KOREA 1951 “This event that... UFOs during th...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Across the country, Americans were constantly looking up....UFO SHOOTS A RAY AT SOLDIERS, KOREA 1951 “This event that... UFOs during th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usmcu.edu  
    Title: The Problems of U S Marine Corps Prisoners of War in Korea PCN 19000411200  
-   Link: <a href="https://www.usmcu.edu/Portals/218/The%20Problems%20of%20U_S_%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usmcu.edu/Portals/218/The%20Problems%20of%20U_S_%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problems of U.S. Marine Corps Prisoners of War in...on Hill 2022 received the brunt of a North Korean attack beginning at 4:55... t...</p></details>
+   Link:<a href="https://www.usmcu.edu/Portals/218/The%20Problems%20of%20U_S_%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usmcu.edu/Portals/218/The%20Problems%20of%20U_S_%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Problems of U.S. Marine Corps Prisoners of War in...on Hill 2022 received the brunt of a North Korean attack beginning at 4:55... t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B5EaNouxaQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B5EaNouxaQc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The...HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B5EaNouxaQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B5EaNouxaQc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The...HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: marines.mil  
    Title: The Problems of U.S. Marine Corps Prisoners of War in Korea PCN 19000411200 1  
-   Link: <a href="https://www.marines.mil/Portals/1/Publications/The%20Problems%20of%20U.S.%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marines.mil/Portals/1/Publications/The%20Problems%20of%20U.S.%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5th Marines, had netted less than a mile. Ancillary attacks by the 3d Battalion, 7th Marines,on adjacent...</p></details>
+   Link:<a href="https://www.marines.mil/Portals/1/Publications/The%20Problems%20of%20U.S.%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marines.mil/Portals/1/Publications/The%20Problems%20of%20U.S.%20Marine%20Corps%20Prisoners%20of%20War%20in%20Korea%20%20PCN%2019000411200_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5th Marines, had netted less than a mile. Ancillary attacks by the 3d Battalion, 7th Marines,on adjacent...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: click2houston.com  
    Title: UFO sightings and alien abductions. “The official  
-   Link: <a href="https://www.click2houston.com/news/local/2024/10/28/archives-of-the-impossible-at-rice-university-marks-10-years-exploring-supernatural-encounters-and-exponential-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.click2houston.com/news/local/2024/10/28/archives-of-the-impossible-at-rice-university-marks-10-years-exploring-supernatural-encounters-and-exponential-growth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible at Rice University Marks 10 yearsOctober 28, 2024 — Tags: Rice, Houston, Paranormal, Archives of the Impossibl...</p></details>
+   Link:<a href="https://www.click2houston.com/news/local/2024/10/28/archives-of-the-impossible-at-rice-university-marks-10-years-exploring-supernatural-encounters-and-exponential-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.click2houston.com/news/local/2024/10/28/archives-of-the-impossible-at-rice-university-marks-10-years-exploring-supernatural-encounters-and-exponential-growth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible at Rice University Marks 10 yearsOctober 28, 2024 — Tags: Rice, Houston, Paranormal, Archives of the Impossibl...</p></details>
    Published: October 28, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
    Title: The UFO Too Large To Move: The Strange Story Buried In Korea  
-   Link: <a href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 2, 2025 — I Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up Coding. In...</p></details>
+   Link:<a href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 2, 2025 — I Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up Coding. In...</p></details>
    Published: November 2, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: intownmag.com  
    Title: And, Rice University's Archives  
-   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowers, Nonhuman Intelligence and ET Contact: Rice...March 22, 2025 — Any study of UFO/UAP must investigate the role of human co...</p></details>
+   Link:<a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowers, Nonhuman Intelligence and ET Contact: Rice...March 22, 2025 — Any study of UFO/UAP must investigate the role of human co...</p></details>
    Published: March 22, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Military Can't Explain These Bizarre UFO Encounters (Compilation)  
-   Link: <a href="http://www.youtube.com/watch?v=w56c9_QlUAw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w56c9_QlUAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korean War UFO encounter Francis Wall Chorwon 1951: Platoon Witnesses UFO in Korean War The Hidden Truth...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=w56c9_QlUAw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w56c9_QlUAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korean War UFO encounter Francis Wall Chorwon 1951: Platoon Witnesses UFO in Korean War The Hidden Truth...</p></details>

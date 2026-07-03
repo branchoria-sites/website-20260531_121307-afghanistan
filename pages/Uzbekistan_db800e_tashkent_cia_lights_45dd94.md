@@ -248,16 +248,16 @@ image: /assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-
 
 ## Introduction
 
-The most frequently cited UFO-related case connected to Uzbekistan is not a dramatic crash story or a military encounter. It is a declassified CIA information report describing recurring coloured lights seen near Tashkent in 1947. The document, released decades later through the CIA's public records programme, remains important because it preserves a detailed witness account rather than because it proves anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">LIGHT PHENOMENA EAST OF TASHKENT</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENT - FOIALIGHT PHENOMENA EAST OF TASHKENT. Document Type: FOIA. Collection: UFOs: Fact or Fiction? Docum...</span></span></span>
+The most frequently cited UFO-related case connected to Uzbekistan is not a dramatic crash story or a military encounter. It is a declassified CIA information report describing recurring coloured lights seen near Tashkent in 1947. The document, released decades later through the CIA's public records programme, remains important because it preserves a detailed witness account rather than because it proves anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">LIGHT PHENOMENA EAST OF TASHKENT</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENT - FOIALIGHT PHENOMENA EAST OF TASHKENT. Document Type: FOIA. Collection: UFOs: Fact or Fiction? Docum...</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-1-dark.svg" | relative_url }}" alt="Tashkent File illustration 1" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers of Central Asian UFO history, the value of the case lies in its documentation. The report records a specific location, a repeated observation pattern, colour changes, estimated movement, and official reservations about the witnesses' conclusions. More than seventy years later, the file still occupies a rare position in Uzbekistan's UFO record: it is one of the few historical incidents supported by a surviving intelligence-era document rather than later retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">nt Number: 0000015282. Pages: 4...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the PT camp in Pakhta. Aral, about 50 km southwest of Tashkent (11918...</span></span></span>
+For researchers of Central Asian UFO history, the value of the case lies in its documentation. The report records a specific location, a repeated observation pattern, colour changes, estimated movement, and official reservations about the witnesses' conclusions. More than seventy years later, the file still occupies a rare position in Uzbekistan's UFO record: it is one of the few historical incidents supported by a surviving intelligence-era document rather than later retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">nt Number: 0000015282. Pages: 4...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the PT camp in Pakhta. Aral, about 50 km southwest of Tashkent (11918...</span></span></span>
 
 ## What the CIA report actually says
 
-The document generally known as *Light Phenomena East of Tashkent* was distributed by the CIA in February 1952. It describes observations made from May to September 1947 in the Uzbek Soviet Socialist Republic. According to the report, observers at a prisoner-of-war camp in Pakhta Aral, approximately 50 kilometres south-west of Tashkent, reported seeing three luminous phenomena almost every night between 9 p.m. and 10 p.m., separated by intervals of roughly fifteen minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the spex of a long-drawn out...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+The document generally known as *Light Phenomena East of Tashkent* was distributed by the CIA in February 1952. It describes observations made from May to September 1947 in the Uzbek Soviet Socialist Republic. According to the report, observers at a prisoner-of-war camp in Pakhta Aral, approximately 50 kilometres south-west of Tashkent, reported seeing three luminous phenomena almost every night between 9 p.m. and 10 p.m., separated by intervals of roughly fifteen minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the spex of a long-drawn out...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-The report's description is unusually specific. Witnesses said a dark-red ball of fire appeared first and travelled along what seemed to be a long trajectory. During flight, the object reportedly developed a fiery tail and changed colour from bright red to pale green and then to white. Observers reported no audible explosion, no detonation, and no visible smoke trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">LIGHT PHENOMENA EAST OF TASHKENT</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENT - FOIALIGHT PHENOMENA EAST OF TASHKENT. Document Type: FOIA. Collection: UFOs: Fact or Fiction? Docum...</span></span></span>
+The report's description is unusually specific. Witnesses said a dark-red ball of fire appeared first and travelled along what seemed to be a long trajectory. During flight, the object reportedly developed a fiery tail and changed colour from bright red to pale green and then to white. Observers reported no audible explosion, no detonation, and no visible smoke trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">LIGHT PHENOMENA EAST OF TASHKENT</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENT - FOIALIGHT PHENOMENA EAST OF TASHKENT. Document Type: FOIA. Collection: UFOs: Fact or Fiction? Docum...</span></span></span>
 
 Several details explain why the document continues to attract attention:
 
@@ -266,11 +266,11 @@ Several details explain why the document continues to attract attention:
 * The phenomenon allegedly recurred over several months rather than during a single night.
 * Witnesses reported a sequence of colour changes rather than a simple stationary light.
 * The report preserved geographical coordinates and an observation direction.
-* The observations were recorded within a Cold War intelligence collection process rather than a popular UFO publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">nt Number: 0000015282. Pages: 4...Read more...</span></span></span>
+* The observations were recorded within a Cold War intelligence collection process rather than a popular UFO publication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">nt Number: 0000015282. Pages: 4...Read more...</span></span></span>
 
 </div>
 
-The CIA's current Reading Room still hosts the document among its released UFO-related files. The agency's broader UFO archive makes clear that such reports were often collected because intelligence organisations wanted to understand unusual aerial observations, not because they had concluded the events involved extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the PT camp in Pakhta. Aral, about 50 km southwest of Tashkent (11918...</span></span></span>
+The CIA's current Reading Room still hosts the document among its released UFO-related files. The agency's broader UFO archive makes clear that such reports were often collected because intelligence organisations wanted to understand unusual aerial observations, not because they had concluded the events involved extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the PT camp in Pakhta. Aral, about 50 km southwest of Tashkent (11918...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S8NWQi7vaII" title="5 De Classified CIA Documents Proving UFOs Are Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S8NWQi7vaII" target="_blank" rel="noopener noreferrer">5 De Classified CIA Documents Proving UFOs Are Real</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 119.7K &middot; Uploaded: December 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S8NWQi7vaII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S8NWQi7vaII">Open on YouTube</a></p></div></div></div>
 
@@ -278,37 +278,37 @@ The CIA's current Reading Room still hosts the document among its released UFO-r
 
 Many UFO stories become difficult to evaluate because the original testimony disappears. In the Tashkent case, the surviving document allows readers to see the structure of the report itself rather than relying entirely on later summaries.
 
-One notable feature is the repetition. A single unusual light can result from a momentary misidentification, but repeated observations over several months create a different evidential question. Researchers must then consider whether a recurring natural, astronomical, atmospheric, industrial, or military source could have produced a consistent pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the spex of a long-drawn out...</span></span></span>
+One notable feature is the repetition. A single unusual light can result from a momentary misidentification, but repeated observations over several months create a different evidential question. Researchers must then consider whether a recurring natural, astronomical, atmospheric, industrial, or military source could have produced a consistent pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the spex of a long-drawn out...</span></span></span>
 
-The colour progression also attracts attention. Witnesses described transitions from red to green and finally white. Such changes can occur under several known conditions, including atmospheric effects, changing viewing angles, combustion phenomena, or meteor-related observations. However, the report itself did not provide enough technical data to determine which explanation, if any, was correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+The colour progression also attracts attention. Witnesses described transitions from red to green and finally white. Such changes can occur under several known conditions, including atmospheric effects, changing viewing angles, combustion phenomena, or meteor-related observations. However, the report itself did not provide enough technical data to determine which explanation, if any, was correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-Another reason the file remains significant is geographical. Most famous Cold War UFO cases are associated with North America, Western Europe, or Soviet military regions that generated extensive public discussion after the collapse of the USSR. Uzbekistan produced relatively few internationally known UFO archive cases. As a result, the Tashkent file occupies a disproportionate place in the country's historical UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+Another reason the file remains significant is geographical. Most famous Cold War UFO cases are associated with North America, Western Europe, or Soviet military regions that generated extensive public discussion after the collapse of the USSR. Uzbekistan produced relatively few internationally known UFO archive cases. As a result, the Tashkent file occupies a disproportionate place in the country's historical UFO literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
 ## The caution built into the document
 
 The strongest misconception about the Tashkent lights is that the CIA somehow endorsed the event as evidence of a spacecraft. The document does not do that.
 
-The report contains an important qualification: estimates of altitude and trajectory should be treated cautiously. The lack of sound, explosion effects, or other corroborating indicators created uncertainty even for those compiling the report. Rather than presenting a solved mystery, the document effectively preserves an observation while warning readers not to overstate the conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+The report contains an important qualification: estimates of altitude and trajectory should be treated cautiously. The lack of sound, explosion effects, or other corroborating indicators created uncertainty even for those compiling the report. Rather than presenting a solved mystery, the document effectively preserves an observation while warning readers not to overstate the conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-This distinction matters because many later UFO discussions treat declassified intelligence files as confirmations. In reality, intelligence archives often contain raw or partially evaluated reports. The existence of a CIA file demonstrates that an event was reported and recorded. It does not automatically validate the witnesses' interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+This distinction matters because many later UFO discussions treat declassified intelligence files as confirmations. In reality, intelligence archives often contain raw or partially evaluated reports. The existence of a CIA file demonstrates that an event was reported and recorded. It does not automatically validate the witnesses' interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
 The Tashkent case therefore sits in an intermediate category:
 
 * **Documented:** the report exists and can be examined.
 * **Unresolved:** no definitive explanation accompanies the file.
 * **Unconfirmed:** the document does not establish the presence of an alien craft or advanced vehicle.
-* **Historically significant:** it remains one of the clearest archival UFO-related records linked to Uzbekistan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+* **Historically significant:** it remains one of the clearest archival UFO-related records linked to Uzbekistan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-2-dark.svg" | relative_url }}" alt="Tashkent File illustration 2" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_tashkent_cia_lights_45dd94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could the lights have had an ordinary explanation?
 
 The surviving record is too limited to produce a confident solution, but several conventional possibilities have been suggested by later researchers.
 
-A meteor or series of meteor-like events is one possibility because witnesses described fiery appearance, colour changes, and apparent movement across the sky. The difficulty is the reported regularity: the lights were allegedly observed repeatedly over months at roughly similar times. A simple single meteor explanation does not easily account for that pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+A meteor or series of meteor-like events is one possibility because witnesses described fiery appearance, colour changes, and apparent movement across the sky. The difficulty is the reported regularity: the lights were allegedly observed repeatedly over months at roughly similar times. A simple single meteor explanation does not easily account for that pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-Atmospheric and astronomical explanations are also conceivable. Under certain conditions, bright celestial objects near the horizon can appear distorted, coloured, or mobile to observers. Yet the report's description of a travelling luminous body with a developing trail creates tension with a straightforward astronomical interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+Atmospheric and astronomical explanations are also conceivable. Under certain conditions, bright celestial objects near the horizon can appear distorted, coloured, or mobile to observers. Yet the report's description of a travelling luminous body with a developing trail creates tension with a straightforward astronomical interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-Military activity presents another possibility. The observations occurred in the early Cold War period, when information about Soviet testing programmes and aerial operations was often limited. However, the available document does not identify any specific military activity that would account for the recurring observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+Military activity presents another possibility. The observations occurred in the early Cold War period, when information about Soviet testing programmes and aerial operations was often limited. However, the available document does not identify any specific military activity that would account for the recurring observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
 The central problem is evidential rather than theoretical. The report contains enough detail to keep multiple explanations plausible, but not enough detail to decisively eliminate any of them.
 
@@ -317,203 +317,203 @@ The central problem is evidential rather than theoretical. The report contains e
 
 Many countries possess thousands of UFO reports but very few surviving primary documents. Uzbekistan's public record is comparatively sparse, making the Tashkent file unusually important.
 
-The case serves as a benchmark against which later reports are often measured. Modern videos, social-media claims, and anecdotal sightings from regions such as Tashkent, Navoi, or the Fergana Valley frequently lack exact dates, coordinates, witness statements, or preserved official records. The 1947 incident, despite its limitations, provides all of those elements in a single archive document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+The case serves as a benchmark against which later reports are often measured. Modern videos, social-media claims, and anecdotal sightings from regions such as Tashkent, Navoi, or the Fergana Valley frequently lack exact dates, coordinates, witness statements, or preserved official records. The 1947 incident, despite its limitations, provides all of those elements in a single archive document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-The file also illustrates a broader lesson about UFO evidence. Historical significance and evidential strength are not the same thing. The Tashkent lights are historically significant because the report survives and can be studied. The evidential strength remains moderate rather than decisive because the underlying observations cannot now be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+The file also illustrates a broader lesson about UFO evidence. Historical significance and evidential strength are not the same thing. The Tashkent lights are historically significant because the report survives and can be studied. The evidential strength remains moderate rather than decisive because the underlying observations cannot now be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
-That balance explains why the 1947 Tashkent lights continue to appear in discussions of Uzbekistan's unexplained aerial phenomena. They are neither a solved case nor a proven encounter. They remain one of the country's best-documented mysteries precisely because the archive preserves both the observation and the uncertainty surrounding it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
+That balance explains why the 1947 Tashkent lights continue to appear in discussions of Uzbekistan's unexplained aerial phenomena. They are neither a solved case nor a proven encounter. They remain one of the country's best-documented mysteries precisely because the archive preserves both the observation and the uncertainty surrounding it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005517761</span><span class="citation-popover-snippet">DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/52yKJtXumA0" title="Aliens Struck 23 Soviet Soldiers, Turned Them Into Stone? What Chilling CIA Files Revealed...| Watch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=52yKJtXumA0" target="_blank" rel="noopener noreferrer">Aliens Struck 23 Soviet Soldiers, Turned Them Into Stone? What Chilling CIA Files Revealed...| Watch</a></p><p class="youtube-embed-meta">Channel: Times Now &middot; Views: 6.4K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=52yKJtXumA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=52yKJtXumA0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the 1947 Tashkent Lights Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the 1947 Tashkent Lights Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on official records and serious witness documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on official records and serious witness documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Closely matches a page focused on archival reports and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches a page focused on archival reports and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how historical reports should be analyzed and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how historical reports should be analyzed and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-1947-tashkent-lights-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-1947-tashkent-lights-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ That balance explains why the 1947 Tashkent lights continue to appear in discuss
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ That balance explains why the 1947 Tashkent lights continue to appear in discuss
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ That balance explains why the 1947 Tashkent lights continue to appear in discuss
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ That balance explains why the 1947 Tashkent lights continue to appear in discuss
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ That balance explains why the 1947 Tashkent lights continue to appear in discuss
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,104 +719,104 @@ That balance explains why the 1947 Tashkent lights continue to appear in discuss
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
    Title: LIGHT PHENOMENA EAST OF TASHKENT  
-   Link: <a href="https://www.cia.gov/readingroom/document/0000015282" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0000015282</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENT - FOIALIGHT PHENOMENA EAST OF TASHKENT. Document Type: FOIA. Collection: UFOs: Fact or Fiction? Docum...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0000015282" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0000015282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENT - FOIALIGHT PHENOMENA EAST OF TASHKENT. Document Type: FOIA. Collection: UFOs: Fact or Fiction? Docum...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nt Number: 0000015282. Pages: 4...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt Number: 0000015282. Pages: 4...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
    Title: DOC 0000015282  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the PT camp in Pakhta. Aral, about 50 km southwest of Tashkent (11918...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the PT camp in Pakhta. Aral, about 50 km southwest of Tashkent (11918...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the spex of a long-drawn out...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the spex of a long-drawn out...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
    Title: DOC 0005517761  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOC_0005517761.pdfEXTREMELY BRIGHT LIGHT. AT THAT VERY INSTANT, 23 SOLDIERS WHO HAD. WATCHED THE PHENOMENON TURNED INTO... STONE POLES. O...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LightLight, visible light, or visible radiation is electromagnetic radiation that can be perceived by the human eye. Visible light spa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LightLight, visible light, or visible radiation is electromagnetic radiation that can be perceived by the human eye. Visible light spa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/light" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/light</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe brightness that comes from the sun, fire, etc. and from electrical devices, and that allows t...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/light" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe brightness that comes from the sun, fire, etc. and from electrical devices, and that allows t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: open.spotify.com  
    Title: 6h TFORWxk ZFDo KFxwb Rnc6  
-   Link: <a href="https://open.spotify.com/episode/6hTFORWxkZFDoKFxwbRnc6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6hTFORWxkZFDoKFxwbRnc6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PHENOMENA EAST OF TASHKENT - X-FilesListen to this episode from X-Files - Audio Translation of CIA documents declassified via FOIA on Spo...</p></details>
+   Link:<a href="https://open.spotify.com/episode/6hTFORWxkZFDoKFxwbRnc6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6hTFORWxkZFDoKFxwbRnc6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHENOMENA EAST OF TASHKENT - X-FilesListen to this episode from X-Files - Audio Translation of CIA documents declassified via FOIA on Spo...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thelight.co.uk  
-   Link: <a href="https://thelight.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://thelight.co.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to The LightExperience the best in entertainment. Visit your local cinema: Addlestone; Banbury; Bolton; Bradford; Cambridge; Hudd...</p></details>
+   Link:<a href="https://thelight.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://thelight.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to The LightExperience the best in entertainment. Visit your local cinema: Addlestone; Banbury; Bolton; Bradford; Cambridge; Hudd...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unora.unior.it  
-   Link: <a href="https://unora.unior.it/retrieve/dfd1bedd-8456-d55a-e053-3705fe0af723/Cucciolla_phdthesis_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unora.unior.it/retrieve/dfd1bedd-8456-d55a-e053-3705fe0af723/Cucciolla_phdthesis_compressed.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Uzbek cotton affair&#x27; (1by RM Cucciolla · Cited by 25 — 1. The Consolidation of Soviet Power in the UzSSR...</p></details>
+   Link:<a href="https://unora.unior.it/retrieve/dfd1bedd-8456-d55a-e053-3705fe0af723/Cucciolla_phdthesis_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unora.unior.it/retrieve/dfd1bedd-8456-d55a-e053-3705fe0af723/Cucciolla_phdthesis_compressed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Uzbek cotton affair&#x27; (1by RM Cucciolla · Cited by 25 — 1. The Consolidation of Soviet Power in the UzSSR...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO Report Documents &#x27;Green Circular Object&#x27;10 Jan 2020 — The UFO sighting took place in 1973 and was first revealed to the...</p></details>
+   Link:<a href="https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/declassified-ufo-report-documents-green-circular-object-over-soviet-experimental-missile-range-1481566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO Report Documents &#x27;Green Circular Object&#x27;10 Jan 2020 — The UFO sighting took place in 1973 and was first revealed to the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsarchive.gwu.edu  
-   Link: <a href="https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gwu.eduCIA, Mission 6002 ELINT and COMINT Report, Classification...8 Mar 2022 — This is another of the small number of declassified post...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gwu.eduCIA, Mission 6002 ELINT and COMINT Report, Classification...8 Mar 2022 — This is another of the small number of declassified post...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: primarysources.brillonline.com  
-   Link: <a href="https://primarysources.brillonline.com/browse/cold-war-intelligence/cia-ore-5850-critical-situations-in-the-far-east-october-12-1950-top-secret%3Bb02163" target="_blank" rel="noopener noreferrer nofollow">https://primarysources.brillonline.com/browse/cold-war-intelligence/cia-ore-5850-critical-situations-in-the-far-east-october-12-1950-top-secret%3Bb02163</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War IntelligenceTitle: CIA, ORE 58-50, Critical Situations in the Far East, October 12, 1950, Top Secret.; Creator: ORE 58-50 CIA; Date...</p></details>
+   Link:<a href="https://primarysources.brillonline.com/browse/cold-war-intelligence/cia-ore-5850-critical-situations-in-the-far-east-october-12-1950-top-secret%3Bb02163" target="_blank" rel="noopener noreferrer nofollow">https://primarysources.brillonline.com/browse/cold-war-intelligence/cia-ore-5850-critical-situations-in-the-far-east-october-12-1950-top-secret%3Bb02163</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War IntelligenceTitle: CIA, ORE 58-50, Critical Situations in the Far East, October 12, 1950, Top Secret.; Creator: ORE 58-50 CIA; Date...</p></details>
    Published: October 12, 1950  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: atomic bomb tests triggered strange lights in the skyin the 1950s lights appeare  
-   Link: <a href="https://www.facebook.com/fromquarktoquasars/posts/atomic-bomb-tests-triggered-strange-lights-in-the-skyin-the-1950s-lights-appeare/1377992497272012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fromquarktoquasars/posts/atomic-bomb-tests-triggered-strange-lights-in-the-skyin-the-1950s-lights-appeare/1377992497272012/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic bomb tests triggered strange lights in the sky....Atomic bomb tests triggered strange lights in the sky. In the 1950s, lights app...</p></details>
+   Link:<a href="https://www.facebook.com/fromquarktoquasars/posts/atomic-bomb-tests-triggered-strange-lights-in-the-skyin-the-1950s-lights-appeare/1377992497272012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fromquarktoquasars/posts/atomic-bomb-tests-triggered-strange-lights-in-the-skyin-the-1950s-lights-appeare/1377992497272012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic bomb tests triggered strange lights in the sky....Atomic bomb tests triggered strange lights in the sky. In the 1950s, lights app...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pdfcoffee.com  
    Title: culture and customs of the central asian republics goldenshark pdf free  
-   Link: <a href="https://pdfcoffee.com/culture-and-customs-of-the-central-asian-republics-goldenshark--pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/culture-and-customs-of-the-central-asian-republics-goldenshark--pdf-free.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Culture and Customs of The Central Asian RepublicsThe Soviet Constitution of 1936 finally established the Central Asian administrative bo...</p></details>
+   Link:<a href="https://pdfcoffee.com/culture-and-customs-of-the-central-asian-republics-goldenshark--pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/culture-and-customs-of-the-central-asian-republics-goldenshark--pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Culture and Customs of The Central Asian RepublicsThe Soviet Constitution of 1936 finally established the Central Asian administrative bo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufoac.com  
    Title: cia ufo report oo w 23602 weird sphere in uzbekistan  
-   Link: <a href="https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA UFO report OO-W-23602. The UFO in UzbekistanThis report is dedicated to UFOs that were recorded in Uzbekistan in the south-eastern di...</p></details>
+   Link:<a href="https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA UFO report OO-W-23602. The UFO in UzbekistanThis report is dedicated to UFOs that were recorded in Uzbekistan in the south-eastern di...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: dust blankets tashkent 149067  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of monitoring. NASA...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of monitoring. NASA...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsarchive.gwu.edu  
    Title: cia debriefed soviet h bomb eye witness 1957  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2018-04-06/cia-debriefed-soviet-h-bomb-eye-witness-1957" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2018-04-06/cia-debriefed-soviet-h-bomb-eye-witness-1957</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debriefed Soviet H-Bomb Eye-Witness in 19576 Apr 2018 — Secret CIA interviews with East bloc scientists and technicians in the mid-1950s...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2018-04-06/cia-debriefed-soviet-h-bomb-eye-witness-1957" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2018-04-06/cia-debriefed-soviet-h-bomb-eye-witness-1957</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debriefed Soviet H-Bomb Eye-Witness in 19576 Apr 2018 — Secret CIA interviews with East bloc scientists and technicians in the mid-1950s...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /somalia-4dfdf1-index/
 description: Focused pages that expand on What Do Somalia's UFO Reports Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Somalia_4dfdf1
 parent_title: What Do Somalia's UFO Reports Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-somalias-ufo-reports-really-show/
 
 # Explore Topics in What Do Somalia's UFO Reports Really Show?
 
-The following pages expand on the main **[What Do Somalia's UFO Reports Really Show?]({{ '/what-do-somalias-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do Somalia's UFO Reports Really Show?]({{ '/what-do-somalias-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Buulo Burde]({{ '/buulo-burde/' | relative_url }})
 - [Busy Skies]({{ '/busy-skies/' | relative_url }})

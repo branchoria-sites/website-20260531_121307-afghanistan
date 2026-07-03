@@ -1194,39 +1194,39 @@ image: /assets/images/Romania_d6b897-overview-social.jpg
 
 ## What counts as a Romanian UFO case?
 
-A useful Romanian UFO page has to separate three things that often get blurred together. First are **classic UFO reports**: witnesses describe an object or light they cannot identify. Second are **unidentified aerospace phenomena**, a broader term preferred by some researchers because the event may be a light, sensor contact, atmospheric effect, object, or misperception rather than a “flying saucer”. ASFAN, Romania’s main specialist civil group, explicitly frames its work as the study of “unidentified aerospace phenomena” and says it uses institutional support and laboratories where possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asfanufo.ro/index.php/romanian-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANRomanian cases</span><span class="citation-popover-snippet">ASFANRomanian cases</span></span></span>
+A useful Romanian UFO page has to separate three things that often get blurred together. First are **classic UFO reports**: witnesses describe an object or light they cannot identify. Second are **unidentified aerospace phenomena**, a broader term preferred by some researchers because the event may be a light, sensor contact, atmospheric effect, object, or misperception rather than a “flying saucer”. ASFAN, Romania’s main specialist civil group, explicitly frames its work as the study of “unidentified aerospace phenomena” and says it uses institutional support and laboratories where possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asfanufo.ro/index.php/romanian-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANRomanian cases</span><span class="citation-popover-snippet">ASFANRomanian cases</span></span></span>
 
 <img src="{{ "/assets/images/Romania_d6b897-overview.webp" | relative_url }}" alt="Overview image for What Romania&#x27;s UFO Record Really Shows" loading="eager" decoding="sync" fetchpriority="high">
-Third are **modern [airspace alerts]({{ 'airspace-alerts/' | relative_url }})**. Romania’s recent military detections, especially in the south-east, may begin as unidentified targets, but they often belong to a different category from the older UFO literature: balloons, drones, wartime debris, radar contacts not confirmed visually, or suspected incursions. This matters because a modern “unidentified aerial target” is not automatically part of the same evidential tradition as a Hoia-Baciu photograph or a 1960s airliner sighting. The 2023 case in which Romania scrambled MiG-21 LanceR jets after detecting a small target with weather-balloon-like characteristics is a good example: the target was initially detected by radar at about 11,000 metres, but the crews did not confirm it visually or on onboard radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Third are **modern [airspace alerts]({{ 'airspace-alerts/' | relative_url }})**. Romania’s recent military detections, especially in the south-east, may begin as unidentified targets, but they often belong to a different category from the older UFO literature: balloons, drones, wartime debris, radar contacts not confirmed visually, or suspected incursions. This matters because a modern “unidentified aerial target” is not automatically part of the same evidential tradition as a Hoia-Baciu photograph or a 1960s airliner sighting. The 2023 case in which Romania scrambled MiG-21 LanceR jets after detecting a small target with weather-balloon-like characteristics is a good example: the target was initially detected by radar at about 11,000 metres, but the crews did not confirm it visually or on onboard radar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The best international UAP practice points in the same direction. NASA’s 2023 UAP study argued for rigorous, evidence-based methods and better data collection; GEIPAN, the French public UAP office, similarly avoids “UFO” because the label can imply a physical object or extraterrestrial framing before the evidence warrants it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The best international UAP practice points in the same direction. NASA’s 2023 UAP study argued for rigorous, evidence-based methods and better data collection; GEIPAN, the French public UAP office, similarly avoids “UFO” because the label can imply a physical object or extraterrestrial framing before the evidence warrants it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Romania’s chronology: from sky omens to aviation reports
 
-Romanian UFO writing often begins with much older sky reports. ASFAN lists two sixteenth-century cases: a 1517 “great sign” in the sky recorded in a Moldavian chronicle, and a 1595 report during Michael the Brave’s siege of Târgoviște describing a large comet-like object that appeared above the military camp. These are historically interesting, but they should not be treated as modern UFO evidence. The texts are short, culturally framed, and lack the observational detail needed to distinguish astronomy, weather, symbolism, or later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-history/181-the-two-oldest-ufo-reports-from-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANThe two oldest UFO reports from Romania</span><span class="citation-popover-snippet">ASFANThe two oldest UFO reports from Romania</span></span></span>
+Romanian UFO writing often begins with much older sky reports. ASFAN lists two sixteenth-century cases: a 1517 “great sign” in the sky recorded in a Moldavian chronicle, and a 1595 report during Michael the Brave’s siege of Târgoviște describing a large comet-like object that appeared above the military camp. These are historically interesting, but they should not be treated as modern UFO evidence. The texts are short, culturally framed, and lack the observational detail needed to distinguish astronomy, weather, symbolism, or later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-history/181-the-two-oldest-ufo-reports-from-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANThe two oldest UFO reports from Romania</span><span class="citation-popover-snippet">ASFANThe two oldest UFO reports from Romania</span></span></span>
 
-The modern Romanian UFO story becomes more evidentially interesting in the twentieth century, especially after the Second World War, when aviation, radar, cameras, newspapers, and specialist groups created a fuller record. ASFAN’s English case catalogue includes a reported 1957 radar-and-interceptor episode near Caracal, in which a military pilot later recalled an elusive radar target and a MiG-17 being sent to intercept it. The same catalogue also records an August 1968 Tarom IL-18 airliner sighting near Oradea, close to the Hungarian border, one day before the much better-known Baciu Forest photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asfanufo.ro/index.php/romanian-history/194-ion-hobana-the-ufologist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANIon Hobana, the ufologist</span><span class="citation-popover-snippet">ASFANIon Hobana, the ufologist</span></span></span>
+The modern Romanian UFO story becomes more evidentially interesting in the twentieth century, especially after the Second World War, when aviation, radar, cameras, newspapers, and specialist groups created a fuller record. ASFAN’s English case catalogue includes a reported 1957 radar-and-interceptor episode near Caracal, in which a military pilot later recalled an elusive radar target and a MiG-17 being sent to intercept it. The same catalogue also records an August 1968 Tarom IL-18 airliner sighting near Oradea, close to the Hungarian border, one day before the much better-known Baciu Forest photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asfanufo.ro/index.php/romanian-history/194-ion-hobana-the-ufologist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANIon Hobana, the ufologist</span><span class="citation-popover-snippet">ASFANIon Hobana, the ufologist</span></span></span>
 
-The year 1968 is central because Romanian sources describe a wave of sightings and media attention. ASFAN’s historical page notes that an article in a Romanian historical monthly appeared that year partly because “dramatic UFO sightings” were being reported in Romania. A Romanian research article published in 2022 similarly states that 1968 saw a wave of 94 observations, with the Cluj/Hoia-Baciu cases becoming the most prominent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+The year 1968 is central because Romanian sources describe a wave of sightings and media attention. ASFAN’s historical page notes that an article in a Romanian historical monthly appeared that year partly because “dramatic UFO sightings” were being reported in Romania. A Romanian research article published in 2022 similarly states that 1968 saw a wave of 94 observations, with the Cluj/Hoia-Baciu cases becoming the most prominent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-After 1989, Romania’s UFO culture became more open and more media-driven. ASFAN’s history of Ion Hobana describes earlier informal research circles, a samizdat UFO newsletter in the communist period, and the creation of ASFAN in 1998 as a legally recognised non-profit organisation dedicated to the study of unidentified aerospace phenomena. That post-communist shift matters: it expanded public discussion, but it also increased the volume of low-filter television, tabloid, and internet claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+After 1989, Romania’s UFO culture became more open and more media-driven. ASFAN’s history of Ion Hobana describes earlier informal research circles, a samizdat UFO newsletter in the communist period, and the creation of ASFAN in 1998 as a legally recognised non-profit organisation dedicated to the study of unidentified aerospace phenomena. That post-communist shift matters: it expanded public discussion, but it also increased the volume of low-filter television, tabloid, and internet claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
 <img src="{{ "/assets/images/Romania_d6b897-Illustration-1-dark.svg" | relative_url }}" alt="What Romania&#x27;s UFO Record Really Shows illustration 1" data-theme-src-dark="{{ "/assets/images/Romania_d6b897-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hoia-Baciu: Romania’s most famous UFO location
 
-Hoia-Baciu Forest, west of Cluj-Napoca, is the case that made Romania visible in international UFO and paranormal culture. The core event is the 18 August 1968 sighting by Emil Barnea, described by ASFAN as a technician who was in Baciu Forest with three companions on a clear, hot day when a round, flattened, silvery object appeared above the treetops. According to the ASFAN account, Barnea took several photographs as the object moved, brightened, tilted, and then accelerated upward. The photographs were later publicised by Agerpres and appeared in Romanian media before circulating abroad. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+Hoia-Baciu Forest, west of Cluj-Napoca, is the case that made Romania visible in international UFO and paranormal culture. The core event is the 18 August 1968 sighting by Emil Barnea, described by ASFAN as a technician who was in Baciu Forest with three companions on a clear, hot day when a round, flattened, silvery object appeared above the treetops. According to the ASFAN account, Barnea took several photographs as the object moved, brightened, tilted, and then accelerated upward. The photographs were later publicised by Agerpres and appeared in Romanian media before circulating abroad.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-The case has several features that make it stronger than a typical anecdote: multiple claimed witnesses, a date and location, photographs, and rapid media circulation. It also has weaknesses. The photographs do not by themselves establish distance, size, speed, or object identity. Later retellings often inflate the story into a broader paranormal package: portals, missing people, electromagnetic anomalies, invisible touches, and cursed trees. A 2025 Guardian travel feature shows how Hoia-Baciu now functions as a paranormal-tourism site as much as a UFO case, mixing Barnea’s images with ghost stories, electronic malfunction claims, and conservation concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</span></span></span>
+The case has several features that make it stronger than a typical anecdote: multiple claimed witnesses, a date and location, photographs, and rapid media circulation. It also has weaknesses. The photographs do not by themselves establish distance, size, speed, or object identity. Later retellings often inflate the story into a broader paranormal package: portals, missing people, electromagnetic anomalies, invisible touches, and cursed trees. A 2025 Guardian travel feature shows how Hoia-Baciu now functions as a paranormal-tourism site as much as a UFO case, mixing Barnea’s images with ghost stories, electronic malfunction claims, and conservation concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</span></span></span>
 
-Sceptical treatment is important here. Brian Dunning’s Skeptoid episode argues that many Hoia-Baciu claims are unsupported by solid evidence and that some popular stories lack even basic case records such as dates. Other sceptical summaries note that the forest’s reputation has become entertainment-driven and that testable evidence is thin. This does not prove Barnea faked anything; it means the famous photographs should be classified as **contested**, not confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span>
+Sceptical treatment is important here. Brian Dunning’s Skeptoid episode argues that many Hoia-Baciu claims are unsupported by solid evidence and that some popular stories lack even basic case records such as dates. Other sceptical summaries note that the forest’s reputation has become entertainment-driven and that testable evidence is thin. This does not prove Barnea faked anything; it means the famous photographs should be classified as **contested**, not confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span>
 
 ## Aviation and radar cases deserve a different standard
 
-Romania’s most valuable UFO reports are often aviation-linked because they provide context: trained observers, known routes, radar expectations, altitude estimates, or air-traffic procedures. The 1957 Caracal account is notable because it involved a reported radar target and a fighter intercept attempt, though it rests on later recollection rather than a public military case file. The 1968 Tarom IL-18 sighting near Oradea is also important because it involves an airliner crew at altitude, but public summaries remain too thin for a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+Romania’s most valuable UFO reports are often aviation-linked because they provide context: trained observers, known routes, radar expectations, altitude estimates, or air-traffic procedures. The 1957 Caracal account is notable because it involved a reported radar target and a fighter intercept attempt, though it rests on later recollection rather than a public military case file. The 1968 Tarom IL-18 sighting near Oradea is also important because it involves an airliner crew at altitude, but public summaries remain too thin for a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-The Otopeni case of 14–15 July 1997 is one of the more concrete Romanian examples. ASFAN’s summary says the phenomenon was observed near Bucharest’s Otopeni International Airport at about 22:49 while tower operators were directing a Tarom flight from Istanbul to Bucharest. The light was reportedly recorded for about two hours by cameras on the control tower and another airport building, but the tower radar did not detect an unidentified target, so altitude could not be determined. This combination is useful: the case has institutional setting and video, but the absence of radar confirmation limits what can be claimed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+The Otopeni case of 14–15 July 1997 is one of the more concrete Romanian examples. ASFAN’s summary says the phenomenon was observed near Bucharest’s Otopeni International Airport at about 22:49 while tower operators were directing a Tarom flight from Istanbul to Bucharest. The light was reportedly recorded for about two hours by cameras on the control tower and another airport building, but the tower radar did not detect an unidentified target, so altitude could not be determined. This combination is useful: the case has institutional setting and video, but the absence of radar confirmation limits what can be claimed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-The 2007 MiG-21 LanceR incident near Gherla is another important but easily misunderstood case. Romanian and international media reported that a Romanian MiG-21 LanceR was struck by several unidentified objects at high altitude during a check flight, damaging the cockpit and injuring the pilot. HotNews reported that onboard cameras recorded fast-moving objects, and UPI said the Romanian Defence Ministry had confirmed a fighter plane was struck by four unidentified flying objects and released video. Later Romanian accident roundups, however, introduced a more cautious possibility: the incident may have involved an unidentified object, possibly a bird. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hotnews.ro">[HotNews.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hotnews.ro</span><span class="citation-popover-title">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span><span class="citation-popover-snippet">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane</span></span></span>
+The 2007 MiG-21 LanceR incident near Gherla is another important but easily misunderstood case. Romanian and international media reported that a Romanian MiG-21 LanceR was struck by several unidentified objects at high altitude during a check flight, damaging the cockpit and injuring the pilot. HotNews reported that onboard cameras recorded fast-moving objects, and UPI said the Romanian Defence Ministry had confirmed a fighter plane was struck by four unidentified flying objects and released video. Later Romanian accident roundups, however, introduced a more cautious possibility: the incident may have involved an unidentified object, possibly a bird.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hotnews.ro">[HotNews.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hotnews.ro</span><span class="citation-popover-title">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span><span class="citation-popover-snippet">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane</span></span></span>
 
 That last detail is the key. “Unidentified” in aviation can mean “not yet identified from available evidence”, not “extraordinary craft”. The Gherla incident belongs in Romania’s serious case file because it involved a military aircraft, physical damage, and official attention; it should not be presented as confirmed exotic technology.
 
@@ -1234,44 +1234,44 @@ That last detail is the key. “Unidentified” in aviation can mean “not yet 
 
 ## Region-level pattern: why Transylvania dominates the map
 
-Romanian UFO culture is geographically uneven. **Cluj and Transylvania** dominate public memory because of Hoia-Baciu, the 1968 Barnea photographs, and the forest’s later reinvention as a paranormal destination. This concentration is partly evidential and partly cultural: a photogenic forest near a major city is easier to mythologise than a brief rural light sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+Romanian UFO culture is geographically uneven. **Cluj and Transylvania** dominate public memory because of Hoia-Baciu, the 1968 Barnea photographs, and the forest’s later reinvention as a paranormal destination. This concentration is partly evidential and partly cultural: a photogenic forest near a major city is easier to mythologise than a brief rural light sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-**Bucharest and Otopeni** matter for a different reason. Cases there are tied to airports, cameras, air traffic, and public media. The 1997 Otopeni event is more sober than Hoia-Baciu folklore precisely because it can be discussed in operational terms: where was the light, what did the tower see, what did radar not see, and how long was it recorded? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+**Bucharest and Otopeni** matter for a different reason. Cases there are tied to airports, cameras, air traffic, and public media. The 1997 Otopeni event is more sober than Hoia-Baciu folklore precisely because it can be discussed in operational terms: where was the light, what did the tower see, what did radar not see, and how long was it recorded?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-**Western and mountain Romania** appear in the catalogue through cases such as Arad in 1994 and Bâlea Lake in 1978. The Arad case combined reported UFO sightings with crop-circle-like marks in wheat; ASFAN’s summary describes concentric flattened formations, aerial photographs, and media attention after the site was reported. Bâlea Lake is a stranger, more folkloric case involving a reddish light in dense fog and a reported dark silhouette near military conscripts. Both are interesting, but neither has the evidential strength of a well-instrumented aviation case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+**Western and mountain Romania** appear in the catalogue through cases such as Arad in 1994 and Bâlea Lake in 1978. The Arad case combined reported UFO sightings with crop-circle-like marks in wheat; ASFAN’s summary describes concentric flattened formations, aerial photographs, and media attention after the site was reported. Bâlea Lake is a stranger, more folkloric case involving a reddish light in dense fog and a reported dark silhouette near military conscripts. Both are interesting, but neither has the evidential strength of a well-instrumented aviation case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-**South-eastern Romania** has become prominent for a newer reason: air policing and the proximity of Russia’s war against Ukraine. Radar targets, drones, and debris near the Danube Delta or the Black Sea are often “unidentified” at first report, but they usually belong to security analysis rather than classic UFO research. Reuters reported in April 2026 that Romania recovered fragments of two drones after an overnight Russian attack on Ukraine, with finds in Galați and Tulcea county; AP reported in 2023 that Romania had scrambled jets after detecting a weather-balloon-like object that crews could not confirm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-2026-04-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Romania finds parts of second drone after overnight</span><span class="citation-popover-snippet">Romania finds parts of second drone after overnight</span></span></span>
+**South-eastern Romania** has become prominent for a newer reason: air policing and the proximity of Russia’s war against Ukraine. Radar targets, drones, and debris near the Danube Delta or the Black Sea are often “unidentified” at first report, but they usually belong to security analysis rather than classic UFO research. Reuters reported in April 2026 that Romania recovered fragments of two drones after an overnight Russian attack on Ukraine, with finds in Galați and Tulcea county; AP reported in 2023 that Romania had scrambled jets after detecting a weather-balloon-like object that crews could not confirm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-2026-04-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Romania finds parts of second drone after overnight</span><span class="citation-popover-snippet">Romania finds parts of second drone after overnight</span></span></span>
 
 <img src="{{ "/assets/images/Romania_d6b897-Illustration-2-dark.svg" | relative_url }}" alt="What Romania&#x27;s UFO Record Really Shows illustration 2" data-theme-src-dark="{{ "/assets/images/Romania_d6b897-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked: a practical evidence split
 
 Romania’s UFO material is best read in three evidence tiers.
 
-**Confirmed as events, not as alien craft.** The Otopeni 1997 observation, the 2007 MiG-21 damage incident, and the 2023 weather-balloon-like airspace alert are confirmed enough to say that something operationally noteworthy was reported or detected. What is not confirmed is an extraordinary origin. In each case, the limits are clear: no radar confirmation at Otopeni, uncertain object identity in the MiG incident, and no visual or onboard-radar confirmation in the 2023 scramble. ASFAN <span class="citation-chip-wrap"><a class="citation-chip" href="https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hotnews.ro">[HotNews.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hotnews.ro</span><span class="citation-popover-title">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span><span class="citation-popover-snippet">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span></span></span>
+**Confirmed as events, not as alien craft.** The Otopeni 1997 observation, the 2007 MiG-21 damage incident, and the 2023 weather-balloon-like airspace alert are confirmed enough to say that something operationally noteworthy was reported or detected. What is not confirmed is an extraordinary origin. In each case, the limits are clear: no radar confirmation at Otopeni, uncertain object identity in the MiG incident, and no visual or onboard-radar confirmation in the 2023 scramble. ASFAN<span class="citation-chip-wrap"><a class="citation-chip" href="https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hotnews.ro">[HotNews.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hotnews.ro</span><span class="citation-popover-title">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span><span class="citation-popover-snippet">Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte</span></span></span>
 
-**Contested but culturally important.** Hoia-Baciu’s 1968 photographs are Romania’s flagship contested case. They are not just internet folklore: they have a named witness, date, location, media history, and specialist attention. But the photographs cannot securely establish scale, distance, or origin, and the wider forest mythology has accumulated claims far beyond the evidence. ASFAN <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</span></span></span>
+**Contested but culturally important.** Hoia-Baciu’s 1968 photographs are Romania’s flagship contested case. They are not just internet folklore: they have a named witness, date, location, media history, and specialist attention. But the photographs cannot securely establish scale, distance, or origin, and the wider forest mythology has accumulated claims far beyond the evidence. ASFAN<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</span></span></span>
 
-**Weak, folkloric, or likely misframed.** Medieval sky signs, paranormal forest legends, anonymous online videos, and social-media claims about disappearances or portals are weak evidence for UFO phenomena. They may be valuable for cultural history, tourism, or folklore, but they do not carry the same evidential weight as time-stamped aviation reports or investigated cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+**Weak, folkloric, or likely misframed.** Medieval sky signs, paranormal forest legends, anonymous online videos, and social-media claims about disappearances or portals are weak evidence for UFO phenomena. They may be valuable for cultural history, tourism, or folklore, but they do not carry the same evidential weight as time-stamped aviation reports or investigated cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-This split also helps prevent a common mistake: treating “unexplained” as a positive identification. Internationally, AARO’s historical review has stressed that many UAP cases remain unsolved because of limited data, while resolved cases have ordinary explanations; NASA likewise emphasised better calibrated, better collected data rather than stronger speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+This split also helps prevent a common mistake: treating “unexplained” as a positive identification. Internationally, AARO’s historical review has stressed that many UAP cases remain unsolved because of limited data, while resolved cases have ordinary explanations; NASA likewise emphasised better calibrated, better collected data rather than stronger speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
 
 ## Romanian investigators and archives
 
-Romania’s best-known UFO researcher was Ion Hobana, a writer and public intellectual who helped move the topic from sensational reporting toward organised investigation. ASFAN’s profile says Hobana organised a “Scientific UFO Circle” in Bucharest in 1971, attracted specialists and public audiences, and later became the first president of ASFAN when it was founded in 1998. He preferred the term “unidentified aerospace phenomena” and wanted the association to have as scientific a character as possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+Romania’s best-known UFO researcher was Ion Hobana, a writer and public intellectual who helped move the topic from sensational reporting toward organised investigation. ASFAN’s profile says Hobana organised a “Scientific UFO Circle” in Bucharest in 1971, attracted specialists and public audiences, and later became the first president of ASFAN when it was founded in 1998. He preferred the term “unidentified aerospace phenomena” and wanted the association to have as scientific a character as possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-ASFAN is the main Romanian civil archive available to general readers in English. Its value is that it preserves case summaries, dates, names, locations, and earlier Romanian research traditions. Its limitation is that it is a UFO research organisation, not a state archive or independent scientific body with full access to military files, radar data, or original negatives in every case. ASFAN itself says its funding and members’ time have always been limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
+ASFAN is the main Romanian civil archive available to general readers in English. Its value is that it preserves case summaries, dates, names, locations, and earlier Romanian research traditions. Its limitation is that it is a UFO research organisation, not a state archive or independent scientific body with full access to military files, radar data, or original negatives in every case. ASFAN itself says its funding and members’ time have always been limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asfanufo.ro">[ASFAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asfanufo.ro</span><span class="citation-popover-title">ASFANBaciu Forest Cluj-Napoca</span><span class="citation-popover-snippet">ASFANBaciu Forest Cluj-Napoca</span></span></span>
 
-Official Romanian UFO archives are harder to identify publicly than in countries with centralised release programmes. The Romanian Ministry of Defence appears in modern airspace incidents and in media-reported military cases such as the 2007 MiG event, but there is no obvious public Romanian equivalent of France’s GEIPAN database. That absence does not mean no records exist; it means public assessment depends heavily on civil researchers, journalism, scattered official statements, and case-by-case reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.ro/articole/mapn-tinta-aeriana-de-dimensiuni-mici-asemanatoare-unui-balon-meteorologic-detect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.ro">[Euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.ro</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Official Romanian UFO archives are harder to identify publicly than in countries with centralised release programmes. The Romanian Ministry of Defence appears in modern airspace incidents and in media-reported military cases such as the 2007 MiG event, but there is no obvious public Romanian equivalent of France’s GEIPAN database. That absence does not mean no records exist; it means public assessment depends heavily on civil researchers, journalism, scattered official statements, and case-by-case reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">UFOs hit Romanian plane</span><span class="citation-popover-snippet">UFOs hit Romanian plane</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.ro/articole/mapn-tinta-aeriana-de-dimensiuni-mici-asemanatoare-unui-balon-meteorologic-detect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.ro">[Euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.ro</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ia7m59bPBZs" title="UFO Romania: Investigations with Alexandru Mironov and Dan D Farcas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ia7m59bPBZs" target="_blank" rel="noopener noreferrer">UFO Romania: Investigations with Alexandru Mironov and Dan D Farcas</a></p><p class="youtube-embed-meta">Channel: Vlogumentar Tv &middot; Views: 1.7K &middot; Uploaded: May 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ia7m59bPBZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ia7m59bPBZs">Open on YouTube</a></p></div></div></div>
 
 ## How Romania links to neighbouring UFO branches
 
-Romania naturally connects to several sibling branches in a country-by-country UFO project. The 1968 wave belongs beside other Cold War-era European sighting waves, where media, aviation, military secrecy, and public fascination interacted. The Otopeni and MiG cases connect Romania to aviation-centred pages, especially countries where air-traffic control or military pilots play a major role. The south-eastern airspace cases connect Romania to Moldova, Ukraine, Poland, and the Black Sea region, where “unidentified” now often means drones, missiles, balloons, or wartime sensor contacts rather than classic UFO sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Romania naturally connects to several sibling branches in a country-by-country UFO project. The 1968 wave belongs beside other Cold War-era European sighting waves, where media, aviation, military secrecy, and public fascination interacted. The Otopeni and MiG cases connect Romania to aviation-centred pages, especially countries where air-traffic control or military pilots play a major role. The south-eastern airspace cases connect Romania to Moldova, Ukraine, Poland, and the Black Sea region, where “unidentified” now often means drones, missiles, balloons, or wartime sensor contacts rather than classic UFO sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Hoia-Baciu also links Romania to a different kind of branch: locations where UFO claims merge with haunted-place tourism. In that sense it resembles not an official UAP archive but a cultural landscape where photographs, ghost stories, local guides, forests, missing-person legends, and paranormal television all reinforce one another. That makes it memorable, but also makes disciplined evidence assessment harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</span></span></span>
+Hoia-Baciu also links Romania to a different kind of branch: locations where UFO claims merge with haunted-place tourism. In that sense it resembles not an official UAP archive but a cultural landscape where photographs, ghost stories, local guides, forests, missing-person legends, and paranormal television all reinforce one another. That makes it memorable, but also makes disciplined evidence assessment harder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</span></span></span>
 
 <img src="{{ "/assets/images/Romania_d6b897-Illustration-3-dark.svg" | relative_url }}" alt="What Romania&#x27;s UFO Record Really Shows illustration 3" data-theme-src-dark="{{ "/assets/images/Romania_d6b897-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The balanced takeaway
@@ -1281,194 +1281,194 @@ Romania has a real UFO and UAP tradition, but its evidence is mixed. The country
 For readers trying to assess a Romanian claim, the most useful questions are simple: Is there a date and place? Are there named witnesses? Was there radar, video, physical damage, or original photographic material? Was a conventional explanation tested? Does the story grow more dramatic in later retellings than in the earliest source? Romania’s UFO record rewards that cautious approach because it contains both genuinely interesting unresolved reports and many claims that become weaker the further they drift from the original evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Romania&#x27;s UFO Record Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Romania&#x27;s UFO Record Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Supports comparison with international UFO reporting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports comparison with international UFO reporting traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing Romania&#x27;s stronger and weaker reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing Romania&#x27;s stronger and weaker reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparative international context for Romanian cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparative international context for Romanian cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Romania&#x27;s folklore-rich UFO history fits themes explored throughout the book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Romania&#x27;s folklore-rich UFO history fits themes explored throughout the book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-romania-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-romania-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1484,7 +1484,7 @@ For readers trying to assess a Romanian claim, the most useful questions are sim
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1504,7 +1504,7 @@ For readers trying to assess a Romanian claim, the most useful questions are sim
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1536,7 +1536,7 @@ For readers trying to assess a Romanian claim, the most useful questions are sim
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1588,7 +1588,7 @@ For readers trying to assess a Romanian claim, the most useful questions are sim
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1633,7 +1633,7 @@ For readers trying to assess a Romanian claim, the most useful questions are sim
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1671,181 +1671,180 @@ For readers trying to assess a Romanian claim, the most useful questions are sim
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: asfanufo.ro  
    Title: ASFANRomanian cases  
-   Link: <a href="https://asfanufo.ro/index.php/romanian-cases" target="_blank" rel="noopener noreferrer nofollow">https://asfanufo.ro/index.php/romanian-cases</a>  
+   Link:<a href="https://asfanufo.ro/index.php/romanian-cases" target="_blank" rel="noopener noreferrer nofollow">https://asfanufo.ro/index.php/romanian-cases</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: euronews.ro  
-   Link: <a href="https://www.euronews.ro/articole/mapn-tinta-aeriana-de-dimensiuni-mici-asemanatoare-unui-balon-meteorologic-detect" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.ro/articole/mapn-tinta-aeriana-de-dimensiuni-mici-asemanatoare-unui-balon-meteorologic-detect</a>  
+   Link:<a href="https://www.euronews.ro/articole/mapn-tinta-aeriana-de-dimensiuni-mici-asemanatoare-unui-balon-meteorologic-detect" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.ro/articole/mapn-tinta-aeriana-de-dimensiuni-mici-asemanatoare-unui-balon-meteorologic-detect</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: asfanufo.ro  
    Title: ASFANThe two oldest UFO reports from Romania  
-   Link: <a href="https://www.asfanufo.ro/index.php/romanian-history/181-the-two-oldest-ufo-reports-from-romania" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/romanian-history/181-the-two-oldest-ufo-reports-from-romania</a>  
+   Link:<a href="https://www.asfanufo.ro/index.php/romanian-history/181-the-two-oldest-ufo-reports-from-romania" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/romanian-history/181-the-two-oldest-ufo-reports-from-romania</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asfanufo.ro  
    Title: ASFANIon Hobana, the ufologist  
-   Link: <a href="https://asfanufo.ro/index.php/romanian-history/194-ion-hobana-the-ufologist" target="_blank" rel="noopener noreferrer nofollow">https://asfanufo.ro/index.php/romanian-history/194-ion-hobana-the-ufologist</a>  
+   Link:<a href="https://asfanufo.ro/index.php/romanian-history/194-ion-hobana-the-ufologist" target="_blank" rel="noopener noreferrer nofollow">https://asfanufo.ro/index.php/romanian-history/194-ion-hobana-the-ufologist</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asfanufo.ro  
    Title: ASFANBaciu Forest Cluj-Napoca  
-   Link: <a href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august-18-1968</a>  
+   Link:<a href="https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/romanian-cases/197-baciu-forest-cluj-napoca-august</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/520" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/520</a>  
+   Link:<a href="https://skeptoid.com/episodes/520" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/520</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hotnews.ro  
    Title: Hot News.ro VIDE O Un avion MIG 21 Lancer a fost lovit de 4 obiecte  
-   Link: <a href="https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478" target="_blank" rel="noopener noreferrer nofollow">https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478</a>  
+   Link:<a href="https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478" target="_blank" rel="noopener noreferrer nofollow">https://hotnews.ro/video-un-avion-mig-21-lancer-a-fost-lovit-de-4-obiecte-zburatoare-neidentificate-in-apropiere-de-gherla-782478</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: upi.com  
    Title: UFOs hit Romanian plane  
-   Link: <a href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/</a>  
+   Link:<a href="https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Odd_News/2008/06/06/UFOs-hit-Romanian-plane/35591212793074/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: Romania finds parts of second drone after overnight  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-2026-04-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-2026-04-25/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-2026-04-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-2026-04-25/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
    Title: romania detects suspicious weather balloon its airspace ministry says 2023 02 14  
-   Link: <a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
    Title: romania fly military mig 21 jets one more year 2022 05 25  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/romania-fly-military-mig-21-jets-one-more-year-2022-05-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/romania-fly-military-mig-21-jets-one-more-year-2022-05-25/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/romania-fly-military-mig-21-jets-one-more-year-2022-05-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/romania-fly-military-mig-21-jets-one-more-year-2022-05-25/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/romania-finds-suspected-drone-fragments-after-russian-attack-ukraine-2025-11-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/romania-finds-suspected-drone-fragments-after-russian-attack-ukraine-2025-11-11/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/romania-finds-suspected-drone-fragments-after-russian-attack-ukraine-2025-11-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/romania-finds-suspected-drone-fragments-after-russian-attack-ukraine-2025-11-11/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949</a>  
+   Link:<a href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hotnews.ro  
-   Link: <a href="https://hotnews.ro/video-ufos-in-romania-mig-21-lancer-plane-hit-by-four-unidentified-flying-objects-in-central-romania-782472" target="_blank" rel="noopener noreferrer nofollow">https://hotnews.ro/video-ufos-in-romania-mig-21-lancer-plane-hit-by-four-unidentified-flying-objects-in-central-romania-782472</a>  
+   Link:<a href="https://hotnews.ro/video-ufos-in-romania-mig-21-lancer-plane-hit-by-four-unidentified-flying-objects-in-central-romania-782472" target="_blank" rel="noopener noreferrer nofollow">https://hotnews.ro/video-ufos-in-romania-mig-21-lancer-plane-hit-by-four-unidentified-flying-objects-in-central-romania-782472</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/866" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/866</a>  
+   Link:<a href="https://skeptoid.com/episodes/866" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/866</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ac.nato.int  
    Title: ROU Mi G21 farewell  
-   Link: <a href="https://ac.nato.int/archive/2023/ROU_MiG21_farewell" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/archive/2023/ROU_MiG21_farewell</a>  
+   Link:<a href="https://ac.nato.int/archive/2023/ROU_MiG21_farewell" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/archive/2023/ROU_MiG21_farewell</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: asfanufo.ro  
-   Link: <a href="https://www.asfanufo.ro/index.php/2014-02-11-09-17-36" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/2014-02-11-09-17-36</a>  
+   Link:<a href="https://www.asfanufo.ro/index.php/2014" target="_blank" rel="noopener noreferrer nofollow">https://www.asfanufo.ro/index.php/2014</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3</a>  
+   Link:<a href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</p></details>
+   Link:<a href="https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/travel/2025/oct/30/worlds-most-haunted-forest-transylvania-romania</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its fame among paranormal enthusiasts, Hoia-Baciu faces threats from urban development, as it lacks formal environmental protecti...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Hoia-Baciu Forest  
-   Link: <a href="https://en.wikipedia.org/wiki/Hoia-Baciu_Forest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hoia-Baciu_Forest</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hoia-Baciu_Forest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hoia-Baciu_Forest</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Dracula The Extraterrestrial | Mysteries Beyond | Full HD | Documentary Movie  
-   Link: <a href="https://www.youtube.com/watch?v=K-tQCaH1bl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K-tQCaH1bl4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files Reveal Risks To Commercial Flights | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K-tQCaH1bl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K-tQCaH1bl4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files Reveal Risks To Commercial Flights | WION Podcast...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516692.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516692.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516692.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516692.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517517" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517517</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517517" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517517</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516754" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516754</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516754" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516754</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Hopefully I'm Alone in this Forest  
-   Link: <a href="https://www.youtube.com/watch?v=olecKck7fwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=olecKck7fwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dracula The Extraterrestrial | Mysteries Beyond | Full HD | Documentary Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=olecKck7fwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=olecKck7fwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dracula The Extraterrestrial | Mysteries Beyond | Full HD | Documentary Movie...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/gravitas-russian-drone-incursion-in-romaniarussian-drone-launched-against-ukrain/1353069060265598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-russian-drone-incursion-in-romaniarussian-drone-launched-against-ukrain/1353069060265598/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/gravitas-russian-drone-incursion-in-romaniarussian-drone-launched-against-ukrain/1353069060265598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-russian-drone-incursion-in-romaniarussian-drone-launched-against-ukrain/1353069060265598/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/russian-drones-breach-nato-airspace-big-attack-in-romania-apartment-on-fire-watc/1426838449490338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/russian-drones-breach-nato-airspace-big-attack-in-romania-apartment-on-fire-watc/1426838449490338/</a>  
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/russian-drones-breach-nato-airspace-big-attack-in-romania-apartment-on-fire-watc/1426838449490338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/russian-drones-breach-nato-airspace-big-attack-in-romania-apartment-on-fire-watc/1426838449490338/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/310450227_THE_NICHE_TOURISM_DEVELOPMENT_OF_ONE_OF_THE_MOST_MYSTERIOUS_FORESTS_IN_ROMANIA_THE_HOIA-BACIU_FOREST" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/310450227_THE_NICHE_TOURISM_DEVELOPMENT_OF_ONE_OF_THE_MOST_MYSTERIOUS_FORESTS_IN_ROMANIA_THE_HOIA-BACIU_FOREST</a>  
+   Link:<a href="https://www.researchgate.net/publication/310450227_THE_NICHE_TOURISM_DEVELOPMENT_OF_ONE_OF_THE_MOST_MYSTERIOUS_FORESTS_IN_ROMANIA_THE_HOIA-BACIU_FOREST" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/310450227_THE_NICHE_TOURISM_DEVELOPMENT_OF_ONE_OF_THE_MOST_MYSTERIOUS_FORESTS_IN_ROMANIA_THE_HOIA-BACIU_FOREST</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326886375_Images_of_the_Mind_and_Images_for_the_Eye_An_Iconographical_Approach_to_UFO-Mythology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326886375_Images_of_the_Mind_and_Images_for_the_Eye_An_Iconographical_Approach_to_UFO-Mythology</a>
+   Link:<a href="https://www.researchgate.net/publication/326886375_Images_of_the_Mind_and_Images_for_the_Eye_An_Iconographical_Approach_to_UFO-Mythology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326886375_Images_of_the_Mind_and_Images_for_the_Eye_An_Iconographical_Approach_to_UFO-Mythology</a>

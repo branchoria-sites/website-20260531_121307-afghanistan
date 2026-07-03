@@ -275,25 +275,25 @@ That sounds like it should improve the evidence. In practice, it often produced 
 
 </div>
 
-These weaknesses are not unique to Viet Nam. UFO researchers and sceptical investigators internationally have repeatedly found that still images are especially vulnerable to ambiguity because photographs frequently hide scale, distance and motion. A small nearby object can appear enormous, while compression artefacts, reflections and lens effects can create shapes that look structured or metallic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+These weaknesses are not unique to Viet Nam. UFO researchers and sceptical investigators internationally have repeatedly found that still images are especially vulnerable to ambiguity because photographs frequently hide scale, distance and motion. A small nearby object can appear enormous, while compression artefacts, reflections and lens effects can create shapes that look structured or metallic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 For Vietnamese cases, the problem is amplified by the fact that many reports survive only through news summaries or reposted images rather than preserved original files.
 
 ## The Thanh Hoa photograph that triggered a national debate
 
-One of the best-known modern Vietnamese UFO stories emerged from Thanh Hoa Province in December 2012. A 19-year-old resident reported that he had photographed a strange object above his family's property. According to the account, he did not notice anything unusual while taking the picture and only discovered the object later when reviewing the image. The photograph quickly circulated through local and national media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tuoitre.vn">[Tuoi tre news]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tuoitre.vn</span><span class="citation-popover-title">Tuoi tre news Is this sign of apocalypse?</span><span class="citation-popover-snippet">UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</span><span class="citation-popover-meta">Published: December 14, 2012</span></span></span>
+One of the best-known modern Vietnamese UFO stories emerged from Thanh Hoa Province in December 2012. A 19-year-old resident reported that he had photographed a strange object above his family's property. According to the account, he did not notice anything unusual while taking the picture and only discovered the object later when reviewing the image. The photograph quickly circulated through local and national media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tuoitre.vn">[Tuoi tre news]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tuoitre.vn</span><span class="citation-popover-title">Tuoi tre news Is this sign of apocalypse?</span><span class="citation-popover-snippet">UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</span><span class="citation-popover-meta">Published: December 14, 2012</span></span></span>
 
 The case is useful precisely because it demonstrates the limits of single-image evidence.
 
-Supporters argued that people who examined the original file reportedly did not immediately identify signs of image manipulation. Some local observers interpreted the object as a genuine unidentified craft. Yet the photograph had a major evidential weakness: nobody else reported seeing the object at the time, and no independent image from another angle surfaced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">ufos many times appeared in vietnam E55231</span><span class="citation-popover-snippet">VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</span></span></span>
+Supporters argued that people who examined the original file reportedly did not immediately identify signs of image manipulation. Some local observers interpreted the object as a genuine unidentified craft. Yet the photograph had a major evidential weakness: nobody else reported seeing the object at the time, and no independent image from another angle surfaced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">ufos many times appeared in vietnam E55231</span><span class="citation-popover-snippet">VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</span></span></span>
 
-Even contemporary reporting reflected scepticism. Tuoi Tre described the image as likely to be a crude Photoshop fabrication, while other accounts emphasised that the object appeared only in the photograph and not in any corroborating observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tuoitre.vn">[Tuoi tre news]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tuoitre.vn</span><span class="citation-popover-title">Tuoi tre news Is this sign of apocalypse?</span><span class="citation-popover-snippet">UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</span><span class="citation-popover-meta">Published: December 14, 2012</span></span></span>
+Even contemporary reporting reflected scepticism. Tuoi Tre described the image as likely to be a crude Photoshop fabrication, while other accounts emphasised that the object appeared only in the photograph and not in any corroborating observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tuoitre.vn">[Tuoi tre news]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tuoitre.vn</span><span class="citation-popover-title">Tuoi tre news Is this sign of apocalypse?</span><span class="citation-popover-snippet">UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</span><span class="citation-popover-meta">Published: December 14, 2012</span></span></span>
 
 The debate never produced a definitive resolution. Instead, it became a classic example of a recurring pattern in Vietnamese UFO reporting: a striking image attracts attention, but the absence of supporting evidence prevents either confirmation or conclusive debunking.
 
 ## Hanoi sightings and the problem of bright lights
 
-Hanoi has generated several reports involving luminous objects, glowing streaks and unusual lights rather than structured craft. One widely discussed report from October 2010 described a bright object photographed over the capital, appearing as a glowing or burning form moving through the sky. Vietnamese media coverage compared it to an object entering the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">ufos many times appeared in vietnam E55231</span><span class="citation-popover-snippet">VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</span></span></span>
+Hanoi has generated several reports involving luminous objects, glowing streaks and unusual lights rather than structured craft. One widely discussed report from October 2010 described a bright object photographed over the capital, appearing as a glowing or burning form moving through the sky. Vietnamese media coverage compared it to an object entering the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">ufos many times appeared in vietnam E55231</span><span class="citation-popover-snippet">VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</span></span></span>
 
 Cases of this type are especially difficult because a photograph of a bright light often removes the very contextual information needed for identification. Without exposure settings, observation duration, witness location and additional viewpoints, investigators cannot easily distinguish between:
 
@@ -308,7 +308,7 @@ Cases of this type are especially difficult because a photograph of a bright lig
 
 </div>
 
-More recent online claims involving Hanoi, including surveillance-camera footage circulated on social media, illustrate another problem. Video clips frequently spread without original files, exact locations or technical details, making independent assessment nearly impossible. Viral discussion often outruns verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Time: June 1, 2021 Location: Hanoi Vietnam Taken from a surveillance camera and reported on television by Sen Vang...</span><span class="citation-popover-meta">Published: June 1, 2021</span></span></span>
+More recent online claims involving Hanoi, including surveillance-camera footage circulated on social media, illustrate another problem. Video clips frequently spread without original files, exact locations or technical details, making independent assessment nearly impossible. Viral discussion often outruns verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Time: June 1, 2021 Location: Hanoi Vietnam Taken from a surveillance camera and reported on television by Sen Vang...</span><span class="citation-popover-meta">Published: June 1, 2021</span></span></span>
 
 In many instances, the strongest conclusion available is simply that the object remains unidentified because the available evidence is too limited, not because it demonstrates extraordinary technology.
 
@@ -316,7 +316,7 @@ In many instances, the strongest conclusion available is simply that the object 
 
 ## Ho Chi Minh City and Dong Nai: lights, videos and urban confusion
 
-Reports from Ho Chi Minh City and nearby Dong Nai Province tend to involve moving lights, glowing shapes or distant objects recorded in heavily populated urban environments. Vietnamese media has periodically highlighted videos showing unusual lights above the southern skyline, prompting public speculation and amateur analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">ufos many times appeared in vietnam E55231</span><span class="citation-popover-snippet">VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</span></span></span>
+Reports from Ho Chi Minh City and nearby Dong Nai Province tend to involve moving lights, glowing shapes or distant objects recorded in heavily populated urban environments. Vietnamese media has periodically highlighted videos showing unusual lights above the southern skyline, prompting public speculation and amateur analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">ufos many times appeared in vietnam E55231</span><span class="citation-popover-snippet">VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</span></span></span>
 
 Urban sightings introduce additional complications.
 
@@ -349,7 +349,7 @@ A viewer usually cannot determine:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Distance from the camera. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Time: June 1, 2021 Location: Hanoi Vietnam Taken from a surveillance camera and reported on television by Sen Vang...</span><span class="citation-popover-meta">Published: June 1, 2021</span></span></span>
+* Distance from the camera.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Time: June 1, 2021 Location: Hanoi Vietnam Taken from a surveillance camera and reported on television by Sen Vang...</span><span class="citation-popover-meta">Published: June 1, 2021</span></span></span>
 * Physical size.
 * Speed.
 * Direction of movement.
@@ -358,7 +358,7 @@ A viewer usually cannot determine:
 
 </div>
 
-Researchers studying famous UFO photographs internationally have repeatedly noted that ambiguity of scale is one of the easiest ways for ordinary objects to appear extraordinary. Models, balloons, insects and suspended objects can all produce apparently dramatic images when photographed without reliable reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
+Researchers studying famous UFO photographs internationally have repeatedly noted that ambiguity of scale is one of the easiest ways for ordinary objects to appear extraordinary. Models, balloons, insects and suspended objects can all produce apparently dramatic images when photographed without reliable reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
 This lesson applies directly to Vietnamese cases. The more visually impressive a solitary image appears, the more important independent corroboration becomes.
 
@@ -398,7 +398,7 @@ A photograph may remain unresolved because:
 
 An unresolved case therefore reflects missing information rather than proof of an extraordinary explanation.
 
-International UFO history contains many famous examples in which photographs initially regarded as compelling were later explained as hoaxes, reflections, suspended models or misidentified conventional objects. Cases once treated as strong evidence have sometimes collapsed decades later when new information emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CARET&quot; Drone Incident</span><span class="citation-popover-snippet">CARET&quot; Drone Incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Calvine UFO photograph</span><span class="citation-popover-snippet">Calvine UFO photograph</span></span></span>
+International UFO history contains many famous examples in which photographs initially regarded as compelling were later explained as hoaxes, reflections, suspended models or misidentified conventional objects. Cases once treated as strong evidence have sometimes collapsed decades later when new information emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CARET&quot; Drone Incident</span><span class="citation-popover-snippet">CARET&quot; Drone Incident</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Calvine UFO photograph</span><span class="citation-popover-snippet">Calvine UFO photograph</span></span></span>
 
 Vietnamese reports face the same challenge. Most modern cases lack the preserved evidence required for long-term reanalysis.
 
@@ -441,199 +441,199 @@ These methods do not guarantee identification, but they dramatically improve the
 
 The post-war civilian UFO history of Viet Nam is not a story of steadily accumulating proof. It is a story of changing evidence. As cameras became widespread, reports increasingly relied on photographs and videos rather than documented observation networks.
 
-The Thanh Hoa photograph, Hanoi light sightings and southern urban videos all demonstrate the same underlying problem: visual material can attract public attention while providing very little information about what was actually present in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tuoitre.vn">[Tuoi tre news]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tuoitre.vn</span><span class="citation-popover-title">Tuoi tre news Is this sign of apocalypse?</span><span class="citation-popover-snippet">UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</span><span class="citation-popover-meta">Published: December 14, 2012</span></span></span>
+The Thanh Hoa photograph, Hanoi light sightings and southern urban videos all demonstrate the same underlying problem: visual material can attract public attention while providing very little information about what was actually present in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tuoitre.vn">[Tuoi tre news]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tuoitre.vn</span><span class="citation-popover-title">Tuoi tre news Is this sign of apocalypse?</span><span class="citation-popover-snippet">UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</span><span class="citation-popover-meta">Published: December 14, 2012</span></span></span>
 
 That does not make every case false. Some remain genuinely unidentified. Yet the strongest conclusion supported by the available record is a cautious one. Modern Vietnamese UFO reports show how easily unusual images can circulate without enough supporting evidence to establish either a conventional explanation or an extraordinary one. The uncertainty itself is the defining feature of Viet Nam's post-war civilian UFO archive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Modern Viet Nam UFO Photos Stay Uncertain. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Modern Viet Nam UFO Photos Stay Uncertain. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses evaluating modern sightings and media claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evaluating modern sightings and media claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Known for classification and evidence-based discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Known for classification and evidence-based discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises evidence quality and documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence quality and documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Caught on Film on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kynJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs Caught on Film" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Caught on Film">UFOs Caught on Film</a>
-        </h4>
-        <p class="fr-book-author">By B J Booth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Caught on Film on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kynJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs Caught on Film" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Caught on Film">UFOs Caught on Film</a>
+</h4>
+<p class="fr-book-author">By B J Booth</p>
         
-        <p class="fr-book-desc">Directly addresses photographic UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses photographic UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-viet-nam-ufo-photos-stay-uncertain-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ That does not make every case false. Some remain genuinely unidentified. Yet the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ That does not make every case false. Some remain genuinely unidentified. Yet the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ That does not make every case false. Some remain genuinely unidentified. Yet the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ That does not make every case false. Some remain genuinely unidentified. Yet the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ That does not make every case false. Some remain genuinely unidentified. Yet the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -836,111 +836,110 @@ That does not make every case false. Some remain genuinely unidentified. Yet the
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vietnamnet.vn  
    Title: ufos many times appeared in vietnam E55231  
-   Link: <a href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow">https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</p></details>
+   Link:<a href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow">https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VietNamNet NewsUFOs many times appeared in Vietnam?22 Dec 2012 — Most recently, an UFO appeared on the sky in the central province of Tha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time: June 1, 2021 Location: Hanoi Vietnam Taken from a surveillance camera and reported on television by Sen Vang...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1je0h40/big_ufo_similar_to_the_one_in_herreras_story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time: June 1, 2021 Location: Hanoi Vietnam Taken from a surveillance camera and reported on television by Sen Vang...</p></details>
    Published: June 1, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mc Minnville UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: "CARET" Drone Incident  
-   Link: <a href="https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/%22CARET%22_Drone_Incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/973vz3/vietnam_war_pic_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/973vz3/vietnam_war_pic_of_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>F-4 Phantom almost head on.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/973vz3/vietnam_war_pic_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/973vz3/vietnam_war_pic_of_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F-4 Phantom almost head on.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k852ov/mysterious_ufo_photo_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k852ov/mysterious_ufo_photo_solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Photo SolvedI love a good UFO story, but I have been seeing a lot of this particular image floating around that was obviou...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1k852ov/mysterious_ufo_photo_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k852ov/mysterious_ufo_photo_solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Photo SolvedI love a good UFO story, but I have been seeing a lot of this particular image floating around that was obviou...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.tuoitre.vn  
    Title: Tuoi tre news Is this sign of apocalypse?  
-   Link: <a href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow">https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</p></details>
+   Link:<a href="https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm" target="_blank" rel="noopener noreferrer nofollow">https://news.tuoitre.vn/is-this-sign-of-apocalypse-ufo-spotted-in-vietnam-10316481.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted in VietnamDecember 14, 2012 — 14 Dec 2012 — A 19-year-old youth in the central province of Thanh Hoa claims to have captured...</p></details>
    Published: December 14, 2012  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bunkhistory.org  
-   Link: <a href="https://www.bunkhistory.org/resources/50-years-after-napalm-girl-myths-distort-the-reality-behind-a-horrific-photo-of-the-vietnam-war-and-exaggerate-its-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.bunkhistory.org/resources/50-years-after-napalm-girl-myths-distort-the-reality-behind-a-horrific-photo-of-the-vietnam-war-and-exaggerate-its-impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths Distort the Reality Behind a Horrific Photo of...2 Jun 2022 — The “Napalm Girl” photograph of terror-stricken Vietnamese children...</p></details>
+   Link:<a href="https://www.bunkhistory.org/resources/50-years-after-napalm-girl-myths-distort-the-reality-behind-a-horrific-photo-of-the-vietnam-war-and-exaggerate-its-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.bunkhistory.org/resources/50-years-after-napalm-girl-myths-distort-the-reality-behind-a-horrific-photo-of-the-vietnam-war-and-exaggerate-its-impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myths Distort the Reality Behind a Horrific Photo of...2 Jun 2022 — The “Napalm Girl” photograph of terror-stricken Vietnamese children...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
    Published: August 1990  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xdneCWjfLkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xdneCWjfLkk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How easy it is to fake a UFO photoJames Underdown, the executive director of &quot;The Center For Inquiry&quot; in Los Angeles, joins WGN Morning N...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xdneCWjfLkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xdneCWjfLkk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How easy it is to fake a UFO photoJames Underdown, the executive director of &quot;The Center For Inquiry&quot; in Los Angeles, joins WGN Morning N...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yc0esO-Z4rs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yc0esO-Z4rs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photos Exposed: Real Evidence or Just a Myth?I&#x27;m just going to show you a couple of photographs of possibly UFOs and a couple of pain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yc0esO-Z4rs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yc0esO-Z4rs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photos Exposed: Real Evidence or Just a Myth?I&#x27;m just going to show you a couple of photographs of possibly UFOs and a couple of pain...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: Lightning reveals a UFO in the sky over Hanoi, Vietnam  
-   Link: <a href="https://www.instagram.com/reel/DYyhSbwjAGH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYyhSbwjAGH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#ufocloud #ufoclouds #ufo #uap #aliens #alien #strange #ovni #sky #taiwan #taiwan. more. May 3. OCR. UFO over Southern Taiwan May 3, 202...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYyhSbwjAGH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYyhSbwjAGH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#ufocloud #ufoclouds #ufo #uap #aliens #alien #strange #ovni #sky #taiwan #taiwan. more. May 3. OCR. UFO over Southern Taiwan May 3, 202...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O  
-   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photography3 Aug 2023 — But Grusch has publicly provided no evidence, visual or otherwise, to back up his claims, and he has admitted tha...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photography3 Aug 2023 — But Grusch has publicly provided no evidence, visual or otherwise, to back up his claims, and he has admitted tha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: #UFO #UFOS #Orb #UAP #Phoenix Lights #Alien. 󱝍. 0 reactions.Read more  
-   Link: <a href="https://www.facebook.com/BladeBallQH/posts/hanoi-ufo-sightings-1992-a-mysterious-light-over-vietnams-capitalin-1992-residen/942488168732076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BladeBallQH/posts/hanoi-ufo-sightings-1992-a-mysterious-light-over-vietnams-capitalin-1992-residen/942488168732076/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>📰Hanoi UFO Sightings (1992): A Mysterious Light Over...May be an image of text that says &#x27;SEOUL UFO SIGHTINGS 1995 Mysterious Object Over...</p></details>
+   Link:<a href="https://www.facebook.com/BladeBallQH/posts/hanoi-ufo-sightings-1992-a-mysterious-light-over-vietnams-capitalin-1992-residen/942488168732076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BladeBallQH/posts/hanoi-ufo-sightings-1992-a-mysterious-light-over-vietnams-capitalin-1992-residen/942488168732076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>📰Hanoi UFO Sightings (1992): A Mysterious Light Over...May be an image of text that says &#x27;SEOUL UFO SIGHTINGS 1995 Mysterious Object Over...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>been self inflicted... written by US Navy Admiral Sam Cox...</p></details>
+   Link:<a href="https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>been self inflicted... written by US Navy Admiral Sam Cox...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: For the first time ever, a U.S  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/videos/shocking-ufo-sighting-by-a-pilot-in-vietnam-unidentified-inside-americas-ufo-inv/3864051770396436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/shocking-ufo-sighting-by-a-pilot-in-vietnam-unidentified-inside-americas-ufo-inv/3864051770396436/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Veteran recounts his experience...For the first time ever, a U.S. Veteran recounts his experience witnessing a strange UFO-like object w...</p></details>
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/videos/shocking-ufo-sighting-by-a-pilot-in-vietnam-unidentified-inside-americas-ufo-inv/3864051770396436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/shocking-ufo-sighting-by-a-pilot-in-vietnam-unidentified-inside-americas-ufo-inv/3864051770396436/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Veteran recounts his experience...For the first time ever, a U.S. Veteran recounts his experience witnessing a strange UFO-like object w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2-8in2v1uFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2-8in2v1uFg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This US VETERAN Recovered Crashed UFOs in Vietnam...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2-8in2v1uFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2-8in2v1uFg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This US VETERAN Recovered Crashed UFOs in Vietnam...</p></details>

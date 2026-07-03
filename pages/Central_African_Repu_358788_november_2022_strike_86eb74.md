@@ -251,13 +251,13 @@ image: /assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Il
 The November 2022 airstrike north of Bangui is often described as [Central African Republic]({{ 'central-african-republic/' | relative_url }})’s closest modern equivalent to a “UFO incident”. That label is misleading. The event was genuinely unidentified at the time, but the uncertainty concerned who operated the aircraft, not whether the object itself behaved in an anomalous way.
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-dark.svg" | relative_url }}" alt="2022 Strike illustration 1" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Public reporting from late November 2022 describes a low-flying military aircraft carrying out a bombing raid against a site linked to Central African armed forces and Wagner Group personnel near Bossangoa. Early reports struggled to identify the attacking state or unit, which allowed rumours and online speculation to spread. In UFO discussions, the case is sometimes detached from its military context and retold as a mysterious aircraft episode. The available evidence points in a much narrower direction: a conflict-zone strike involving conventional aviation under conditions of weak public visibility, regional tensions, and incomplete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
+Public reporting from late November 2022 describes a low-flying military aircraft carrying out a bombing raid against a site linked to Central African armed forces and Wagner Group personnel near Bossangoa. Early reports struggled to identify the attacking state or unit, which allowed rumours and online speculation to spread. In UFO discussions, the case is sometimes detached from its military context and retold as a mysterious aircraft episode. The available evidence points in a much narrower direction: a conflict-zone strike involving conventional aviation under conditions of weak public visibility, regional tensions, and incomplete information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
 
 ## What public records actually say
 
-The clearest publicly accessible summary comes from the aviation risk-monitoring platform Safe Airspace. Its Central African Republic risk page records that in November 2022 “an unidentified aircraft dropped bombs targeting a militant group” roughly 150 nautical miles north of Bangui, after which the targeted group responded with small-arms fire. The site framed the event as an aviation-security issue inside a conflict environment rather than a mystery-objects case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
+The clearest publicly accessible summary comes from the aviation risk-monitoring platform Safe Airspace. Its Central African Republic risk page records that in November 2022 “an unidentified aircraft dropped bombs targeting a militant group” roughly 150 nautical miles north of Bangui, after which the targeted group responded with small-arms fire. The site framed the event as an aviation-security issue inside a conflict environment rather than a mystery-objects case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
 
-News reporting and regional conflict monitoring added more detail in the days after the strike. Multiple outlets described explosions near a base in Bossangoa used by Central African armed forces and Wagner-linked personnel. Reports stated that the aircraft crossed into the area at night, dropped explosives, and then departed northward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanews.com">[africanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanews.com</span><span class="citation-popover-title">central africa says border nation bombed its troops and russian allies</span><span class="citation-popover-snippet">Central Africa says border nation bombed its troops and...13 Aug 2024 — The Central African government said a plane that flew back to a...</span></span></span> The incident gained wider attention because of the Wagner connection. By late 2022, Wagner personnel were heavily embedded in Central African Republic security operations and had become a major regional actor. Any strike against a Wagner-linked position immediately carried geopolitical implications beyond a local battlefield event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtworld.com/article/12771779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtworld.com">[TRT World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtworld.com</span><span class="citation-popover-title">TRT World CAR military training suspended over Russian mercenaries</span><span class="citation-popover-snippet">TRT WorldCAR military training suspended over Russian mercenariesDecember 15, 2021 — United Nations experts have said that Wagner members...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span> Wikipedia Conflict databases also recorded the event in straightforward military terms. ACLED’s regional overview referred to an airstrike hitting Cent <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Wagner Group activities in AfricaThe Wagner Group has been active in the Central African Republic, Sudan, Libya, Mali, Niger and Mozam...</span></span></span> ral African troops and Wagner personnel by an “unidentified” aircraft. Chronologies of the civil war similarly listed the attack as a strike by an unknown aircraft against a Russian-linked base in Bossangoa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">acled regional overview africa 26 november 2 december 2022</span><span class="citation-popover-snippet">ACLED Regional Overview: Africa (26 November-2...7 Dec 2022 — In the Central African Republic, army troops and Wagner Group mer...</span><span class="citation-popover-meta">Published: december 2022</span></span></span>
+News reporting and regional conflict monitoring added in the days after the strike. Multiple outlets described explosions near a base in Bossangoa used by Central African armed forces and Wagner-linked personnel. Reports stated that the aircraft crossed into the area at night, dropped explosives, and then departed northward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanews.com">[africanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanews.com</span><span class="citation-popover-title">central africa says border nation bombed its troops and russian allies</span><span class="citation-popover-snippet">Central Africa says border nation bombed its troops and...13 Aug 2024 — The Central African government said a plane that flew back to a...</span></span></span> The incident gained wider attention because of the Wagner connection. By late 2022, Wagner personnel were heavily embedded in Central African Republic security operations and had become a major regional actor. Any strike against a Wagner-linked position immediately carried geopolitical implications beyond a local battlefield event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtworld.com/article/12771779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtworld.com">[TRT World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtworld.com</span><span class="citation-popover-title">TRT World CAR military training suspended over Russian mercenaries</span><span class="citation-popover-snippet">TRT WorldCAR military training suspended over Russian mercenariesDecember 15, 2021 — United Nations experts have said that Wagner members...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span> Wikipedia Conflict databases also recorded the event in straightforward military terms. ACLED’s regional overview referred to an airstrike hitting Cent<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Wagner Group activities in AfricaThe Wagner Group has been active in the Central African Republic, Sudan, Libya, Mali, Niger and Mozam...</span></span></span> ral African troops and Wagner personnel by an “unidentified” aircraft. Chronologies of the civil war similarly listed the attack as a strike by an unknown aircraft against a Russian-linked base in Bossangoa.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">acled regional overview africa 26 november 2 december 2022</span><span class="citation-popover-snippet">ACLED Regional Overview: Africa (26 November-2...7 Dec 2022 — In the Central African Republic, army troops and Wagner Group mer...</span><span class="citation-popover-meta">Published: december 2022</span></span></span>
 
 What is notable is what the records do not contain. There were no public reports of:
 
@@ -288,7 +288,7 @@ Several factors made immediate identification difficult:
 * the strike happened in an active conflict zone;
 * night-time conditions limited observation;
 * the aircraft reportedly entered and exited quickly;
-* Central African Republic has limited air-surveillance transparency; <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[safeairspace.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
+* Central African Republic has limited air-surveillance transparency;<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[safeairspace.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
 * multiple regional actors had potential motives;
 * official statements remained cautious and incomplete.
 
@@ -296,16 +296,16 @@ Several factors made immediate identification difficult:
 
 Those conditions naturally produce uncertainty. They do not automatically create a UFO case.
 
-Some online retellings transformed the event into a “mysterious aircraft” narrative detached from the local war. That shift is common in weak-information environments. Once a story leaves its original context, “unknown aircraft” can gradually become “mysterious craft”, especially on social media or speculative forums. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The strike was precision-based and targeted a military base housing FACA and Wagner Group.Read more...</span></span></span>
+Some online retellings transformed the event into a “mysterious aircraft” narrative detached from the local war. That shift is common in weak-information environments. Once a story leaves its original context, “unknown aircraft” can gradually become “mysterious craft”, especially on social media or speculative forums.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The strike was precision-based and targeted a military base housing FACA and Wagner Group.Read more...</span></span></span>
 
 The distinction matters because Central African Republic has relatively few archived civilian UFO reports. As a result, this 2022 strike is repeatedly recycled in UFO discussions despite originating from a military-security incident rather than from unexplained aerospace observations.
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-2-dark.svg" | relative_url }}" alt="2022 Strike illustration 2" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Chad theory and competing explanations
 
-Soon after the bombing, analysts began pointing toward Chad as the most likely source of the aircraft. Defence reporting from Military Africa argued that the Chadian air force was a plausible candidate based on geography, regional tensions, and the aircraft’s reported flight path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span>
+Soon after the bombing, analysts began pointing toward Chad as the most likely source of the aircraft. Defence reporting from Military Africa argued that the Chadian air force was a plausible candidate based on geography, regional tensions, and the aircraft’s reported flight path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span>
 
-This interpretation emerged within a wider deterioration in relations around the Chad–Central African Republic border. During 2022 and 2023, both governments accused each other of supporting destabilising activities and armed groups near frontier regions. Wagner expansion in Central African Republic also increased regional tensions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voanews.com">[Voice of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voanews.com</span><span class="citation-popover-title">Voice of America CAR, Chad Conduct Separate Military Operations Amid</span><span class="citation-popover-snippet">Voice of AmericaCAR, Chad Conduct Separate Military Operations Amid...October 6, 2023 — 6 Oct 2023 — The Central African Republic (CAR)...</span><span class="citation-popover-meta">Published: October 6, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">Wall Street Journal U.S</span><span class="citation-popover-snippet">Intelligence Points to Wagner Plot Against Key...23 Feb 2023 — The Central African Republic&#x27;s government and a Wagner representative in...</span></span></span>
+This interpretation emerged within a wider deterioration in relations around the Chad–Central African Republic border. During 2022 and 2023, both governments accused each other of supporting destabilising activities and armed groups near frontier regions. Wagner expansion in Central African Republic also increased regional tensions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voanews.com">[Voice of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voanews.com</span><span class="citation-popover-title">Voice of America CAR, Chad Conduct Separate Military Operations Amid</span><span class="citation-popover-snippet">Voice of AmericaCAR, Chad Conduct Separate Military Operations Amid...October 6, 2023 — 6 Oct 2023 — The Central African Republic (CAR)...</span><span class="citation-popover-meta">Published: October 6, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">Wall Street Journal U.S</span><span class="citation-popover-snippet">Intelligence Points to Wagner Plot Against Key...23 Feb 2023 — The Central African Republic&#x27;s government and a Wagner representative in...</span></span></span>
 
 Still, publicly available evidence never produced a definitive attribution accepted by all sides. That gap helped sustain speculation. In UFO-oriented retellings, the lack of a final public identification sometimes becomes the story itself.
 
@@ -354,7 +354,7 @@ This matters because the absence of identification data is sometimes misread as 
 
 Even though the evidence points toward conventional conflict aviation, the November 2022 strike remains important within any serious overview of Central African Republic aerial mysteries for three reasons.
 
-First, it is unusually well documented compared with most alleged aerial incidents in the country. Multiple independent reporting streams acknowledged that an unidentified aircraft conducted a real strike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Risk Summary 27 May 2026Nov 2022: An unidentified aircraft dropped bombs targeting a militant group 150nm north of the capital Bangui. Th...</span></span></span>
+First, it is unusually well documented compared with most alleged aerial incidents in the country. Multiple independent reporting streams acknowledged that an unidentified aircraft conducted a real strike.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Risk Summary 27 May 2026Nov 2022: An unidentified aircraft dropped bombs targeting a militant group 150nm north of the capital Bangui. Th...</span></span></span>
 
 Second, it shows how quickly military ambiguity can become UFO folklore when events are stripped of political and operational context.
 
@@ -365,194 +365,194 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rh5QWKcPYns" title="Dozens of fighters disarm in Central African Republic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rh5QWKcPYns" target="_blank" rel="noopener noreferrer">Dozens of fighters disarm in Central African Republic</a></p><p class="youtube-embed-meta">Channel: TRT World &middot; Views: 1.7K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rh5QWKcPYns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rh5QWKcPYns">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the 2022 Strike a UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the 2022 Strike a UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how uncertain military observations are assessed before conclusions are drawn.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how uncertain military observations are assessed before conclusions are drawn.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines how military incidents become UFO narratives when information is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how military incidents become UFO narratives when information is incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on aviation evidence and official reporting standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on aviation evidence and official reporting standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand how unusual aircraft reports can emerge around military operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how unusual aircraft reports can emerge around military operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-2022-strike-a-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-2022-strike-a-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,154 +755,153 @@ For Central African Republic specifically, the Bossangoa strike is therefore mor
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: military.africa  
-   Link: <a href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow">https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</p></details>
+   Link:<a href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow">https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</p></details>
    Published: December 16, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: africanews.com  
    Title: central africa says border nation bombed its troops and russian allies  
-   Link: <a href="https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/" target="_blank" rel="noopener noreferrer nofollow">https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Africa says border nation bombed its troops and...13 Aug 2024 — The Central African government said a plane that flew back to a...</p></details>
+   Link:<a href="https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/" target="_blank" rel="noopener noreferrer nofollow">https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Central Africa says border nation bombed its troops and...13 Aug 2024 — The Central African government said a plane that flew back to a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wagner Group activities in AfricaThe Wagner Group has been active in the Central African Republic, Sudan, Libya, Mali, Niger and Mozam...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wagner Group activities in AfricaThe Wagner Group has been active in the Central African Republic, Sudan, Libya, Mali, Niger and Mozam...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Wagner Group activities in the Central African Republic  
-   Link: <a href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reliefweb.int  
    Title: acled regional overview africa 26 november 2 december 2022  
-   Link: <a href="https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACLED Regional Overview: Africa (26 November-2...7 Dec 2022 — In the Central African Republic, army troops and Wagner Group mer...</p></details>
+   Link:<a href="https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACLED Regional Overview: Africa (26 November-2...7 Dec 2022 — In the Central African Republic, army troops and Wagner Group mer...</p></details>
    Published: december 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Timeline of the Central African Republic Civil War  
-   Link: <a href="https://en.wikipedia.org/wiki/Timeline_of_the_Central_African_Republic_Civil_War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timeline_of_the_Central_African_Republic_Civil_War</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Timeline_of_the_Central_African_Republic_Civil_War" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timeline_of_the_Central_African_Republic_Civil_War</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The strike was precision-based and targeted a military base housing FACA and Wagner Group.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The strike was precision-based and targeted a military base housing FACA and Wagner Group.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reliefweb.int  
    Title: acled regional overview africa january 2023  
-   Link: <a href="https://reliefweb.int/report/central-african-republic/acled-regional-overview-africa-january-2023" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/central-african-republic/acled-regional-overview-africa-january-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>airstrikes against bandits and Islamist militants since August 2022.... 10 Another airstrike from an alleged military drone allegedly ki...</p></details>
+   Link:<a href="https://reliefweb.int/report/central-african-republic/acled-regional-overview-africa-january-2023" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/central-african-republic/acled-regional-overview-africa-january-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>airstrikes against bandits and Islamist militants since August 2022.... 10 Another airstrike from an alleged military drone allegedly ki...</p></details>
    Published: january 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bossangoa - Catholic bishop...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bossangoa - Catholic bishop...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Zrtdq2iwj7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zrtdq2iwj7A</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Zrtdq2iwj7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zrtdq2iwj7A</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: safeairspace.net  
    Title: Safe Airspace Central African Republic  
-   Link: <a href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/central-african-republic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceCentral African Republic - Safe Airspace...</p></details>
+   Link:<a href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/central-african-republic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceCentral African Republic - Safe Airspace...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: safeairspace.net  
    Title: Safe Airspace Risk  
-   Link: <a href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/summary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Summary 27 May 2026Nov 2022: An unidentified aircraft dropped bombs targeting a militant group 150nm north of the capital Bangui. Th...</p></details>
+   Link:<a href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/summary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Summary 27 May 2026Nov 2022: An unidentified aircraft dropped bombs targeting a militant group 150nm north of the capital Bangui. Th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: trtworld.com  
    Title: TRT World CAR military training suspended over Russian mercenaries  
-   Link: <a href="https://www.trtworld.com/article/12771779" target="_blank" rel="noopener noreferrer nofollow">https://www.trtworld.com/article/12771779</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRT WorldCAR military training suspended over Russian mercenariesDecember 15, 2021 — United Nations experts have said that Wagner members...</p></details>
+   Link:<a href="https://www.trtworld.com/article/12771779" target="_blank" rel="noopener noreferrer nofollow">https://www.trtworld.com/article/12771779</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRT WorldCAR military training suspended over Russian mercenariesDecember 15, 2021 — United Nations experts have said that Wagner members...</p></details>
    Published: December 15, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: voanews.com  
    Title: Voice of America CAR, Chad Conduct Separate Military Operations Amid  
-   Link: <a href="https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of AmericaCAR, Chad Conduct Separate Military Operations Amid...October 6, 2023 — 6 Oct 2023 — The Central African Republic (CAR)...</p></details>
+   Link:<a href="https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of AmericaCAR, Chad Conduct Separate Military Operations Amid...October 6, 2023 — 6 Oct 2023 — The Central African Republic (CAR)...</p></details>
    Published: October 6, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wsj.com  
    Title: Wall Street Journal U.S  
-   Link: <a href="https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Points to Wagner Plot Against Key...23 Feb 2023 — The Central African Republic&#x27;s government and a Wagner representative in...</p></details>
+   Link:<a href="https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Points to Wagner Plot Against Key...23 Feb 2023 — The Central African Republic&#x27;s government and a Wagner representative in...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: globalinitiative.net  
-   Link: <a href="https://globalinitiative.net/wp-content/uploads/2025/02/After-the-fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-February-2025.v3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalinitiative.net/wp-content/uploads/2025/02/After-the-fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-February-2025.v3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After-the-fall-Russian-modes-of-influence-in-Africa-post-...1 Feb 2025 — 48 Judicael Yongo, Wagner troops arrive in [Central African Repu](&amp;#123;&amp;#123; &#x27;central-african-republic/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://globalinitiative.net/wp-content/uploads/2025/02/After-the-fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-February-2025.v3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalinitiative.net/wp-content/uploads/2025/02/After-the-fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-February-2025.v3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After-the-fall-Russian-modes-of-influence-in-Africa-post-...1 Feb 2025 — 48 Judicael Yongo, Wagner troops arrive in [Central African Repu](&amp;#123;&amp;#123; &#x27;central-african-republic/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: February 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arise.tv  
    Title: unknown aircraft bombs russian mercenaries base in central african republic  
-   Link: <a href="https://www.arise.tv/unknown-aircraft-bombs-russian-mercenaries-base-in-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.arise.tv/unknown-aircraft-bombs-russian-mercenaries-base-in-central-african-republic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Aircraft Bombs Russian Mercenaries&#x27; Base in...30 Nov 2022 — A low-flying fighter jet dropped bombs close to a base for Russian m...</p></details>
+   Link:<a href="https://www.arise.tv/unknown-aircraft-bombs-russian-mercenaries-base-in-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.arise.tv/unknown-aircraft-bombs-russian-mercenaries-base-in-central-african-republic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Aircraft Bombs Russian Mercenaries&#x27; Base in...30 Nov 2022 — A low-flying fighter jet dropped bombs close to a base for Russian m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: agenzianova.com  
    Title: repubblica centrafricana aereo straniero bombarda base wagner  
-   Link: <a href="https://www.agenzianova.com/en/news/repubblica-centrafricana-aereo-straniero-bombarda-base-wagner/" target="_blank" rel="noopener noreferrer nofollow">https://www.agenzianova.com/en/news/repubblica-centrafricana-aereo-straniero-bombarda-base-wagner/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Foreign&quot; plane bombs a Wagner base in the Central...29 Nov 2022 — According to reports from the Bangui government, the plane first flew...</p></details>
+   Link:<a href="https://www.agenzianova.com/en/news/repubblica-centrafricana-aereo-straniero-bombarda-base-wagner/" target="_blank" rel="noopener noreferrer nofollow">https://www.agenzianova.com/en/news/repubblica-centrafricana-aereo-straniero-bombarda-base-wagner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Foreign&quot; plane bombs a Wagner base in the Central...29 Nov 2022 — According to reports from the Bangui government, the plane first flew...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: acleddata.com  
    Title: Moving Out of the Shadows: Shifts in Wagner Group  
-   Link: <a href="https://acleddata.com/report/moving-out-shadows-shifts-wagner-group-operations-around-world" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/report/moving-out-shadows-shifts-wagner-group-operations-around-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wagner camp at an unspecified location in Ukraine with artillery and airstrikes. However, the strikes may have been staged. Prigozhin fur...</p></details>
+   Link:<a href="https://acleddata.com/report/moving-out-shadows-shifts-wagner-group-operations-around-world" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/report/moving-out-shadows-shifts-wagner-group-operations-around-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wagner camp at an unspecified location in Ukraine with artillery and airstrikes. However, the strikes may have been staged. Prigozhin fur...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: wings of peace slafs 9th aviation unit takes flight to central african republic  
-   Link: <a href="https://www.facebook.com/SriLankaAirForceGuardiansoftheSkies/posts/wings-of-peace-slafs-9th-aviation-unit-takes-flight-to-central-african-republic-/786141520224085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SriLankaAirForceGuardiansoftheSkies/posts/wings-of-peace-slafs-9th-aviation-unit-takes-flight-to-central-african-republic-/786141520224085/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only three SLAF pilots were qualified to drop laser guided bombs during the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SriLankaAirForceGuardiansoftheSkies/posts/wings-of-peace-slafs-9th-aviation-unit-takes-flight-to-central-african-republic-/786141520224085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SriLankaAirForceGuardiansoftheSkies/posts/wings-of-peace-slafs-9th-aviation-unit-takes-flight-to-central-african-republic-/786141520224085/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Only three SLAF pilots were qualified to drop laser guided bombs during the...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: adf-magazine.com  
    Title: wagner group targets chad for sahel expansion  
-   Link: <a href="https://adf-magazine.com/2023/03/wagner-group-targets-chad-for-sahel-expansion/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2023/03/wagner-group-targets-chad-for-sahel-expansion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Mar 2023 — Russia&#x27;s Wagner Group appears to be targeting Chad for its next expansion with some warning of a plan to overthrow the gove...</p></details>
+   Link:<a href="https://adf-magazine.com/2023/03/wagner-group-targets-chad-for-sahel-expansion/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2023/03/wagner-group-targets-chad-for-sahel-expansion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Mar 2023 — Russia&#x27;s Wagner Group appears to be targeting Chad for its next expansion with some warning of a plan to overthrow the gove...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: militantwire.com  
    Title: airstrike targets central african  
-   Link: <a href="https://www.militantwire.com/p/airstrike-targets-central-african" target="_blank" rel="noopener noreferrer nofollow">https://www.militantwire.com/p/airstrike-targets-central-african</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Republic Base and...12 Dec 2022 — Airstrike Targets Central African Republic Base and Russian Wagner Forces Amidst Tensions with Neighbo...</p></details>
+   Link:<a href="https://www.militantwire.com/p/airstrike-targets-central-african" target="_blank" rel="noopener noreferrer nofollow">https://www.militantwire.com/p/airstrike-targets-central-african</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Republic Base and...12 Dec 2022 — Airstrike Targets Central African Republic Base and Russian Wagner Forces Amidst Tensions with Neighbo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/mysterious-aircraft-bombed-near-russia-linked-wagner-group-mercenaries-base-2022-11" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/mysterious-aircraft-bombed-near-russia-linked-wagner-group-mercenaries-base-2022-11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was unclear who targeted the Russia-linked...Read more...</p></details>
+   Link:<a href="https://www.businessinsider.com/mysterious-aircraft-bombed-near-russia-linked-wagner-group-mercenaries-base" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/mysterious-aircraft-bombed-near-russia-linked-wagner-group-mercenaries-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was unclear who targeted the Russia-linked...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: securitycouncilreport.org  
-   Link: <a href="https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2023_87.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2023_87.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S/2023/8710 Feb 2023 — On 29 July 2022, the Security Council adopted resolution 2648 (2022), by which it extended the arms embargo, trave...</p></details>
+   Link:<a href="https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2023_87.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2023_87.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S/2023/8710 Feb 2023 — On 29 July 2022, the Security Council adopted resolution 2648 (2022), by which it extended the arms embargo, trave...</p></details>
    Published: July 2022  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: UAP FILES  
-   Link: <a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens of fighters disarm in Central African Republic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens of fighters disarm in Central African Republic...</p></details>

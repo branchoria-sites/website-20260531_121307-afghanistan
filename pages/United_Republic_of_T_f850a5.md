@@ -1194,10 +1194,10 @@ image: /assets/images/United_Republic_of_T_f850a5-overview-social.jpg
 
 ## What counts as a Tanzanian UFO case?
 
-A UFO, or the newer official term UAP, does not mean “alien spacecraft”. It means an observation that has not yet been identified as a known aircraft, astronomical object, weather phenomenon, balloon, satellite, drone, camera artefact or hoax. NASA defines UAP work as the study of observations in the sky that cannot immediately be identified as aircraft or known natural phenomena, and its 2023 UAP study stressed that better data collection is the central problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A UFO, or the newer official term UAP, does not mean “alien spacecraft”. It means an observation that has not yet been identified as a known aircraft, astronomical object, weather phenomenon, balloon, satellite, drone, camera artefact or hoax. NASA defines UAP work as the study of observations in the sky that cannot immediately be identified as aircraft or known natural phenomena, and its 2023 UAP study stressed that better data collection is the central problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/United_Republic_of_T_f850a5-overview.webp" | relative_url }}" alt="Overview image for United Republic of Tanzania" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters strongly in Tanzania because most public cases lack the ingredients needed for a confident investigation: exact sky position, full video metadata, radar data, air-traffic correlation, independent witness statements taken close to the event, and meteorological or astronomical checks. The public Tanzanian record is not empty, but it is patchy. NUFORC, a US-based civilian reporting database, lists only two Tanzania entries: Moshi in 1966 and Dar es Salaam in 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTanzania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Tanzania</span><span class="citation-popover-snippet">Reports for Country Tanzania</span></span></span>
+That distinction matters strongly in Tanzania because most public cases lack the ingredients needed for a confident investigation: exact sky position, full video metadata, radar data, air-traffic correlation, independent witness statements taken close to the event, and meteorological or astronomical checks. The public Tanzanian record is not empty, but it is patchy. NUFORC, a US-based civilian reporting database, lists only two Tanzania entries: Moshi in 1966 and Dar es Salaam in 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTanzania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Tanzania</span><span class="citation-popover-snippet">Reports for Country Tanzania</span></span></span>
 
 A practical evidence scale is useful:
 
@@ -1212,18 +1212,18 @@ A practical evidence scale is useful:
 
 ## The 1951 Kilimanjaro case remains the key historical anchor
 
-The case most often linked to Tanzania occurred on 19 February 1951 near Mount Kilimanjaro, then in Tanganyika. The usual account says that Captain Jack Bicknell and radio officer D. W. Merrifield, flying an East African Airways Lodestar from Nairobi, observed a bright object near Kilimanjaro; later retellings describe it as metallic, elongated or bullet-shaped, and claim that crew and passengers watched it before it moved away. Modern summaries trace the case through older press reports, Flying Saucer Review material, Project Blue Book references and later archival work by UFO historian Barry Greenwood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threadreaderapp.com">[Thread]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threadreaderapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case most often linked to Tanzania occurred on 19 February 1951 near Mount Kilimanjaro, then in Tanganyika. The usual account says that Captain Jack Bicknell and radio officer D. W. Merrifield, flying an East African Airways Lodestar from Nairobi, observed a bright object near Kilimanjaro; later retellings describe it as metallic, elongated or bullet-shaped, and claim that crew and passengers watched it before it moved away. Modern summaries trace the case through older press reports, Flying Saucer Review material, Project Blue Book references and later archival work by UFO historian Barry Greenwood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threadreaderapp.com">[Thread]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threadreaderapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Its Tanzanian relevance is geographical rather than administrative. The flight left Nairobi, but the sighting was associated with Kilimanjaro, which is now within the United Republic of Tanzania. That makes it important for a Tanzania-focused page, while also making it a natural bridge to sibling East African branches such as Kenya, aviation-era reports, and colonial-period UFO records.
 
-The strongest point in the case is that it involved aviation witnesses in daylight or bright morning conditions, not a vague late-night light seen by a single observer. The weakest point is that much of the accessible detail comes through secondary UFO literature and later reconstructions. A Project 1947 update points readers to background material and a Project Blue Book case-file reference, but that is not the same as a full, clean, modern investigative dossier with instrument records, original film analysis and all witness statements available for review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/update1015.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">Recent Research Updates and Announcements Mt. Kilimanjaro, Tanganyika,</span><span class="citation-popover-snippet">Recent Research Updates and Announcements Mt. Kilimanjaro, Tanganyika,</span></span></span>
+The strongest point in the case is that it involved aviation witnesses in daylight or bright morning conditions, not a vague late-night light seen by a single observer. The weakest point is that much of the accessible detail comes through secondary UFO literature and later reconstructions. A Project 1947 update points readers to background material and a Project Blue Book case-file reference, but that is not the same as a full, clean, modern investigative dossier with instrument records, original film analysis and all witness statements available for review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/update1015.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">Recent Research Updates and Announcements Mt. Kilimanjaro, Tanganyika,</span><span class="citation-popover-snippet">Recent Research Updates and Announcements Mt. Kilimanjaro, Tanganyika,</span></span></span>
 
 A balanced assessment is therefore: **historically important, not debunked in a simple way, but not evidentially decisive**. The case deserves mention because it is one of the few old East African UFO cases with named aviation witnesses and repeated archival attention. It should not be inflated into proof of extraterrestrial visitation.
 
 <img src="{{ "/assets/images/United_Republic_of_T_f850a5-Illustration-1-dark.svg" | relative_url }}" alt="United Republic of Tanzania illustration 1" data-theme-src-dark="{{ "/assets/images/United_Republic_of_T_f850a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Republic_of_T_f850a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Moshi 1966: a striking account weakened by late reporting
 
-NUFORC’s first Tanzania entry describes an event said to have occurred in Moshi on 1 August 1966 at about 20:00. The witness, reporting in 2002, described four observers on a rooftop near the foothills of Kilimanjaro watching three star-like lights move, stop, and then depart upward one by one at high apparent speed. The report says the event lasted 10 to 15 minutes and that the witness had not reported it officially at the time. NUFORC’s note agrees that, if the objects were truly observed for more than ten minutes, they would not fit ordinary artificial satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+NUFORC’s first Tanzania entry describes an event said to have occurred in Moshi on 1 August 1966 at about 20:00. The witness, reporting in 2002, described four observers on a rooftop near the foothills of Kilimanjaro watching three star-like lights move, stop, and then depart upward one by one at high apparent speed. The report says the event lasted 10 to 15 minutes and that the witness had not reported it officially at the time. NUFORC’s note agrees that, if the objects were truly observed for more than ten minutes, they would not fit ordinary artificial satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 This is an intriguing narrative because the described behaviour is more complex than a single meteor or brief aircraft light. It also sits in a region where clear skies and the presence of Kilimanjaro make night-sky observation common and memorable. But its evidential limits are severe. It was reported roughly 36 years after the alleged sighting; there is no public video, no known contemporaneous local press report, no air-traffic record attached, and no independent witness testimony in the database entry.
 
@@ -1231,11 +1231,11 @@ The Moshi case is best treated as **contested anecdotal evidence**. It should re
 
 ## Dar es Salaam 2009: a short bright-object report with plausible ordinary explanations
 
-The best-documented modern Tanzanian claim is the Dar es Salaam sighting of 9 January 2009. NUFORC records a report from four observers at 19:40 local time, describing a bright, fast object that lasted only three to four seconds and was categorised as a “Fireball”. The witness said he filmed a few seconds with a Sony Handycam; NUFORC noted that the stills sent from the video were very blurry and showed a smear of light against the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=67950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The best-documented modern Tanzanian claim is the Dar es Salaam sighting of 9 January 2009. NUFORC records a report from four observers at 19:40 local time, describing a bright, fast object that lasted only three to four seconds and was categorised as a “Fireball”. The witness said he filmed a few seconds with a Sony Handycam; NUFORC noted that the stills sent from the video were very blurry and showed a smear of light against the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=67950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The same story appeared on Michuzi Blog, a well-known Tanzanian blog, naming the witness as Sujit Bhojak and giving a similar account: a bright object over Dar es Salaam, seen from a fourth-floor balcony with a view toward the Indian Ocean, not blinking like an aircraft and disappearing behind cloud after a few seconds. The comment thread is valuable because it captures immediate local interpretation: some readers reacted religiously or sceptically, while one commenter suggested a satellite such as the Hubble Space Telescope and pointed to satellite-tracking checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michuzi.co.tz">[Michuzi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michuzi.co.tz</span><span class="citation-popover-title">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span><span class="citation-popover-snippet">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span></span></span>
+The same story appeared on Michuzi Blog, a well-known Tanzanian blog, naming the witness as Sujit Bhojak and giving a similar account: a bright object over Dar es Salaam, seen from a fourth-floor balcony with a view toward the Indian Ocean, not blinking like an aircraft and disappearing behind cloud after a few seconds. The comment thread is valuable because it captures immediate local interpretation: some readers reacted religiously or sceptically, while one commenter suggested a satellite such as the Hubble Space Telescope and pointed to satellite-tracking checks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michuzi.co.tz">[Michuzi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michuzi.co.tz</span><span class="citation-popover-title">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span><span class="citation-popover-snippet">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span></span></span>
 
-The ordinary-explanation side is strong. The American Meteor Society describes a fireball as a very bright meteor and notes that most fireball trains last only seconds, though some can last longer. The University of Arizona’s Spacewatch FAQ similarly distinguishes short, fast fireballs from slower, steadier satellites. NASA says Hubble orbits roughly every 95 minutes at about 17,000 miles per hour, and satellites can appear as bright moving points when sunlight reflects from them. The Weather Guys <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[3SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The ordinary-explanation side is strong. The American Meteor Society describes a fireball as a very bright meteor and notes that most fireball trains last only seconds, though some can last longer. The University of Arizona’s Spacewatch FAQ similarly distinguishes short, fast fireballs from slower, steadier satellites. NASA says Hubble orbits roughly every 95 minutes at about 17,000 miles per hour, and satellites can appear as bright moving points when sunlight reflects from them. The Weather Guys<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[3SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not prove the 2009 object was a meteor, Hubble, or another satellite. It means the public evidence points first to ordinary sky phenomena, not to an exotic craft. The short duration, blurry image, single vantage point and lack of instrument correlation make the Dar es Salaam case **plausibly explainable but not conclusively identified**.
 
@@ -1243,9 +1243,9 @@ That does not prove the 2009 object was a meteor, Hubble, or another satellite. 
 
 ## The 2014 school “crash” is a useful debunking case
 
-In January 2014, an object resembling a small crashed UFO appeared on the grounds of the International School of Tanganyika in Dar es Salaam. Visiting author Marc Tyler Nobleman described arriving to find guards, a covered object, caution tape, excited students and speculation that it might be a satellite, bomb or spacecraft. The object looked like a staged metallic saucer; the ground was made to appear disturbed or scorched, and students investigated, wrote theories and discussed the mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noblemania.com">[noblemania.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noblemania.com</span><span class="citation-popover-title">Tanzania school, day 1: UFO crash</span><span class="citation-popover-snippet">Tanzania school, day 1: UFO crash</span></span></span>
+In January 2014, an object resembling a small crashed UFO appeared on the grounds of the International School of Tanganyika in Dar es Salaam. Visiting author Marc Tyler Nobleman described arriving to find guards, a covered object, caution tape, excited students and speculation that it might be a satellite, bomb or spacecraft. The object looked like a staged metallic saucer; the ground was made to appear disturbed or scorched, and students investigated, wrote theories and discussed the mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noblemania.com">[noblemania.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noblemania.com</span><span class="citation-popover-title">Tanzania school, day 1: UFO crash</span><span class="citation-popover-snippet">Tanzania school, day 1: UFO crash</span></span></span>
 
-The follow-up post makes the purpose plain: the event was tied to Writing Week and used to stimulate student writing, scepticism and imagination. Nobleman explicitly discussed the value of “crashing a UFO” on school grounds as a writing prompt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noblemania.com">[Noblemania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noblemania.com</span><span class="citation-popover-title">Tanzania school, day 1: UFO crash</span><span class="citation-popover-snippet">Tanzania school, day 1: UFO crash</span></span></span>
+The follow-up post makes the purpose plain: the event was tied to Writing Week and used to stimulate student writing, scepticism and imagination. Nobleman explicitly discussed the value of “crashing a UFO” on school grounds as a writing prompt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noblemania.com">[Noblemania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noblemania.com</span><span class="citation-popover-title">Tanzania school, day 1: UFO crash</span><span class="citation-popover-snippet">Tanzania school, day 1: UFO crash</span></span></span>
 
 This case matters because it shows how quickly a convincing “UFO crash” narrative can form from physical staging, authority cues, rumour and excited witnesses. It also belongs in the Tanzanian chronology because it is local, named and documented — but only as a **debunked or staged educational event**, not as a genuine incident.
 
@@ -1253,18 +1253,18 @@ This case matters because it shows how quickly a convincing “UFO crash” narr
 
 The public Tanzania UFO record is not evenly distributed across the country. The named cases cluster around two kinds of place.
 
-First, **Kilimanjaro and Moshi** appear because the mountain is visually prominent, historically tied to aviation routes, and associated with clear-sky observation. The 1951 case and the 1966 Moshi account both draw their force from the same regional setting: observers looking across or near one of East Africa’s most recognisable landmarks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+First, **Kilimanjaro and Moshi** appear because the mountain is visually prominent, historically tied to aviation routes, and associated with clear-sky observation. The 1951 case and the 1966 Moshi account both draw their force from the same regional setting: observers looking across or near one of East Africa’s most recognisable landmarks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Second, **Dar es Salaam** appears because it is Tanzania’s largest urban and media hub, with more cameras, blogs, schools, airports and international residents. The 2009 report reached both NUFORC and a Tanzanian blog, while the 2014 school event was documented by a visiting author. Public visibility, not necessarily a higher rate of anomalies, likely explains Dar es Salaam’s prominence. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michuzi.co.tz">[michuzi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michuzi.co.tz</span><span class="citation-popover-title">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span><span class="citation-popover-snippet">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span></span></span> Aviation geography also matters. Dar es Salaam has extensive domestic and international flight activity, while TCAA’s air-navigation services oversee air traffic management, communications, navigation, surveillance and aeronautical information. Ordinary aircraft, flight paths, approach lights, weather effects and satellites seen above urban horizons are therefore part of any serious sighting assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Tanzania Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Tanzania Civil Aviation Authority</span></span></span>
+Second, **Dar es Salaam** appears because it is Tanzania’s largest urban and media hub, with more cameras, blogs, schools, airports and international residents. The 2009 report reached both NUFORC and a Tanzanian blog, while the 2014 school event was documented by a visiting author. Public visibility, not necessarily a higher rate of anomalies, likely explains Dar es Salaam’s prominence. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michuzi.co.tz">[michuzi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michuzi.co.tz</span><span class="citation-popover-title">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span><span class="citation-popover-snippet">Michuzi UFO SIGHTING ON TANZANIAN SKIES?</span></span></span> Aviation geography also matters. Dar es Salaam has extensive domestic and international flight activity, while TCAA’s air-navigation services oversee air traffic management, communications, navigation, surveillance and aeronautical information. Ordinary aircraft, flight paths, approach lights, weather effects and satellites seen above urban horizons are therefore part of any serious sighting assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Tanzania Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Tanzania Civil Aviation Authority</span></span></span>
 
 <img src="{{ "/assets/images/United_Republic_of_T_f850a5-Illustration-2-dark.svg" | relative_url }}" alt="United Republic of Tanzania illustration 2" data-theme-src-dark="{{ "/assets/images/United_Republic_of_T_f850a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Republic_of_T_f850a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records: there is aviation oversight, but no visible Tanzanian UFO archive
 
-Publicly available Tanzanian official sources show a civil aviation safety and air-navigation framework, not a dedicated UFO investigation programme. The Tanzania Civil Aviation Authority describes air navigation as necessary for the safety, regularity and efficiency of air navigation, and its Air Navigation Inspectorate is responsible for oversight of air navigation and meteorological services used for aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Tanzania Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Tanzania Civil Aviation Authority</span></span></span>
+Publicly available Tanzanian official sources show a civil aviation safety and air-navigation framework, not a dedicated UFO investigation programme. The Tanzania Civil Aviation Authority describes air navigation as necessary for the safety, regularity and efficiency of air navigation, and its Air Navigation Inspectorate is responsible for oversight of air navigation and meteorological services used for aviation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Tanzania Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Tanzania Civil Aviation Authority</span></span></span>
 
-That matters because a genuinely hazardous object near aircraft would normally fall into aviation safety channels rather than a “UFO office”. TCAA also has public-facing safety incident and complaint portals, and its regulatory environment includes occurrence reporting for aviation service providers and safety-critical personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Tanzania Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Tanzania Civil Aviation Authority</span></span></span>
+That matters because a genuinely hazardous object near aircraft would normally fall into aviation safety channels rather than a “UFO office”. TCAA also has public-facing safety incident and complaint portals, and its regulatory environment includes occurrence reporting for aviation service providers and safety-critical personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Tanzania Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Tanzania Civil Aviation Authority</span></span></span>
 
-By contrast, the UK’s National Archives provide a useful comparison: the Ministry of Defence retained UFO reports from the 1960s onward, with files that often include letters, explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and Civil Aviation Authority reports passed to the MOD. No equivalent public Tanzanian UFO archive surfaced in the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+By contrast, the UK’s National Archives provide a useful comparison: the Ministry of Defence retained UFO reports from the 1960s onward, with files that often include letters, explanations such as Venus, high-altitude aircraft, weather balloons and satellites, and Civil Aviation Authority reports passed to the MOD. No equivalent public Tanzanian UFO archive surfaced in the available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
 The absence of such an archive should not be overread. It does not prove Tanzania never received official reports; it means that, for public researchers, the accessible record is dominated by civilian databases, local blogs, school accounts and international UFO-history references.
 
@@ -1272,13 +1272,13 @@ The absence of such an archive should not be overread. It does not prove Tanzani
 
 The most useful way to read Tanzania’s UFO material is not “true versus false” but “what kind of evidence is available?”
 
-**Confirmed mundane or staged:** the International School of Tanganyika incident is the clearest example. It involved a physical object and many witnesses, but the follow-up identifies it as a creative school exercise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noblemania.com">[Noblemania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noblemania.com</span><span class="citation-popover-title">Tanzania school, day 1: UFO crash</span><span class="citation-popover-snippet">Tanzania school, day 1: UFO crash</span></span></span>
+**Confirmed mundane or staged:** the International School of Tanganyika incident is the clearest example. It involved a physical object and many witnesses, but the follow-up identifies it as a creative school exercise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noblemania.com">[Noblemania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noblemania.com</span><span class="citation-popover-title">Tanzania school, day 1: UFO crash</span><span class="citation-popover-snippet">Tanzania school, day 1: UFO crash</span></span></span>
 
-**Plausibly mundane, not closed:** the 2009 Dar es Salaam event is short, bright and fast, and NUFORC itself classed it as a fireball. A meteor, satellite glint, re-entry fragment or camera smear would all be more likely than an extraordinary craft unless stronger data emerged. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Plausibly mundane, not closed:** the 2009 Dar es Salaam event is short, bright and fast, and NUFORC itself classed it as a fireball. A meteor, satellite glint, re-entry fragment or camera smear would all be more likely than an extraordinary craft unless stronger data emerged. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested historical:** the 1951 Kilimanjaro case is the standout. It has named aviation witnesses and a long paper trail in UFO literature, but its public evidence is mostly mediated through later summaries and archival references rather than a complete modern case package. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threadreaderapp.com">[Thread]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threadreaderapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested historical:** the 1951 Kilimanjaro case is the standout. It has named aviation witnesses and a long paper trail in UFO literature, but its public evidence is mostly mediated through later summaries and archival references rather than a complete modern case package.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threadreaderapp.com">[Thread]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threadreaderapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Anecdotal:** the 1966 Moshi report is memorable but late-reported and unsupported by public contemporaneous evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+**Anecdotal:** the 1966 Moshi report is memorable but late-reported and unsupported by public contemporaneous evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 This split keeps the page honest. Tanzania has UFO stories worth preserving, but the record does not support a high-confidence claim of alien visitation, secret recovery operations or repeated officially documented anomalous craft.
 
@@ -1286,7 +1286,7 @@ This split keeps the page honest. Tanzania has UFO stories worth preserving, but
 
 ## How a serious Tanzania sighting would be checked
 
-A future Tanzanian UFO or UAP report would become much more valuable if it included practical, verifiable data. NASA’s UAP work emphasises robust data acquisition and evidence-based analysis; AARO similarly frames UAP work as a data-driven effort to resolve anomalous detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+A future Tanzanian UFO or UAP report would become much more valuable if it included practical, verifiable data. NASA’s UAP work emphasises robust data acquisition and evidence-based analysis; AARO similarly frames UAP work as a data-driven effort to resolve anomalous detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 For Tanzania, the first checks would be local and ordinary:
 
@@ -1313,194 +1313,194 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Culjwirl4yo" title="&#x27;Fireball&#x27; lights up skies above Scotland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Culjwirl4yo" target="_blank" rel="noopener noreferrer">&#x27;Fireball&#x27; lights up skies above Scotland</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 6.0K &middot; Uploaded: September 2022 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Culjwirl4yo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Culjwirl4yo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Tanzania&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Tanzania&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating limited and anecdotal reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating limited and anecdotal reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Offers context for global UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers context for global UAP discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing sparse international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing sparse international cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Fits a page focused on evidence quality and weak data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on evidence quality and weak data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tanzania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-tanzania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1516,7 +1516,7 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1536,7 +1536,7 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1568,7 +1568,7 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1620,7 +1620,7 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1665,7 +1665,7 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1706,246 +1706,246 @@ The strongest reader takeaway is cautious but not dismissive: Tanzania has UFO m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Tanzania  
-   Link: <a href="https://nuforc.org/subndx/?id=cTanzania" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTanzania</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cTanzania" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTanzania</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=23133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23133</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=23133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23133</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=67950" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=67950</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=67950" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=67950</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/kilimandjaro1951.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: project1947.com  
    Title: Recent Research Updates and Announcements Mt. Kilimanjaro, Tanganyika,  
-   Link: <a href="https://www.project1947.com/articles/update1015.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/update1015.htm</a>  
+   Link:<a href="https://www.project1947.com/articles/update1015.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/update1015.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spacewatch.lpl.arizona.edu  
-   Link: <a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
+   Link:<a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/mission/hubble/overview/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/hubble/overview/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/mission/hubble/overview/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/hubble/overview/faqs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: noblemania.com  
    Title: Tanzania school, day 1: UFO crash  
-   Link: <a href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html</a>  
+   Link:<a href="https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noblemania.com/2014/01/tanzania-school-day-1-ufo-crash.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: the science of sunglint 84333  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/</a>  
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: about hubble  
-   Link: <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/hubble/overview/about-hubble/</a>  
+   Link:<a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/hubble/overview/about-hubble/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: declassified.ca  
    Title: UF O Sightings  
-   Link: <a href="https://declassified.ca/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://declassified.ca/ufo-sightings/</a>  
+   Link:<a href="https://declassified.ca/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://declassified.ca/ufo-sightings/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: noblemania.blogspot.com  
-   Link: <a href="https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html" target="_blank" rel="noopener noreferrer nofollow">https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html</a>  
+   Link:<a href="https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html" target="_blank" rel="noopener noreferrer nofollow">https://noblemania.blogspot.com/2014/01/aftermath-of-ufo-crash-in-tanzania.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: threadreaderapp.com  
-   Link: <a href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow">https://threadreaderapp.com/thread/1759473544327840044</a>  
+   Link:<a href="https://threadreaderapp.com/thread/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow">https://threadreaderapp.com/thread/1759473544327840044</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: michuzi.co.tz  
    Title: Michuzi UFO SIGHTING ON TANZANIAN SKIES?  
-   Link: <a href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0</a>  
+   Link:<a href="https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.michuzi.co.tz/2009/01/ufo-sighting-on-tanzanian-skies.html?m=0</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tcaa.go.tz  
    Title: Tanzania Civil Aviation Authority Air Navigation Service  
-   Link: <a href="https://tcaa.go.tz/page?mn=2&amp;p=Air+Navigation+Service&amp;token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61" target="_blank" rel="noopener noreferrer nofollow">https://tcaa.go.tz/page?mn=2&amp;p=Air+Navigation+Service&amp;token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61</a>  
+   Link:<a href="https://tcaa.go.tz/page?mn=2&amp;p=Air+Navigation+Service&amp;token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61" target="_blank" rel="noopener noreferrer nofollow">https://tcaa.go.tz/page?mn=2&amp;p=Air+Navigation+Service&amp;token=44b796e3f2b184c4384325d8ae72d786675b72be20882cf16643dabc1756fedd61</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tcaa.go.tz  
-   Link: <a href="https://www.tcaa.go.tz/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/</a>  
+   Link:<a href="https://www.tcaa.go.tz/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tcaa.go.tz  
-   Link: <a href="https://www.tcaa.go.tz/page?mn=61&amp;p=Air+Navigation+Inspectorate.&amp;token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=61&amp;p=Air+Navigation+Inspectorate.&amp;token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69</a>  
+   Link:<a href="https://www.tcaa.go.tz/page?mn=61&amp;p=Air+Navigation+Inspectorate.&amp;token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=61&amp;p=Air+Navigation+Inspectorate.&amp;token=a757c49440b6d7f1778d883f182e45784e1087f6395f7318aef04ecd0673618c69</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tcaa.go.tz  
    Title: Tanzania Civil Aviation Authority Air Navigation Services  
-   Link: <a href="https://www.tcaa.go.tz/page?mn=4&amp;p=Air+Navigation+Services&amp;token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=4&amp;p=Air+Navigation+Services&amp;token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758</a>  
+   Link:<a href="https://www.tcaa.go.tz/page?mn=4&amp;p=Air+Navigation+Services&amp;token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=4&amp;p=Air+Navigation+Services&amp;token=0433768f2b8c88d9ad534072ab6b3f188e9153d8e3e52645f2e9bf42162183f758</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tcaa.go.tz  
    Title: Tanzania Civil Aviation Authority Advisory Circular  
-   Link: <a href="https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf</a>  
+   Link:<a href="https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/ctrback/docs/9YEjIqOr3OmN20260202125225.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tcaa.go.tz  
-   Link: <a href="https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf</a>  
+   Link:<a href="https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tcaa.go.tz/ctrback/docs/WeEDk69J2CUu20251105152851.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tcaa.go.tz  
-   Link: <a href="https://www.tcaa.go.tz/page?mn=13&amp;p=AIM+publication&amp;token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=13&amp;p=AIM+publication&amp;token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616</a>  
+   Link:<a href="https://www.tcaa.go.tz/page?mn=13&amp;p=AIM+publication&amp;token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616" target="_blank" rel="noopener noreferrer nofollow">https://www.tcaa.go.tz/page?mn=13&amp;p=AIM+publication&amp;token=11bd2068c2a96a4bfe50e19978301159090ce0f8937b238a4e1531418b3ddc3616</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Tanzania Civil Aviation Authority  
-   Link: <a href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tanzania_Civil_Aviation_Authority</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Hubble Space Telescope  
-   Link: <a href="https://en.wikipedia.org/wiki/Hubble_Space_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hubble_Space_Telescope</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hubble_Space_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hubble_Space_Telescope</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: threadreaderapp.com  
-   Link: <a href="https://threadreaderapp.com/scrolly/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow">https://threadreaderapp.com/scrolly/1759473544327840044</a>  
+   Link:<a href="https://threadreaderapp.com/scrolly/1759473544327840044" target="_blank" rel="noopener noreferrer nofollow">https://threadreaderapp.com/scrolly/1759473544327840044</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: tz.linkedin.com  
    Title: tanzania civil aviation authority  
-   Link: <a href="https://tz.linkedin.com/company/tanzania-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://tz.linkedin.com/company/tanzania-civil-aviation-authority</a>  
+   Link:<a href="https://tz.linkedin.com/company/tanzania-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://tz.linkedin.com/company/tanzania-civil-aviation-authority</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL</a>  
+   Link:<a href="https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tanzania-civil-aviation-authority_tcaa-reports-strong-gains-in-aviation-safety-activity-7407151120462147585-QrgL</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dproz.com  
-   Link: <a href="https://dproz.com/companies/tanzania-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://dproz.com/companies/tanzania-civil-aviation-authority</a>  
+   Link:<a href="https://dproz.com/companies/tanzania-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://dproz.com/companies/tanzania-civil-aviation-authority</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.567162/full</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: eoportal.org  
    Title: hubble space telescope  
-   Link: <a href="https://www.eoportal.org/other-space-activities/hubble-space-telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/hubble-space-telescope</a>  
+   Link:<a href="https://www.eoportal.org/other-space-activities/hubble-space-telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/hubble-space-telescope</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VYIVgyPglfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VYIVgyPglfQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kilimanjaro&quot; &quot;UFO&quot; 1951 The 1951 Flying Saucer Review, Issue No. 1 - Unexplained UFO Encounters &amp; Aerial Mysteries The Future Past...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VYIVgyPglfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VYIVgyPglfQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kilimanjaro&quot; &quot;UFO&quot; 1951 The 1951 Flying Saucer Review, Issue No. 1 - Unexplained UFO Encounters &amp; Aerial Mysteries The Future Past...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: NASA UAP Independent Study Report — Press Conference (  
-   Link: <a href="https://www.youtube.com/watch?v=uDbo7fq7Rq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uDbo7fq7Rq0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa UFO report: What we learned from UAP study - BBC News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uDbo7fq7Rq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uDbo7fq7Rq0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa UFO report: What we learned from UAP study - BBC News...</p></details>
    Published: September 14, 2023  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: UFO Sightings That Were Officially Documented  
-   Link: <a href="https://www.youtube.com/watch?v=V5pFPM2ZaF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5pFPM2ZaF8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1951 Flying Saucer Review, Issue No. 1 - Unexplained UFO Encounters &amp; Aerial Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V5pFPM2ZaF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5pFPM2ZaF8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1951 Flying Saucer Review, Issue No. 1 - Unexplained UFO Encounters &amp; Aerial Mysteries...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Nasa UFO report: What we learned from UAP study  
-   Link: <a href="https://www.youtube.com/watch?v=eTaltOQLVLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eTaltOQLVLU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eTaltOQLVLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eTaltOQLVLU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: whitehouse.gov  
-   Link: <a href="https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/</a>  
+   Link:<a href="https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Were Officially Documented...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Were Officially Documented...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by</a>
+   Link:<a href="https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36351410/ALIEN_INTERVIEW_Based_On_Personal_Notes_and_Interview_Transcriptions_Provided_by</a>

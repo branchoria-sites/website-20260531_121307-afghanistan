@@ -251,17 +251,17 @@ image: /assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-1-so
 [Samoa]({{ 'what-has-samoa-really-seen-in-the-sky/' | relative_url }})’s UFO record is notable less for what it contains than for how little of it can be verified. Public databases do contain entries labelled Samoa or American Samoa, but several of the most visible examples reveal a basic problem: location tags, witness narratives, and supporting evidence often do not match. That does not prove the reports are false. It does mean that raw database listings should not be treated as confirmed Samoan incidents.
 
 <img src="{{ "/assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-1-dark.svg" | relative_url }}" alt="UFO Record illustration 1" data-theme-src-dark="{{ "/assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to understand UFO activity in Samoa, the central question is therefore not whether unexplained objects have ever been seen over the islands. It is whether the available records are reliable enough to establish a genuine local case history. At present, the strongest conclusion is that Samoa has a sparse and fragmented public record, with multiple database entries requiring correction, verification, or outright exclusion before they can be used as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCData Bank &#124; NUFORC">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCData Bank &#124; NUFORC</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+For readers trying to understand UFO activity in Samoa, the central question is therefore not whether unexplained objects have ever been seen over the islands. It is whether the available records are reliable enough to establish a genuine local case history. At present, the strongest conclusion is that Samoa has a sparse and fragmented public record, with multiple database entries requiring correction, verification, or outright exclusion before they can be used as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCData Bank &#124; NUFORC">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCData Bank &#124; NUFORC</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## What Public Databases Actually List
 
-The largest publicly accessible UFO reporting archives are not government repositories. They are mainly civilian collections that rely on voluntary submissions. The best-known example is the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026">[National UFO Reporting Center (NUFORC)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>, which maintains a searchable global database and location index. NUFORC itself presents the archive as a collection of witness reports rather than a catalogue of proven events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The largest publicly accessible UFO reporting archives are not government repositories. They are mainly civilian collections that rely on voluntary submissions. The best-known example is the<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026">[National UFO Reporting Center (NUFORC)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>, which maintains a searchable global database and location index. NUFORC itself presents the archive as a collection of witness reports rather than a catalogue of proven events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-When Samoa is examined specifically, the record becomes extremely thin. The NUFORC location index shows only a tiny number of entries associated with American Samoa and no large body of reports comparable to countries with established UFO research communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
+When Samoa is examined specifically, the record becomes extremely thin. The NUFORC location index shows only a tiny number of entries associated with American Samoa and no large body of reports comparable to countries with established UFO research communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
 
 That scarcity matters because small datasets are unusually vulnerable to distortion. In a country with thousands of reports, a few mistaken entries may not significantly affect overall patterns. In Samoa, where only a handful of publicly visible reports exist, a single misfiled case can alter the apparent history of sightings.
 
-A second source frequently encountered in online searches is the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US UFO Research CenterSamoa UFO Sightings and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Samoa UFO and alien contact experience reports, as well as those of other US States. https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html">[US UFO Center Samoa page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US UFO Research CenterSamoa UFO Sightings and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Samoa UFO and alien contact experience reports, as well as those of other US States. https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html</span><span class="citation-popover-snippet">to our database.Read more. Source panel: Citations. Accessed May 29, 2026...</span></span></span> and its equivalent page for American Samoa. These pages indicate that reports are being collected and that material may be added in the future, but they currently function more as reporting portals than as evidence-rich archives. They provide little independently verifiable case documentation, witness corroboration, photographic analysis, radar data, or investigative records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html</span><span class="citation-popover-snippet">more. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
+A second source frequently encountered in online searches is the<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US UFO Research CenterSamoa UFO Sightings and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Samoa UFO and alien contact experience reports, as well as those of other US States. https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html">[US UFO Center Samoa page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US UFO Research CenterSamoa UFO Sightings and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Samoa UFO and alien contact experience reports, as well as those of other US States. https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html</span><span class="citation-popover-snippet">to our database.Read more. Source panel: Citations. Accessed May 29, 2026...</span></span></span> and its equivalent page for American Samoa. These pages indicate that reports are being collected and that material may be added in the future, but they currently function more as reporting portals than as evidence-rich archives. They provide little independently verifiable case documentation, witness corroboration, photographic analysis, radar data, or investigative records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html</span><span class="citation-popover-snippet">more. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
 
 ## Why Some Samoa Entries Fail Basic Verification
 
@@ -285,7 +285,7 @@ These problems emerge because public UFO databases are often built from user-sub
 
 A report can therefore be authentic as a witness statement while still being unusable as evidence for a specific place.
 
-For Samoa, this distinction is critical. The small number of records means that every entry carries disproportionate weight. A researcher who simply counts database listings may produce a misleading picture of local UFO activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFORC Reports by Location NUFORC Reports by Location. LOCATION, REPORT COUNT. USA</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 675. USA - Alab...</span></span></span>
+For Samoa, this distinction is critical. The small number of records means that every entry carries disproportionate weight. A researcher who simply counts database listings may produce a misleading picture of local UFO activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFORC Reports by Location NUFORC Reports by Location. LOCATION, REPORT COUNT. USA</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 675. USA - Alab...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W1VWNGja-UU" title="UFO spotted over Hawaiʻi likely spent rocket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W1VWNGja-UU" target="_blank" rel="noopener noreferrer">UFO spotted over Hawaiʻi likely spent rocket</a></p><p class="youtube-embed-meta">Channel: University of Hawai‘i News &middot; Views: 97.8K &middot; Uploaded: October 2020 &middot; Length: 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W1VWNGja-UU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W1VWNGja-UU">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +311,7 @@ Most Samoa-linked entries visible in public databases do not reach that threshol
 
 Instead, they tend to resemble isolated witness narratives with limited supporting material. That makes them useful as records of what someone reported seeing, but weak as evidence for a verified unexplained aerial event.
 
-This distinction mirrors the approach taken in historical government investigations such as Project Blue Book. The significance of Blue Book was not that every report was accepted as genuine. Its value was that investigators attempted to compare claims against known aircraft activity, astronomy, weather conditions, and other conventional explanations. Official records released through the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP) across numerous record groups and col. https://www.archives.gov/research/topics/uaps">[US National Archives UFO collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP) across numerous record groups and col. https://www.archives.gov/research/topics/uaps</span><span class="citation-popover-snippet">lections. Source panel: Citations. Accessed May 29, 2026...</span></span></span> and related Blue Book documentation show the importance of structured case evaluation rather than simple report accumulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/uf...No" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/uf...No" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span>
+This distinction mirrors the approach taken in historical government investigations such as Project Blue Book. The significance of Blue Book was not that every report was accepted as genuine. Its value was that investigators attempted to compare claims against known aircraft activity, astronomy, weather conditions, and other conventional explanations. Official records released through the<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP) across numerous record groups and col. https://www.archives.gov/research/topics/uaps">[US National Archives UFO collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP) across numerous record groups and col. https://www.archives.gov/research/topics/uaps</span><span class="citation-popover-snippet">lections. Source panel: Citations. Accessed May 29, 2026...</span></span></span> and related Blue Book documentation show the importance of structured case evaluation rather than simple report accumulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/uf...No" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/uf...No" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.ukhttps://media.nationalarchives.gov.uk/index.php/uf...No information is available for this page.. https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span>
 
 <img src="{{ "/assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-2-dark.svg" | relative_url }}" alt="UFO Record illustration 2" data-theme-src-dark="{{ "/assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Samoa Is Especially Difficult to Evaluate
@@ -336,7 +336,7 @@ Third, modern Pacific skies increasingly contain objects that can appear unusual
 
 Without supporting data, these phenomena can easily produce reports that remain unidentified to witnesses while still having conventional explanations.
 
-The problem is not unique to Samoa. Researchers examining large international UFO datasets have repeatedly noted issues involving incomplete records, inconsistent classifications, and uneven reporting quality across regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ResearchGate(PDF) A global picture of unidentified anomalous phenomenaThe UFO seekers flocking to a remote Thai hilltop in search of Buddhist aliens.. https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ResearchGate(PDF) A global picture of unidentified anomalous phenomenaThe UFO seekers flocking to a remote Thai hilltop in search of Buddhist aliens.. https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</span><span class="citation-popover-snippet">CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more. Source panel: Citations. Accessed May 29, 2026...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: RedditI analyzed 80000 UFO sightings from the NUFORC databaseThis is my second go at analyzing the NUFORC database.. https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">RedditI analyzed 80000 UFO sightings from the NUFORC databaseThis is my second go at analyzing the NUFORC database.. https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</span><span class="citation-popover-snippet">My previous research focused on lights and the color orange, but this time (this included lights and...Read more. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
+The problem is not unique to Samoa. Researchers examining large international UFO datasets have repeatedly noted issues involving incomplete records, inconsistent classifications, and uneven reporting quality across regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ResearchGate(PDF) A global picture of unidentified anomalous phenomenaThe UFO seekers flocking to a remote Thai hilltop in search of Buddhist aliens.. https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ResearchGate(PDF) A global picture of unidentified anomalous phenomenaThe UFO seekers flocking to a remote Thai hilltop in search of Buddhist aliens.. https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</span><span class="citation-popover-snippet">CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more. Source panel: Citations. Accessed May 29, 2026...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: RedditI analyzed 80000 UFO sightings from the NUFORC databaseThis is my second go at analyzing the NUFORC database.. https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">RedditI analyzed 80000 UFO sightings from the NUFORC databaseThis is my second go at analyzing the NUFORC database.. https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</span><span class="citation-popover-snippet">My previous research focused on lights and the color orange, but this time (this included lights and...Read more. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 287 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
@@ -363,201 +363,201 @@ Without these elements, most reports remain anecdotal rather than evidential.
 
 The Samoa record demonstrates a broader lesson about UFO databases: accessibility is not the same as verification.
 
-Public archives remain useful because they preserve witness testimony that might otherwise disappear. They can reveal patterns, identify locations worth investigating, and provide historical leads. Yet Samoa shows the limits of treating database entries as established facts. A report can be publicly listed, searchable, and frequently repeated online while still containing location errors, missing corroboration, or unresolved inconsistencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCData Bank &#124; NUFORC">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCData Bank &#124; NUFORC</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Public archives remain useful because they preserve witness testimony that might otherwise disappear. They can reveal patterns, identify locations worth investigating, and provide historical leads. Yet Samoa shows the limits of treating database entries as established facts. A report can be publicly listed, searchable, and frequently repeated online while still containing location errors, missing corroboration, or unresolved inconsistencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCData Bank &#124; NUFORC">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCData Bank &#124; NUFORC</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">NUFORCNational UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witness and experiencer reporting. Browse reports, images, videos, maps and more.. https://nuforc.org/. Source panel: Citations. Accessed May 29, 2026</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-As a result, the current evidence does not support the existence of a well-documented Samoa UFO wave, a landmark national incident, or a substantial archive of investigated cases. The more defensible conclusion is narrower: Samoa has a very small public UFO record, several visible entries raise reliability concerns, and any future claim would need significantly stronger documentation before it could be treated as a credible addition to the country's UFO history. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html</span><span class="citation-popover-snippet">more. Source panel: Citations. Accessed May 29, 2026...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
+As a result, the current evidence does not support the existence of a well-documented Samoa UFO wave, a landmark national incident, or a substantial archive of investigated cases. The more defensible conclusion is narrower: Samoa has a very small public UFO record, several visible entries raise reliability concerns, and any future claim would need significantly stronger documentation before it could be treated as a credible addition to the country's UFO history. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings &amp; ReportsThe US UFO Center&#x27;s &quot;Disclosure Project&quot; began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html</span><span class="citation-popover-snippet">more. Source panel: Citations. Accessed May 29, 2026...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.orgUFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. https://nuforc.org/map/</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map. Source panel: Citations. Accessed May 29, 2026...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 322 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Samoa&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Samoa&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating weak and strong reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating weak and strong reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Demonstrates how official records are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how official records are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the standards needed for credible case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the standards needed for credible case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding evidence quality and skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding evidence quality and skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-samoa-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-samoa-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ As a result, the current evidence does not support the existence of a well-docum
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ As a result, the current evidence does not support the existence of a well-docum
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ As a result, the current evidence does not support the existence of a well-docum
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ As a result, the current evidence does not support the existence of a well-docum
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ As a result, the current evidence does not support the existence of a well-docum
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,11 +760,10 @@ As a result, the current evidence does not support the existence of a well-docum
 })();
 </script>
 </section>
-
 ## References
 
 [National UFO Reporting Center](#endnote-3 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...&quot;) er (NUFORC)([https://nuforc.org/](https://nuforc.org/))...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...&quot;) er (NUFORC)([https://nuforc.org/](https://nuforc.org/))...</p></details>
 - [US UFO Center Samoa page](https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html)
 - [US National Archives UFO collections](https://www.archives.gov/research/topics/uaps)
 
@@ -791,82 +790,82 @@ As a result, the current evidence does not support the existence of a well-docum
 
 [4] National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Roswell in July of 1947 and that thi. [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [5] National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP) across numerous record groups and col. [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lections. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lections. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [6] ResearchGate(PDF) A global picture of unidentified anomalous phenomenaThe UFO seekers flocking to a remote Thai hilltop in search of Buddhist aliens.. [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [7] RedditI analyzed 80000 UFO sightings from the NUFORC databaseThis is my second go at analyzing the NUFORC database.. [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [8] nuforc.orgUFO Sightings Map | NUFORCWorldwide UFO / UAP sightings plotted on an interactive map.. [https://nuforc.org/map/](https://nuforc.org/map/).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCWorldwide UFO / UAP sightings plotted on an interactive map. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCWorldwide UFO / UAP sightings plotted on an interactive map. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [9] US UFO Research CenterGlobal UFOs: American Samoa UFO Sightings & ReportsThe US UFO Center's "Disclosure Project" began on March 22nd, 2025 to disseminate those paranormal cases submitted on our American Samoa UFO and Al. [https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html).
 
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [10] US UFO Research CenterSamoa UFO Sightings and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Samoa UFO and alien contact experience reports, as well as those of other US States. [https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>to our database.Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to our database.Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [11] usufocenter.comUS UFO Information and Research Center Website IndexUNITED STATES UFO SIGHTING REPORTS · ALABAMA UFOs.. [https://www.usufocenter.com/website-index.html](https://www.usufocenter.com/website-index.html).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP USO Sightings... Samoa UFOs. UAP USO Sightings &amp; Experience Reports. San Marino UFOs. UAP USO...Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP USO Sightings... Samoa UFOs. UAP USO Sightings &amp; Experience Reports. San Marino UFOs. UAP USO...Read more. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [12] nationalarchives.gov.uk[https://media.nationalarchives.gov.uk/index.php/uf...No](https://media.nationalarchives.gov.uk/index.php/uf...No) information is available for this page.. [https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/](https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/). Source panel: Citations. Accessed May 29, 2026.
 
 [13] U.S.. [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e.... Source panel: More. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e.... Source panel: More. Accessed May 29, 2026...</p></details>
 
 [14] A query of the Canadian UFO Survey database shows that 3,572 encounters...Read more. [https://dokumen.pub/identified-flying-objects-a-multidisciplinary-scientific-approach-to-the-ufo-phenomenon-1733634002-9781733634007.html](https://dokumen.pub/identified-flying-objects-a-multidisciplinary-scientific-approach-to-the-ufo-phenomenon-1733634002-9781733634007.html).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identified Flying Objects: A Multidisciplinary Scientific...Monthly statistics for close encounters reported to NUFORC, January 1973 –Ju.... Source panel: More. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identified Flying Objects: A Multidisciplinary Scientific...Monthly statistics for close encounters reported to NUFORC, January 1973 –Ju.... Source panel: More. Accessed May 29, 2026...</p></details>
 
 [15] fbi.govProject Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between 1947 and 1969.. [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%)
 
 2
 
 0.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between.... Source panel: More. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between.... Source panel: More. Accessed May 29, 2026...</p></details>
 
 [16] Project Blue Book. [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [17] UFO spotted over Hawaiʻi likely spent rocket. [https://www.youtube.com/watch?v=W1VWNGja-UU](https://www.youtube.com/watch?v=W1VWNGja-UU).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>What I Found Tracking 200,000 UFO Sightings | Meet Christian Stepien of the UFO Reporting Center. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What I Found Tracking 200,000 UFO Sightings | Meet Christian Stepien of the UFO Reporting Center. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [18] What I Found Tracking 200,000 UFO Sightings | Meet Christian Stepien of the UFO Reporting Center. [https://www.youtube.com/watch?v=nnpj_snRRe](https://www.youtube.com/watch?v=nnpj_snRRe)
 
 0.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [19] UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS. [https://www.youtube.com/watch?v=qho0N3vv7Gw](https://www.youtube.com/watch?v=qho0N3vv7Gw).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [20] Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves. [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast. Source panel: Citations. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast. Source panel: Citations. Accessed May 29, 2026...</p></details>
 
 [21] Top 10 Mysterious UFO Sightings That Still Haunt Witnesses Top 10 Mysterious UFO Sightings That Still Haunt Witnesses. [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>By. SPYSCAPE. 5 minute read. The unexplained UFOs shot down over North America in February 2023 aren...Read more. Source panel: More. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By. SPYSCAPE. 5 minute read. The unexplained UFOs shot down over North America in February 2023 aren...Read more. Source panel: More. Accessed May 29, 2026...</p></details>
 
 [22] CIVI L PROCEDUREThough mislabeled with an appellate-division rather than a civil... Certain administrative functions, such as the determ. [https://asbar.org/civil-procedure-d66/](https://asbar.org/civil-procedure-d66/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIVIL PROCEDUREThough mislabeled with an appellate-division rather than a civil... Certain administrative functions, such as the determi. Source panel: More. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIVIL PROCEDUREThough mislabeled with an appellate-division rather than a civil... Certain administrative functions, such as the determi. Source panel: More. Accessed May 29, 2026...</p></details>
 
 [23] UF O File Archive | UFOFiles.app UFO Files.app Case Files Official Files Timeline Sightings Species Conspiracies. The Interactive UFO Cas. [https://ufofiles.app/](https://ufofiles.app/).
 
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO File Archive | UFOFiles.appUFOFiles.app Case Files Official Files Timeline Sightings Species Conspiracies. The Interactive UFO Case F. Source panel: More. Accessed May 29, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO File Archive | UFOFiles.appUFOFiles.app Case Files Official Files Timeline Sightings Species Conspiracies. The Interactive UFO Case F. Source panel: More. Accessed May 29, 2026...</p></details>

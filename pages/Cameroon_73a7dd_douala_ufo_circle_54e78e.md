@@ -248,24 +248,24 @@ image: /assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-1-so
 
 ## Introduction
 
-Douala became Cameroon’s first identifiable UFO discussion hub through a series of modest gatherings rather than a dramatic sighting or state investigation. In 2016, local organiser Théophile “Mathéo” Mapan established a Douala branch of the francophone network “Les Repas Ufologiques”, creating the clearest documented example of a structured UFO discussion circle in the country. The meetings were small, informal, and socially fragile, but they mattered because Cameroon had almost no public infrastructure for discussing unidentified aerial phenomena outside rumour, religious interpretation, or internet forums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/page/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-title">LES REPAS UFOLOGIQUESDouala (Cameroun) Archives</span><span class="citation-popover-snippet">Page 2 sur 2Le repas-ufologique de Douala au Cameroun annonce sa première réunion qui aura lieu le 4 juillet 2016, derrière l&#x27;hôtel « Hil...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/cameroun-ouverture-dun-repas-ufologique-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESCameroun - Ouverture d&#x27;un repas ufologiqueAujourd&#x27;hui, nous vous proposons l&#x27;ouverture d&#x27;un repas ufologique au Came...</span></span></span>
+Douala became Cameroon’s first identifiable UFO discussion hub through a series of modest gatherings rather than a dramatic sighting or state investigation. In 2016, local organiser Théophile “Mathéo” Mapan established a Douala branch of the francophone network “Les Repas Ufologiques”, creating the clearest documented example of a structured UFO discussion circle in the country. The meetings were small, informal, and socially fragile, but they mattered because Cameroon had almost no public infrastructure for discussing unidentified aerial phenomena outside rumour, religious interpretation, or internet forums.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/page/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-title">LES REPAS UFOLOGIQUESDouala (Cameroun) Archives</span><span class="citation-popover-snippet">Page 2 sur 2Le repas-ufologique de Douala au Cameroun annonce sa première réunion qui aura lieu le 4 juillet 2016, derrière l&#x27;hôtel « Hil...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/cameroun-ouverture-dun-repas-ufologique-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESCameroun - Ouverture d&#x27;un repas ufologiqueAujourd&#x27;hui, nous vous proposons l&#x27;ouverture d&#x27;un repas ufologique au Came...</span></span></span>
 
 <img src="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-1-dark.svg" | relative_url }}" alt="Douala Circle illustration 1" data-theme-src-dark="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of the Douala circle lies less in evidence for extraordinary craft than in what it reveals about how UFO culture formed in Cameroon. The archived notices, attendance reports, and later interviews show enthusiasts attempting to build a local archive of testimony and discussion in a country without official UFO files, civilian research institutes, or a long-running investigative press tradition on the subject. Douala’s meetings therefore occupy a unique place in the Cameroonian UFO timeline: they represent the moment when scattered curiosity became organised conversation. LES REPAS UFOLOGIQUES <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapafrique.com/tag/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapafrique.com">[UAP AFRIQUE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapafrique.com</span><span class="citation-popover-snippet">CamerounLes mots de Théophile Mapan, responsable des Repas Ufologiques de Douala, Cameroun · UAP Afrique. Catégories. Avis. Actualités. G...</span></span></span>
+The importance of the Douala circle lies less in evidence for extraordinary craft than in what it reveals about how UFO culture formed in Cameroon. The archived notices, attendance reports, and later interviews show enthusiasts attempting to build a local archive of testimony and discussion in a country without official UFO files, civilian research institutes, or a long-running investigative press tradition on the subject. Douala’s meetings therefore occupy a unique place in the Cameroonian UFO timeline: they represent the moment when scattered curiosity became organised conversation. LES REPAS UFOLOGIQUES<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapafrique.com/tag/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapafrique.com">[UAP AFRIQUE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapafrique.com</span><span class="citation-popover-snippet">CamerounLes mots de Théophile Mapan, responsable des Repas Ufologiques de Douala, Cameroun · UAP Afrique. Catégories. Avis. Actualités. G...</span></span></span>
 
 ## How Douala Became Cameroon’s UFO Meeting Point
 
-Douala was the logical place for Cameroon’s first recurring UFO discussion group. It is the country’s largest city, commercial capital, and one of its strongest links to francophone media and online culture. The international “Repas Ufologiques” movement, founded in France as a network of informal dinner discussions about UFO reports and anomalous experiences, had already spread to parts of Europe and Africa before reaching Cameroon. In April 2016, the organisation publicly announced the opening of a Douala branch, naming Mathéo Mapan as local organiser. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+Douala was the logical place for Cameroon’s first recurring UFO discussion group. It is the country’s largest city, commercial capital, and one of its strongest links to francophone media and online culture. The international “Repas Ufologiques” movement, founded in France as a network of informal dinner discussions about UFO reports and anomalous experiences, had already spread to parts of Europe and Africa before reaching Cameroon. In April 2016, the organisation publicly announced the opening of a Douala branch, naming Mathéo Mapan as local organiser.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
-That announcement is historically important because there is little surviving evidence of any earlier organised UFO society in Cameroon. Stories about strange lights, spiritual visitations, and unexplained aerial events certainly existed before 2016, especially in oral traditions and local radio discussions, but those accounts rarely produced durable archives. The Douala meetings created something different: scheduled gatherings with written announcements, participant lists, and brief reports preserved online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+That announcement is historically important because there is little surviving evidence of any earlier organised UFO society in Cameroon. Stories about strange lights, spiritual visitations, and unexplained aerial events certainly existed before 2016, especially in oral traditions and local radio discussions, but those accounts rarely produced durable archives. The Douala meetings created something different: scheduled gatherings with written announcements, participant lists, and brief reports preserved online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
 The meetings also reflected a specifically francophone style of ufology. “Repas Ufologiques” events were not formal conferences built around scientific papers or military analysis. They were social meals and discussion sessions where participants exchanged stories, debated theories, and compared local experiences with international UFO narratives. That format suited Cameroon’s social environment. A rigidly academic structure would probably have failed quickly in a setting where UFO discussion was often associated either with superstition or imported conspiracy culture.
 
 ## The 2016 Meetings Behind Hotel Hila
 
-The clearest documented starting point came with the first scheduled meeting on 4 July 2016. Archived notices from the “Les Repas Ufologiques” network invited interested participants to gather behind Hotel Hila in Douala at 5pm and contact Mathéo Mapan in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+The clearest documented starting point came with the first scheduled meeting on 4 July 2016. Archived notices from the “Les Repas Ufologiques” network invited interested participants to gather behind Hotel Hila in Douala at 5pm and contact Mathéo Mapan in advance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
-The surviving records suggest a very small attendance. A later account listed participants including Matheo Mapan, Afri K Po, Ngondè Madeleine, Olivier Massock, and Moussongo Charles. The tone of the report was strikingly modest. Rather than claiming spectacular evidence, attendees presented the gathering as a first attempt to establish a Cameroonian presence inside the broader international ufology network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+The surviving records suggest a very small attendance. A later account listed participants including Matheo Mapan, Afri K Po, Ngondè Madeleine, Olivier Massock, and Moussongo Charles. The tone of the report was strikingly modest. Rather than claiming spectacular evidence, attendees presented the gathering as a first attempt to establish a Cameroonian presence inside the broader international ufology network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
 This first meeting established several patterns that continued through the year:
 
@@ -279,9 +279,9 @@ This first meeting established several patterns that continued through the year:
 
 </div>
 
-A second documented gathering took place in August 2016. According to the meeting report, heavy rain disrupted the session, but discussion still proceeded around “strange and unexplained phenomena”. One participant reportedly described repeated encounters with unusual events that he struggled to interpret. The account gave no verifiable physical evidence, photographs, radar traces, or official documentation. Instead, the emphasis remained on witness experience and collective interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+A second documented gathering took place in August 2016. According to the meeting report, heavy rain disrupted the session, but discussion still proceeded around “strange and unexplained phenomena”. One participant reportedly described repeated encounters with unusual events that he struggled to interpret. The account gave no verifiable physical evidence, photographs, radar traces, or official documentation. Instead, the emphasis remained on witness experience and collective interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
-By September 2016 the venue had shifted away from the original Hotel Hila location to a sports complex area after scheduling difficulties. Organisers noted the attendance of several newcomers, including a young woman interested in the subject who had not previously participated. Even in these short archived reports, the meetings appear less like investigative operations and more like attempts to keep a tiny intellectual community alive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+By September 2016 the venue had shifted away from the original Hotel Hila location to a sports complex area after scheduling difficulties. Organisers noted the attendance of several newcomers, including a young woman interested in the subject who had not previously participated. Even in these short archived reports, the meetings appear less like investigative operations and more like attempts to keep a tiny intellectual community alive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TvZE9T7sigU" title="2 SHOCKING UFO Sightings in Africa Shocks the World‼️😨 Real UFO Footages (2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TvZE9T7sigU" target="_blank" rel="noopener noreferrer">2 SHOCKING UFO Sightings in Africa Shocks the World‼️😨 Real UFO Footages (2025)</a></p><p class="youtube-embed-meta">Channel: Dezzmon &middot; Views: 7.3K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TvZE9T7sigU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TvZE9T7sigU">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +298,7 @@ This is also why the archived attendance lists are valuable despite their limite
 <img src="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-3-dark.svg" | relative_url }}" alt="Douala Circle illustration 3" data-theme-src-dark="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Archive Preserves and Misses
 
-The surviving record of the Douala meetings is thin but revealing. Most available documentation comes from archived posts on the “Les Repas Ufologiques” website and later references preserved through the emerging “UAP Afrique” network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+The surviving record of the Douala meetings is thin but revealing. Most available documentation comes from archived posts on the “Les Repas Ufologiques” website and later references preserved through the emerging “UAP Afrique” network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
 What the archive preserves well includes:
 
@@ -327,7 +327,7 @@ What it largely fails to preserve includes:
 
 This imbalance is important when assessing credibility. The existence of the discussion circle itself is well supported by archived announcements and reports. Claims discussed within the meetings are far less verifiable. The Douala gatherings therefore belong more to the history of UFO culture in Cameroon than to the history of confirmed unexplained aerial events.
 
-The later emergence of “UAP Afrique” helped preserve some memory of the circle. A 2024 feature on Théophile Mapan described him as the organiser of the first Douala “Repas Ufologique” and connected his work to broader African attempts to discuss UFO phenomena outside Europe and North America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapafrique.com/tag/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapafrique.com">[UAP AFRIQUE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapafrique.com</span><span class="citation-popover-snippet">CamerounLes mots de Théophile Mapan, responsable des Repas Ufologiques de Douala, Cameroun · UAP Afrique. Catégories. Avis. Actualités. G...</span></span></span>
+The later emergence of “UAP Afrique” helped preserve some memory of the circle. A 2024 feature on Théophile Mapan described him as the organiser of the first Douala “Repas Ufologique” and connected his work to broader African attempts to discuss UFO phenomena outside Europe and North America.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapafrique.com/tag/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapafrique.com">[UAP AFRIQUE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapafrique.com</span><span class="citation-popover-snippet">CamerounLes mots de Théophile Mapan, responsable des Repas Ufologiques de Douala, Cameroun · UAP Afrique. Catégories. Avis. Actualités. G...</span></span></span>
 
 <img src="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-2-dark.svg" | relative_url }}" alt="Douala Circle illustration 2" data-theme-src-dark="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cameroon_73a7dd_douala_ufo_circle_54e78e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Small Circle With Outsized Symbolic Importance
@@ -348,199 +348,199 @@ The Douala meetings ultimately reveal more about information scarcity than about
 
 In that environment, even small gatherings acquired historical significance. The Douala circle functioned simultaneously as a social club, witness exchange forum, and improvised archive. It demonstrated that curiosity about unidentified aerial phenomena existed in Cameroon independently of foreign media influence, while also showing how difficult it was to sustain organised research without institutional backing.
 
-The meetings therefore occupy a distinct place within the broader Cameroon UFO narrative. They were not a breakthrough in evidence, but they were a breakthrough in visibility. For a brief period in 2016, Douala became the clearest documented point where Cameroon’s scattered UFO curiosity turned into a recurring public conversation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
+The meetings therefore occupy a distinct place within the broader Cameroon UFO narrative. They were not a breakthrough in evidence, but they were a breakthrough in visibility. For a brief period in 2016, Douala became the clearest documented point where Cameroon’s scattered UFO curiosity turned into a recurring public conversation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesrepasufologiques.org">[LES REPAS UFOLOGIQUES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesrepasufologiques.org</span><span class="citation-popover-snippet">LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FqgsKJnNcpQ" title="New UAP footage! The Pentagon spots UFOs over Africa in three new video clips!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FqgsKJnNcpQ" target="_blank" rel="noopener noreferrer">New UAP footage! The Pentagon spots UFOs over Africa in three new video clips!</a></p><p class="youtube-embed-meta">Channel: The Angry Astronaut &middot; Views: 78.2K &middot; Uploaded: August 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FqgsKJnNcpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FqgsKJnNcpQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Douala Became Cameroon&#x27;s UFO Meeting Point. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Douala Became Cameroon&#x27;s UFO Meeting Point. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how organised UFO groups discuss and classify reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how organised UFO groups discuss and classify reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page about how UFO communities organise around discussion, testimony, and public reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about how UFO communities organise around discussion, testimony, and public reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how communities preserve and interpret anomalous stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how communities preserve and interpret anomalous stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Represents the personal-experience narratives often discussed in UFO circles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the personal-experience narratives often discussed in UFO circles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-douala-became-cameroon-s-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ The meetings therefore occupy a distinct place within the broader Cameroon UFO n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ The meetings therefore occupy a distinct place within the broader Cameroon UFO n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ The meetings therefore occupy a distinct place within the broader Cameroon UFO n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ The meetings therefore occupy a distinct place within the broader Cameroon UFO n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ The meetings therefore occupy a distinct place within the broader Cameroon UFO n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,135 +743,134 @@ The meetings therefore occupy a distinct place within the broader Cameroon UFO n
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lesrepasufologiques.org  
    Title: LES REPAS UFOLOGIQUESDouala (Cameroun) Archives  
-   Link: <a href="https://lesrepasufologiques.org/category/cameroun/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/category/cameroun/page/2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 sur 2Le repas-ufologique de Douala au Cameroun annonce sa première réunion qui aura lieu le 4 juillet 2016, derrière l&#x27;hôtel « Hil...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/category/cameroun/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/category/cameroun/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 sur 2Le repas-ufologique de Douala au Cameroun annonce sa première réunion qui aura lieu le 4 juillet 2016, derrière l&#x27;hôtel « Hil...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lesrepasufologiques.org  
-   Link: <a href="https://lesrepasufologiques.org/cameroun-ouverture-dun-repas-ufologique-2/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/cameroun-ouverture-dun-repas-ufologique-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESCameroun - Ouverture d&#x27;un repas ufologiqueAujourd&#x27;hui, nous vous proposons l&#x27;ouverture d&#x27;un repas ufologique au Came...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/cameroun-ouverture-dun-repas-ufologique-2/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/cameroun-ouverture-dun-repas-ufologique-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESCameroun - Ouverture d&#x27;un repas ufologiqueAujourd&#x27;hui, nous vous proposons l&#x27;ouverture d&#x27;un repas ufologique au Came...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lesrepasufologiques.org  
-   Link: <a href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/category/cameroun/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/category/cameroun/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/category/cameroun/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESDouala (Cameroun) ArchivesPremière réunion des Repas Ufologiques de Douala au Cameroun. Étaient réunis le lundi 4 ju...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: uapafrique.com  
    Title: les mots de theophile mapan responsable des repas ufologiques de douala cameroun  
-   Link: <a href="https://uapafrique.com/2024/11/06/les-mots-de-theophile-mapan-responsable-des-repas-ufologiques-de-douala-cameroun/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2024/11/06/les-mots-de-theophile-mapan-responsable-des-repas-ufologiques-de-douala-cameroun/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mapan.t@yahoo.com. Premier repas ufologique de Douala, Cameroun, 4 juillet 2016. Théophile Mapan est un auteur en herbe né le...Read more...</p></details>
+   Link:<a href="https://uapafrique.com/2024/11/06/les-mots-de-theophile-mapan-responsable-des-repas-ufologiques-de-douala-cameroun/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2024/11/06/les-mots-de-theophile-mapan-responsable-des-repas-ufologiques-de-douala-cameroun/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mapan.t@yahoo.com. Premier repas ufologique de Douala, Cameroun, 4 juillet 2016. Théophile Mapan est un auteur en herbe né le...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uapafrique.com  
-   Link: <a href="https://uapafrique.com/tag/cameroun/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/tag/cameroun/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CamerounLes mots de Théophile Mapan, responsable des Repas Ufologiques de Douala, Cameroun · UAP Afrique. Catégories. Avis. Actualités. G...</p></details>
+   Link:<a href="https://uapafrique.com/tag/cameroun/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/tag/cameroun/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CamerounLes mots de Théophile Mapan, responsable des Repas Ufologiques de Douala, Cameroun · UAP Afrique. Catégories. Avis. Actualités. G...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Evolution of UFO Research and Community Engagement  
-   Link: <a href="https://www.youtube.com/watch?v=S8j5FhD5-pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8j5FhD5-pE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Afrique UFO UFO | Cape of Good Hope, South Africa | 19/9/2003 UAP Files Podcast 🛸...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S8j5FhD5-pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8j5FhD5-pE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Afrique UFO UFO | Cape of Good Hope, South Africa | 19/9/2003 UAP Files Podcast 🛸...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lesrepasufologiques.org  
-   Link: <a href="https://lesrepasufologiques.org/douala-cameroun-compte-rendu-du-repas-ufologique-du-7-aout-2016-2/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/douala-cameroun-compte-rendu-du-repas-ufologique-du-7-aout-2016-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESDOUALA - Cameroun - Compte rendu du...August 19, 2016 — 7 Aug 2016 — Bonjour, notre Repas Ufologique a bien eu lieu...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/douala-cameroun-compte-rendu-du-repas-ufologique-du-7-aout-2016-2/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/douala-cameroun-compte-rendu-du-repas-ufologique-du-7-aout-2016-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESDOUALA - Cameroun - Compte rendu du...August 19, 2016 — 7 Aug 2016 — Bonjour, notre Repas Ufologique a bien eu lieu...</p></details>
    Published: August 19, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lesrepasufologiques.org  
    Title: Les OVNIS en Afrique  
-   Link: <a href="https://lesrepasufologiques.org/les-ovnis-en-afrique/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/les-ovnis-en-afrique/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août 2016. Sujets populaires.Read more...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/les-ovnis-en-afrique/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/les-ovnis-en-afrique/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août 2016. Sujets populaires.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lesrepasufologiques.org  
-   Link: <a href="https://lesrepasufologiques.org/category/brest/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/category/brest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ArchivesDOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août 2016. Sujets populaires. Albi (59) Bordeaux (33) christian (21) ch...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/category/brest/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/category/brest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ArchivesDOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août 2016. Sujets populaires. Albi (59) Bordeaux (33) christian (21) ch...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lesrepasufologiques.org  
-   Link: <a href="https://lesrepasufologiques.org/tag/interventions/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/tag/interventions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>interventions ArchivesTogo – Ouverture d&#x27;une annexe de notre association! DOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/tag/interventions/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/tag/interventions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interventions ArchivesTogo – Ouverture d&#x27;une annexe de notre association! DOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lesrepasufologiques.org  
    Title: Cartes repas  
-   Link: <a href="https://lesrepasufologiques.org/carte-des-repas/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/carte-des-repas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sujets populaires. Albi (59) Bordeaux (33) christian (21) christian comtesse (21)...Read more...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/carte-des-repas/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/carte-des-repas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sujets populaires. Albi (59) Bordeaux (33) christian (21) christian comtesse (21)...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lesrepasufologiques.org  
    Title: Chaîne You Tube  
-   Link: <a href="https://lesrepasufologiques.org/chaineyoutube/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/chaineyoutube/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août 2016. Sujets populaires. Albi (59)...Read more...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/chaineyoutube/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/chaineyoutube/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOUALA – Cameroun – Compte rendu du Repas Ufologique du 7 août 2016. Sujets populaires. Albi (59)...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fr.tipeee.com  
-   Link: <a href="https://fr.tipeee.com/uapafrique" target="_blank" rel="noopener noreferrer nofollow">https://fr.tipeee.com/uapafrique</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrique - TipeeeLe réseau UAP AFRIQUE a été fondé en novembre 2023 et publie des podcasts sur des faits marquants de l&#x27;ufologie en Afriqu...</p></details>
+   Link:<a href="https://fr.tipeee.com/uapafrique" target="_blank" rel="noopener noreferrer nofollow">https://fr.tipeee.com/uapafrique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afrique - TipeeeLe réseau UAP AFRIQUE a été fondé en novembre 2023 et publie des podcasts sur des faits marquants de l&#x27;ufologie en Afriqu...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/p/HILA-HOTEL-100080230680292/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/HILA-HOTEL-100080230680292/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HILA HOTEL | DoualaHOTEL RESORT · $ in Douala ·. 18K were here · HILA HOTEL établissement d&#x27;ébergement situé à 2min du marché central et...</p></details>
+   Link:<a href="https://www.facebook.com/p/HILA-HOTEL-100080230680292/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/HILA-HOTEL-100080230680292/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HILA HOTEL | DoualaHOTEL RESORT · $ in Douala ·. 18K were here · HILA HOTEL établissement d&#x27;ébergement situé à 2min du marché central et...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uYc_cfYClAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uYc_cfYClAI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI: Création de l&#x27;Agence Spatiale Africaine (ASA...OVNI: Création de l&#x27;Agence Spatiale Africaine (ASA) #ovnipress #ovnimoon #ovnirecor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uYc_cfYClAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uYc_cfYClAI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI: Création de l&#x27;Agence Spatiale Africaine (ASA...OVNI: Création de l&#x27;Agence Spatiale Africaine (ASA) #ovnipress #ovnimoon #ovnirecor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/LQLtdlT6Sks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/LQLtdlT6Sks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs vs. UAPs: What you didn&#x27;t know about these mysterious...GEIPAN: Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN). UFOs v...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/LQLtdlT6Sks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/LQLtdlT6Sks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs vs. UAPs: What you didn&#x27;t know about these mysterious...GEIPAN: Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN). UFOs v...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UAPAfrique/posts/entretien-avec-lionel-c%C3%A9drick-ikogou-renamy-gabon/122225804522091273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UAPAfrique/posts/entretien-avec-lionel-c%C3%A9drick-ikogou-renamy-gabon/122225804522091273/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paris - in Gabon.... UAP Afrique is at USA. 4d· 󰟠. 󳄫. R.I.P Nick Pope #ufo #uap #nickpope.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/UAPAfrique/posts/entretien-avec-lionel-c%C3%A9drick-ikogou-renamy-gabon/122225804522091273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UAPAfrique/posts/entretien-avec-lionel-c%C3%A9drick-ikogou-renamy-gabon/122225804522091273/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paris - in Gabon.... UAP Afrique is at USA. 4d· 󰟠. 󳄫. R.I.P Nick Pope #ufo #uap #nickpope.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jmtvplus.com  
    Title: cameroun un douala ne doit pas etre tribaliste 59502  
-   Link: <a href="https://www.jmtvplus.com/cameroun-un-douala-ne-doit-pas-etre-tribaliste-59502" target="_blank" rel="noopener noreferrer nofollow">https://www.jmtvplus.com/cameroun-un-douala-ne-doit-pas-etre-tribaliste-59502</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UN DOUALA NE DOIT PAS ÊTRE TRIBALISTE&quot;.2 May 2026 — La montée du tribalisme qui n&#x27;est pas la position de la majorité des Dualas et qui e...</p></details>
+   Link:<a href="https://www.jmtvplus.com/cameroun-un-douala-ne-doit-pas-etre-tribaliste-59502" target="_blank" rel="noopener noreferrer nofollow">https://www.jmtvplus.com/cameroun-un-douala-ne-doit-pas-etre-tribaliste-59502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UN DOUALA NE DOIT PAS ÊTRE TRIBALISTE&quot;.2 May 2026 — La montée du tribalisme qui n&#x27;est pas la position de la majorité des Dualas et qui e...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Documenting Anomalous Sightings and Community Testimony  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of UFO Research and Community Engagement...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of UFO Research and Community Engagement...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Exploring Unidentified Aerial Phenomena in Africa  
-   Link: <a href="https://www.youtube.com/watch?v=TvZE9T7sigU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TvZE9T7sigU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documenting Anomalous Sightings and Community Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TvZE9T7sigU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TvZE9T7sigU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documenting Anomalous Sightings and Community Testimony...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Understanding UAP Phenomena and Public Discourse  
-   Link: <a href="https://www.youtube.com/watch?v=02ZrG6TD__Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=02ZrG6TD__Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Unidentified Aerial Phenomena in Africa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=02ZrG6TD__Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=02ZrG6TD__Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Unidentified Aerial Phenomena in Africa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Mystery of UFOs in Africa: A Conversation  
-   Link: <a href="https://www.youtube.com/watch?v=FqgsKJnNcpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqgsKJnNcpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding UAP Phenomena and Public Discourse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FqgsKJnNcpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqgsKJnNcpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding UAP Phenomena and Public Discourse...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=83QRGBjj9L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83QRGBjj9L8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Les Extraterrestres en Afrique!UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries &amp;middot; Animals Being...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=83QRGBjj9L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83QRGBjj9L8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les Extraterrestres en Afrique!UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries &amp;middot; Animals Being...</p></details>

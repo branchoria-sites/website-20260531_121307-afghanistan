@@ -254,22 +254,22 @@ image: /assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Il
 
 ## Introduction
 
-The strongest UFO material connected to Venezuela is not the country’s better-known humanoid stories or later folklore. It is the cluster of reports made by pilots, airline crews and passengers during the early 1950s, especially between 1954 and early 1955. These cases matter because they provide something many Venezuelan UFO claims lack: identifiable aircraft, approximate routes, named airlines, trained observers and, in some instances, multiple witnesses aboard the same flight. At the same time, the aviation record remains incomplete. Most reports survive through specialist catalogues, newspaper coverage and ufology compilations rather than through a large, publicly accessible Venezuelan government archive. The result is a body of evidence that is more structured than local legend but still far from conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+The strongest UFO material connected to Venezuela is not the country’s better-known humanoid stories or later folklore. It is the cluster of reports made by pilots, airline crews and passengers during the early 1950s, especially between 1954 and early 1955. These cases matter because they provide something many Venezuelan UFO claims lack: identifiable aircraft, approximate routes, named airlines, trained observers and, in some instances, multiple witnesses aboard the same flight. At the same time, the aviation record remains incomplete. Most reports survive through specialist catalogues, newspaper coverage and ufology compilations rather than through a large, publicly accessible Venezuelan government archive. The result is a body of evidence that is more structured than local legend but still far from conclusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to understand why pilots occupy such a central place in Venezuela’s UFO history, the answer is straightforward: aviation reports provide the clearest chronology, the most consistent witness descriptions and the strongest opportunity for comparing claims against flight conditions, routes and known aerial phenomena.
 
 ## Why aviation reports stand apart from other Venezuelan cases
 
-Most Venezuelan UFO stories reach the public through retellings, magazine articles or books published years after the events. Pilot reports are different because they are tied to operational contexts. Aircraft crews are trained to judge altitude, distance, weather conditions and aircraft behaviour. That does not make them infallible, but it does mean their observations can often be examined more systematically than ordinary witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+Most Venezuelan UFO stories reach the public through retellings, magazine articles or books published years after the events. Pilot reports are different because they are tied to operational contexts. Aircraft crews are trained to judge altitude, distance, weather conditions and aircraft behaviour. That does not make them infallible, but it does mean their observations can often be examined more systematically than ordinary witness accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
-The aviation cases also emerged during a period when commercial air travel was expanding across Venezuela. Flights linked Caracas, Maracaibo, Barquisimeto, Mérida and coastal destinations through regular routes operated by airlines such as Línea Aeropostal Venezolana (LAV). Because these routes were flown repeatedly, reports from them form something closer to a dataset than a collection of isolated anecdotes. Several sightings occurred along corridors connecting the capital with western Venezuela and the Caribbean coast, creating a geographical pattern that later researchers repeatedly returned to. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+The aviation cases also emerged during a period when commercial air travel was expanding across Venezuela. Flights linked Caracas, Maracaibo, Barquisimeto, Mérida and coastal destinations through regular routes operated by airlines such as Línea Aeropostal Venezolana (LAV). Because these routes were flown repeatedly, reports from them form something closer to a dataset than a collection of isolated anecdotes. Several sightings occurred along corridors connecting the capital with western Venezuela and the Caribbean coast, creating a geographical pattern that later researchers repeatedly returned to.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 Another reason these reports remain important is that they often involved more than one observer. In several cases both pilot and co-pilot reported the same object, and one December 1954 event allegedly included dozens of passengers. Multiple witnesses do not prove an extraordinary explanation, but they reduce the likelihood that the report was simply a solitary misperception.
 
 ## The early DC-3 reports near Caracas
 
-One of the earliest aviation-linked cases associated with Venezuela appears in March 1950. According to Dominique Weinstein’s aviation catalogue, a Venezuelan Airlines DC-3 operating north-west of Caracas was reportedly observed by both pilot and co-pilot encountering a large “turtle-shaped” object at roughly 7,000 feet. The surviving description is extremely brief and lacks radar data, photographs or extensive witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+One of the earliest aviation-linked cases associated with Venezuela appears in March 1950. According to Dominique Weinstein’s aviation catalogue, a Venezuelan Airlines DC-3 operating north-west of Caracas was reportedly observed by both pilot and co-pilot encountering a large “turtle-shaped” object at roughly 7,000 feet. The surviving description is extremely brief and lacks radar data, photographs or extensive witness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 Its importance comes less from the details than from what it establishes historically. The report places UFO claims within Venezuelan commercial aviation years before the famous 1954 wave that swept through much of the Americas. It also shows that the Caracas air corridor was already appearing in the record.
 
@@ -284,15 +284,15 @@ From an evidential standpoint, however, the limitations are obvious:
 
 </div>
 
-As a result, the 1950 sighting functions more as an early marker in the chronology than as a strong standalone case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+As a result, the 1950 sighting functions more as an early marker in the chronology than as a strong standalone case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 ## The 1954–1955 airliner cluster
 
-The most significant concentration of Venezuelan aviation sightings occurred between February 1954 and February 1955. This period coincided with broader international UFO reporting waves, but Venezuela produced an unusually dense sequence of aircrew observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+The most significant concentration of Venezuelan aviation sightings occurred between February 1954 and February 1955. This period coincided with broader international UFO reporting waves, but Venezuela produced an unusually dense sequence of aircrew observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 ### Barquisimeto and the beginning of the wave
 
-A frequently cited case occurred near Barquisimeto on 3 February 1954. Later catalogues describe witnesses observing a rotating object, sometimes characterised as top-shaped, displaying lights and rapid manoeuvres. Different retellings vary in colour descriptions and flight behaviour, illustrating a recurring problem in the Venezuelan record: many accounts survive in secondary or tertiary forms rather than through original operational documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+A frequently cited case occurred near Barquisimeto on 3 February 1954. Later catalogues describe witnesses observing a rotating object, sometimes characterised as top-shaped, displaying lights and rapid manoeuvres. Different retellings vary in colour descriptions and flight behaviour, illustrating a recurring problem in the Venezuelan record: many accounts survive in secondary or tertiary forms rather than through original operational documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 Even so, the Barquisimeto report is important because it marks the beginning of a year in which Venezuelan aviation sightings became unusually frequent.
 
@@ -300,7 +300,7 @@ Even so, the Barquisimeto report is important because it marks the beginning of 
 
 ### The Caracas and Pascua Valley reports
 
-On 30 November 1954, another DC-3 report emerged from the area around the Pascua Valley near Caracas. As with many of the period's cases, only summary descriptions remain readily available today. The report nevertheless fits a pattern of crews describing luminous or structured objects moving in ways they considered inconsistent with conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+On 30 November 1954, another DC-3 report emerged from the area around the Pascua Valley near Caracas. As with many of the period's cases, only summary descriptions remain readily available today. The report nevertheless fits a pattern of crews describing luminous or structured objects moving in ways they considered inconsistent with conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 Because the Caracas region contained some of the country's busiest air routes, these reports attracted greater attention than sightings from remote areas.
 
@@ -308,7 +308,7 @@ Because the Caracas region contained some of the country's busiest air routes, t
 
 The strongest geographical concentration appears around Maracaibo and western Venezuela. Several separate reports were logged within weeks of one another.
 
-On 2 December 1954, a private aircraft crew reportedly observed a saucer-shaped object crossing its flight path near Maracaibo. Five days later, on 7 December, an LAV airliner crew reported a brilliant light executing rapid directional changes. On 22 December, another LAV flight near Maracaibo allegedly involved both crew members and twenty-seven passengers observing multiple luminous objects moving from north to south. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+On 2 December 1954, a private aircraft crew reportedly observed a saucer-shaped object crossing its flight path near Maracaibo. Five days later, on 7 December, an LAV airliner crew reported a brilliant light executing rapid directional changes. On 22 December, another LAV flight near Maracaibo allegedly involved both crew members and twenty-seven passengers observing multiple luminous objects moving from north to south.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 The repetition of Maracaibo as a location has attracted continued interest because it suggests either a genuine cluster of unusual observations or a regional concentration of environmental and atmospheric conditions capable of producing striking visual phenomena.
 
@@ -316,14 +316,14 @@ The area lies within a meteorologically unusual region. Lake Maracaibo is famous
 
 ### Puerto Píritu and the eastern corridor
 
-The 17 December 1954 report near Puerto Píritu expanded the pattern beyond western Venezuela. According to later summaries, an LAV crew observed an unusual aerial object while travelling along the country's eastern coastal corridor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+The 17 December 1954 report near Puerto Píritu expanded the pattern beyond western Venezuela. According to later summaries, an LAV crew observed an unusual aerial object while travelling along the country's eastern coastal corridor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 This matters because it weakens any simple explanation tied solely to Lake Maracaibo's local environment. The reports were appearing along several distinct routes rather than in a single narrowly defined area.
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Mérida–Maiquetía sighting and the problem of detail
 
-One of the most discussed aviation reports occurred on 2 February 1955 between Mérida and Maiquetía, the airport serving Caracas. According to aviation catalogues, crews from an LAV airliner and an Aeropostal aircraft reported a green circular object displaying rotational motion, a luminous ring and apparent porthole-like features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+One of the most discussed aviation reports occurred on 2 February 1955 between Mérida and Maiquetía, the airport serving Caracas. According to aviation catalogues, crews from an LAV airliner and an Aeropostal aircraft reported a green circular object displaying rotational motion, a luminous ring and apparent porthole-like features.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 This case is frequently cited because it contains unusually specific visual details. Yet those same details raise difficult questions.
 
@@ -347,7 +347,7 @@ Pilots routinely observe:
 
 </div>
 
-Because these are part of their everyday work, their reports deserve attention. The aviation cases are stronger than many anonymous civilian sightings precisely because they come from people accustomed to looking at the sky professionally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+Because these are part of their everyday work, their reports deserve attention. The aviation cases are stronger than many anonymous civilian sightings precisely because they come from people accustomed to looking at the sky professionally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 However, pilot testimony alone does not transform a sighting into confirmed evidence of an unknown craft. Modern investigations of unidentified aerial phenomena repeatedly show that experienced observers can still misjudge distance, speed and size when visual cues are limited.
 
@@ -383,214 +383,214 @@ Yet very few cases are accompanied by the forms of evidence that would allow a s
 
 </div>
 
-This gap explains why the cases remain intriguing rather than definitive. The reports are substantial enough to resist easy dismissal, but the documentary record is too thin to support strong conclusions about what was actually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+This gap explains why the cases remain intriguing rather than definitive. The reports are substantial enough to resist easy dismissal, but the documentary record is too thin to support strong conclusions about what was actually observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later researchers preserved the aviation record
 
-Much of what survives today comes through specialist UFO researchers rather than through state archives. Dominique Weinstein’s catalogue of pilot sightings became especially influential because it organised reports by date, location, aircraft type and witness category. Venezuela appears repeatedly within that international aviation dataset, allowing its cases to be compared with reports from other countries during the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+Much of what survives today comes through specialist UFO researchers rather than through state archives. Dominique Weinstein’s catalogue of pilot sightings became especially influential because it organised reports by date, location, aircraft type and witness category. Venezuela appears repeatedly within that international aviation dataset, allowing its cases to be compared with reports from other countries during the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
-Another important source is Horacio González Ganteaume’s 1961 book *Platillos voladores sobre Venezuela*. Later bibliographic references describe the work as an account of Venezuelan sightings drawing on published and unpublished official reports. The book's significance lies less in its conclusions than in the evidence that Venezuelan researchers were already attempting to collect national case files during the early post-war UFO era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
+Another important source is Horacio González Ganteaume’s 1961 book *Platillos voladores sobre Venezuela*. Later bibliographic references describe the work as an account of Venezuelan sightings drawing on published and unpublished official reports. The book's significance lies less in its conclusions than in the evidence that Venezuelan researchers were already attempting to collect national case files during the early post-war UFO era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
 
 The difficulty is that many of the underlying documents referenced by early investigators remain hard to access, limiting modern verification efforts.
 
 ## Why the pilot cases remain the core of Venezuela's UFO story
 
-When Venezuela's UFO history is stripped down to its most durable evidence, aviation reports occupy the centre. They provide dates, routes, aircraft types and identifiable witnesses in a way that most other national cases do not. The sequence running from the 1950 DC-3 sighting near Caracas through the dense 1954–1955 wave creates the closest thing Venezuela has to a coherent UFO chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+When Venezuela's UFO history is stripped down to its most durable evidence, aviation reports occupy the centre. They provide dates, routes, aircraft types and identifiable witnesses in a way that most other national cases do not. The sequence running from the 1950 DC-3 sighting near Caracas through the dense 1954–1955 wave creates the closest thing Venezuela has to a coherent UFO chronology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
-At the same time, the record illustrates the limits of historical UFO research. The reports are compelling because trained observers made them. They remain unresolved because the supporting technical evidence is sparse. For that reason, the Venezuelan aviation cases occupy a middle ground between confirmed anomaly and solved mystery. They are neither strong proof of extraordinary craft nor easily dismissed folklore. Their significance lies in the fact that they represent the country's most structured and persistent body of UFO testimony, and they continue to anchor nearly every serious discussion of Venezuela's place in the wider history of aerial anomaly reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
+At the same time, the record illustrates the limits of historical UFO research. The reports are compelling because trained observers made them. They remain unresolved because the supporting technical evidence is sparse. For that reason, the Venezuelan aviation cases occupy a middle ground between confirmed anomaly and solved mystery. They are neither strong proof of extraordinary craft nor easily dismissed folklore. Their significance lies in the fact that they represent the country's most structured and persistent body of UFO testimony, and they continue to anchor nearly every serious discussion of Venezuela's place in the wider history of aerial anomaly reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</span><span class="citation-popover-meta">Published: February 3, 2001</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer">New UFO Files Reveal Risks To Commercial Flights | WION Podcast</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer">New UFO Files Reveal Risks To Commercial Flights | WION Podcast</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GeMvmwEBcC0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilots Anchor Venezuela&#x27;s UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pilots Anchor Venezuela&#x27;s UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Contains extensive discussion of aviation sightings and case analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains extensive discussion of aviation sightings and case analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces methods for evaluating pilot observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces methods for evaluating pilot observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Built around investigation of aircraft-related UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around investigation of aircraft-related UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly emphasizes pilot, aviation and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly emphasizes pilot, aviation and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pilots-anchor-venezuela-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-pilots-anchor-venezuela-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ At the same time, the record illustrates the limits of historical UFO research. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ At the same time, the record illustrates the limits of historical UFO research. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ At the same time, the record illustrates the limits of historical UFO research. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ At the same time, the record illustrates the limits of historical UFO research. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ At the same time, the record illustrates the limits of historical UFO research. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,84 +793,83 @@ At the same time, the record illustrates the limits of historical UFO research. 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: static1.squarespace.com  
    Title: Eighty Years of Pilot Sightings A Catalog of Military, Airliner  
-   Link: <a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</p></details>
+   Link:<a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paris, February 3, 2001. 1 An unidentified aerial... A an LAV airliner and aeropostal aircraft pilot + co-pilot a...Read more...</p></details>
    Published: February 3, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Platillos voladores sobre Venezuela. Caracas, 1961. 250 p. Account of authenticated UFO sightings over Venezuela from 1959...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Platillos voladores sobre Venezuela. Caracas, 1961. 250 p. Account of authenticated UFO sightings over Venezuela from 1959...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: governmentattic.org  
    Title: Government Attic An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...[Section I] Four UFOs, in-line formation, last one larger and egg-shaped. [22] UFO with three...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...[Section I] Four UFOs, in-line formation, last one larger and egg-shaped. [22] UFO with three...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: studylib.net  
-   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Unknowns CatalogAt 10:47 p.m. (EST) 2nd UFO sighting by USAF pilot Lt Charles R. Hearn and radar observer Lt Charle...</p></details>
+   Link:<a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Unknowns CatalogAt 10:47 p.m. (EST) 2nd UFO sighting by USAF pilot Lt Charles R. Hearn and radar observer Lt Charle...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2517359298701708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2517359298701708/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Underwater UFO sighting off La Guaira, VenezuelaWitnessing a breathtaking sight the mesmerizing event that appeared in the skies above Ve...</p></details>
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2517359298701708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2517359298701708/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underwater UFO sighting off La Guaira, VenezuelaWitnessing a breathtaking sight the mesmerizing event that appeared in the skies above Ve...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: search.worldcat.org  
-   Link: <a href="https://search.worldcat.org/title/Platillos-voladores-sobre-Venezuela/oclc/4283986" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/Platillos-voladores-sobre-Venezuela/oclc/4283986</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>voladores sobre VenezuelaPlatillos voladores sobre Venezuela. Author: Horacio González Ganteaume. Front cover image for Platillos volador...</p></details>
+   Link:<a href="https://search.worldcat.org/title/Platillos-voladores-sobre-Venezuela/oclc/4283986" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/Platillos-voladores-sobre-Venezuela/oclc/4283986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>voladores sobre VenezuelaPlatillos voladores sobre Venezuela. Author: Horacio González Ganteaume. Front cover image for Platillos volador...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Evidence that UAP Source and Utilize High-Voltage...2 May 2026 — We investigate the best evidence of high-voltage UFO/Unidentified...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Evidence that UAP Source and Utilize High-Voltage...2 May 2026 — We investigate the best evidence of high-voltage UFO/Unidentified...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
+   Link:<a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: es.scribd.com  
    Title: OVNIS El Fenomeno Aterrizaje Vicente Juan Ballester Olmos  
-   Link: <a href="https://es.scribd.com/document/429158011/OVNIS-El-Fenomeno-Aterrizaje-Vicente-Juan-Ballester-Olmos" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/429158011/OVNIS-El-Fenomeno-Aterrizaje-Vicente-Juan-Ballester-Olmos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scribd.comOVNIS, El Fenómeno Aterrizaje - Vicente-Juan Ballester...El. primer paso de un ambicioso proyecto: el análisis exhaustivo de l...</p></details>
+   Link:<a href="https://es.scribd.com/document/429158011/OVNIS-El-Fenomeno-Aterrizaje-Vicente-Juan-Ballester-Olmos" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/429158011/OVNIS-El-Fenomeno-Aterrizaje-Vicente-Juan-Ballester-Olmos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scribd.comOVNIS, El Fenómeno Aterrizaje - Vicente-Juan Ballester...El. primer paso de un ambicioso proyecto: el análisis exhaustivo de l...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pdfcoffee.com  
-   Link: <a href="https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, Top Secret UFO Files The Untold Truth...If you want to know more about the intimate details of Project Blue Book UFO...</p></details>
+   Link:<a href="https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, Top Secret UFO Files The Untold Truth...If you want to know more about the intimate details of Project Blue Book UFO...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Nvaz9-QnItM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nvaz9-QnItM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files Reveal Risks To Commercial Flights | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nvaz9-QnItM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nvaz9-QnItM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files Reveal Risks To Commercial Flights | WION Podcast...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: catalogo.bnphu.gob.do  
    Title: By: González Ganteaume, Horacio.Read more  
-   Link: <a href="https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=25345&amp;shelfbrowse_itemnumber=160402" target="_blank" rel="noopener noreferrer nofollow">https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=25345&amp;shelfbrowse_itemnumber=160402</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for: Platillos voladores sobre Venezuela...Platillos voladores sobre Venezuela / los hechos presentados por Horacio González Ganteaume...</p></details>
+   Link:<a href="https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=25345&amp;shelfbrowse_itemnumber=160402" target="_blank" rel="noopener noreferrer nofollow">https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=25345&amp;shelfbrowse_itemnumber=160402</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for: Platillos voladores sobre Venezuela...Platillos voladores sobre Venezuela / los hechos presentados por Horacio González Ganteaume...</p></details>

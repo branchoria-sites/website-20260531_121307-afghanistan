@@ -252,14 +252,14 @@ image: /assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-so
 
 ## Introduction
 
-Ecuador’s UFO record sits in an unusual middle ground between official acknowledgement, unresolved witness testimony, and highly speculative folklore. Unlike many countries where UFO claims remained entirely unofficial, Ecuador briefly created a government-linked investigative body — the Comisión Ecuatoriana para la Investigación del Fenómeno OVNI (CEIFO) — tied to the Ecuadorian Air Force and Ministry of Defence. That institutional involvement is real and documented. What remains unproven is the extraordinary conclusion often attached to it: that Ecuadorian authorities confirmed extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ecuadorian Air Force</span><span class="citation-popover-snippet">April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaime Rodríguez (ufólogo</span><span class="citation-popover-snippet">Jaime Rodríguez (ufólogo</span></span></span>
+Ecuador’s UFO record sits in an unusual middle ground between official acknowledgement, unresolved witness testimony, and highly speculative folklore. Unlike many countries where UFO claims remained entirely unofficial, Ecuador briefly created a government-linked investigative body — the Comisión Ecuatoriana para la Investigación del Fenómeno OVNI (CEIFO) — tied to the Ecuadorian Air Force and Ministry of Defence. That institutional involvement is real and documented. What remains unproven is the extraordinary conclusion often attached to it: that Ecuadorian authorities confirmed extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ecuadorian Air Force</span><span class="citation-popover-snippet">April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaime Rodríguez (ufólogo</span><span class="citation-popover-snippet">Jaime Rodríguez (ufólogo</span></span></span>
 
 <img src="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-dark.svg" | relative_url }}" alt="Claims &amp; Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The country’s UFO debate is therefore best understood through three separate evidence categories. First are the confirmed facts: CEIFO existed, files were collected, and military personnel gave testimony. Second are contested claims: videos, photographs, pilot accounts and stories that cannot be independently verified or conclusively debunked. Third are speculative narratives, especially claims about hidden underwater alien installations off the Ecuadorian coast, which remain unsupported by verifiable evidence despite recurring media attention. The distinction matters because Ecuadorian UFO discussions often blur these categories together.
 
 ## Confirmed CEIFO Records and What They Actually Prove
 
-The strongest documented element in Ecuador’s UFO history is institutional recognition of unidentified aerial reports. Ecuador’s Air Force history references CEIFO as a commission created within a broader aerospace-development framework associated with the Ministry of Defence. That establishes that Ecuador treated UFO reports as a matter worthy of formal review, at least for a limited period in the mid-2000s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span> The commission is closely associated with Ecuadorian ufologist Jaime Rodríguez, who spent years lobbying for declassification of military and civilian UFO reports. According to repeated local reporting and Rodríguez’s own statements, CEIFO reviewed dozens of cases involving both civilians and members of the armed forces. The often-cited figure is 44 investigated cases selected from a much larger archive of photographs and videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ecuadorian Air Force</span><span class="citation-popover-snippet">April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+The strongest documented element in Ecuador’s UFO history is institutional recognition of unidentified aerial reports. Ecuador’s Air Force history references CEIFO as a commission created within a broader aerospace-development framework associated with the Ministry of Defence. That establishes that Ecuador treated UFO reports as a matter worthy of formal review, at least for a limited period in the mid-2000s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span> The commission is closely associated with Ecuadorian ufologist Jaime Rodríguez, who spent years lobbying for declassification of military and civilian UFO reports. According to repeated local reporting and Rodríguez’s own statements, CEIFO reviewed dozens of cases involving both civilians and members of the armed forces. The often-cited figure is 44 investigated cases selected from a much larger archive of photographs and videos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ecuadorian Air Force</span><span class="citation-popover-snippet">April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
 
 What is important — and often misunderstood — is the meaning of “official investigation”. Ecuadorian authorities confirmed that unexplained aerial reports existed. They did not officially confirm alien visitation. The distinction is critical because later documentaries and online discussions frequently imply that Ecuador “admitted UFOs were extraterrestrial”. The public evidence does not support that conclusion.
 
@@ -273,9 +273,9 @@ This creates a recurring pattern in Ecuadorian UFO history: credible witnesses e
 
 ## Why Ecuador’s “Disclosure” Narrative Became Controversial
 
-During the 2000s, Ecuador acquired a reputation in international UFO circles as a country moving toward disclosure. Television documentaries and UFO conferences often presented Ecuador alongside Brazil, Chile and Peru as part of a Latin American wave of military openness regarding UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">UFO Casebook (Season 1, Episode 10)S1, E10: In recent months, some major governments have begun to de-classify documents regarding cases...</span></span></span>
+During the 2000s, Ecuador acquired a reputation in international UFO circles as a country moving toward disclosure. Television documentaries and UFO conferences often presented Ecuador alongside Brazil, Chile and Peru as part of a Latin American wave of military openness regarding UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">UFO Casebook (Season 1, Episode 10)S1, E10: In recent months, some major governments have begun to de-classify documents regarding cases...</span></span></span>
 
-That reputation partly emerged because Ecuador’s government publicly discussed declassification efforts during the administrations of Lucio Gutiérrez and Rafael Correa. Rodríguez repeatedly claimed the armed forces possessed more material than had been publicly released. These statements fuelled the perception that hidden files contained stronger proof than the public had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaime Rodríguez (ufólogo</span><span class="citation-popover-snippet">Jaime Rodríguez (ufólogo</span></span></span>
+That reputation partly emerged because Ecuador’s government publicly discussed declassification efforts during the administrations of Lucio Gutiérrez and Rafael Correa. Rodríguez repeatedly claimed the armed forces possessed more material than had been publicly released. These statements fuelled the perception that hidden files contained stronger proof than the public had seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaime Rodríguez (ufólogo</span><span class="citation-popover-snippet">Jaime Rodríguez (ufólogo</span></span></span>
 
 However, the practical reality was much less dramatic than the mythology that followed. Ecuador never created a comprehensive public archive equivalent to a searchable national database. Many reported cases circulated only through television programmes, lectures, local newspapers, or secondary retellings. That makes independent verification difficult decades later.
 
@@ -333,7 +333,7 @@ This tension appears repeatedly in discussions of coastal sightings near Manabí
 
 ### Internet Amplification and the Rise of Weak Evidence
 
-Recent Ecuador-related UFO clips circulating online illustrate how quickly speculation outruns evidence. Viral footage from Quito and other cities often attracts claims that objects display “non-human manoeuvres”, yet many uploads lack duration, context or stable reference points. Online debate around such clips commonly splits between enthusiastic believers and viewers who identify likely digital manipulation or ordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO sighting in Quito Ecuador</span><span class="citation-popover-snippet">UFO sighting in Quito EcuadorJune 2, 2021 — UFO sighting in San Bernardino. Any idea what they are? r/UFOs. • 5y ago...Read more...</span><span class="citation-popover-meta">Published: June 2, 2021</span></span></span>
+Recent Ecuador-related UFO clips circulating online illustrate how quickly speculation outruns evidence. Viral footage from Quito and other cities often attracts claims that objects display “non-human manoeuvres”, yet many uploads lack duration, context or stable reference points. Online debate around such clips commonly splits between enthusiastic believers and viewers who identify likely digital manipulation or ordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO sighting in Quito Ecuador</span><span class="citation-popover-snippet">UFO sighting in Quito EcuadorJune 2, 2021 — UFO sighting in San Bernardino. Any idea what they are? r/UFOs. • 5y ago...Read more...</span><span class="citation-popover-meta">Published: June 2, 2021</span></span></span>
 
 The internet era has therefore expanded Ecuador’s UFO mythology while simultaneously weakening the average evidential standard. Older CEIFO-era reports at least attempted structured collection and interviews. Modern viral clips often bypass investigation entirely.
 
@@ -356,7 +356,7 @@ The underwater-base narrative combines several separate themes:
 
 </div>
 
-Jaime Rodríguez and other Ecuadorian UFO personalities have discussed alleged underwater activity near the coast, helping popularise the idea in local media. Social media clips and sensational interviews later amplified the narrative further. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">UFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</span></span></span>
+Jaime Rodríguez and other Ecuadorian UFO personalities have discussed alleged underwater activity near the coast, helping popularise the idea in local media. Social media clips and sensational interviews later amplified the narrative further.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">UFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</span></span></span>
 
 What is missing is corroborating evidence such as:
 
@@ -381,7 +381,7 @@ Despite weak evidence, the underwater-installation story remains influential for
 
 First, Ecuador’s Pacific coastline and proximity to deep oceanic zones make the narrative geographically plausible to believers. Second, coastal UFO reports are visually difficult to interpret because lights over water distort distance and motion perception. Third, global UFO culture increasingly promotes the idea that some unidentified phenomena originate underwater rather than from space.
 
-International discussion of unidentified submerged objects has indirectly reinforced Ecuadorian stories by giving local claims a broader mythology to connect with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Scariest UFO Theory Yet: They Live Underwatermassive underwater craft to insiders claiming non... “We Have Been WARNED” Neil...</span></span></span>
+International discussion of unidentified submerged objects has indirectly reinforced Ecuadorian stories by giving local claims a broader mythology to connect with.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Scariest UFO Theory Yet: They Live Underwatermassive underwater craft to insiders claiming non... “We Have Been WARNED” Neil...</span></span></span>
 
 Yet Ecuador-specific evidence still falls short of demonstrating anything beyond anecdote and speculation.
 
@@ -399,7 +399,7 @@ These points are reasonably well established:
 * CEIFO existed as a government-linked investigative body.
 * Ecuadorian authorities collected UFO reports.
 * Some military personnel and officials gave testimony regarding unexplained aerial observations.
-* Political discussion about declassification genuinely occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span>
+* Political discussion about declassification genuinely occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span>
 
 </div>
 
@@ -423,7 +423,7 @@ These cases may represent misidentification, classified technology, atmospheric 
 
 These claims lack reliable supporting evidence:
 
-* hidden underwater alien bases; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">UFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</span></span></span>
+* hidden underwater alien bases;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">UFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</span></span></span>
 * extraterrestrial diplomatic contact stories;
 * claims of secret confirmed alien knowledge inside Ecuador’s government;
 * sensational interpretations of low-quality viral videos.
@@ -439,194 +439,194 @@ At the same time, Ecuador demonstrates how easily official acknowledgement of un
 For researchers comparing Ecuador with neighbouring countries in broader South American UFO studies, the country’s importance lies less in any single spectacular case and more in the interaction between government inquiry, media mythology, and incomplete disclosure. Ecuador shows how UFO narratives can grow around fragments of authentic official involvement, even when the underlying evidence remains uncertain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Evaluating Confirmed and Contested UFO Claims in Ecuador. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Evaluating Confirmed and Contested UFO Claims in Ecuador. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing contested sightings and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing contested sightings and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines evidence standards and credibility in UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence standards and credibility in UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses how folklore and interpretation influence extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how folklore and interpretation influence extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent fit for separating confirmed facts from contested claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for separating confirmed facts from contested claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-confirmed-and-contested-ufo-claims-in-ecuador-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ For researchers comparing Ecuador with neighbouring countries in broader South A
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ For researchers comparing Ecuador with neighbouring countries in broader South A
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ For researchers comparing Ecuador with neighbouring countries in broader South A
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ For researchers comparing Ecuador with neighbouring countries in broader South A
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ For researchers comparing Ecuador with neighbouring countries in broader South A
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,156 +829,155 @@ For researchers comparing Ecuador with neighbouring countries in broader South A
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ecuadorian Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ecuadorian_Air_Force</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ecuadorian_Air_Force</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</p></details>
    Published: April 26, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Jaime Rodríguez (ufólogo)  
-   Link: <a href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
    Title: STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE  
-   Link: <a href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</p></details>
+   Link:<a href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>state-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</p></details>
    Published: September 2011  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook (Season 1, Episode 10)S1, E10: In recent months, some major governments have begun to de-classify documents regarding cases...</p></details>
+   Link:<a href="https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook (Season 1, Episode 10)S1, E10: In recent months, some major governments have begun to de-classify documents regarding cases...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/us/movie/ufo-dossier-ecuador/umc.cmc.y8a52stnqhbr0khxv4kz3pnn" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/movie/ufo-dossier-ecuador/umc.cmc.y8a52stnqhbr0khxv4kz3pnn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dossier: EcuadorUFO Dossier: Ecuador. Documentary. An investigative look at the recently declassified Ecuadorian documents regarding case...</p></details>
+   Link:<a href="https://tv.apple.com/us/movie/ufo-dossier-ecuador/umc.cmc.y8a52stnqhbr0khxv4kz3pnn" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/movie/ufo-dossier-ecuador/umc.cmc.y8a52stnqhbr0khxv4kz3pnn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dossier: EcuadorUFO Dossier: Ecuador. Documentary. An investigative look at the recently declassified Ecuadorian documents regarding case...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: UFO sighting in Quito Ecuador  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Quito EcuadorJune 2, 2021 — UFO sighting in San Bernardino. Any idea what they are? r/UFOs. • 5y ago...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Quito EcuadorJune 2, 2021 — UFO sighting in San Bernardino. Any idea what they are? r/UFOs. • 5y ago...Read more...</p></details>
    Published: June 2, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8uOTFCWyW/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8uOTFCWyW/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S-F7aoChVKw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scariest UFO Theory Yet: They Live Underwatermassive underwater craft to insiders claiming non... “We Have Been WARNED” Neil...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S-F7aoChVKw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scariest UFO Theory Yet: They Live Underwatermassive underwater craft to insiders claiming non... “We Have Been WARNED” Neil...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jrNO4NZQITk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jrNO4NZQITk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs IN ECUADOR / The CEIFO... research, and collection of testimonies related to the UFO phenomenon in Ecuador.... UFOs IN ECUADOR / Th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jrNO4NZQITk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jrNO4NZQITk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs IN ECUADOR / The CEIFO... research, and collection of testimonies related to the UFO phenomenon in Ecuador.... UFOs IN ECUADOR / Th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: 2017-2021.state.gov  
-   Link: <a href="https://2017-2021.state.gov/report/custom/c5349ec0dd/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/report/custom/c5349ec0dd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>claims; UNHCR participates as an observer. Ethiopian and Eritrean asylum... It also includes measures to facilitate the removal of alien...</p></details>
+   Link:<a href="https://2017-2021.state.gov/report/custom/c5349ec0dd/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/report/custom/c5349ec0dd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>claims; UNHCR participates as an observer. Ethiopian and Eritrean asylum... It also includes measures to facilitate the removal of alien...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: centroufologiconazionale.net  
    Title: STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE  
-   Link: <a href="https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>state-of-the-art in ufo disclosure worldwideIn its preparation phase, the attached template has received invaluable cooperation from the...</p></details>
+   Link:<a href="https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>state-of-the-art in ufo disclosure worldwideIn its preparation phase, the attached template has received invaluable cooperation from the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYHPr5UgvNe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHPr5UgvNe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NacionalA pilot captured what many consider the best footage of a UFO ever seen. The bright object appears between the clouds and its aut...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYHPr5UgvNe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHPr5UgvNe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NacionalA pilot captured what many consider the best footage of a UFO ever seen. The bright object appears between the clouds and its aut...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: ECUADOR DECLASSIFIED! Military and Pilots Saw UFOs and Extraterrestrials  
-   Link: <a href="https://www.youtube.com/watch?v=ybx6KNyYK5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybx6KNyYK5Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ybx6KNyYK5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybx6KNyYK5Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage!  
-   Link: <a href="https://www.youtube.com/watch?v=mAcCgUhOMTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mAcCgUhOMTk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Jaime Rodriguez: The Secret of UFOs and the CIA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mAcCgUhOMTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mAcCgUhOMTk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Jaime Rodriguez: The Secret of UFOs and the CIA...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Ufologist Jaime Rodriguez: The Secret of UFOs and the CIA  
-   Link: <a href="https://www.youtube.com/watch?v=obrDNxRhut0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obrDNxRhut0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil Armstrong&#x27;s Secret Ecuadorian Jungle Mission! | Nasa&#x27;s Unexplained Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=obrDNxRhut0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obrDNxRhut0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil Armstrong&#x27;s Secret Ecuadorian Jungle Mission! | Nasa&#x27;s Unexplained Files...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Neil Armstrong's Secret Ecuadorian Jungle Mission! | Nasa's Unexplained Files  
-   Link: <a href="https://www.youtube.com/watch?v=Divc40V2PYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Divc40V2PYA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECUADOR DECLASSIFIED! Military and Pilots Saw UFOs and Extraterrestrials is highly relevant because it carefully catalogs and analyzes th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Divc40V2PYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Divc40V2PYA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECUADOR DECLASSIFIED! Military and Pilots Saw UFOs and Extraterrestrials is highly relevant because it carefully catalogs and analyzes th...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: exostudies.org  
-   Link: <a href="https://www.exostudies.org/resources/dates/" target="_blank" rel="noopener noreferrer nofollow">https://www.exostudies.org/resources/dates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dates | Exo Studies Master CourseBelow is a condensed list of notable dates in exo studies – these include a few of the more notable alle...</p></details>
+   Link:<a href="https://www.exostudies.org/resources/dates/" target="_blank" rel="noopener noreferrer nofollow">https://www.exostudies.org/resources/dates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dates | Exo Studies Master CourseBelow is a condensed list of notable dates in exo studies – these include a few of the more notable alle...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: saa.org  
-   Link: <a href="https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROGRAM OF THE 80TH ANNUAL MEETING... Aliens. 7:30. Krystal Hammond—Research with an Agenda: Creationist. Media on Archaeological Discove...</p></details>
+   Link:<a href="https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROGRAM OF THE 80TH ANNUAL MEETING... Aliens. 7:30. Krystal Hammond—Research with an Agenda: Creationist. Media on Archaeological Discove...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: europeanunionufbootcamp.weebly.com  
-   Link: <a href="https://europeanunionufbootcamp.weebly.com/uploads/1/4/6/1/146151020/globalizing_migration_regimes_new_challenges_to_transnational_cooperation__stockholm_workshop_on_global_migration_r_etc.___z-library_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://europeanunionufbootcamp.weebly.com/uploads/1/4/6/1/146151020/globalizing_migration_regimes_new_challenges_to_transnational_cooperation__stockholm_workshop_on_global_migration_r_etc.___z-library_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Migration Regimes2 A report from a Nordic committee proposed that aliens denied work permits be granted the right of appeal. This was rej...</p></details>
+   Link:<a href="https://europeanunionufbootcamp.weebly.com/uploads/1/4/6/1/146151020/globalizing_migration_regimes_new_challenges_to_transnational_cooperation__stockholm_workshop_on_global_migration_r_etc.___z-library_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://europeanunionufbootcamp.weebly.com/uploads/1/4/6/1/146151020/globalizing_migration_regimes_new_challenges_to_transnational_cooperation__stockholm_workshop_on_global_migration_r_etc.___z-library_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Migration Regimes2 A report from a Nordic committee proposed that aliens denied work permits be granted the right of appeal. This was rej...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Aliens2019/posts/663263267613031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aliens2019/posts/663263267613031/</a>  
+   Link:<a href="https://www.facebook.com/groups/Aliens2019/posts/663263267613031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aliens2019/posts/663263267613031/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dialogo-americas.com  
    Title: rayo justiciero the drone squadron redefining ecuadors airspace control  
-   Link: <a href="https://dialogo-americas.com/articles/rayo-justiciero-the-drone-squadron-redefining-ecuadors-airspace-control/" target="_blank" rel="noopener noreferrer nofollow">https://dialogo-americas.com/articles/rayo-justiciero-the-drone-squadron-redefining-ecuadors-airspace-control/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rayo Justiciero: The Drone Squadron Redefining...4 Feb 2026 — The Rayo Justiciero Drone Squadron, operated by the Ecuadorian Air Force...</p></details>
+   Link:<a href="https://dialogo-americas.com/articles/rayo-justiciero-the-drone-squadron-redefining-ecuadors-airspace-control/" target="_blank" rel="noopener noreferrer nofollow">https://dialogo-americas.com/articles/rayo-justiciero-the-drone-squadron-redefining-ecuadors-airspace-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rayo Justiciero: The Drone Squadron Redefining...4 Feb 2026 — The Rayo Justiciero Drone Squadron, operated by the Ecuadorian Air Force...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wesodonnell.medium.com  
    Title: i saw a ufo while serving in the us military eec3122b2a55  
-   Link: <a href="https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55" target="_blank" rel="noopener noreferrer nofollow">https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw a UFO Up Close While Serving in the Air ForceI Saw a UFO Up Close While Serving in the Air Force So, what does the US intelligence co...</p></details>
+   Link:<a href="https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55" target="_blank" rel="noopener noreferrer nofollow">https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saw a UFO Up Close While Serving in the Air ForceI Saw a UFO Up Close While Serving in the Air Force So, what does the US intelligence co...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10082374/1/Capella%20Palacios_10082374_thesis_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10082374/1/Capella%20Palacios_10082374_thesis_redacted.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>critical ethnography of trainees´ professional identity Manuel...Online hip-hop videos from underground “ghetto” artists, warned outside...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10082374/1/Capella%20Palacios_10082374_thesis_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10082374/1/Capella%20Palacios_10082374_thesis_redacted.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>critical ethnography of trainees´ professional identity Manuel...Online hip-hop videos from underground “ghetto” artists, warned outside...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dokumen.pub  
    Title: East Central Europe in Exile Volume 1: Transatlantic  
-   Link: <a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
+   Link:<a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bristoluniversitypressdigital.com  
-   Link: <a href="https://bristoluniversitypressdigital.com/display/book/9781529208184/9781529208184.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bristoluniversitypressdigital.com/display/book/9781529208184/9781529208184.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a post-neoliberal era in latin america?bajo tierra: videografías en circulación paralela (Underground Ecuador...</p></details>
+   Link:<a href="https://bristoluniversitypressdigital.com/display/book/9781529208184/9781529208184.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bristoluniversitypressdigital.com/display/book/9781529208184/9781529208184.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a post-neoliberal era in latin america?bajo tierra: videografías en circulación paralela (Underground Ecuador...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: coralreefs.org  
    Title: Reef Encounter Jul 2020 hi res  
-   Link: <a href="https://coralreefs.org/wp-content/uploads/2018/12/Reef_Encounter_Jul_2020_hi-res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coralreefs.org/wp-content/uploads/2018/12/Reef_Encounter_Jul_2020_hi-res.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REEF ENCOUNTER1 Jul 2020 — Cohen M (2014) Denotation in alien environments: the underwater je ne sais quoi. Representations 125(1):103-12...</p></details>
+   Link:<a href="https://coralreefs.org/wp-content/uploads/2018/12/Reef_Encounter_Jul_2020_hi-res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coralreefs.org/wp-content/uploads/2018/12/Reef_Encounter_Jul_2020_hi-res.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REEF ENCOUNTER1 Jul 2020 — Cohen M (2014) Denotation in alien environments: the underwater je ne sais quoi. Representations 125(1):103-12...</p></details>

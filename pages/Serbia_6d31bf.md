@@ -1209,20 +1209,20 @@ That distinction matters. A Yugoslav pilot memoir can be relevant to Serbia’s 
 
 One of the most concrete modern Serbian cases is the reported 10 September 2011 photograph from Bukovac, a village on the Fruška Gora slopes near Novi Sad. Radio Television of Vojvodina reported that a Novi Sad resident, Vladimir Šeguljev, submitted an image showing an unexplained flying object; the report said the photograph was taken at 16:52 and that the object was noticed only after the images were transferred to a computer. That detail is important, because it places the case in the common “photographic discovery after the fact” category rather than a full visual observation with live tracking by the witness. [ЈМУ Радио-телевизија Војводине]
 
-The same case was later picked up by English-language technology media, which repeated the basic claim and added that the photographer had sought analysis, including from a physicist at the University of Novi Sad, while the air force reportedly had no record of civilian flights over Bukovac at that time. That makes the case locally interesting, but not confirmed: a negative flight record does not rule out birds, insects, camera artefacts, balloons, model aircraft, or distant objects; and the public record does not appear to include a full forensic image analysis, original file metadata, or independent replication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">UFO photographed floating over Serbian village</span><span class="citation-popover-snippet">UFO photographed floating over Serbian village</span></span></span>
+The same case was later picked up by English-language technology media, which repeated the basic claim and added that the photographer had sought analysis, including from a physicist at the University of Novi Sad, while the air force reportedly had no record of civilian flights over Bukovac at that time. That makes the case locally interesting, but not confirmed: a negative flight record does not rule out birds, insects, camera artefacts, balloons, model aircraft, or distant objects; and the public record does not appear to include a full forensic image analysis, original file metadata, or independent replication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">UFO photographed floating over Serbian village</span><span class="citation-popover-snippet">UFO photographed floating over Serbian village</span></span></span>
 
 The Bukovac case is therefore best classed as **contested but documentable**. It has a named location, date, media trail, and a photograph described by local reporting, but the evidential package is not strong enough to move it into a “confirmed anomalous object” category.
 
 <img src="{{ "/assets/images/Serbia_6d31bf-Illustration-1-dark.svg" | relative_url }}" alt="What Can Serbia&#x27;s UFO Record Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Belgrade triangle reports in international databases
 
-Belgrade appears in the National UFO Reporting Center’s public database with short, witness-submitted reports. In one 2 March 2012 entry, a single observer reported a triangular object with lights near its corners moving over Belgrade from south to north for about 30 seconds. Another 28 August 2012 Belgrade entry described “three dots in triangle shape” lasting five seconds. These are useful because they are timestamped and searchable, but they are still unverified public reports, not official investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=92249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Belgrade appears in the National UFO Reporting Center’s public database with short, witness-submitted reports. In one 2 March 2012 entry, a single observer reported a triangular object with lights near its corners moving over Belgrade from south to north for about 30 seconds. Another 28 August 2012 Belgrade entry described “three dots in triangle shape” lasting five seconds. These are useful because they are timestamped and searchable, but they are still unverified public reports, not official investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=92249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The pattern is familiar: night-time lights, brief duration, one observer, and geometric interpretation. Such reports can be sincere without being extraordinary. Aircraft lights, formation flying, drones, lanterns, satellites, or perception under low-light conditions can all produce “triangle” impressions. The Serbian value of these entries is mainly geographic: they show that Belgrade, as the country’s largest city and aviation hub, naturally produces more reports than rural areas.
 
 ### The 2020 Belgrade “close-up” video problem
 
-A recurring online Serbian UFO clip is a 2020 Belgrade video showing a light that seems to become a strange diamond-like shape when zoomed. A Reddit discussion preserved a typical sceptical explanation: the apparent shape is caused by camera focus and zoom behaviour, not by the actual structure of the object. That is a strong cautionary example for Serbian UFO material generally, because many modern “UFO close-up” videos are really enlarged, out-of-focus point lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Weird UFO recently filmed over Belgrade, Serbia: r/aliens</span><span class="citation-popover-snippet">Weird UFO recently filmed over Belgrade, Serbia: r/aliens</span></span></span>
+A recurring online Serbian UFO clip is a 2020 Belgrade video showing a light that seems to become a strange diamond-like shape when zoomed. A Reddit discussion preserved a typical sceptical explanation: the apparent shape is caused by camera focus and zoom behaviour, not by the actual structure of the object. That is a strong cautionary example for Serbian UFO material generally, because many modern “UFO close-up” videos are really enlarged, out-of-focus point lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Weird UFO recently filmed over Belgrade, Serbia: r/aliens</span><span class="citation-popover-snippet">Weird UFO recently filmed over Belgrade, Serbia: r/aliens</span></span></span>
 
 This kind of case belongs in the **likely debunked or weak-evidence** category unless the original footage, focus settings, distance estimate, object motion, and independent reference points are available. Without those, the video may show a real light in the sky, but not a structured craft.
 
@@ -1230,13 +1230,13 @@ This kind of case belongs in the **likely debunked or weak-evidence** category u
 
 ## Yugoslav Military Testimony and Serbia’s Archival Problem
 
-The most dramatic UFO material connected to Serbia often comes from former Yugoslav military pilots rather than from modern Serbian institutions. The best-known example is retired Yugoslav Air Force pilot Suad Hamzić, whose memoir material was published by the Serbian aviation outlet Tango Six. Tango Six introduced the series as Hamzić’s flight memoirs and specifically described one instalment as recollections of encounters with unidentified flying objects and the former military’s attitude towards the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span>
+The most dramatic UFO material connected to Serbia often comes from former Yugoslav military pilots rather than from modern Serbian institutions. The best-known example is retired Yugoslav Air Force pilot Suad Hamzić, whose memoir material was published by the Serbian aviation outlet Tango Six. Tango Six introduced the series as Hamzić’s flight memoirs and specifically described one instalment as recollections of encounters with unidentified flying objects and the former military’s attitude towards the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span>
 
-Hamzić’s accounts were then amplified by other regional media. Blic, for example, described him as a Yugoslav Air Force and Air Defence pilot and noted that the article was reproducing his Tango Six account. Regional reports also claimed that, by the mid-1980s, a body within the Yugoslav Air Force command in Belgrade dealt with pilot encounters with UFOs, although this claim is not the same as a publicly released institutional file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blic.rs/slobodno-vreme/ispovest-pilota-jna-koji-je-video-nlo/tg8ptsj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blic.rs">[blic.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blic.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avaz.ba/lifestyle/281261/pilot-jna-suad-hamzic-iznio-sokantne-tvrdnje-cesto-smo-susretali-nlo-ali-o-tome-nismo-smjeli-govoriti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avaz.ba">[Dnevni avaz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avaz.ba</span><span class="citation-popover-title">Dnevni avaz Pilot JNA Suad Hamzić iznio šokantne tvrdnje: Često smo</span><span class="citation-popover-snippet">Dnevni avaz Pilot JNA Suad Hamzić iznio šokantne tvrdnje: Često smo</span></span></span>
+Hamzić’s accounts were then amplified by other regional media. Blic, for example, described him as a Yugoslav Air Force and Air Defence pilot and noted that the article was reproducing his Tango Six account. Regional reports also claimed that, by the mid-1980s, a body within the Yugoslav Air Force command in Belgrade dealt with pilot encounters with UFOs, although this claim is not the same as a publicly released institutional file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blic.rs/slobodno-vreme/ispovest-pilota-jna-koji-je-video-nlo/tg8ptsj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blic.rs">[blic.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blic.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://avaz.ba/lifestyle/281261/pilot-jna-suad-hamzic-iznio-sokantne-tvrdnje-cesto-smo-susretali-nlo-ali-o-tome-nismo-smjeli-govoriti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avaz.ba">[Dnevni avaz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avaz.ba</span><span class="citation-popover-title">Dnevni avaz Pilot JNA Suad Hamzić iznio šokantne tvrdnje: Često smo</span><span class="citation-popover-snippet">Dnevni avaz Pilot JNA Suad Hamzić iznio šokantne tvrdnje: Često smo</span></span></span>
 
-A second recurring Yugoslav aviation story involves former commander Zvonimir Jurjević and alleged 1975 encounters with a luminous object during flights over the Adriatic-Montenegro region. The available English-language coverage is heavily dependent on secondary retellings, including Russian state-linked Sputnik, which is not ideal as a primary source. It gives dates, locations, and pilot recollections, but the case remains hard to verify without original Yugoslav flight logs, radar records, squadron documentation, or independent contemporary reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-title">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span><span class="citation-popover-snippet">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span></span></span>
+A second recurring Yugoslav aviation story involves former commander Zvonimir Jurjević and alleged 1975 encounters with a luminous object during flights over the Adriatic-Montenegro region. The available English-language coverage is heavily dependent on secondary retellings, including Russian state-linked Sputnik, which is not ideal as a primary source. It gives dates, locations, and pilot recollections, but the case remains hard to verify without original Yugoslav flight logs, radar records, squadron documentation, or independent contemporary reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-title">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span><span class="citation-popover-snippet">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span></span></span>
 
-This is where Serbia’s archival situation matters. The Military Archive in Belgrade is the relevant institution for Ministry of Defence and Serbian Armed Forces archival material, and its own description says it preserves documentary material created by defence bodies and the armed forces. Its access rules also indicate that archival material can generally be used after 50 years have passed, subject to defence interests and personal-data law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vojniarhiv.mod.gov.rs">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vojniarhiv.mod.gov.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vojniarhiv.mod.gov.rs">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vojniarhiv.mod.gov.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where Serbia’s archival situation matters. The Military Archive in Belgrade is the relevant institution for Ministry of Defence and Serbian Armed Forces archival material, and its own description says it preserves documentary material created by defence bodies and the armed forces. Its access rules also indicate that archival material can generally be used after 50 years have passed, subject to defence interests and personal-data law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vojniarhiv.mod.gov.rs">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vojniarhiv.mod.gov.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vojniarhiv.mod.gov.rs">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vojniarhiv.mod.gov.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That means the absence of widely available Serbian UFO files should not be overread. It may mean there was no dedicated Serbian UFO programme; it may mean relevant material is buried under aviation, air-defence, radar, or operational categories; or it may mean documents are inaccessible, unindexed for UFO terms, or still not digitised. The responsible position is to say that **no strong public evidence currently shows a Serbian official UFO disclosure archive comparable to the better-known British or American releases**.
 
@@ -1245,13 +1245,13 @@ That means the absence of widely available Serbian UFO files should not be overr
 
 Serbia’s UFO record becomes clearer when sorted by evidence quality rather than by strangeness.
 
-**Confirmed as reports, not confirmed as anomalous craft:** the Bukovac photograph, the Belgrade NUFORC entries, and Hamzić’s published memoir claims are all real reports in the sense that they exist in identifiable media or database records. That does not confirm the objects’ nature. [ЈМУ Радио-телевизија Војводине] <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span>
+**Confirmed as reports, not confirmed as anomalous craft:** the Bukovac photograph, the Belgrade NUFORC entries, and Hamzić’s published memoir claims are all real reports in the sense that they exist in identifiable media or database records. That does not confirm the objects’ nature. [ЈМУ Радио-телевизија Војводине]<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span>
 
-**Contested cases:** Yugoslav military pilot accounts are the most compelling narratively because they involve trained observers and, in some retellings, air-defence interest. They remain contested because the public-facing versions are memoiristic, retrospective, and usually lack original logs or radar documentation. The same caution applies to the Bukovac image: it is a specific local case, but not a forensic proof package. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-title">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span><span class="citation-popover-snippet">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span></span></span>
+**Contested cases:** Yugoslav military pilot accounts are the most compelling narratively because they involve trained observers and, in some retellings, air-defence interest. They remain contested because the public-facing versions are memoiristic, retrospective, and usually lack original logs or radar documentation. The same caution applies to the Bukovac image: it is a specific local case, but not a forensic proof package.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-title">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span><span class="citation-popover-snippet">Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre</span></span></span>
 
-**Weak or likely explained cases:** zoomed night-light videos from Belgrade and similar clips are low-value unless accompanied by original files and context. The 2020 Belgrade example shows how a light can acquire a “craft-like” shape through focus and camera behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">yugoslav 172nd air wing ufo cases</span><span class="citation-popover-snippet">yugoslav 172nd air wing ufo cases</span></span></span>
+**Weak or likely explained cases:** zoomed night-light videos from Belgrade and similar clips are low-value unless accompanied by original files and context. The 2020 Belgrade example shows how a light can acquire a “craft-like” shape through focus and camera behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">yugoslav 172nd air wing ufo cases</span><span class="citation-popover-snippet">yugoslav 172nd air wing ufo cases</span></span></span>
 
-This split is more useful than asking whether Serbia has “real UFOs”. In modern UAP terminology, an object can be unidentified at the time of reporting without being exotic. NASA defines UAP as observations that cannot initially be identified as aircraft or known natural phenomena, and its study focused on how to collect and analyse better data rather than treating every report as extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This split is more useful than asking whether Serbia has “real UFOs”. In modern UAP terminology, an object can be unidentified at the time of reporting without being exotic. NASA defines UAP as observations that cannot initially be identified as aircraft or known natural phenomena, and its study focused on how to collect and analyse better data rather than treating every report as extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ku9CYCKw4Aw" title="UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer">UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich</a></p><p class="youtube-embed-meta">Channel: American Veterans Center &middot; Views: 1.0M &middot; Uploaded: March 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ku9CYCKw4Aw">Open on YouTube</a></p></div></div></div>
 
@@ -1261,24 +1261,24 @@ The visible record leans towards Belgrade, Novi Sad, Fruška Gora, and Vojvodina
 
 This creates a reporting bias. Rural sightings may be underreported, while urban lights may be overinterpreted. Northern Serbia also has relatively open horizons compared with mountainous parts of the Balkans, making satellites, aircraft, meteors, lanterns, and distant lights easier to notice. A Serbian UFO chronology therefore cannot be read as a clean map of phenomenon frequency; it is also a map of population, media, cameras, and reporting habits.
 
-The same bias appears internationally. AARO’s public imagery page includes cases resolved as balloons, migratory birds, or non-anomalous objects, alongside unresolved cases, showing that even military-grade reports can have ordinary explanations when more data become available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The same bias appears internationally. AARO’s public imagery page includes cases resolved as balloons, migratory birds, or non-anomalous objects, alongside unresolved cases, showing that even military-grade reports can have ordinary explanations when more data become available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 ## Local Source Reliability: What to Trust Most
 
 Serbian UFO research has to work with uneven sources. The strongest material is usually not the most dramatic.
 
-The most reliable category is **institutional context**: Serbian aviation regulators, military archives, and official aviation-safety bodies can show what kinds of records exist and how incidents are normally handled. The Civil Aviation Directorate of Serbia describes its work in aviation safety and the responsible use of unmanned aircraft, which matters because drones now complicate UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cad.gov.rs/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cad.gov.rs">[cad.gov.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cad.gov.rs</span><span class="citation-popover-snippet">Open source on cad.gov.rs.</span></span></span>
+The most reliable category is **institutional context**: Serbian aviation regulators, military archives, and official aviation-safety bodies can show what kinds of records exist and how incidents are normally handled. The Civil Aviation Directorate of Serbia describes its work in aviation safety and the responsible use of unmanned aircraft, which matters because drones now complicate UFO reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cad.gov.rs/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cad.gov.rs">[cad.gov.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cad.gov.rs</span><span class="citation-popover-snippet">Open source on cad.gov.rs.</span></span></span>
 
 Next are **named local media reports** with dates and locations, such as the Bukovac report by Radio Television of Vojvodina. They can establish that an incident entered the public record, but they do not automatically verify the object. [ЈМУ Радио-телевизија Војводине]
 
-Then come **specialist aviation outlets**, especially Tango Six for Yugoslav pilot memoir material. Tango Six is valuable because it is aviation-focused and locally embedded, but memoirs remain retrospective witness testimony rather than official investigation files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span>
+Then come **specialist aviation outlets**, especially Tango Six for Yugoslav pilot memoir material. Tango Six is valuable because it is aviation-focused and locally embedded, but memoirs remain retrospective witness testimony rather than official investigation files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tangosix.rs">[Tango Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tangosix.rs</span><span class="citation-popover-title">letacke price suada hamzica moju susreti sa nlo</span><span class="citation-popover-snippet">letacke price suada hamzica moju susreti sa nlo</span></span></span>
 
 The weakest category is **social-media reposting**: Reddit, YouTube compilations, Facebook groups, and viral clips can preserve leads, but they often detach a video from its original file, location, time, witness identity, and camera settings. They are useful for finding claims, not for settling them.
 
 <img src="{{ "/assets/images/Serbia_6d31bf-Illustration-3-dark.svg" | relative_url }}" alt="What Can Serbia&#x27;s UFO Record Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Serbia Fits the Wider UAP Picture
 
-Serbia’s UFO record is not unusual in global terms. Its strongest cases suffer from the same limitations that NASA and AARO have highlighted internationally: inconsistent data, stigma, poor sensor information, and difficulty reconstructing old events. NASA’s 2023 UAP work emphasised better data collection and a scientific approach; AARO’s public case material shows that some reports remain unresolved while others are later identified as balloons, birds, or non-anomalous objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Serbia’s UFO record is not unusual in global terms. Its strongest cases suffer from the same limitations that NASA and AARO have highlighted internationally: inconsistent data, stigma, poor sensor information, and difficulty reconstructing old events. NASA’s 2023 UAP work emphasised better data collection and a scientific approach; AARO’s public case material shows that some reports remain unresolved while others are later identified as balloons, birds, or non-anomalous objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That wider context helps prevent two common mistakes. The first is overclaiming: a Serbian light, photograph, or memoir does not become evidence of extraterrestrial technology simply because it is unexplained. The second is overdebunking: an unresolved report is not worthless just because it may later prove ordinary. Some reports can still be useful for aviation safety, drone regulation, meteor observation, public science, or historical study of how militaries and media handle uncertainty.
 
@@ -1293,194 +1293,194 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/65pE7mpF0Kc" title="UFO Beograd Serbia 04.28.2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=65pE7mpF0Kc" target="_blank" rel="noopener noreferrer">UFO Beograd Serbia 04.28.2020</a></p><p class="youtube-embed-meta">Channel: UFO Source &middot; Views: 711 &middot; Uploaded: May 2020 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=65pE7mpF0Kc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=65pE7mpF0Kc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Can Serbia&#x27;s UFO Record Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Can Serbia&#x27;s UFO Record Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Places Yugoslav and Serbian stories in broader context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Yugoslav and Serbian stories in broader context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a benchmark for assessing military and pilot reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for assessing military and pilot reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Useful for comparing Serbian reports with wider global records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing Serbian reports with wider global records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on credible reports versus weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on credible reports versus weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-serbia-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-serbia-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1496,7 +1496,7 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1516,7 +1516,7 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1548,7 +1548,7 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1600,7 +1600,7 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1645,7 +1645,7 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1683,496 +1683,495 @@ Until then, Serbia’s UFO history is best read as a layered archive of reported
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gizmodo.com  
    Title: UFO photographed floating over Serbian village  
-   Link: <a href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049</a>  
+   Link:<a href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=87461</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=87461</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=92249" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=92249</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=92249" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=92249</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Weird UFO recently filmed over Belgrade, Serbia: r/aliens  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blic.rs  
-   Link: <a href="https://www.blic.rs/slobodno-vreme/ispovest-pilota-jna-koji-je-video-nlo/tg8ptsj" target="_blank" rel="noopener noreferrer nofollow">https://www.blic.rs/slobodno-vreme/ispovest-pilota-jna-koji-je-video-nlo/tg8ptsj</a>  
+   Link:<a href="https://www.blic.rs/slobodno-vreme/ispovest-pilota-jna-koji-je-video-nlo/tg8ptsj" target="_blank" rel="noopener noreferrer nofollow">https://www.blic.rs/slobodno-vreme/ispovest-pilota-jna-koji-je-video-nlo/tg8ptsj</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: avaz.ba  
    Title: Dnevni avaz Pilot JNA Suad Hamzić iznio šokantne tvrdnje: Često smo  
-   Link: <a href="https://avaz.ba/lifestyle/281261/pilot-jna-suad-hamzic-iznio-sokantne-tvrdnje-cesto-smo-susretali-nlo-ali-o-tome-nismo-smjeli-govoriti" target="_blank" rel="noopener noreferrer nofollow">https://avaz.ba/lifestyle/281261/pilot-jna-suad-hamzic-iznio-sokantne-tvrdnje-cesto-smo-susretali-nlo-ali-o-tome-nismo-smjeli-govoriti</a>  
+   Link:<a href="https://avaz.ba/lifestyle/281261/pilot-jna-suad-hamzic-iznio-sokantne-tvrdnje-cesto-smo-susretali-nlo-ali-o-tome-nismo-smjeli-govoriti" target="_blank" rel="noopener noreferrer nofollow">https://avaz.ba/lifestyle/281261/pilot-jna-suad-hamzic-iznio-sokantne-tvrdnje-cesto-smo-susretali-nlo-ali-o-tome-nismo-smjeli-govoriti</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng</a>  
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji</a>  
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cad.gov.rs  
-   Link: <a href="https://cad.gov.rs/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cad.gov.rs/?lang=en</a>  
+   Link:<a href="https://cad.gov.rs/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cad.gov.rs/?lang=en</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: yugoslav 172nd air wing ufo cases  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: spinning ufo captured in serbia  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: yugoslavian army jet fighter pilot recalls ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1zsp2p/yugoslavian_army_jet_fighter_pilot_recalls_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1zsp2p/yugoslavian_army_jet_fighter_pilot_recalls_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1zsp2p/yugoslavian_army_jet_fighter_pilot_recalls_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1zsp2p/yugoslavian_army_jet_fighter_pilot_recalls_ufo/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: a sighting over serbia  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ge9ohp/a_sighting_over_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ge9ohp/a_sighting_over_serbia/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ge9ohp/a_sighting_over_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ge9ohp/a_sighting_over_serbia/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1nagbgf/this_interesting_ufo_was_filmed_over_belgrade/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nagbgf/this_interesting_ufo_was_filmed_over_belgrade/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1nagbgf/this_interesting_ufo_was_filmed_over_belgrade/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nagbgf/this_interesting_ufo_was_filmed_over_belgrade/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1f13m7k/mysterious_space_object_over_serbiabulgaria/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1f13m7k/mysterious_space_object_over_serbiabulgaria/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/1f13m7k/mysterious_space_object_over_serbiabulgaria/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1f13m7k/mysterious_space_object_over_serbiabulgaria/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1n667p4/this_interesting_ufo_was_filmed_over_belgrade/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1n667p4/this_interesting_ufo_was_filmed_over_belgrade/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1n667p4/this_interesting_ufo_was_filmed_over_belgrade/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1n667p4/this_interesting_ufo_was_filmed_over_belgrade/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pkbwl.gov.pl  
    Title: 2024 0005 Final report OY GDC 1  
-   Link: <a href="https://pkbwl.gov.pl/wp-content/uploads/2024/02/2024-0005_Final-report_OY-GDC-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pkbwl.gov.pl/wp-content/uploads/2024/02/2024-0005_Final-report_OY-GDC-1.pdf</a>  
+   Link:<a href="https://pkbwl.gov.pl/wp-content/uploads/2024/02/2024-0005_Final-report_OY-GDC-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pkbwl.gov.pl/wp-content/uploads/2024/02/2024-0005_Final-report_OY-GDC-1.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211497820250134/posts/1362881751778396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1362881751778396/</a>  
+   Link:<a href="https://www.facebook.com/groups/211497820250134/posts/1362881751778396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1362881751778396/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spaceage/posts/10164185926399679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceage/posts/10164185926399679/</a>  
+   Link:<a href="https://www.facebook.com/groups/spaceage/posts/10164185926399679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceage/posts/10164185926399679/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cambridgeshirelive/posts/the-ufo-like-building-was-a-favourite-for-people-to-visit-in-the-1990s/1395958972574019/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cambridgeshirelive/posts/the-ufo-like-building-was-a-favourite-for-people-to-visit-in-the-1990s/1395958972574019/</a>  
+   Link:<a href="https://www.facebook.com/cambridgeshirelive/posts/the-ufo-like-building-was-a-favourite-for-people-to-visit-in-the-1990s/1395958972574019/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cambridgeshirelive/posts/the-ufo-like-building-was-a-favourite-for-people-to-visit-in-the-1990s/1395958972574019/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/radiomisterioso/posts/2035291576561987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/radiomisterioso/posts/2035291576561987/</a>  
+   Link:<a href="https://www.facebook.com/groups/radiomisterioso/posts/2035291576561987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/radiomisterioso/posts/2035291576561987/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: the invisible jet and the unlikely friendship incredible stories in aviationin 1  
-   Link: <a href="https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/</a>  
+   Link:<a href="https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/</a>  
+   Link:<a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/</a>  
+   Link:<a href="https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/759990534527676/posts/1991023944757656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/759990534527676/posts/1991023944757656/</a>  
+   Link:<a href="https://www.facebook.com/groups/759990534527676/posts/1991023944757656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/759990534527676/posts/1991023944757656/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/</a>  
+   Link:<a href="https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ucctoronto/posts/karma-has-come-knocking-in-russia-%EF%B8%8Fin-saratov-witnesses-reported-a-mysterious-fi/1282962707206128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ucctoronto/posts/karma-has-come-knocking-in-russia-%EF%B8%8Fin-saratov-witnesses-reported-a-mysterious-fi/1282962707206128/</a>  
+   Link:<a href="https://www.facebook.com/ucctoronto/posts/karma-has-come-knocking-in-russia-%EF%B8%8Fin-saratov-witnesses-reported-a-mysterious-fi/1282962707206128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ucctoronto/posts/karma-has-come-knocking-in-russia-%EF%B8%8Fin-saratov-witnesses-reported-a-mysterious-fi/1282962707206128/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
    Title: on june 30 1908 a giant fireball exploded over the forests of tunguska in siberi  
-   Link: <a href="https://www.facebook.com/spacecom/posts/on-june-30-1908-a-giant-fireball-exploded-over-the-forests-of-tunguska-in-siberi/1088334159823934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/on-june-30-1908-a-giant-fireball-exploded-over-the-forests-of-tunguska-in-siberi/1088334159823934/</a>  
+   Link:<a href="https://www.facebook.com/spacecom/posts/on-june-30-1908-a-giant-fireball-exploded-over-the-forests-of-tunguska-in-siberi/1088334159823934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/on-june-30-1908-a-giant-fireball-exploded-over-the-forests-of-tunguska-in-siberi/1088334159823934/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cycloneofrhodes/posts/a-fireball-seen-over-turkey-minutes-agosee-it-something-like-that-video-via-erya/3561221403986658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cycloneofrhodes/posts/a-fireball-seen-over-turkey-minutes-agosee-it-something-like-that-video-via-erya/3561221403986658/</a>  
+   Link:<a href="https://www.facebook.com/cycloneofrhodes/posts/a-fireball-seen-over-turkey-minutes-agosee-it-something-like-that-video-via-erya/3561221403986658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cycloneofrhodes/posts/a-fireball-seen-over-turkey-minutes-agosee-it-something-like-that-video-via-erya/3561221403986658/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceMagazine/posts/the-controversial-research-should-be-destigmatized-the-nasa-appointed-panel-said/649585057033467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/the-controversial-research-should-be-destigmatized-the-nasa-appointed-panel-said/649585057033467/</a>  
+   Link:<a href="https://www.facebook.com/ScienceMagazine/posts/the-controversial-research-should-be-destigmatized-the-nasa-appointed-panel-said/649585057033467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/the-controversial-research-should-be-destigmatized-the-nasa-appointed-panel-said/649585057033467/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/</a>  
+   Link:<a href="https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
    Title: na današnji dan 252019napustio nas je suad hamzić penzionisani vojni pilot i puk  
-   Link: <a href="https://www.facebook.com/TitovaJugoslavijaOfficial/posts/na-dana%C5%A1nji-dan-252019napustio-nas-je-suad-hamzi%C4%87-penzionisani-vojni-pilot-i-puk/1000678895980286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TitovaJugoslavijaOfficial/posts/na-dana%C5%A1nji-dan-252019napustio-nas-je-suad-hamzi%C4%87-penzionisani-vojni-pilot-i-puk/1000678895980286/</a>  
+   Link:<a href="https://www.facebook.com/TitovaJugoslavijaOfficial/posts/na-dana%C5%A1nji-dan-252019napustio-nas-je-suad-hamzi%C4%87-penzionisani-vojni-pilot-i-puk/1000678895980286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TitovaJugoslavijaOfficial/posts/na-dana%C5%A1nji-dan-252019napustio-nas-je-suad-hamzi%C4%87-penzionisani-vojni-pilot-i-puk/1000678895980286/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheProjectTV/posts/nasa-says-it-has-named-a-new-director-of-research-into-what-the-government-calls/873841660772166/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/nasa-says-it-has-named-a-new-director-of-research-into-what-the-government-calls/873841660772166/</a>  
+   Link:<a href="https://www.facebook.com/TheProjectTV/posts/nasa-says-it-has-named-a-new-director-of-research-into-what-the-government-calls/873841660772166/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheProjectTV/posts/nasa-says-it-has-named-a-new-director-of-research-into-what-the-government-calls/873841660772166/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
+   Link:<a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
    Title: on this weeks avtalk the final report from serbian investigators details the cha  
-   Link: <a href="https://www.facebook.com/flightradar24/posts/on-this-weeks-avtalk-the-final-report-from-serbian-investigators-details-the-cha/1279016554265460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightradar24/posts/on-this-weeks-avtalk-the-final-report-from-serbian-investigators-details-the-cha/1279016554265460/</a>  
+   Link:<a href="https://www.facebook.com/flightradar24/posts/on-this-weeks-avtalk-the-final-report-from-serbian-investigators-details-the-cha/1279016554265460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightradar24/posts/on-this-weeks-avtalk-the-final-report-from-serbian-investigators-details-the-cha/1279016554265460/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/38519739600/posts/10159291468274601/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/38519739600/posts/10159291468274601/</a>  
+   Link:<a href="https://www.facebook.com/groups/38519739600/posts/10159291468274601/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/38519739600/posts/10159291468274601/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: vma.mod.gov.rs  
    Title: vsp 06 2023  
-   Link: <a href="https://www.vma.mod.gov.rs/vsp-06-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vma.mod.gov.rs/vsp-06-2023.pdf</a>  
+   Link:<a href="https://www.vma.mod.gov.rs/vsp-06-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vma.mod.gov.rs/vsp-06-2023.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: odbrana.mod.gov.rs  
    Title: 035 Odbrana  
-   Link: <a href="https://www.odbrana.mod.gov.rs/odbrana/35/035%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/35/035%20Odbrana.pdf</a>  
+   Link:<a href="https://www.odbrana.mod.gov.rs/odbrana/35/035%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/35/035%20Odbrana.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: odbrana.mod.gov.rs  
    Title: 004 Odbrana  
-   Link: <a href="https://www.odbrana.mod.gov.rs/odbrana/4/004%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/4/004%20Odbrana.pdf</a>  
+   Link:<a href="https://www.odbrana.mod.gov.rs/odbrana/4/004%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/4/004%20Odbrana.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: odbrana.mod.gov.rs  
    Title: 033 Odbrana  
-   Link: <a href="https://www.odbrana.mod.gov.rs/odbrana/33/033%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/33/033%20Odbrana.pdf</a>  
+   Link:<a href="https://www.odbrana.mod.gov.rs/odbrana/33/033%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/33/033%20Odbrana.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: odbrana.mod.gov.rs  
-   Link: <a href="https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana35/08-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana35/08-11.pdf</a>  
+   Link:<a href="https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana35/08-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana35/08-11.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: odbrana.mod.gov.rs  
-   Link: <a href="https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana33/26-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana33/26-28.pdf</a>  
+   Link:<a href="https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana33/26-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/pdf_clanci/odbrana33/26-28.pdf</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: odbrana.mod.gov.rs  
    Title: 014 Odbrana  
-   Link: <a href="https://www.odbrana.mod.gov.rs/odbrana/14/014%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/14/014%20Odbrana.pdf</a>  
+   Link:<a href="https://www.odbrana.mod.gov.rs/odbrana/14/014%20Odbrana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odbrana.mod.gov.rs/odbrana/14/014%20Odbrana.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu</a>  
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: nasa.gov  
    Title: announces unidentified aerial phenomena study team members  
-   Link: <a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
+   Link:<a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLWXkPRo0L8h53z9caQIINZa_dRzGvemNi" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWXkPRo0L8h53z9caQIINZa_dRzGvemNi</a>  
+   Link:<a href="https://www.youtube.com/playlist?list=PLWXkPRo0L8h53z9caQIINZa_dRzGvemNi" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWXkPRo0L8h53z9caQIINZa_dRzGvemNi</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UAwELcquUK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UAwELcquUK8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=UAwELcquUK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UAwELcquUK8</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=L2AW-XHvKtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L2AW-XHvKtc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=L2AW-XHvKtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L2AW-XHvKtc</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=deSMTHIPlmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=deSMTHIPlmI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=deSMTHIPlmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=deSMTHIPlmI</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191530" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191530</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=191530" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191530</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: nardus.mpn.gov.rs  
-   Link: <a href="https://nardus.mpn.gov.rs/bitstream/id/64030/Disertacija.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nardus.mpn.gov.rs/bitstream/id/64030/Disertacija.pdf</a>  
+   Link:<a href="https://nardus.mpn.gov.rs/bitstream/id/64030/Disertacija.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nardus.mpn.gov.rs/bitstream/id/64030/Disertacija.pdf</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: isprambiente.gov.it  
    Title: Aliens: The Invasive Species Bulletin  
-   Link: <a href="https://www.isprambiente.gov.it/files/pubblicazioni/periodicitecnici/aliens/aliens%2032%20web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isprambiente.gov.it/files/pubblicazioni/periodicitecnici/aliens/aliens%2032%20web.pdf</a>  
+   Link:<a href="https://www.isprambiente.gov.it/files/pubblicazioni/periodicitecnici/aliens/aliens%2032%20web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isprambiente.gov.it/files/pubblicazioni/periodicitecnici/aliens/aliens%2032%20web.pdf</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: mhrr.gov.ba  
-   Link: <a href="https://www.mhrr.gov.ba/iseljenistvo/publikacije/kojekoudijaspori.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mhrr.gov.ba/iseljenistvo/publikacije/kojekoudijaspori.pdf</a>  
+   Link:<a href="https://www.mhrr.gov.ba/iseljenistvo/publikacije/kojekoudijaspori.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mhrr.gov.ba/iseljenistvo/publikacije/kojekoudijaspori.pdf</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/database/countries/YU" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/database/countries/YU</a>  
+   Link:<a href="https://aviation-safety.net/database/countries/YU" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/database/countries/YU</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: cad.gov.rs  
-   Link: <a href="https://cad.gov.rs/vest/10961/voluntary-occurence-reporting-%EF%BF%BDproactive-approach-to-improving-safety-of-aviation?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cad.gov.rs/vest/10961/voluntary-occurence-reporting-%EF%BF%BDproactive-approach-to-improving-safety-of-aviation?lang=en</a>  
+   Link:<a href="https://cad.gov.rs/vest/10961/voluntary-occurence-reporting-%EF%BF%BDproactive-approach-to-improving-safety-of-aviation?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cad.gov.rs/vest/10961/voluntary-occurence-reporting-%EF%BF%BDproactive-approach-to-improving-safety-of-aviation?lang=en</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2011/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2011/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2011/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-march-2011/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: avaz.ba  
    Title: preminuo jedan od najboljih pilota bivse jugoslavije suad hamzic  
-   Link: <a href="https://avaz.ba/vijesti/bih/481947/preminuo-jedan-od-najboljih-pilota-bivse-jugoslavije-suad-hamzic" target="_blank" rel="noopener noreferrer nofollow">https://avaz.ba/vijesti/bih/481947/preminuo-jedan-od-najboljih-pilota-bivse-jugoslavije-suad-hamzic</a>  
+   Link:<a href="https://avaz.ba/vijesti/bih/481947/preminuo-jedan-od-najboljih-pilota-bivse-jugoslavije-suad-hamzic" target="_blank" rel="noopener noreferrer nofollow">https://avaz.ba/vijesti/bih/481947/preminuo-jedan-od-najboljih-pilota-bivse-jugoslavije-suad-hamzic</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: youtube.com  
    Title: Mi G 29 against UFOs Serbia Belgrade  
-   Link: <a href="http://www.youtube.com/watch?v=S683GoaX5AA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S683GoaX5AA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=S683GoaX5AA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S683GoaX5AA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: <a href="http://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0FqCRPpg57c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0FqCRPpg57c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich...</p></details>
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ku9CYCKw4Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Speak Out (Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ku9CYCKw4Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Speak Out (Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=FD_AQiW15nI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FD_AQiW15nI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classified Soviet UFO Investigation Revealed - Russia’s Project Blue Book...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FD_AQiW15nI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FD_AQiW15nI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classified Soviet UFO Investigation Revealed - Russia’s Project Blue Book...</p></details>
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: youtube.com  
    Title: Classified Soviet UFO Investigation Revealed  
-   Link: <a href="http://www.youtube.com/watch?v=ps84WoWZRl0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ps84WoWZRl0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav Air Force UFO sightings pilots Belgrade Serbia *ACTUAL UFO FOOTAGE* Naval Ships Swarmed by UFOS | Ancient Aliens | #Shorts | His...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ps84WoWZRl0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ps84WoWZRl0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav Air Force UFO sightings pilots Belgrade Serbia *ACTUAL UFO FOOTAGE* Naval Ships Swarmed by UFOS | Ancient Aliens | #Shorts | His...</p></details>
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica moju susreti sa nlo  
-   Link: <a href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/</a>  
+   Link:<a href="https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2014/01/03/letacke-price-suada-hamzica-moju-susreti-sa-nlo/</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: sputnikglobe.com  
    Title: Sputnik International UFO vs Mi G: Former Air Force Commander Shares Bizarre  
-   Link: <a href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow">https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html</a>  
+   Link:<a href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow">https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: tangosix.rs  
    Title: Tango Six[VIDEO] Promocija knjige "Letačke priče" Suada Hamzića  
-   Link: <a href="https://tangosix.rs/2017/25/09/video-promocija-knjige-letacke-price-suada-hamzica-vojni-piloti-ne-pisu-zbog-straha-da-im-se-nece-verovati/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2017/25/09/video-promocija-knjige-letacke-price-suada-hamzica-vojni-piloti-ne-pisu-zbog-straha-da-im-se-nece-verovati/</a>  
+   Link:<a href="https://tangosix.rs/2017/25/09/video-promocija-knjige-letacke-price-suada-hamzica-vojni-piloti-ne-pisu-zbog-straha-da-im-se-nece-verovati/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2017/25/09/video-promocija-knjige-letacke-price-suada-hamzica-vojni-piloti-ne-pisu-zbog-straha-da-im-se-nece-verovati/</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: tangosix.rs  
-   Link: <a href="https://tangosix.rs/2015/23/01/letacke-price-suada-hamzica-ne-nize/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/23/01/letacke-price-suada-hamzica-ne-nize/</a>  
+   Link:<a href="https://tangosix.rs/2015/23/01/letacke-price-suada-hamzica-ne-nize/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/23/01/letacke-price-suada-hamzica-ne-nize/</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: tangosix.rs  
-   Link: <a href="https://tangosix.rs/2017/18/04/video-suad-hamzic-pilot-lovac-izvidjac-jna-posle-51-godine-u-kokpitu-svog-tanderdzeta/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2017/18/04/video-suad-hamzic-pilot-lovac-izvidjac-jna-posle-51-godine-u-kokpitu-svog-tanderdzeta/</a>  
+   Link:<a href="https://tangosix.rs/2017/18/04/video-suad-hamzic-pilot-lovac-izvidjac-jna-posle-51-godine-u-kokpitu-svog-tanderdzeta/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2017/18/04/video-suad-hamzic-pilot-lovac-izvidjac-jna-posle-51-godine-u-kokpitu-svog-tanderdzeta/</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: tangosix.rs  
    Title: video intervju na kafi sa suadom hamzicem  
-   Link: <a href="https://tangosix.rs/2013/04/10/video-intervju-na-kafi-sa-suadom-hamzicem/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/04/10/video-intervju-na-kafi-sa-suadom-hamzicem/</a>  
+   Link:<a href="https://tangosix.rs/2013/04/10/video-intervju-na-kafi-sa-suadom-hamzicem/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/04/10/video-intervju-na-kafi-sa-suadom-hamzicem/</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: tangosix.rs  
    Title: Suad Hamzić, Author at Tango Six  
-   Link: <a href="https://tangosix.rs/author/suad/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/author/suad/page/4/</a>  
+   Link:<a href="https://tangosix.rs/author/suad/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/author/suad/page/4/</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica nosna noga  
-   Link: <a href="https://tangosix.rs/2015/16/04/letacke-price-suada-hamzica-nosna-noga/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/16/04/letacke-price-suada-hamzica-nosna-noga/</a>  
+   Link:<a href="https://tangosix.rs/2015/16/04/letacke-price-suada-hamzica-nosna-noga/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/16/04/letacke-price-suada-hamzica-nosna-noga/</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: tangosix.rs  
    Title: neispricane letacke price suada hamzica tri rizicna sletanja curguz slobodana  
-   Link: <a href="https://tangosix.rs/2019/28/01/neispricane-letacke-price-suada-hamzica-tri-rizicna-sletanja-curguz-slobodana/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2019/28/01/neispricane-letacke-price-suada-hamzica-tri-rizicna-sletanja-curguz-slobodana/</a>  
+   Link:<a href="https://tangosix.rs/2019/28/01/neispricane-letacke-price-suada-hamzica-tri-rizicna-sletanja-curguz-slobodana/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2019/28/01/neispricane-letacke-price-suada-hamzica-tri-rizicna-sletanja-curguz-slobodana/</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: tangosix.rs  
-   Link: <a href="https://tangosix.rs/2017/07/04/najvaznija-vest-ove-godine-knjiga-suada-hamzica-letacke-price-uskoro-u-prodaji-rezervisite-vas-primerak-na-vreme/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2017/07/04/najvaznija-vest-ove-godine-knjiga-suada-hamzica-letacke-price-uskoro-u-prodaji-rezervisite-vas-primerak-na-vreme/</a>  
+   Link:<a href="https://tangosix.rs/2017/07/04/najvaznija-vest-ove-godine-knjiga-suada-hamzica-letacke-price-uskoro-u-prodaji-rezervisite-vas-primerak-na-vreme/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2017/07/04/najvaznija-vest-ove-godine-knjiga-suada-hamzica-letacke-price-uskoro-u-prodaji-rezervisite-vas-primerak-na-vreme/</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: tangosix.rs  
    Title: neispricane letacke price suada hamzica podvig  
-   Link: <a href="https://tangosix.rs/2019/11/02/neispricane-letacke-price-suada-hamzica-podvig/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2019/11/02/neispricane-letacke-price-suada-hamzica-podvig/</a>  
+   Link:<a href="https://tangosix.rs/2019/11/02/neispricane-letacke-price-suada-hamzica-podvig/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2019/11/02/neispricane-letacke-price-suada-hamzica-podvig/</a>  
 
-92. <a id="endnote-92"></a>
+92.<a id="endnote-92"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica olujna noc  
-   Link: <a href="https://tangosix.rs/2015/05/02/letacke-price-suada-hamzica-olujna-noc/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/05/02/letacke-price-suada-hamzica-olujna-noc/</a>  
+   Link:<a href="https://tangosix.rs/2015/05/02/letacke-price-suada-hamzica-olujna-noc/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/05/02/letacke-price-suada-hamzica-olujna-noc/</a>  
 
-93. <a id="endnote-93"></a>
+93.<a id="endnote-93"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica awacs u nisanu  
-   Link: <a href="https://tangosix.rs/2013/13/06/letacke-price-suada-hamzica-awacs-u-nisanu/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/13/06/letacke-price-suada-hamzica-awacs-u-nisanu/</a>  
+   Link:<a href="https://tangosix.rs/2013/13/06/letacke-price-suada-hamzica-awacs-u-nisanu/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/13/06/letacke-price-suada-hamzica-awacs-u-nisanu/</a>  
 
-94. <a id="endnote-94"></a>
+94.<a id="endnote-94"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica kako sam ucio da letim supertajni avion  
-   Link: <a href="https://tangosix.rs/2013/05/07/letacke-price-suada-hamzica-kako-sam-ucio-da-letim-supertajni-avion/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/05/07/letacke-price-suada-hamzica-kako-sam-ucio-da-letim-supertajni-avion/</a>  
+   Link:<a href="https://tangosix.rs/2013/05/07/letacke-price-suada-hamzica-kako-sam-ucio-da-letim-supertajni-avion/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/05/07/letacke-price-suada-hamzica-kako-sam-ucio-da-letim-supertajni-avion/</a>  
 
-95. <a id="endnote-95"></a>
+95.<a id="endnote-95"></a>
    Source: tangosix.rs  
-   Link: <a href="https://tangosix.rs/2015/13/02/pilot-jna-o-jugoslaviji-nikada-nije-bilo-ovako-plemenite-zemlje-niti-ce-je-ikada-biti/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/13/02/pilot-jna-o-jugoslaviji-nikada-nije-bilo-ovako-plemenite-zemlje-niti-ce-je-ikada-biti/</a>  
+   Link:<a href="https://tangosix.rs/2015/13/02/pilot-jna-o-jugoslaviji-nikada-nije-bilo-ovako-plemenite-zemlje-niti-ce-je-ikada-biti/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2015/13/02/pilot-jna-o-jugoslaviji-nikada-nije-bilo-ovako-plemenite-zemlje-niti-ce-je-ikada-biti/</a>  
 
-96. <a id="endnote-96"></a>
+96.<a id="endnote-96"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica sejbr elektronika i jedan falicni forsaz  
-   Link: <a href="https://tangosix.rs/2013/10/10/letacke-price-suada-hamzica-sejbr-elektronika-i-jedan-falicni-forsaz/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/10/10/letacke-price-suada-hamzica-sejbr-elektronika-i-jedan-falicni-forsaz/</a>  
+   Link:<a href="https://tangosix.rs/2013/10/10/letacke-price-suada-hamzica-sejbr-elektronika-i-jedan-falicni-forsaz/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/10/10/letacke-price-suada-hamzica-sejbr-elektronika-i-jedan-falicni-forsaz/</a>  
 
-97. <a id="endnote-97"></a>
+97.<a id="endnote-97"></a>
    Source: tangosix.rs  
    Title: letacke price suada hamzica zeljava  
-   Link: <a href="https://tangosix.rs/2013/01/06/letacke-price-suada-hamzica-zeljava/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/01/06/letacke-price-suada-hamzica-zeljava/</a>  
+   Link:<a href="https://tangosix.rs/2013/01/06/letacke-price-suada-hamzica-zeljava/" target="_blank" rel="noopener noreferrer nofollow">https://tangosix.rs/2013/01/06/letacke-price-suada-hamzica-zeljava/</a>  
 
-98. <a id="endnote-98"></a>
+98.<a id="endnote-98"></a>
    Source: Wikipedia  
    Title: Suad Hamzić  
-   Link: <a href="https://sh.wikipedia.org/wiki/Suad_Hamzi%C4%87" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Suad_Hamzi%C4%87</a>  
+   Link:<a href="https://sh.wikipedia.org/wiki/Suad_Hamzi%C4%87" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Suad_Hamzi%C4%87</a>  
 
-99. <a id="endnote-99"></a>
+99.<a id="endnote-99"></a>
    Source: Wikipedia  
    Title: Military Archives of Serbia  
-   Link: <a href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Military_Archives_of_Serbia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Military_Archives_of_Serbia</a>  
 
-100. <a id="endnote-100"></a>
+100.<a id="endnote-100"></a>
    Source: vs.rs  
-   Link: <a href="https://www.vs.rs/en" target="_blank" rel="noopener noreferrer nofollow">https://www.vs.rs/en</a>  
+   Link:<a href="https://www.vs.rs/en" target="_blank" rel="noopener noreferrer nofollow">https://www.vs.rs/en</a>  
 
 ### Additional References
 
-101. <a id="endnote-101"></a>
+101.<a id="endnote-101"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/3159998/The_League_against_Imperialism_The_Most_Valuable_Organizational_Tool_for_Bolshevik_Propaganda_In_the_Imperialist_and_Colonial_World_During_the_Interwar_Era_Synopsis_of_a_doctoral_thesis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3159998/The_League_against_Imperialism_The_Most_Valuable_Organizational_Tool_for_Bolshevik_Propaganda_In_the_Imperialist_and_Colonial_World_During_the_Interwar_Era_Synopsis_of_a_doctoral_thesis</a>  
+   Link:<a href="https://www.academia.edu/3159998/The_League_against_Imperialism_The_Most_Valuable_Organizational_Tool_for_Bolshevik_Propaganda_In_the_Imperialist_and_Colonial_World_During_the_Interwar_Era_Synopsis_of_a_doctoral_thesis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3159998/The_League_against_Imperialism_The_Most_Valuable_Organizational_Tool_for_Bolshevik_Propaganda_In_the_Imperialist_and_Colonial_World_During_the_Interwar_Era_Synopsis_of_a_doctoral_thesis</a>  
 
-102. <a id="endnote-102"></a>
+102.<a id="endnote-102"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY3gjTKGRMD/?hl=pt-br&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY3gjTKGRMD/?hl=pt-br&amp;img_index=2</a>  
+   Link:<a href="https://www.instagram.com/p/DY3gjTKGRMD/?hl=pt-br&amp;img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY3gjTKGRMD/?hl=pt-br&amp;img_index=2</a>  
 
-103. <a id="endnote-103"></a>
+103.<a id="endnote-103"></a>
    Source: latest-ufo-sightings.net  
-   Link: <a href="https://www.latest-ufo-sightings.net/2017/08/air-force-commander-speaks-ufo-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2017/08/air-force-commander-speaks-ufo-experience.html</a>  
+   Link:<a href="https://www.latest-ufo-sightings.net/2017/08/air-force-commander-speaks-ufo-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2017/08/air-force-commander-speaks-ufo-experience.html</a>  
 
-104. <a id="endnote-104"></a>
+104.<a id="endnote-104"></a>
    Source: aeroisk.com  
-   Link: <a href="https://aeroisk.com/legal-info/rs/" target="_blank" rel="noopener noreferrer nofollow">https://aeroisk.com/legal-info/rs/</a>  
+   Link:<a href="https://aeroisk.com/legal-info/rs/" target="_blank" rel="noopener noreferrer nofollow">https://aeroisk.com/legal-info/rs/</a>  
 
-105. <a id="endnote-105"></a>
+105.<a id="endnote-105"></a>
    Source: aeroinside.com  
-   Link: <a href="https://www.aeroinside.com/airline/air-serbia" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroinside.com/airline/air-serbia</a>  
+   Link:<a href="https://www.aeroinside.com/airline/air-serbia" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroinside.com/airline/air-serbia</a>  
 
-106. <a id="endnote-106"></a>
+106.<a id="endnote-106"></a>
    Source: cbsaustin.com  
-   Link: <a href="https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+   Link:<a href="https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
-107. <a id="endnote-107"></a>
+107.<a id="endnote-107"></a>
    Source: abcnews4.com  
-   Link: <a href="https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+   Link:<a href="https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
-108. <a id="endnote-108"></a>
+108.<a id="endnote-108"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary</a>  
+   Link:<a href="https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary</a>  
 
-109. <a id="endnote-109"></a>
+109.<a id="endnote-109"></a>
    Source: ecc.bg  
-   Link: <a href="https://www.ecc.bg/en/blog/article/air-serbia" target="_blank" rel="noopener noreferrer nofollow">https://www.ecc.bg/en/blog/article/air-serbia</a>  
+   Link:<a href="https://www.ecc.bg/en/blog/article/air-serbia" target="_blank" rel="noopener noreferrer nofollow">https://www.ecc.bg/en/blog/article/air-serbia</a>  
 
-110. <a id="endnote-110"></a>
+110.<a id="endnote-110"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV8XK26kq-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV8XK26kq-4/</a>
+   Link:<a href="https://www.instagram.com/reel/DV8XK26kq-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV8XK26kq-4/</a>

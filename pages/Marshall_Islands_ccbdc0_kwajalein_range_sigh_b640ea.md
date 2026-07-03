@@ -254,14 +254,14 @@ image: /assets/images/Marshall_Islands_ccbdc0_kwajalein_range_sigh_b640ea-Illust
 
 ## Introduction
 
-Kwajalein Atoll is the closest thing the Marshall Islands has to a recurring UFO hotspot, but it is also the place where conventional explanations are strongest. The atoll hosts the Ronald Reagan Space and Missile Test Range, one of the most important American missile-testing and space-tracking facilities in the Pacific. That combination creates a persistent tension: unusual lights seen over Kwajalein can feel more significant because they occur near advanced military activity, yet the same military activity provides a long list of non-exotic explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+Kwajalein Atoll is the closest thing the Marshall Islands has to a recurring UFO hotspot, but it is also the place where conventional explanations are strongest. The atoll hosts the Ronald Reagan Space and Missile Test Range, one of the most important American missile-testing and space-tracking facilities in the Pacific. That combination creates a persistent tension: unusual lights seen over Kwajalein can feel more significant because they occur near advanced military activity, yet the same military activity provides a long list of non-exotic explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0_kwajalein_range_sigh_b640ea-Illustration-1-dark.svg" | relative_url }}" alt="Kwajalein illustration 1" data-theme-src-dark="{{ "/assets/images/Marshall_Islands_ccbdc0_kwajalein_range_sigh_b640ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Marshall_Islands_ccbdc0_kwajalein_range_sigh_b640ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The [public record]({{ 'public-record/' | relative_url }}) contains only a small number of identifiable Kwajalein UFO reports. The most discussed recent entry is a retrospective account of a 1977 sighting involving a star-like object that reportedly zigzagged in the night sky. Unlike famous UFO cases supported by multiple documents, radar records, photographs, or military investigations, the Kwajalein record remains thin. The real question is therefore not whether something strange was reported, but whether the unusual environment of a missile range changes how those reports should be interpreted.
 
 ## The 1977 star-like zigzag sighting
 
-The clearest publicly accessible Kwajalein UFO report is a National UFO Reporting Center (NUFORC) entry describing an event said to have occurred on 6 May 1977. According to the report, two observers on Kwajalein saw a white, star-like object that appeared almost stationary before making abrupt zigzag movements. The witness described the object as resembling a star rather than a structured craft and stated that the event lasted around fifteen minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 189516August 20, 2023 — Occurred: 1977-05-06 21:00 Local · Reported: 2025-05-10 16:18 Pacific · Duration: 15 mi...</span><span class="citation-popover-meta">Published: May 10, 2025</span></span></span>
+The clearest publicly accessible Kwajalein UFO report is a National UFO Reporting Center (NUFORC) entry describing an event said to have occurred on 6 May 1977. According to the report, two observers on Kwajalein saw a white, star-like object that appeared almost stationary before making abrupt zigzag movements. The witness described the object as resembling a star rather than a structured craft and stated that the event lasted around fifteen minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 189516August 20, 2023 — Occurred: 1977-05-06 21:00 Local · Reported: 2025-05-10 16:18 Pacific · Duration: 15 mi...</span><span class="citation-popover-meta">Published: May 10, 2025</span></span></span>
 
 Several features make the case noteworthy but also difficult to evaluate:
 
@@ -270,7 +270,7 @@ Several features make the case noteworthy but also difficult to evaluate:
 * The report was submitted decades after the alleged event.
 * No photographs, radar records, or contemporary documentation accompany it.
 * The reported appearance was that of a bright point of light rather than a clearly defined vehicle.
-* The account does not appear to have generated a known official investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=163458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 163458NUFORC UFO Sighting 163458. Occurred: 1968-08-16 21:00 Local - Approximate Reported: 2021-05-24 16:05 Pacific D...</span><span class="citation-popover-meta">Published: May 24, 2021</span></span></span>
+* The account does not appear to have generated a known official investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=163458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 163458NUFORC UFO Sighting 163458. Occurred: 1968-08-16 21:00 Local - Approximate Reported: 2021-05-24 16:05 Pacific D...</span><span class="citation-popover-meta">Published: May 24, 2021</span></span></span>
 
 </div>
 
@@ -284,9 +284,9 @@ The reported zigzag motion is also less straightforward than it first appears. H
 
 Many places generate UFO reports because they are densely populated. Kwajalein is unusual because its reports arise from the opposite situation: a remote environment filled with specialised aerospace activity.
 
-The Ronald Reagan Space and Missile Test Range covers an enormous area of the Pacific and supports missile-defence testing, missile tracking, radar operations, optical observation systems, space-domain awareness programmes, and launch-related activities. MIT Lincoln Laboratory describes it as a major facility for long-range missile testing and space operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+The Ronald Reagan Space and Missile Test Range covers an enormous area of the Pacific and supports missile-defence testing, missile tracking, radar operations, optical observation systems, space-domain awareness programmes, and launch-related activities. MIT Lincoln Laboratory describes it as a major facility for long-range missile testing and space operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
-The range's geography is particularly important. Long-range missile tests originating from North America frequently terminate near Kwajalein. Lawrence Livermore National Laboratory notes that Minuteman test launches travel thousands of kilometres across the Pacific toward target areas within the atoll region. During these flights, missile stages separate, re-entry vehicles manoeuvre, and various objects become visible at high altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://str.llnl.gov/past-issues/june-2019/testing-missile-technology-high-seas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: str.llnl.gov">[Science &amp; Technology Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">str.llnl.gov</span><span class="citation-popover-snippet">Science &amp; Technology ReviewTesting Missile Technology on the High SeasIn a typical test, a Minuteman III missile travels more than 7,700...</span></span></span>
+The range's geography is particularly important. Long-range missile tests originating from North America frequently terminate near Kwajalein. Lawrence Livermore National Laboratory notes that Minuteman test launches travel thousands of kilometres across the Pacific toward target areas within the atoll region. During these flights, missile stages separate, re-entry vehicles manoeuvre, and various objects become visible at high altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://str.llnl.gov/past-issues/june-2019/testing-missile-technology-high-seas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: str.llnl.gov">[Science &amp; Technology Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">str.llnl.gov</span><span class="citation-popover-snippet">Science &amp; Technology ReviewTesting Missile Technology on the High SeasIn a typical test, a Minuteman III missile travels more than 7,700...</span></span></span>
 
 For observers on or near the atoll, several ordinary range activities can look extraordinary:
 
@@ -297,7 +297,7 @@ For observers on or near the atoll, several ordinary range activities can look e
 * **Re-entry vehicles** creating bright streaks or glowing objects.
 * **Tracking targets and decoys** used during missile-defence tests.
 * **Optical calibration events** associated with instrumentation.
-* **Satellites and space debris** viewed under unusually dark sky conditions. Science & Technology Review <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+* **Satellites and space debris** viewed under unusually dark sky conditions. Science & Technology Review<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
 </div>
 
@@ -308,7 +308,7 @@ This does not mean every unusual sighting is automatically explained. It means t
 
 Kwajalein highlights a broader problem in UFO research: military test ranges are simultaneously attractive and misleading sources of mystery.
 
-On one hand, advanced aerospace programmes are genuinely conducted there. The range supports missile-defence experiments, strategic weapons testing, radar development, and space-tracking missions that are not part of everyday civilian life. U.S. military sources repeatedly describe the site as a unique national-security asset used for activities that cannot easily be performed elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacecom.mil/Newsroom/News/Article-Display/Article/4088814/rts-professionals-support-air-force-glory-trip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecom.mil">[U.S. Space Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecom.mil</span><span class="citation-popover-title">rts professionals support air force glory trip</span><span class="citation-popover-snippet">Space CommandRTS professionals support Air Force Glory TripRTS is a range and test facility located halfway between Hawaii and Australia...</span></span></span> [2U.S. Strategic Command]
+On one hand, advanced aerospace programmes are genuinely conducted there. The range supports missile-defence experiments, strategic weapons testing, radar development, and space-tracking missions that are not part of everyday civilian life. U.S. military sources repeatedly describe the site as a unique national-security asset used for activities that cannot easily be performed elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacecom.mil/Newsroom/News/Article-Display/Article/4088814/rts-professionals-support-air-force-glory-trip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecom.mil">[U.S. Space Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecom.mil</span><span class="citation-popover-title">rts professionals support air force glory trip</span><span class="citation-popover-snippet">Space CommandRTS professionals support Air Force Glory TripRTS is a range and test facility located halfway between Hawaii and Australia...</span></span></span> [2U.S. Strategic Command]
 
 On the other hand, that same reality makes misidentification more likely. A witness may correctly perceive that something unusual is occurring while incorrectly concluding that it is unexplained.
 
@@ -362,197 +362,197 @@ This standard is particularly important at Kwajalein because the local environme
 
 Within the broader Marshall Islands chronology, Kwajalein stands out less because of the number of reports than because of its context. Most locations in the country lack extensive aviation infrastructure, military instrumentation, or launch-related activity. Kwajalein has all three.
 
-As a result, it functions as the key testing ground for competing interpretations of Marshall Islands UFO claims. Believers often point to the concentration of advanced military operations as a reason to pay closer attention. Skeptics point to exactly the same factor as a reason to expect misidentified missile, aerospace, or space-related events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span> Lincoln Laboratory Wikipedia The available evidence currently favours caution over certainty. The 1977 zigzag-light report remains an interesting anecdote <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ronald Reagan Space and Missile Test Range</span><span class="citation-popover-snippet">Ronald Reagan Space and Missile Test RangeIt primarily functions as a test facility for U.S. missile defense and space research progra...</span></span></span>, but it lacks the documentation needed to establish it as a genuinely unexplained event. More broadly, Kwajalein demonstrates why the Marshall Islands UFO question cannot be separated from the atoll's decades-long role in missile testing, radar surveillance, and space operations. In this setting, strange lights are real, but unusual does not automatically mean unknown. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+As a result, it functions as the key testing ground for competing interpretations of Marshall Islands UFO claims. Believers often point to the concentration of advanced military operations as a reason to pay closer attention. Skeptics point to exactly the same factor as a reason to expect misidentified missile, aerospace, or space-related events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span> Lincoln Laboratory Wikipedia The available evidence currently favours caution over certainty. The 1977 zigzag-light report remains an interesting anecdote<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ronald Reagan Space and Missile Test Range</span><span class="citation-popover-snippet">Ronald Reagan Space and Missile Test RangeIt primarily functions as a test facility for U.S. missile defense and space research progra...</span></span></span>, but it lacks the documentation needed to establish it as a genuinely unexplained event. More broadly, Kwajalein demonstrates why the Marshall Islands UFO question cannot be separated from the atoll's decades-long role in missile testing, radar surveillance, and space operations. In this setting, strange lights are real, but unusual does not automatically mean unknown. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Kwajalein UFOs Really Missile Range Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Kwajalein UFOs Really Missile Range Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing a sparse sighting report such as the 1977 Kwajalein case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing a sparse sighting report such as the 1977 Kwajalein case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Demonstrates how restricted test facilities generate UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how restricted test facilities generate UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides benchmarks for stronger witness cases and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides benchmarks for stronger witness cases and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains how advanced aerospace activity can produce unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how advanced aerospace activity can produce unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-kwajalein-ufos-really-missile-range-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-kwajalein-ufos-really-missile-range-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ As a result, it functions as the key testing ground for competing interpretation
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ As a result, it functions as the key testing ground for competing interpretation
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ As a result, it functions as the key testing ground for competing interpretation
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ As a result, it functions as the key testing ground for competing interpretation
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ As a result, it functions as the key testing ground for competing interpretation
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,116 +755,115 @@ As a result, it functions as the key testing ground for competing interpretation
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ll.mit.edu  
-   Link: <a href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/about/facilities/reagan-test-site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</p></details>
+   Link:<a href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/about/facilities/reagan-test-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189516" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189516August 20, 2023 — Occurred: 1977-05-06 21:00 Local · Reported: 2025-05-10 16:18 Pacific · Duration: 15 mi...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=189516" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189516August 20, 2023 — Occurred: 1977-05-06 21:00 Local · Reported: 2025-05-10 16:18 Pacific · Duration: 15 mi...</p></details>
    Published: May 10, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spacecom.mil  
    Title: rts professionals support air force glory trip  
-   Link: <a href="https://www.spacecom.mil/Newsroom/News/Article-Display/Article/4088814/rts-professionals-support-air-force-glory-trip/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecom.mil/Newsroom/News/Article-Display/Article/4088814/rts-professionals-support-air-force-glory-trip/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space CommandRTS professionals support Air Force Glory TripRTS is a range and test facility located halfway between Hawaii and Australia...</p></details>
+   Link:<a href="https://www.spacecom.mil/Newsroom/News/Article-Display/Article/4088814/rts-professionals-support-air-force-glory-trip/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecom.mil/Newsroom/News/Article-Display/Article/4088814/rts-professionals-support-air-force-glory-trip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space CommandRTS professionals support Air Force Glory TripRTS is a range and test facility located halfway between Hawaii and Australia...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stratcom.mil  
    Title: commander witnesses rts professionalism  
-   Link: <a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/3817199/stratcom-commander-witnesses-rts-professionalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/3817199/stratcom-commander-witnesses-rts-professionalism/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic CommandSTRATCOM commander witnesses RTS professionalism7 Jun 2024 — “Simply put, the mission of Ronald Reagan Ballistic Missile...</p></details>
+   Link:<a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/3817199/stratcom-commander-witnesses-rts-professionalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/3817199/stratcom-commander-witnesses-rts-professionalism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic CommandSTRATCOM commander witnesses RTS professionalism7 Jun 2024 — “Simply put, the mission of Ronald Reagan Ballistic Missile...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Ronald Reagan Space and Missile Test Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald Reagan Space and Missile Test RangeIt primarily functions as a test facility for U.S. missile defense and space research progra...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald Reagan Space and Missile Test RangeIt primarily functions as a test facility for U.S. missile defense and space research progra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=163458" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163458</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 163458NUFORC UFO Sighting 163458. Occurred: 1968-08-16 21:00 Local - Approximate Reported: 2021-05-24 16:05 Pacific D...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=163458" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 163458NUFORC UFO Sighting 163458. Occurred: 1968-08-16 21:00 Local - Approximate Reported: 2021-05-24 16:05 Pacific D...</p></details>
    Published: May 24, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197712" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197712</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197712NUFORC Reports for Month 197712; Open, 12/23/1977 09:00, Lancaster; Open, 12/20/1977 21:00, Uxmal (Mexic...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197712" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197712</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197712NUFORC Reports for Month 197712; Open, 12/23/1977 09:00, Lancaster; Open, 12/20/1977 21:00, Uxmal (Mexic...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse MarcelThe Roswell UFO Crash: What They Don&#x27;t Want You to Know. Random House... Kwajalein Atoll Lagoons, Republic of the Marshal...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse MarcelThe Roswell UFO Crash: What They Don&#x27;t Want You to Know. Random House... Kwajalein Atoll Lagoons, Republic of the Marshal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ronald (song)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ronald_%28song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_%28song%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald (song)&quot;Ronald&quot; is a song by American rock band Falling in Reverse, featuring American rapper Tech N9ne and Russian singer Alex...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ronald_%28song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_%28song%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald (song)&quot;Ronald&quot; is a song by American rock band Falling in Reverse, featuring American rapper Tech N9ne and Russian singer Alex...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: str.llnl.gov  
-   Link: <a href="https://str.llnl.gov/past-issues/june-2019/testing-missile-technology-high-seas" target="_blank" rel="noopener noreferrer nofollow">https://str.llnl.gov/past-issues/june-2019/testing-missile-technology-high-seas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Technology ReviewTesting Missile Technology on the High SeasIn a typical test, a Minuteman III missile travels more than 7,700...</p></details>
+   Link:<a href="https://str.llnl.gov/past-issues/june-2019/testing-missile-technology-high-seas" target="_blank" rel="noopener noreferrer nofollow">https://str.llnl.gov/past-issues/june-2019/testing-missile-technology-high-seas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Technology ReviewTesting Missile Technology on the High SeasIn a typical test, a Minuteman III missile travels more than 7,700...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/Photos/igphoto/2002191715/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2002191715/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kwajalein SkyA threat-representative ICBM target launches from the Ronald Reagan Ballistic Missile Defense Test Site on Kwajalein Atoll i...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Photos/igphoto/2002191715/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2002191715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kwajalein SkyA threat-representative ICBM target launches from the Ronald Reagan Ballistic Missile Defense Test Site on Kwajalein Atoll i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?id=1002873924&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=1002873924&amp;source=osm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald Reagan Ballistic Missile Defense Test SiteThe Reagan Test Site is a vast missile test range (750,000 sq mi) in the Marshall Island...</p></details>
+   Link:<a href="https://mapy.com/en/?id=1002873924&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=1002873924&amp;source=osm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald Reagan Ballistic Missile Defense Test SiteThe Reagan Test Site is a vast missile test range (750,000 sq mi) in the Marshall Island...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2442664166171222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2442664166171222/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Tiru crew encounters a UFO in the Pacific OceanThe Captain stood patiently while Ensign Ball tried to describe what he had seen. He g...</p></details>
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2442664166171222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2442664166171222/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Tiru crew encounters a UFO in the Pacific OceanThe Captain stood patiently while Ensign Ball tried to describe what he had seen. He g...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAG Kwajalein Atoll and the Ronald Reagan Ballistic Missile...The Reagan test site is unique in the fact that it contributes towards ou...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAG Kwajalein Atoll and the Ronald Reagan Ballistic Missile...The Reagan test site is unique in the fact that it contributes towards ou...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bechtel.com  
-   Link: <a href="https://www.bechtel.com/projects/reagan-test-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.bechtel.com/projects/reagan-test-site/</a>  
+   Link:<a href="https://www.bechtel.com/projects/reagan-test-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.bechtel.com/projects/reagan-test-site/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: outono.net  
-   Link: <a href="https://www.outono.net/elentir/2022/10/27/kwajalein-a-huge-graveyard-with-about-160-world-war-ii-aircraft-at-the-bottom-of-the-sea/" target="_blank" rel="noopener noreferrer nofollow">https://www.outono.net/elentir/2022/10/27/kwajalein-a-huge-graveyard-with-about-160-world-war-ii-aircraft-at-the-bottom-of-the-sea/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kwajalein: a huge graveyard with about 160 World War II...27 Oct 2022 — The Kwajalein atoll is one of the largest aircraft cemeteries of...</p></details>
+   Link:<a href="https://www.outono.net/elentir/2022/10/27/kwajalein-a-huge-graveyard-with-about-160-world-war-ii-aircraft-at-the-bottom-of-the-sea/" target="_blank" rel="noopener noreferrer nofollow">https://www.outono.net/elentir/2022/10/27/kwajalein-a-huge-graveyard-with-about-160-world-war-ii-aircraft-at-the-bottom-of-the-sea/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kwajalein: a huge graveyard with about 160 World War II...27 Oct 2022 — The Kwajalein atoll is one of the largest aircraft cemeteries of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: smdc.army.mil  
-   Link: <a href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Garrison-Kwajalein Atoll... It serves a vital role in space operations with U.S. Strategic. Command and in...Read more...</p></details>
+   Link:<a href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/RTS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Garrison-Kwajalein Atoll... It serves a vital role in space operations with U.S. Strategic. Command and in...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/604144/dempsey-visits-strategic-remote-kwajalein-atoll/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/604144/dempsey-visits-strategic-remote-kwajalein-atoll/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dempsey Visits Strategic, Remote Kwajalein Atoll21 Feb 2015 — The atoll, located more than 2,000 miles southwest of Honolulu, is home to...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/604144/dempsey-visits-strategic-remote-kwajalein-atoll/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/604144/dempsey-visits-strategic-remote-kwajalein-atoll/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dempsey Visits Strategic, Remote Kwajalein Atoll21 Feb 2015 — The atoll, located more than 2,000 miles southwest of Honolulu, is home to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: afnwc.af.mil  
    Title: mil Minuteman III test launch showcases readiness of U.S  
-   Link: <a href="https://www.afnwc.af.mil/News/Article-Display/Article/4193898/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow">https://www.afnwc.af.mil/News/Article-Display/Article/4193898/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2025 — ICBM test launches demonstrate that the US ICBM fleet is ready, reliable and effective in leveraging dominance in an era o...</p></details>
+   Link:<a href="https://www.afnwc.af.mil/News/Article-Display/Article/4193898/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow">https://www.afnwc.af.mil/News/Article-Display/Article/4193898/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2025 — ICBM test launches demonstrate that the US ICBM fleet is ready, reliable and effective in leveraging dominance in an era o...</p></details>
    Published: May 21, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: afgsc.af.mil  
    Title: reagan test site supports air force glory trip  
-   Link: <a href="https://www.afgsc.af.mil/News/Article-Display/Article/2399785/reagan-test-site-supports-air-force-glory-trip/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/2399785/reagan-test-site-supports-air-force-glory-trip/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Global Strike CommandReagan Test Site supports Air Force Glory TripOct 30, 2020 — ROC-H is the command and control facility for...</p></details>
+   Link:<a href="https://www.afgsc.af.mil/News/Article-Display/Article/2399785/reagan-test-site-supports-air-force-glory-trip/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/2399785/reagan-test-site-supports-air-force-glory-trip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Global Strike CommandReagan Test Site supports Air Force Glory TripOct 30, 2020 — ROC-H is the command and control facility for...</p></details>

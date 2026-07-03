@@ -251,27 +251,27 @@ image: /assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-
 Long before the 1978 Kaikōura sightings made New Zealand internationally known in UFO circles, the country had already accumulated a curious record of aerial mysteries. The earliest stories were not about metallic flying saucers. They emerged during the age of newspapers, steamships and experimental aviation, when reports of strange lights and alleged airships spread through towns that had never seen a powered aircraft. Later decades added closer encounters, claimed landing traces and stories of physical evidence that seemed harder to dismiss than a distant light in the sky.
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-dark.svg" | relative_url }}" alt="Early Cases illustration 1" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-These early cases matter because they reveal how New Zealand’s UFO tradition developed. They show the interaction between witness testimony, media excitement, official investigation and sceptical re-examination. Some incidents remain unexplained in a narrow sense; others appear to have been amplified by rumour, expectation or weak evidence. Together they created the framework through which later New Zealand UFO reports would be interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span>
+These early cases matter because they reveal how New Zealand’s UFO tradition developed. They show the interaction between witness testimony, media excitement, official investigation and sceptical re-examination. Some incidents remain unexplained in a narrow sense; others appear to have been amplified by rumour, expectation or weak evidence. Together they created the framework through which later New Zealand UFO reports would be interpreted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span>
 
 ## The 1909 mystery airship wave
 
-The first major New Zealand UFO flap arrived in the winter of 1909. Newspapers across the country reported sightings of what witnesses called “airships”, “phantom ships” or mysterious aerial lights. The reports began in the South Island, particularly in Otago and Southland, before spreading northward through press coverage and public discussion. Ufocus NZ <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">the new zealand ufo wave of 1909 by tony brunt1967</span><span class="citation-popover-snippet">Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</span></span></span>
+The first major New Zealand UFO flap arrived in the winter of 1909. Newspapers across the country reported sightings of what witnesses called “airships”, “phantom ships” or mysterious aerial lights. The reports began in the South Island, particularly in Otago and Southland, before spreading northward through press coverage and public discussion. Ufocus NZ<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">the new zealand ufo wave of 1909 by tony brunt1967</span><span class="citation-popover-snippet">Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</span></span></span>
 
-What made the wave remarkable was its timing. New Zealand had no operational aircraft at the time, and powered flight remained a novelty even overseas. Yet witnesses described moving lights, elongated craft shapes, apparent searchlights and, in some accounts, visible occupants. Contemporary newspapers treated the reports seriously enough to dispatch reporters and publish lengthy investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paperspast.natlib.govt.nz">[Papers Past]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paperspast.natlib.govt.nz</span><span class="citation-popover-snippet">ls it an airship? That is the question which people are seriously asking themselves concerning the...</span></span></span>
+What made the wave remarkable was its timing. New Zealand had no operational aircraft at the time, and powered flight remained a novelty even overseas. Yet witnesses described moving lights, elongated craft shapes, apparent searchlights and, in some accounts, visible occupants. Contemporary newspapers treated the reports seriously enough to dispatch reporters and publish lengthy investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paperspast.natlib.govt.nz">[Papers Past]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paperspast.natlib.govt.nz</span><span class="citation-popover-snippet">ls it an airship? That is the question which people are seriously asking themselves concerning the...</span></span></span>
 
 ### Why people took the sightings seriously
 
-Many accounts came from railway workers, farmers, dredge operators and other witnesses regarded locally as reliable. One frequently cited report involved the driver of a train near Greymouth who observed a powerful light appearing to rise and fall over the sea before approaching the harbour. Other reports described lights manoeuvring in ways that observers thought exceeded known technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span>
+Many accounts came from railway workers, farmers, dredge operators and other witnesses regarded locally as reliable. One frequently cited report involved the driver of a train near Greymouth who observed a powerful light appearing to rise and fall over the sea before approaching the harbour. Other reports described lights manoeuvring in ways that observers thought exceeded known technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span>
 
-The atmosphere of 1909 helped the stories spread. Newspapers regularly covered aviation breakthroughs overseas, especially dirigibles and Zeppelins. Reports of experimental aircraft elsewhere made the idea of a secret flying machine seem plausible. Historians studying international “mystery airship” waves have noted that similar scares appeared in several countries during the same period. JSTOR Daily <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airshipIn 1909, a series of mystery airship sightings reported around New England... Airship sightings were also reported fro...</span></span></span>, rumours quickly escalated. Some stories claimed an airship had landed. Others alleged that German inventors were secretly testing advanced craft. A few reports even suggested human figures could be seen aboard. The combination of technological excitement and incomplete information created ideal conditions for a nationwide mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: articles.skeptics.nz">[NZ Skeptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">articles.skeptics.nz</span><span class="citation-popover-title">the great zeppelin scare of 1909</span><span class="citation-popover-snippet">NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</span><span class="citation-popover-meta">Published: May 1998</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">the new zealand ufo wave of 1909 by tony brunt1967</span><span class="citation-popover-snippet">Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</span></span></span>
+The atmosphere of 1909 helped the stories spread. Newspapers regularly covered aviation breakthroughs overseas, especially dirigibles and Zeppelins. Reports of experimental aircraft elsewhere made the idea of a secret flying machine seem plausible. Historians studying international “mystery airship” waves have noted that similar scares appeared in several countries during the same period. JSTOR Daily<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airshipIn 1909, a series of mystery airship sightings reported around New England... Airship sightings were also reported fro...</span></span></span>, rumours quickly escalated. Some stories claimed an airship had landed. Others alleged that German inventors were secretly testing advanced craft. A few reports even suggested human figures could be seen aboard. The combination of technological excitement and incomplete information created ideal conditions for a nationwide mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: articles.skeptics.nz">[NZ Skeptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">articles.skeptics.nz</span><span class="citation-popover-title">the great zeppelin scare of 1909</span><span class="citation-popover-snippet">NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</span><span class="citation-popover-meta">Published: May 1998</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">the new zealand ufo wave of 1909 by tony brunt1967</span><span class="citation-popover-snippet">Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</span></span></span>
 
 ### What later researchers found
 
-Later investigators reached more cautious conclusions. Research published in New Zealand UFO and historical circles has shown that many reports appeared after extensive newspaper publicity, suggesting a strong contagion effect. Once the “airship” idea became familiar, ordinary lights in the sky could be interpreted through that narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocusnz.org.nz">[Ufocus NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocusnz.org.nz</span><span class="citation-popover-title">the 1909 kelso airships of new zealand</span><span class="citation-popover-snippet">The phenomenon began in the southernmost part of the country, spread northwards.Read more...</span></span></span>
+Later investigators reached more cautious conclusions. Research published in New Zealand UFO and historical circles has shown that many reports appeared after extensive newspaper publicity, suggesting a strong contagion effect. Once the “airship” idea became familiar, ordinary lights in the sky could be interpreted through that narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocusnz.org.nz">[Ufocus NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocusnz.org.nz</span><span class="citation-popover-title">the 1909 kelso airships of new zealand</span><span class="citation-popover-snippet">The phenomenon began in the southernmost part of the country, spread northwards.Read more...</span></span></span>
 
-Sceptics have proposed several [explanations]({{ 'explanations-61f9e4/' | relative_url }}) for individual sightings, including bright planets, the Moon, atmospheric effects and misidentified lights seen under unusual viewing conditions. Some reported details are difficult to verify because the surviving evidence consists largely of newspaper accounts rather than direct witness records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: articles.skeptics.nz">[NZ Skeptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">articles.skeptics.nz</span><span class="citation-popover-title">the great zeppelin scare of 1909</span><span class="citation-popover-snippet">NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</span><span class="citation-popover-meta">Published: May 1998</span></span></span>
+Sceptics have proposed several [explanations]({{ 'explanations-61f9e4/' | relative_url }}) for individual sightings, including bright planets, the Moon, atmospheric effects and misidentified lights seen under unusual viewing conditions. Some reported details are difficult to verify because the surviving evidence consists largely of newspaper accounts rather than direct witness records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: articles.skeptics.nz">[NZ Skeptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">articles.skeptics.nz</span><span class="citation-popover-title">the great zeppelin scare of 1909</span><span class="citation-popover-snippet">NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</span><span class="citation-popover-meta">Published: May 1998</span></span></span>
 
-Yet the 1909 wave remains historically significant. It demonstrates that New Zealand experienced organised UFO-like reporting decades before the flying-saucer era. The phenomenon also reveals how public expectations can shape descriptions of unexplained aerial events. What later generations would call UFOs were, in 1909, interpreted as mysterious airships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span>
+Yet the 1909 wave remains historically significant. It demonstrates that New Zealand experienced organised UFO-like reporting decades before the flying-saucer era. The phenomenon also reveals how public expectations can shape descriptions of unexplained aerial events. What later generations would call UFOs were, in 1909, interpreted as mysterious airships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/caHKLEnNahk" title="South Island N Z Mystery Airship Blitz of 1909" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=caHKLEnNahk" target="_blank" rel="noopener noreferrer">South Island N Z Mystery Airship Blitz of 1909</a></p><p class="youtube-embed-meta">Channel: Interesting Fingz &middot; Views: 1.8K &middot; Uploaded: March 2021 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=caHKLEnNahk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=caHKLEnNahk">Open on YouTube</a></p></div></div></div>
 
@@ -279,44 +279,44 @@ Yet the 1909 wave remains historically significant. It demonstrates that New Zea
 
 If the 1909 wave was largely a story of distant lights, the Moreland case of 1959 moved the mystery much closer to the ground.
 
-On 13 July 1959, Marlborough farmer Eileen Moreland reported an encounter while preparing to bring in her dairy herd before dawn. According to her account, she observed a glowing object hovering at relatively low altitude near her property. She later described seeing what appeared to be two human-sized figures inside or associated with the craft. The sighting lasted only a few minutes, but its details distinguished it from many ordinary light reports. Ufocus NZ <span class="citation-chip-wrap"><a class="citation-chip" href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[2theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">moreland revelations</span><span class="citation-popover-snippet">The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</span><span class="citation-popover-meta">Published: July 1959</span></span></span>
+On 13 July 1959, Marlborough farmer Eileen Moreland reported an encounter while preparing to bring in her dairy herd before dawn. According to her account, she observed a glowing object hovering at relatively low altitude near her property. She later described seeing what appeared to be two human-sized figures inside or associated with the craft. The sighting lasted only a few minutes, but its details distinguished it from many ordinary light reports. Ufocus NZ<span class="citation-chip-wrap"><a class="citation-chip" href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[2theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">moreland revelations</span><span class="citation-popover-snippet">The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</span><span class="citation-popover-meta">Published: July 1959</span></span></span>
 
-The case attracted substantial attention because investigators considered Moreland a credible witness. Journalistic and later archival accounts note that police and investigators found her calm and consistent rather than sensationalist. One investigator, journalist Tom Gainsford, reportedly concluded that she appeared rational and sincere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interactives.stuff.co.nz">[interactives.stuff.co.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interactives.stuff.co.nz</span><span class="citation-popover-snippet">Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</span></span></span>
+The case attracted substantial attention because investigators considered Moreland a credible witness. Journalistic and later archival accounts note that police and investigators found her calm and consistent rather than sensationalist. One investigator, journalist Tom Gainsford, reportedly concluded that she appeared rational and sincere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interactives.stuff.co.nz">[interactives.stuff.co.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interactives.stuff.co.nz</span><span class="citation-popover-snippet">Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</span></span></span>
 
 ### Why the case survived in New Zealand UFO history
 
 Several factors elevated the Moreland encounter above a typical UFO report.
 
-First, there was a corroborating observation. Farmer Roy Holdaway, living several kilometres away, reported seeing a bright light in the area around the relevant time. Although he did not witness the close encounter itself, his account provided independent support that something unusual may have been visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interactives.stuff.co.nz">[interactives.stuff.co.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interactives.stuff.co.nz</span><span class="citation-popover-snippet">Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</span></span></span>
+First, there was a corroborating observation. Farmer Roy Holdaway, living several kilometres away, reported seeing a bright light in the area around the relevant time. Although he did not witness the close encounter itself, his account provided independent support that something unusual may have been visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interactives.stuff.co.nz">[interactives.stuff.co.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interactives.stuff.co.nz</span><span class="citation-popover-snippet">Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</span></span></span>
 
-Second, the case entered official channels. Material relating to the sighting later appeared within New Zealand Defence Force UFO files released to the public decades afterward. Those files include correspondence, media inquiries and investigative material connected with the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">RNZAF report on.Read more</span><span class="citation-popover-snippet">NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
+Second, the case entered official channels. Material relating to the sighting later appeared within New Zealand Defence Force UFO files released to the public decades afterward. Those files include correspondence, media inquiries and investigative material connected with the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">RNZAF report on.Read more</span><span class="citation-popover-snippet">NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
 
-Third, the story contained elements that UFO researchers traditionally regard as significant: a low-level object, apparent occupants and a detailed witness narrative. Such features ensured that the Moreland encounter remained one of the country's most frequently discussed pre-Kaikōura cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">moreland revelations</span><span class="citation-popover-snippet">The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</span><span class="citation-popover-meta">Published: July 1959</span></span></span>
+Third, the story contained elements that UFO researchers traditionally regard as significant: a low-level object, apparent occupants and a detailed witness narrative. Such features ensured that the Moreland encounter remained one of the country's most frequently discussed pre-Kaikōura cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[theozfiles.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">moreland revelations</span><span class="citation-popover-snippet">The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</span><span class="citation-popover-meta">Published: July 1959</span></span></span>
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-2-dark.svg" | relative_url }}" alt="Early Cases illustration 2" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The limits of the evidence
 
 Despite its reputation, the Moreland case has important weaknesses.
 
-No photographs, physical traces or instrumented measurements confirmed the event. The strongest evidence remains witness testimony. While sincerity can support credibility, it cannot independently establish what was observed. The reported occupants, often highlighted in later retellings, are particularly difficult to evaluate because they rely entirely on Moreland's perception during a brief and unusual encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocusnz.org.nz">[Ufocus NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocusnz.org.nz</span><span class="citation-popover-title">the moreland sighting 1959</span><span class="citation-popover-snippet">Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</span></span></span>
+No photographs, physical traces or instrumented measurements confirmed the event. The strongest evidence remains witness testimony. While sincerity can support credibility, it cannot independently establish what was observed. The reported occupants, often highlighted in later retellings, are particularly difficult to evaluate because they rely entirely on Moreland's perception during a brief and unusual encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocusnz.org.nz">[Ufocus NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocusnz.org.nz</span><span class="citation-popover-title">the moreland sighting 1959</span><span class="citation-popover-snippet">Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</span></span></span>
 
-For that reason, the case occupies an ambiguous position in New Zealand UFO history. It is stronger than many reports because of the witness quality and official documentation, yet it remains far from conclusive. Researchers who favour extraordinary explanations view it as one of the country's classic close encounters; sceptics see an honest but ultimately unverified report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">RNZAF report on.Read more</span><span class="citation-popover-snippet">NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
+For that reason, the case occupies an ambiguous position in New Zealand UFO history. It is stronger than many reports because of the witness quality and official documentation, yet it remains far from conclusive. Researchers who favour extraordinary explanations view it as one of the country's classic close encounters; sceptics see an honest but ultimately unverified report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">RNZAF report on.Read more</span><span class="citation-popover-snippet">NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span>
 
 ## The Ngatea landing trace claims
 
 A decade later, New Zealand produced one of its most famous alleged physical-evidence cases.
 
-In September 1969, a farmer near Ngātea on the Hauraki Plains discovered a strange circular area within mānuka scrub. Reports described a roughly circular zone of damaged vegetation, silvered and dying plant growth, and three deep impressions arranged in a triangular pattern. Because the marks appeared suddenly and lacked an obvious explanation, speculation quickly centred on a UFO landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.co.nz">[AA New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.co.nz</span><span class="citation-popover-title">ngatea crop circles did aliens visit the waikato</span><span class="citation-popover-snippet">AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</span><span class="citation-popover-meta">Published: September 1969</span></span></span>
+In September 1969, a farmer near Ngātea on the Hauraki Plains discovered a strange circular area within mānuka scrub. Reports described a roughly circular zone of damaged vegetation, silvered and dying plant growth, and three deep impressions arranged in a triangular pattern. Because the marks appeared suddenly and lacked an obvious explanation, speculation quickly centred on a UFO landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.co.nz">[AA New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.co.nz</span><span class="citation-popover-title">ngatea crop circles did aliens visit the waikato</span><span class="citation-popover-snippet">AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</span><span class="citation-popover-meta">Published: September 1969</span></span></span>
 
-Unlike many aerial sightings, the Ngātea incident began with something tangible on the ground. Reporters, investigators and curious visitors converged on the site. The case gained national attention because people could physically inspect the alleged evidence rather than relying solely on witness recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangeco.blogspot.com">[strangeco.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangeco.blogspot.com</span><span class="citation-popover-title">the ngatea crop circle</span><span class="citation-popover-snippet">9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Unlike many aerial sightings, the Ngātea incident began with something tangible on the ground. Reporters, investigators and curious visitors converged on the site. The case gained national attention because people could physically inspect the alleged evidence rather than relying solely on witness recollections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangeco.blogspot.com">[strangeco.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangeco.blogspot.com</span><span class="citation-popover-title">the ngatea crop circle</span><span class="citation-popover-snippet">9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/74kkqaGKQk0" title="Phantom Airships over New Zealand 1909" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=74kkqaGKQk0" target="_blank" rel="noopener noreferrer">Phantom Airships over New Zealand 1909</a></p><p class="youtube-embed-meta">Channel: Interesting Fingz &middot; Views: 674 &middot; Uploaded: January 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=74kkqaGKQk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=74kkqaGKQk0">Open on YouTube</a></p></div></div></div>
 
 ### What investigators examined
 
-Various investigators collected soil and vegetation samples. Accounts from later UFO researchers claim that horticultural examination failed to identify a simple chemical explanation and that some measurements suggested unusual radiation readings. These claims helped sustain the mystery in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangeco.blogspot.com">[strangeco.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangeco.blogspot.com</span><span class="citation-popover-title">the ngatea crop circle</span><span class="citation-popover-snippet">9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Various investigators collected soil and vegetation samples. Accounts from later UFO researchers claim that horticultural examination failed to identify a simple chemical explanation and that some measurements suggested unusual radiation readings. These claims helped sustain the mystery in UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangeco.blogspot.com">[strangeco.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangeco.blogspot.com</span><span class="citation-popover-title">the ngatea crop circle</span><span class="citation-popover-snippet">9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-The case also received enough public attention to generate recorded interviews and media coverage discussing whether the marks represented a genuine landing site or a more mundane phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngataonga.org.nz">[ngataonga.org.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngataonga.org.nz</span><span class="citation-popover-snippet">, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</span></span></span>
+The case also received enough public attention to generate recorded interviews and media coverage discussing whether the marks represented a genuine landing site or a more mundane phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngataonga.org.nz">[ngataonga.org.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngataonga.org.nz</span><span class="citation-popover-snippet">, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</span></span></span>
 
 What made Ngātea memorable was the combination of several features often associated with classic UFO trace cases:
 
@@ -324,216 +324,216 @@ What made Ngātea memorable was the combination of several features often associ
 * Apparent vegetation damage.
 * Ground impressions suggesting landing supports.
 * The absence of a witnessed aircraft or known vehicle.
-* Extensive public and media interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.co.nz">[AA New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.co.nz</span><span class="citation-popover-title">ngatea crop circles did aliens visit the waikato</span><span class="citation-popover-snippet">AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</span><span class="citation-popover-meta">Published: September 1969</span></span></span>
+* Extensive public and media interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.co.nz">[AA New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.co.nz</span><span class="citation-popover-title">ngatea crop circles did aliens visit the waikato</span><span class="citation-popover-snippet">AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</span><span class="citation-popover-meta">Published: September 1969</span></span></span>
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-3-dark.svg" | relative_url }}" alt="Early Cases illustration 3" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the case remains disputed
 
 The problem is that physical traces do not automatically prove a UFO landing.
 
-No direct observation connected the marks to an aerial craft. Alternative explanations ranged from agricultural activity and environmental causes to deliberate fabrication. Unlike a controlled scientific investigation, the site quickly became a public attraction, complicating later analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.co.nz">[AA New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.co.nz</span><span class="citation-popover-title">ngatea crop circles did aliens visit the waikato</span><span class="citation-popover-snippet">AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</span><span class="citation-popover-meta">Published: September 1969</span></span></span>
+No direct observation connected the marks to an aerial craft. Alternative explanations ranged from agricultural activity and environmental causes to deliberate fabrication. Unlike a controlled scientific investigation, the site quickly became a public attraction, complicating later analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.co.nz">[AA New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.co.nz</span><span class="citation-popover-title">ngatea crop circles did aliens visit the waikato</span><span class="citation-popover-snippet">AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</span><span class="citation-popover-meta">Published: September 1969</span></span></span>
 
-As with many alleged landing-trace cases worldwide, the evidence degraded over time while stories expanded. The surviving record demonstrates that something unusual affected the site, but it does not establish a definitive cause. For believers, Ngātea remains one of New Zealand’s strongest physical UFO mysteries. For sceptics, it illustrates how ambiguous ground traces can acquire extraordinary interpretations without decisive proof. AA New Zealand <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngataonga.org.nz">[2ngataonga.org.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngataonga.org.nz</span><span class="citation-popover-snippet">, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</span></span></span>
+As with many alleged landing-trace cases worldwide, the evidence degraded over time while stories expanded. The surviving record demonstrates that something unusual affected the site, but it does not establish a definitive cause. For believers, Ngātea remains one of New Zealand’s strongest physical UFO mysteries. For sceptics, it illustrates how ambiguous ground traces can acquire extraordinary interpretations without decisive proof. AA New Zealand<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngataonga.org.nz">[2ngataonga.org.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngataonga.org.nz</span><span class="citation-popover-snippet">, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</span></span></span>
 
 ## How these early cases shaped the New Zealand UFO story
 
 Viewed together, the 1909 airship wave, the Moreland encounter and the Ngātea traces represent three different stages in New Zealand’s UFO tradition.
 
-The airship reports show a society interpreting unexplained lights through the newest technology it knew. The Moreland case shifted attention toward close encounters involving detailed witness testimony. Ngātea added the possibility of physical traces and material evidence. Each case broadened the range of what New Zealanders considered possible when confronting something they could not immediately explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocusnz.org.nz">[Ufocus NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocusnz.org.nz</span><span class="citation-popover-title">the moreland sighting 1959</span><span class="citation-popover-snippet">Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</span></span></span>
+The airship reports show a society interpreting unexplained lights through the newest technology it knew. The Moreland case shifted attention toward close encounters involving detailed witness testimony. Ngātea added the possibility of physical traces and material evidence. Each case broadened the range of what New Zealanders considered possible when confronting something they could not immediately explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[New Zealand Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">crowded skies the ufo experience in new zealand</span><span class="citation-popover-snippet">New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocusnz.org.nz">[Ufocus NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocusnz.org.nz</span><span class="citation-popover-title">the moreland sighting 1959</span><span class="citation-popover-snippet">Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</span></span></span>
 
-Just as importantly, all three cases reveal a recurring pattern that would continue into later decades. Strong witness testimony generated interest, but certainty remained elusive. Physical traces raised expectations, yet alternative explanations persisted. [Official files]({{ 'official-files-f636ca/' | relative_url }}) preserved records, but they rarely delivered definitive answers. That tension between intriguing evidence and unresolved interpretation became a defining characteristic of New Zealand’s UFO history long before Kaikōura brought the subject into international headlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">RNZAF report on.Read more</span><span class="citation-popover-snippet">NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. Copy /if of 36 NEW ZEALAND DEFENCE FORCE UNIDENTIFIED FLYING OBJECTS (UFO) FILES...Read more...</span></span></span>
+Just as importantly, all three cases reveal a recurring pattern that would continue into later decades. Strong witness testimony generated interest, but certainty remained elusive. Physical traces raised expectations, yet alternative explanations persisted. [Official files]({{ 'official-files-f636ca/' | relative_url }}) preserved records, but they rarely delivered definitive answers. That tension between intriguing evidence and unresolved interpretation became a defining characteristic of New Zealand’s UFO history long before Kaikōura brought the subject into international headlines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">RNZAF report on.Read more</span><span class="citation-popover-snippet">NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</span><span class="citation-popover-meta">Published: February 9, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. Copy /if of 36 NEW ZEALAND DEFENCE FORCE UNIDENTIFIED FLYING OBJECTS (UFO) FILES...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qceAKPFdXqo" title="THE WEIRDEST SIGHTINGS in NEW ZEALAND" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qceAKPFdXqo" target="_blank" rel="noopener noreferrer">THE WEIRDEST SIGHTINGS in NEW ZEALAND</a></p><p class="youtube-embed-meta">Channel: Shadow Matter &middot; Views: 57.1K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qceAKPFdXqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qceAKPFdXqo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Before Kaikoura, What Did People See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Before Kaikoura, What Did People See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a broad framework for evaluating historical UFO cases and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broad framework for evaluating historical UFO cases and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how early sighting waves and unexplained reports are classified and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how early sighting waves and unexplained reports are classified and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigative approaches applicable to New Zealand&#x27;s early cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative approaches applicable to New Zealand&#x27;s early cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects historical mystery-airship and anomalous-light reports to broader traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects historical mystery-airship and anomalous-light reports to broader traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-kaikoura-what-did-people-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="before-kaikoura-what-did-people-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,173 +736,172 @@ Just as importantly, all three cases reveal a recurring pattern that would conti
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufocusnz.org.nz  
    Title: the 1909 kelso airships of new zealand  
-   Link: <a href="https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon began in the southernmost part of the country, spread northwards.Read more...</p></details>
+   Link:<a href="https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://ufocusnz.org.nz/2020/07/22/the-1909-kelso-airships-of-new-zealand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon began in the southernmost part of the country, spread northwards.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: daily.jstor.org  
    Title: phantom flying machines  
-   Link: <a href="https://daily.jstor.org/phantom-flying-machines/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/phantom-flying-machines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyThe History of UFOsApr 1, 2016 — UFOs are much older than the Cold War&#x27;s flying saucers. These 1897 and 1909 sightings of flyi...</p></details>
+   Link:<a href="https://daily.jstor.org/phantom-flying-machines/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/phantom-flying-machines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyThe History of UFOsApr 1, 2016 — UFOs are much older than the Cold War&#x27;s flying saucers. These 1897 and 1909 sightings of flyi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery airshipIn 1909, a series of mystery airship sightings reported around New England... Airship sightings were also reported fro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery airshipIn 1909, a series of mystery airship sightings reported around New England... Airship sightings were also reported fro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: articles.skeptics.nz  
    Title: the great zeppelin scare of 1909  
-   Link: <a href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow">https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</p></details>
+   Link:<a href="https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/" target="_blank" rel="noopener noreferrer nofollow">https://articles.skeptics.nz/1998/05/01/the-great-zeppelin-scare-of-1909/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NZ SkepticsThe Great Zeppelin Scare of 19091 May 1998 — Near Gore on July 30th, the Auckland Star reported that two mining dredge hands w...</p></details>
    Published: May 1998  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufocusnz.org.nz  
    Title: the moreland sighting 1959  
-   Link: <a href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow">https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</p></details>
+   Link:<a href="https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/" target="_blank" rel="noopener noreferrer nofollow">https://ufocusnz.org.nz/2020/07/22/the-moreland-sighting-1959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufocus NZThe Moreland Sighting, 1959 – Ufocus NZ22 Jul 2020 — When a farmer prepares to bring her dairy herd in for milking, she encounte...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theozfiles.blogspot.com  
    Title: moreland revelations  
-   Link: <a href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2011/09/moreland-revelations.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</p></details>
+   Link:<a href="https://theozfiles.blogspot.com/2011/09/moreland-revelations.html" target="_blank" rel="noopener noreferrer nofollow">https://theozfiles.blogspot.com/2011/09/moreland-revelations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Moreland Revelations27 Sept 2011 — All previous material on the case had revealed this New Zealand case from 13 July 1959 as a striki...</p></details>
    Published: July 1959  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: interactives.stuff.co.nz  
-   Link: <a href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow">https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</p></details>
+   Link:<a href="https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/" target="_blank" rel="noopener noreferrer nofollow">https://interactives.stuff.co.nz/2018/03/finding-mrs-moreland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Mrs MorelandA local farmer called Roy Holdaway, who lived about seven kilometres from Moreland&#x27;s house, saw a bright light in the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: files.bluebookfiles.org  
    Title: RNZAF report on.Read more  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</p></details>
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW ZEALAND DEFENCE FORCE - Project Blue Book ArchiveFebruary 9, 2026 — File Contains: Reports, interviews and requests for UFO informati...</p></details>
    Published: February 9, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. Copy /if of 36 NEW ZEALAND DEFENCE FORCE UNIDENTIFIED FLYING OBJECTS (UFO) FILES...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. Copy /if of 36 NEW ZEALAND DEFENCE FORCE UNIDENTIFIED FLYING OBJECTS (UFO) FILES...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ngataonga.org.nz  
-   Link: <a href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/31841/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</p></details>
+   Link:<a href="https://www.ngataonga.org.nz/search-use-collection/search/31841/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/31841/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, found in a remote patch of manuka scrub on the farm of Mr BG O&#x27;Neill near...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: strangeco.blogspot.com  
    Title: the ngatea crop circle  
-   Link: <a href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</p></details>
+   Link:<a href="https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2022/05/the-ngatea-crop-circle.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2022 — Cooke collected samples of soil and the manuka trees and shared them with the University of Auckland&#x27;s UFO research group, t...</p></details>
    Published: May 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nzgeo.com  
    Title: crowded skies the ufo experience in new zealand  
-   Link: <a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</p></details>
+   Link:<a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand GeographicCrowded skiesUFOs go back a long way in New Zealand. Back, in fact, to 1909. On July 31 of that year, the engine dr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nzgeo.com  
-   Link: <a href="https://www.nzgeo.com/stories/x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/x-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand GeographicX-filesThe average speed of airships was about 40 km/h, and they had poor manoeuvrability. Only 27 were known to ha...</p></details>
+   Link:<a href="https://www.nzgeo.com/stories/x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand GeographicX-filesThe average speed of airships was about 40 km/h, and they had poor manoeuvrability. Only 27 were known to ha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hauntedauckland.com  
    Title: the new zealand ufo wave of 1909 by tony brunt1967  
-   Link: <a href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</p></details>
+   Link:<a href="https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/the-new-zealand-ufo-wave-of-1909-by-tony-brunt1967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal New ZealandThe New Zealand &#x27;UFO&#x27; Wave of 1909 - By Tony Brunt21 Aug 2014 — For a little over a month in the winter of 1909 hun...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: paperspast.natlib.govt.nz  
-   Link: <a href="https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51" target="_blank" rel="noopener noreferrer nofollow">https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ls it an airship? That is the question which people are seriously asking themselves concerning the...</p></details>
+   Link:<a href="https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51" target="_blank" rel="noopener noreferrer nofollow">https://paperspast.natlib.govt.nz/newspapers/NZTIM19090802.2.51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ls it an airship? That is the question which people are seriously asking themselves concerning the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: paperspast.natlib.govt.nz  
-   Link: <a href="https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120" target="_blank" rel="noopener noreferrer nofollow">https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Past | 29 July 1909 | THE MYSTERIOUS &quot;AIRSHIP.&quot;THE MYSTERIOUS &quot;AIRSHIP.&quot; STORY OF AN &quot;EYE-WITNESS.&quot; [BI TELEGRAPH SPECIAL TO THE POST.] D...</p></details>
+   Link:<a href="https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120" target="_blank" rel="noopener noreferrer nofollow">https://paperspast.natlib.govt.nz/newspapers/EP19090729.2.120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Past | 29 July 1909 | THE MYSTERIOUS &quot;AIRSHIP.&quot;THE MYSTERIOUS &quot;AIRSHIP.&quot; STORY OF AN &quot;EYE-WITNESS.&quot; [BI TELEGRAPH SPECIAL TO THE POST.] D...</p></details>
    Published: July 1909  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aa.co.nz  
    Title: ngatea crop circles did aliens visit the waikato  
-   Link: <a href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</p></details>
+   Link:<a href="https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.co.nz/membership/aa-directions/features/ngatea-crop-circles-did-aliens-visit-the-waikato/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AA New ZealandNgātea Crop Circles: Did aliens visit the Waikato?In September 1969, the tiny town of Ngātea on State Highway 2 in the Haur...</p></details>
    Published: September 1969  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/19599016" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/19599016</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au31 Jul 1909 - MYSTERIOUS AIRSHIP. - TroveRemarkable stories are coming from the South Island regarding a anysterious light seen...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/19599016" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/19599016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au31 Jul 1909 - MYSTERIOUS AIRSHIP. - TroveRemarkable stories are coming from the South Island regarding a anysterious light seen...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineFear of FloatingMany historians, Clarke says, think the airship scare was worked up by newspapers such as the Daily M...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineFear of FloatingMany historians, Clarke says, think the airship scare was worked up by newspapers such as the Daily M...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fyi.org.nz  
    Title: 29915 all references to a mrs eileen moreland marlborough region  
-   Link: <a href="https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27; sighting on 13th July 1959 and subsequent investigations. I am aware that several documents have been released via OIA in years prio...</p></details>
+   Link:<a href="https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/29915-all-references-to-a-mrs-eileen-moreland-marlborough-region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27; sighting on 13th July 1959 and subsequent investigations. I am aware that several documents have been released via OIA in years prio...</p></details>
    Published: July 1959  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 13, 1959, Blenheim, Marlborough, New Zealand, Eileen...3 Nov 2006 — Eileen Moreland experienced had a UFO sightings of 2 to...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1959-07-13-nzealand-blenheim.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 13, 1959, Blenheim, Marlborough, New Zealand, Eileen...3 Nov 2006 — Eileen Moreland experienced had a UFO sightings of 2 to...</p></details>
    Published: July 13, 1959  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly on the morning of July 13th, 1959 when she noticed a strange...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/f9y7m1/top_secret_new_zealand_military_files_detail_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly on the morning of July 13th, 1959 when she noticed a strange...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: Flying Saucers and UFOs in New Zealand!  
-   Link: <a href="https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1956...Flying Saucers and UFOs in New Zealand! From 1956 to 1988 the New Zealand Meteorological Service, Auckland received so many...</p></details>
+   Link:<a href="https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArchivesNewZealand/posts/flying-saucers-and-ufos-in-new-zealandfrom-1956-to-1988-the-new-zealand-meteorol/854483243537931/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From 1956...Flying Saucers and UFOs in New Zealand! From 1956 to 1988 the New Zealand Meteorological Service, Auckland received so many...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 23, 1909...[44] Later sightings There was a series of mystery airship sightings in 1909 in New England, which were triggered b...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2552365191505047/posts/26026426483672254/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 23, 1909...[44] Later sightings There was a series of mystery airship sightings in 1909 in New England, which were triggered b...</p></details>
    Published: September 23, 1909  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: What caused the Ngatea Circles?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most intriguing case...&quot;Some outside object appears to have landed on the spot, and in taking off emitted energy which cooked the pl...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1252yip/what_caused_the_ngatea_circles_the_most/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most intriguing case...&quot;Some outside object appears to have landed on the spot, and in taking off emitted energy which cooked the pl...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
    Title: WORKIN G ON A SECOND SERIES  
-   Link: <a href="https://www.instagram.com/reel/DVu68VckV-Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVu68VckV-Z/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WORKING ON A SECOND SERIES - LET ME KNOW YOUR...Has there been UFOs in New Zealand? The year was 1969 and something strange occurred COU...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVu68VckV-Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVu68VckV-Z/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WORKING ON A SECOND SERIES - LET ME KNOW YOUR...Has there been UFOs in New Zealand? The year was 1969 and something strange occurred COU...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: digitalnz.org  
    Title: TH E MYSTERIOUS AIRSHIP  
-   Link: <a href="https://digitalnz.org/records/34146877" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/records/34146877</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Mataura Ensign 22-5-1909)THE MYSTERIOUS AIRSHIP. (Mataura Ensign 22-5-1909); Content partner: National Library of New Zealand; Collectio...</p></details>
+   Link:<a href="https://digitalnz.org/records/34146877" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/records/34146877</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Mataura Ensign 22-5-1909)THE MYSTERIOUS AIRSHIP. (Mataura Ensign 22-5-1909); Content partner: National Library of New Zealand; Collectio...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: airminded.org  
    Title: scareships over fiji  
-   Link: <a href="https://airminded.org/2021/01/25/scareships-over-fiji/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2021/01/25/scareships-over-fiji/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?25 Jan 2021 — The gentle dig about Fiji getting a mystery airship visit before Auckland — though I think it did get some visits during t...</p></details>
+   Link:<a href="https://airminded.org/2021/01/25/scareships-over-fiji/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2021/01/25/scareships-over-fiji/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?25 Jan 2021 — The gentle dig about Fiji getting a mystery airship visit before Auckland — though I think it did get some visits during t...</p></details>

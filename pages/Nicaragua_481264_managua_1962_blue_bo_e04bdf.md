@@ -254,16 +254,16 @@ image: /assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-
 
 ## Introduction
 
-The most significant historical UFO file linked to [Nicaragua]({{ 'what-really-happened-in-nicaraguas-ufo/' | relative_url }}) is not a dramatic mass sighting or a modern viral video. It is a sparse Project Blue Book record associated with Managua in August 1962, a case that later researchers increasingly interpreted as a misidentified space-object re-entry rather than evidence of an unknown craft. The case remains notable because it appears inside the official archive of the United States Air Force's UFO investigation programme, yet the surviving documentation is weak, fragmented and internally inconsistent. Later satellite-tracking research connected the timing of the report to the atmospheric decay of the Vostok 3 rocket body, providing a plausible explanation that fits both the era and the observed behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The most significant historical UFO file linked to [Nicaragua]({{ 'what-really-happened-in-nicaraguas-ufo/' | relative_url }}) is not a dramatic mass sighting or a modern viral video. It is a sparse Project Blue Book record associated with Managua in August 1962, a case that later researchers increasingly interpreted as a misidentified space-object re-entry rather than evidence of an unknown craft. The case remains notable because it appears inside the official archive of the United States Air Force's UFO investigation programme, yet the surviving documentation is weak, fragmented and internally inconsistent. Later satellite-tracking research connected the timing of the report to the atmospheric decay of the Vostok 3 rocket body, providing a plausible explanation that fits both the era and the observed behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-1-dark.svg" | relative_url }}" alt="Managua 1962 illustration 1" data-theme-src-dark="{{ "/assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Nicaragua's UFO history, the Managua case matters less because it proves something extraordinary and more because it illustrates how archival UFO records can evolve. A report once filed as an unidentified aerial event can later be reassessed using satellite-decay data that did not exist in accessible form when the original report was collected.
 
 ## What Project Blue Book Recorded
 
-Project Blue Book was the U.S. Air Force programme that investigated UFO reports between 1952 and 1969. Its records were later declassified and transferred to the U.S. National Archives, where they remain one of the largest official historical UFO collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+Project Blue Book was the U.S. Air Force programme that investigated UFO reports between 1952 and 1969. Its records were later declassified and transferred to the U.S. National Archives, where they remain one of the largest official historical UFO collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
-Within that archive appears Project Blue Book Case 8056, associated with Managua and dated 12–14 August 1962. The existence of the file is not disputed; it appears in Blue Book catalogues and later satellite-observation compilations that cross-reference historical UFO reports with known space-object re-entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to investigations of...</span></span></span>
+Within that archive appears Project Blue Book Case 8056, associated with Managua and dated 12–14 August 1962. The existence of the file is not disputed; it appears in Blue Book catalogues and later satellite-observation compilations that cross-reference historical UFO reports with known space-object re-entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to investigations of...</span></span></span>
 
 What is striking is how little strong evidence survives in the case itself. Unlike famous military UFO incidents that generated radar records, pilot reports or extensive witness interviews, the Managua file appears to have been based on limited and indirect information. Researchers examining the Blue Book material decades later found that the chronology and descriptions did not fit together cleanly.
 
@@ -275,18 +275,18 @@ The case therefore occupies an unusual position in Nicaragua's UFO history. It i
 
 Later reviews of the Blue Book material highlighted several problems that prevented the Managua report from becoming a persuasive unexplained case.
 
-The central issue was inconsistency. Researchers comparing the file's dates, reported times and descriptions concluded that some elements appeared to describe a daylight observation while other details sounded more like a night-time event. That mismatch raised the possibility that witness information had been transmitted inaccurately, recorded incorrectly or reported after the fact through secondary sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 1</span><span class="citation-popover-snippet">Info Only: Santiago... (AP), &quot;Rocket&#x27;s re-entry lights sky in 3 states&quot;, Rome News...Read more...</span></span></span>
+The central issue was inconsistency. Researchers comparing the file's dates, reported times and descriptions concluded that some elements appeared to describe a daylight observation while other details sounded more like a night-time event. That mismatch raised the possibility that witness information had been transmitted inaccurately, recorded incorrectly or reported after the fact through secondary sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 1</span><span class="citation-popover-snippet">Info Only: Santiago... (AP), &quot;Rocket&#x27;s re-entry lights sky in 3 states&quot;, Rome News...Read more...</span></span></span>
 
-Another problem was the apparent absence of detailed first-hand testimony. Blue Book handled thousands of reports, and its strongest cases generally included identifiable observers, precise timings and reasonably detailed descriptions. The Managua file seems to lack that level of documentation. Later assessments therefore classified it as having insufficient data rather than presenting a compelling mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+Another problem was the apparent absence of detailed first-hand testimony. Blue Book handled thousands of reports, and its strongest cases generally included identifiable observers, precise timings and reasonably detailed descriptions. The Managua file seems to lack that level of documentation. Later assessments therefore classified it as having insufficient data rather than presenting a compelling mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 This distinction is important. In UFO research, an "unidentified" label often means only that investigators lacked enough information to reach a conclusion. It does not necessarily imply that the event itself was extraordinary. The Managua case increasingly falls into this category: historically interesting, officially archived, but evidentially thin.
 
 <img src="{{ "/assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-2-dark.svg" | relative_url }}" alt="Managua 1962 illustration 2" data-theme-src-dark="{{ "/assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nicaragua_481264_managua_1962_blue_bo_e04bdf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Vostok 3 Re-entry Fits the Report
 
-The strongest conventional explanation emerged from later work by satellite observers and re-entry researchers, particularly compilations assembled by Ted Molczan and other specialists who reconstructed historical atmospheric re-entries from orbital records and eyewitness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — &quot;Managua, Nicaragua&quot;, Project Blue Book Case 8056, 12-14 Aug 1962...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
+The strongest conventional explanation emerged from later work by satellite observers and re-entry researchers, particularly compilations assembled by Ted Molczan and other specialists who reconstructed historical atmospheric re-entries from orbital records and eyewitness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — &quot;Managua, Nicaragua&quot;, Project Blue Book Case 8056, 12-14 Aug 1962...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
 
-These studies linked the Managua report to the decay of the Vostok 3 rocket body, designated 1962-036B. Vostok 3 was a Soviet human spaceflight mission launched in August 1962 during the early space race. After completing its function, the associated rocket stage remained in orbit until re-entering the atmosphere. Researchers cataloguing historical re-entries identified observations from the Gulf of Mexico region and Managua that matched the expected timing and geography of that descent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Mar-2014/0203.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Seeking 14013B re-entry sighting reports from Europe28 Mar 2014 — From: Ted Molczan Date: Fri, 28 Mar 2014 08...</span></span></span>
+These studies linked the Managua report to the decay of the Vostok 3 rocket body, designated 1962-036B. Vostok 3 was a Soviet human spaceflight mission launched in August 1962 during the early space race. After completing its function, the associated rocket stage remained in orbit until re-entering the atmosphere. Researchers cataloguing historical re-entries identified observations from the Gulf of Mexico region and Managua that matched the expected timing and geography of that descent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Mar-2014/0203.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Seeking 14013B re-entry sighting reports from Europe28 Mar 2014 — From: Ted Molczan Date: Fri, 28 Mar 2014 08...</span></span></span>
 
 The match is significant because large rocket-body re-entries often generate exactly the kinds of reports that become UFO cases:
 
@@ -302,7 +302,7 @@ The match is significant because large rocket-body re-entries often generate exa
 
 Before widespread public awareness of spaceflight hardware, such displays could appear highly unusual. In 1962, only a few years after the dawn of the space age, many observers would have had little experience identifying re-entering orbital debris.
 
-Researchers reviewing the Managua file suggested that the recorded time may even have been incorrect by many hours, potentially explaining why the witness description and the documented chronology seemed difficult to reconcile. If the timing was transmitted inaccurately, the correspondence with the Vostok 3 rocket-body decay becomes considerably stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Oct-2014/0112.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Re-entry of Cosmos 1154 rocket body observed from...15 Oct 2014 — Re-entry of Cosmos 1154 rocket body observed from Svalbard... Ted Mol...</span></span></span>
+Researchers reviewing the Managua file suggested that the recorded time may even have been incorrect by many hours, potentially explaining why the witness description and the documented chronology seemed difficult to reconcile. If the timing was transmitted inaccurately, the correspondence with the Vostok 3 rocket-body decay becomes considerably stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Oct-2014/0112.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Re-entry of Cosmos 1154 rocket body observed from...15 Oct 2014 — Re-entry of Cosmos 1154 rocket body observed from Svalbard... Ted Mol...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
 
@@ -312,11 +312,11 @@ The Vostok explanation does not solve every detail perfectly. Historical records
 
 Several factors support that conclusion.
 
-**A known object existed in the right time window.** Historical satellite-decay catalogues identify the Vostok 3 rocket body as re-entering during the same period as the Managua report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Aug-2015/0141.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Old UNID was Vostok 2 and its rocket body29 Aug 2015 — &quot; It occurred to me that this might have been a re-entry. I found that the rocket...</span></span></span>
+**A known object existed in the right time window.** Historical satellite-decay catalogues identify the Vostok 3 rocket body as re-entering during the same period as the Managua report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Aug-2015/0141.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Old UNID was Vostok 2 and its rocket body29 Aug 2015 — &quot; It occurred to me that this might have been a re-entry. I found that the rocket...</span></span></span>
 
-**The visual behaviour matches known re-entries.** Fragmenting lights and unusual luminous displays are common features of large rocket-body decays. Later documented re-entries around the world produced remarkably similar UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 8</span><span class="citation-popover-snippet">Info Only: Santiago... (AP), &quot;Russian rocket body re-entry mistaken for meteor shower&quot;...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Mar-2014/0110.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">on Aug 31, 1962... Reply: Ted Molczan: &quot;RE: Atlas 109D re-entry seen and debris found...Read more...</span></span></span>
+**The visual behaviour matches known re-entries.** Fragmenting lights and unusual luminous displays are common features of large rocket-body decays. Later documented re-entries around the world produced remarkably similar UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 8</span><span class="citation-popover-snippet">Info Only: Santiago... (AP), &quot;Russian rocket body re-entry mistaken for meteor shower&quot;...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat/Mar-2014/0110.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">on Aug 31, 1962... Reply: Ted Molczan: &quot;RE: Atlas 109D re-entry seen and debris found...Read more...</span></span></span>
 
-**The original case was already weak.** Blue Book did not preserve a strong body of witness evidence that would require a more exotic explanation. Researchers examining the file found confusion rather than a detailed anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 1</span><span class="citation-popover-snippet">Info Only: Santiago... (AP), &quot;Rocket&#x27;s re-entry lights sky in 3 states&quot;, Rome News...Read more...</span></span></span>
+**The original case was already weak.** Blue Book did not preserve a strong body of witness evidence that would require a more exotic explanation. Researchers examining the file found confusion rather than a detailed anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 1</span><span class="citation-popover-snippet">Info Only: Santiago... (AP), &quot;Rocket&#x27;s re-entry lights sky in 3 states&quot;, Rome News...Read more...</span></span></span>
 
 **No supporting evidence emerged later.** There are no known radar records, physical traces, photographs or corroborated military investigations from Nicaragua that transformed the case into a stronger mystery.
 
@@ -327,201 +327,201 @@ For these reasons, modern assessments generally treat the Managua entry as a pro
 
 The Managua file remains valuable because it demonstrates how Nicaragua entered the international UFO archive during the early space age. It also shows how later technical research can reshape the interpretation of historical sightings.
 
-Many UFO reports from the 1950s and 1960s were investigated before comprehensive orbital-decay databases existed. Researchers working decades later could compare old reports against reconstructed satellite histories, rocket launches and re-entry trajectories. In some cases, events that once appeared mysterious became easier to explain. The Managua case is one of the clearest Nicaraguan examples of that process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — &quot;Managua, Nicaragua&quot;, Project Blue Book Case 8056, 12-14 Aug 1962...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
+Many UFO reports from the 1950s and 1960s were investigated before comprehensive orbital-decay databases existed. Researchers working decades later could compare old reports against reconstructed satellite histories, rocket launches and re-entry trajectories. In some cases, events that once appeared mysterious became easier to explain. The Managua case is one of the clearest Nicaraguan examples of that process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — &quot;Managua, Nicaragua&quot;, Project Blue Book Case 8056, 12-14 Aug 1962...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
 
-As a result, the 1962 Managua incident is best understood not as Nicaragua's strongest evidence for an unexplained craft, but as Nicaragua's strongest documented connection to the official Project Blue Book archive. Its lasting importance comes from the paper trail itself and from the later identification of a plausible space-debris explanation. The case sits at the intersection of UFO history and early spaceflight history, illustrating how the expanding presence of satellites and rocket hardware in Earth's orbit created many of the aerial mysteries that entered Cold War-era UFO files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> 2satobs.org
+As a result, the 1962 Managua incident is best understood not as Nicaragua's strongest evidence for an unexplained craft, but as Nicaragua's strongest documented connection to the official Project Blue Book archive. Its lasting importance comes from the paper trail itself and from the later identification of a plausible space-debris explanation. The case sits at the intersection of UFO history and early spaceflight history, illustrating how the expanding presence of satellites and rocket hardware in Earth's orbit created many of the aerial mysteries that entered Cold War-era UFO files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> 2satobs.org
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L8E2hIQmsSU" title="What Did Project Blue Book Find? | Unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L8E2hIQmsSU" target="_blank" rel="noopener noreferrer">What Did Project Blue Book Find? | Unveiled</a></p><p class="youtube-embed-meta">Channel: Unveiled &middot; Views: 70.9K &middot; Uploaded: March 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L8E2hIQmsSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L8E2hIQmsSU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Managua&#x27;s Blue Book UFO Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Managua&#x27;s Blue Book UFO Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how investigators handled ambiguous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators handled ambiguous sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to Project Blue Book-era case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to Project Blue Book-era case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official UFO investigations and historical files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official UFO investigations and historical files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating official UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating official UFO archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-managua-s-blue-book-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-managua-s-blue-book-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ As a result, the 1962 Managua incident is best understood not as Nicaragua's str
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ As a result, the 1962 Managua incident is best understood not as Nicaragua's str
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ As a result, the 1962 Managua incident is best understood not as Nicaragua's str
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ As a result, the 1962 Managua incident is best understood not as Nicaragua's str
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ As a result, the 1962 Managua incident is best understood not as Nicaragua's str
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,130 +727,130 @@ As a result, the 1962 Managua incident is best understood not as Nicaragua's str
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</p></details>
    Published: August 15, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries DRAFT 1  
-   Link: <a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Info Only: Santiago... (AP), &quot;Rocket&#x27;s re-entry lights sky in 3 states&quot;, Rome News...Read more...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Info Only: Santiago... (AP), &quot;Rocket&#x27;s re-entry lights sky in 3 states&quot;, Rome News...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to investigations of...</p></details>
+   Link:<a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to investigations of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: satobs.org  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — &quot;Managua, Nicaragua&quot;, Project Blue Book Case 8056, 12-14 Aug 1962...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — &quot;Managua, Nicaragua&quot;, Project Blue Book Case 8056, 12-14 Aug 1962...</p></details>
    Published: September 7, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Mar-2014/0203.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Mar-2014/0203.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeking 14013B re-entry sighting reports from Europe28 Mar 2014 — From: Ted Molczan &lt;ssl3molcz_at_rogers.com&gt; Date: Fri, 28 Mar 2014 08...</p></details>
+   Link:<a href="https://satobs.org/seesat/Mar-2014/0203.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Mar-2014/0203.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seeking 14013B re-entry sighting reports from Europe28 Mar 2014 — From: Ted Molczan &lt;ssl3molcz_at_rogers.com&gt; Date: Fri, 28 Mar 2014 08...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Oct-2014/0112.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2014/0112.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-entry of Cosmos 1154 rocket body observed from...15 Oct 2014 — Re-entry of Cosmos 1154 rocket body observed from Svalbard... Ted Mol...</p></details>
+   Link:<a href="https://satobs.org/seesat/Oct-2014/0112.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2014/0112.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Re-entry of Cosmos 1154 rocket body observed from...15 Oct 2014 — Re-entry of Cosmos 1154 rocket body observed from Svalbard... Ted Mol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Aug-2015/0141.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Aug-2015/0141.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Old UNID was Vostok 2 and its rocket body29 Aug 2015 — &quot; It occurred to me that this might have been a re-entry. I found that the rocket...</p></details>
+   Link:<a href="https://satobs.org/seesat/Aug-2015/0141.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Aug-2015/0141.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Old UNID was Vostok 2 and its rocket body29 Aug 2015 — &quot; It occurred to me that this might have been a re-entry. I found that the rocket...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries DRAFT 8  
-   Link: <a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Info Only: Santiago... (AP), &quot;Russian rocket body re-entry mistaken for meteor shower&quot;...Read more...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Info Only: Santiago... (AP), &quot;Russian rocket body re-entry mistaken for meteor shower&quot;...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Mar-2014/0110.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Mar-2014/0110.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on Aug 31, 1962... Reply: Ted Molczan: &quot;RE: Atlas 109D re-entry seen and debris found...Read more...</p></details>
+   Link:<a href="https://satobs.org/seesat/Mar-2014/0110.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Mar-2014/0110.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Aug 31, 1962... Reply: Ted Molczan: &quot;RE: Atlas 109D re-entry seen and debris found...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: Spaceflight 1981 djvu.txt  
-   Link: <a href="https://archive.org/stream/Spaceflight1981/Spaceflight%201981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Spaceflight1981/Spaceflight%201981_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Spaceflight 1981&quot;Full text of &quot;Spaceflight 1981&quot;. See other formats. ISSN 0038-6340 VOLUME 23 No 1 J* NUARY 1981 Published...</p></details>
+   Link:<a href="https://archive.org/stream/Spaceflight1981/Spaceflight%201981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Spaceflight1981/Spaceflight%201981_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Spaceflight 1981&quot;Full text of &quot;Spaceflight 1981&quot;. See other formats. ISSN 0038-6340 VOLUME 23 No 1 J* NUARY 1981 Published...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the U...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the U...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial in nature or...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial in nature or...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mobilealtoday/posts/-good-morning-downtown-mobile-its-friday-march-20-2026%EF%B8%8Fweather-forecast-the-firs/926238593496837/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mobilealtoday/posts/-good-morning-downtown-mobile-its-friday-march-20-2026%EF%B8%8Fweather-forecast-the-firs/926238593496837/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 ☀️WEATHER FORECAST: The first official day of spring arrives in style with sunshine, a high near 72 degrees, and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mobilealtoday/posts/-good-morning-downtown-mobile-its-friday-march-20-2026%EF%B8%8Fweather-forecast-the-firs/926238593496837/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mobilealtoday/posts/-good-morning-downtown-mobile-its-friday-march-20-2026%EF%B8%8Fweather-forecast-the-firs/926238593496837/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 ☀️WEATHER FORECAST: The first official day of spring arrives in style with sunshine, a high near 72 degrees, and...Read more...</p></details>
    Published: March 20, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
    Title: Selected Documents in the History of the U.S  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4407-etuv3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/sp-4407-etuv3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Space...by SJ Garber · 1960 — I-21. Memorandum from J.D. O&#x27;Connell, Special Assistant to the President for Telecommunications and...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4407-etuv3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/sp-4407-etuv3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Space...by SJ Garber · 1960 — I-21. Memorandum from J.D. O&#x27;Connell, Special Assistant to the President for Telecommunications and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nss.org  
    Title: Societal Impact Of Spaceflight 2007  
-   Link: <a href="https://nss.org/wp-content/uploads/Societal-Impact-Of-Spaceflight-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/wp-content/uploads/Societal-Impact-Of-Spaceflight-2007.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>years after the Space age began, it is time to examine the effects of spaceflight on society in a historically rigorous way. has.Read more...</p></details>
+   Link:<a href="https://nss.org/wp-content/uploads/Societal-Impact-Of-Spaceflight-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/wp-content/uploads/Societal-Impact-Of-Spaceflight-2007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>years after the Space age began, it is time to examine the effects of spaceflight on society in a historically rigorous way. has.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iafastro.org  
    Title: 2006 highlights in space  
-   Link: <a href="https://www.iafastro.org/assets/files/publications/highlights/2006-highlights-in-space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iafastro.org/assets/files/publications/highlights/2006-highlights-in-space.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlights in Space 2006Previous Vostok data have shown the inter-annual variation of the seasonal-diurnal vertical electric field and is...</p></details>
+   Link:<a href="https://www.iafastro.org/assets/files/publications/highlights/2006-highlights-in-space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iafastro.org/assets/files/publications/highlights/2006-highlights-in-space.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highlights in Space 2006Previous Vostok data have shown the inter-annual variation of the seasonal-diurnal vertical electric field and is...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc7chicago.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All of these files relating to UFO sightings have been...</p></details>
+   Link:<a href="https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All of these files relating to UFO sightings have been...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true, top-secret investigations into Unidentified Flying Objects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true, top-secret investigations into Unidentified Flying Objects...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED258832.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED258832.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICThis report, the third and final part of a three-part study of Soviet space programs, provides a comprehensive survey of the Soviet s...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED258832.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED258832.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICThis report, the third and final part of a three-part study of Soviet space programs, provides a comprehensive survey of the Soviet s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-0-387-71673-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-0-387-71673-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>book PDF - Springer NatureThis is a story of intelligence estimates of weapons of mass destruction being wildly inflated, and of politici...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1007/978-0-387-71673-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-0-387-71673-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>book PDF - Springer NatureThis is a story of intelligence estimates of weapons of mass destruction being wildly inflated, and of politici...</p></details>

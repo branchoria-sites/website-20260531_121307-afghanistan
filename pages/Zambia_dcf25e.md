@@ -1199,32 +1199,32 @@ That thinness matters. Zambia is not absent from UFO culture, but its public evi
 <img src="{{ "/assets/images/Zambia_dcf25e-overview.webp" | relative_url }}" alt="Overview image for What Has Zambia Really Seen in the Sky?" loading="eager" decoding="sync" fetchpriority="high">
 ## What Zambia’s public UFO record actually contains
 
-The clearest open-source chronology begins in 2012. On 29 February 2012, a Lusaka report logged by NUFORC described five observers seeing “three strange and scary objects” for about 30 seconds. The witnesses first noticed stars that seemed to move and disappear, then saw several objects they initially considered aircraft; one was described as having blue, orange and red lights and appearing low enough to be “landing”. NUFORC classified the shape as “Unknown” and marked “lights on object” as the reported characteristic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cZambia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Zambia</span><span class="citation-popover-snippet">Reports for Country Zambia</span></span></span>
+The clearest open-source chronology begins in 2012. On 29 February 2012, a Lusaka report logged by NUFORC described five observers seeing “three strange and scary objects” for about 30 seconds. The witnesses first noticed stars that seemed to move and disappear, then saw several objects they initially considered aircraft; one was described as having blue, orange and red lights and appearing low enough to be “landing”. NUFORC classified the shape as “Unknown” and marked “lights on object” as the reported characteristic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cZambia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Zambia</span><span class="citation-popover-snippet">Reports for Country Zambia</span></span></span>
 
-A second 2012 report came from Kabwe on 5 May. This one was logged as a “Fireball” and lasted about four minutes. The single witness described a red, flickering light that seemed star-like at first, then appeared to depart rapidly. This is one of the more important entries because the witness’s own language already points towards an astronomical or atmospheric category, even though the described duration is longer than a typical meteor fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A second 2012 report came from Kabwe on 5 May. This one was logged as a “Fireball” and lasted about four minutes. The single witness described a red, flickering light that seemed star-like at first, then appeared to depart rapidly. This is one of the more important entries because the witness’s own language already points towards an astronomical or atmospheric category, even though the described duration is longer than a typical meteor fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The later Lusaka report, dated approximately 24 July 2017, involved one observer who said they saw three red lights, first assumed to be an aeroplane. The object was described as fast, silent, triangular or rectangular in impression, and moving in a zig-zag pattern. NUFORC noted that the witness indicated the date was approximate, which lowers its value for later checking against aircraft, satellite, weather, or event records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=88809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The later Lusaka report, dated approximately 24 July 2017, involved one observer who said they saw three red lights, first assumed to be an aeroplane. The object was described as fast, silent, triangular or rectangular in impression, and moving in a zig-zag pattern. NUFORC noted that the witness indicated the date was approximate, which lowers its value for later checking against aircraft, satellite, weather, or event records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=88809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-These three entries are not a complete census of what Zambians have seen. They are only what reached a particular foreign reporting database. Still, their small number is significant. NUFORC’s location index lists Zambia with three reports, compared with seven for Zimbabwe, six for Namibia, five for Botswana and 261 for South Africa. That does not prove Zambia has fewer unusual sky events; it shows that Zambia has a much thinner public reporting trail in that archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+These three entries are not a complete census of what Zambians have seen. They are only what reached a particular foreign reporting database. Still, their small number is significant. NUFORC’s location index lists Zambia with three reports, compared with seven for Zimbabwe, six for Namibia, five for Botswana and 261 for South Africa. That does not prove Zambia has fewer unusual sky events; it shows that Zambia has a much thinner public reporting trail in that archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## Why Lusaka dominates the visible record
 
 The open reports cluster around Lusaka and Kabwe, which is unsurprising. UFO reporting usually follows population, internet access, night-time visibility, and the likelihood that a witness knows where to submit a report. Lusaka is Zambia’s capital and largest urban centre, so it is the most likely place for unusual lights to be noticed, filmed, discussed online, and later reframed as UFOs.
 
-The Lusaka entries also contain several familiar ambiguity markers: coloured lights, motion that appears unusual to a ground observer, uncertainty over aircraft identification, and limited duration. Without exact coordinates, direction of travel, altitude estimate, camera metadata, or independent witnesses, such reports remain difficult to test. The 2012 Lusaka report is stronger than the 2017 one in one respect — it lists five observers — but it is weaker in another, because its description is brief and does not provide enough detail to exclude aircraft, satellites, drones, lanterns, or optical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The Lusaka entries also contain several familiar ambiguity markers: coloured lights, motion that appears unusual to a ground observer, uncertainty over aircraft identification, and limited duration. Without exact coordinates, direction of travel, altitude estimate, camera metadata, or independent witnesses, such reports remain difficult to test. The 2012 Lusaka report is stronger than the 2017 one in one respect — it lists five observers — but it is weaker in another, because its description is brief and does not provide enough detail to exclude aircraft, satellites, drones, lanterns, or optical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-Kabwe’s entry is different because it uses the “fireball” label. The International Meteor Organization defines fireballs as unusually bright meteors and notes that they often provoke fear or awe, but also that very short duration is a key clue: meteors usually last only seconds, while objects lasting more than ten seconds are more likely to be satellites, aircraft, or another source. The Kabwe witness described a red, flickering light lasting around four to five minutes before vanishing rapidly, so “meteor fireball” is possible only in a loose eyewitness sense, not a clean scientific identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Kabwe’s entry is different because it uses the “fireball” label. The International Meteor Organization defines fireballs as unusually bright meteors and notes that they often provoke fear or awe, but also that very short duration is a key clue: meteors usually last only seconds, while objects lasting more than ten seconds are more likely to be satellites, aircraft, or another source. The Kabwe witness described a red, flickering light lasting around four to five minutes before vanishing rapidly, so “meteor fireball” is possible only in a loose eyewitness sense, not a clean scientific identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Zambia_dcf25e-Illustration-1-dark.svg" | relative_url }}" alt="What Has Zambia Really Seen in the Sky? illustration 1" data-theme-src-dark="{{ "/assets/images/Zambia_dcf25e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zambia_dcf25e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked claims
 
 A useful way to read Zambia’s UFO material is not “real or fake”, but by evidence tier.
 
-**Confirmed reports:** The confirmed fact is that a handful of Zambia sightings have been recorded in open UFO databases. The NUFORC entries establish dates, places, reported shapes, durations, observer counts, and witness descriptions. They do not confirm the objects’ identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cZambia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Zambia</span><span class="citation-popover-snippet">Reports for Country Zambia</span></span></span>
+**Confirmed reports:** The confirmed fact is that a handful of Zambia sightings have been recorded in open UFO databases. The NUFORC entries establish dates, places, reported shapes, durations, observer counts, and witness descriptions. They do not confirm the objects’ identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cZambia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Zambia</span><span class="citation-popover-snippet">Reports for Country Zambia</span></span></span>
 
-**Contested sightings:** The 2012 Lusaka, 2012 Kabwe, and 2017 Lusaka cases are contested in the ordinary sense: they contain sincere-sounding descriptions but lack corroborating evidence. The 2017 report is especially hard to evaluate because NUFORC notes the date was approximate, and exact timing is essential for checking against flight paths, satellite passes, weather conditions, or local events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested sightings:** The 2012 Lusaka, 2012 Kabwe, and 2017 Lusaka cases are contested in the ordinary sense: they contain sincere-sounding descriptions but lack corroborating evidence. The 2017 report is especially hard to evaluate because NUFORC notes the date was approximate, and exact timing is essential for checking against flight paths, satellite passes, weather conditions, or local events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Plausibly explained claims:** The Kabwe “fireball” report is the closest to a prosaic category, but it should not be called solved. The duration described by the witness does not fit a typical meteor cleanly, and there is no linked trajectory reconstruction. The better conclusion is that it belongs in the “likely natural or conventional light source, not demonstrated” category. The IMO’s guidance is helpful here: fireballs are real, common globally, and often startling, but duration and direction are essential for identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=88809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Plausibly explained claims:** The Kabwe “fireball” report is the closest to a prosaic category, but it should not be called solved. The duration described by the witness does not fit a typical meteor cleanly, and there is no linked trajectory reconstruction. The better conclusion is that it belongs in the “likely natural or conventional light source, not demonstrated” category. The IMO’s guidance is helpful here: fireballs are real, common globally, and often startling, but duration and direction are essential for identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=88809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Debunked claims:** There is no strong, Zambia-specific public UFO case in the searched open record that has both a famous extraordinary claim and a definitive debunking. Some social-media videos and reposts label [Lusaka lights]({{ 'lusaka-lights/' | relative_url }}) as UFOs, but without reliable location, original footage, metadata, or independent reporting, they are too weak to treat as major cases. In this field, “not proven” is often more accurate than “debunked”.
 
@@ -1232,19 +1232,19 @@ A useful way to read Zambia’s UFO material is not “real or fake”, but by e
 
 ## Official records are the biggest gap
 
-The main weakness in Zambia’s UFO record is not that every sighting is impossible to explain. It is that there appears to be little publicly accessible official paper trail devoted specifically to Zambian UFO or UAP incidents. Zambia’s Civil Aviation Authority publicly covers regulated aviation and remotely piloted aircraft systems, including the fact that RPAS operations are governed by the ZCAA’s legal and licensing framework. That is relevant because drones are now a major source of misidentified lights, but it is not the same as a public UAP investigation archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.zm/rpas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.zm">[caa.co.zm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.zm</span><span class="citation-popover-snippet">Open source on caa.co.zm.</span></span></span>
+The main weakness in Zambia’s UFO record is not that every sighting is impossible to explain. It is that there appears to be little publicly accessible official paper trail devoted specifically to Zambian UFO or UAP incidents. Zambia’s Civil Aviation Authority publicly covers regulated aviation and remotely piloted aircraft systems, including the fact that RPAS operations are governed by the ZCAA’s legal and licensing framework. That is relevant because drones are now a major source of misidentified lights, but it is not the same as a public UAP investigation archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.zm/rpas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.zm">[caa.co.zm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.zm</span><span class="citation-popover-snippet">Open source on caa.co.zm.</span></span></span>
 
-This matters for modern sightings. A strange light above Lusaka today could be an aircraft, a drone, a satellite train, a lantern, a balloon, a meteor, a searchlight, a military aircraft, or something genuinely unresolved. The difference between a story and an investigation is data: exact time, location, bearing, elevation, weather, air traffic, satellite pass checks, and ideally multiple recordings from different places. NASA’s independent UAP work has made the same general point: the scientific problem is not just that people see odd things, but that UAP evidence is often collected by sensors or witnesses not designed to produce calibrated, repeatable measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This matters for modern sightings. A strange light above Lusaka today could be an aircraft, a drone, a satellite train, a lantern, a balloon, a meteor, a searchlight, a military aircraft, or something genuinely unresolved. The difference between a story and an investigation is data: exact time, location, bearing, elevation, weather, air traffic, satellite pass checks, and ideally multiple recordings from different places. NASA’s independent UAP work has made the same general point: the scientific problem is not just that people see odd things, but that UAP evidence is often collected by sensors or witnesses not designed to produce calibrated, repeatable measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-The wider official archive picture is also mostly non-Zambian. The US National Archives says it holds records related to UFOs and UAP across numerous record groups and collections, while AARO, the US All-domain Anomaly Resolution Office, publishes UAP records and case material as part of its historical review role. These are useful for understanding how governments preserve UAP files, but they do not by themselves establish a Zambian official case record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The wider official archive picture is also mostly non-Zambian. The US National Archives says it holds records related to UFOs and UAP across numerous record groups and collections, while AARO, the US All-domain Anomaly Resolution Office, publishes UAP records and case material as part of its historical review role. These are useful for understanding how governments preserve UAP files, but they do not by themselves establish a Zambian official case record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Zambia and the southern African UFO neighbourhood
 
-Zambia’s UFO record is best understood beside, but not swallowed by, the wider southern African pattern. The most famous regional comparison is the Ariel School incident in Ruwa, Zimbabwe, in September 1994, when dozens of pupils reported seeing a landed craft and beings near the school. That case drew local investigator Cynthia Hind, BBC attention and later interviews by Harvard psychiatrist John Mack, while sceptics have raised concerns about contamination of testimony, media context, and alternative explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">2014 09 04 remembering zimbabwes great alien invasion</span></span></span>
+Zambia’s UFO record is best understood beside, but not swallowed by, the wider southern African pattern. The most famous regional comparison is the Ariel School incident in Ruwa, Zimbabwe, in September 1994, when dozens of pupils reported seeing a landed craft and beings near the school. That case drew local investigator Cynthia Hind, BBC attention and later interviews by Harvard psychiatrist John Mack, while sceptics have raised concerns about contamination of testimony, media context, and alternative explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">2014 09 04 remembering zimbabwes great alien invasion</span></span></span>
 
 The Ariel case matters for Zambia only as a contrast. It shows what a high-profile regional case looks like: many named witnesses, immediate local attention, repeat interviews, drawings, press coverage, and decades of debate. Zambia’s public cases do not have that level of documentation. The comparison helps keep claims proportionate: Zambia has reported UFO sightings, but it does not currently have a public case with the evidential footprint of Ariel School.
 
-The 1994 regional “UFO flap” also illustrates how sky events can spread across borders as stories. Two days before the Ariel School report, a bright object seen over southern Africa was widely discussed as a UFO in Zimbabwe; later sceptical analysis has linked the event to the re-entry of space hardware from the Cosmos 2290 launch. Whether or not a Zambian witness saw the same event, the episode shows how a dramatic sky phenomenon can create a regional atmosphere in which later ambiguous sightings are interpreted through a UFO frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Ariel School Phenomenon: What Really Happened</span><span class="citation-popover-snippet">The Ariel School Phenomenon: What Really Happened</span></span></span>
+The 1994 regional “UFO flap” also illustrates how sky events can spread across borders as stories. Two days before the Ariel School report, a bright object seen over southern Africa was widely discussed as a UFO in Zimbabwe; later sceptical analysis has linked the event to the re-entry of space hardware from the Cosmos 2290 launch. Whether or not a Zambian witness saw the same event, the episode shows how a dramatic sky phenomenon can create a regional atmosphere in which later ambiguous sightings are interpreted through a UFO frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Ariel School Phenomenon: What Really Happened</span><span class="citation-popover-snippet">The Ariel School Phenomenon: What Really Happened</span></span></span>
 
 <img src="{{ "/assets/images/Zambia_dcf25e-Illustration-2-dark.svg" | relative_url }}" alt="What Has Zambia Really Seen in the Sky? illustration 2" data-theme-src-dark="{{ "/assets/images/Zambia_dcf25e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zambia_dcf25e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most likely explanations for Zambia’s reported lights
@@ -1253,11 +1253,11 @@ The Zambian entries are too sparse for confident case-by-case explanation, but t
 
 Aircraft remain the most ordinary explanation for coloured lights, especially red, blue, orange, and white combinations seen at night. Witnesses often judge speed and altitude poorly in darkness because there is no reliable distance cue. A silent object may be distant rather than noiseless.
 
-Drones are increasingly important. Zambia’s aviation regulator treats remotely piloted aircraft as a regulated activity, and third-party summaries of Zambian rules describe limits on altitude, line of sight, airport proximity, night operation, and licensing. A drone flown illegally or unusually can look mysterious, particularly if it carries coloured LEDs or hovers where a witness does not expect aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.zm/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.zm">[caa.co.zm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.zm</span><span class="citation-popover-snippet">Open source on caa.co.zm.</span></span></span>
+Drones are increasingly important. Zambia’s aviation regulator treats remotely piloted aircraft as a regulated activity, and third-party summaries of Zambian rules describe limits on altitude, line of sight, airport proximity, night operation, and licensing. A drone flown illegally or unusually can look mysterious, particularly if it carries coloured LEDs or hovers where a witness does not expect aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.zm/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.zm">[caa.co.zm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.zm</span><span class="citation-popover-snippet">Open source on caa.co.zm.</span></span></span>
 
-Meteors and re-entering space debris are also strong candidates for bright, alarming lights. The International Meteor Organization notes that fireballs can be brighter than ordinary meteors and frightening to witnesses, while also stressing that duration is a key discriminator: a few seconds fits a meteor better than minutes. Re-entering rocket bodies or satellites can last longer and fragment into multiple lights, making them especially UFO-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">International Meteor Organization Fireballs &#124; IMO</span><span class="citation-popover-snippet">International Meteor Organization Fireballs &#124; IMO</span></span></span>
+Meteors and re-entering space debris are also strong candidates for bright, alarming lights. The International Meteor Organization notes that fireballs can be brighter than ordinary meteors and frightening to witnesses, while also stressing that duration is a key discriminator: a few seconds fits a meteor better than minutes. Re-entering rocket bodies or satellites can last longer and fragment into multiple lights, making them especially UFO-like.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">International Meteor Organization Fireballs &#124; IMO</span><span class="citation-popover-snippet">International Meteor Organization Fireballs &#124; IMO</span></span></span>
 
-Satellites and satellite trains can explain “moving stars” that appear, fade, and vanish. The 2012 Lusaka witness description began with stars that seemed to move and disappear, a pattern compatible with satellites catching and losing sunlight, although the later low, coloured-light description would need separate checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Satellites and satellite trains can explain “moving stars” that appear, fade, and vanish. The 2012 Lusaka witness description began with stars that seemed to move and disappear, a pattern compatible with satellites catching and losing sunlight, although the later low, coloured-light description would need separate checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Social-media compression and reposting add a modern problem. A video labelled “Lusaka UFO” may lose the original date, location, lens information, and first-hand witness context as it spreads. Once that happens, even a genuine recording becomes hard to investigate.
 
@@ -1282,9 +1282,9 @@ A stronger Zambian case would have several of the following features:
 
 </div>
 
-By that standard, Zambia’s current open cases are low-to-moderate value as folklore and witness evidence, but low value as physical evidence. The 2012 Lusaka report benefits from five observers but lacks detail. The Kabwe report has a natural-light clue but an awkward duration. The 2017 Lusaka report has an interesting description but only one observer and an approximate date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+By that standard, Zambia’s current open cases are low-to-moderate value as folklore and witness evidence, but low value as physical evidence. The 2012 Lusaka report benefits from five observers but lacks detail. The Kabwe report has a natural-light clue but an awkward duration. The 2017 Lusaka report has an interesting description but only one observer and an approximate date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-That does not mean the witnesses were lying. It means the reports do not contain enough information to distinguish an extraordinary object from ordinary sky phenomena. NASA’s UAP panel and reporting around it have repeatedly emphasised this same point: the bottleneck is high-quality, standardised data, not simply the number of unusual stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+That does not mean the witnesses were lying. It means the reports do not contain enough information to distinguish an extraordinary object from ordinary sky phenomena. NASA’s UAP panel and reporting around it have repeatedly emphasised this same point: the bottleneck is high-quality, standardised data, not simply the number of unusual stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
 <img src="{{ "/assets/images/Zambia_dcf25e-Illustration-3-dark.svg" | relative_url }}" alt="What Has Zambia Really Seen in the Sky? illustration 3" data-theme-src-dark="{{ "/assets/images/Zambia_dcf25e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zambia_dcf25e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for Zambia
@@ -1296,194 +1296,194 @@ The most honest classification is therefore: confirmed sightings as reports; no 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6sK2eGdfNNQ" title="Zimbabwe School UFO 1994" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6sK2eGdfNNQ" target="_blank" rel="noopener noreferrer">Zimbabwe School UFO 1994</a></p><p class="youtube-embed-meta">Channel: Sach Kand Tv &middot; Views: 3.0K &middot; Uploaded: July 2016 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6sK2eGdfNNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6sK2eGdfNNQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Has Zambia Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Has Zambia Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relevant to evaluating reported sightings and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to evaluating reported sightings and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides wider international UFO case context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider international UFO case context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing small civilian sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing small civilian sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places scattered reports into a global historical framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places scattered reports into a global historical framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-zambia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-zambia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1499,7 +1499,7 @@ The most honest classification is therefore: confirmed sightings as reports; no 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1519,7 +1519,7 @@ The most honest classification is therefore: confirmed sightings as reports; no 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1551,7 +1551,7 @@ The most honest classification is therefore: confirmed sightings as reports; no 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1603,7 +1603,7 @@ The most honest classification is therefore: confirmed sightings as reports; no 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1648,7 +1648,7 @@ The most honest classification is therefore: confirmed sightings as reports; no 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1686,187 +1686,186 @@ The most honest classification is therefore: confirmed sightings as reports; no 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Zambia  
-   Link: <a href="https://nuforc.org/subndx/?id=cZambia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cZambia</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cZambia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cZambia</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=87429" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=87429</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=87429" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=87429</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=88809" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=88809</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=88809" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=88809</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135340</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=135340" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135340</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: imo.net  
    Title: International Meteor Organization Fireballs | IMO  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: caa.co.zm  
-   Link: <a href="https://www.caa.co.zm/rpas" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.zm/rpas</a>  
+   Link:<a href="https://www.caa.co.zm/rpas" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.zm/rpas</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iflscience.com  
    Title: The Ariel School Phenomenon: What Really Happened  
-   Link: <a href="https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873</a>  
+   Link:<a href="https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-ariel-school-phenomenon-what-really-happened-when-68-children-witnessed-a-ufo-63873</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Director of National Intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Director_of_National_Intelligence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Director_of_National_Intelligence</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2025MNSSA..84..120C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025MNSSA..84..120C/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2025MNSSA..84..120C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025MNSSA..84..120C/abstract</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.co.zm  
-   Link: <a href="https://www.caa.co.zm/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.zm/frequently-asked-questions</a>  
+   Link:<a href="https://www.caa.co.zm/frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.zm/frequently-asked-questions</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mg.co.za  
    Title: 2014 09 04 remembering zimbabwes great alien invasion  
-   Link: <a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
+   Link:<a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064393881108/photos/committed-to-safe-skies-every-dayevery-day-the-caa-remains-committed-to-regulati/1388805369942579/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064393881108/photos/committed-to-safe-skies-every-dayevery-day-the-caa-remains-committed-to-regulati/1388805369942579/</a>  
+   Link:<a href="https://www.facebook.com/100064393881108/photos/committed-to-safe-skies-every-dayevery-day-the-caa-remains-committed-to-regulati/1388805369942579/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064393881108/photos/committed-to-safe-skies-every-dayevery-day-the-caa-remains-committed-to-regulati/1388805369942579/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064393881108/photos/keeping-the-skies-safesafe-skies-dont-happen-by-chance-they-happen-by-rules-caa-/1354774083345708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064393881108/photos/keeping-the-skies-safesafe-skies-dont-happen-by-chance-they-happen-by-rules-caa-/1354774083345708/</a>  
+   Link:<a href="https://www.facebook.com/100064393881108/photos/keeping-the-skies-safesafe-skies-dont-happen-by-chance-they-happen-by-rules-caa-/1354774083345708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064393881108/photos/keeping-the-skies-safesafe-skies-dont-happen-by-chance-they-happen-by-rules-caa-/1354774083345708/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lpi.usra.edu  
-   Link: <a href="https://www.lpi.usra.edu/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/</a>  
+   Link:<a href="https://www.lpi.usra.edu/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
+   Link:<a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084</a>  
+   Link:<a href="https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517511" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517511</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517511" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517511</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: odni.gov  
-   Link: <a href="https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community</a>  
+   Link:<a href="https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200230018-6.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/</a>  
+   Link:<a href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: intelligence.gov  
-   Link: <a href="https://www.intelligence.gov/how-the-ic-works/our-organizations/odni" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.gov/how-the-ic-works/our-organizations/odni</a>  
+   Link:<a href="https://www.intelligence.gov/how-the-ic-works/our-organizations/odni" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.gov/how-the-ic-works/our-organizations/odni</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/</a>  
+   Link:<a href="https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: fyi.org.nz  
-   Link: <a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>
+   Link:<a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>

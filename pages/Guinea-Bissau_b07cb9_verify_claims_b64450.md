@@ -248,53 +248,53 @@ image: /assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-1-s
 
 ## Introduction
 
-Verifying claims of unidentified flying objects (UFOs) in **Guinea‑Bissau** depends less on speculation and more on systematic evidence gathering, cross‑checking data, and ruling out ordinary explanations. To transform an anecdote or a social post into a credible aerial phenomenon record, investigators must collect precise details, use available instrumental and contextual checks, and apply established evaluation methods used internationally to separate misidentifications from genuinely unresolved cases. While Guinea‑Bissau’s publicly visible UFO dataset is sparse, the verification principles that apply elsewhere can still be tailored to sightings claimed in the country’s skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
+Verifying claims of unidentified flying objects (UFOs) in **Guinea‑Bissau** depends less on speculation and more on systematic evidence gathering, cross‑checking data, and ruling out ordinary explanations. To transform an anecdote or a social post into a credible aerial phenomenon record, investigators must collect precise details, use available instrumental and contextual checks, and apply established evaluation methods used internationally to separate misidentifications from genuinely unresolved cases. While Guinea‑Bissau’s publicly visible UFO dataset is sparse, the verification principles that apply elsewhere can still be tailored to sightings claimed in the country’s skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-1-dark.svg" | relative_url }}" alt="Verify Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Minimum Facts Every Report Needs
 
-A credible report begins with **specific, timestamped observational data** rather than vague or retrospective recollections. The classic investigative first step — seen in archival programmes such as the US Air Force’s Project Blue Book — is to ensure key fields are recorded: date, exact local time, precise geographic coordinates, duration, object description, motion patterns, and weather conditions. This structured collection enables later cross‑referencing with independent data and conventional phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</span><span class="citation-popover-meta">Published: January 21, 2016</span></span></span>
+A credible report begins with **specific, timestamped observational data** rather than vague or retrospective recollections. The classic investigative first step — seen in archival programmes such as the US Air Force’s Project Blue Book — is to ensure key fields are recorded: date, exact local time, precise geographic coordinates, duration, object description, motion patterns, and weather conditions. This structured collection enables later cross‑referencing with independent data and conventional phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</span><span class="citation-popover-meta">Published: January 21, 2016</span></span></span>
 
-When these facts are missing or approximate, verification becomes impossible. For instance, a vague narrative without a location or time cannot be matched to satellite, aircraft or astronomical records. Even testimonies from multiple witnesses must be anchored to these basics to be useful, because independent corroboration requires synchronised detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
+When these facts are missing or approximate, verification becomes impossible. For instance, a vague narrative without a location or time cannot be matched to satellite, aircraft or astronomical records. Even testimonies from multiple witnesses must be anchored to these basics to be useful, because independent corroboration requires synchronised detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
 
 ## Astronomy, Aircraft and Satellite Checks
 
 ### Astronomical Identification
 
-A large proportion of reported ‘UFOs’ are bright planets, stars seen at odd angles, meteors, or satellites. Organisations like NASA emphasise that Venus, Jupiter, satellites and meteor showers can easily be misperceived as unexplained lights without context checks. Analysts often use planetarium software or online astronomical atlases to check sky charts for the claimed time and location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
+A large proportion of reported ‘UFOs’ are bright planets, stars seen at odd angles, meteors, or satellites. Organisations like NASA emphasise that Venus, Jupiter, satellites and meteor showers can easily be misperceived as unexplained lights without context checks. Analysts often use planetarium software or online astronomical atlases to check sky charts for the claimed time and location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
 
 ### Aviation and Traffic Data
 
-Most aerial sightings occur near flight corridors, airports or populated regions. Public flight tracking services — such as ADS‑B exchange networks — record transponder‑equipped aircraft and can confirm or rule out scheduled flights or private aircraft around a claimed sighting. Absence of a transponder trace does not automatically make a sighting mysterious (many hobby drones, balloons and gliders lack them) but finding an aircraft that matches the report often explains the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
+Most aerial sightings occur near flight corridors, airports or populated regions. Public flight tracking services — such as ADS‑B exchange networks — record transponder‑equipped aircraft and can confirm or rule out scheduled flights or private aircraft around a claimed sighting. Absence of a transponder trace does not automatically make a sighting mysterious (many hobby drones, balloons and gliders lack them) but finding an aircraft that matches the report often explains the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oJJ5unxbvho" title="UK &#x27;not doing enough&#x27; to investigate UFO reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oJJ5unxbvho" target="_blank" rel="noopener noreferrer">UK &#x27;not doing enough&#x27; to investigate UFO reports</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 241.1K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oJJ5unxbvho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oJJ5unxbvho">Open on YouTube</a></p></div></div></div>
 
 ### Satellite and Space Object Cross‑Checks
 
-Satellite passes, including groups like Starlink constellations, produce predictable trails across the sky visible as moving lights. Tools that list satellite passes allow investigators to match reported motion, direction and timing with known orbits. This is a routine part of verification for visual sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
+Satellite passes, including groups like Starlink constellations, produce predictable trails across the sky visible as moving lights. Tools that list satellite passes allow investigators to match reported motion, direction and timing with known orbits. This is a routine part of verification for visual sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
 
 ## Photo and Video Evidence: What Strengthens or Weakens a Claim
 
-Photographs and videos can aid verification **if they come with unaltered metadata**. Investigators check EXIF data to confirm the capture time, camera settings, and geolocation, and apply frame‑by‑frame forensic analysis to detect signs of editing or artefacts. Without this embedded data, media files can be ambiguous or even misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
+Photographs and videos can aid verification **if they come with unaltered metadata**. Investigators check EXIF data to confirm the capture time, camera settings, and geolocation, and apply frame‑by‑frame forensic analysis to detect signs of editing or artefacts. Without this embedded data, media files can be ambiguous or even misleading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
 
-In addition to metadata, simple physical checks like comparing shadows with solar position or star fields with known sky patterns help assess whether the visual content matches real conditions at the claimed time and place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
+In addition to metadata, simple physical checks like comparing shadows with solar position or star fields with known sky patterns help assess whether the visual content matches real conditions at the claimed time and place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpli.com">[Simpli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpli.com</span><span class="citation-popover-title">How to Verify If a UFO Sighting Is Authentic</span><span class="citation-popover-snippet">10, 2026...</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-2-dark.svg" | relative_url }}" alt="Verify Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Independent Corroboration and Record Verification
 
 ### Multiple Witnesses and Sensor Data
 
-A core tenet of case verification is **independent confirmation**. Multiple observers from different vantage points describing similar details add credibility. Instrumental data — radar echoes, ADS‑B tracks, or even mobile network logs — provide objective backing that separates genuine unresolved events from misidentifications or hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackboxufo.com">[Black Box UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackboxufo.com</span><span class="citation-popover-snippet">BlackBox UFO Research &#124; BLACKBOX...</span></span></span>
+A core tenet of case verification is **independent confirmation**. Multiple observers from different vantage points describing similar details add credibility. Instrumental data — radar echoes, ADS‑B tracks, or even mobile network logs — provide objective backing that separates genuine unresolved events from misidentifications or hoaxes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackboxufo.com">[Black Box UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackboxufo.com</span><span class="citation-popover-snippet">BlackBox UFO Research &#124; BLACKBOX...</span></span></span>
 
 ### Official and Archived Searches
 
-For events with significant claims, checking governmental, aviation authority and scientific records can corroborate or refute the presence of unknown objects. Archives released by official bodies (such as declassified UFO/UAP files in other countries) often provide context on whether an event was logged by authorities or matched with known activity. In Guinea‑Bissau’s case, such public records are minimal, so any claim must be checked against the few international UFO reporting databases that accept global submissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapradar.com">[UAP Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapradar.com</span><span class="citation-popover-title">UAP Radar Source Policy &amp; Methodology &#124; UAP Radar</span><span class="citation-popover-snippet">UAP Radar Source Policy &amp; Methodology &#124; UAP Radar</span></span></span>
+For events with significant claims, checking governmental, aviation authority and scientific records can corroborate or refute the presence of unknown objects. Archives released by official bodies (such as declassified UFO/UAP files in other countries) often provide context on whether an event was logged by authorities or matched with known activity. In Guinea‑Bissau’s case, such public records are minimal, so any claim must be checked against the few international UFO reporting databases that accept global submissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapradar.com">[UAP Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapradar.com</span><span class="citation-popover-title">UAP Radar Source Policy &amp; Methodology &#124; UAP Radar</span><span class="citation-popover-snippet">UAP Radar Source Policy &amp; Methodology &#124; UAP Radar</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdf9CCEypFk" title="The UFO Evidence I&#x27;m Taking Seriously" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer">The UFO Evidence I&#x27;m Taking Seriously</a></p><p class="youtube-embed-meta">Channel: Astrum Extra &middot; Views: 495.5K &middot; Uploaded: October 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdf9CCEypFk">Open on YouTube</a></p></div></div></div>
 
 ## How to Separate Confirmed Reports from Claims
 
-True verification is not binary; it is a **process of elimination** that weeds out misinterpretations and hoaxes. Most reports globally — roughly estimated at about 90 % — resolve to identifiable causes when enough data is available. Investigators systematically eliminate known aircraft, atmospheric and celestial sources before categorising a case as genuinely unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Investigate a Sighting</span><span class="citation-popover-snippet">Investigate a Sighting...</span></span></span>
+True verification is not binary; it is a **process of elimination** that weeds out misinterpretations and hoaxes. Most reports globally — roughly estimated at about 90 % — resolve to identifiable causes when enough data is available. Investigators systematically eliminate known aircraft, atmospheric and celestial sources before categorising a case as genuinely unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Investigate a Sighting</span><span class="citation-popover-snippet">Investigate a Sighting...</span></span></span>
 
 Red flags in a claim include:
 
@@ -319,205 +319,205 @@ Positive indicators include:
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-3-dark.svg" | relative_url }}" alt="Verify Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_verify_claims_b64450-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local and Global Verification Resources
 
-Even if national reporting bodies are absent, reports can be submitted to international or civilian investigative organisations. Groups like MUFON maintain standardized intake systems and trained field investigators who collect structured data, interview witnesses, and apply scientific methods to assess credible sightings worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Home - MUFONFebruary 20, 2026...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+Even if national reporting bodies are absent, reports can be submitted to international or civilian investigative organisations. Groups like MUFON maintain standardized intake systems and trained field investigators who collect structured data, interview witnesses, and apply scientific methods to assess credible sightings worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Home - MUFONFebruary 20, 2026...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
 
-Local astronomy clubs and university departments can also be invaluable for helping check astronomical phenomena and explaining ordinary objects that might appear unusual to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
+Local astronomy clubs and university departments can also be invaluable for helping check astronomical phenomena and explaining ordinary objects that might appear unusual to casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
 
 ## Conclusion
 
-A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it is anchored in detail, cross‑checked against known aerial and astronomical activity, and supported by independent corroboration or instrumental data. Systematic verification — collecting precise facts, eliminating mundane explanations, applying astrophysical and aviation checks, and seeking expert review — separates weak claims from genuinely unresolved sightings. This process aligns with international investigative standards and helps build a reliable record even in regions with sparse historic documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackboxufo.com">[Black Box UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackboxufo.com</span><span class="citation-popover-snippet">BlackBox UFO Research &#124; BLACKBOX...</span></span></span>
+A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it is anchored in detail, cross‑checked against known aerial and astronomical activity, and supported by independent corroboration or instrumental data. Systematic verification — collecting precise facts, eliminating mundane explanations, applying astrophysical and aviation checks, and seeking expert review — separates weak claims from genuinely unresolved sightings. This process aligns with international investigative standards and helps build a reliable record even in regions with sparse historic documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackboxufo.com">[Black Box UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackboxufo.com</span><span class="citation-popover-snippet">BlackBox UFO Research &#124; BLACKBOX...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vxBN2t8zzg8" title="A Model for Investigating UAP Events – Episode 182" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vxBN2t8zzg8" target="_blank" rel="noopener noreferrer">A Model for Investigating UAP Events – Episode 182</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 1.9K &middot; Uploaded: September 2023 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vxBN2t8zzg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vxBN2t8zzg8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Make a Guinea Bissau UFO Case Strong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Make a Guinea Bissau UFO Case Strong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses classification, evidence standards, and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses classification, evidence standards, and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows practical investigative methods and evidentiary limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows practical investigative methods and evidentiary limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes documented cases, witnesses, and verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documented cases, witnesses, and verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines interpretation problems in unusual sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines interpretation problems in unusual sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-would-make-a-guinea-bissau-ufo-case-strong-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,124 +720,123 @@ A Guinea‑Bissau UFO claim moves from anecdote to credible report only when it 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: simpli.com  
    Title: How to Verify If a UFO Sighting Is Authentic  
-   Link: <a href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow">https://www.simpli.com/people/verify-ufo-sighting-authentic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10, 2026...</p></details>
+   Link:<a href="https://www.simpli.com/people/verify-ufo-sighting-authentic" target="_blank" rel="noopener noreferrer nofollow">https://www.simpli.com/people/verify-ufo-sighting-authentic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10, 2026...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
    Title: How To Investigate a Flying Saucer  
-   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</p></details>
    Published: January 21, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: <a href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/?p=71282</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</p></details>
+   Link:<a href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/?p=71282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</p></details>
    Published: December 1, 2013  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blackboxufo.com  
-   Link: <a href="https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims" target="_blank" rel="noopener noreferrer nofollow">https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BlackBox UFO Research | BLACKBOX...</p></details>
+   Link:<a href="https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims" target="_blank" rel="noopener noreferrer nofollow">https://blackboxufo.com/analysis/investigative-techniques-verifying-ufo-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BlackBox UFO Research | BLACKBOX...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufos.wiki  
    Title: Wiki Investigate a Sighting  
-   Link: <a href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigate a Sighting...</p></details>
+   Link:<a href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigate a Sighting...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home - MUFONFebruary 20, 2026...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home - MUFONFebruary 20, 2026...</p></details>
    Published: February 20, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: test.mufon.com  
-   Link: <a href="https://test.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://test.mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 - Test MUFONCLICK HERE TO REPORT A UFO, A CONTACT, OR AN ABDUCTION EXPERIENCE Welcome to MUFON...SHARING UFO/UAP REPORTS WITH THE WORLD...</p></details>
+   Link:<a href="https://test.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://test.mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 - Test MUFONCLICK HERE TO REPORT A UFO, A CONTACT, OR AN ABDUCTION EXPERIENCE Welcome to MUFON...SHARING UFO/UAP REPORTS WITH THE WORLD...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapradar.com  
    Title: UAP Radar Source Policy & Methodology | UAP Radar  
-   Link: <a href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/methodology</a>  
+   Link:<a href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/methodology</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mufonwa.org  
    Title: scientific method  
-   Link: <a href="https://www.mufonwa.org/scientific-method" target="_blank" rel="noopener noreferrer nofollow">https://www.mufonwa.org/scientific-method</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON of Washington State, THE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPS - Official WASHINGTON State MUFONTHE SCIENTIFIC METHOD AND TH...</p></details>
+   Link:<a href="https://www.mufonwa.org/scientific-method" target="_blank" rel="noopener noreferrer nofollow">https://www.mufonwa.org/scientific-method</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON of Washington State, THE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPS - Official WASHINGTON State MUFONTHE SCIENTIFIC METHOD AND TH...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mufonwa.org  
    Title: scientific method  
-   Link: <a href="https://mufonwa.org/scientific-method.html" target="_blank" rel="noopener noreferrer nofollow">https://mufonwa.org/scientific-method.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON of Washington State, THE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPSTHE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPS The Mutual UF...</p></details>
+   Link:<a href="https://mufonwa.org/scientific-method.html" target="_blank" rel="noopener noreferrer nofollow">https://mufonwa.org/scientific-method.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON of Washington State, THE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPSTHE SCIENTIFIC METHOD AND THE STUDY OF UFOS/UAPS The Mutual UF...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/ao" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Angola | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join En...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/ao" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Angola | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join En...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/gn" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join En...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/gn" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join En...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/gw" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea-Bissau | Enigma LabsMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join Enigma Discord...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/gw" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea-Bissau | Enigma LabsMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join Enigma Discord...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc.net.au  
    Title: Released UFO files document 'sightings' in Papua New Guinea  
-   Link: <a href="https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Pacific2 days ago — Program: Released UFO files document &#x27;sightings&#x27; in Papua New Guinea Program:Pacific Beat Tue 26 May 2026 at 6:00...</p></details>
+   Link:<a href="https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Pacific2 days ago — Program: Released UFO files document &#x27;sightings&#x27; in Papua New Guinea Program:Pacific Beat Tue 26 May 2026 at 6:00...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: enigmalabs.io  
    Title: Enigma also has the largest standardized, queryabl  
-   Link: <a href="https://enigmalabs.io/explore/gq" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Equatorial Guinea | Enigma LabsUFO Sightings in Equatorial Guinea Image: Copy to clipboard Image: Email So far, 0 sighti...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/gq" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Equatorial Guinea | Enigma LabsUFO Sightings in Equatorial Guinea Image: Copy to clipboard Image: Email So far, 0 sighti...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Papua New Guinea  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Papua_New_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Papua_New_Guinea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Papua New Guinea - Wikimedia CommonsJune 10, 2023 — CATEGORY:UFO SIGHTINGS IN PAPUA NEW GUINEA Hel...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Papua_New_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Papua_New_Guinea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Papua New Guinea - Wikimedia CommonsJune 10, 2023 — CATEGORY:UFO SIGHTINGS IN PAPUA NEW GUINEA Hel...</p></details>
    Published: June 10, 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: centreofexcellence.com  
    Title: Ufology 101: How to Recognise a UFO Hoax  
-   Link: <a href="https://www.centreofexcellence.com/ufology-ufo-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.centreofexcellence.com/ufology-ufo-hoax/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre of ExcellenceUFOLOGY 101: HOW TO RECOGNISE A UFO HOAX July 25th Ufology — the study of occurrences related to unidentified flying...</p></details>
+   Link:<a href="https://www.centreofexcellence.com/ufology-ufo-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.centreofexcellence.com/ufology-ufo-hoax/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre of ExcellenceUFOLOGY 101: HOW TO RECOGNISE A UFO HOAX July 25th Ufology — the study of occurrences related to unidentified flying...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bufora.org.uk  
    Title: Unfortunately, the UFOs transient nat  
-   Link: <a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDE TO UFOS | BUFORAUFOS - THE QUEST FOR PROOF ​ Throughout its existence, the UFO study movement has been engaged in an earnest quest...</p></details>
+   Link:<a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDE TO UFOS | BUFORAUFOS - THE QUEST FOR PROOF ​ Throughout its existence, the UFO study movement has been engaged in an earnest quest...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPANSommaire 1  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the GEIPAN turns 40, it is 40 years of emotions in the sky 2. Contemporary weirdness in the sky is called flying saucers or UFOs sin...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the GEIPAN turns 40, it is 40 years of emotions in the sky 2. Contemporary weirdness in the sky is called flying saucers or UFOs sin...</p></details>

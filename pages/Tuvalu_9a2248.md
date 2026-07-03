@@ -1199,17 +1199,17 @@ The strongest way to read the Tuvalu material is therefore cautious. There is on
 <img src="{{ "/assets/images/Tuvalu_9a2248-overview.webp" | relative_url }}" alt="Overview image for What Can Tuvalu&#x27;s UFO Record Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ## What is actually documented in Tuvalu?
 
-The central documented item is an “Unidentified Object. Funafuti” correspondence trail in declassified New Zealand UFO files. The material appears in New Zealand Air Force and Meteorological Service records covering 1956–1979, not in a standalone Tuvalu government UFO archive. In July 1961, the New Zealand Meteorological Service sent the Director of Intelligence at RNZAF Headquarters copies of a report from its officer-in-charge at Funafuti and associated observations. The memo said the office was asking Funafuti how the echo was first obtained and why observations were discontinued, while suggesting that the signal may have been picked up by coincidence while staff were tuning equipment for a balloon flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+The central documented item is an “Unidentified Object. Funafuti” correspondence trail in declassified New Zealand UFO files. The material appears in New Zealand Air Force and Meteorological Service records covering 1956–1979, not in a standalone Tuvalu government UFO archive. In July 1961, the New Zealand Meteorological Service sent the Director of Intelligence at RNZAF Headquarters copies of a report from its officer-in-charge at Funafuti and associated observations. The memo said the office was asking Funafuti how the echo was first obtained and why observations were discontinued, while suggesting that the signal may have been picked up by coincidence while staff were tuning equipment for a balloon flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-The Funafuti officer’s note is intriguing because it describes a technical signal rather than a simple “light in the sky” story. A visual search was reportedly made around the eighteenth minute, when the range was about 2,100 yards, but “despite fairly bright moonlight, nothing was seen”. Nadi suggested a flock of migratory birds, though the Funafuti officer found that doubtful because the signal was described as steady and stronger than a known permanent echo. The tone of the file is not sensational: it reads like a meteorological and defence query about an anomalous tracking return, not a claim of alien contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+The Funafuti officer’s note is intriguing because it describes a technical signal rather than a simple “light in the sky” story. A visual search was reportedly made around the eighteenth minute, when the range was about 2,100 yards, but “despite fairly bright moonlight, nothing was seen”. Nadi suggested a flock of migratory birds, though the Funafuti officer found that doubtful because the signal was described as steady and stronger than a known permanent echo. The tone of the file is not sensational: it reads like a meteorological and defence query about an anomalous tracking return, not a claim of alien contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
 This case also sits in Tuvalu’s pre-independence context. In 1961, Funafuti was part of the Ellice Islands under the wider British colonial administration of the Gilbert and Ellice Islands, while New Zealand meteorological and defence links appear in the file trail. That means a Tuvalu UFO chronology cannot be built only from today’s Tuvalu institutions; relevant records may be split among Tuvalu archives, New Zealand files, British colonial records, and regional meteorological holdings.
 
 ## The Funafuti 1961 case: signal, not spectacle
 
-The Funafuti incident is best classed as a contested technical anomaly. It has several features that raise its evidential value above a casual anecdote: it appears in official correspondence, involved trained meteorological staff, used observational equipment, and generated follow-up queries between Funafuti, the New Zealand Meteorological Service, and RNZAF intelligence. Those features make it worth retaining in any Tuvalu UFO chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+The Funafuti incident is best classed as a contested technical anomaly. It has several features that raise its evidential value above a casual anecdote: it appears in official correspondence, involved trained meteorological staff, used observational equipment, and generated follow-up queries between Funafuti, the New Zealand Meteorological Service, and RNZAF intelligence. Those features make it worth retaining in any Tuvalu UFO chronology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-At the same time, the case has obvious limits. No visible object was found when observers searched the sky, the signal occurred in the operational context of a balloon sounding, and the internal memo itself floated the possibility that the echo was picked up accidentally while equipment was being tuned. The Nadi suggestion of migratory birds may not have satisfied the Funafuti officer, but it shows that contemporary investigators were already considering ordinary explanations rather than treating the event as proof of an extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+At the same time, the case has obvious limits. No visible object was found when observers searched the sky, the signal occurred in the operational context of a balloon sounding, and the internal memo itself floated the possibility that the echo was picked up accidentally while equipment was being tuned. The Nadi suggestion of migratory birds may not have satisfied the Funafuti officer, but it shows that contemporary investigators were already considering ordinary explanations rather than treating the event as proof of an extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
 A fair evidence split would read as follows:
 
@@ -1224,17 +1224,17 @@ This makes the 1961 Funafuti case valuable but modest. It is a real archival ano
 <img src="{{ "/assets/images/Tuvalu_9a2248-Illustration-1-dark.svg" | relative_url }}" alt="What Can Tuvalu&#x27;s UFO Record Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why there is no robust national chronology
 
-A national UFO chronology for Tuvalu cannot presently be written in the same way as for countries with large newspaper archives, military air-defence files, or national reporting centres. Tuvalu’s small population, remote island geography, limited local media digitisation, and colonial record dispersal all make incident recovery difficult. The Tuvalu National Library and Archives was created in 1978 to safeguard public records as the country moved towards independence, including records returned from the Western Pacific Archives; its own public catalogue notes the importance of preserving Tuvalu’s documentary heritage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-title">TNL A catalogue</span><span class="citation-popover-snippet">TNL A catalogue</span></span></span>
+A national UFO chronology for Tuvalu cannot presently be written in the same way as for countries with large newspaper archives, military air-defence files, or national reporting centres. Tuvalu’s small population, remote island geography, limited local media digitisation, and colonial record dispersal all make incident recovery difficult. The Tuvalu National Library and Archives was created in 1978 to safeguard public records as the country moved towards independence, including records returned from the Western Pacific Archives; its own public catalogue notes the importance of preserving Tuvalu’s documentary heritage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-title">TNL A catalogue</span><span class="citation-popover-snippet">TNL A catalogue</span></span></span>
 
-Tuvalu’s Public Records Act also matters for UFO research because it defines public records broadly, establishes the Tuvalu National Archive, and provides for the preservation of government records transferred to the Archivist. However, the Act also allows restrictions or deferrals for secret, confidential, security-sensitive, or foreign-relations material. In practice, a researcher looking for UAP-related material would need to search not just for “UFO”, but also for “unidentified object”, “aircraft”, “light”, “meteor”, “balloon”, “radar echo”, “aerial phenomenon”, “police report”, “meteorological observation”, and “civil aviation incident”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvalu-legislation.tv">[tuvalu-legislation.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvalu-legislation.tv</span><span class="citation-popover-title">Public Records Act</span><span class="citation-popover-snippet">Public Records Act</span></span></span>
+Tuvalu’s Public Records Act also matters for UFO research because it defines public records broadly, establishes the Tuvalu National Archive, and provides for the preservation of government records transferred to the Archivist. However, the Act also allows restrictions or deferrals for secret, confidential, security-sensitive, or foreign-relations material. In practice, a researcher looking for UAP-related material would need to search not just for “UFO”, but also for “unidentified object”, “aircraft”, “light”, “meteor”, “balloon”, “radar echo”, “aerial phenomenon”, “police report”, “meteorological observation”, and “civil aviation incident”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvalu-legislation.tv">[tuvalu-legislation.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvalu-legislation.tv</span><span class="citation-popover-title">Public Records Act</span><span class="citation-popover-snippet">Public Records Act</span></span></span>
 
 This archival structure explains the biggest gap in the public record. The absence of many online Tuvalu UFO cases does not prove that no unusual sightings occurred. It means that open web evidence is not enough to support a detailed chronology. The confirmed public chronology is currently closer to a short case note than a long national catalogue.
 
 ## Local-source reliability: what counts as strong evidence?
 
-For Tuvalu, source reliability varies sharply. The best available source for the Funafuti case is the declassified New Zealand file because it preserves contemporary official correspondence and operational context. The next most useful sources are Tuvalu’s own archival and public-record institutions, because they explain where local government records might exist and what access limitations may apply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[2tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-title">TNL A catalogue</span><span class="citation-popover-snippet">TNL A catalogue</span></span></span>
+For Tuvalu, source reliability varies sharply. The best available source for the Funafuti case is the declassified New Zealand file because it preserves contemporary official correspondence and operational context. The next most useful sources are Tuvalu’s own archival and public-record institutions, because they explain where local government records might exist and what access limitations may apply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[2tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-title">TNL A catalogue</span><span class="citation-popover-snippet">TNL A catalogue</span></span></span>
 
-Generic UFO-reporting websites are much weaker. One Tuvalu UFO page invites people to submit Tuvalu UFO and alien-contact reports, but it offers broad promotional language rather than a documented incident list, witness statements, dates, locations, photographs, radar data, or official case files. It also makes sweeping claims about Tuvalu sightings and contactees without presenting verifiable Tuvalu-specific evidence. Such pages can be useful as a sign that people are invited to report experiences, but they should not be treated as proof of national incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span></span></span>
+Generic UFO-reporting websites are much weaker. One Tuvalu UFO page invites people to submit Tuvalu UFO and alien-contact reports, but it offers broad promotional language rather than a documented incident list, witness statements, dates, locations, photographs, radar data, or official case files. It also makes sweeping claims about Tuvalu sightings and contactees without presenting verifiable Tuvalu-specific evidence. Such pages can be useful as a sign that people are invited to report experiences, but they should not be treated as proof of national incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span></span></span>
 
 For a Tuvalu case to move from “interesting report” to “strong case”, it would need several independent anchors: exact date and time, island or lagoon location, named or institutionally identifiable witnesses, weather conditions, aircraft and shipping checks, astronomical checks, sensor records, photographs with metadata, and a clear chain of custody for any physical or digital evidence. Without those anchors, most sightings remain plausible misidentifications rather than durable historical evidence.
 
@@ -1242,7 +1242,7 @@ For a Tuvalu case to move from “interesting report” to “strong case”, it
 
 ## Region-level variation inside Tuvalu
 
-The available public evidence is heavily Funafuti-centred. That is not surprising. Funafuti is the capital atoll, the site of the main international airport, the location of key government and archival institutions, and the historical location of meteorological observation activity. It is also the point most likely to generate records that pass into official correspondence. The 1961 case came from the meteorological office at Funafuti, not from a more remote outer island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+The available public evidence is heavily Funafuti-centred. That is not surprising. Funafuti is the capital atoll, the site of the main international airport, the location of key government and archival institutions, and the historical location of meteorological observation activity. It is also the point most likely to generate records that pass into official correspondence. The 1961 case came from the meteorological office at Funafuti, not from a more remote outer island.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
 Outer islands such as Nanumea, Nanumaga, Niutao, Nui, Vaitupu, Nukufetau, Nukulaelae and Niulakita may produce oral accounts or local sightings, but those are less likely to surface in digitised official or international archives unless they triggered police, aviation, meteorological, or administrative reporting. This creates a likely recording bias: Funafuti may appear more “active” simply because institutions there were better connected to paperwork, radio, aviation, and regional administration.
 
@@ -1250,11 +1250,11 @@ The most realistic Tuvalu map of UFO evidence is therefore not a map of where an
 
 ## Likely explanations for Tuvalu sky reports
 
-Tuvalu’s sky environment makes several ordinary explanations especially important. Funafuti sits in a vast oceanic air and sea setting where bright planets, meteors, aircraft lights, satellites, weather balloons, cloud reflections, lightning, and marine or aviation activity can all be visually striking. Modern UAP research repeatedly warns that many reports begin with limited data, incomplete metadata, or sensors not designed for scientific UAP analysis. NASA’s 2023 independent UAP report stressed the need for structured data curation, calibrated sensors, time and location metadata, and multi-sensor observation before strong conclusions can be drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Tuvalu’s sky environment makes several ordinary explanations especially important. Funafuti sits in a vast oceanic air and sea setting where bright planets, meteors, aircraft lights, satellites, weather balloons, cloud reflections, lightning, and marine or aviation activity can all be visually striking. Modern UAP research repeatedly warns that many reports begin with limited data, incomplete metadata, or sensors not designed for scientific UAP analysis. NASA’s 2023 independent UAP report stressed the need for structured data curation, calibrated sensors, time and location metadata, and multi-sensor observation before strong conclusions can be drawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Funafuti case shows exactly why this matters. A technical echo without a corresponding visual object can be meaningful, but it can also arise from equipment, birds, atmospheric conditions, a known reflecting point, or confusion during a routine balloon operation. The original file’s own language keeps those mundane possibilities alive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+The Funafuti case shows exactly why this matters. A technical echo without a corresponding visual object can be meaningful, but it can also arise from equipment, birds, atmospheric conditions, a known reflecting point, or confusion during a routine balloon operation. The original file’s own language keeps those mundane possibilities alive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-For modern sightings, satellites are an increasingly important category. The U.S. All-domain Anomaly Resolution Office has publicly highlighted reporting trends, official imagery, case-resolution work, and common causes such as airborne objects not immediately identifiable at the time of reporting. AARO describes its role as applying a scientific and data-driven framework rather than treating “unidentified” as a conclusion about origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+For modern sightings, satellites are an increasingly important category. The U.S. All-domain Anomaly Resolution Office has publicly highlighted reporting trends, official imagery, case-resolution work, and common causes such as airborne objects not immediately identifiable at the time of reporting. AARO describes its role as applying a scientific and data-driven framework rather than treating “unidentified” as a conclusion about origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 In practical terms, a Tuvalu sighting should first be tested against:
 
@@ -1274,11 +1274,11 @@ That does not mean every report is “nothing”. It means the burden of proof r
 <img src="{{ "/assets/images/Tuvalu_9a2248-Illustration-2-dark.svg" | relative_url }}" alt="What Can Tuvalu&#x27;s UFO Record Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and declassified material
 
-There is no obvious public evidence of a dedicated Tuvalu government UFO office, a national UAP reporting programme, or a post-independence parliamentary inquiry into UFOs. The official footprint is instead indirect: public-record law, the national archive, and foreign or regional records that may contain Tuvalu-related material. The National Library and Archives catalogue states that the institution was established in 1978 and received more than 200 boxes of Tuvalu public records returned from the Western Pacific Archives, making it a key starting point for any deeper case search. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-title">TNL A catalogue</span><span class="citation-popover-snippet">TNL A catalogue</span></span></span>
+There is no obvious public evidence of a dedicated Tuvalu government UFO office, a national UAP reporting programme, or a post-independence parliamentary inquiry into UFOs. The official footprint is instead indirect: public-record law, the national archive, and foreign or regional records that may contain Tuvalu-related material. The National Library and Archives catalogue states that the institution was established in 1978 and received more than 200 boxes of Tuvalu public records returned from the Western Pacific Archives, making it a key starting point for any deeper case search.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-title">TNL A catalogue</span><span class="citation-popover-snippet">TNL A catalogue</span></span></span>
 
-The Public Records Act gives researchers a second anchor. It establishes the Archives Office, defines government and public records, provides for deposit of records of sufficient value, and allows public reference subject to regulations and restrictions. This is important because a UFO or UAP case may not be filed under paranormal language at all; it may be buried in meteorological, police, airport, defence liaison, marine, or administrative correspondence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvalu-legislation.tv">[tuvalu-legislation.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvalu-legislation.tv</span><span class="citation-popover-title">Public Records Act</span><span class="citation-popover-snippet">Public Records Act</span></span></span>
+The Public Records Act gives researchers a second anchor. It establishes the Archives Office, defines government and public records, provides for deposit of records of sufficient value, and allows public reference subject to regulations and restrictions. This is important because a UFO or UAP case may not be filed under paranormal language at all; it may be buried in meteorological, police, airport, defence liaison, marine, or administrative correspondence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvalu-legislation.tv">[tuvalu-legislation.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvalu-legislation.tv</span><span class="citation-popover-title">Public Records Act</span><span class="citation-popover-snippet">Public Records Act</span></span></span>
 
-Internationally, the U.S. National Archives has created a UAP Records Collection under Record Group 615 and also points researchers to UFO/UAP-related records across other record groups. This does not make the U.S. archive a Tuvalu source, but it is relevant to cross-branch research because Pacific sightings, military movements, satellite observations, or wartime aviation records can appear in foreign archives rather than in the state where an observation occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Internationally, the U.S. National Archives has created a UAP Records Collection under Record Group 615 and also points researchers to UFO/UAP-related records across other record groups. This does not make the U.S. archive a Tuvalu source, but it is relevant to cross-branch research because Pacific sightings, military movements, satellite observations, or wartime aviation records can appear in foreign archives rather than in the state where an observation occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Tuvalu specifically, the most promising archival path is a joined-up search across Tuvalu National Library and Archives, New Zealand declassified UFO files, British colonial records for the Gilbert and Ellice Islands, meteorological-office correspondence, and civil aviation material. The Funafuti 1961 case proves that at least one Tuvalu-linked anomaly entered that wider record system.
 
@@ -1286,18 +1286,18 @@ For Tuvalu specifically, the most promising archival path is a joined-up search 
 
 The evidence split for Tuvalu is unusually simple because the public case base is so small.
 
-**Confirmed claims are limited.** The strongest confirmed claim is that official New Zealand-linked records contain a 1961 Funafuti “unidentified object” or echo report, with meteorological observations and follow-up correspondence. It is confirmed as an archived anomaly, not as a confirmed craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+**Confirmed claims are limited.** The strongest confirmed claim is that official New Zealand-linked records contain a 1961 Funafuti “unidentified object” or echo report, with meteorological observations and follow-up correspondence. It is confirmed as an archived anomaly, not as a confirmed craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-**Contested claims centre on interpretation.** The 1961 echo was considered unusual by the Funafuti officer, while possible ordinary explanations included migratory birds and coincidence during equipment tuning for a balloon flight. Because no visual object was seen and the available extract does not provide a final technical resolution, the case remains unresolved in the modest sense: an unexplained observation within the surviving file, not an unexplained vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+**Contested claims centre on interpretation.** The 1961 echo was considered unusual by the Funafuti officer, while possible ordinary explanations included migratory birds and coincidence during equipment tuning for a balloon flight. Because no visual object was seen and the available extract does not provide a final technical resolution, the case remains unresolved in the modest sense: an unexplained observation within the surviving file, not an unexplained vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-**Weak or unsupported claims should be separated from the chronology.** Broad online statements that Tuvalu has many UFO reports, contactees, abductions, or strong accumulated evidence are not supported by the Tuvalu-specific documentation presented on the generic reporting page that makes them. Those claims may reflect belief, solicitation of reports, or imported UFO culture, but they do not currently provide a reliable incident record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span></span></span>
+**Weak or unsupported claims should be separated from the chronology.** Broad online statements that Tuvalu has many UFO reports, contactees, abductions, or strong accumulated evidence are not supported by the Tuvalu-specific documentation presented on the generic reporting page that makes them. Those claims may reflect belief, solicitation of reports, or imported UFO culture, but they do not currently provide a reliable incident record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Tuvalu UFO Sightings &amp; Reports</span></span></span>
 
 **Debunked claims are not well represented in public Tuvalu sources.** There is no widely documented Tuvalu equivalent of a famous hoax, misidentified missile launch, or officially explained mass sighting. The closest thing to a partial debunking is the 1961 file’s own ordinary-explanation discussion. It weakens extraordinary readings of the case, but does not fully close it.
 
 <img src="{{ "/assets/images/Tuvalu_9a2248-Illustration-3-dark.svg" | relative_url }}" alt="What Can Tuvalu&#x27;s UFO Record Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Tuvalu links to neighbouring Pacific research
 
-Tuvalu’s UFO record should be connected carefully to sibling Pacific branches, not blurred into them. The 1961 Funafuti case belongs to a regional network involving New Zealand meteorology, RNZAF intelligence, Nadi meteorological input, and the colonial-era Ellice Islands. That makes it naturally relevant to New Zealand, Fiji, Kiribati/Gilbert Islands, and wider South Pacific aviation-meteorology research, but the case itself remains Funafuti-centred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+Tuvalu’s UFO record should be connected carefully to sibling Pacific branches, not blurred into them. The 1961 Funafuti case belongs to a regional network involving New Zealand meteorology, RNZAF intelligence, Nadi meteorological input, and the colonial-era Ellice Islands. That makes it naturally relevant to New Zealand, Fiji, Kiribati/Gilbert Islands, and wider South Pacific aviation-meteorology research, but the case itself remains Funafuti-centred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
 This cross-branch link matters because Pacific UFO records often follow infrastructure rather than national borders. A sighting in one island state may be logged through a regional meteorological office, a foreign military liaison, an air-traffic route, or a colonial administration. For Tuvalu, that means the strongest future discoveries may not use the word “Tuvalu” at all; older records may use “Ellice Islands”, “Funafuti”, “Gilbert and Ellice Islands”, “Western Pacific”, or the name of a specific atoll.
 
@@ -1305,7 +1305,7 @@ The comparison should not be used to inflate Tuvalu’s record. Instead, it help
 
 ## What would change the assessment?
 
-The assessment would change if new records produced dated, independent, Tuvalu-specific cases with stronger evidence than the current public record. The most valuable discoveries would be original police reports, airport logs, meteorological observation sheets, air-traffic communications, photographs with metadata, multiple-witness statements from different locations, or official correspondence showing an investigation and final conclusion. NASA’s UAP report underlines why such metadata matters: without structured, calibrated, well-described data, even sincere observations are difficult to analyse scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The assessment would change if new records produced dated, independent, Tuvalu-specific cases with stronger evidence than the current public record. The most valuable discoveries would be original police reports, airport logs, meteorological observation sheets, air-traffic communications, photographs with metadata, multiple-witness statements from different locations, or official correspondence showing an investigation and final conclusion. NASA’s UAP report underlines why such metadata matters: without structured, calibrated, well-described data, even sincere observations are difficult to analyse scientifically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A future Tuvalu case would be especially strong if it combined local testimony with external checks. For example, a report from Funafuti that could be matched against flight schedules, balloon releases, satellite passes, weather radar, ship positions, and astronomical conditions would be far more useful than a social-media clip described only as a “UFO”. Conversely, a spectacular video without date, location, camera details, or independent witnesses would remain weak even if it looked strange.
 
@@ -1314,194 +1314,194 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syO16KikNFY" title="Footage shows &#x27;fireball&#x27; meteor lighting up skies in eastern Australia | ABC NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syO16KikNFY" target="_blank" rel="noopener noreferrer">Footage shows &#x27;fireball&#x27; meteor lighting up skies in eastern Australia | ABC NEWS</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia) &middot; Views: 11.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syO16KikNFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syO16KikNFY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Can Tuvalu&#x27;s UFO Record Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Can Tuvalu&#x27;s UFO Record Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating sparse national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s focus on documented cases and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s focus on documented cases and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local stories and limited records shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local stories and limited records shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical analysis of unusual claims and incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical analysis of unusual claims and incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-tuvalu-s-ufo-record-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-tuvalu-s-ufo-record-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1517,7 +1517,7 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1537,7 +1537,7 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1569,7 +1569,7 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1621,7 +1621,7 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1666,7 +1666,7 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1704,139 +1704,138 @@ For now, Tuvalu’s UFO page should be framed as a sparse-evidence national case
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Declassified New Zealand UFO documents"  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tuvaluarchives.tv  
    Title: TNL A catalogue  
-   Link: <a href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.tuvaluarchives.tv/</a>  
+   Link:<a href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.tuvaluarchives.tv/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tuvalu-legislation.tv  
    Title: Public Records Act  
-   Link: <a href="https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf</a>  
+   Link:<a href="https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0010/1979-0010_1.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Tuvalu UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/tuvalu-ufo-sightings.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: funafuti atoll tuvalu 153047  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/funafuti-atoll-tuvalu-153047/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/funafuti-atoll-tuvalu-153047/</a>  
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/funafuti-atoll-tuvalu-153047/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/funafuti-atoll-tuvalu-153047/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Tuvalu National Library and Archives  
-   Link: <a href="https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: meys.gov.tv  
    Title: library and archives  
-   Link: <a href="https://meys.gov.tv/about-us/library-and-archives" target="_blank" rel="noopener noreferrer nofollow">https://meys.gov.tv/about-us/library-and-archives</a>  
+   Link:<a href="https://meys.gov.tv/about-us/library-and-archives" target="_blank" rel="noopener noreferrer nofollow">https://meys.gov.tv/about-us/library-and-archives</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/824167212081655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/824167212081655/</a>  
+   Link:<a href="https://www.facebook.com/groups/253550249143357/posts/824167212081655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/824167212081655/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/?search=united+states+i" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?search=united+states+i</a>  
+   Link:<a href="https://www.war.gov/UFO/?search=united+states+i" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?search=united+states+i</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1A3f6G7H8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1A3f6G7H8I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific Island Sky Anomalies &amp; Meteorological Explanations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1A3f6G7H8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1A3f6G7H8I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific Island Sky Anomalies &amp; Meteorological Explanations...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Pacific Island Sky Anomalies & Meteorological Explanations  
-   Link: <a href="https://www.youtube.com/watch?v=Y2B4g7H9I0J" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y2B4g7H9I0J</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Radar Echoes and Weather Phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y2B4g7H9I0J" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y2B4g7H9I0J</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Radar Echoes and Weather Phenomena...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Aaro Historical Review of US Government UAP Records  
-   Link: <a href="https://www.youtube.com/watch?v=A4D6i9K2L3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A4D6i9K2L3M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO Sightings: Common Optical Illusions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A4D6i9K2L3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A4D6i9K2L3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO Sightings: Common Optical Illusions...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancientnexus/posts/2332698020442354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2332698020442354/</a>  
+   Link:<a href="https://www.facebook.com/groups/ancientnexus/posts/2332698020442354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2332698020442354/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/philip-solomon" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/philip-solomon</a>  
+   Link:<a href="https://www.gettyimages.com/photos/philip-solomon" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/philip-solomon</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ftvformosanews/videos/rare-fireball-meteor-lights-up-night-sky-delighting-enthusiasts/727944293711744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ftvformosanews/videos/rare-fireball-meteor-lights-up-night-sky-delighting-enthusiasts/727944293711744/</a>
+   Link:<a href="https://www.facebook.com/ftvformosanews/videos/rare-fireball-meteor-lights-up-night-sky-delighting-enthusiasts/727944293711744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ftvformosanews/videos/rare-fireball-meteor-lights-up-night-sky-delighting-enthusiasts/727944293711744/</a>

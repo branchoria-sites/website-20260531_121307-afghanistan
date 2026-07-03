@@ -248,14 +248,14 @@ image: /assets/images/Nicaragua_481264_el_sauce_lights_fd0bcb-Illustration-1-soc
 
 ## Introduction
 
-El Sauce occupies an unusual place in [Nicaragua]({{ 'what-really-happened-in-nicaraguas-ufo/' | relative_url }})’s UFO folklore because the story is less about a single documented incident than about how recurring lights, volcanic landscapes, rural isolation and local rumour can combine into a durable regional legend. Unlike the better-known Managua archival case from 1962 or later satellite and rocket-body misidentifications elsewhere in the country, the El Sauce tradition survives mainly through local retellings about unexplained lights near Los Limones and in the hill country north of León. The result is a useful case study in how UFO narratives develop when physical evidence is limited but environmental and cultural factors make unusual sky observations feel meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
+El Sauce occupies an unusual place in [Nicaragua]({{ 'what-really-happened-in-nicaraguas-ufo/' | relative_url }})’s UFO folklore because the story is less about a single documented incident than about how recurring lights, volcanic landscapes, rural isolation and local rumour can combine into a durable regional legend. Unlike the better-known Managua archival case from 1962 or later satellite and rocket-body misidentifications elsewhere in the country, the El Sauce tradition survives mainly through local retellings about unexplained lights near Los Limones and in the hill country north of León. The result is a useful case study in how UFO narratives develop when physical evidence is limited but environmental and cultural factors make unusual sky observations feel meaningful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Nicaragua_481264_el_sauce_lights_fd0bcb-Illustration-1-dark.svg" | relative_url }}" alt="El Sauce illustration 1" data-theme-src-dark="{{ "/assets/images/Nicaragua_481264_el_sauce_lights_fd0bcb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nicaragua_481264_el_sauce_lights_fd0bcb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The available record is thin and fragmented. There is no widely cited government investigation, military file or instrumented observation establishing an extraordinary event in El Sauce. What exists instead is a cluster of stories linking strange lights to volcanic terrain, tremors, remote valleys and longstanding anxieties about the powerful geological forces that shape western Nicaragua. That distinction matters because El Sauce is often discussed as folklore first and as evidence second.
 
 ## Why El Sauce Became a UFO Hotspot
 
-El Sauce lies in a transitional landscape between Nicaragua’s Pacific depression and the more rugged interior highlands. The municipality is characterised by hills, valleys, elevated viewpoints and isolated rural areas rather than the dense urban environment of Managua. Such terrain naturally produces distant light sightings that can be difficult to judge for size, altitude or distance, especially at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
+El Sauce lies in a transitional landscape between Nicaragua’s Pacific depression and the more rugged interior highlands. The municipality is characterised by hills, valleys, elevated viewpoints and isolated rural areas rather than the dense urban environment of Managua. Such terrain naturally produces distant light sightings that can be difficult to judge for size, altitude or distance, especially at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
 
 In many UFO traditions worldwide, recurring reports emerge where three conditions overlap:
 
@@ -283,11 +283,11 @@ The Los Limones narratives therefore function more as a local legend cycle than 
 
 ## Volcano Anxiety and Rumour Cycles
 
-Western Nicaragua is one of Central America's most volcanically active regions. Even when El Sauce itself is not adjacent to a major erupting volcano, local communities live within a national landscape shaped by volcanic hazards, seismic activity and periodic geological unrest. The cultural impact of that environment extends beyond actual eruptions. People become accustomed to interpreting strange sounds, lights and atmospheric effects through the lens of geological danger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=l465HHlXPcg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Experience: Living with volcanic gases, Masaya, Nicaragua...Volcanoes can impact the lives of local communities by noxious gas em...</span></span></span>
+Western Nicaragua is one of Central America's most volcanically active regions. Even when El Sauce itself is not adjacent to a major erupting volcano, local communities live within a national landscape shaped by volcanic hazards, seismic activity and periodic geological unrest. The cultural impact of that environment extends beyond actual eruptions. People become accustomed to interpreting strange sounds, lights and atmospheric effects through the lens of geological danger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=l465HHlXPcg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Experience: Living with volcanic gases, Masaya, Nicaragua...Volcanoes can impact the lives of local communities by noxious gas em...</span></span></span>
 
 Volcano-related anxiety can influence UFO narratives in several ways:
 
-**Unusual atmospheric lighting:** Volcanic regions can produce haze, gas emissions and visual distortions that affect how distant lights appear, particularly at night. Communities already primed to expect unusual natural phenomena may treat ambiguous observations as significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=l465HHlXPcg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Experience: Living with volcanic gases, Masaya, Nicaragua...Volcanoes can impact the lives of local communities by noxious gas em...</span></span></span>
+**Unusual atmospheric lighting:** Volcanic regions can produce haze, gas emissions and visual distortions that affect how distant lights appear, particularly at night. Communities already primed to expect unusual natural phenomena may treat ambiguous observations as significant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=l465HHlXPcg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Experience: Living with volcanic gases, Masaya, Nicaragua...Volcanoes can impact the lives of local communities by noxious gas em...</span></span></span>
 
 **Rumour amplification after tremors:** Small earthquakes and ground vibrations often trigger discussions about hidden causes. In some folklore traditions, mysterious lights become linked to seismic events even when no direct connection is demonstrated.
 
@@ -323,7 +323,7 @@ The most useful way to understand El Sauce is to separate three different layers
 
 ### What is reasonably supported
 
-There is little reason to doubt that residents reported unusual lights and discussed them for years. The geography of El Sauce and its surrounding highlands provides conditions where distant luminous objects can attract attention and generate speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
+There is little reason to doubt that residents reported unusual lights and discussed them for years. The geography of El Sauce and its surrounding highlands provides conditions where distant luminous objects can attract attention and generate speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
 
 ### What remains uncertain
 
@@ -340,199 +340,199 @@ El Sauce is significant not because it produced Nicaragua’s strongest UFO evid
 
 The El Sauce lights occupy the boundary between observation and storytelling. A distant light, a tremor, a rumour and a dramatic landscape can combine into a narrative that lasts for decades even when the original event remains unclear. That makes El Sauce an important example within Nicaragua’s broader UFO history: a case where folklore itself became the phenomenon.
 
-Rather than demonstrating a verified unidentified craft, the El Sauce tradition shows how mystery can be created, reinforced and preserved by geography, cultural memory and the enduring influence of volcanic landscapes on local imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
+Rather than demonstrating a verified unidentified craft, the El Sauce tradition shows how mystery can be created, reinforced and preserved by geography, cultural memory and the enduring influence of volcanic landscapes on local imagination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapanicaragua.com">[Mapa Nacional de Turismo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapanicaragua.com</span><span class="citation-popover-title">Mapa Nacional de Turismo Nature of El Sauce</span><span class="citation-popover-snippet">Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</span><span class="citation-popover-meta">Published: July 21, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ttd0MiR1DR4" title="UFO flies through erupting volcano at 3400 mph, according to Military UAP Analysts!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ttd0MiR1DR4" target="_blank" rel="noopener noreferrer">UFO flies through erupting volcano at 3400 mph, according to Military UAP Analysts!</a></p><p class="youtube-embed-meta">Channel: The Angry Astronaut &middot; Views: 41.9K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ttd0MiR1DR4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ttd0MiR1DR4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why El Sauce Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why El Sauce Became a UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for separating observation from interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for separating observation from interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Examines how unusual sky stories persist across cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual sky stories persist across cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO context where local evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context where local evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Strong match for a page focused on folklore, recurring lights and local legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for a page focused on folklore, recurring lights and local legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-el-sauce-became-a-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-el-sauce-became-a-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Rather than demonstrating a verified unidentified craft, the El Sauce tradition 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Rather than demonstrating a verified unidentified craft, the El Sauce tradition 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Rather than demonstrating a verified unidentified craft, the El Sauce tradition 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Rather than demonstrating a verified unidentified craft, the El Sauce tradition 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Rather than demonstrating a verified unidentified craft, the El Sauce tradition 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,107 +735,106 @@ Rather than demonstrating a verified unidentified craft, the El Sauce tradition 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l465HHlXPcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l465HHlXPcg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience: Living with volcanic gases, Masaya, Nicaragua...Volcanoes can impact the lives of local communities by noxious gas em...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l465HHlXPcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l465HHlXPcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experience: Living with volcanic gases, Masaya, Nicaragua...Volcanoes can impact the lives of local communities by noxious gas em...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
    Title: Aliens arrived to nicaragua  
-   Link: <a href="https://www.youtube.com/watch?v=V7Z_YSVhl6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V7Z_YSVhl6c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El Hoyo mountainThe mission is to go and explore a unique phenomenon a perfectly shaped Circle in the middle of a volcano called eloo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V7Z_YSVhl6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V7Z_YSVhl6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El Hoyo mountainThe mission is to go and explore a unique phenomenon a perfectly shaped Circle in the middle of a volcano called eloo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: The Volcanic UFO Compilation  
-   Link: <a href="https://www.youtube.com/watch?v=Shm04RnHQAc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Shm04RnHQAc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO flies through erupting volcano at 3400 mph, according to Military UAP Analysts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Shm04RnHQAc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Shm04RnHQAc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO flies through erupting volcano at 3400 mph, according to Military UAP Analysts...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ttd0MiR1DR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ttd0MiR1DR4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights Flashed in the Sky During Mexico&#x27;s Latest Earthquake. Why?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ttd0MiR1DR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ttd0MiR1DR4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights Flashed in the Sky During Mexico&#x27;s Latest Earthquake. Why?...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Lights Flashed in the Sky During Mexico's Latest Earthquake. Why?  
-   Link: <a href="https://www.youtube.com/watch?v=EYaCVWgB6XQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EYaCVWgB6XQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One of Geology’s Biggest Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EYaCVWgB6XQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EYaCVWgB6XQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of Geology’s Biggest Mysteries...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: One of Geology’s Biggest Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=2ppfY5G75XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ppfY5G75XA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs DISAPPEAR INTO VOLCANO?! 🌋 Ancient Aliens | #Shorts | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ppfY5G75XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ppfY5G75XA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs DISAPPEAR INTO VOLCANO?! 🌋 Ancient Aliens | #Shorts | History...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: UFOs DISAPPEAR INTO VOLCANO?! 🌋 Ancient Aliens | #Shorts | History  
-   Link: <a href="https://www.youtube.com/watch?v=J6tkjq4LdmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J6tkjq4LdmQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and volcanoes folklore science Where Are The Aliens? | The Extraterrestrial Life | Fermi Paradox Theory | The Dr. Binocs Show Peekab...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J6tkjq4LdmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J6tkjq4LdmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and volcanoes folklore science Where Are The Aliens? | The Extraterrestrial Life | Fermi Paradox Theory | The Dr. Binocs Show Peekab...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mapanicaragua.com  
    Title: Mapa Nacional de Turismo Nature of El Sauce  
-   Link: <a href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow">https://www.mapanicaragua.com/en/nature-of-the-willow/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</p></details>
+   Link:<a href="https://www.mapanicaragua.com/en/nature-of-the-willow/" target="_blank" rel="noopener noreferrer nofollow">https://www.mapanicaragua.com/en/nature-of-the-willow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapa Nacional de TurismoNature of El Sauce - National Tourism MapJuly 21, 2020 — 12 Jan 2023 — The municipality of El Sauce is located no...</p></details>
    Published: July 21, 2020  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faculty.nps.edu  
-   Link: <a href="https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt" target="_blank" rel="noopener noreferrer nofollow">https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nps.eduspanish_dict.txt... Nicaragua|nicaragua nicaragüense|nicaraguan bonito|nice bello|nice lindo|nice rico|nice bueno|nice simpático|n...</p></details>
+   Link:<a href="https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt" target="_blank" rel="noopener noreferrer nofollow">https://faculty.nps.edu/ncrowe/coursematerials/spanish_dict.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nps.eduspanish_dict.txt... Nicaragua|nicaragua nicaragüense|nicaraguan bonito|nice bello|nice lindo|nice rico|nice bueno|nice simpático|n...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/51666/1/17.Nicholas%20J.%20Saunders..pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/51666/1/17.Nicholas%20J.%20Saunders..pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peoples of the CaribbeanLibrary of Congress Cataloging-in-Publication Data. Saunders, Nicholas J. The peoples of the Caribbean: An encycl...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/51666/1/17.Nicholas%20J.%20Saunders..pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/51666/1/17.Nicholas%20J.%20Saunders..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peoples of the CaribbeanLibrary of Congress Cataloging-in-Publication Data. Saunders, Nicholas J. The peoples of the Caribbean: An encycl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
    Title: Spanish-English (Dictionnaire) | PDF | Nature Spanish-English (Dictionnaire)  
-   Link: <a href="https://www.scribd.com/doc/160274031/Spanish-English-Dictionnaire" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/160274031/Spanish-English-Dictionnaire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spanish-English (Dictionnaire) | PDF | NatureSpanish-English (Dictionnaire) - Free download as Word Doc (.doc /.docx), PDF File (.pdf)...</p></details>
+   Link:<a href="https://www.scribd.com/doc/160274031/Spanish-English-Dictionnaire" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/160274031/Spanish-English-Dictionnaire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spanish-English (Dictionnaire) | PDF | NatureSpanish-English (Dictionnaire) - Free download as Word Doc (.doc /.docx), PDF File (.pdf)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sauce steckly hymers torstensson idoli hamence allcock gadget nightside... nicaragua lafee utaka duellists alianza heartbreaking correze...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sauce steckly hymers torstensson idoli hamence allcock gadget nightside... nicaragua lafee utaka duellists alianza heartbreaking correze...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/206311666199794/posts/1316086115222338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/206311666199794/posts/1316086115222338/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>we would be making any stops where we could buy coffee or...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/206311666199794/posts/1316086115222338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/206311666199794/posts/1316086115222338/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we would be making any stops where we could buy coffee or...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: justice.gov  
    Title: batista teran song titles  
-   Link: <a href="https://www.justice.gov/d9/2023-06/batista_teran_song_titles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-06/batista_teran_song_titles.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Victims by Song Title $1000+.xlsx... Folklore. A Golpes De Martillo. A Gosar A Gosar. A Gozar La Rumba. A Gozar Todos... Nicaragua. Band...</p></details>
+   Link:<a href="https://www.justice.gov/d9/2023-06/batista_teran_song_titles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-06/batista_teran_song_titles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Victims by Song Title $1000+.xlsx... Folklore. A Golpes De Martillo. A Gosar A Gosar. A Gozar La Rumba. A Gozar Todos... Nicaragua. Band...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/931208925/Httpsdokumen-pubdownloadthe-Oxford-Book-of-Latin-American-Poetry-a-Bilingual-Anthology-0195124545-9780195124545-HTML-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/931208925/Httpsdokumen-pubdownloadthe-Oxford-Book-of-Latin-American-Poetry-a-Bilingual-Anthology-0195124545-9780195124545-HTML-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a bilingual anthology edited bj. CECILIA VICUÑA.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/931208925/Httpsdokumen-pubdownloadthe-Oxford-Book-of-Latin-American-Poetry-a-Bilingual-Anthology-0195124545-9780195124545-HTML-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/931208925/Httpsdokumen-pubdownloadthe-Oxford-Book-of-Latin-American-Poetry-a-Bilingual-Anthology-0195124545-9780195124545-HTML-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a bilingual anthology edited bj. CECILIA VICUÑA.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/714350810332527/posts/1259831499117786/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/714350810332527/posts/1259831499117786/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>yable ❤️. Nuit à El Chalten. El Chalten...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/714350810332527/posts/1259831499117786/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/714350810332527/posts/1259831499117786/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>yable ❤️. Nuit à El Chalten. El Chalten...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gist.github.com  
-   Link: <a href="https://gist.github.com/Lysak/a0ca30a3e6732d39199b27c170a8cd28?permalink_comment_id=5465796" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Lysak/a0ca30a3e6732d39199b27c170a8cd28?permalink_comment_id=5465796</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of most used passwords (Why this approach??) · GitHub{passwords:&quot;123456,password,12345678,qwerty,123456789,12345,1234,111111,1234567,drag...</p></details>
+   Link:<a href="https://gist.github.com/Lysak/a0ca30a3e6732d39199b27c170a8cd28?permalink_comment_id=5465796" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Lysak/a0ca30a3e6732d39199b27c170a8cd28?permalink_comment_id=5465796</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of most used passwords (Why this approach??) · GitHub{passwords:&quot;123456,password,12345678,qwerty,123456789,12345,1234,111111,1234567,drag...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/nilc-nlp/glove-50d/resolve/main/vocab.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/nilc-nlp/glove-50d/resolve/main/vocab.txt?download=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ontem nível tenho situação disso...Read more...</p></details>
+   Link:<a href="https://huggingface.co/nilc-nlp/glove-50d/resolve/main/vocab.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/nilc-nlp/glove-50d/resolve/main/vocab.txt?download=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ontem nível tenho situação disso...Read more...</p></details>

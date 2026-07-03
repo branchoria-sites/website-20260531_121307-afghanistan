@@ -254,14 +254,14 @@ image: /assets/images/Marshall_Islands_ccbdc0_launch_spirals_kwaja_a51a6b-Illust
 
 ## Introduction
 
-Many of the most dramatic “UFO” lights associated with the Marshall Islands are not best understood as isolated mystery sightings at all. They are better read as side effects of a unique aerospace corridor stretching across the Pacific, with [Kwajalein]({{ 'kwajalein/' | relative_url }}) Atoll serving as one of its most important endpoints. The Ronald Reagan Space and Missile Test Range has supported missile defence tests, tracking operations, rocket launches, radar experiments, and re-entry observations for decades. That activity can create luminous spirals, glowing clouds, expanding rings, re-entry streaks, and horizon-spanning trails that look extraordinary to anyone who does not know a launch is underway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+Many of the most dramatic “UFO” lights associated with the Marshall Islands are not best understood as isolated mystery sightings at all. They are better read as side effects of a unique aerospace corridor stretching across the Pacific, with [Kwajalein]({{ 'kwajalein/' | relative_url }}) Atoll serving as one of its most important endpoints. The Ronald Reagan Space and Missile Test Range has supported missile defence tests, tracking operations, rocket launches, radar experiments, and re-entry observations for decades. That activity can create luminous spirals, glowing clouds, expanding rings, re-entry streaks, and horizon-spanning trails that look extraordinary to anyone who does not know a launch is underway.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0_launch_spirals_kwaja_a51a6b-Illustration-1-dark.svg" | relative_url }}" alt="Launch Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Marshall_Islands_ccbdc0_launch_spirals_kwaja_a51a6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Marshall_Islands_ccbdc0_launch_spirals_kwaja_a51a6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean every unusual light over the Marshall Islands is automatically explained. It does mean that the region contains a well-documented mechanism for producing some of the Pacific’s strangest sky displays. In several cases, understanding launch geometry, fuel venting, altitude, and timing changes a report from “unknown craft” into a predictable consequence of missile and space operations.
 
 ## Vandenberg-to-Kwajalein light shows
 
-One reason the Marshall Islands appear repeatedly in discussions of unusual aerial phenomena is geography. Kwajalein sits inside a long-established network of Pacific test corridors used for ballistic missile and missile-defence programmes. The Reagan Test Range covers a vast area of ocean and supports long-range missile testing, tracking, telemetry, optical observation, and impact monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+One reason the Marshall Islands appear repeatedly in discussions of unusual aerial phenomena is geography. Kwajalein sits inside a long-established network of Pacific test corridors used for ballistic missile and missile-defence programmes. The Reagan Test Range covers a vast area of ocean and supports long-range missile testing, tracking, telemetry, optical observation, and impact monitoring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
 For decades, missile launches from North America have travelled across the Pacific toward instrumentation near Kwajalein. From the ground, observers may only see fragments of the event:
 
@@ -277,7 +277,7 @@ For decades, missile launches from North America have travelled across the Pacif
 
 The result is a recurring pattern in UFO reporting. Witnesses often describe a single strange light, while range operators are observing a complex sequence involving boosters, payloads, re-entry vehicles, tracking targets, and sensor platforms.
 
-The Marshall Islands occupy a particularly important position because they are frequently closer to the terminal phases of tests than mainland observers. What appears to be a mysterious light descending into the ocean may correspond to a planned re-entry event being tracked by military instrumentation hundreds of kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ronald Reagan Space and Missile Test Range</span><span class="citation-popover-snippet">Ronald Reagan Space and Missile Test Range</span></span></span>
+The Marshall Islands occupy a particularly important position because they are frequently closer to the terminal phases of tests than mainland observers. What appears to be a mysterious light descending into the ocean may correspond to a planned re-entry event being tracked by military instrumentation hundreds of kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ronald Reagan Space and Missile Test Range</span><span class="citation-popover-snippet">Ronald Reagan Space and Missile Test Range</span></span></span>
 
 ### Why Pacific observers see different shapes
 
@@ -295,7 +295,7 @@ Someone near the launch point may see a conventional rocket ascent. An observer 
 
 </div>
 
-Perspective matters because high-altitude exhaust is illuminated by sunlight long after the ground below has entered darkness. This creates the classic “space jellyfish” effect, where a launch becomes visible across enormous distances despite occurring beyond the local horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vvng.com">[Victor Valley News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vvng.com</span><span class="citation-popover-title">Victor Valley News Space X Falcon 9 Launch Creates Glowing Spiral Visible</span><span class="citation-popover-snippet">Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...February 15, 2026 — 15 Feb 2026 — The phenomenon, sometimes ca...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+Perspective matters because high-altitude exhaust is illuminated by sunlight long after the ground below has entered darkness. This creates the classic “space jellyfish” effect, where a launch becomes visible across enormous distances despite occurring beyond the local horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vvng.com">[Victor Valley News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vvng.com</span><span class="citation-popover-title">Victor Valley News Space X Falcon 9 Launch Creates Glowing Spiral Visible</span><span class="citation-popover-snippet">Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...February 15, 2026 — 15 Feb 2026 — The phenomenon, sometimes ca...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOOcYtOjtQU" title="SpaceX launch creates glowing spiral over UK sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer">SpaceX launch creates glowing spiral over UK sky</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 127.2K &middot; Uploaded: March 2025 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOOcYtOjtQU">Open on YouTube</a></p></div></div></div>
 
@@ -303,9 +303,9 @@ Perspective matters because high-altitude exhaust is illuminated by sunlight lon
 
 The most visually spectacular category of launch-related UFO report involves spirals.
 
-Modern rockets frequently vent excess propellant after completing portions of their mission. If the vehicle is rotating while releasing fuel, the exhaust can spread outward in a corkscrew pattern. At high altitude the material freezes into reflective particles and catches sunlight, producing a bright spiral visible over huge regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2025 03 spacex rocket fuel stunning swirl</span><span class="citation-popover-snippet">SpaceX rocket fuel makes stunning swirl in European skyMar 25, 2025 — &quot;The spiral shape happened because the tumbling rocket was spinning...</span></span></span>
+Modern rockets frequently vent excess propellant after completing portions of their mission. If the vehicle is rotating while releasing fuel, the exhaust can spread outward in a corkscrew pattern. At high altitude the material freezes into reflective particles and catches sunlight, producing a bright spiral visible over huge regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2025 03 spacex rocket fuel stunning swirl</span><span class="citation-popover-snippet">SpaceX rocket fuel makes stunning swirl in European skyMar 25, 2025 — &quot;The spiral shape happened because the tumbling rocket was spinning...</span></span></span>
 
-Recent SpaceX launches have produced exactly this effect over Europe, North America, and the Pacific, generating widespread UFO speculation before aerospace experts identified the source. Investigators have repeatedly traced the displays to fuel venting from upper stages that were spinning while de-orbiting or performing orbital manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/d0f19d48010a2ccc26ccba31387d47d5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The images, taken by a camera near the Subaru telescope, showed a white orb evolving into a spiral before fading away. This was noticed b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space For Marshall Islands observers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious blue spiral spotted over European skies</span><span class="citation-popover-snippet">25, 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Compl...</span></span></span>, similar mechanisms can accompany both civilian and military launches associated with Pacific tracking networks.
+Recent SpaceX launches have produced exactly this effect over Europe, North America, and the Pacific, generating widespread UFO speculation before aerospace experts identified the source. Investigators have repeatedly traced the displays to fuel venting from upper stages that were spinning while de-orbiting or performing orbital manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/d0f19d48010a2ccc26ccba31387d47d5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The images, taken by a camera near the Subaru telescope, showed a white orb evolving into a spiral before fading away. This was noticed b...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space For Marshall Islands observers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious blue spiral spotted over European skies</span><span class="citation-popover-snippet">25, 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Compl...</span></span></span>, similar mechanisms can accompany both civilian and military launches associated with Pacific tracking networks.
 
 ### The shapes most often mistaken for unknown craft
 
@@ -313,11 +313,11 @@ Several recurring launch effects appear in UFO databases worldwide.
 
 **Expanding luminous clouds**
 
-Rocket exhaust released in thin upper-atmosphere conditions can expand to enormous size. Witnesses sometimes report a “glowing nebula” or “artificial cloud” that appears too large to be an aircraft contrail. In reality, the cloud may be hundreds of kilometres above Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vvng.com">[Victor Valley News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vvng.com</span><span class="citation-popover-title">Victor Valley News Space X Falcon 9 Launch Creates Glowing Spiral Visible</span><span class="citation-popover-snippet">Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...February 15, 2026 — 15 Feb 2026 — The phenomenon, sometimes ca...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+Rocket exhaust released in thin upper-atmosphere conditions can expand to enormous size. Witnesses sometimes report a “glowing nebula” or “artificial cloud” that appears too large to be an aircraft contrail. In reality, the cloud may be hundreds of kilometres above Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vvng.com">[Victor Valley News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vvng.com</span><span class="citation-popover-title">Victor Valley News Space X Falcon 9 Launch Creates Glowing Spiral Visible</span><span class="citation-popover-snippet">Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...February 15, 2026 — 15 Feb 2026 — The phenomenon, sometimes ca...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
 
 **Spiral wheels and vortex patterns**
 
-These are among the most dramatic sightings because they seem structured and geometric. The combination of spinning rocket stages and vented fuel naturally creates circular and spiral forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science Ghostly &#x27;spiral&#x27; photobombs Perseid meteors over several US states</span><span class="citation-popover-snippet">states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2025 03 spacex rocket fuel stunning swirl</span><span class="citation-popover-snippet">SpaceX rocket fuel makes stunning swirl in European skyMar 25, 2025 — &quot;The spiral shape happened because the tumbling rocket was spinning...</span></span></span>
+These are among the most dramatic sightings because they seem structured and geometric. The combination of spinning rocket stages and vented fuel naturally creates circular and spiral forms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science Ghostly &#x27;spiral&#x27; photobombs Perseid meteors over several US states</span><span class="citation-popover-snippet">states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2025 03 spacex rocket fuel stunning swirl</span><span class="citation-popover-snippet">SpaceX rocket fuel makes stunning swirl in European skyMar 25, 2025 — &quot;The spiral shape happened because the tumbling rocket was spinning...</span></span></span>
 
 **Multiple lights travelling together**
 
@@ -344,7 +344,7 @@ For example:
 
 </div>
 
-Launch-related phenomena often exhibit exactly those characteristics. A plume illuminated from beyond the horizon can brighten dramatically without changing direction. A spiral can appear stationary despite forming around an object travelling at orbital speed. A cloud of frozen exhaust can resemble a structured craft because sunlight reveals only part of the expanding plume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/spiral-sky-spacex-rocket-launch-1876397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">spiral sky spacex rocket launch 1876397</span><span class="citation-popover-snippet">Eerie Spiral Lights Up Night Sky in Wake of SpaceX LaunchMar 12, 2024 — &quot;The rocket stage is rotating, hence the spiral.&quot; This venting is...</span></span></span>
+Launch-related phenomena often exhibit exactly those characteristics. A plume illuminated from beyond the horizon can brighten dramatically without changing direction. A spiral can appear stationary despite forming around an object travelling at orbital speed. A cloud of frozen exhaust can resemble a structured craft because sunlight reveals only part of the expanding plume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">Hannah and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/spiral-sky-spacex-rocket-launch-1876397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">spiral sky spacex rocket launch 1876397</span><span class="citation-popover-snippet">Eerie Spiral Lights Up Night Sky in Wake of SpaceX LaunchMar 12, 2024 — &quot;The rocket stage is rotating, hence the spiral.&quot; This venting is...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZmGYaWQU4i0" title="U.S. Conducts Test Flight of Unarmed Missile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZmGYaWQU4i0" target="_blank" rel="noopener noreferrer">U.S. Conducts Test Flight of Unarmed Missile</a></p><p class="youtube-embed-meta">Channel: Voice of America &middot; Views: 3.9K &middot; Uploaded: August 2020 &middot; Length: 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZmGYaWQU4i0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZmGYaWQU4i0">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +354,7 @@ One of the most useful questions in any Marshall Islands sighting investigation 
 
 That question does not automatically solve a case, but it often determines whether a report belongs in the “unexplained” category.
 
-In regions far from major aerospace infrastructure, a spectacular light may deserve extensive investigation. Near Kwajalein, investigators have an additional variable to examine first. The presence of one of the world's most active missile and space-surveillance ranges means unusual lights frequently have a documented operational context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+In regions far from major aerospace infrastructure, a spectacular light may deserve extensive investigation. Near Kwajalein, investigators have an additional variable to examine first. The presence of one of the world's most active missile and space-surveillance ranges means unusual lights frequently have a documented operational context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
 A report becomes significantly stronger when:
 
@@ -382,203 +382,203 @@ A sighting initially presented as an unexplained object may look very different 
 
 The most important lesson from Marshall Islands launch-related sightings is not that every mystery has been solved. It is that Kwajalein changes the baseline probability of explanation.
 
-The atoll sits within a long-running environment of missile testing, space tracking, radar observation, and aerospace experimentation. That setting routinely produces visual effects rare enough to surprise even experienced observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
+The atoll sits within a long-running environment of missile testing, space tracking, radar observation, and aerospace experimentation. That setting routinely produces visual effects rare enough to surprise even experienced observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[MIT Lincoln Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</span></span></span>
 
-As rocket launches become more frequent worldwide, spiral clouds and illuminated exhaust plumes are becoming increasingly familiar to astronomers and atmospheric scientists. Recent internationally observed spirals linked to Falcon 9 missions demonstrate how easily these displays can trigger extraterrestrial speculation when viewers encounter them without context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science Ghostly &#x27;spiral&#x27; photobombs Perseid meteors over several US states</span><span class="citation-popover-snippet">states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious blue spiral spotted over European skies</span><span class="citation-popover-snippet">25, 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Compl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+As rocket launches become more frequent worldwide, spiral clouds and illuminated exhaust plumes are becoming increasingly familiar to astronomers and atmospheric scientists. Recent internationally observed spirals linked to Falcon 9 missions demonstrate how easily these displays can trigger extraterrestrial speculation when viewers encounter them without context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science Ghostly &#x27;spiral&#x27; photobombs Perseid meteors over several US states</span><span class="citation-popover-snippet">states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious blue spiral spotted over European skies</span><span class="citation-popover-snippet">25, 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Compl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 For the Marshall Islands, that context is especially important. Some of the region's most striking UFO-like spectacles are not random anomalies but visible signatures of the same missile and space infrastructure that has shaped Kwajalein's history for more than half a century.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Jbhsug3WYc" title="Minuteman III ICBM Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Jbhsug3WYc" target="_blank" rel="noopener noreferrer">Minuteman III ICBM Launch</a></p><p class="youtube-embed-meta">Channel: MiliSource &middot; Views: 5.0K &middot; Uploaded: August 2017 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Jbhsug3WYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Jbhsug3WYc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Missile Tests Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Missile Tests Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts explainable aerospace events with stronger unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts explainable aerospace events with stronger unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand advanced flight and testing environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand advanced flight and testing environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides background on aerospace culture and high-speed flight operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Provides background on aerospace culture and high-speed flight operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
-        </h4>
-        <p class="fr-book-author">By John D. Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4709713-M.jpg" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
+</h4>
+<p class="fr-book-author">By John D. Clark</p>
         
-        <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-missile-tests-look-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-missile-tests-look-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,169 +781,168 @@ For the Marshall Islands, that context is especially important. Some of the regi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ronald Reagan Space and Missile Test Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ronald_Reagan_Space_and_Missile_Test_Range</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ll.mit.edu  
-   Link: <a href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/about/facilities/reagan-test-site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</p></details>
+   Link:<a href="https://www.ll.mit.edu/about/facilities/reagan-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/about/facilities/reagan-test-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Lincoln LaboratoryRonald Reagan Space and Missile Test RangeThe Ronald Reagan Space and Missile Test Range is a world-class range and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: phys.org  
    Title: 2025 03 spacex rocket fuel stunning swirl  
-   Link: <a href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket fuel makes stunning swirl in European skyMar 25, 2025 — &quot;The spiral shape happened because the tumbling rocket was spinning...</p></details>
+   Link:<a href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket fuel makes stunning swirl in European skyMar 25, 2025 — &quot;The spiral shape happened because the tumbling rocket was spinning...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: Mysterious blue spiral spotted over European skies  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Compl...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Compl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsweek.com  
    Title: spiral sky spacex rocket launch 1876397  
-   Link: <a href="https://www.newsweek.com/spiral-sky-spacex-rocket-launch-1876397" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/spiral-sky-spacex-rocket-launch-1876397</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eerie Spiral Lights Up Night Sky in Wake of SpaceX LaunchMar 12, 2024 — &quot;The rocket stage is rotating, hence the spiral.&quot; This venting is...</p></details>
+   Link:<a href="https://www.newsweek.com/spiral-sky-spacex-rocket-launch-1876397" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/spiral-sky-spacex-rocket-launch-1876397</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eerie Spiral Lights Up Night Sky in Wake of SpaceX LaunchMar 12, 2024 — &quot;The rocket stage is rotating, hence the spiral.&quot; This venting is...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: x rocket creates galaxy like spiral in northern lights  
-   Link: <a href="https://www.space.com/spacex-rocket-creates-galaxy-like-spiral-in-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-rocket-creates-galaxy-like-spiral-in-northern-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dying SpaceX rocket creates glowing, galaxy-like spiral in...21 Mar 2024 — A large swirl of white light that temporarily outshone vibran...</p></details>
+   Link:<a href="https://www.space.com/spacex-rocket-creates-galaxy-like-spiral-in-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-rocket-creates-galaxy-like-spiral-in-northern-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dying SpaceX rocket creates glowing, galaxy-like spiral in...21 Mar 2024 — A large swirl of white light that temporarily outshone vibran...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: x rocket launch blue spiral photo  
-   Link: <a href="https://www.space.com/spacex-rocket-launch-blue-spiral-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-rocket-launch-blue-spiral-photo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wild blue spiral in New Zealand sky likely made by SpaceX...Jun 22, 2022 — As for the spiral seen in New Zealand, the galaxy-shaped feat...</p></details>
+   Link:<a href="https://www.space.com/spacex-rocket-launch-blue-spiral-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-rocket-launch-blue-spiral-photo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wild blue spiral in New Zealand sky likely made by SpaceX...Jun 22, 2022 — As for the spiral seen in New Zealand, the galaxy-shaped feat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vvng.com  
    Title: Victor Valley News Space X Falcon 9 Launch Creates Glowing Spiral Visible  
-   Link: <a href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...February 15, 2026 — 15 Feb 2026 — The phenomenon, sometimes ca...</p></details>
+   Link:<a href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...February 15, 2026 — 15 Feb 2026 — The phenomenon, sometimes ca...</p></details>
    Published: February 15, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
+   Link:<a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
    Published: March 24, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skyatnightmagazine.com  
    Title: strange spiral cloud in the sky  
-   Link: <a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hannah and...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hannah and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/d0f19d48010a2ccc26ccba31387d47d5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/d0f19d48010a2ccc26ccba31387d47d5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The images, taken by a camera near the Subaru telescope, showed a white orb evolving into a spiral before fading away. This was noticed b...</p></details>
+   Link:<a href="https://apnews.com/article/d0f19d48010a2ccc26ccba31387d47d5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/d0f19d48010a2ccc26ccba31387d47d5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The images, taken by a camera near the Subaru telescope, showed a white orb evolving into a spiral before fading away. This was noticed b...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: livescience.com  
    Title: Live Science Ghostly 'spiral' photobombs Perseid meteors over several US states  
-   Link: <a href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</p></details>
+   Link:<a href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch creates glowing spiral over UK sky... caused by a fuel dump from a SpaceX Falcon 9 rocket that launched in Florida on Monda...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch creates glowing spiral over UK sky... caused by a fuel dump from a SpaceX Falcon 9 rocket that launched in Florida on Monda...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: livenowfox.com  
    Title: Space X and other launch  
-   Link: <a href="https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX spy satellite launch leaves otherworldly spiral...Mar 25, 2025 — The cause of the cloud was either an exhaust plume or leftover fu...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX spy satellite launch leaves otherworldly spiral...Mar 25, 2025 — The cause of the cloud was either an exhaust plume or leftover fu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/space-exploration/dying-spacex-rocket-triggers-giant-spiral-of-light-above-uk-and-europe-during-secret-mission" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/dying-spacex-rocket-triggers-giant-spiral-of-light-above-uk-and-europe-during-secret-mission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dying SpaceX rocket triggers giant spiral of light above UK...Mar 25, 2025 — SpaceX spirals occur when the second stage of a Falcon 9 ro...</p></details>
+   Link:<a href="https://www.livescience.com/space/space-exploration/dying-spacex-rocket-triggers-giant-spiral-of-light-above-uk-and-europe-during-secret-mission" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/dying-spacex-rocket-triggers-giant-spiral-of-light-above-uk-and-europe-during-secret-mission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dying SpaceX rocket triggers giant spiral of light above UK...Mar 25, 2025 — SpaceX spirals occur when the second stage of a Falcon 9 ro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scmp.com  
    Title: spacex rocket fuel makes stunning swirl european sky  
-   Link: <a href="https://www.scmp.com/news/world/united-states-canada/article/3303870/spacex-rocket-fuel-makes-stunning-swirl-european-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/world/united-states-canada/article/3303870/spacex-rocket-fuel-makes-stunning-swirl-european-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket fuel makes stunning swirl in European skyMar 26, 2025 — The spiral was created after the rocket&#x27;s first-stage booster, whic...</p></details>
+   Link:<a href="https://www.scmp.com/news/world/united-states-canada/article/3303870/spacex-rocket-fuel-makes-stunning-swirl-european-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/world/united-states-canada/article/3303870/spacex-rocket-fuel-makes-stunning-swirl-european-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket fuel makes stunning swirl in European skyMar 26, 2025 — The spiral was created after the rocket&#x27;s first-stage booster, whic...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.stackexchange.com  
    Title: why is one of these two concurrent fuel dump spirals blue  
-   Link: <a href="https://space.stackexchange.com/questions/24414/why-is-one-of-these-two-concurrent-fuel-dump-spirals-blue" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/24414/why-is-one-of-these-two-concurrent-fuel-dump-spirals-blue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is one of these two concurrent fuel-dump spirals blue?Jan 12, 2018 — I think this shows two types of materials emanating from the errant...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/24414/why-is-one-of-these-two-concurrent-fuel-dump-spirals-blue" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/24414/why-is-one-of-these-two-concurrent-fuel-dump-spirals-blue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is one of these two concurrent fuel-dump spirals blue?Jan 12, 2018 — I think this shows two types of materials emanating from the errant...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/Photos/igphoto/2002191715/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2002191715/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kwajalein SkyA threat-representative ICBM target launches from the Ronald Reagan Ballistic Missile Defense Test Site on Kwajalein Atoll i...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Photos/igphoto/2002191715/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2002191715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kwajalein SkyA threat-representative ICBM target launches from the Ronald Reagan Ballistic Missile Defense Test Site on Kwajalein Atoll i...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/9716505598394236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/9716505598394236/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Spiral in the Sky: SpaceX Falcon 9 Rocket...When the rocket&#x27;s upper stage separates, it vents leftover fuel while spinning as it fa...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/9716505598394236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/9716505598394236/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Spiral in the Sky: SpaceX Falcon 9 Rocket...When the rocket&#x27;s upper stage separates, it vents leftover fuel while spinning as it fa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help identifying this weird spiral: r/telescopesThis is from a rocket launch. What you saw was basically a rocket moving directly away f...</p></details>
+   Link:<a href="https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help identifying this weird spiral: r/telescopesThis is from a rocket launch. What you saw was basically a rocket moving directly away f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bechtel.com  
-   Link: <a href="https://www.bechtel.com/projects/reagan-test-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.bechtel.com/projects/reagan-test-site/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reagan Test SiteThe Reagan Test Site includes some of the world&#x27;s most sophisticated instrumentation for performing vital space surveilla...</p></details>
+   Link:<a href="https://www.bechtel.com/projects/reagan-test-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.bechtel.com/projects/reagan-test-site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reagan Test SiteThe Reagan Test Site includes some of the world&#x27;s most sophisticated instrumentation for performing vital space surveilla...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spaceporn/comments/1jjhqzu/this_phenomenon_often_called_a_spacex_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1jjhqzu/this_phenomenon_often_called_a_spacex_spiral/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon, often called a “SpaceX spiral,” occurs...This phenomenon, often called a “SpaceX spiral,” occurs when a Falcon 9 rocket...</p></details>
+   Link:<a href="https://www.reddit.com/r/spaceporn/comments/1jjhqzu/this_phenomenon_often_called_a_spacex_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1jjhqzu/this_phenomenon_often_called_a_spacex_spiral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon, often called a “SpaceX spiral,” occurs...This phenomenon, often called a “SpaceX spiral,” occurs when a Falcon 9 rocket...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAG Kwajalein Atoll and the Ronald Reagan Ballistic Missile...The Reagan test site is unique in the fact that it contributes towards ou...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/451279/usag-kwajalein-atoll-and-ronald-reagan-ballistic-missile-defense-test-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAG Kwajalein Atoll and the Ronald Reagan Ballistic Missile...The Reagan test site is unique in the fact that it contributes towards ou...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: northern lights spiral alaska night sky blue light spirals spacex rocket fuel  
-   Link: <a href="https://www.theguardian.com/us-news/2023/apr/18/northern-lights-spiral-alaska-night-sky-blue-light-spirals-spacex-rocket-fuel" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/apr/18/northern-lights-spiral-alaska-night-sky-blue-light-spirals-spacex-rocket-fuel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue spiral appears amid northern lights in Alaska after...17 Apr 2023 — The cause of the spiral was excess fuel that had been released...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/apr/18/northern-lights-spiral-alaska-night-sky-blue-light-spirals-spacex-rocket-fuel" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/apr/18/northern-lights-spiral-alaska-night-sky-blue-light-spirals-spacex-rocket-fuel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue spiral appears amid northern lights in Alaska after...17 Apr 2023 — The cause of the spiral was excess fuel that had been released...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ArmySMDC/posts/armysmdcs-reagan-test-site-has-such-an-important-role-in-tests/616521470669532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmySMDC/posts/armysmdcs-reagan-test-site-has-such-an-important-role-in-tests/616521470669532/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PT from Vandenberg Space Force Base in California.... Payload and Target: The missile was...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ArmySMDC/posts/armysmdcs-reagan-test-site-has-such-an-important-role-in-tests/616521470669532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmySMDC/posts/armysmdcs-reagan-test-site-has-such-an-important-role-in-tests/616521470669532/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PT from Vandenberg Space Force Base in California.... Payload and Target: The missile was...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: earthsky.org  
    Title: strange spiral in the night sky rocket fuel dump aug 12 2025  
-   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange spiral in the night sky was a rocket fuel dump13 Aug 2025 — Watch more about the strange spiral in the night sky that many people...</p></details>
+   Link:<a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange spiral in the night sky was a rocket fuel dump13 Aug 2025 — Watch more about the strange spiral in the night sky that many people...</p></details>

@@ -261,7 +261,7 @@ Urban witnesses often report:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Lights moving silently in formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+* Lights moving silently in formation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 * Bright objects that suddenly fade or brighten.
 * Hovering points above the coastline.
 * Single lights apparently changing direction.
@@ -277,7 +277,7 @@ Unlike rural sightings, urban Conakry reports are rarely supported by multiple i
 
 During 2024 and early 2025, West African social-media traffic increasingly linked unusual sky lights with Starlink satellites, drone activity, or supposed “spacecraft” events. Guinea was part of this broader regional pattern.
 
-One widely circulated report from the Guinean media environment described a “mysterious spacecraft” or “satellite” associated with Kankan rather than Conakry itself. The language used in reposts and social-media headlines helped reinforce a UFO framing even though later descriptions pointed toward technological debris or aerospace equipment rather than anything extraordinary. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/AYVnews/status/1873833915384754193" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[2X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)ayv newsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, locate...</span></span></span>
+One widely circulated report from the Guinean media environment described a “mysterious spacecraft” or “satellite” associated with Kankan rather than Conakry itself. The language used in reposts and social-media headlines helped reinforce a UFO framing even though later descriptions pointed toward technological debris or aerospace equipment rather than anything extraordinary. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/AYVnews/status/1873833915384754193" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[2X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)ayv newsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, locate...</span></span></span>
 
 Conakry-based online discussion often borrowed imagery from elsewhere. Videos filmed in unrelated countries were sometimes reshared locally with captions claiming they showed lights above Guinea. This is a common problem in modern UFO circulation patterns: the same satellite-train clip may be relabelled repeatedly for different countries within days.
 
@@ -297,9 +297,9 @@ Without those details, a dramatic interpretation can spread faster than verifica
 
 ## Why Starlink Explains Many Conakry Sightings
 
-The strongest single explanation for many Conakry light reports is the visibility of Starlink satellite trains. These appear as lines of bright lights moving together across the sky shortly after launch. Space observers describe them as “strings of pearls” or aligned luminous dots travelling in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The strongest single explanation for many Conakry light reports is the visibility of Starlink satellite trains. These appear as lines of bright lights moving together across the sky shortly after launch. Space observers describe them as “strings of pearls” or aligned luminous dots travelling in formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-This pattern closely matches numerous urban UFO descriptions across Africa, including reports from South Africa and other regions where observers initially believed they were seeing unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ayvnewsCH33/posts/breakinga-mysterious-spacecraft-satellite-has-just-crashed-in-guinea-conakrythe-/1659939914845299/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">AYV NewsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, located in the Eas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">n Kankan, a city in the eastern region of the Republic of Guinea.Read more...</span></span></span>
+This pattern closely matches numerous urban UFO descriptions across Africa, including reports from South Africa and other regions where observers initially believed they were seeing unexplained craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ayvnewsCH33/posts/breakinga-mysterious-spacecraft-satellite-has-just-crashed-in-guinea-conakrythe-/1659939914845299/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">AYV NewsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, located in the Eas...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">n Kankan, a city in the eastern region of the Republic of Guinea.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJSYBIkDuh8" title="Is that a UFO? No... StarLink creates train of satellites across night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer">Is that a UFO? No... StarLink creates train of satellites across night sky</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 2.2K &middot; Uploaded: May 2023 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJSYBIkDuh8">Open on YouTube</a></p></div></div></div>
 
@@ -319,13 +319,13 @@ Typical characteristics include:
 
 </div>
 
-These features naturally trigger UFO speculation. Yet they are consistent with newly deployed low-Earth-orbit satellites reflecting sunlight shortly after sunset or before sunrise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+These features naturally trigger UFO speculation. Yet they are consistent with newly deployed low-Earth-orbit satellites reflecting sunlight shortly after sunset or before sunrise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 
 Conakry’s coastal location can enhance visibility because observers often have wide western and north-western horizons over the Atlantic, improving the chance of seeing orbital passes.
 
 ### Reflection and “Disappearing” Effects
 
-Some witnesses describe lights that brighten suddenly and then vanish. Satellite flares provide a likely explanation. Reflective surfaces on satellites can briefly catch sunlight and create intense flashes before fading as orbital geometry changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+Some witnesses describe lights that brighten suddenly and then vanish. Satellite flares provide a likely explanation. Reflective surfaces on satellites can briefly catch sunlight and create intense flashes before fading as orbital geometry changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 To a ground observer unfamiliar with orbital behaviour, this can resemble:
 
@@ -355,7 +355,7 @@ Small drones increasingly appear in West African cities for filming, security, e
 
 </div>
 
-These traits are often interpreted as anomalous because they differ from conventional aircraft motion. General guidance used by drone and sky-observation specialists notes that drones can pivot sharply, hover, and reverse direction in ways satellites cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hg-robotics.com/blog/hgr-news-6/how-to-identify-mysterious-lights-in-the-night-sky-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hg-robotics.com">[HG Robotics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hg-robotics.com</span><span class="citation-popover-title">HG Robotics How to Identify Mysterious Lights in the Night Sky</span><span class="citation-popover-snippet">They can hover in place, pivot 90 degrees on a dime, or reverse course instantly. · Aircraft...Read more...</span></span></span>
+These traits are often interpreted as anomalous because they differ from conventional aircraft motion. General guidance used by drone and sky-observation specialists notes that drones can pivot sharply, hover, and reverse direction in ways satellites cannot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hg-robotics.com/blog/hgr-news-6/how-to-identify-mysterious-lights-in-the-night-sky-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hg-robotics.com">[HG Robotics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hg-robotics.com</span><span class="citation-popover-title">HG Robotics How to Identify Mysterious Lights in the Night Sky</span><span class="citation-popover-snippet">They can hover in place, pivot 90 degrees on a dime, or reverse course instantly. · Aircraft...Read more...</span></span></span>
 
 Conakry’s expanding media and event culture makes this explanation plausible for many lower-altitude reports.
 
@@ -393,15 +393,15 @@ In practical terms, the city’s reports are best understood as “unidentified 
 <img src="{{ "/assets/images/Guinea_b47b54_conakry_light_sighti_473feb-Illustration-3-dark.svg" | relative_url }}" alt="Conakry Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54_conakry_light_sighti_473feb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54_conakry_light_sighti_473feb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of Public Familiarity With Satellite Technology
 
-One reason Starlink-related sightings generate confusion in Guinea is that large satellite constellations are still relatively unfamiliar to many observers. Yet Starlink visibility has expanded rapidly across Africa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.connectingafrica.com/connectivity/starlink-enters-guinea-bissau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectingafrica.com">[Connecting Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectingafrica.com</span><span class="citation-popover-title">Connecting Africa Starlink enters Guinea-Bissau</span><span class="citation-popover-snippet">Connecting AfricaStarlink enters Guinea-BissauJune 19, 2025 — 19 Jun 2025 — SpaceX&#x27;s satellite Internet service, Starlink, has launched i...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-snippet">Space in AfricaStarlink Goes Live in Guinea-Bissau18 Jun 2025 — Starlink, the satellite internet service operated by SpaceX, is now offic...</span></span></span>
+One reason Starlink-related sightings generate confusion in Guinea is that large satellite constellations are still relatively unfamiliar to many observers. Yet Starlink visibility has expanded rapidly across Africa.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.connectingafrica.com/connectivity/starlink-enters-guinea-bissau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectingafrica.com">[Connecting Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectingafrica.com</span><span class="citation-popover-title">Connecting Africa Starlink enters Guinea-Bissau</span><span class="citation-popover-snippet">Connecting AfricaStarlink enters Guinea-BissauJune 19, 2025 — 19 Jun 2025 — SpaceX&#x27;s satellite Internet service, Starlink, has launched i...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-snippet">Space in AfricaStarlink Goes Live in Guinea-Bissau18 Jun 2025 — Starlink, the satellite internet service operated by SpaceX, is now offic...</span></span></span>
 
-The growing number of satellites in orbit increases the probability of visible passes and reflection events. Researchers note that thousands of Starlink satellites now occupy low Earth orbit and can appear in clustered formations or repeated reflective sequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The growing number of satellites in orbit increases the probability of visible passes and reflection events. Researchers note that thousands of Starlink satellites now occupy low Earth orbit and can appear in clustered formations or repeated reflective sequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This changes the visual environment of the night sky itself. Behaviours that once seemed rare now occur routinely:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Parallel moving lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+* Parallel moving lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 * Sequential brightening.
 * Repeating orbital passes.
 * Multiple objects crossing together.
@@ -434,194 +434,194 @@ The broader Guinean pattern therefore suggests two distinct categories:
 The Conakry cases are useful not because they demonstrate unknown craft, but because they show how rapidly ordinary orbital and aerial phenomena can acquire UFO narratives in a modern social-media environment.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Conakry’s UFO Lights Really Unidentified?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Conakry’s UFO Lights Really Unidentified?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses credible reporting and aviation-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses credible reporting and aviation-related sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to interpreting lights and aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to interpreting lights and aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains common misidentifications and investigation techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common misidentifications and investigation techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps identify satellites, planets, and other sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify satellites, planets, and other sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-conakry-s-ufo-lights-really-unidentified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-conakry-s-ufo-lights-really-unidentified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ The Conakry cases are useful not because they demonstrate unknown craft, but bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ The Conakry cases are useful not because they demonstrate unknown craft, but bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ The Conakry cases are useful not because they demonstrate unknown craft, but bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ The Conakry cases are useful not because they demonstrate unknown craft, but bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ The Conakry cases are useful not because they demonstrate unknown craft, but bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,153 +824,152 @@ The Conakry cases are useful not because they demonstrate unknown craft, but bec
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ayvnewsCH33/posts/breakinga-mysterious-spacecraft-satellite-has-just-crashed-in-guinea-conakrythe-/1659939914845299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ayvnewsCH33/posts/breakinga-mysterious-spacecraft-satellite-has-just-crashed-in-guinea-conakrythe-/1659939914845299/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AYV NewsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, located in the Eas...</p></details>
+   Link:<a href="https://www.facebook.com/ayvnewsCH33/posts/breakinga-mysterious-spacecraft-satellite-has-just-crashed-in-guinea-conakrythe-/1659939914845299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ayvnewsCH33/posts/breakinga-mysterious-spacecraft-satellite-has-just-crashed-in-guinea-conakrythe-/1659939914845299/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AYV NewsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, located in the Eas...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n Kankan, a city in the eastern region of the Republic of Guinea.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Kankan, a city in the eastern region of the Republic of Guinea.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — The satellites can appear as a string of pearls or a &quot;train...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Last night&#x27;s late-night video was Starlink. We have...On Sunday night I noticed almost 26 lights moving in the sky a dir...</p></details>
+   Link:<a href="https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Last night&#x27;s late-night video was Starlink. We have...On Sunday night I noticed almost 26 lights moving in the sky a dir...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/</a>  
+   Link:<a href="https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/southafricans/posts/mystery-solved-many-of-us-have-noticed-strange-fireballs-streaking-across-the-sk/912950971395940/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hg-robotics.com  
    Title: HG Robotics How to Identify Mysterious Lights in the Night Sky  
-   Link: <a href="https://www.hg-robotics.com/blog/hgr-news-6/how-to-identify-mysterious-lights-in-the-night-sky-7" target="_blank" rel="noopener noreferrer nofollow">https://www.hg-robotics.com/blog/hgr-news-6/how-to-identify-mysterious-lights-in-the-night-sky-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They can hover in place, pivot 90 degrees on a dime, or reverse course instantly. · Aircraft...Read more...</p></details>
+   Link:<a href="https://www.hg-robotics.com/blog/hgr-news-6/how-to-identify-mysterious-lights-in-the-night-sky-7" target="_blank" rel="noopener noreferrer nofollow">https://www.hg-robotics.com/blog/hgr-news-6/how-to-identify-mysterious-lights-in-the-night-sky-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They can hover in place, pivot 90 degrees on a dime, or reverse course instantly. · Aircraft...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9106146676074289/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9106146676074289/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>st ten satellites travelling from North West, then the last one travelling...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/9106146676074289/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9106146676074289/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st ten satellites travelling from North West, then the last one travelling...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AfricaViewFacts/posts/guinea-bissau-is-the-latest-african-country-to-approve-starlink-the-low-latency-/740479911821856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AfricaViewFacts/posts/guinea-bissau-is-the-latest-african-country-to-approve-starlink-the-low-latency-/740479911821856/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>latency internet service by Elon Musk’s SpaceX...</p></details>
+   Link:<a href="https://www.facebook.com/AfricaViewFacts/posts/guinea-bissau-is-the-latest-african-country-to-approve-starlink-the-low-latency-/740479911821856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AfricaViewFacts/posts/guinea-bissau-is-the-latest-african-country-to-approve-starlink-the-low-latency-/740479911821856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>latency internet service by Elon Musk’s SpaceX...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/watchpawatv/videos/starlink-in-png/1435925131359441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/watchpawatv/videos/starlink-in-png/1435925131359441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rural internet but sparked debates about regulation...</p></details>
+   Link:<a href="https://www.facebook.com/watchpawatv/videos/starlink-in-png/1435925131359441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/watchpawatv/videos/starlink-in-png/1435925131359441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rural internet but sparked debates about regulation...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK SATELLITE OBSERVING GROUPThe train will rise in the west part of the sky. The train will probably be bright enough, but the moon...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK SATELLITE OBSERVING GROUPThe train will rise in the west part of the sky. The train will probably be bright enough, but the moon...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Starlink or hikers?  
-   Link: <a href="https://www.facebook.com/SchweetPhotograph/posts/starlink-or-hikers-this-morning-just-before-starting-kloof-corner-trail-we-could/1510073887795034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SchweetPhotograph/posts/starlink-or-hikers-this-morning-just-before-starting-kloof-corner-trail-we-could/1510073887795034/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This morning just before starting Kloof...For those who are interested in the Starlink Satellite Trains there will be a very good sighti...</p></details>
+   Link:<a href="https://www.facebook.com/SchweetPhotograph/posts/starlink-or-hikers-this-morning-just-before-starting-kloof-corner-trail-we-could/1510073887795034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SchweetPhotograph/posts/starlink-or-hikers-this-morning-just-before-starting-kloof-corner-trail-we-could/1510073887795034/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This morning just before starting Kloof...For those who are interested in the Starlink Satellite Trains there will be a very good sighti...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/stories?srsltid=AfmBOopk6mrWz3fnZNBHea82fHNeOteOjk00ObId1wdHW6Ut1UrXjLG8" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/stories?srsltid=AfmBOopk6mrWz3fnZNBHea82fHNeOteOjk00ObId1wdHW6Ut1UrXjLG8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StoriesThe Starlink Progress Report showcases the transformative effects of this technology, highlighting how it bridges the d...</p></details>
+   Link:<a href="https://starlink.com/stories?srsltid=AfmBOopk6mrWz3fnZNBHea82fHNeOteOjk00ObId1wdHW6Ut1UrXjLG8" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/stories?srsltid=AfmBOopk6mrWz3fnZNBHea82fHNeOteOjk00ObId1wdHW6Ut1UrXjLG8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StoriesThe Starlink Progress Report showcases the transformative effects of this technology, highlighting how it bridges the d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJSYBIkDuh8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJSYBIkDuh8</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/AYVnews/status/1873833915384754193" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AYVnews/status/1873833915384754193</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)ayv newsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, locate...</p></details>
+   Link:<a href="https://x.com/AYVnews/status/1873833915384754193" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AYVnews/status/1873833915384754193</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)ayv newsA mysterious spacecraft (satellite) has just crashed in Guinea Conakry. The incident occurs in Kankan, locate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: connectingafrica.com  
    Title: Connecting Africa Starlink enters Guinea-Bissau  
-   Link: <a href="https://www.connectingafrica.com/connectivity/starlink-enters-guinea-bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.connectingafrica.com/connectivity/starlink-enters-guinea-bissau</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecting AfricaStarlink enters Guinea-BissauJune 19, 2025 — 19 Jun 2025 — SpaceX&#x27;s satellite Internet service, Starlink, has launched i...</p></details>
+   Link:<a href="https://www.connectingafrica.com/connectivity/starlink-enters-guinea-bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.connectingafrica.com/connectivity/starlink-enters-guinea-bissau</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connecting AfricaStarlink enters Guinea-BissauJune 19, 2025 — 19 Jun 2025 — SpaceX&#x27;s satellite Internet service, Starlink, has launched i...</p></details>
    Published: June 19, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spaceinafrica.com  
-   Link: <a href="https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaStarlink Goes Live in Guinea-Bissau18 Jun 2025 — Starlink, the satellite internet service operated by SpaceX, is now offic...</p></details>
+   Link:<a href="https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaStarlink Goes Live in Guinea-Bissau18 Jun 2025 — Starlink, the satellite internet service operated by SpaceX, is now offic...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWWYjG4DV8d/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWWYjG4DV8d/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fast internet now from foreign companies, or wait for local...NICTA just gave Starlink the green light to operate in Papua New Guinea. B...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWWYjG4DV8d/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWWYjG4DV8d/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fast internet now from foreign companies, or wait for local...NICTA just gave Starlink the green light to operate in Papua New Guinea. B...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/southafrica/comments/bt5z5y/psa_spacexs_starlink_satellite_train_of_60/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/southafrica/comments/bt5z5y/psa_spacexs_starlink_satellite_train_of_60/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PSA: SpaceX&#x27;s starlink satellite &quot;train&quot; of 60...SpaceX&#x27;s starlink satellite &quot;train&quot; of 60 satellites should be visible around 4:40 to 5...</p></details>
+   Link:<a href="https://www.reddit.com/r/southafrica/comments/bt5z5y/psa_spacexs_starlink_satellite_train_of_60/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/southafrica/comments/bt5z5y/psa_spacexs_starlink_satellite_train_of_60/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PSA: SpaceX&#x27;s starlink satellite &quot;train&quot; of 60...SpaceX&#x27;s starlink satellite &quot;train&quot; of 60 satellites should be visible around 4:40 to 5...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: monitor.civicus.org  
-   Link: <a href="https://monitor.civicus.org/explore/papua-new-guinea-concerns-around-use-of-cybercrime-law-to-criminalise-expression-new-social-media-policy-and-starlink-internet-disruption/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/papua-new-guinea-concerns-around-use-of-cybercrime-law-to-criminalise-expression-new-social-media-policy-and-starlink-internet-disruption/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Guinea: Concerns around use of cybercrime...22 Jan 2026 — Papua New Guinea: Concerns around use of cybercrime law to criminalise exp...</p></details>
+   Link:<a href="https://monitor.civicus.org/explore/papua-new-guinea-concerns-around-use-of-cybercrime-law-to-criminalise-expression-new-social-media-policy-and-starlink-internet-disruption/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/papua-new-guinea-concerns-around-use-of-cybercrime-law-to-criminalise-expression-new-social-media-policy-and-starlink-internet-disruption/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Guinea: Concerns around use of cybercrime...22 Jan 2026 — Papua New Guinea: Concerns around use of cybercrime law to criminalise exp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCm_0dsMxg0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCm_0dsMxg0</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: techafricanews.com  
    Title: starlink launches in guinea bissau expanding west african footprint  
-   Link: <a href="https://techafricanews.com/2025/06/18/starlink-launches-in-guinea-bissau-expanding-west-african-footprint/" target="_blank" rel="noopener noreferrer nofollow">https://techafricanews.com/2025/06/18/starlink-launches-in-guinea-bissau-expanding-west-african-footprint/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Launches in Guinea-Bissau, Expanding West...18 Jun 2025 — Starlink is now officially live in Guinea-Bissau—its seventh market i...</p></details>
+   Link:<a href="https://techafricanews.com/2025/06/18/starlink-launches-in-guinea-bissau-expanding-west-african-footprint/" target="_blank" rel="noopener noreferrer nofollow">https://techafricanews.com/2025/06/18/starlink-launches-in-guinea-bissau-expanding-west-african-footprint/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Launches in Guinea-Bissau, Expanding West...18 Jun 2025 — Starlink is now officially live in Guinea-Bissau—its seventh market i...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
    Title: My clearest sighting of a Starlink satellite "train" from orbit!  
-   Link: <a href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SpaceX satellite train is a temporarily visible line of bright, closely spaced satellites launched together for the Starlink internet...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SpaceX satellite train is a temporarily visible line of bright, closely spaced satellites launched together for the Starlink internet...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.nasa.gov  
    Title: conakry guinea 8909  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/conakry-guinea-8909/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/conakry-guinea-8909/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govConakry, Guinea13 Jul 2008 — Africa&#x27;s coastal country of Guinea is nicknamed the “water tower of Africa,” thanks to the more than...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/conakry-guinea-8909/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/conakry-guinea-8909/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govConakry, Guinea13 Jul 2008 — Africa&#x27;s coastal country of Guinea is nicknamed the “water tower of Africa,” thanks to the more than...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sense tells us it is a drone formation but at one point...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sense tells us it is a drone formation but at one point...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSKtxV8jKRJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSKtxV8jKRJ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt for digital access across the country.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSKtxV8jKRJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSKtxV8jKRJ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt for digital access across the country.Read more...</p></details>

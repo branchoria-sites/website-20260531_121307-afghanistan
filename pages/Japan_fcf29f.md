@@ -1194,24 +1194,24 @@ image: /assets/images/Japan_fcf29f-overview-social.jpg
 
 ## Introduction
 
-The result is a mixed evidence landscape. Japan has memorable cases such as the nineteenth-century “hollow boat” tale, the Kera mini-object claim of 1972, and the Kofu close-encounter story of 1975, but these rest mainly on narrative testimony, old manuscripts, local memory, media retellings, or enthusiast archives. The strongest official material is not a spectacular case file; it is the Ministry of Defence’s 2020 instruction requiring Self-Defence Forces personnel to report, photograph where possible, and analyse unidentified objects that could affect Japan’s defence or security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.go.jp">[Ministry of Defense Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.go.jp</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The result is a mixed evidence landscape. Japan has memorable cases such as the nineteenth-century “hollow boat” tale, the Kera mini-object claim of 1972, and the Kofu close-encounter story of 1975, but these rest mainly on narrative testimony, old manuscripts, local memory, media retellings, or enthusiast archives. The strongest official material is not a spectacular case file; it is the Ministry of Defence’s 2020 instruction requiring Self-Defence Forces personnel to report, photograph where possible, and analyse unidentified objects that could affect Japan’s defence or security.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.go.jp">[Ministry of Defense Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.go.jp</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Japan_fcf29f-overview.webp" | relative_url }}" alt="Overview image for What Makes Japan&#x27;s UFO Record So Unusual?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Japan matters in the modern UAP debate
 
-Japan became more visible in the UAP debate after the United States began publishing more formal material on unidentified anomalous phenomena. The U.S. All-domain Anomaly Resolution Office, known as AARO, published trend graphics covering reports from 1996 to 2024 that show reporting concentrations near several regions with U.S. military sensors and activity, including north-east Asia near Japan and the Korean peninsula. Those maps should not be read as proof that anomalous craft prefer Japan; they more likely reflect where aircraft, radars, ships, bases, and reporting channels are concentrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Trends 1996 2024 508</span><span class="citation-popover-snippet">AARO Trends 1996 2024 508</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span><span class="citation-popover-snippet">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span></span></span>
+Japan became more visible in the UAP debate after the United States began publishing more formal material on unidentified anomalous phenomena. The U.S. All-domain Anomaly Resolution Office, known as AARO, published trend graphics covering reports from 1996 to 2024 that show reporting concentrations near several regions with U.S. military sensors and activity, including north-east Asia near Japan and the Korean peninsula. Those maps should not be read as proof that anomalous craft prefer Japan; they more likely reflect where aircraft, radars, ships, bases, and reporting channels are concentrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Trends</span><span class="citation-popover-snippet">AARO Trends</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct</span><span class="citation-popover-snippet">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct</span></span></span>
 
-That distinction matters. A reporting hotspot is not the same as a phenomenon hotspot. UAP databases are shaped by who is watching, what sensors are operating, what counts as reportable, and which institutions release data. AARO’s 2024 trend graphic also says that among closed cases, most were resolved as balloons, with smaller shares attributed to unmanned aircraft systems, birds, aircraft, satellites, or other causes. The same graphic shows reported forms dominated by “lights” and “orb, round, sphere” descriptions, categories that are broad enough to include many ordinary explanations when range, speed, size, and context are uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_Reporting_Trends_as_of_20Nov23.pdf?ver=dl2m2HXgCIMaJ9t5wBmk9Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Reporting Trends as of 20Nov23</span><span class="citation-popover-snippet">UAP Reporting Trends as of 20Nov23</span></span></span>
+That distinction matters. A reporting hotspot is not the same as a phenomenon hotspot. UAP databases are shaped by who is watching, what sensors are operating, what counts as reportable, and which institutions release data. AARO’s 2024 trend graphic also says that among closed cases, most were resolved as balloons, with smaller shares attributed to unmanned aircraft systems, birds, aircraft, satellites, or other causes. The same graphic shows reported forms dominated by “lights” and “orb, round, sphere” descriptions, categories that are broad enough to include many ordinary explanations when range, speed, size, and context are uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_Reporting_Trends_as_of_20Nov23.pdf?ver=dl2m2HXgCIMaJ9t5wBmk9Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Reporting Trends as of 20Nov23</span><span class="citation-popover-snippet">UAP Reporting Trends as of 20Nov23</span></span></span>
 
-For Japan, the security relevance is clear even without extraordinary claims. The country sits near contested air and sea spaces, hosts major U.S. forces, and has to distinguish ordinary aircraft, drones, balloons, satellites, atmospheric phenomena, and potential foreign surveillance systems. Reuters reported in 2024 that a cross-party group of Japanese lawmakers, including former defence ministers, wanted the government to improve UAP information-gathering and deepen cooperation with the United States, explicitly because unidentified objects could turn out to be advanced weapons or reconnaissance drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Japan lawmakers want govt to guard against security risks of UFOs</span><span class="citation-popover-snippet">Japan lawmakers want govt to guard against security risks of UFOs</span></span></span>
+For Japan, the security relevance is clear even without extraordinary claims. The country sits near contested air and sea spaces, hosts major U.S. forces, and has to distinguish ordinary aircraft, drones, balloons, satellites, atmospheric phenomena, and potential foreign surveillance systems. Reuters reported in 2024 that a cross-party group of Japanese lawmakers, including former defence ministers, wanted the government to improve UAP information-gathering and deepen cooperation with the United States, explicitly because unidentified objects could turn out to be advanced weapons or reconnaissance drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Japan lawmakers want govt to guard against security risks of UFOs</span><span class="citation-popover-snippet">Japan lawmakers want govt to guard against security risks of UFOs</span></span></span>
 
 ## What Japan’s government has actually said
 
-Japan’s most concrete public step came in September 2020, when then defence minister Kono Taro issued instructions on “unidentifiable objects in the air” that might affect national defence or security. The instruction told personnel engaged in information-gathering, warning, surveillance, or airspace-violation response missions to ensure reporting, try to record objects with photographs or similar evidence where possible, and conduct necessary analysis. It also required analysis when relevant information was obtained outside those specific missions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.go.jp">[Ministry of Defense Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.go.jp</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Japan’s most concrete public step came in September 2020, when then defence minister Kono Taro issued instructions on “unidentifiable objects in the air” that might affect national defence or security. The instruction told personnel engaged in information-gathering, warning, surveillance, or airspace-violation response missions to ensure reporting, try to record objects with photographs or similar evidence where possible, and conduct necessary analysis. It also required analysis when relevant information was obtained outside those specific missions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.go.jp">[Ministry of Defense Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.go.jp</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Kono also made an important clarification: the instruction was not about asserting that objects came from space. It was about recording and analysing things that could not be identified. That phrasing places Japan’s official position closer to air-domain awareness than to popular UFO mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.go.jp">[Ministry of Defense Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.go.jp</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Kono also made an important clarification: the instruction was not about asserting that objects came from space. It was about recording and analysing things that could not be identified. That phrasing places Japan’s official position closer to air-domain awareness than to popular UFO mythology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.go.jp">[Ministry of Defense Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.go.jp</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In 2024, Japan’s Chief Cabinet Secretary Hayashi Yoshimasa said the government understood that there had been no reports of such unidentified objects affecting defence or security under the Ministry of Defence framework. At the same time, he said Japan needed to respond to incidents including unidentifiable objects and would work with the United States and others on information-gathering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.tv-asahi.co.jp/news_politics/articles/000351836.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv-asahi.co.jp">[テレ朝NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv-asahi.co.jp</span><span class="citation-popover-title">テレ朝NEWS“UFO”議連発足へ…政府「防衛に影響及ぼす識別不能物体の</span><span class="citation-popover-snippet">テレ朝NEWS“UFO”議連発足へ…政府「防衛に影響及ぼす識別不能物体の</span></span></span>
+In 2024, Japan’s Chief Cabinet Secretary Hayashi Yoshimasa said the government understood that there had been no reports of such unidentified objects affecting defence or security under the Ministry of Defence framework. At the same time, he said Japan needed to respond to incidents including unidentifiable objects and would work with the United States and others on information-gathering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.tv-asahi.co.jp/news_politics/articles/000351836.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv-asahi.co.jp">[テレ朝NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv-asahi.co.jp</span><span class="citation-popover-title">テレ朝NEWS“UFO”議連発足へ…政府「防衛に影響及ぼす識別不能物体の</span><span class="citation-popover-snippet">テレ朝NEWS“UFO”議連発足へ…政府「防衛に影響及ぼす識別不能物体の</span></span></span>
 
 That combination is easy to misread. It does not mean nobody in Japan has ever reported strange lights or objects. It means the government was not acknowledging a defence-impacting case in the public record. Civilian folklore, local UFO claims, and museum collections sit in a different evidential category from official military reporting.
 
@@ -1226,7 +1226,7 @@ PeriodMain developmentEvidence quality1803 and later manuscript retellingsA stra
 
 ## The “hollow boat” is a folklore case before it is a UFO case
 
-The most famous pre-modern Japanese story used in UFO writing is the 1803 account of a strange hollow vessel washing ashore with a foreign-looking woman inside. The story appears in multiple late Edo-period literary and manuscript sources, including versions collected in nineteenth-century works, and survives with striking illustrations of a round, pod-like craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publicdomainreview.org/collection/utsuro-bune" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">utsuro bune</span><span class="citation-popover-snippet">utsuro bune</span></span></span> Nippon It is easy to see why modern readers connect it to flying saucers: the object is rounded <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nippon.com">[nippon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nippon.com</span><span class="citation-popover-snippet">Open source on nippon.com.</span></span></span>, unfamiliar, and accompanied by mysterious writing. But the better historical reading is more cautious. The vessel does not fly, perform impossible manoeuvres, or display advanced propulsion. It drifts like a boat. Researchers and commentators have treated it as a story about castaways, foreignness, isolation-era anxieties, and folklore rather than as a technological sighting. Nippon.com’s account by Tanaka Kazuo, a Japanese researcher associated with the subject, frames the tale as a cultural mystery whose details resemble UFO motifs only when viewed through a modern lens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nippon.com">[Nippon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nippon.com</span><span class="citation-popover-snippet">Open source on nippon.com.</span></span></span>
+The most famous pre-modern Japanese story used in UFO writing is the 1803 account of a strange hollow vessel washing ashore with a foreign-looking woman inside. The story appears in multiple late Edo-period literary and manuscript sources, including versions collected in nineteenth-century works, and survives with striking illustrations of a round, pod-like craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publicdomainreview.org/collection/utsuro-bune" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">utsuro bune</span><span class="citation-popover-snippet">utsuro bune</span></span></span> Nippon It is easy to see why modern readers connect it to flying saucers: the object is rounded<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nippon.com">[nippon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nippon.com</span><span class="citation-popover-snippet">Open source on nippon.com.</span></span></span>, unfamiliar, and accompanied by mysterious writing. But the better historical reading is more cautious. The vessel does not fly, perform impossible manoeuvres, or display advanced propulsion. It drifts like a boat. Researchers and commentators have treated it as a story about castaways, foreignness, isolation-era anxieties, and folklore rather than as a technological sighting. Nippon.com’s account by Tanaka Kazuo, a Japanese researcher associated with the subject, frames the tale as a cultural mystery whose details resemble UFO motifs only when viewed through a modern lens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nippon.com">[Nippon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nippon.com</span><span class="citation-popover-snippet">Open source on nippon.com.</span></span></span>
 
 That makes the hollow-boat story useful but often misused. It belongs in Japan’s UFO page because it shaped later “ancient UFO” claims, but it should not be placed in the same evidential category as radar tracks, military sensor footage, or investigated airspace incidents. Its main value is showing how older Japanese narratives of strange arrivals can be reinterpreted by later UFO culture.
 
@@ -1236,18 +1236,18 @@ That makes the hollow-boat story useful but often misused. It belongs in Japan�
 
 Japan’s best-known modern UFO cases are concentrated in the 1970s, a period when flying-saucer stories circulated widely through magazines, television, children’s media, and local newspapers. The Kera and Kofu cases are memorable because they are not just distant lights: they involve alleged close objects, young witnesses, photographs or traces, and repeated retellings.
 
-The Kera case, reported from Kochi in 1972, centres on boys who said they saw a small hat-shaped object over a rice field and later managed to handle or photograph it. English-language summaries often rely on older Japanese magazine material and later web retellings, which makes the case difficult to audit. The claim is interesting because of its physical-object narrative, but its evidential weakness is equally clear: there is no widely available official forensic record, no secure object provenance, and no independent technical reconstruction that establishes anomalous performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pinktentacle.com/2009/07/the-case-of-the-captured-mini-ufo-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinktentacle.com">[pinktentacle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinktentacle.com</span><span class="citation-popover-title">the case of the captured mini ufo 1972</span><span class="citation-popover-snippet">the case of the captured mini ufo 1972</span></span></span>
+The Kera case, reported from Kochi in 1972, centres on boys who said they saw a small hat-shaped object over a rice field and later managed to handle or photograph it. English-language summaries often rely on older Japanese magazine material and later web retellings, which makes the case difficult to audit. The claim is interesting because of its physical-object narrative, but its evidential weakness is equally clear: there is no widely available official forensic record, no secure object provenance, and no independent technical reconstruction that establishes anomalous performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pinktentacle.com/2009/07/the-case-of-the-captured-mini-ufo-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinktentacle.com">[pinktentacle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinktentacle.com</span><span class="citation-popover-title">the case of the captured mini ufo 1972</span><span class="citation-popover-snippet">the case of the captured mini ufo 1972</span></span></span>
 
-The Kofu case, reported in Yamanashi Prefecture in 1975, is even more dramatic. The common account says two young boys saw an orange object, encountered a landed craft in a vineyard, and reported a strange occupant. Later retellings mention local witnesses, ground marks, or unusual readings, but the case remains mostly a civilian narrative rather than a documented official investigation with reproducible evidence. It is therefore one of Japan’s most culturally powerful UFO stories, but not a confirmed anomalous event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">Matador Network UFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien</span><span class="citation-popover-snippet">Matador Network UFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien</span></span></span>
+The Kofu case, reported in Yamanashi Prefecture in 1975, is even more dramatic. The common account says two young boys saw an orange object, encountered a landed craft in a vineyard, and reported a strange occupant. Later retellings mention local witnesses, ground marks, or unusual readings, but the case remains mostly a civilian narrative rather than a documented official investigation with reproducible evidence. It is therefore one of Japan’s most culturally powerful UFO stories, but not a confirmed anomalous event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">Matador Network UFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien</span><span class="citation-popover-snippet">Matador Network UFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien</span></span></span>
 
-These cases are best read as “contested”, not “debunked” in the sense of being conclusively explained and not “confirmed” in the sense of establishing extraordinary technology. Their staying power comes from detail, locality, and witness-centred storytelling. Their weakness comes from exactly the issues NASA and AARO now emphasise: limited data, uncertain measurement, lack of calibrated sensors, and difficulty separating memory, media influence, and physical fact after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+These cases are best read as “contested”, not “debunked” in the sense of being conclusively explained and not “confirmed” in the sense of establishing extraordinary technology. Their staying power comes from detail, locality, and witness-centred storytelling. Their weakness comes from exactly the issues NASA and AARO now emphasise: limited data, uncertain measurement, lack of calibrated sensors, and difficulty separating memory, media influence, and physical fact after the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <img src="{{ "/assets/images/Japan_fcf29f-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Japan&#x27;s UFO Record So Unusual? illustration 2" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fukushima shows how UFOs became local identity as well as mystery
 
-Japan’s UFO geography is not only about where sightings are claimed. It is also about where UFO stories have been turned into local culture. The clearest example is Iino in Fukushima, home to the Iino UFO Museum and the International UFO Laboratory. Tourism bodies describe the museum as a local attraction with UFO-related documents, photographs, a theatre, and displays; Fukushima’s official tourism material also links the area’s UFO identity to nearby Mount Senganmori and reports of unexplained lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Travel Iino UFO Museum</span></span></span>
+Japan’s UFO geography is not only about where sightings are claimed. It is also about where UFO stories have been turned into local culture. The clearest example is Iino in Fukushima, home to the Iino UFO Museum and the International UFO Laboratory. Tourism bodies describe the museum as a local attraction with UFO-related documents, photographs, a theatre, and displays; Fukushima’s official tourism material also links the area’s UFO identity to nearby Mount Senganmori and reports of unexplained lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Travel Iino UFO Museum</span></span></span>
 
-The museum and laboratory matter because they preserve a kind of unofficial archive. Mainichi reported that the UFO Interactive Hall held about 3,000 related materials donated by the late UFO researcher Arai Kinichi, while other reporting has described the laboratory’s 2021 opening as part research project, part regional revitalisation effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mainichi.jp/english/articles/20210625/p2a/00m/0na/046000c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mainichi.jp">[Mainichi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mainichi.jp</span><span class="citation-popover-snippet">Open source on mainichi.jp.</span></span></span>
+The museum and laboratory matter because they preserve a kind of unofficial archive. Mainichi reported that the UFO Interactive Hall held about 3,000 related materials donated by the late UFO researcher Arai Kinichi, while other reporting has described the laboratory’s 2021 opening as part research project, part regional revitalisation effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mainichi.jp/english/articles/20210625/p2a/00m/0na/046000c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mainichi.jp">[Mainichi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mainichi.jp</span><span class="citation-popover-snippet">Open source on mainichi.jp.</span></span></span>
 
 This is not the same as a scientific institute with national authority. Its leadership and public identity are closely tied to enthusiast culture, local tourism, and paranormal publishing. But it is still relevant because UFO records are often fragile: local photographs, clippings, witness accounts, and magazines can disappear unless someone preserves them. For a Japan-focused archive, Fukushima is important less because it proves extraordinary objects and more because it shows how a region can make UFO stories part of its civic brand.
 
@@ -1255,17 +1255,17 @@ This is not the same as a scientific institute with national authority. Its lead
 
 A useful Japan page needs to separate three different meanings of “UFO”. In the strict sense, a UFO or UAP is simply unidentified at the time of reporting. It does not imply aliens. In public culture, however, “UFO” often means a suspected extraterrestrial craft. Much confusion comes from sliding between those meanings.
 
-**Confirmed in Japan’s public record** means there is reliable evidence that institutions, witnesses, or archives exist. The Ministry of Defence’s 2020 reporting instruction is confirmed. The Iino UFO Museum exists as a local archive and tourist site. The hollow-boat manuscripts and illustrations exist as historical-cultural sources. AARO’s public trend graphics identify north-east Asia near Japan as a reporting concentration in U.S.-held UAP data. AARO 3衆議院議員 河野太郎公式サイト <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Travel Iino UFO Museum</span></span></span>
+**Confirmed in Japan’s public record** means there is reliable evidence that institutions, witnesses, or archives exist. The Ministry of Defence’s 2020 reporting instruction is confirmed. The Iino UFO Museum exists as a local archive and tourist site. The hollow-boat manuscripts and illustrations exist as historical-cultural sources. AARO’s public trend graphics identify north-east Asia near Japan as a reporting concentration in U.S.-held UAP data. AARO 3衆議院議員 河野太郎公式サイト<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Travel Iino UFO Museum</span></span></span>
 
 **Contested** covers the famous civilian cases. Kera and Kofu are part of Japan’s UFO canon, but they rely on witness testimony, media accounts, and disputed physical claims rather than transparent official case files or reproducible scientific data. They are worth documenting because readers searching for “Japan UFO cases” will encounter them, but they should not be presented as settled evidence.
 
-**Explained or likely ordinary** covers many modern UAP reports globally, even where individual Japanese cases are not publicly resolved. AARO’s published trend material says most closed cases in its 1996–2024 dataset were balloons, with others attributed to drones, birds, aircraft, satellites, or miscellaneous causes. The U.S. Department of Defence also stated in 2024 that AARO had found no verifiable evidence of extraterrestrial beings, activity, or technology, and that many unresolved reports lacked enough scientific data for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+**Explained or likely ordinary** covers many modern UAP reports globally, even where individual Japanese cases are not publicly resolved. AARO’s published trend material says most closed cases in its 1996–2024 dataset were balloons, with others attributed to drones, birds, aircraft, satellites, or miscellaneous causes. The U.S. Department of Defence also stated in 2024 that AARO had found no verifiable evidence of extraterrestrial beings, activity, or technology, and that many unresolved reports lacked enough scientific data for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JPrFeCzh2M4" title="Japan’s ‘Football UFO’ To Gulf ‘Alien’: Jaw-Dropping Mysteries In New Pentagon Dump Shocks World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JPrFeCzh2M4" target="_blank" rel="noopener noreferrer">Japan’s ‘Football UFO’ To Gulf ‘Alien’: Jaw-Dropping Mysteries In New Pentagon Dump Shocks World</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 16.8K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JPrFeCzh2M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JPrFeCzh2M4">Open on YouTube</a></p></div></div></div>
 
 ## Why the Japan map can mislead casual readers
 
-The most common recent misunderstanding is that “Japan is a UFO hotspot” means Japan has produced unusually strong evidence of alien craft. That is not what the public AARO material shows. It shows a concentration of reports in a dataset shaped by U.S. government collection, military activity, sensor placement, reporting channels, and airspace priorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The most common recent misunderstanding is that “Japan is a UFO hotspot” means Japan has produced unusually strong evidence of alien craft. That is not what the public AARO material shows. It shows a concentration of reports in a dataset shaped by U.S. government collection, military activity, sensor placement, reporting channels, and airspace priorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 There are several ordinary reasons Japan and nearby regions would stand out:
 
@@ -1292,194 +1292,194 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hlITB7bfE_I" title="A Mysterious UFO Was Found Off the Coast of Japan in the Year 1803 - Unsolved Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hlITB7bfE_I" target="_blank" rel="noopener noreferrer">A Mysterious UFO Was Found Off the Coast of Japan in the Year 1803 - Unsolved Mysteries</a></p><p class="youtube-embed-meta">Channel: KM Uncharted Mysteries &middot; Views: 92.7K &middot; Uploaded: April 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hlITB7bfE_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hlITB7bfE_I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes Japan&#x27;s UFO Record So Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes Japan&#x27;s UFO Record So Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides global context for modern UAP discussions including government responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides global context for modern UAP discussions including government responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Connects international UFO reports, military observations, and public interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects international UFO reports, military observations, and public interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relevant to Japan&#x27;s mix of official reporting and civilian accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Japan&#x27;s mix of official reporting and civilian accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding Japan&#x27;s blend of folklore and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding Japan&#x27;s blend of folklore and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-japan-s-ufo-record-so-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-japan-s-ufo-record-so-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1495,7 +1495,7 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1515,7 +1515,7 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1547,7 +1547,7 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1599,7 +1599,7 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1644,7 +1644,7 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1682,178 +1682,177 @@ The most responsible reading is therefore balanced. Japan has no public, verifie
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Trends 1996 2024 508  
-   Link: <a href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: taro.org  
-   Link: <a href="https://www.taro.org/2020/09/%EF%BD%95%EF%BD%86%EF%BD%8F%E5%AF%BE%E5%87%A6%E6%96%B9%E9%87%9D.php" target="_blank" rel="noopener noreferrer nofollow">https://www.taro.org/2020/09/%EF%BD%95%EF%BD%86%EF%BD%8F%E5%AF%BE%E5%87%A6%E6%96%B9%E9%87%9D.php</a>  
+   Link:<a href="https://www.taro.org/2020/09/%EF%BD%95%EF%BD%86%EF%BD%8F%E5%AF%BE%E5%87%A6%E6%96%B9%E9%87%9D.php" target="_blank" rel="noopener noreferrer nofollow">https://www.taro.org/2020/09/%EF%BD%95%EF%BD%86%EF%BD%8F%E5%AF%BE%E5%87%A6%E6%96%B9%E9%87%9D.php</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Japan lawmakers want govt to guard against security risks of UFOs  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nippon.com  
-   Link: <a href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow">https://www.nippon.com/en/japan-topics/g00879/</a>  
+   Link:<a href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow">https://www.nippon.com/en/japan-topics/g00879/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pinktentacle.com  
    Title: the case of the captured mini ufo 1972  
-   Link: <a href="https://pinktentacle.com/2009/07/the-case-of-the-captured-mini-ufo-1972/" target="_blank" rel="noopener noreferrer nofollow">https://pinktentacle.com/2009/07/the-case-of-the-captured-mini-ufo-1972/</a>  
+   Link:<a href="https://pinktentacle.com/2009/07/the-case-of-the-captured-mini-ufo-1972/" target="_blank" rel="noopener noreferrer nofollow">https://pinktentacle.com/2009/07/the-case-of-the-captured-mini-ufo-1972/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fukushima.travel  
    Title: Travel Iino UFO Museum  
-   Link: <a href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow">https://fukushima.travel/destination/iino-ufo-museum/389</a>  
+   Link:<a href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow">https://fukushima.travel/destination/iino-ufo-museum/389</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mainichi.jp  
-   Link: <a href="https://mainichi.jp/english/articles/20210625/p2a/00m/0na/046000c" target="_blank" rel="noopener noreferrer nofollow">https://mainichi.jp/english/articles/20210625/p2a/00m/0na/046000c</a>  
+   Link:<a href="https://mainichi.jp/english/articles/20210625/p2a/00m/0na/046000c" target="_blank" rel="noopener noreferrer nofollow">https://mainichi.jp/english/articles/20210625/p2a/00m/0na/046000c</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Reporting Trends as of 20Nov23  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_Reporting_Trends_as_of_20Nov23.pdf?ver=dl2m2HXgCIMaJ9t5wBmk9Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_Reporting_Trends_as_of_20Nov23.pdf?ver=dl2m2HXgCIMaJ9t5wBmk9Q%3D%3D</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_Reporting_Trends_as_of_20Nov23.pdf?ver=dl2m2HXgCIMaJ9t5wBmk9Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_Reporting_Trends_as_of_20Nov23.pdf?ver=dl2m2HXgCIMaJ9t5wBmk9Q%3D%3D</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nippon.com  
    Title: watching the skies in japan mishima yukio and other ufo enthusiasts  
-   Link: <a href="https://www.nippon.com/en/japan-topics/g00881/watching-the-skies-in-japan-mishima-yukio-and-other-ufo-enthusiasts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nippon.com/en/japan-topics/g00881/watching-the-skies-in-japan-mishima-yukio-and-other-ufo-enthusiasts.html</a>  
+   Link:<a href="https://www.nippon.com/en/japan-topics/g00881/watching-the-skies-in-japan-mishima-yukio-and-other-ufo-enthusiasts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nippon.com/en/japan-topics/g00881/watching-the-skies-in-japan-mishima-yukio-and-other-ufo-enthusiasts.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mainichi.jp  
-   Link: <a href="https://mainichi.jp/articles/20200914/k00/00m/010/183000c" target="_blank" rel="noopener noreferrer nofollow">https://mainichi.jp/articles/20200914/k00/00m/010/183000c</a>  
+   Link:<a href="https://mainichi.jp/articles/20200914/k00/00m/010/183000c" target="_blank" rel="noopener noreferrer nofollow">https://mainichi.jp/articles/20200914/k00/00m/010/183000c</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: taro.org  
-   Link: <a href="https://www.taro.org/2023/02/%E6%B0%97%E7%90%83%E3%81%A8%EF%BD%95%EF%BD%86%EF%BD%8F.php" target="_blank" rel="noopener noreferrer nofollow">https://www.taro.org/2023/02/%E6%B0%97%E7%90%83%E3%81%A8%EF%BD%95%EF%BD%86%EF%BD%8F.php</a>  
+   Link:<a href="https://www.taro.org/2023/02/%E6%B0%97%E7%90%83%E3%81%A8%EF%BD%95%EF%BD%86%EF%BD%8F.php" target="_blank" rel="noopener noreferrer nofollow">https://www.taro.org/2023/02/%E6%B0%97%E7%90%83%E3%81%A8%EF%BD%95%EF%BD%86%EF%BD%8F.php</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mod.go.jp  
-   Link: <a href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.go.jp/j/press/kisha/2020/0915a.html</a>  
+   Link:<a href="https://www.mod.go.jp/j/press/kisha/2020/0915a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.go.jp/j/press/kisha/2020/0915a.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: publicdomainreview.org  
    Title: [utsuro bune](&#123;&#123; 'utsuro-bune/' | relative_url &#125;&#125;)  
-   Link: <a href="https://publicdomainreview.org/collection/utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/utsuro-bune</a>  
+   Link:<a href="https://publicdomainreview.org/collection/utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/utsuro-bune</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: matadornetwork.com  
    Title: Matador Network UFOs, Folklore, and Fears: Welcome to Japan's Alien  
-   Link: <a href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/japan-ufo-tourism/</a>  
+   Link:<a href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/japan-ufo-tourism/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/210479471986214/posts/629280803439410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/210479471986214/posts/629280803439410/</a>  
+   Link:<a href="https://www.facebook.com/groups/210479471986214/posts/629280803439410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/210479471986214/posts/629280803439410/</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=apMHAvufozI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=apMHAvufozI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s &#x27;Football UFO&#x27; To Gulf &#x27;Alien&#x27;: Jaw-Dropping Mysteries In New Pentagon Dump Shocks World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=apMHAvufozI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=apMHAvufozI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s &#x27;Football UFO&#x27; To Gulf &#x27;Alien&#x27;: Jaw-Dropping Mysteries In New Pentagon Dump Shocks World...</p></details>
    Published: May 11, 2026  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: U.S.–Japan UAP Roundtable II: UFO Secrets  
-   Link: <a href="https://www.youtube.com/watch?v=Em1I-aol784" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Em1I-aol784</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chief Cabinet Secretary Kihara on UFO footage near Japan: &quot;We intend to analyze it&quot; (May 11, 2026)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Em1I-aol784" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Em1I-aol784</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chief Cabinet Secretary Kihara on UFO footage near Japan: &quot;We intend to analyze it&quot; (May 11, 2026)...</p></details>
    Published: May 11, 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JPrFeCzh2M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JPrFeCzh2M4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are the US and Japan working together to research UAPs? | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JPrFeCzh2M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JPrFeCzh2M4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are the US and Japan working together to research UAPs? | Reality Check...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: I Explored Japan's Biggest UFO Hotspot in Fukushima  
-   Link: <a href="https://www.youtube.com/watch?v=aqvBLl2wKmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aqvBLl2wKmU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S.–Japan UAP Roundtable II: UFO Secrets - Interstellar Threats and Nuclear Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aqvBLl2wKmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aqvBLl2wKmU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S.–Japan UAP Roundtable II: UFO Secrets - Interstellar Threats and Nuclear Mysteries...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY4yW5vJ2AO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY4yW5vJ2AO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DY4yW5vJ2AO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY4yW5vJ2AO/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/</a>  
+   Link:<a href="https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dkiapcss.edu  
-   Link: <a href="https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf</a>  
+   Link:<a href="https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KITV4/posts/an-independent-report-found-that-nasa-could-play-a-crucial-role-in-collecting-mo/686895266820025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KITV4/posts/an-independent-report-found-that-nasa-could-play-a-crucial-role-in-collecting-mo/686895266820025/</a>
+   Link:<a href="https://www.facebook.com/KITV4/posts/an-independent-report-found-that-nasa-could-play-a-crucial-role-in-collecting-mo/686895266820025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KITV4/posts/an-independent-report-found-that-nasa-could-play-a-crucial-role-in-collecting-mo/686895266820025/</a>

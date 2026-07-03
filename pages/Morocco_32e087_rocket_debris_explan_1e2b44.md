@@ -253,7 +253,7 @@ The spectacular nationwide reported UFO wave over Morocco on the night of 18�
 <img src="{{ "/assets/images/Morocco_32e087_rocket_debris_explan_1e2b44-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Debris illustration 1" data-theme-src-dark="{{ "/assets/images/Morocco_32e087_rocket_debris_explan_1e2b44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morocco_32e087_rocket_debris_explan_1e2b44-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How High‑Altitude Re‑Entering Debris Can Mimic UFO Reports
 
-Objects returning from Earth orbit can create striking visual displays when they encounter the denser layers of the upper atmosphere. At altitudes of 70–80 km, fragments of orbital hardware start to burn intensely from atmospheric friction. Such events are often seen as bright “fireballs” or trains of glowing fragments that can span large portions of the sky, produce persistent luminous trails, and appear to break apart in succession. Because they are high above the ground, they make no audible sound to observers below. This combination of bright, slow‑moving light, intermittent sparks and silence matches many witness descriptions from the Moroccan event.L'Opinion DJ Gen X,Y et Z <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lodj.ma">[lodj.ma]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lodj.ma</span><span class="citation-popover-snippet">L&#x27;Opinion DJ Gen X,Y et ZFeu SM Hassan II et l’OVNI du 18 au 19 septembre 1976November 30, 2025...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span>
+Objects returning from Earth orbit can create striking visual displays when they encounter the denser layers of the upper atmosphere. At altitudes of 70–80 km, fragments of orbital hardware start to burn intensely from atmospheric friction. Such events are often seen as bright “fireballs” or trains of glowing fragments that can span large portions of the sky, produce persistent luminous trails, and appear to break apart in succession. Because they are high above the ground, they make no audible sound to observers below. This combination of bright, slow‑moving light, intermittent sparks and silence matches many witness descriptions from the Moroccan event.L'Opinion DJ Gen X,Y et Z<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lodj.ma">[lodj.ma]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lodj.ma</span><span class="citation-popover-snippet">L&#x27;Opinion DJ Gen X,Y et ZFeu SM Hassan II et l’OVNI du 18 au 19 septembre 1976November 30, 2025...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span>
 
 Human perception of re‑entering space debris can misjudge distance, size and speed; a distant, high‑altitude trail can be interpreted as a closer, slower object moving just overhead. In the 1976 Moroccan case, numerous independent witnesses reported a “silvery luminous” object with bright fragments trailing behind, moving silently from southwest to northeast — features typical of a re‑entry fireball rather than a conventional aircraft or unexplained craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://satobs.org/seesat/Oct-2012/0047.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Overhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites OverheadSeeSat-L Oct-12: Moroccan UFO of Sep 1976 Correlates With SateOctober 5, 2012...</span><span class="citation-popover-meta">Published: October 5, 2012</span></span></span>
 
@@ -286,199 +286,199 @@ Despite these caveats, the orbital reconstruction and the concordance of traject
 
 ## Implications for UFO Context in Morocco
 
-Understanding the 1976 event as re‑entering space debris does not diminish the broader cultural interest in UFO reports, but it reframes this landmark incident within a well‑documented atmospheric mechanism. It highlights how regional or nationwide sighting waves can arise from natural or human‑made phenomena at altitudes far above normal human experience, and how retrospective analysis with better data can shift a report from “unidentified” to “identified.” Future coverage of Moroccan UFO history — whether in official archives, citizen research, or international analysis — typically treats this 1976 case within that explanatory context, linking it to mass sighting effects produced by orbital re‑entries rather than unknown craft.L'Opinion DJ Gen X,Y et Z <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lodj.ma">[lodj.ma]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lodj.ma</span><span class="citation-popover-snippet">L&#x27;Opinion DJ Gen X,Y et ZFeu SM Hassan II et l’OVNI du 18 au 19 septembre 1976November 30, 2025...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span>
+Understanding the 1976 event as re‑entering space debris does not diminish the broader cultural interest in UFO reports, but it reframes this landmark incident within a well‑documented atmospheric mechanism. It highlights how regional or nationwide sighting waves can arise from natural or human‑made phenomena at altitudes far above normal human experience, and how retrospective analysis with better data can shift a report from “unidentified” to “identified.” Future coverage of Moroccan UFO history — whether in official archives, citizen research, or international analysis — typically treats this 1976 case within that explanatory context, linking it to mass sighting effects produced by orbital re‑entries rather than unknown craft.L'Opinion DJ Gen X,Y et Z<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lodj.ma">[lodj.ma]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lodj.ma</span><span class="citation-popover-snippet">L&#x27;Opinion DJ Gen X,Y et ZFeu SM Hassan II et l’OVNI du 18 au 19 septembre 1976November 30, 2025...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Morocco_32e087_rocket_debris_explan_1e2b44-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Debris illustration 3" data-theme-src-dark="{{ "/assets/images/Morocco_32e087_rocket_debris_explan_1e2b44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Morocco_32e087_rocket_debris_explan_1e2b44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Morocco&#x27;s Famous UFO Space Junk?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Morocco&#x27;s Famous UFO Space Junk?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong emphasis on distinguishing genuine mysteries from explainable events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on distinguishing genuine mysteries from explainable events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison with better-documented unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with better-documented unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Examines how conventional phenomena become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how conventional phenomena become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent framework for assessing extraordinary claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent framework for assessing extraordinary claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-morocco-s-famous-ufo-space-junk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-morocco-s-famous-ufo-space-junk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -494,7 +494,7 @@ Understanding the 1976 event as re‑entering space debris does not diminish the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -514,7 +514,7 @@ Understanding the 1976 event as re‑entering space debris does not diminish the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -546,7 +546,7 @@ Understanding the 1976 event as re‑entering space debris does not diminish the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -598,7 +598,7 @@ Understanding the 1976 event as re‑entering space debris does not diminish the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -643,7 +643,7 @@ Understanding the 1976 event as re‑entering space debris does not diminish the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -681,100 +681,99 @@ Understanding the 1976 event as re‑entering space debris does not diminish the
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Oct-2012/0047.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0047.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadSeeSat-L Oct-12: Moroccan UFO of Sep 1976 Correlates With SateOctober 5, 2012...</p></details>
+   Link:<a href="https://satobs.org/seesat/Oct-2012/0047.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0047.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadSeeSat-L Oct-12: Moroccan UFO of Sep 1976 Correlates With SateOctober 5, 2012...</p></details>
    Published: October 5, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: foreignpolicy.com  
-   Link: <a href="https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/</a>  
+   Link:<a href="https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://foreignpolicy.com/2013/04/11/wikileaked-the-soviet-space-junk-that-became-a-moroccan-ufo/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lodj.ma  
-   Link: <a href="https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Opinion DJ Gen X,Y et ZFeu SM Hassan II et l’OVNI du 18 au 19 septembre 1976November 30, 2025...</p></details>
+   Link:<a href="https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lodj.ma/Feu-SM-Hassan-II-et-l-OVNI-du-18-au-19-septembre-1976_a153055.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Opinion DJ Gen X,Y et ZFeu SM Hassan II et l’OVNI du 18 au 19 septembre 1976November 30, 2025...</p></details>
    Published: November 30, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Oct-2012/0173.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0173.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadSeeSat-L Oct-12: RE: Moroccan UFO of Sep 1976 Correlates WithOctober 17, 2012...</p></details>
+   Link:<a href="https://satobs.org/seesat/Oct-2012/0173.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0173.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadSeeSat-L Oct-12: RE: Moroccan UFO of Sep 1976 Correlates WithOctober 17, 2012...</p></details>
    Published: October 17, 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat/Oct-2012/0167.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0167.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadSeeSat-L Oct-12: Re:Moroccan UFO of Sep 1976 Correlates With SaOctober 16, 2012...</p></details>
+   Link:<a href="https://satobs.org/seesat/Oct-2012/0167.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Oct-2012/0167.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadSeeSat-L Oct-12: Re:Moroccan UFO of Sep 1976 Correlates With SaOctober 16, 2012...</p></details>
    Published: October 16, 2012  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: yabiladi.com  
-   Link: <a href="https://www.yabiladi.com/articles/details/16707/wikileaks-maroc-ovni-inquietait-hassan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yabiladi.com/articles/details/16707/wikileaks-maroc-ovni-inquietait-hassan.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 2013 — Grand Angle WIKILEAKS MAROC: L’OVNI QUI INQUIÉTAIT HASSAN II ÉTAIT UN MORCEAU DE FUSÉE RUSSE Il y a moins d’une semaine...</p></details>
+   Link:<a href="https://www.yabiladi.com/articles/details/16707/wikileaks-maroc-ovni-inquietait-hassan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yabiladi.com/articles/details/16707/wikileaks-maroc-ovni-inquietait-hassan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 2013 — Grand Angle WIKILEAKS MAROC: L’OVNI QUI INQUIÉTAIT HASSAN II ÉTAIT UN MORCEAU DE FUSÉE RUSSE Il y a moins d’une semaine...</p></details>
    Published: April 16, 2013  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lecourrierdelatlas.com  
    Title: welcome to russia l ovni inquietant de 19915  
-   Link: <a href="https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de--19915/" target="_blank" rel="noopener noreferrer nofollow">https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de--19915/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Ovni inquiétant de 1976June 1, 2018 — L’OVNI INQUIÉTANT DE 1976 * Image: Yassir GuelzimYassir GUELZIM * 1 juin 2018 * 0 Image: L’Ovni i...</p></details>
+   Link:<a href="https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de--19915/" target="_blank" rel="noopener noreferrer nofollow">https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de--19915/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Ovni inquiétant de 1976June 1, 2018 — L’OVNI INQUIÉTANT DE 1976 * Image: Yassir GuelzimYassir GUELZIM * 1 juin 2018 * 0 Image: L’Ovni i...</p></details>
    Published: June 1, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lecourrierdelatlas.com  
    Title: welcome to russia l ovni inquietant de 19915  
-   Link: <a href="https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de-19915/" target="_blank" rel="noopener noreferrer nofollow">https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de-19915/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Ovni inquiétant de 1976June 1, 2018 — L’OVNI INQUIÉTANT DE 1976 * Sport Welcome to Russia * Image: Yassir GuelzimYassir GUELZIM * 1 jui...</p></details>
+   Link:<a href="https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de-19915/" target="_blank" rel="noopener noreferrer nofollow">https://www.lecourrierdelatlas.com/welcome-to-russia-l-ovni-inquietant-de-19915/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;Ovni inquiétant de 1976June 1, 2018 — L’OVNI INQUIÉTANT DE 1976 * Sport Welcome to Russia * Image: Yassir GuelzimYassir GUELZIM * 1 jui...</p></details>
    Published: June 1, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: satobs.org  
    Title: See Sat-L Jan-14: Misperception of Satellite Re-Entries  
-   Link: <a href="https://satobs.org/seesat/Jan-2014/0039.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Jan-2014/0039.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From: Ted Molczan (ssl3molcz@rogers.com) Date: Fri Jan 10 2014 - 05:09:23 UTC Over the past couple of years, I have lear...</p></details>
+   Link:<a href="https://satobs.org/seesat/Jan-2014/0039.html" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat/Jan-2014/0039.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From: Ted Molczan (ssl3molcz@rogers.com) Date: Fri Jan 10 2014 - 05:09:23 UTC Over the past couple of years, I have lear...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: enigmalabs.io  
    Title: Tehran Incident | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2024 — Tehran Incident Updated Dec 11, 2024 Image: /logo-black.svg By Enigma Labs SUMMARY Image Iranian F-4E Phantom refueli...</p></details>
+   Link:<a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2024 — Tehran Incident Updated Dec 11, 2024 Image: /logo-black.svg By Enigma Labs SUMMARY Image Iranian F-4E Phantom refueli...</p></details>
    Published: December 11, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oldmufon.weebly.com  
    Title: iranian airforce ufo 1976  
-   Link: <a href="https://oldmufon.weebly.com/iranian-airforce-ufo---1976.html" target="_blank" rel="noopener noreferrer nofollow">https://oldmufon.weebly.com/iranian-airforce-ufo---1976.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weebly.com1946 Iranian Airforce UFO InterceptIRANIAN AIRFORCE UFO INTERCEPT - 1946 * * * The 1976 Tehran UFO Incident was a radar and vis...</p></details>
+   Link:<a href="https://oldmufon.weebly.com/iranian-airforce-ufo---1976.html" target="_blank" rel="noopener noreferrer nofollow">https://oldmufon.weebly.com/iranian-airforce-ufo---1976.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weebly.com1946 Iranian Airforce UFO InterceptIRANIAN AIRFORCE UFO INTERCEPT - 1946 * * * The 1976 Tehran UFO Incident was a radar and vis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ru.ruwiki.ru  
    Title: Тегеранский инцидент  
-   Link: <a href="https://ru.ruwiki.ru/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82" target="_blank" rel="noopener noreferrer nofollow">https://ru.ruwiki.ru/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiki.ruТегеранский инцидент — Рувики: Интернет-энциклопедияApril 8, 2011 — ТЕГЕРАНСКИЙ ИНЦИДЕНТ Тегеранский инцидент с НЛО 1976 года —...</p></details>
+   Link:<a href="https://ru.ruwiki.ru/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82" target="_blank" rel="noopener noreferrer nofollow">https://ru.ruwiki.ru/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiki.ruТегеранский инцидент — Рувики: Интернет-энциклопедияApril 8, 2011 — ТЕГЕРАНСКИЙ ИНЦИДЕНТ Тегеранский инцидент с НЛО 1976 года —...</p></details>
    Published: April 8, 2011  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why Scientists Once Believed Another Civilization Was Here | David Baron  
-   Link: <a href="https://www.youtube.com/watch?v=dTdgMiq6l8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dTdgMiq6l8Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Signals From Deep Space | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dTdgMiq6l8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dTdgMiq6l8Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Signals From Deep Space | The Proof Is Out There...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wikileaks.org  
    Title: 1976STATE247538 b  
-   Link: <a href="https://www.wikileaks.org/plusd/cables/1976STATE247538_b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wikileaks.org/plusd/cables/1976STATE247538_b.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1976STATE247538_bOctober 5, 1976 — MOROCCAN REQUEST FOR INFO -- UFOS Date:1976 October 5, 20:41 (Tuesday) | Canonical ID:1976STATE...</p></details>
+   Link:<a href="https://www.wikileaks.org/plusd/cables/1976STATE247538_b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wikileaks.org/plusd/cables/1976STATE247538_b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1976STATE247538_bOctober 5, 1976 — MOROCCAN REQUEST FOR INFO -- UFOS Date:1976 October 5, 20:41 (Tuesday) | Canonical ID:1976STATE...</p></details>
    Published: October 5, 1976  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: a.osmarks.net  
    Title: Molniya (rocket)  
-   Link: <a href="https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Molniya_%28rocket%29" target="_blank" rel="noopener noreferrer nofollow">https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Molniya_%28rocket%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(rocket)MOLNIYA (ROCKET) The Molniya (Russian: Молния, meaning &quot;lightning&quot;), GRAU Index 8K78, was a modification of the well-known R-7 Se...</p></details>
+   Link:<a href="https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Molniya_%28rocket%29" target="_blank" rel="noopener noreferrer nofollow">https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Molniya_%28rocket%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(rocket)MOLNIYA (ROCKET) The Molniya (Russian: Молния, meaning &quot;lightning&quot;), GRAU Index 8K78, was a modification of the well-known R-7 Se...</p></details>

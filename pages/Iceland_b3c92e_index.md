@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /iceland-b3c92e-index/
 description: Focused pages that expand on Does Iceland Have a Real UFO Record?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Iceland_b3c92e
 parent_title: Does Iceland Have a Real UFO Record?
@@ -16,7 +16,7 @@ parent_permalink: /does-iceland-have-a-real-ufo-record/
 
 # Explore Topics in Does Iceland Have a Real UFO Record?
 
-The following pages expand on the main **[Does Iceland Have a Real UFO Record?]({{ '/does-iceland-have-a-real-ufo-record/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Does Iceland Have a Real UFO Record?]({{ '/does-iceland-have-a-real-ufo-record/' | relative_url }})** page and cover its key branches in.
 
 - [Keflavik Radar]({{ '/keflavik-radar/' | relative_url }})
 - [Local Reports]({{ '/local-reports/' | relative_url }})

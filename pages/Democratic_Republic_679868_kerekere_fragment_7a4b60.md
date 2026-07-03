@@ -257,11 +257,11 @@ image: /assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illust
 The so-called Kerekere fragment is one of the most repeated “UFO crash” stories linked to the [Democratic Republic of the Congo]({{ 'democratic-republic-of-the-congo/' | relative_url }}), yet it is also one of the clearest examples of how a dramatic recovery narrative can collapse under technical analysis. The case began in October 1965 after reports that an unidentified object exploded over the Kerekere area and scattered debris. Intelligence-linked records later described a metallic fragment recovered from the site and subjected to laboratory examination. For UFO researchers, the story sounded like a classic crash-retrieval event: an aerial explosion, a search operation, and recovered metal from an unknown craft.
 
 <img src="{{ "/assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-1-dark.svg" | relative_url }}" alt="Kerekere illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What made the case unusual, however, was the conclusion of the analysis itself. The surviving report did not describe exotic alloys, impossible isotopes, or unknown engineering. Instead, investigators identified the object as a terrestrial electrical component made from ordinary industrial material. The Kerekere file therefore became important not because it proved a UFO crash, but because it showed how quickly an unexplained incident could become mythologised even when the available evidence pointed back to conventional technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
+What made the case unusual, however, was the conclusion of the analysis itself. The surviving report did not describe exotic alloys, impossible isotopes, or unknown engineering. Instead, investigators identified the object as a terrestrial electrical component made from ordinary industrial material. The Kerekere file therefore became important not because it proved a UFO crash, but because it showed how quickly an unexplained incident could become mythologised even when the available evidence pointed back to conventional technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
 
 ## The reported explosion and recovery
 
-The fragment story appears to trace back to an exploitation report concerning a metallic object recovered near Kerekere, then within the Republic of the Congo terminology used during the period for Congo-Leopoldville, now the [Democratic Republic]({{ 'democratic-republic-of-the-congo/' | relative_url }}) of the Congo. According to later reproductions and discussions of the file, witnesses reported that an unidentified object exploded in the air sometime between 10 and 15 October 1965, after which a ground search recovered metallic debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
+The fragment story appears to trace back to an exploitation report concerning a metallic object recovered near Kerekere, then within the Republic of the Congo terminology used during the period for Congo-Leopoldville, now the [Democratic Republic]({{ 'democratic-republic-of-the-congo/' | relative_url }}) of the Congo. According to later reproductions and discussions of the file, witnesses reported that an unidentified object exploded in the air sometime between 10 and 15 October 1965, after which a ground search recovered metallic debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
 
 That sequence immediately gave the incident the structure of a classic UFO crash account:
 
@@ -276,7 +276,7 @@ That sequence immediately gave the incident the structure of a classic UFO crash
 
 Within UFO literature, those elements often carry more weight than the final analytical results. Once a case enters circulation as a “crash retrieval”, later retellings tend to focus on the recovery itself rather than on whether the material proved unusual.
 
-The Congo setting also amplified the mystery. During the 1960s, central Africa was poorly documented in Western media, politically unstable, and difficult for outside researchers to verify independently. Sparse records and geographic distance made it easier for fragmentary stories to persist without comprehensive scrutiny. The confusion caused by multiple states using versions of the “Republic of the Congo” name during that era added another layer of uncertainty, with some later writers even placing the event in the wrong country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
+The Congo setting also amplified the mystery. During the 1960s, central Africa was poorly documented in Western media, politically unstable, and difficult for outside researchers to verify independently. Sparse records and geographic distance made it easier for fragmentary stories to persist without comprehensive scrutiny. The confusion caused by multiple states using versions of the “Republic of the Congo” name during that era added another layer of uncertainty, with some later writers even placing the event in the wrong country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 150.0K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
@@ -284,7 +284,7 @@ The Congo setting also amplified the mystery. During the 1960s, central Africa w
 
 The technical conclusion is the most important part of the Kerekere case, and also the part most frequently minimised in later retellings.
 
-According to the surviving summaries of the report, investigators identified the recovered object as an electrical component made from silicon steel laminate, a conventional industrial material widely associated with transformers, motors, and other electrical equipment. The report reportedly stated that the fragment’s damaged condition prevented determination of its exact national origin, but the wording itself implied a terrestrial manufacturing source rather than a non-human one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
+According to the surviving summaries of the report, investigators identified the recovered object as an electrical component made from silicon steel laminate, a conventional industrial material widely associated with transformers, motors, and other electrical equipment. The report reportedly stated that the fragment’s damaged condition prevented determination of its exact national origin, but the wording itself implied a terrestrial manufacturing source rather than a non-human one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
 
 That distinction matters. In UFO crash claims, analysts usually look for one of several categories of anomaly:
 
@@ -297,7 +297,7 @@ That distinction matters. In UFO crash claims, analysts usually look for one of 
 
 </div>
 
-None of those appear in the Kerekere file as publicly discussed. Instead, the fragment matched known industrial technology. The surviving descriptions do not indicate evidence of extraterrestrial composition, advanced propulsion systems, or non-terrestrial metallurgy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
+None of those appear in the Kerekere file as publicly discussed. Instead, the fragment matched known industrial technology. The surviving descriptions do not indicate evidence of extraterrestrial composition, advanced propulsion systems, or non-terrestrial metallurgy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
 
 The most cautious interpretation is therefore also the simplest: something exploded or fell, witnesses interpreted it as unidentified, debris was recovered, and laboratory examination traced the material back to ordinary human manufacture.
 
@@ -349,199 +349,199 @@ But when the analytical stage is examined closely, the evidential strength weake
 
 In the wider Democratic Republic of the Congo UFO record, Kerekere occupies an unusual middle ground. It is stronger than simple anecdotal sighting stories because an actual fragment was reportedly recovered and examined. Yet it is weaker than crash believers often imply because the examination did not produce extraordinary findings.
 
-The result is a case that illustrates a recurring problem in UFO history: the public memory of an incident often freezes at the moment of mystery, not at the point of explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
+The result is a case that illustrates a recurring problem in UFO history: the public memory of an incident often freezes at the moment of mystery, not at the point of explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the 1965 congo ufo crash</span><span class="citation-popover-snippet">JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</span></span></span>
 
 <img src="{{ "/assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-3-dark.svg" | relative_url }}" alt="Kerekere illustration 3" data-theme-src-dark="{{ "/assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Kerekere Fragment a UFO Crash?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Kerekere Fragment a UFO Crash?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how investigations can reduce sensational cases to ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how investigations can reduce sensational cases to ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes evidence assessment and the difference between claims and proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence assessment and the difference between claims and proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality and case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality and case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context on documented reports versus speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on documented reports versus speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-kerekere-fragment-a-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-kerekere-fragment-a-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ The result is a case that illustrates a recurring problem in UFO history: the pu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ The result is a case that illustrates a recurring problem in UFO history: the pu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ The result is a case that illustrates a recurring problem in UFO history: the pu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ The result is a case that illustrates a recurring problem in UFO history: the pu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ The result is a case that illustrates a recurring problem in UFO history: the pu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,75 +744,74 @@ The result is a case that illustrates a recurring problem in UFO history: the pu
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jasoncolavito.com  
    Title: the 1965 congo ufo crash  
-   Link: <a href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/the-1965-congo-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOThe 1965 Congo UFO Crash11 Jun 2012 — The purpose of this report is to present the results of the exploitation of a metalli...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kerekere.org  
    Title: VILLAGEKere Kere Village isn't just about staying updated  
-   Link: <a href="https://www.kerekere.org/village" target="_blank" rel="noopener noreferrer nofollow">https://www.kerekere.org/village</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VILLAGEKereKere Village isn&#x27;t just about staying updated - it&#x27;s a vibrant collective where we put the community at the heart of everythin...</p></details>
+   Link:<a href="https://www.kerekere.org/village" target="_blank" rel="noopener noreferrer nofollow">https://www.kerekere.org/village</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VILLAGEKereKere Village isn&#x27;t just about staying updated - it&#x27;s a vibrant collective where we put the community at the heart of everythin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dli.ernet.16700/16700-The%20Handbook%20Of%20Uganda_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dli.ernet.16700/16700-The%20Handbook%20Of%20Uganda_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANDA. SECOND EDITION. iiV H. R. WALLIS, C.M.G...</p></details>
+   Link:<a href="https://archive.org/stream/dli.ernet.16700/16700-The%20Handbook%20Of%20Uganda_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dli.ernet.16700/16700-The%20Handbook%20Of%20Uganda_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANDA. SECOND EDITION. iiV H. R. WALLIS, C.M.G...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pemsea.org  
-   Link: <a href="https://www.pemsea.org/sites/default/files/2023-11/Regional%20State%20of%20Ocean%20and%20Coasts%202021%20The%20East%20Asian%20Seas%20Region%20VOLUME%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pemsea.org/sites/default/files/2023-11/Regional%20State%20of%20Ocean%20and%20Coasts%202021%20The%20East%20Asian%20Seas%20Region%20VOLUME%201.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE EAST ASIAN SEAS REGION... Technology Transfer for Coastal Ecosystem Protection and Climate Action. 20. Traditional Knowledge in Ocean...</p></details>
+   Link:<a href="https://www.pemsea.org/sites/default/files/2023-11/Regional%20State%20of%20Ocean%20and%20Coasts%202021%20The%20East%20Asian%20Seas%20Region%20VOLUME%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pemsea.org/sites/default/files/2023-11/Regional%20State%20of%20Ocean%20and%20Coasts%202021%20The%20East%20Asian%20Seas%20Region%20VOLUME%201.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE EAST ASIAN SEAS REGION... Technology Transfer for Coastal Ecosystem Protection and Climate Action. 20. Traditional Knowledge in Ocean...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: downloads.cs.stanford.edu  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... technology competition involved close above coast almost 23 square reported... conclusion nevad...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... technology competition involved close above coast almost 23 square reported... conclusion nevad...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Helena-Barba-Meinecke/publication/361863971_UNDERWATER_CULTURAL_HERITAGE_IN_THE_YUCATAN_PENINSULA_MEXICO/links/62c8fdca00d0b4511042f1dc/UNDERWATER-CULTURAL-HERITAGE-IN-THE-YUCATAN-PENINSULA-MEXICO.pdf?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Helena-Barba-Meinecke/publication/361863971_UNDERWATER_CULTURAL_HERITAGE_IN_THE_YUCATAN_PENINSULA_MEXICO/links/62c8fdca00d0b4511042f1dc/UNDERWATER-CULTURAL-HERITAGE-IN-THE-YUCATAN-PENINSULA-MEXICO.pdf?origin=scientificContributions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>heritage under water at riskUnderwater Technology 21(1): 29–35. In: Journal of the Society for. Underwater Technology. Dobbs C and Kentle...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Helena-Barba-Meinecke/publication/361863971_UNDERWATER_CULTURAL_HERITAGE_IN_THE_YUCATAN_PENINSULA_MEXICO/links/62c8fdca00d0b4511042f1dc/UNDERWATER-CULTURAL-HERITAGE-IN-THE-YUCATAN-PENINSULA-MEXICO.pdf?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Helena-Barba-Meinecke/publication/361863971_UNDERWATER_CULTURAL_HERITAGE_IN_THE_YUCATAN_PENINSULA_MEXICO/links/62c8fdca00d0b4511042f1dc/UNDERWATER-CULTURAL-HERITAGE-IN-THE-YUCATAN-PENINSULA-MEXICO.pdf?origin=scientificContributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heritage under water at riskUnderwater Technology 21(1): 29–35. In: Journal of the Society for. Underwater Technology. Dobbs C and Kentle...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/kerekere" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/kerekere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Papuan word, compare Makasae kereke. Verb. kerekere. to write · Last edited 4 years ago by Rajkiandris. Languages. Bahasa Indonesia · Kur...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/kerekere" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/kerekere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Papuan word, compare Makasae kereke. Verb. kerekere. to write · Last edited 4 years ago by Rajkiandris. Languages. Bahasa Indonesia · Kur...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/explore/locations/1015966592/kerekere/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/explore/locations/1015966592/kerekere/</a>  
+   Link:<a href="https://www.instagram.com/explore/locations/1015966592/kerekere/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/explore/locations/1015966592/kerekere/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iias.asia  
-   Link: <a href="https://www.iias.asia/sites/iias/files/theNewsletter/2019-06/IIAS_NL42_FULL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iias.asia/sites/iias/files/theNewsletter/2019-06/IIAS_NL42_FULL.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fijian&#x27;s struggle against western influence. In a sense, it was a debate about facts – whether...Read more...</p></details>
+   Link:<a href="https://www.iias.asia/sites/iias/files/theNewsletter/2019-06/IIAS_NL42_FULL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iias.asia/sites/iias/files/theNewsletter/2019-06/IIAS_NL42_FULL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fijian&#x27;s struggle against western influence. In a sense, it was a debate about facts – whether...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: It was almost midnight when I stepped out of his room  
-   Link: <a href="https://www.facebook.com/silentbeadz/posts/it-was-almost-midnight-when-i-stepped-out-of-his-room-it-was-a-busy-neighbourhoo/638194127667059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/silentbeadz/posts/it-was-almost-midnight-when-i-stepped-out-of-his-room-it-was-a-busy-neighbourhoo/638194127667059/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kerekere,” another boy called on after her. She continued to walk away without looking back. “Setiseti, va difficulty tu I vei kalavo,” t...</p></details>
+   Link:<a href="https://www.facebook.com/silentbeadz/posts/it-was-almost-midnight-when-i-stepped-out-of-his-room-it-was-a-busy-neighbourhoo/638194127667059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/silentbeadz/posts/it-was-almost-midnight-when-i-stepped-out-of-his-room-it-was-a-busy-neighbourhoo/638194127667059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kerekere,” another boy called on after her. She continued to walk away without looking back. “Setiseti, va difficulty tu I vei kalavo,” t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWRZ-PzjC-C/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWRZ-PzjC-C/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt recovery was the result of a ground level search which...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWRZ-PzjC-C/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWRZ-PzjC-C/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt recovery was the result of a ground level search which...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: a2o-resources-ap-southeast-2.s3.ap-southeast-2.amazonaws.com  
    Title: Jesus is NOT a probability. He is God. From eternity, it had been  
-   Link: <a href="https://a2o-resources-ap-southeast-2.s3.ap-southeast-2.amazonaws.com/BETA%20-%20Time.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=ASIATLBEOY7POIC4DZ3I%2F20260511%2Fap-southeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260511T015053Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJIMEYCIQCLO68XWnJdI2dQuWcaObeFHrPKPSa5Lff3cqaWS46NwgIhALnC8JlFxO2b6GVZfQmkThFqKj2gqW7BKvJqWZeVqfBnKroECAsQBRoMMjI5ODU3MjE2NDc4IgzlOXyCi3aNpY38Pq8qlwTxxvl%2FgrlhnJlstR17CU0ysHVOc8sutaN6%2FCTER05D6H4pMkx8KxqHHKB2Gvq2ybZLCT2AbrODmmcMO8%2BxKJ25ejMeiyj4NN55UD%2B2yTutkwUWlwg8ki3vR7YlrQAqxADM4ynPuWyckvhZn98ScK5w7V9BH05PQ5rv9MRpmN7%2BWDcvxKkjXXNhiNCf5cy%2BePPzhtQKltMzKKWIbBey9A5YcBUvxfUFOdmsQLlUX8%2FQ4hknTpJad2CcIYDvwKGfoL9kSaZ5lj3ohPGwQ3uLFp1U9avGz4RpOJiJOngU8yVMutnCjZkr%2BRFXr8pMbtctUpq8SwEuDYhv18eaJdOXBw9eJHyg%2FSolEJqXbFter5pcLFW7jy9yYds7gvXRQmdUGq4UBN9JuHRk69R7avwdaj%2BNTlv3ri7Dd813Cg5V6%2FGoi0Oyfdg5SyxGybPNrw3PTpuu3Unp%2FlPx9EQ3%2BoL55a5e5qhxjXgmNeph0vvQqpGxFCrR4Nhey9OXBoI3wbu4YguAxncTpx42gcbCDL0QFFd7%2FFCDMR1v0uHyvy0F2X%2FCpQ5VWw4yFyEECLP3fRn161d65vl2N2%2BZlmT%2B%2BKGpZv96zwEORwSBVf3%2FRTf2DtiBsQXkMmDAXM5iVy9ISudB6R%2FYv%2FzZmWjYdCzeD0mQuRymrlu7V8MqloT8hYZ9ue2M5riKlzAup3yN2DszHOK8eFwDW6s%2FoAmOMPrrhNAGOqEB2eytFD5AwMzbDmNwIAYdW%2Bjq0zXCrNr5FHiSHBZcJH3%2Bj%2B6KH3CDCFoLzpOvZK71ackCm6ll8DFSK4fexYOhhL0szoCtZssj9jzTsCjcjCvEc1Zlz54YVgDDfem9jzc3OJYTH3DvJc%2BO%2BQWGHoD04D8v9KbyOdbwUO4xiaZgg%2FUnL6wY3EEmjCvJlW%2FRWq0vjpgvJ1XmgCR3VZlx5sXZk%2Bg%3D&amp;X-Amz-Signature=3f4a942f34fe4e9d53171d091779d846da3c2af7f42fcbbb0a15385902505f9f&amp;X-Amz-SignedHeaders=host&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject" target="_blank" rel="noopener noreferrer nofollow">https://a2o-resources-ap-southeast-2.s3.ap-southeast-2.amazonaws.com/BETA%20-%20Time.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=ASIATLBEOY7POIC4DZ3I%2F20260511%2Fap-southeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20260511T015053Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJIMEYCIQCLO68XWnJdI2dQuWcaObeFHrPKPSa5Lff3cqaWS46NwgIhALnC8JlFxO2b6GVZfQmkThFqKj2gqW7BKvJqWZeVqfBnKroECAsQBRoMMjI5ODU3MjE2NDc4IgzlOXyCi3aNpY38Pq8qlwTxxvl%2FgrlhnJlstR17CU0ysHVOc8sutaN6%2FCTER05D6H4pMkx8KxqHHKB2Gvq2ybZLCT2AbrODmmcMO8%2BxKJ25ejMeiyj4NN55UD%2B2yTutkwUWlwg8ki3vR7YlrQAqxADM4ynPuWyckvhZn98ScK5w7V9BH05PQ5rv9MRpmN7%2BWDcvxKkjXXNhiNCf5cy%2BePPzhtQKltMzKKWIbBey9A5YcBUvxfUFOdmsQLlUX8%2FQ4hknTpJad2CcIYDvwKGfoL9kSaZ5lj3ohPGwQ3uLFp1U9avGz4RpOJiJOngU8yVMutnCjZkr%2BRFXr8pMbtctUpq8SwEuDYhv18eaJdOXBw9eJHyg%2FSolEJqXbFter5pcLFW7jy9yYds7gvXRQmdUGq4UBN9JuHRk69R7avwdaj%2BNTlv3ri7Dd813Cg5V6%2FGoi0Oyfdg5SyxGybPNrw3PTpuu3Unp%2FlPx9EQ3%2BoL55a5e5qhxjXgmNeph0vvQqpGxFCrR4Nhey9OXBoI3wbu4YguAxncTpx42gcbCDL0QFFd7%2FFCDMR1v0uHyvy0F2X%2FCpQ5VWw4yFyEECLP3fRn161d65vl2N2%2BZlmT%2B%2BKGpZv96zwEORwSBVf3%2FRTf2DtiBsQXkMmDAXM5iVy9ISudB6R%2FYv%2FzZmWjYdCzeD0mQuRymrlu7V8MqloT8hYZ9ue2M5riKlzAup3yN2DszHOK8eFwDW6s%2FoAmOMPrrhNAGOqEB2eytFD5AwMzbDmNwIAYdW%2Bjq0zXCrNr5FHiSHBZcJH3%2Bj%2B6KH3CDCFoLzpOvZK71ackCm6ll8DFSK4fexYOhhL0szoCtZssj9jzTsCjcjCvEc1Zlz54YVgDDfem9jzc3OJYTH3DvJc%2BO%2BQWGHoD04D8v9KbyOdbwUO4xiaZgg%2FUnL6wY3EEmjCvJlW%2FRWq0vjpgvJ1XmgCR3VZlx5sXZk%2Bg%3D&amp;X-Amz-Signature=3f4a942f34fe4e9d53171d091779d846da3c2af7f42fcbbb0a15385902505f9f&amp;X-Amz-SignedHeaders=host&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with a New Zealand emphasisConclusion: For all 60+ prophesies to be fulfilled in just ONE man is impossible...</p></details>
+   Link:<a href="https://a2o-resources-ap-southeast-2.s3.ap-southeast-2.amazonaws.com/BETA%20-%20Time.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=REDACTED&amp;X-Amz-Date=20260511T015053Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=REDACTED&amp;X-Amz-Signature=REDACTED&amp;X-Amz-SignedHeaders=host&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject" target="_blank" rel="noopener noreferrer nofollow">https://a2o-resources-ap-southeast-2.s3.ap-southeast-2.amazonaws.com/BETA%20-%20Time.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=REDACTED&amp;X-Amz-Date=20260511T015053Z&amp;X-Amz-Expires=3600&amp;X-Amz-Security-Token=REDACTED&amp;X-Amz-Signature=REDACTED&amp;X-Amz-SignedHeaders=host&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with a New Zealand emphasisConclusion: For all 60+ prophesies to be fulfilled in just ONE man is impossible...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: geokniga.org  
-   Link: <a href="https://www.geokniga.org/bookfiles/geokniga-depositmodel080422grmkvsky2yur080423nkmdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.geokniga.org/bookfiles/geokniga-depositmodel080422grmkvsky2yur080423nkmdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>its have a long and useful role in geology. The first models were...</p></details>
+   Link:<a href="https://www.geokniga.org/bookfiles/geokniga-depositmodel080422grmkvsky2yur080423nkmdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.geokniga.org/bookfiles/geokniga-depositmodel080422grmkvsky2yur080423nkmdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>its have a long and useful role in geology. The first models were...</p></details>

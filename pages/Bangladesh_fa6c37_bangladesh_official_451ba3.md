@@ -259,15 +259,15 @@ In [Bangladesh]({{ 'bangladesh/' | relative_url }}), *unidentified aerial phenom
 <img src="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Civil Aviation Authority of Bangladesh: Airspace Rules and UAV Enforcement
 
-The primary body with jurisdiction over airspace and airborne objects inside Bangladesh is the **Civil Aviation Authority of Bangladesh (CAAB)**, which operates under the Ministry of Civil Aviation and Tourism and implements national and international aviation standards. CAAB’s remit covers licences, air traffic control, safety oversight and enforcement of restricted airspace for all aircraft, including unmanned aerial vehicles (UAVs). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_Bangladesh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Civil Aviation Authority of Bangladesh</span><span class="citation-popover-snippet">Civil Aviation Authority of Bangladesh</span></span></span>
+The primary body with jurisdiction over airspace and airborne objects inside Bangladesh is the **Civil Aviation Authority of Bangladesh (CAAB)**, which operates under the Ministry of Civil Aviation and Tourism and implements national and international aviation standards. CAAB’s remit covers licences, air traffic control, safety oversight and enforcement of restricted airspace for all aircraft, including unmanned aerial vehicles (UAVs).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_Bangladesh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Civil Aviation Authority of Bangladesh</span><span class="citation-popover-snippet">Civil Aviation Authority of Bangladesh</span></span></span>
 
 ### UAV Regulation as Proxy for UAP Reporting
 
 While CAAB does not maintain a public UAP incident database, its **drone regulations and enforcement actions represent the main source of official documentation concerning unidentified aerial activity in Bangladesh**:
 
-* Under the **Drone Registration and Operation Policy 2020** and related guidelines, **all drone flights in Bangladesh require prior permission from CAAB**, as unauthorised operations are considered a threat to aviation safety and national security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbsnews.net">[The Business Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbsnews.net</span><span class="citation-popover-title">The Business Standard Drone flights banned at airports, adjacent areas</span><span class="citation-popover-snippet">The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
-* Airports and their surrounding zones are designated **“Red Zones”** where **unauthorised drone flights are explicitly banned** under CAAB policy and subject to legal action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbsnews.net">[The Business Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbsnews.net</span><span class="citation-popover-title">The Business Standard Drone flights banned at airports, adjacent areas</span><span class="citation-popover-snippet">The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
-* CAAB routinely communicates these regulatory requirements through official press releases and enforcement notices, emphasising compliance and the safety implications of unregulated aerial activity near controlled airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bssnews.net/news-flash/344475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bssnews.net">[BSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bssnews.net</span><span class="citation-popover-title">BSSDrone flights banned at airports, adjacent areas &#124; News Flash</span><span class="citation-popover-snippet">December 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
+* Under the **Drone Registration and Operation Policy 2020** and related guidelines, **all drone flights in Bangladesh require prior permission from CAAB**, as unauthorised operations are considered a threat to aviation safety and national security.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbsnews.net">[The Business Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbsnews.net</span><span class="citation-popover-title">The Business Standard Drone flights banned at airports, adjacent areas</span><span class="citation-popover-snippet">The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
+* Airports and their surrounding zones are designated **“Red Zones”** where **unauthorised drone flights are explicitly banned** under CAAB policy and subject to legal action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbsnews.net">[The Business Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbsnews.net</span><span class="citation-popover-title">The Business Standard Drone flights banned at airports, adjacent areas</span><span class="citation-popover-snippet">The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
+* CAAB routinely communicates these regulatory requirements through official press releases and enforcement notices, emphasising compliance and the safety implications of unregulated aerial activity near controlled airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bssnews.net/news-flash/344475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bssnews.net">[BSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bssnews.net</span><span class="citation-popover-title">BSSDrone flights banned at airports, adjacent areas &#124; News Flash</span><span class="citation-popover-snippet">December 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
 
 These regulatory structures act as **de facto official records of aerial sightings** to the extent that they document when unidentified or unauthorised aerial vehicles—typically drones—are encountered and acted upon by authorities.
 
@@ -275,7 +275,7 @@ These regulatory structures act as **de facto official records of aerial sightin
 
 ### Recorded Enforcement Actions
 
-In **April 2026**, CAAB issued multiple press releases on the **seizure of an unauthorised drone** operating in the VIP area of **Hazrat Shahjalal International Airport** in Dhaka. The device, a **DJI Mavic 4 Pro**, was detected recording video without clearance, prompting its seizure and warnings of legal consequences for violations of the Drone Registration and Flight Policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newagebd.net/print/article/222954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newagebd.net">[New Age]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newagebd.net</span><span class="citation-popover-title">New Age &#124; Permission required flying drones, toy planes</span><span class="citation-popover-snippet">Dhaka 16 January, 2024, 01:08 Image: Image description Any individual or government and private organisation has to obtai...</span></span></span>
+In **April 2026**, CAAB issued multiple press releases on the **seizure of an unauthorised drone** operating in the VIP area of **Hazrat Shahjalal International Airport** in Dhaka. The device, a **DJI Mavic 4 Pro**, was detected recording video without clearance, prompting its seizure and warnings of legal consequences for violations of the Drone Registration and Flight Policy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newagebd.net/print/article/222954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newagebd.net">[New Age]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newagebd.net</span><span class="citation-popover-title">New Age &#124; Permission required flying drones, toy planes</span><span class="citation-popover-snippet">Dhaka 16 January, 2024, 01:08 Image: Image description Any individual or government and private organisation has to obtai...</span></span></span>
 
 These official statements are among the **few publicly accessible documentation of anomalous or unauthorised aerial objects in Bangladesh’s controlled airspace**—recorded in an aviation safety and security context rather than under any UAP investigative programme.
 
@@ -285,7 +285,7 @@ These official statements are among the **few publicly accessible documentation 
 
 To date, there are **no publicly available declassified military records or official Bangladesh Air Force files specifically addressing unidentified aerial phenomena** analogous to U.S. Department of Defence or national archive disclosures elsewhere. Reports of unexplained objects in Bangladesh skies tend to originate from civilian databases or social media and do not align with formal radar, military or counter‑UAV responses that would generate an official record.
 
-In neighbouring or regional contexts, sometimes unusual aerial sightings spark security interest because of **border surveillance or drone incursions**, but no recognised multilateral or Bangladesh‑specific UAP task force or archive exists in open sources. The Bangladesh Air Force, responsible for airspace defence, traditionally engages in routine defence operations and has not released UAP‑focused incident datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bangladesh_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bangladesh Air Force</span><span class="citation-popover-snippet">Bangladesh Air Force</span></span></span>
+In neighbouring or regional contexts, sometimes unusual aerial sightings spark security interest because of **border surveillance or drone incursions**, but no recognised multilateral or Bangladesh‑specific UAP task force or archive exists in open sources. The Bangladesh Air Force, responsible for airspace defence, traditionally engages in routine defence operations and has not released UAP‑focused incident datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bangladesh_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bangladesh Air Force</span><span class="citation-popover-snippet">Bangladesh Air Force</span></span></span>
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gaps in Publicly Accessible Official UFO/UAP Files
@@ -311,199 +311,199 @@ For the purpose of understanding official records relevant to UAP in Bangladesh:
 
 </div>
 
-In summary, Bangladesh authorities treat **safety and security of controlled airspace as part of aviation and national security governance**, with documented records focused on regulation and enforcement rather than UAP‑specific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbsnews.net">[The Business Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbsnews.net</span><span class="citation-popover-title">The Business Standard Drone flights banned at airports, adjacent areas</span><span class="citation-popover-snippet">The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
+In summary, Bangladesh authorities treat **safety and security of controlled airspace as part of aviation and national security governance**, with documented records focused on regulation and enforcement rather than UAP‑specific investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbsnews.net">[The Business Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbsnews.net</span><span class="citation-popover-title">The Business Standard Drone flights banned at airports, adjacent areas</span><span class="citation-popover-snippet">The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</span><span class="citation-popover-meta">Published: December 23, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_bangladesh_official_451ba3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Bangladesh Aviation and Security Responses to UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Bangladesh Aviation and Security Responses to UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses how reports are assessed by investigators.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how reports are assessed by investigators.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official, aviation and military perspectives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official, aviation and military perspectives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for advanced aircraft, secrecy and airspace monitoring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced aircraft, secrecy and airspace monitoring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
-        </h4>
-        <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
+</h4>
+<p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
         
-        <p class="fr-book-desc">Relevant to drone-related explanations for unidentified aerial activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to drone-related explanations for unidentified aerial activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bangladesh-aviation-and-security-responses-to-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -519,7 +519,7 @@ In summary, Bangladesh authorities treat **safety and security of controlled air
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -539,7 +539,7 @@ In summary, Bangladesh authorities treat **safety and security of controlled air
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -571,7 +571,7 @@ In summary, Bangladesh authorities treat **safety and security of controlled air
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -623,7 +623,7 @@ In summary, Bangladesh authorities treat **safety and security of controlled air
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -668,7 +668,7 @@ In summary, Bangladesh authorities treat **safety and security of controlled air
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,105 +706,104 @@ In summary, Bangladesh authorities treat **safety and security of controlled air
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Civil Aviation Authority of Bangladesh  
-   Link: <a href="https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_Bangladesh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_Bangladesh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_Bangladesh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_Bangladesh</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bssnews.net  
    Title: BSSDrone flights banned at airports, adjacent areas | News Flash  
-   Link: <a href="https://www.bssnews.net/news-flash/344475" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/news-flash/344475</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 23, 2025...</p></details>
+   Link:<a href="https://www.bssnews.net/news-flash/344475" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/news-flash/344475</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 23, 2025...</p></details>
    Published: December 23, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Bangladesh Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Bangladesh_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bangladesh_Air_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bangladesh_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bangladesh_Air_Force</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tbsnews.net  
    Title: The Business Standard Drone flights banned at airports, adjacent areas  
-   Link: <a href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow">https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</p></details>
+   Link:<a href="https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321" target="_blank" rel="noopener noreferrer nofollow">https://www.tbsnews.net/bangladesh/drone-flights-banned-airports-adjacent-areas-1317321</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Business StandardDrone flights banned at airports, adjacent areasDecember 23, 2025...</p></details>
    Published: December 23, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newagebd.net  
-   Link: <a href="https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-hsia-vip-area" target="_blank" rel="noopener noreferrer nofollow">https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-hsia-vip-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New AgeNew Age | Unauthorised drone seized from HSIA VIP areaApril 5, 2026...</p></details>
+   Link:<a href="https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-hsia-vip-area" target="_blank" rel="noopener noreferrer nofollow">https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-hsia-vip-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New AgeNew Age | Unauthorised drone seized from HSIA VIP areaApril 5, 2026...</p></details>
    Published: April 5, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newagebd.net  
    Title: unauthorised drone seized from vip area of hsia  
-   Link: <a href="https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-vip-area-of-hsia" target="_blank" rel="noopener noreferrer nofollow">https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-vip-area-of-hsia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Age | Unauthorised drone seized from VIP area of HSIAApril 5, 2026 — UNAUTHORISED DRONE SEIZED FROM VIP AREA OF HSIA Staff Correspond...</p></details>
+   Link:<a href="https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-vip-area-of-hsia" target="_blank" rel="noopener noreferrer nofollow">https://www.newagebd.net/post/country/295865/unauthorised-drone-seized-from-vip-area-of-hsia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Age | Unauthorised drone seized from VIP area of HSIAApril 5, 2026 — UNAUTHORISED DRONE SEIZED FROM VIP AREA OF HSIA Staff Correspond...</p></details>
    Published: April 5, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newagebd.net  
    Title: New Age | Permission required flying drones, toy planes  
-   Link: <a href="https://www.newagebd.net/print/article/222954" target="_blank" rel="noopener noreferrer nofollow">https://www.newagebd.net/print/article/222954</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dhaka 16 January, 2024, 01:08 Image: Image description Any individual or government and private organisation has to obtai...</p></details>
+   Link:<a href="https://www.newagebd.net/print/article/222954" target="_blank" rel="noopener noreferrer nofollow">https://www.newagebd.net/print/article/222954</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dhaka 16 January, 2024, 01:08 Image: Image description Any individual or government and private organisation has to obtai...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-bangladesh/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-bangladesh/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in BangladeshGeneral Rules for Flying a Drone in Bangladesh · CAAB permission letter; · Proof of appropriate liability insuran...</p></details>
+   Link:<a href="https://uavcoach.com/drone-laws-in-bangladesh/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-bangladesh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in BangladeshGeneral Rules for Flying a Drone in Bangladesh · CAAB permission letter; · Proof of appropriate liability insuran...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pakobserver/posts/the-pentagon-has-released-the-first-batch-of-declassified-documents-related-to-u/1609160014552434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pakobserver/posts/the-pentagon-has-released-the-first-batch-of-declassified-documents-related-to-u/1609160014552434/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pakistan ObserverThe Pentagon has released the first batch of declassified documents related to Unidentified Aerial Phenomena (UAP), comm...</p></details>
+   Link:<a href="https://www.facebook.com/pakobserver/posts/the-pentagon-has-released-the-first-batch-of-declassified-documents-related-to-u/1609160014552434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pakobserver/posts/the-pentagon-has-released-the-first-batch-of-declassified-documents-related-to-u/1609160014552434/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pakistan ObserverThe Pentagon has released the first batch of declassified documents related to Unidentified Aerial Phenomena (UAP), comm...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dca.gov.bn  
-   Link: <a href="https://www.dca.gov.bn/Site%20Pages/Unmanned%20Aircraft%20Registration%20Guide.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.dca.gov.bn/Site%20Pages/Unmanned%20Aircraft%20Registration%20Guide.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned Aircraft Registration GuideSubmit the completed registration form along with the required documents to our email address unmanne...</p></details>
+   Link:<a href="https://www.dca.gov.bn/Site%20Pages/Unmanned%20Aircraft%20Registration%20Guide.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.dca.gov.bn/Site%20Pages/Unmanned%20Aircraft%20Registration%20Guide.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned Aircraft Registration GuideSubmit the completed registration form along with the required documents to our email address unmanne...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment by Avi Loeb of the Second Release of...The U.S. Department of War has just released here its second batch of new public files...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment by Avi Loeb of the Second Release of...The U.S. Department of War has just released here its second batch of new public files...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: milmag.pl  
-   Link: <a href="https://milmag.pl/en/us-defense-department-declassifies-several-photos-of-unidentified-aerial-phenomena-uap-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://milmag.pl/en/us-defense-department-declassifies-several-photos-of-unidentified-aerial-phenomena-uap-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Defense Department Declassifies Several Photos of...8 May 2026 — A total of 162 documents were released, including armed forces repor...</p></details>
+   Link:<a href="https://milmag.pl/en/us-defense-department-declassifies-several-photos-of-unidentified-aerial-phenomena-uap-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://milmag.pl/en/us-defense-department-declassifies-several-photos-of-unidentified-aerial-phenomena-uap-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Defense Department Declassifies Several Photos of...8 May 2026 — A total of 162 documents were released, including armed forces repor...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dkiapcss.edu  
-   Link: <a href="https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The number of Unidentified Aerial Phenomena (UAP) reports by international military personnel has steadily increased in recent years.Read...</p></details>
+   Link:<a href="https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The number of Unidentified Aerial Phenomena (UAP) reports by international military personnel has steadily increased in recent years.Read...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dhakatribune.com  
    Title: Dhaka Tribune Permission required flying drones, remote-controlled toy planes  
-   Link: <a href="https://www.dhakatribune.com/bangladesh/336848/permission-required-flying-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.dhakatribune.com/bangladesh/336848/permission-required-flying-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Permission required flying drones, remote-controlled toy planesJanuary 15, 2024 — PERMISSION REQUIRED FLYING DRONES, REMOTE-CONTROLLED TO...</p></details>
+   Link:<a href="https://www.dhakatribune.com/bangladesh/336848/permission-required-flying-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.dhakatribune.com/bangladesh/336848/permission-required-flying-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Permission required flying drones, remote-controlled toy planesJanuary 15, 2024 — PERMISSION REQUIRED FLYING DRONES, REMOTE-CONTROLLED TO...</p></details>
    Published: January 15, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nreeproductions.com  
-   Link: <a href="https://nreeproductions.com/drone-filming-bangladesh-permits-guide/" target="_blank" rel="noopener noreferrer nofollow">https://nreeproductions.com/drone-filming-bangladesh-permits-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Filming in Bangladesh: CAAB Complete Guide 202622 Dec 2025 — Complete guide to drone filming in Bangladesh...</p></details>
+   Link:<a href="https://nreeproductions.com/drone-filming-bangladesh-permits-guide/" target="_blank" rel="noopener noreferrer nofollow">https://nreeproductions.com/drone-filming-bangladesh-permits-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Filming in Bangladesh: CAAB Complete Guide 202622 Dec 2025 — Complete guide to drone filming in Bangladesh...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bssnews.net  
    Title: Permission required to fly drones, remote-controlled toy planes | News  
-   Link: <a href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/news/168190</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2024 — 23 May, 2026 PERMISSION REQUIRED TO FLY DRONES, REMOTE-CONTROLLED TOY PLANES Image DHAKA, Jan 15, 2024 (BSS) - Any ind...</p></details>
+   Link:<a href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/news/168190</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2024 — 23 May, 2026 PERMISSION REQUIRED TO FLY DRONES, REMOTE-CONTROLLED TOY PLANES Image DHAKA, Jan 15, 2024 (BSS) - Any ind...</p></details>
    Published: January 15, 2024

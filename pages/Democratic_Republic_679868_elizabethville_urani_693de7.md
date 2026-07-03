@@ -257,17 +257,17 @@ image: /assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Ill
 The 1952 Elizabethville UFO report sits at the intersection of Cold War anxiety, uranium politics, colonial secrecy, and the enduring appeal of unexplained aerial phenomena. The incident, reported in the Belgian Congo near some of the world’s most strategically important uranium operations, became one of the best-known African entries in the CIA’s later declassified UFO archive. Yet the case is remembered less because the evidence is strong than because the setting was so extraordinary.
 
 <img src="{{ "/assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Illustration-1-dark.svg" | relative_url }}" alt="Elizabethville illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the time, the Katanga region of what is now the [Democratic Republic of the Congo]({{ 'democratic-republic-of-the-congo/' | relative_url }}) was deeply tied to the nuclear age. Uranium from Congolese mines had already fuelled the Manhattan Project, and Western governments regarded the region as strategically vital. Against that backdrop, reports of fast-moving “fiery disks” over the Elizabethville district acquired a significance that ordinary UFO stories did not. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1951v01/d229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the HistorianHistorical Documents - Office of the Historian - State DepartmentSubject: Security of the Uranium Ore Mining Area...</span></span></span>
+At the time, the Katanga region of what is now the [Democratic Republic of the Congo]({{ 'democratic-republic-of-the-congo/' | relative_url }}) was deeply tied to the nuclear age. Uranium from Congolese mines had already fuelled the Manhattan Project, and Western governments regarded the region as strategically vital. Against that backdrop, reports of fast-moving “fiery disks” over the Elizabethville district acquired a significance that ordinary UFO stories did not. CIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1951v01/d229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the HistorianHistorical Documents - Office of the Historian - State DepartmentSubject: Security of the Uranium Ore Mining Area...</span></span></span>
 
 The result is a case that continues to divide researchers. UFO writers often present it as an early example of unidentified craft appearing near nuclear infrastructure. Historians and sceptics counter that the surviving documentation is thin, indirect, and shaped by Cold War information networks rather than by rigorous investigation. The mystery persists largely because the surviving record is fragmentary enough to support competing interpretations.
 
 ## What the 1952 report actually claimed
 
-The core account comes from a CIA document titled “Flying Saucers Over Belgian Congo Uranium Mines”, preserved in the agency’s public UFO collection decades later. The document itself was not a CIA field investigation. It was an “unevaluated information” summary derived from a March 1952 article in the Viennese newspaper *Die Presse*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FLYING SAUCERS OVER BELGIAN CONGO URANIUM...On his first approach he came vithin about. 120 meters of one of the disks. According to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines - Wikisource11 Jan 2024 — Flying saucers over Belgian Congo uranium mines; SUB...</span></span></span>
+The core account comes from a CIA document titled “Flying Saucers Over Belgian Congo Uranium Mines”, preserved in the agency’s public UFO collection decades later. The document itself was not a CIA field investigation. It was an “unevaluated information” summary derived from a March 1952 article in the Viennese newspaper *Die Presse*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FLYING SAUCERS OVER BELGIAN CONGO URANIUM...On his first approach he came vithin about. 120 meters of one of the disks. According to...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines - Wikisource11 Jan 2024 — Flying saucers over Belgian Congo uranium mines; SUB...</span></span></span>
 
-According to the report, witnesses observed two glowing disc-shaped objects over the Elizabethville region in southern Belgian Congo. The objects allegedly moved in curved patterns, changed apparent shape depending on viewing angle, hovered briefly, and then accelerated away in a zigzag motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report...Page:Flying saucers over Belgian Congo uranium mines, CIA r...</span></span></span>
+According to the report, witnesses observed two glowing disc-shaped objects over the Elizabethville region in southern Belgian Congo. The objects allegedly moved in curved patterns, changed apparent shape depending on viewing angle, hovered briefly, and then accelerated away in a zigzag motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report...Page:Flying saucers over Belgian Congo uranium mines, CIA r...</span></span></span>
 
-The most dramatic part of the story involved a military aviator identified only as “Commander Pierre”. The document claimed he pursued one of the objects by aircraft and approached within roughly 120 metres. He reportedly described the craft as metallic, circular, and extremely fast, with estimated speeds reaching around 1,500 kilometres per hour. The report also claimed the object climbed rapidly and vanished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">UFOs: Fact or Fiction?Most of the documents concern CIA cables reporting unsubstantiated UFO sightings in the foreign press and intra...</span></span></span>
+The most dramatic part of the story involved a military aviator identified only as “Commander Pierre”. The document claimed he pursued one of the objects by aircraft and approached within roughly 120 metres. He reportedly described the craft as metallic, circular, and extremely fast, with estimated speeds reaching around 1,500 kilometres per hour. The report also claimed the object climbed rapidly and vanished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">UFOs: Fact or Fiction?Most of the documents concern CIA cables reporting unsubstantiated UFO sightings in the foreign press and intra...</span></span></span>
 
 Several details helped cement the story in UFO culture:
 
@@ -276,7 +276,7 @@ Several details helped cement the story in UFO culture:
 * The reported pursuit by a trained military pilot.
 * The connection to uranium mining territory.
 * Claims of manoeuvres beyond known aircraft capabilities of the period.
-* The inclusion of sketches showing a disc-like craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">take a peek into our x files</span><span class="citation-popover-snippet">Take a Peek Into Our &quot;X-Files&quot;The CIA declassified hundreds of documents in 1978 detailing the Agency&#x27;s investigations into Unidentified...</span></span></span>
+* The inclusion of sketches showing a disc-like craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">take a peek into our x files</span><span class="citation-popover-snippet">Take a Peek Into Our &quot;X-Files&quot;The CIA declassified hundreds of documents in 1978 detailing the Agency&#x27;s investigations into Unidentified...</span></span></span>
 
 </div>
 
@@ -288,9 +288,9 @@ What survives is essentially a translated press-derived intelligence summary, no
 
 The Elizabethville case would probably have faded into obscurity had it occurred over an ordinary rural district. What made it memorable was Katanga’s role in the early nuclear era.
 
-The nearby Shinkolobwe mine was one of the most important uranium sources in the world. Congolese uranium had been central to the American atomic programme during the Second World War, and the region remained strategically sensitive throughout the early Cold War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fnl.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fnl.mit.edu</span><span class="citation-popover-snippet">MIT Faculty NewsletterThe Legacy of the Involvement of the Democratic Republic...A top-secret American Intelligence report published in...</span></span></span> Faculty Newsletter <span class="citation-chip-wrap"><a class="citation-chip" href="https://nonproliferation.org/uranium-security-in-the-drc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nonproliferation.org">[James Martin Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nonproliferation.org</span><span class="citation-popover-title">uranium security in the drc</span><span class="citation-popover-snippet">James Martin CenterUranium Security in the DRCJanuary 2, 2024 — 2 Jan 2024 — It was a former uranium mine used by the Americans to procur...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://beyondnuclearinternational.org/2020/01/05/an-assassination-uranium-and-the-fate-of-a-country/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beyondnuclearinternational.org">[Beyond Nuclear International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beyondnuclearinternational.org</span><span class="citation-popover-title">an assassination uranium and the fate of a country</span><span class="citation-popover-snippet">An assassination, uranium and the fate of a country5 Jan 2020 — Eighty percent of the uranium used in the Hiroshima and Nagasaki bombs or...</span></span></span>
+The nearby Shinkolobwe mine was one of the most important uranium sources in the world. Congolese uranium had been central to the American atomic programme during the Second World War, and the region remained strategically sensitive throughout the early Cold War.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fnl.mit.edu">[mit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fnl.mit.edu</span><span class="citation-popover-snippet">MIT Faculty NewsletterThe Legacy of the Involvement of the Democratic Republic...A top-secret American Intelligence report published in...</span></span></span> Faculty Newsletter<span class="citation-chip-wrap"><a class="citation-chip" href="https://nonproliferation.org/uranium-security-in-the-drc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nonproliferation.org">[James Martin Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nonproliferation.org</span><span class="citation-popover-title">uranium security in the drc</span><span class="citation-popover-snippet">James Martin CenterUranium Security in the DRCJanuary 2, 2024 — 2 Jan 2024 — It was a former uranium mine used by the Americans to procur...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://beyondnuclearinternational.org/2020/01/05/an-assassination-uranium-and-the-fate-of-a-country/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beyondnuclearinternational.org">[Beyond Nuclear International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beyondnuclearinternational.org</span><span class="citation-popover-title">an assassination uranium and the fate of a country</span><span class="citation-popover-snippet">An assassination, uranium and the fate of a country5 Jan 2020 — Eighty percent of the uranium used in the Hiroshima and Nagasaki bombs or...</span></span></span>
 
-American and Belgian officials worried constantly about sabotage, espionage, transport security, labour unrest, and Soviet interest in the region’s mineral wealth. A 1951 US government memorandum discussed the military importance of securing Belgian Congo uranium supplies and acknowledged fears about disruption, communist activity, and threats to the mining infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1951v01/d229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the HistorianHistorical Documents - Office of the Historian - State DepartmentSubject: Security of the Uranium Ore Mining Area...</span></span></span>
+American and Belgian officials worried constantly about sabotage, espionage, transport security, labour unrest, and Soviet interest in the region’s mineral wealth. A 1951 US government memorandum discussed the military importance of securing Belgian Congo uranium supplies and acknowledged fears about disruption, communist activity, and threats to the mining infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1951v01/d229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the HistorianHistorical Documents - Office of the Historian - State DepartmentSubject: Security of the Uranium Ore Mining Area...</span></span></span>
 
 That atmosphere shaped how unusual aerial reports were interpreted.
 
@@ -304,7 +304,7 @@ For believers, the coincidence seemed meaningful:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* important uranium site, <span class="citation-chip-wrap"><a class="citation-chip" href="https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fnl.mit.edu">[fnl.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fnl.mit.edu</span><span class="citation-popover-snippet">MIT Faculty NewsletterThe Legacy of the Involvement of the Democratic Republic...A top-secret American Intelligence report published in...</span></span></span>
+* important uranium site,<span class="citation-chip-wrap"><a class="citation-chip" href="https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fnl.mit.edu">[fnl.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fnl.mit.edu</span><span class="citation-popover-snippet">MIT Faculty NewsletterThe Legacy of the Involvement of the Democratic Republic...A top-secret American Intelligence report published in...</span></span></span>
 * unidentified craft,
 * military witnesses,
 * Cold War secrecy.
@@ -317,9 +317,9 @@ For sceptics and historians, however, the same factors suggest a different expla
 
 ### The Cold War amplified intelligence collection
 
-Another important point is that intelligence agencies collected large numbers of foreign press reports during the early UFO wave of the late 1940s and early 1950s. Many CIA UFO files are not evidence of secret alien investigations. They are evidence that intelligence services monitored reports that might involve foreign technology, public panic, or propaganda. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">kbacker, in an interview, quoted in The UFO...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">As the world&#x27;s premier foreign intelligence agency, the work we do at CIA is vital to US national security. We collect and analyze for...</span></span></span>
+Another important point is that intelligence agencies collected large numbers of foreign press reports during the early UFO wave of the late 1940s and early 1950s. Many CIA UFO files are not evidence of secret alien investigations. They are evidence that intelligence services monitored reports that might involve foreign technology, public panic, or propaganda.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">kbacker, in an interview, quoted in The UFO...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">As the world&#x27;s premier foreign intelligence agency, the work we do at CIA is vital to US national security. We collect and analyze for...</span></span></span>
 
-The Elizabethville document fits that pattern closely. Its preservation inside CIA archives does not prove that the agency considered the incident genuine. The document itself explicitly described the material as “unevaluated information”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">wikisource.orgPage:Flying saucers over Belgian Congo uranium mines...1 Aug 2020 — Recently, two fiery disks were sighted over the uraniu...</span></span></span>
+The Elizabethville document fits that pattern closely. Its preservation inside CIA archives does not prove that the agency considered the incident genuine. The document itself explicitly described the material as “unevaluated information”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">wikisource.orgPage:Flying saucers over Belgian Congo uranium mines...1 Aug 2020 — Recently, two fiery disks were sighted over the uraniu...</span></span></span>
 
 That distinction is often lost in popular retellings.
 
@@ -347,7 +347,7 @@ The story survives mainly through the translated newspaper-derived intelligence 
 <img src="{{ "/assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Illustration-2-dark.svg" | relative_url }}" alt="Elizabethville illustration 2" data-theme-src-dark="{{ "/assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_Republic_679868_elizabethville_urani_693de7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The unusual flight behaviour
 
-The report described hovering, rapid acceleration, and zigzag movement. Those characteristics later became classic UFO motifs because they appeared to exceed conventional aircraft performance for 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FLYING SAUCERS OVER BELGIAN CONGO URANIUM...FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES; Document Type: FOIA; Collection: UFOs: Fa...</span></span></span>
+The report described hovering, rapid acceleration, and zigzag movement. Those characteristics later became classic UFO motifs because they appeared to exceed conventional aircraft performance for 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0000015463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FLYING SAUCERS OVER BELGIAN CONGO URANIUM...FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES; Document Type: FOIA; Collection: UFOs: Fa...</span></span></span>
 
 Yet speed and manoeuvrability estimates in aerial sightings are notoriously unreliable, especially when observers lack stable reference points. Historians of UFO reports frequently note that distance and velocity can be dramatically overestimated during brief or emotionally charged sightings.
 
@@ -363,9 +363,9 @@ The difficulty is that this pattern can also emerge through selective attention.
 
 ### The sketches attached to the file
 
-The CIA document includes technical-style sketches of a disc-shaped craft. Some UFO writers treat these drawings as evidence of detailed military observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA...The sketch below shows the construction principle of the &quot;flying s...</span></span></span>
+The CIA document includes technical-style sketches of a disc-shaped craft. Some UFO writers treat these drawings as evidence of detailed military observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA...The sketch below shows the construction principle of the &quot;flying s...</span></span></span>
 
-But the document itself weakens that interpretation. It explicitly notes that parts of the sketches were “purely conjecture”. The drawings appear more speculative than evidential, blending witness description with imaginative interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines - Wikisource11 Jan 2024 — Flying saucers over Belgian Congo uranium mines; SUB...</span></span></span>
+But the document itself weakens that interpretation. It explicitly notes that parts of the sketches were “purely conjecture”. The drawings appear more speculative than evidential, blending witness description with imaginative interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines - Wikisource11 Jan 2024 — Flying saucers over Belgian Congo uranium mines; SUB...</span></span></span>
 
 ## What evidence is still missing
 
@@ -399,7 +399,7 @@ This is one reason the case occupies an awkward middle ground:
 
 ### The original press source complicates reliability
 
-The intelligence summary originated from a newspaper article rather than from direct intelligence collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report...Page:Flying saucers over Belgian Congo uranium mines, CIA r...</span></span></span>
+The intelligence summary originated from a newspaper article rather than from direct intelligence collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report...Page:Flying saucers over Belgian Congo uranium mines, CIA r...</span></span></span>
 
 That does not automatically invalidate the report, but it changes its evidential status significantly. Intelligence archives often preserve rumours, foreign press stories, and unverified claims precisely because agencies monitored global information flows broadly during the Cold War.
 
@@ -430,194 +430,194 @@ For modern readers, the most defensible position is neither outright belief nor 
 That unresolved gap is precisely why the Elizabethville uranium-mines incident still occupies such a durable place in Congo UFO history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did UFOs Fly Over Congo&#x27;s Uranium Mines?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did UFOs Fly Over Congo&#x27;s Uranium Mines?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers government and military reporting relevant to Cold War-era sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government and military reporting relevant to Cold War-era sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for evaluating mid-century UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for evaluating mid-century UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Touches on military secrecy and advanced technology narratives surrounding UFO lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Touches on military secrecy and advanced technology narratives surrounding UFO lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly matches the uranium-mine and nuclear infrastructure angle of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the uranium-mine and nuclear infrastructure angle of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-fly-over-congo-s-uranium-mines-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufos-fly-over-congo-s-uranium-mines-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ That unresolved gap is precisely why the Elizabethville uranium-mines incident s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ That unresolved gap is precisely why the Elizabethville uranium-mines incident s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ That unresolved gap is precisely why the Elizabethville uranium-mines incident s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ That unresolved gap is precisely why the Elizabethville uranium-mines incident s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ That unresolved gap is precisely why the Elizabethville uranium-mines incident s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,167 +823,167 @@ That unresolved gap is precisely why the Elizabethville uranium-mines incident s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...On his first approach he came vithin about. 120 meters of one of the disks. According to...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...On his first approach he came vithin about. 120 meters of one of the disks. According to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Flying saucers over Belgian Congo uranium mines  
-   Link: <a href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers over Belgian Congo uranium mines - Wikisource11 Jan 2024 — Flying saucers over Belgian Congo uranium mines; SUB...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers over Belgian Congo uranium mines - Wikisource11 Jan 2024 — Flying saucers over Belgian Congo uranium mines; SUB...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:Flying saucers over Belgian Congo uranium mines, CIA report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:Flying saucers over Belgian Congo uranium mines, CIA report...Page:Flying saucers over Belgian Congo uranium mines, CIA r...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:Flying saucers over Belgian Congo uranium mines, CIA report...Page:Flying saucers over Belgian Congo uranium mines, CIA r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:Flying saucers over Belgian Congo uranium mines, CIA report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:Flying saucers over Belgian Congo uranium mines...1 Aug 2020 — Recently, two fiery disks were sighted over the uraniu...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:Flying saucers over Belgian Congo uranium mines...1 Aug 2020 — Recently, two fiery disks were sighted over the uraniu...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:Flying saucers over Belgian Congo uranium mines, CIA...The sketch below shows the construction principle of the &quot;flying s...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:Flying saucers over Belgian Congo uranium mines, CIA...The sketch below shows the construction principle of the &quot;flying s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fnl.mit.edu  
-   Link: <a href="https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/" target="_blank" rel="noopener noreferrer nofollow">https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Faculty NewsletterThe Legacy of the Involvement of the Democratic Republic...A top-secret American Intelligence report published in...</p></details>
+   Link:<a href="https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/" target="_blank" rel="noopener noreferrer nofollow">https://fnl.mit.edu/january-february-2021/the-legacy-of-the-involvement-of-the-democratic-republic-of-the-congo-in-the-bombs-dropped-on-hiroshima-and-nagasaki/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Faculty NewsletterThe Legacy of the Involvement of the Democratic Republic...A top-secret American Intelligence report published in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Fact or Fiction?Most of the documents concern CIA cables reporting unsubstantiated UFO sightings in the foreign press and intra...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Fact or Fiction?Most of the documents concern CIA cables reporting unsubstantiated UFO sightings in the foreign press and intra...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
    Title: take a peek into our x files  
-   Link: <a href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a Peek Into Our &quot;X-Files&quot;The CIA declassified hundreds of documents in 1978 detailing the Agency&#x27;s investigations into Unidentified...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/take-a-peek-into-our-x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Take a Peek Into Our &quot;X-Files&quot;The CIA declassified hundreds of documents in 1978 detailing the Agency&#x27;s investigations into Unidentified...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>kbacker, in an interview, quoted in The UFO...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kbacker, in an interview, quoted in The UFO...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As the world&#x27;s premier foreign intelligence agency, the work we do at CIA is vital to US national security. We collect and analyze for...</p></details>
+   Link:<a href="https://www.cia.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As the world&#x27;s premier foreign intelligence agency, the work we do at CIA is vital to US national security. We collect and analyze for...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0000015463" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0000015463</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES; Document Type: FOIA; Collection: UFOs: Fa...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0000015463" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0000015463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES; Document Type: FOIA; Collection: UFOs: Fa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1951v01/d229" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1951v01/d229</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianHistorical Documents - Office of the Historian - State DepartmentSubject: Security of the Uranium Ore Mining Area...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1951v01/d229" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1951v01/d229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianHistorical Documents - Office of the Historian - State DepartmentSubject: Security of the Uranium Ore Mining Area...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: osti.gov  
    Title: Uranium Mines  
-   Link: <a href="https://www.osti.gov/opennet/manhattan-project-history/Places/Other/uranium-mines.html" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/manhattan-project-history/Places/Other/uranium-mines.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manhattan ProjectThe uranium used in the Manhattan Project came from three major sources: the Eldorado mine in northern Canada, the Shink...</p></details>
+   Link:<a href="https://www.osti.gov/opennet/manhattan-project-history/Places/Other/uranium-mines.html" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/manhattan-project-history/Places/Other/uranium-mines.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manhattan ProjectThe uranium used in the Manhattan Project came from three major sources: the Eldorado mine in northern Canada, the Shink...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nonproliferation.org  
    Title: uranium security in the drc  
-   Link: <a href="https://nonproliferation.org/uranium-security-in-the-drc/" target="_blank" rel="noopener noreferrer nofollow">https://nonproliferation.org/uranium-security-in-the-drc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Martin CenterUranium Security in the DRCJanuary 2, 2024 — 2 Jan 2024 — It was a former uranium mine used by the Americans to procur...</p></details>
+   Link:<a href="https://nonproliferation.org/uranium-security-in-the-drc/" target="_blank" rel="noopener noreferrer nofollow">https://nonproliferation.org/uranium-security-in-the-drc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Martin CenterUranium Security in the DRCJanuary 2, 2024 — 2 Jan 2024 — It was a former uranium mine used by the Americans to procur...</p></details>
    Published: January 2, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: beyondnuclearinternational.org  
    Title: an assassination uranium and the fate of a country  
-   Link: <a href="https://beyondnuclearinternational.org/2020/01/05/an-assassination-uranium-and-the-fate-of-a-country/" target="_blank" rel="noopener noreferrer nofollow">https://beyondnuclearinternational.org/2020/01/05/an-assassination-uranium-and-the-fate-of-a-country/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An assassination, uranium and the fate of a country5 Jan 2020 — Eighty percent of the uranium used in the Hiroshima and Nagasaki bombs or...</p></details>
+   Link:<a href="https://beyondnuclearinternational.org/2020/01/05/an-assassination-uranium-and-the-fate-of-a-country/" target="_blank" rel="noopener noreferrer nofollow">https://beyondnuclearinternational.org/2020/01/05/an-assassination-uranium-and-the-fate-of-a-country/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An assassination, uranium and the fate of a country5 Jan 2020 — Eighty percent of the uranium used in the Hiroshima and Nagasaki bombs or...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Shinkolobwe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shinkolobwe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ShinkolobweThe mine produced the most economical uranium ore in the world and was used for the Manhattan Project and subsequent nuclea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Shinkolobwe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shinkolobwe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ShinkolobweThe mine produced the most economical uranium ore in the world and was used for the Manhattan Project and subsequent nuclea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: flying saucers over belgian congo uranium mines  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18g0lqz/flying_saucers_over_belgian_congo_uranium_mines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18g0lqz/flying_saucers_over_belgian_congo_uranium_mines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsI found an official CIA document under FOIA, revealing a 1952 UFO sighting over Belgian Congo mines witnessed by military personnel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18g0lqz/flying_saucers_over_belgian_congo_uranium_mines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18g0lqz/flying_saucers_over_belgian_congo_uranium_mines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsI found an official CIA document under FOIA, revealing a 1952 UFO sighting over Belgian Congo mines witnessed by military personnel...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: disclosurenews.it  
    Title: Flying Saucers Over Belgian Congo Uranium Mines  
-   Link: <a href="https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>195228 Feb 2021 — Flying Saucers Over Belgian Congo - two fiery disks were sighted over the uranium mines located in the southern part of...</p></details>
+   Link:<a href="https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>195228 Feb 2021 — Flying Saucers Over Belgian Congo - two fiery disks were sighted over the uranium mines located in the southern part of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/14048" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/14048</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINESDeclassified unknown UFO document from CIAUFO - FLYING SAUCERS OVER BELGIAN CONGO URANIUM...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/14048" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/14048</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINESDeclassified unknown UFO document from CIAUFO - FLYING SAUCERS OVER BELGIAN CONGO URANIUM...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/kxbgjp/cia_docs_flying_saucer_over_belgian_congo_uranium/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/kxbgjp/cia_docs_flying_saucer_over_belgian_congo_uranium/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA docs: Flying Saucer Over Belgian Congo Uranium MinesCIA docs: Flying Saucer Over Belgian Congo Uranium Mines. This doc is pretty inte...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/kxbgjp/cia_docs_flying_saucer_over_belgian_congo_uranium/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/kxbgjp/cia_docs_flying_saucer_over_belgian_congo_uranium/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA docs: Flying Saucer Over Belgian Congo Uranium MinesCIA docs: Flying Saucer Over Belgian Congo Uranium Mines. This doc is pretty inte...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/cia-flying-saucers-over-belgian-congo-uranium-mines/67207938" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/cia-flying-saucers-over-belgian-congo-uranium-mines/67207938</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...In a document released by the CIA, FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES, there i...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/cia-flying-saucers-over-belgian-congo-uranium-mines/67207938" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/cia-flying-saucers-over-belgian-congo-uranium-mines/67207938</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...In a document released by the CIA, FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES, there i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/18fsjxv/flying_saucers_over_belgian_congo_uranium_mines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/18fsjxv/flying_saucers_over_belgian_congo_uranium_mines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...Report. FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES. Unexplained · cia.gov... Flying sa...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/18fsjxv/flying_saucers_over_belgian_congo_uranium_mines/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/18fsjxv/flying_saucers_over_belgian_congo_uranium_mines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS OVER BELGIAN CONGO URANIUM...Report. FLYING SAUCERS OVER BELGIAN CONGO URANIUM MINES. Unexplained · cia.gov... Flying sa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: perihelionsf.com  
-   Link: <a href="https://www.perihelionsf.com/1407/article_1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.perihelionsf.com/1407/article_1.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mining Data on UFOsPreston Dennett has been investigating UFOs for nearly 30 years. He is a field investigator for the Mutual UFO Network...</p></details>
+   Link:<a href="https://www.perihelionsf.com/1407/article_1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.perihelionsf.com/1407/article_1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mining Data on UFOsPreston Dennett has been investigating UFOs for nearly 30 years. He is a field investigator for the Mutual UFO Network...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/spefuc/fighter_jet_pursues_ufos_over_uranium_mines_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/spefuc/fighter_jet_pursues_ufos_over_uranium_mines_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since 2017, the Navy has been releasing photos and videos of Unidentified Aerial Phenomena–and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/spefuc/fighter_jet_pursues_ufos_over_uranium_mines_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/spefuc/fighter_jet_pursues_ufos_over_uranium_mines_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since 2017, the Navy has been releasing photos and videos of Unidentified Aerial Phenomena–and...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: commons.wikimedia.org  
    Title: File:Flying saucers over Belgian Congo uranium mines, CIA report.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Flying saucers over Belgian Congo uranium mines...17 Jan 2018 — This file contains additional information such as Exif...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Flying saucers over Belgian Congo uranium mines...17 Jan 2018 — This file contains additional information such as Exif...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
    Title: File:Flying saucers over Belgian Congo uranium mines, CIA report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Flying saucers over Belgian Congo uranium mines...9 Feb 2017 — English: Flying saucers over Belgian Congo uranium mine...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Flying saucers over Belgian Congo uranium mines...9 Feb 2017 — English: Flying saucers over Belgian Congo uranium mine...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/19303237" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/19303237</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Others have claimed literal rape at things that resemble literal, fork-tailed...Read more...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/19303237" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/19303237</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Others have claimed literal rape at things that resemble literal, fork-tailed...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: shortlist.com  
    Title: what we learnt about the cias declassified ufo files  
-   Link: <a href="https://www.shortlist.com/news/what-we-learnt-about-the-cias-declassified-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.shortlist.com/news/what-we-learnt-about-the-cias-declassified-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What we learnt about the CIA&#x27;s declassified UFO files26 Jan 2016 — On 29 Mar 1952 it was reported that two fiery discs were sighted over...</p></details>
+   Link:<a href="https://www.shortlist.com/news/what-we-learnt-about-the-cias-declassified-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.shortlist.com/news/what-we-learnt-about-the-cias-declassified-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What we learnt about the CIA&#x27;s declassified UFO files26 Jan 2016 — On 29 Mar 1952 it was reported that two fiery discs were sighted over...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: unece.org  
-   Link: <a href="https://www.unece.org/fileadmin/DAM/energy/se/pdfs/UNFC/ws_IAEA_CYTED_UNECE_Oct12_Lisbon/24_Kazadi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unece.org/fileadmin/DAM/energy/se/pdfs/UNFC/ws_IAEA_CYTED_UNECE_Oct12_Lisbon/24_Kazadi.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nk it desirable to have more permanent contact maintained...Read more...</p></details>
+   Link:<a href="https://www.unece.org/fileadmin/DAM/energy/se/pdfs/UNFC/ws_IAEA_CYTED_UNECE_Oct12_Lisbon/24_Kazadi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unece.org/fileadmin/DAM/energy/se/pdfs/UNFC/ws_IAEA_CYTED_UNECE_Oct12_Lisbon/24_Kazadi.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nk it desirable to have more permanent contact maintained...Read more...</p></details>

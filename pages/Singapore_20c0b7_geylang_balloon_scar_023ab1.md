@@ -254,14 +254,14 @@ image: /assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-
 
 ## Introduction
 
-Singapore’s most famous early UFO report is also its strongest debunk. On 26 October 1954, residents in the Geylang Serai area looked up and saw what appeared to be a strange white circular object suspended high above the island. Coming during the global “flying saucer” era of the 1950s, the sighting quickly triggered local speculation that Singapore had witnessed an unidentified aerial phenomenon. Within hours, however, Royal Air Force observation posts provided a specific explanation: the object was a meteorological balloon launched from Paya Lebar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+Singapore’s most famous early UFO report is also its strongest debunk. On 26 October 1954, residents in the Geylang Serai area looked up and saw what appeared to be a strange white circular object suspended high above the island. Coming during the global “flying saucer” era of the 1950s, the sighting quickly triggered local speculation that Singapore had witnessed an unidentified aerial phenomenon. Within hours, however, Royal Air Force observation posts provided a specific explanation: the object was a meteorological balloon launched from Paya Lebar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-1-dark.svg" | relative_url }}" alt="Geylang Balloon illustration 1" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of the Geylang Serai incident is not that it remained mysterious. It matters because it did not. Unlike many UFO stories that survive through rumour, incomplete testimony or decades of retelling, this case contains both the original sighting and a contemporaneous identification. For researchers studying Singapore’s UFO history, it remains the clearest example of how a convincing aerial mystery can become a documented case of misidentification rather than an unresolved anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+The importance of the Geylang Serai incident is not that it remained mysterious. It matters because it did not. Unlike many UFO stories that survive through rumour, incomplete testimony or decades of retelling, this case contains both the original sighting and a contemporaneous identification. For researchers studying Singapore’s UFO history, it remains the clearest example of how a convincing aerial mystery can become a documented case of misidentification rather than an unresolved anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 ## What Witnesses Saw Over Geylang Serai
 
-The incident occurred after several days of cloudy weather. According to contemporary reporting in *The Straits Times*, observers saw a white round object high above Geylang Serai against a newly clear sky. The appearance was unusual enough to generate what the newspaper explicitly described as a “flying saucer scare”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+The incident occurred after several days of cloudy weather. According to contemporary reporting in *The Straits Times*, observers saw a white round object high above Geylang Serai against a newly clear sky. The appearance was unusual enough to generate what the newspaper explicitly described as a “flying saucer scare”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 The description is significant because it closely matches the way weather balloons often appear from the ground:
 
@@ -277,7 +277,7 @@ The description is significant because it closely matches the way weather balloo
 
 These characteristics have repeatedly caused confusion in aviation and UFO reports around the world. A balloon several kilometres above the ground can seem disconnected from ordinary aircraft behaviour. Without visible propulsion, wings or obvious movement, observers often struggle to estimate what they are seeing.
 
-The timing also mattered. October 1954 fell within one of the peak years of the international flying saucer craze. Newspapers across Europe, North America and Asia were carrying reports of unexplained objects in the sky. In such an atmosphere, an unfamiliar white object could easily be interpreted through the lens of contemporary UFO expectations rather than routine meteorology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trove.nla.gov.au/newspaper/article/65195838" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[trove.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">FLYING SAUCER SCARE IN SINGAPORE &quot;NO LEG PULL&quot;SINGAPORE, September 5.—A flying saucer Kara swept Singapore last night...</span></span></span>
+The timing also mattered. October 1954 fell within one of the peak years of the international flying saucer craze. Newspapers across Europe, North America and Asia were carrying reports of unexplained objects in the sky. In such an atmosphere, an unfamiliar white object could easily be interpreted through the lens of contemporary UFO expectations rather than routine meteorology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://trove.nla.gov.au/newspaper/article/65195838" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[trove.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">FLYING SAUCER SCARE IN SINGAPORE &quot;NO LEG PULL&quot;SINGAPORE, September 5.—A flying saucer Kara swept Singapore last night...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fYQNEC7SeSU" title="Videogame Science and UFOs with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fYQNEC7SeSU" target="_blank" rel="noopener noreferrer">Videogame Science and UFOs with Mick West</a></p><p class="youtube-embed-meta">Channel: Center for Inquiry &middot; Views: 7.1K &middot; Uploaded: April 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fYQNEC7SeSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fYQNEC7SeSU">Open on YouTube</a></p></div></div></div>
 
@@ -285,26 +285,26 @@ The timing also mattered. October 1954 fell within one of the peak years of the 
 
 What separates the Geylang Serai case from many UFO stories is the speed and specificity of the investigation.
 
-Rather than leaving the sighting unresolved, RAF observation posts reportedly identified the object as a meteorological balloon originating from Paya Lebar. The explanation appeared alongside the initial reporting rather than emerging years later through retrospective sceptical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+Rather than leaving the sighting unresolved, RAF observation posts reportedly identified the object as a meteorological balloon originating from Paya Lebar. The explanation appeared alongside the initial reporting rather than emerging years later through retrospective sceptical analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 Several factors strengthened the identification:
 
 ### The source was known
 
-The explanation did not merely suggest that the object “might have been” a balloon. The report linked it to meteorological operations associated with Paya Lebar, providing a concrete source rather than a generic guess. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+The explanation did not merely suggest that the object “might have been” a balloon. The report linked it to meteorological operations associated with Paya Lebar, providing a concrete source rather than a generic guess.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 ### The object matched balloon behaviour
 
-A weather balloon viewed from long range often appears as a bright white sphere. Depending on wind conditions and viewing angle, it can seem to hover in place despite travelling with upper-atmospheric air currents. Such behaviour aligns closely with the witness descriptions reported in Singapore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+A weather balloon viewed from long range often appears as a bright white sphere. Depending on wind conditions and viewing angle, it can seem to hover in place despite travelling with upper-atmospheric air currents. Such behaviour aligns closely with the witness descriptions reported in Singapore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 ### Trained observers were involved
 
-RAF observation posts existed specifically to monitor aerial activity. Their personnel were accustomed to distinguishing aircraft, weather devices and atmospheric phenomena. While not infallible, they were in a far stronger position than casual observers to identify a routine meteorological object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+RAF observation posts existed specifically to monitor aerial activity. Their personnel were accustomed to distinguishing aircraft, weather devices and atmospheric phenomena. While not infallible, they were in a far stronger position than casual observers to identify a routine meteorological object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-2-dark.svg" | relative_url }}" alt="Geylang Balloon illustration 2" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Singapore had active weather-balloon operations
 
-Modern reporting on Singapore's meteorological programme notes that weather balloons have been launched from the Paya Lebar area for decades, with [records]({{ 'records-7bb423/' | relative_url }}) extending back to the early 1950s. The existence of long-running upper-air observation work makes the RAF explanation historically plausible rather than ad hoc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[The Straits Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+Modern reporting on Singapore's meteorological programme notes that weather balloons have been launched from the Paya Lebar area for decades, with [records]({{ 'records-7bb423/' | relative_url }}) extending back to the early 1950s. The existence of long-running upper-air observation work makes the RAF explanation historically plausible rather than ad hoc.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[The Straits Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 ## Why a Balloon Could Look Like a Flying Saucer
 
@@ -320,7 +320,7 @@ When an object lacks familiar reference points, observers can misjudge:
 
 A weather balloon is particularly deceptive because it often reflects sunlight strongly while presenting a simple geometric shape. At high altitude it may appear almost motionless even while moving rapidly with upper-level winds.
 
-Modern meteorological balloons launched from Singapore ascend to roughly 35 kilometres before bursting. During ascent they expand dramatically and can remain visible over long distances. Depending on lighting conditions, they may appear far brighter and more unusual than ordinary aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[The Straits Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+Modern meteorological balloons launched from Singapore ascend to roughly 35 kilometres before bursting. During ascent they expand dramatically and can remain visible over long distances. Depending on lighting conditions, they may appear far brighter and more unusual than ordinary aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[The Straits Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 The same basic mechanism has repeatedly appeared in UFO history internationally. Balloon launches have generated reports of discs, spheres, luminous objects and apparently hovering craft. The Geylang Serai case fits that pattern remarkably well, except that the identification was made immediately rather than years later.
 
@@ -336,7 +336,7 @@ QuestionAvailable answerWas there a reported sighting?Yes.Was the location recor
 
 Because the explanation emerged contemporaneously, the case avoids many of the weaknesses that affect older UFO accounts. There is less dependence on fading memory, later embellishment or folklore.
 
-That does not prove every witness immediately accepted the balloon explanation. Public fascination with flying saucers was widespread in 1954. However, from an evidential standpoint, the case moved rapidly from “unidentified” to “identified” through a documented chain of observation and attribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+That does not prove every witness immediately accepted the balloon explanation. Public fascination with flying saucers was widespread in 1954. However, from an evidential standpoint, the case moved rapidly from “unidentified” to “identified” through a documented chain of observation and attribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-3-dark.svg" | relative_url }}" alt="Geylang Balloon illustration 3" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Reveals About Singapore's UFO Record
@@ -347,201 +347,201 @@ The island's geography creates ideal conditions for brief aerial mysteries. Larg
 
 As a result, unusual sightings occur, but many eventually acquire conventional explanations.
 
-The 1954 balloon scare remains the most useful historical example because the evidential chain is unusually complete. Instead of ending with an unresolved question, it demonstrates the difference between a genuine observation and an extraordinary conclusion. Witnesses really did see something unusual. The object was genuinely unidentified at first glance. Yet investigation pointed to a mundane source that matched both the appearance and the circumstances of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+The 1954 balloon scare remains the most useful historical example because the evidential chain is unusually complete. Instead of ending with an unresolved question, it demonstrates the difference between a genuine observation and an extraordinary conclusion. Witnesses really did see something unusual. The object was genuinely unidentified at first glance. Yet investigation pointed to a mundane source that matched both the appearance and the circumstances of the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
-For that reason, the Geylang Serai case occupies a special place in Singapore's UFO chronology. It is not remembered as the country's strongest mystery. It is remembered as its clearest lesson in how a UFO report can be investigated, identified and explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
+For that reason, the Geylang Serai case occupies a special place in Singapore's UFO chronology. It is not remembered as the country's strongest mystery. It is remembered as its clearest lesson in how a UFO report can be investigated, identified and explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">straitstimes19541027 1</span><span class="citation-popover-snippet">Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aHRhxvpG-Z0" title="Motion Parallax of a Balloon or a REAL UFO sighting?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer">Motion Parallax of a Balloon or a REAL UFO sighting?</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.8M &middot; Uploaded: August 2025 &middot; Length: 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aHRhxvpG-Z0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Singapore&#x27;s Classic UFO Scare Was a Balloon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Singapore&#x27;s Classic UFO Scare Was a Balloon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how ordinary aerial objects are mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how ordinary aerial objects are mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Closely matches the social panic and media context of the 1954 scare.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the social panic and media context of the 1954 scare.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to balloon misidentifications during the flying saucer era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to balloon misidentifications during the flying saucer era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based analysis of apparent mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based analysis of apparent mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="singapore-s-classic-ufo-scare-was-a-balloon-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For that reason, the Geylang Serai case occupies a special place in Singapore's 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For that reason, the Geylang Serai case occupies a special place in Singapore's 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For that reason, the Geylang Serai case occupies a special place in Singapore's 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For that reason, the Geylang Serai case occupies a special place in Singapore's 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For that reason, the Geylang Serai case occupies a special place in Singapore's 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,91 +747,91 @@ For that reason, the Geylang Serai case occupies a special place in Singapore's 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19541027 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore, yesterday, started a flying saucer scare. The object appeared in a clear sky after...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/65195838" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/65195838</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCER SCARE IN SINGAPORE &quot;NO LEG PULL&quot;SINGAPORE, September 5.—A flying saucer Kara swept Singapore last night...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/65195838" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/65195838</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCER SCARE IN SINGAPORE &quot;NO LEG PULL&quot;SINGAPORE, September 5.—A flying saucer Kara swept Singapore last night...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eresources.nlb.gov.sg  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19540520-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19540520-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 20 May 1954 - SingaporeThe biggest plastic balloon ever made soared to a record height of 21 miles yesterday...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19540520-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19540520-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 20 May 1954 - SingaporeThe biggest plastic balloon ever made soared to a record height of 21 miles yesterday...</p></details>
    Published: May 1954  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19941211 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 11 December 1994 - Singapore11 Dec 1994 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers pu...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19941211-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 11 December 1994 - Singapore11 Dec 1994 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers pu...</p></details>
    Published: December 1994  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: straitstimes.com  
-   Link: <a href="https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits TimesHow balloons help Singapore weather forecasting soar to...The balloons carry small devices that record real-time data f...</p></details>
+   Link:<a href="https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/singapore/up-up-and-away-how-balloons-help-singapore-weather-forecasting-soar-to-new-heights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits TimesHow balloons help Singapore weather forecasting soar to...The balloons carry small devices that record real-time data f...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...When the travelers reached the bridge at Buire, they saw what the, believel to be a &quot;fl;i...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...When the travelers reached the bridge at Buire, they saw what the, believel to be a &quot;fl;i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... times took right days local economic countries see best report killed held... october players...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... times took right days local economic countries see best report killed held... october players...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: websail-fe.cs.northwestern.edu  
    Title: edubiennials Feijo BSDs Villalon woodi woods spiders  
-   Link: <a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1954-1958 1954-1959 53000 76750 9344 1954-1956 1954-1957 1954-1955... Meteorological Taxan Floyd dictator Zhukovsky Dyserth Pararajasing...</p></details>
+   Link:<a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954-1958 1954-1959 53000 76750 9344 1954-1956 1954-1957 1954-1955... Meteorological Taxan Floyd dictator Zhukovsky Dyserth Pararajasing...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>air community great included king much students times son central original division men water near even women different french “ form jus...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>air community great included king much students times son central original division men water near even women different french “ form jus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airminded.org  
    Title: the red balloon scare of 1940  
-   Link: <a href="https://airminded.org/2010/02/12/the-red-balloon-scare-of-1940/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2010/02/12/the-red-balloon-scare-of-1940/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Feb 2010 — This balloon had been sent up for meteorological purposes, but it had apparently given rise to a scare that gas balloons we...</p></details>
+   Link:<a href="https://airminded.org/2010/02/12/the-red-balloon-scare-of-1940/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2010/02/12/the-red-balloon-scare-of-1940/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Feb 2010 — This balloon had been sent up for meteorological purposes, but it had apparently given rise to a scare that gas balloons we...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fliphtml5.com  
    Title: Singapore Book Of Records  
-   Link: <a href="https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flipbook by jballegaThe Singapore Book of Records (SBOR) is a non-profit organisation established in 2005, primarily to compile and adjud...</p></details>
+   Link:<a href="https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/xspbx/nqlo/Singapore_Book_Of_Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flipbook by jballegaThe Singapore Book of Records (SBOR) is a non-profit organisation established in 2005, primarily to compile and adjud...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Videogame Science and UFOs with Mick West  
-   Link: <a href="https://www.youtube.com/watch?v=fYQNEC7SeSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fYQNEC7SeSU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon UFO debunk Joe Rogan DEBUNKS Weather Balloon Alien Theory!🌤👽 #shorts MafiaSports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fYQNEC7SeSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fYQNEC7SeSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon UFO debunk Joe Rogan DEBUNKS Weather Balloon Alien Theory!🌤👽 #shorts MafiaSports...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Motion Parallax of a Balloon or a REAL UFO sighting?  
-   Link: <a href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aHRhxvpG-Z0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aHRhxvpG-Z0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Interview: Mick West, Identifying UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=lsMomLDKIz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsMomLDKIz4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videogame Science and UFOs with Mick West...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsMomLDKIz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsMomLDKIz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videogame Science and UFOs with Mick West...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Honestly Felt Bad Debunking This...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Honestly Felt Bad Debunking This...</p></details>

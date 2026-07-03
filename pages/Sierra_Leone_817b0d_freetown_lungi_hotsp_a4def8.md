@@ -254,7 +254,7 @@ image: /assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustrati
 
 ## Introduction
 
-Reports of unusual lights, streaks and alleged UFO activity in Sierra Leone are far more likely to emerge from the Freetown–Lungi corridor than from most other parts of the country. That pattern does not necessarily suggest a genuine concentration of unexplained aerial phenomena. Instead, it reflects where several reporting factors overlap: dense population, widespread mobile-phone use, active social-media networks, regular aviation traffic, coastal weather effects and stronger media visibility. When Sierra Leonean sky mysteries become public, they often do so because somebody in Freetown or Lungi recorded them, shared them and attracted attention before an explanation emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://datareportal.com/reports/digital-2025-sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datareportal.com">[DataReportal – Global Digital Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datareportal.com</span><span class="citation-popover-title">digital 2025 sierra leone</span><span class="citation-popover-snippet">Global Digital InsightsDigital 2025: Sierra LeoneMarch 3, 2025 — 3 Mar 2025 — There were 1.80 million individuals using th...</span><span class="citation-popover-meta">Published: March 3, 2025</span></span></span>
+Reports of unusual lights, streaks and alleged UFO activity in Sierra Leone are far more likely to emerge from the Freetown–Lungi corridor than from most other parts of the country. That pattern does not necessarily suggest a genuine concentration of unexplained aerial phenomena. Instead, it reflects where several reporting factors overlap: dense population, widespread mobile-phone use, active social-media networks, regular aviation traffic, coastal weather effects and stronger media visibility. When Sierra Leonean sky mysteries become public, they often do so because somebody in Freetown or Lungi recorded them, shared them and attracted attention before an explanation emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://datareportal.com/reports/digital-2025-sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datareportal.com">[DataReportal – Global Digital Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datareportal.com</span><span class="citation-popover-title">digital 2025 sierra leone</span><span class="citation-popover-snippet">Global Digital InsightsDigital 2025: Sierra LeoneMarch 3, 2025 — 3 Mar 2025 — There were 1.80 million individuals using th...</span><span class="citation-popover-meta">Published: March 3, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Western Area therefore functions as a reporting hotspot more than a proven UFO hotspot. Understanding why sightings cluster there helps explain both the appearance and the limitations of Sierra Leone's public UFO record.
@@ -270,17 +270,17 @@ Several factors reinforce this concentration:
 * More witnesses are present in a smaller geographical area.
 * Mobile-phone ownership and social-media use are comparatively stronger in urban areas.
 * Local journalists are concentrated around the capital.
-* International travellers and airport workers regularly watch the skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://architecturetoday.co.uk/freetown-international-airport-sisecam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: architecturetoday.co.uk">[architecturetoday.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">architecturetoday.co.uk</span><span class="citation-popover-title">freetown international airport sisecam</span><span class="citation-popover-snippet">Freetown International Airport4 Dec 2025 — Set against Sierra Leone&#x27;s tropical coastline, Freetown International Airport relies on Şişeca...</span></span></span>
+* International travellers and airport workers regularly watch the skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://architecturetoday.co.uk/freetown-international-airport-sisecam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: architecturetoday.co.uk">[architecturetoday.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">architecturetoday.co.uk</span><span class="citation-popover-title">freetown international airport sisecam</span><span class="citation-popover-snippet">Freetown International Airport4 Dec 2025 — Set against Sierra Leone&#x27;s tropical coastline, Freetown International Airport relies on Şişeca...</span></span></span>
 * Aircraft approaching or departing Lungi are visible across a wide coastal area.
-* Reflections, haze and cloud effects over water can make ordinary objects appear unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communityengagementhub.org">[Community Engagement Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communityengagementhub.org</span><span class="citation-popover-snippet">Community Engagement HubSierra Leone – Media Landscape ReportThe BBC Media Action survey found that whilst most of the population lived i...</span></span></span>
+* Reflections, haze and cloud effects over water can make ordinary objects appear unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communityengagementhub.org">[Community Engagement Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communityengagementhub.org</span><span class="citation-popover-snippet">Community Engagement HubSierra Leone – Media Landscape ReportThe BBC Media Action survey found that whilst most of the population lived i...</span></span></span>
 
 This combination means that even routine aerial events are more likely to become public stories in the Western Area than elsewhere in Sierra Leone.
 
 ## Urban witnesses and the rise of phone footage
 
-Modern UFO reporting depends heavily on recording technology. Sierra Leone's public sightings record became more visible as mobile connectivity expanded and social-media platforms became common tools for sharing local events. DataReportal's national digital surveys show continued growth in internet access, social-media participation and mobile connectivity, even though overall internet penetration remains relatively low by global standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://datareportal.com/reports/digital-2025-sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datareportal.com">[DataReportal – Global Digital Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datareportal.com</span><span class="citation-popover-title">digital 2025 sierra leone</span><span class="citation-popover-snippet">Global Digital InsightsDigital 2025: Sierra LeoneMarch 3, 2025 — 3 Mar 2025 — There were 1.80 million individuals using th...</span><span class="citation-popover-meta">Published: March 3, 2025</span></span></span>
+Modern UFO reporting depends heavily on recording technology. Sierra Leone's public sightings record became more visible as mobile connectivity expanded and social-media platforms became common tools for sharing local events. DataReportal's national digital surveys show continued growth in internet access, social-media participation and mobile connectivity, even though overall internet penetration remains relatively low by global standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://datareportal.com/reports/digital-2025-sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datareportal.com">[DataReportal – Global Digital Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datareportal.com</span><span class="citation-popover-title">digital 2025 sierra leone</span><span class="citation-popover-snippet">Global Digital InsightsDigital 2025: Sierra LeoneMarch 3, 2025 — 3 Mar 2025 — There were 1.80 million individuals using th...</span><span class="citation-popover-meta">Published: March 3, 2025</span></span></span>
 
-The important point is not national averages but concentration. Urban areas, particularly around Freetown, account for a disproportionate share of digital activity. Earlier media research found that social-media and messaging use were heavily concentrated in the Western Area and other urban locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span>
+The important point is not national averages but concentration. Urban areas, particularly around Freetown, account for a disproportionate share of digital activity. Earlier media research found that social-media and messaging use were heavily concentrated in the Western Area and other urban locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span>
 
 That matters because modern UFO narratives often begin with:
 
@@ -296,7 +296,7 @@ That matters because modern UFO narratives often begin with:
 
 </div>
 
-The June 2025 [Lungi streak]({{ 'lungi-streak/' | relative_url }}) followed much of this pattern. Witnesses reported a bright descending line in the sky, images circulated online and local media coverage followed rapidly. Yet no publicly released technical investigation confirmed an anomalous object. The event became noteworthy largely because it was seen and shared in one of Sierra Leone's most connected regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
+The June 2025 [Lungi streak]({{ 'lungi-streak/' | relative_url }}) followed much of this pattern. Witnesses reported a bright descending line in the sky, images circulated online and local media coverage followed rapidly. Yet no publicly released technical investigation confirmed an anomalous object. The event became noteworthy largely because it was seen and shared in one of Sierra Leone's most connected regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
 
 ## Airport traffic and coastal light sources
 
@@ -313,7 +313,7 @@ Because many observers in Freetown look across the water toward Lungi, they ofte
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Atmospheric conditions over the estuary
 
-The Freetown–Lungi area experiences frequent haze, mist, humidity and changing cloud conditions. Airport weather observations regularly report reduced visibility, haze and low cloud layers around Lungi. meteoblue <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allmetsat.com">[allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allmetsat.com</span><span class="citation-popover-snippet">Few clouds at a height of 2700 ft, Cumulonimbus. haze. Change units. METAR: GFLL 161100Z 25006KT 5000 HZ BKN014...Read more...</span></span></span> These conditions can distort perception in several ways:
+The Freetown–Lungi area experiences frequent haze, mist, humidity and changing cloud conditions. Airport weather observations regularly report reduced visibility, haze and low cloud layers around Lungi. meteoblue<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allmetsat.com">[allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allmetsat.com</span><span class="citation-popover-snippet">Few clouds at a height of 2700 ft, Cumulonimbus. haze. Change units. METAR: GFLL 161100Z 25006KT 5000 HZ BKN014...Read more...</span></span></span> These conditions can distort perception in several ways:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -321,7 +321,7 @@ The Freetown–Lungi area experiences frequent haze, mist, humidity and changing
 * Aircraft lights can scatter through haze.
 * Reflections over water can create misleading visual cues.
 * Low clouds can hide portions of an object while leaving illuminated sections visible.
-* Lightning within distant storm clouds may produce brief flashes without obvious thunder. meteoblue <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/forecast/e9w958ws2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Sierra Leone) weatherLungi 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</span></span></span>
+* Lightning within distant storm clouds may produce brief flashes without obvious thunder. meteoblue<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/forecast/e9w958ws2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Sierra Leone) weatherLungi 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</span></span></span>
 
 </div>
 
@@ -331,7 +331,7 @@ For witnesses unfamiliar with aviation lighting or atmospheric optics, such effe
 
 The 2025 Lungi streak illustrates another reason reports cluster near the Western Area: large numbers of people are simultaneously watching the same sky.
 
-A meteor or piece of re-entering space debris visible over Sierra Leone may be noticed nationwide, but reports are more likely to emerge from Freetown because that is where journalists, social-media users and online audiences are concentrated. The available reporting on the Lungi incident itself mentioned possibilities including meteors, aircraft, drones and space debris rather than any confirmed unidentified craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
+A meteor or piece of re-entering space debris visible over Sierra Leone may be noticed nationwide, but reports are more likely to emerge from Freetown because that is where journalists, social-media users and online audiences are concentrated. The available reporting on the Lungi incident itself mentioned possibilities including meteors, aircraft, drones and space debris rather than any confirmed unidentified craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKEf24q6adc" title="A UFO Hotspot in New York (Season 18) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer">A UFO Hotspot in New York (Season 18) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.5K &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKEf24q6adc">Open on YouTube</a></p></div></div></div>
 
@@ -343,7 +343,7 @@ Large portions of the country remain less connected to national media networks t
 
 This creates an important reporting bias. Public databases can make it seem as though unusual aerial events occur mainly around Freetown and Lungi, when in reality those locations may simply produce the highest number of documented reports.
 
-Researchers studying Sierra Leone's information environment have repeatedly noted differences between urban and rural media access, radio reach, internet use and digital participation. These differences affect how stories spread and whether they become part of the public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communityengagementhub.org">[Community Engagement Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communityengagementhub.org</span><span class="citation-popover-snippet">Community Engagement HubSierra Leone – Media Landscape ReportThe BBC Media Action survey found that whilst most of the population lived i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span>
+Researchers studying Sierra Leone's information environment have repeatedly noted differences between urban and rural media access, radio reach, internet use and digital participation. These differences affect how stories spread and whether they become part of the public record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communityengagementhub.org">[Community Engagement Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communityengagementhub.org</span><span class="citation-popover-snippet">Community Engagement HubSierra Leone – Media Landscape ReportThe BBC Media Action survey found that whilst most of the population lived i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span>
 
 For UFO research, that means absence of reports should not automatically be interpreted as absence of sightings.
 
@@ -361,204 +361,204 @@ The region combines:
 * Stronger media presence.
 * Higher digital connectivity.
 * Regular aircraft traffic.
-* Complex coastal weather conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">View the latest GFLL METAR reports to find out the current weather conditions at the airport...</span></span></span>
-* Rapid circulation of images and rumours online. meteoblue 3DataReportal – Global Digital Insights <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span>
+* Complex coastal weather conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">View the latest GFLL METAR reports to find out the current weather conditions at the airport...</span></span></span>
+* Rapid circulation of images and rumours online. meteoblue 3DataReportal – Global Digital Insights<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</span></span></span>
 
 </div>
 
-As a result, Sierra Leone's most widely discussed sky events are likely to emerge from the Freetown–Lungi corridor even when the underlying cause is ordinary. For investigators, this distinction is crucial. A hotspot for sightings is not automatically a hotspot for unexplained phenomena. In Sierra Leone's case, the evidence points more strongly toward a concentration of observers, cameras and aviation-related visual stimuli than toward a concentration of confirmed UFO activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allmetsat.com">[Allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allmetsat.com</span><span class="citation-popover-snippet">Few clouds at a height of 2700 ft, Cumulonimbus. haze. Change units. METAR: GFLL 161100Z 25006KT 5000 HZ BKN014...Read more...</span></span></span>
+As a result, Sierra Leone's most widely discussed sky events are likely to emerge from the Freetown–Lungi corridor even when the underlying cause is ordinary. For investigators, this distinction is crucial. A hotspot for sightings is not automatically a hotspot for unexplained phenomena. In Sierra Leone's case, the evidence points more strongly toward a concentration of observers, cameras and aviation-related visual stimuli than toward a concentration of confirmed UFO activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allmetsat.com">[Allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allmetsat.com</span><span class="citation-popover-snippet">Few clouds at a height of 2700 ft, Cumulonimbus. haze. Change units. METAR: GFLL 161100Z 25006KT 5000 HZ BKN014...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-3-dark.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_freetown_lungi_hotsp_a4def8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Would Sightings Cluster Near Freetown?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Would Sightings Cluster Near Freetown?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Examines how publicity and communication networks amplify sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how publicity and communication networks amplify sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding witness concentration and report patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness concentration and report patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how reports emerge from populated areas with aviation activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reports emerge from populated areas with aviation activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Covers how reports, records and public attention shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how reports, records and public attention shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-would-sightings-cluster-near-freetown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-would-sightings-cluster-near-freetown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ As a result, Sierra Leone's most widely discussed sky events are likely to emerg
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ As a result, Sierra Leone's most widely discussed sky events are likely to emerg
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ As a result, Sierra Leone's most widely discussed sky events are likely to emerg
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ As a result, Sierra Leone's most widely discussed sky events are likely to emerg
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ As a result, Sierra Leone's most widely discussed sky events are likely to emerg
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,138 +761,137 @@ As a result, Sierra Leone's most widely discussed sky events are likely to emerg
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: datareportal.com  
    Title: digital 2025 sierra leone  
-   Link: <a href="https://datareportal.com/reports/digital-2025-sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-sierra-leone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Digital InsightsDigital 2025: Sierra LeoneMarch 3, 2025 — 3 Mar 2025 — There were 1.80 million individuals using th...</p></details>
+   Link:<a href="https://datareportal.com/reports/digital-2025-sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-sierra-leone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Digital InsightsDigital 2025: Sierra LeoneMarch 3, 2025 — 3 Mar 2025 — There were 1.80 million individuals using th...</p></details>
    Published: March 3, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/57a0896040f0b6497400004a/mobile-media-landscape-sierra-leone-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IN SIERRA LEONE: AN ANALYSIS OF...Eighty-three per cent of social messaging39 users live in urban areas; 69% of social media users live...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: datareportal.com  
-   Link: <a href="https://datareportal.com/reports/digital-2021-sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2021-sierra-leone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Digital InsightsDigital in Sierra Leone: All the Statistics You Need in 202112 Feb 2021 — There were 8.07 million m...</p></details>
+   Link:<a href="https://datareportal.com/reports/digital-2021-sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2021-sierra-leone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Digital InsightsDigital in Sierra Leone: All the Statistics You Need in 202112 Feb 2021 — There were 8.07 million m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sierraloaded.sl  
    Title: Mysterious Bright Line from Sky in Lungi Sparks Curiosity  
-   Link: <a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</p></details>
+   Link:<a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</p></details>
    Published: June 7, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: 3 hours ago!  
-   Link: <a href="https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Something just fell from the skies in Sierra...A captivating event unfolded in the skies over the coastal town of Port Loko District, Lu...</p></details>
+   Link:<a href="https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Something just fell from the skies in Sierra...A captivating event unfolded in the skies over the coastal town of Port Loko District, Lu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: meteoblue.com  
    Title: Weather Today Freetown-Lungi International Airport250º 12kt  
-   Link: <a href="https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visibility, 5000m. Weather, Haze. Clouds. Pressure. Change, -. Raw... Weather radar, Sierra Leone. Drizzle. Light. Moderate. Heavy. Very...</p></details>
+   Link:<a href="https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visibility, 5000m. Weather, Haze. Clouds. Pressure. Change, -. Raw... Weather radar, Sierra Leone. Drizzle. Light. Moderate. Heavy. Very...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: allmetsat.com  
-   Link: <a href="https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow">https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Few clouds at a height of 2700 ft, Cumulonimbus. haze. Change units. METAR: GFLL 161100Z 25006KT 5000 HZ BKN014...Read more...</p></details>
+   Link:<a href="https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow">https://www.allmetsat.com/en/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Few clouds at a height of 2700 ft, Cumulonimbus. haze. Change units. METAR: GFLL 161100Z 25006KT 5000 HZ BKN014...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: meteoblue.com  
-   Link: <a href="https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Freetown-Lungi International AirportOur 5-day meteogram for Freetown-Lungi International Airport offers all weather info...</p></details>
+   Link:<a href="https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Freetown-Lungi International AirportOur 5-day meteogram for Freetown-Lungi International Airport offers all weather info...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/e9w958ws2" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/e9w958ws2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Sierra Leone) weatherLungi 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/e9w958ws2" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/e9w958ws2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Sierra Leone) weatherLungi 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/</a>  
+   Link:<a href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what just happened in sierra leone — to be specific, lungi...It is said that on the 5th of June, 2025, something strange just fell from...</p></details>
+   Link:<a href="https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what just happened in sierra leone — to be specific, lungi...It is said that on the 5th of June, 2025, something strange just fell from...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: communityengagementhub.org  
-   Link: <a href="https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Engagement HubSierra Leone – Media Landscape ReportThe BBC Media Action survey found that whilst most of the population lived i...</p></details>
+   Link:<a href="https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communityengagementhub.org/wp-content/uploads/sites/2/2019/09/Sierra-Leone-Media-Landscape-Report_BBC-Media-Action_January-2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Engagement HubSierra Leone – Media Landscape ReportThe BBC Media Action survey found that whilst most of the population lived i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tradingeconomics.com  
    Title: Sierra Leone  
-   Link: <a href="https://tradingeconomics.com/sierra-leone/individuals-using-the-internet-percent-of-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/sierra-leone/individuals-using-the-internet-percent-of-population-wb-data.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Individuals Using The Internet...Individuals using the Internet (% of population) in Sierra Leone was reported at 20.64 % in 2023, accor...</p></details>
+   Link:<a href="https://tradingeconomics.com/sierra-leone/individuals-using-the-internet-percent-of-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/sierra-leone/individuals-using-the-internet-percent-of-population-wb-data.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individuals Using The Internet...Individuals using the Internet (% of population) in Sierra Leone was reported at 20.64 % in 2023, accor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: architecturetoday.co.uk  
    Title: freetown international airport sisecam  
-   Link: <a href="https://architecturetoday.co.uk/freetown-international-airport-sisecam/" target="_blank" rel="noopener noreferrer nofollow">https://architecturetoday.co.uk/freetown-international-airport-sisecam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freetown International Airport4 Dec 2025 — Set against Sierra Leone&#x27;s tropical coastline, Freetown International Airport relies on Şişeca...</p></details>
+   Link:<a href="https://architecturetoday.co.uk/freetown-international-airport-sisecam/" target="_blank" rel="noopener noreferrer nofollow">https://architecturetoday.co.uk/freetown-international-airport-sisecam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freetown International Airport4 Dec 2025 — Set against Sierra Leone&#x27;s tropical coastline, Freetown International Airport relies on Şişeca...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media-development.comminit.com  
-   Link: <a href="https://media-development.comminit.com/content/communication-sierra-leone-analysis-media-and-mobile-audiences" target="_blank" rel="noopener noreferrer nofollow">https://media-development.comminit.com/content/communication-sierra-leone-analysis-media-and-mobile-audiences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Sierra Leone: An Analysis of Media and...This publication reports on the results of a national survey conducted by BBC Media Action i...</p></details>
+   Link:<a href="https://media-development.comminit.com/content/communication-sierra-leone-analysis-media-and-mobile-audiences" target="_blank" rel="noopener noreferrer nofollow">https://media-development.comminit.com/content/communication-sierra-leone-analysis-media-and-mobile-audiences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Sierra Leone: An Analysis of Media and...This publication reports on the results of a national survey conducted by BBC Media Action i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... air come chinese town leader army line never little played prime death companies least put forc...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... air come chinese town leader army line never little played prime death companies least put forc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: m.foreca.it  
-   Link: <a href="https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport" target="_blank" rel="noopener noreferrer nofollow">https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Freetown-Lungi International AirportLocal weather in Freetown-Lungi International Airport. Partly cloudy. °C. Wind 4 m/s. SW.Read more...</p></details>
+   Link:<a href="https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport" target="_blank" rel="noopener noreferrer nofollow">https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Freetown-Lungi International AirportLocal weather in Freetown-Lungi International Airport. Partly cloudy. °C. Wind 4 m/s. SW.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bigorre.org  
    Title: Lungi International airport in Freetown (Sierra Leone)Visibility is 5km = 3sm  
-   Link: <a href="https://www.bigorre.org/aero/meteo/gfll/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/meteo/gfll/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>broken at. Caution: Aviation weather forecasts predict the presence of cumulonimbus (CB), which are known to be dangerous for aircraft...</p></details>
+   Link:<a href="https://www.bigorre.org/aero/meteo/gfll/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/meteo/gfll/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>broken at. Caution: Aviation weather forecasts predict the presence of cumulonimbus (CB), which are known to be dangerous for aircraft...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/fna/weather</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>View the latest GFLL METAR reports to find out the current weather conditions at the airport...</p></details>
+   Link:<a href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/fna/weather</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>View the latest GFLL METAR reports to find out the current weather conditions at the airport...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: slobserver.org  
-   Link: <a href="https://slobserver.org/wp-content/Library/201201%20MRCG%20-%20Study%20on%20Information%20Pollution%20mapping%20in%20Sierra%20Leone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://slobserver.org/wp-content/Library/201201%20MRCG%20-%20Study%20on%20Information%20Pollution%20mapping%20in%20Sierra%20Leone.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leone&#x27;s population of 7,976,983 is still low at 13.1 % in 2020. The data show...Read more...</p></details>
+   Link:<a href="https://slobserver.org/wp-content/Library/201201%20MRCG%20-%20Study%20on%20Information%20Pollution%20mapping%20in%20Sierra%20Leone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://slobserver.org/wp-content/Library/201201%20MRCG%20-%20Study%20on%20Information%20Pollution%20mapping%20in%20Sierra%20Leone.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leone&#x27;s population of 7,976,983 is still low at 13.1 % in 2020. The data show...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>june any october 2007 end day band place did january july former named 2012... reports 1958 occurred presence towns sport ball 1947 colo...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>june any october 2007 end day band place did january july former named 2012... reports 1958 occurred presence towns sport ball 1947 colo...</p></details>
    Published: october 2007  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: at2030.org  
-   Link: <a href="https://at2030.org/static/at2030_core/outputs/Characterising_mobile_phone_inclusion_for_AT_users_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://at2030.org/static/at2030_core/outputs/Characterising_mobile_phone_inclusion_for_AT_users_FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Banjarmasin, Indonesia and Freetown, Sierra...Read more...</p></details>
+   Link:<a href="https://at2030.org/static/at2030_core/outputs/Characterising_mobile_phone_inclusion_for_AT_users_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://at2030.org/static/at2030_core/outputs/Characterising_mobile_phone_inclusion_for_AT_users_FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Banjarmasin, Indonesia and Freetown, Sierra...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: meteo365.es  
-   Link: <a href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow">https://meteo365.es/airport/GFLL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ative humidity is calculated to 88.7 % The...Read more...</p></details>
+   Link:<a href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow">https://meteo365.es/airport/GFLL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ative humidity is calculated to 88.7 % The...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: What HAPPENED To The $270M NEW LUNGI AIRPORT TERMINAL  
-   Link: <a href="https://www.youtube.com/watch?v=7aWj5gCwZkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7aWj5gCwZkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beautiful Sierra Leone New Airport, Things to Improve | Lungi, Freetown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7aWj5gCwZkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7aWj5gCwZkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beautiful Sierra Leone New Airport, Things to Improve | Lungi, Freetown...</p></details>

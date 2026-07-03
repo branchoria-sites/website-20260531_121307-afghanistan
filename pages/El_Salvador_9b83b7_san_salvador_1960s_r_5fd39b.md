@@ -261,7 +261,7 @@ The historical trail before 1969 is thin. References to unusual aerial sightings
 
 That gap matters. It suggests that early Salvadoran UFO reporting was still informal and episodic. Cases were often treated as curiosities rather than as events requiring scientific or governmental follow-up. In practical terms, this means many 1965-era claims cannot now be reconstructed with confidence because the original photographs, witness interviews and publication archives are incomplete or inaccessible.
 
-The broader international atmosphere of 1965 helps explain why such sightings drew attention even when evidence was weak. The mid-1960s saw a surge of UFO discussion worldwide, driven by heavy press coverage of American and European cases and by public fascination with the Space Race. Contemporary newspaper culture often treated strange aerial sightings as both mystery and entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.myheritage.com">[MyHeritage Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.myheritage.com</span><span class="citation-popover-title">Here&#x27;s what we found.Read more</span><span class="citation-popover-snippet">MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...August 9, 2023 — 9 Aug 2023 — We took a peek into the historical...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
+The broader international atmosphere of 1965 helps explain why such sightings drew attention even when evidence was weak. The mid-1960s saw a surge of UFO discussion worldwide, driven by heavy press coverage of American and European cases and by public fascination with the Space Race. Contemporary newspaper culture often treated strange aerial sightings as both mystery and entertainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.myheritage.com">[MyHeritage Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.myheritage.com</span><span class="citation-popover-title">Here&#x27;s what we found.Read more</span><span class="citation-popover-snippet">MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...August 9, 2023 — 9 Aug 2023 — We took a peek into the historical...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
 
 Within El Salvador, this environment likely amplified local interpretations of ordinary aerial phenomena. A bright object, smoke trail or reflective aircraft could easily become “unidentified” in a media climate already primed by global UFO stories.
 
@@ -269,9 +269,9 @@ Within El Salvador, this environment likely amplified local interpretations of o
 
 ### The January 1969 San Salvador case
 
-The best-known early Salvadoran sighting occurred on 15 January 1969 in San Salvador. According to later retrospectives based on the archived edition of *El Diario de Hoy*, the event unfolded around 3:30 in the afternoon under cloudy conditions. Witnesses reportedly described a bright disc-like object moving rapidly across the sky near Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
+The best-known early Salvadoran sighting occurred on 15 January 1969 in San Salvador. According to later retrospectives based on the archived edition of *El Diario de Hoy*, the event unfolded around 3:30 in the afternoon under cloudy conditions. Witnesses reportedly described a bright disc-like object moving rapidly across the sky near Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
 
-The account became important largely because several people connected with the newspaper itself reportedly observed the object. A retrospective published decades later states that two carpenters on the newspaper terrace first alerted staff members, after which journalists and employees looked upward and saw the same phenomenon. The newsroom allegedly received additional calls from residents claiming they had also witnessed the object from other parts of the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
+The account became important largely because several people connected with the newspaper itself reportedly observed the object. A retrospective published decades later states that two carpenters on the newspaper terrace first alerted staff members, after which journalists and employees looked upward and saw the same phenomenon. The newsroom allegedly received additional calls from residents claiming they had also witnessed the object from other parts of the capital.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
 
 Descriptions varied, but several details recur in later retellings:
 
@@ -291,7 +291,7 @@ The event gained enough attention to become a prominent newspaper story the foll
 
 ### Why Soyuz 4 entered the discussion
 
-One explanation raised at the time linked the sighting to the Soviet Soyuz 4 mission, launched on 14 January 1969 as part of a major orbital docking operation during the Space Race. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Soyuz_4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soyuz 4</span><span class="citation-popover-snippet">Soyuz 4</span></span></span>
+One explanation raised at the time linked the sighting to the Soviet Soyuz 4 mission, launched on 14 January 1969 as part of a major orbital docking operation during the Space Race.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Soyuz_4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soyuz 4</span><span class="citation-popover-snippet">Soyuz 4</span></span></span>
 
 The timing is significant. Space launches were heavily covered by international media, and unusual lights associated with rocket activity or atmospheric re-entry frequently produced UFO reports around the world during the 1960s. Salvadoran observers in 1969 would already have been highly aware of Soviet and American missions because of the intense publicity surrounding lunar and orbital programmes.
 
@@ -322,12 +322,12 @@ One reason the 1969 report remains notable is the claim of multiple independent 
 
 Yet multiple witnesses do not automatically strengthen extraordinary conclusions. Shared misidentification is common, especially when observers are reacting to a bright or unexpected object under poor viewing conditions. Cloud cover, reflected sunlight and perspective distortions can all make ordinary objects appear unusual.
 
-The reported weather conditions are especially relevant here. The retrospective description repeatedly notes a cloudy sky that prevented clear photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span> That limitation matters because uncertain lighting and partial visibility are among the most common features of unresolved UFO reports worldwide.
+The reported weather conditions are especially relevant here. The retrospective description repeatedly notes a cloudy sky that prevented clear photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span> That limitation matters because uncertain lighting and partial visibility are among the most common features of unresolved UFO reports worldwide.
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-dark.svg" | relative_url }}" alt="1960 s Cases illustration 2" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why no official case file survives
 
-There is no widely known Salvadoran equivalent to a Project Blue Book file for the San Salvador sightings. In the United States, many 1950s and 1960s reports eventually entered Air Force archives, even when the investigations were brief or sceptical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">ufos man made made up and unknown</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</span></span></span>
+There is no widely known Salvadoran equivalent to a Project Blue Book file for the San Salvador sightings. In the United States, many 1950s and 1960s reports eventually entered Air Force archives, even when the investigations were brief or sceptical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">ufos man made made up and unknown</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</span></span></span>
 
 El Salvador appears not to have maintained a comparable public system. As a result, the capital’s early UFO history exists largely outside official institutions. The cases survived because journalists printed them, not because authorities investigated them.
 
@@ -337,7 +337,7 @@ That distinction shapes the entire reliability problem surrounding Salvadoran UF
 
 ### The photographs are unclear or missing
 
-One of the most persistent frustrations surrounding the 1969 case is the uncertain status of the photographs reportedly taken at the time. Retrospective articles mention attempts to photograph the object, but the publicly available reproductions are limited and indistinct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
+One of the most persistent frustrations surrounding the 1969 case is the uncertain status of the photographs reportedly taken at the time. Retrospective articles mention attempts to photograph the object, but the publicly available reproductions are limited and indistinct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</span><span class="citation-popover-meta">Published: August 17, 2023</span></span></span>
 
 Without original negatives or authenticated high-resolution copies, modern analysis becomes nearly impossible. Investigators cannot reliably assess:
 
@@ -379,7 +379,7 @@ Nothing in the surviving evidence compels an extraordinary conclusion. Several c
 
 </div>
 
-Importantly, the lack of a confirmed explanation is not evidence of alien origin. NASA and other modern UAP studies repeatedly stress that unresolved cases often remain unresolved because the available data are incomplete, not because the object was necessarily extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">ufos man made made up and unknown</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</span></span></span>
+Importantly, the lack of a confirmed explanation is not evidence of alien origin. NASA and other modern UAP studies repeatedly stress that unresolved cases often remain unresolved because the available data are incomplete, not because the object was necessarily extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">ufos man made made up and unknown</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</span></span></span>
 
 The San Salvador record fits that pattern closely. The sightings are historically important because they show how UFO narratives entered Salvadoran public culture, but the evidence itself remains too limited to support strong conclusions about what witnesses actually saw.
 
@@ -402,194 +402,194 @@ The cases also established patterns that would continue in later Salvadoran repo
 In that sense, the 1969 incident became a template for much of El Salvador’s later UFO culture. The object itself remains unidentified, but the social mechanics of the case are unusually clear. A strange sight in the sky, a newspaper willing to publicise it, a city already fascinated by space-age mysteries, and a lack of technical investigation combined to create one of the country’s earliest enduring UFO stories.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to San Salvador&#x27;s Oldest UFO Trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to San Salvador&#x27;s Oldest UFO Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Fits historical newspaper-era sightings and archival cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits historical newspaper-era sightings and archival cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for interpreting 1960s sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interpreting 1960s sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Focuses on historical and folkloric patterns in sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on historical and folkloric patterns in sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrast between older reports and modern investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrast between older reports and modern investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=san-salvador-s-oldest-ufo-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="san-salvador-s-oldest-ufo-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,105 +792,104 @@ In that sense, the 1969 incident became a template for much of El Salvador’s l
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blog.myheritage.com  
    Title: Here's what we found.Read more  
-   Link: <a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...August 9, 2023 — 9 Aug 2023 — We took a peek into the historical...</p></details>
+   Link:<a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...August 9, 2023 — 9 Aug 2023 — We took a peek into the historical...</p></details>
    Published: August 9, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos man made made up and unknown  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Man-Made, Made Up, and Unknown - Pieces of History23 Apr 2018 — In this case, the Air Force initiated its investig...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Soyuz 4  
-   Link: <a href="https://es.wikipedia.org/wiki/Soyuz_4" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Soyuz_4</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Soyuz_4" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Soyuz_4</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newspapers.com  
    Title: alamogordo daily news ufo socorro new m  
-   Link: <a href="https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Socorro, New Mexico April 1965Just Year Ago, UFO Sighted At Socorro; Mystery Still Unsolved By JAKE BOOHER JR. Associated Press Write...</p></details>
+   Link:<a href="https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/alamogordo-daily-news-ufo-socorro-new-m/24046177/?locale=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Socorro, New Mexico April 1965Just Year Ago, UFO Sighted At Socorro; Mystery Still Unsolved By JAKE BOOHER JR. Associated Press Write...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: elsalvador.com  
-   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</p></details>
+   Link:<a href="https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-cultura/jueves-recuerdo-ovni-sobrevuela-san-salvador-en-1969/1083591/2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El Salvador NewsEnero 1969: OVNI sobrevuela San Salvador y genera alarma...August 17, 2023 — 17 Aug 2023 — Ocurrió al filo de las 3:30 d...</p></details>
    Published: August 17, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia word frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_word_frequencies.txt... san 350889 addition 350641 wikipedia 350154 video 348907 canada 348853... newspaper 149...</p></details>
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_word_frequencies.txt... san 350889 addition 350641 wikipedia 350154 video 348907 canada 348853... newspaper 149...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: somosprimos.com  
-   Link: <a href="https://www.somosprimos.com/sp2009/spapr09/spapr09.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.somosprimos.com/sp2009/spapr09/spapr09.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dedicated to Hispanic Heritage and Diversity IssuesDedicated to Hispanic Heritage and Diversity Issues. Society of Hispanic Historical an...</p></details>
+   Link:<a href="https://www.somosprimos.com/sp2009/spapr09/spapr09.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.somosprimos.com/sp2009/spapr09/spapr09.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dedicated to Hispanic Heritage and Diversity IssuesDedicated to Hispanic Heritage and Diversity Issues. Society of Hispanic Historical an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... newspaper staff saw hand hope operations pressure americans eastern st. legal asia budget retur...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... newspaper staff saw hand hope operations pressure americans eastern st. legal asia budget retur...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: x.com  
-   Link: <a href="https://x.com/RucksDelBo/status/1262823914453024781" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RucksDelBo/status/1262823914453024781</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Portada del Diario de Hoy, señalando avistamiento...Portada del Diario de Hoy, señalando avistamiento de OVNI sobre...</p></details>
+   Link:<a href="https://x.com/RucksDelBo/status/1262823914453024781" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RucksDelBo/status/1262823914453024781</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Portada del Diario de Hoy, señalando avistamiento...Portada del Diario de Hoy, señalando avistamiento de OVNI sobre...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tustinhistory.com  
    Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
-   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s apparent neglect and disinterest to...</p></details>
+   Link:<a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s apparent neglect and disinterest to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: andreaspennophotography.de  
    Title: World / Transcontinental Art / Works / Creation / Culture  
-   Link: <a href="https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/" target="_blank" rel="noopener noreferrer nofollow">https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VolvoWorld Celebrating Creative Modern Arts / European Arts / Artistry / Exhibitions / Performing Arts / Portrayal Of Great Artists From...</p></details>
+   Link:<a href="https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/" target="_blank" rel="noopener noreferrer nofollow">https://www.andreaspennophotography.de/world-transcontinental-north-america-works-arts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VolvoWorld Celebrating Creative Modern Arts / European Arts / Artistry / Exhibitions / Performing Arts / Portrayal Of Great Artists From...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blog.britishnewspaperarchive.co.uk  
    Title: incredible ufo sightings  
-   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Another UFO Sighting&#x27; – July 1979. And it wasn&#x27;t just in England that UFOs were being spotted. On 13 July 1979 Irish newspaper...Read more...</p></details>
+   Link:<a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Another UFO Sighting&#x27; – July 1979. And it wasn&#x27;t just in England that UFOs were being spotted. On 13 July 1979 Irish newspaper...Read more...</p></details>
    Published: July 1979  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Historia del fenómeno OVNI  
-   Link: <a href="https://www.youtube.com/watch?v=pfBv5Wgm-lA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfBv5Wgm-lA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supuestos ovnis fueron captados sobrevolando zonas militares de El Salvador...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pfBv5Wgm-lA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfBv5Wgm-lA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supuestos ovnis fueron captados sobrevolando zonas militares de El Salvador...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GQL6EYna2Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQL6EYna2Io</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Historically True Alien Encounter? | Berkshire UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GQL6EYna2Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQL6EYna2Io</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First Historically True Alien Encounter? | Berkshire UFO Incident...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linguateca.pt  
-   Link: <a href="https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>168,3 Mb... el 261914 enquanto 260607 continuar 260129 campo 258546 texto 258457 1999... Salvador 36518 religião 36460 enfim 36409 falha...</p></details>
+   Link:<a href="https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.linguateca.pt/acesso/tokens/lemas.cbras.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>168,3 Mb... el 261914 enquanto 260607 continuar 260129 campo 258546 texto 258457 1999... Salvador 36518 religião 36460 enfim 36409 falha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.howstuffworks.com  
    Title: valensole ufo  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a look at these notable UFO stories: Psychic Contact with UFOs · The Hill Abduction · Jackie Gleason Sees a UFO · Astronomer J. Alle...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Take a look at these notable UFO stories: Psychic Contact with UFOs · The Hill Abduction · Jackie Gleason Sees a UFO · Astronomer J. Alle...</p></details>

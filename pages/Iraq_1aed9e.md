@@ -1199,30 +1199,30 @@ The Iraqi record is shaped by war, surveillance and air-defence uncertainty. Sin
 <img src="{{ "/assets/images/Iraq_1aed9e-overview.webp" | relative_url }}" alt="Overview image for Iraq" loading="eager" decoding="sync" fetchpriority="high">
 This is the key difference between Iraq and many civilian-heavy UFO pages. In Iraq, several sightings are not casual skywatching reports but by-products of military sensors pointed at operational airspace. That improves the evidential value in one respect: there is often a known platform, a timestamp, a sensor type and a chain of custody. It also limits what outsiders can know, because altitude, range, location, metadata and intelligence context are often redacted or absent from public releases.
 
-The security background matters. Reuters reported repeated drone and rocket attacks on U.S. forces in Iraq and Syria in 2023 and 2024, including attacks around Ain al-Asad and Erbil, while Iraqi and U.S. sources have repeatedly treated drones as a real operational threat rather than a speculative UFO issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/drone-rocket-attacks-targeted-us-forces-iraq-us-officials-say-2024-04-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone, rocket attacks targeted US forces in Iraq</span><span class="citation-popover-snippet">Drone, rocket attacks targeted US forces in Iraq</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/drones-target-iraqs-ain-al-asad-airbase-no-casualties-say-military-sources-2024-07-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> In that setting, an unidentified object is first a combat-identification problem: whose object is it, where is it going, and does it threaten troops or facilities?
+The security background matters. Reuters reported repeated drone and rocket attacks on U.S. forces in Iraq and Syria in 2023 and 2024, including attacks around Ain al-Asad and Erbil, while Iraqi and U.S. sources have repeatedly treated drones as a real operational threat rather than a speculative UFO issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/drone-rocket-attacks-targeted-us-forces-iraq-us-officials-say-2024-04-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone, rocket attacks targeted US forces in Iraq</span><span class="citation-popover-snippet">Drone, rocket attacks targeted US forces in Iraq</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/drones-target-iraqs-ain-al-asad-airbase-no-casualties-say-military-sources-2024-07-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> In that setting, an unidentified object is first a combat-identification problem: whose object is it, where is it going, and does it threaten troops or facilities?
 
 ## The main Iraqi cases in the public record
 
 ### The Mosul Orb: famous, unresolved and over-interpreted
 
-The best-known Iraq case is the “[Mosul Orb]({{ 'mosul-orb/' | relative_url }})”, an image reportedly taken in April 2016 over Mosul during an active conflict zone. Regional and international outlets described it as a metallic-looking sphere captured by a U.S. intelligence or reconnaissance aircraft and later publicised by Jeremy Corbell and George Knapp. Arab News reported that the image had formed part of a classified briefing and that the video had been analysed for years, but the public evidence available at the time was still a still image rather than a full technical case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2238211/middle-east/1000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span><span class="citation-popover-snippet">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span></span></span>
+The best-known Iraq case is the “[Mosul Orb]({{ 'mosul-orb/' | relative_url }})”, an image reportedly taken in April 2016 over Mosul during an active conflict zone. Regional and international outlets described it as a metallic-looking sphere captured by a U.S. intelligence or reconnaissance aircraft and later publicised by Jeremy Corbell and George Knapp. Arab News reported that the image had formed part of a classified briefing and that the video had been analysed for years, but the public evidence available at the time was still a still image rather than a full technical case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2238211/middle-east/1000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span><span class="citation-popover-snippet">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span></span></span>
 
-That makes the Mosul Orb important but not decisive. Its significance is that it put an Iraqi conflict-zone UAP into mainstream public discussion and raised a real military question: how should forces classify a strange object in contested airspace when origin, operator and intent are unknown? Its weakness is that the public record has been driven partly by media and podcast disclosure rather than by a complete official analytic release. A later tabloid report claimed that a short declassified video of the object had been released through a Freedom of Information route, but the claim still leaves the case dependent on limited imagery and incomplete sensor context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That makes the Mosul Orb important but not decisive. Its significance is that it put an Iraqi conflict-zone UAP into mainstream public discussion and raised a real military question: how should forces classify a strange object in contested airspace when origin, operator and intent are unknown? Its weakness is that the public record has been driven partly by media and podcast disclosure rather than by a complete official analytic release. A later tabloid report claimed that a short declassified video of the object had been released through a Freedom of Information route, but the claim still leaves the case dependent on limited imagery and incomplete sensor context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most responsible classification is therefore “contested and unresolved”. The object was apparently recorded by military equipment, which gives it more weight than an ordinary anecdote. But there is no public evidence showing extraordinary speed, impossible manoeuvring, non-human origin or a ruled-out chain of conventional explanations.
 
 <img src="{{ "/assets/images/Iraq_1aed9e-Illustration-1-dark.svg" | relative_url }}" alt="Iraq illustration 1" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Al Taqaddum: the most useful debunked Iraqi case
 
-The [Al Taqaddum]({{ 'al-taqaddum/' | relative_url }}) case is the clearest example of how an Iraqi UAP can look strange and still resolve to something ordinary. In October 2017, an infrared sensor on a force-protection aerostat near Al Taqaddum Air Base, Iraq, captured 17 minutes of video of an unidentified object. AARO later assessed that the object was a cluster of partially and fully inflated balloons, using full-motion video analysis, pixel examination and geolocation-based assessment of speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+The [Al Taqaddum]({{ 'al-taqaddum/' | relative_url }}) case is the clearest example of how an Iraqi UAP can look strange and still resolve to something ordinary. In October 2017, an infrared sensor on a force-protection aerostat near Al Taqaddum Air Base, Iraq, captured 17 minutes of video of an unidentified object. AARO later assessed that the object was a cluster of partially and fully inflated balloons, using full-motion video analysis, pixel examination and geolocation-based assessment of speed and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-This case matters because it is a rare public example where the government released both the mystery framing and the explanation. AARO’s conclusion was not merely “probably a balloon” in a vague sense; it said the object’s appearance was consistent with other balloon-cluster observations and that it did not show anomalous performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+This case matters because it is a rare public example where the government released both the mystery framing and the explanation. AARO’s conclusion was not merely “probably a balloon” in a vague sense; it said the object’s appearance was consistent with other balloon-cluster observations and that it did not show anomalous performance characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 For Iraq as a whole, Al Taqaddum is a warning against interpreting shape alone. A dangling or irregular balloon cluster can look like a complex object in infrared imagery, especially when range and scale are unclear. It is also a useful internal link to broader pages on “balloon misidentifications”, “Middle East UAP cases” and “military infrared UFO videos”, because it shows the same recurring pattern: a dramatic-looking clip becomes less dramatic when wind, motion, sensor angle and morphology are analysed together.
 
 ### Iraq, May 2022: unresolved, but probably not exotic
 
-DOW-UAP-PR21 is an official Iraq case from May 2022. According to the DVIDS release, U.S. Central Command submitted a UAP report to AARO consisting of ten seconds of infrared footage from a U.S. military platform. The accompanying mission report described the object as a “probable SU-27/35”, referring to Russian-made Sukhoi fighter aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+DOW-UAP-PR21 is an official Iraq case from May 2022. According to the DVIDS release, U.S. Central Command submitted a UAP report to AARO consisting of ten seconds of infrared footage from a U.S. military platform. The accompanying mission report described the object as a “probable SU-27/35”, referring to Russian-made Sukhoi fighter aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is a useful example of what “unresolved” can mean. In popular UFO discussion, unresolved often implies highly anomalous. In an intelligence setting, it may mean the public release does not contain enough information for final attribution, or that the object was not conclusively identified within the reporting chain. A “probable SU-27/35” description points towards a conventional aircraft hypothesis, not away from one. The unresolved label should therefore be read narrowly: the case is not publicly closed, but its own mission-report language gives a plausible non-exotic direction.
 
@@ -1230,7 +1230,7 @@ This is a useful example of what “unresolved” can mean. In popular UFO discu
 
 ### Iraq, December 2022: a short official clip with little context
 
-DOW-UAP-PR23 is another official Iraq case, dated December 2022. DVIDS describes it as a ten-second infrared video from a U.S. military platform, submitted by U.S. Central Command to AARO. The accompanying mission report said the UAP was “flying west to east”, and the public description says the video shows an area of contrast moving across the sensor field of view before leaving the frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+DOW-UAP-PR23 is another official Iraq case, dated December 2022. DVIDS describes it as a ten-second infrared video from a U.S. military platform, submitted by U.S. Central Command to AARO. The accompanying mission report said the UAP was “flying west to east”, and the public description says the video shows an area of contrast moving across the sensor field of view before leaving the frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This case is stronger than a civilian anecdote because it has an official release path and sensor footage. It is also weak as public evidence because ten seconds of infrared contrast is rarely enough to establish range, size, speed or identity. Without corroborating radar, telemetry, platform motion data and environmental context, the object could fall into several conventional categories. The most honest classification is “officially unresolved, low public diagnostic value”.
 
@@ -1238,18 +1238,18 @@ This case is stronger than a civilian anecdote because it has an official releas
 
 The Iraqi evidence divides into three practical categories.
 
-**Confirmed as records, not confirmed as exotic:** DOW-UAP-PR21 and PR23 are confirmed public U.S. military UAP records from Iraq. That confirms the existence of [official reports]({{ 'official-reports/' | relative_url }}) and imagery, not the nature of the objects. AARO’s own public material repeatedly distinguishes between recording an unidentified object and proving anomalous capability. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as records, not confirmed as exotic:** DOW-UAP-PR21 and PR23 are confirmed public U.S. military UAP records from Iraq. That confirms the existence of [official reports]({{ 'official-reports/' | relative_url }}) and imagery, not the nature of the objects. AARO’s own public material repeatedly distinguishes between recording an unidentified object and proving anomalous capability. AARO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Resolved or strongly explained:** Al Taqaddum is the strongest debunked or resolved Iraqi example. AARO assessed it as a balloon cluster and said it did not demonstrate anomalous behaviour. This case should carry real weight because it shows that some Iraqi military UAP footage can be explained after technical review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Resolved or strongly explained:** Al Taqaddum is the strongest debunked or resolved Iraqi example. AARO assessed it as a balloon cluster and said it did not demonstrate anomalous behaviour. This case should carry real weight because it shows that some Iraqi military UAP footage can be explained after technical review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested public claims:** The Mosul Orb is the most famous contested case. It has reported military provenance and public imagery, but the publicly available evidence remains too thin for confident conclusions about origin, capability or operator. Media coverage has often amplified its intrigue faster than the underlying technical record has developed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2238211/middle-east/1000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span><span class="citation-popover-snippet">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span></span></span>
+**Contested public claims:** The Mosul Orb is the most famous contested case. It has reported military provenance and public imagery, but the publicly available evidence remains too thin for confident conclusions about origin, capability or operator. Media coverage has often amplified its intrigue faster than the underlying technical record has developed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/2238211/middle-east/1000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span><span class="citation-popover-snippet">Arab News Suspected &#x27;UFO&#x27; image spotted over Iraqi city of Mosul</span></span></span>
 
 That split is more useful than asking whether Iraq “has UFOs”. It plainly has official UAP reports. The harder question is whether any public Iraqi case shows behaviour beyond known aircraft, balloons, drones, missiles, birds or sensor effects. On the evidence currently available, none clearly does.
 
 <img src="{{ "/assets/images/Iraq_1aed9e-Illustration-2-dark.svg" | relative_url }}" alt="Iraq illustration 2" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civilian and local-source reports: useful signals, weak proof
 
-Public civilian databases contain some Iraq entries, but they should be treated as leads rather than verified incidents. The National UFO Reporting Center, a long-running civilian reporting database, lists Iraq among its location-based reports. Examples include a southern Iraq report from 22 March 2003 describing unexplained lights over a Marine armoured column, and later individual reports from places such as Miqdadiyah and Al-Suwaira. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=37095" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Public civilian databases contain some Iraq entries, but they should be treated as leads rather than verified incidents. The National UFO Reporting Center, a long-running civilian reporting database, lists Iraq among its location-based reports. Examples include a southern Iraq report from 22 March 2003 describing unexplained lights over a Marine armoured column, and later individual reports from places such as Miqdadiyah and Al-Suwaira.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=37095" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 These entries are valuable for chronology because they show that Iraq-related sightings are not limited to the recent AARO era. But their evidential quality is uneven. NUFORC reports are generally self-submitted, often lack independent corroboration, and may be delayed by months or years. In Iraq, additional complications include language barriers, wartime stress, military illumination, flares, tracer fire, drones, satellites, aircraft and restricted access to original witnesses.
 
@@ -1259,9 +1259,9 @@ Local and regional media can add context, especially when a story concerns Mosul
 
 ## Why “unresolved” is not the same as “alien”
 
-The broader U.S. official position is important for interpreting Iraq. AARO exists to document, analyse and, where possible, resolve UAP reports, and the Department of Defense has framed the issue mainly around safety, security and operational awareness. The 2024 annual report covered reports from 1 May 2023 to 1 June 2024, plus older late-reported cases, and said AARO received 757 reports in that cycle, bringing its reviewed caseload to more than 1,600. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release &#124; U.S. Depa...</span></span></span>(#endnote-2 "Snippet: Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) > U.S. Department of War > Release | U.S. Depa...")
+The broader U.S. official position is important for interpreting Iraq. AARO exists to document, analyse and, where possible, resolve UAP reports, and the Department of Defense has framed the issue mainly around safety, security and operational awareness. The 2024 annual report covered reports from 1 May 2023 to 1 June 2024, plus older late-reported cases, and said AARO received 757 reports in that cycle, bringing its reviewed caseload to more than 1,600.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release &#124; U.S. Depa...</span></span></span>(#endnote-2 "Snippet: Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) > U.S. Department of War > Release | U.S. Depa...")
 
-That large caseload does not mean a large number of extraordinary craft. Reuters reported in 2024 that a Pentagon historical review found no evidence that the U.S. government had discovered extraterrestrial technology, and that many sightings were attributed to ordinary objects or phenomena, with better data likely to resolve more cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/armed-drone-shot-down-over-us-base-northern-iraq-statement-2024-01-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">armed drone shot down over us base northern iraq statement 2024 01 10</span><span class="citation-popover-snippet">armed drone shot down over us base northern iraq statement 2024 01 10</span></span></span> NASA’s independent UAP work makes a similar methodological point: the problem is not a shortage of stories but a shortage of high-quality, standardised data suitable for scientific analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+That large caseload does not mean a large number of extraordinary craft. Reuters reported in 2024 that a Pentagon historical review found no evidence that the U.S. government had discovered extraterrestrial technology, and that many sightings were attributed to ordinary objects or phenomena, with better data likely to resolve more cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/armed-drone-shot-down-over-us-base-northern-iraq-statement-2024-01-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">armed drone shot down over us base northern iraq statement</span><span class="citation-popover-snippet">armed drone shot down over us base northern iraq statement</span></span></span> NASA’s independent UAP work makes a similar methodological point: the problem is not a shortage of stories but a shortage of high-quality, standardised data suitable for scientific analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 For Iraq, that distinction is central. A UAP can be unidentified because the clip is short, the sensor is limited, the platform is moving, the object is distant, the environment is cluttered, or classification prevents release of the data needed to solve it. None of those conditions requires an exotic explanation.
 
@@ -1271,205 +1271,205 @@ For Iraq, that distinction is central. A UAP can be unidentified because the cli
 
 Iraq’s UAP pattern is not evenly distributed. The strongest named cases cluster around military activity and surveillance infrastructure rather than around ordinary civilian skies.
 
-Mosul stands out because of the 2016 orb case, made more prominent by its setting over an active conflict zone. Al Taqaddum stands out because a base defence aerostat produced a long infrared recording that AARO later resolved as balloons. Wider Iraq appears in the 2022 Central Command releases, where short sensor clips were submitted to AARO as UAP reports. Civilian database entries add scattered reports from southern Iraq, Diyala and Wasit, but those do not yet amount to a robust local chronology. NUFORC 6Arab News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The regional pattern is therefore less about“Iraqis seeing UFOs” and more about where cameras, aircraft, drones and military sensors have been concentrated. This naturally links Iraq to sibling country pages on Syria, Iran, the Gulf states and the wider Middle East, where similar military-sensor UAP cases appear in conflict or high-surveillance settings. The comparison is useful because it points to a shared mechanism: more sensors and more aerial activity produce more unidentified reports.
+Mosul stands out because of the 2016 orb case, made more prominent by its setting over an active conflict zone. Al Taqaddum stands out because a base defence aerostat produced a long infrared recording that AARO later resolved as balloons. Wider Iraq appears in the 2022 Central Command releases, where short sensor clips were submitted to AARO as UAP reports. Civilian database entries add scattered reports from southern Iraq, Diyala and Wasit, but those do not yet amount to a robust local chronology. NUFORC 6Arab News<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The regional pattern is therefore less about“Iraqis seeing UFOs” and more about where cameras, aircraft, drones and military sensors have been concentrated. This naturally links Iraq to sibling country pages on Syria, Iran, the Gulf states and the wider Middle East, where similar military-sensor UAP cases appear in conflict or high-surveillance settings. The comparison is useful because it points to a shared mechanism: more sensors and more aerial activity produce more unidentified reports.
 
 ## What would change the assessment
 
-The Iraqi record would become much stronger if future releases included full-resolution video, exact time and location, range-to-target, sensor metadata, platform movement, wind data, radar tracks, multi-sensor correlation and analyst reasoning. AARO has already shown with Al Taqaddum that geolocation and motion analysis can turn a strange-looking object into a conventional explanation. The same standard should be applied to unresolved Iraqi clips before they are treated as evidence of anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The Iraqi record would become much stronger if future releases included full-resolution video, exact time and location, range-to-target, sensor metadata, platform movement, wind data, radar tracks, multi-sensor correlation and analyst reasoning. AARO has already shown with Al Taqaddum that geolocation and motion analysis can turn a strange-looking object into a conventional explanation. The same standard should be applied to unresolved Iraqi clips before they are treated as evidence of anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 Until then, Iraq is best understood as a high-surveillance UAP environment with a small number of important public cases. The country’s most useful UFO record is not a dramatic proof of alien visitation, but a compact lesson in evidence quality: official does not always mean solved, unresolved does not mean exotic, and a convincing explanation often depends on data that the public video alone cannot provide.
 
 <img src="{{ "/assets/images/Iraq_1aed9e-Illustration-3-dark.svg" | relative_url }}" alt="Iraq illustration 3" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Unidentified Aerial Phenomena Have Been Recorded in Iraq?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Unidentified Aerial Phenomena Have Been Recorded in Iraq?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases involving pilots, radar and government records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases involving pilots, radar and government records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses military sightings and contemporary UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military sightings and contemporary UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for advanced aircraft and classified aviation technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced aircraft and classified aviation technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Relevant to evaluating sensor data and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to evaluating sensor data and unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-unidentified-aerial-phenomena-have-been-recorded-in-iraq-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1485,7 +1485,7 @@ Until then, Iraq is best understood as a high-surveillance UAP environment with 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1505,7 +1505,7 @@ Until then, Iraq is best understood as a high-surveillance UAP environment with 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1537,7 +1537,7 @@ Until then, Iraq is best understood as a high-surveillance UAP environment with 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1589,7 +1589,7 @@ Until then, Iraq is best understood as a high-surveillance UAP environment with 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1634,7 +1634,7 @@ Until then, Iraq is best understood as a high-surveillance UAP environment with 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1675,236 +1675,236 @@ Until then, Iraq is best understood as a high-surveillance UAP environment with 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release | U.S. Depa...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release | U.S. Depa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Drone, rocket attacks targeted US forces in Iraq  
-   Link: <a href="https://www.reuters.com/world/middle-east/drone-rocket-attacks-targeted-us-forces-iraq-us-officials-say-2024-04-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drone-rocket-attacks-targeted-us-forces-iraq-us-officials-say-2024-04-22/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/drone-rocket-attacks-targeted-us-forces-iraq-us-officials-say-2024-04-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drone-rocket-attacks-targeted-us-forces-iraq-us-officials-say-2024-04-22/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/middle-east/drones-target-iraqs-ain-al-asad-airbase-no-casualties-say-military-sources-2024-07-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drones-target-iraqs-ain-al-asad-airbase-no-casualties-say-military-sources-2024-07-16/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/drones-target-iraqs-ain-al-asad-airbase-no-casualties-say-military-sources-2024-07-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drones-target-iraqs-ain-al-asad-airbase-no-casualties-say-military-sources-2024-07-16/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: armed drone shot down over us base northern iraq statement 2024 01 10  
-   Link: <a href="https://www.reuters.com/world/middle-east/armed-drone-shot-down-over-us-base-northern-iraq-statement-2024-01-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/armed-drone-shot-down-over-us-base-northern-iraq-statement-2024-01-10/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/armed-drone-shot-down-over-us-base-northern-iraq-statement-2024-01-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/armed-drone-shot-down-over-us-base-northern-iraq-statement-2024-01-10/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/</a>  
+   Link:<a href="https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/14608649/first-ever-vid-of-mosul-orb-ufo/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/960331/al-taqaddum-object</a>  
+   Link:<a href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/960331/al-taqaddum-object</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=37095" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=37095</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=37095" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=37095</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193683" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193683</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193683" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193683</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185452" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185452</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185452" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185452</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=196005" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196005</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=196005" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196005</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reuters.com  
    Title: drone strike hits us diplomatic facility iraq reports washington post 2026 03 11  
-   Link: <a href="https://www.reuters.com/world/middle-east/drone-strike-hits-us-diplomatic-facility-iraq-reports-washington-post-2026-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drone-strike-hits-us-diplomatic-facility-iraq-reports-washington-post-2026-03-11/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/drone-strike-hits-us-diplomatic-facility-iraq-reports-washington-post-2026-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drone-strike-hits-us-diplomatic-facility-iraq-reports-washington-post-2026-03-11/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reuters.com  
    Title: drone explosive attacks target us forces across iraq sources 2023 11 09  
-   Link: <a href="https://www.reuters.com/world/middle-east/drone-explosive-attacks-target-us-forces-across-iraq-sources-2023-11-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drone-explosive-attacks-target-us-forces-across-iraq-sources-2023-11-09/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/drone-explosive-attacks-target-us-forces-across-iraq-sources-2023-11-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/drone-explosive-attacks-target-us-forces-across-iraq-sources-2023-11-09/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/video/watch/idRW498117032026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW498117032026RP1/</a>  
+   Link:<a href="https://www.reuters.com/video/watch/idRW498117032026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW498117032026RP1/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: arabnews.com  
    Title: Arab News Suspected 'UFO' image spotted over Iraqi city of Mosul  
-   Link: <a href="https://www.arabnews.com/node/2238211/middle-east/1000" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east/1000</a>  
+   Link:<a href="https://www.arabnews.com/node/2238211/middle-east/1000" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east/1000</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dvidshub.net  
    Title: dow uap pr21 unresolved uap report iraq may 2022  
-   Link: <a href="https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022</a>  
    Published: may 2022  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: safeairspace.net  
-   Link: <a href="https://safeairspace.net/iraq/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/iraq/</a>  
+   Link:<a href="https://safeairspace.net/iraq/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/iraq/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thesun.co.uk  
    Title: first ever vid of mosul orb ufo  
-   Link: <a href="https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/</a>  
+   Link:<a href="https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35661871/first-ever-vid-of-mosul-orb-ufo/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Al Taqaddum Air Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Al-Taqaddum_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Al-Taqaddum_Air_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Al-Taqaddum_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Al-Taqaddum_Air_Base</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVabAbxDzga/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVabAbxDzga/</a>  
+   Link:<a href="https://www.instagram.com/p/DVabAbxDzga/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVabAbxDzga/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/1006056/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006056/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/1006056/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006056/dow-uap-pr19-unresolved-uap-report-middle-east-may-2022</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dvidshub.net  
    Title: pr 010 uap report resolved balloon europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2442101/offbeat" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2442101/offbeat</a>  
+   Link:<a href="https://www.arabnews.com/node/2442101/offbeat" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2442101/offbeat</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: arabnews.com  
    Title: middle east  
-   Link: <a href="https://www.arabnews.com/node/2238211/middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east</a>  
+   Link:<a href="https://www.arabnews.com/node/2238211/middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=p80hXaM4QgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p80hXaM4QgU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thunderf00t - Military Surveillance Sensors and UAP Video Dissection...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p80hXaM4QgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p80hXaM4QgU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thunderf00t - Military Surveillance Sensors and UAP Video Dissection...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: General Wesley Clark Explains Military Strategy in Iraq and Middle East  
-   Link: <a href="https://www.youtube.com/watch?v=yCZ1NLZG-DY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yCZ1NLZG-DY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Scientific Framework and Data-Driven Inquiry Into Military Airspace Anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yCZ1NLZG-DY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yCZ1NLZG-DY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Scientific Framework and Data-Driven Inquiry Into Military Airspace Anomalies...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: FLIR Footage of Jellyfish UAP Encounter at Military Base in Iraq  
-   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Wesley Clark Explains Military Strategy in Iraq and Middle East...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Wesley Clark Explains Military Strategy in Iraq and Middle East...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Pentagon Releases Declassified Footage of Mosul Orb UAP Over Iraq  
-   Link: <a href="https://www.youtube.com/watch?v=J6iMsfsoVG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J6iMsfsoVG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIR Footage of Jellyfish UAP Encounter at Military Base in Iraq...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J6iMsfsoVG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J6iMsfsoVG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLIR Footage of Jellyfish UAP Encounter at Military Base in Iraq...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400300004-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400300004-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400300004-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400300004-7.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: x.com  
-   Link: <a href="https://x.com/arabnews/status/2029086140855120054" target="_blank" rel="noopener noreferrer nofollow">https://x.com/arabnews/status/2029086140855120054</a>  
+   Link:<a href="https://x.com/arabnews/status/2029086140855120054" target="_blank" rel="noopener noreferrer nofollow">https://x.com/arabnews/status/2029086140855120054</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/a-mysterious-aerial-phenomenon-recently-captured-over-a-us-operations-base-in-ir/808721625480594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/a-mysterious-aerial-phenomenon-recently-captured-over-a-us-operations-base-in-ir/808721625480594/</a>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/a-mysterious-aerial-phenomenon-recently-captured-over-a-us-operations-base-in-ir/808721625480594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/a-mysterious-aerial-phenomenon-recently-captured-over-a-us-operations-base-in-ir/808721625480594/</a>

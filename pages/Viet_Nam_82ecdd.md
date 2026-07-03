@@ -1199,276 +1199,276 @@ The country is especially important within a wider country-by-country UFO projec
 <img src="{{ "/assets/images/Viet_Nam_82ecdd-overview.webp" | relative_url }}" alt="Overview image for What Did Viet Nam&#x27;s UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Vietnam War dominates the record
 
-The densest UFO material connected to Viet Nam comes from the period when the country was one of the most heavily monitored airspaces in the world. That does not automatically make every report stronger. It means that some unusual observations entered military paperwork because aircraft, ships, observation towers and command posts were already watching the sky for operational reasons. The same conditions also created many opportunities for misidentification: flares, tracer fire, helicopters, jets, drones, radar clutter, atmospheric effects and stress-filled night operations all overlapped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
+The densest UFO material connected to Viet Nam comes from the period when the country was one of the most heavily monitored airspaces in the world. That does not automatically make every report stronger. It means that some unusual observations entered military paperwork because aircraft, ships, observation towers and command posts were already watching the sky for operational reasons. The same conditions also created many opportunities for misidentification: flares, tracer fire, helicopters, jets, drones, radar clutter, atmospheric effects and stress-filled night operations all overlapped.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
 
-A key archival point is that Vietnam War UFO reports are not all found in the familiar Project Blue Book trail. Project 1947’s Barry Greenwood highlighted records in the US Combat Air Activities File, known as CACTA, where Vietnam-era air activity summaries used terms such as “UFO”, “SUS UFO”, “UFO SEARCH” and “UFO CHASE”. Greenwood argued that this mattered because these entries sat outside the better-known public Blue Book case lists and suggested that operational reporting sometimes used the UFO label even after the US Air Force was publicly stepping back from UFO investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A key archival point is that Vietnam War UFO reports are not all found in the familiar Project Blue Book trail. Project 1947’s Barry Greenwood highlighted records in the US Combat Air Activities File, known as CACTA, where Vietnam-era air activity summaries used terms such as “UFO”, “SUS UFO”, “UFO SEARCH” and “UFO CHASE”. Greenwood argued that this mattered because these entries sat outside the better-known public Blue Book case lists and suggested that operational reporting sometimes used the UFO label even after the US Air Force was publicly stepping back from UFO investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The strongest lesson from this period is not “the war proves UFOs were alien”. It is that wartime records can preserve genuinely puzzling observations while still failing to provide the data needed for a firm identification. A modern reader should treat these documents as valuable evidence that something was reported, not as proof that the reported object was non-human technology.
 
 ## The Chu Lai “egg-shaped object” case
 
-The most concrete single Viet Nam case is the Chu Lai report from 6 January 1969. A US National Archives blog post by processing archivist Joe Gillette describes a daily journal entry from the 23rd Infantry Division’s Chu Lai Defence Command. At 1:52 am, Tower 72 reported an object about 700 metres away, moving slowly over the ammunition supply point and landing. The entry described it as 15–20 feet across, “shaped like a big egg”, glowing when it moved, silent, and not detected by the control tower’s radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
+The most concrete single Viet Nam case is the Chu Lai report from 6 January 1969. A US National Archives blog post by processing archivist Joe Gillette describes a daily journal entry from the 23rd Infantry Division’s Chu Lai Defence Command. At 1:52 am, Tower 72 reported an object about 700 metres away, moving slowly over the ammunition supply point and landing. The entry described it as 15–20 feet across, “shaped like a big egg”, glowing when it moved, silent, and not detected by the control tower’s radar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
 
-This case has several features that make it more serious than a casual anecdote. It is tied to a dated military journal, a named command, a defined place near Chu Lai, and an operational context in which observation towers were expected to report unusual activity. The report is also striking because it describes a low, apparently landed object rather than a distant light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
+This case has several features that make it more serious than a casual anecdote. It is tied to a dated military journal, a named command, a defined place near Chu Lai, and an operational context in which observation towers were expected to report unusual activity. The report is also striking because it describes a low, apparently landed object rather than a distant light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
 
-The weaknesses are just as important. The only recorded follow-up was notification of the Duty Officer, and the National Archives post notes that later journals gave no further information. Gillette discussed possible conventional explanations, including flares, tracer rounds, drug use, boredom or misperception, but also noted that none fitted the recorded description cleanly. The honest conclusion is narrow: Chu Lai is a documented unidentified report, not a solved case and not proof of an alien landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
+The weaknesses are just as important. The only recorded follow-up was notification of the Duty Officer, and the National Archives post notes that later journals gave no further information. Gillette discussed possible conventional explanations, including flares, tracer rounds, drug use, boredom or misperception, but also noted that none fitted the recorded description cleanly. The honest conclusion is narrow: Chu Lai is a documented unidentified report, not a solved case and not proof of an alien landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
 
 <img src="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-1-dark.svg" | relative_url }}" alt="What Did Viet Nam&#x27;s UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Da Nang, Nha Trang, Pleiku and the military pattern
 
-Several other Vietnam War-era cases appear in specialist UFO archives rather than in a fully developed official public case file. Project 1947 summarises a reported 11 June 1967 Da Nang incident in which witnesses allegedly saw a silver cylinder for several minutes while two F-104 aircraft chased it. The same source also summarises a 19 June 1966 Nha Trang case, described as a stop-and-go object that hovered above an army base and was associated with reported electrical effects on vehicles and machinery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Several other Vietnam War-era cases appear in specialist UFO archives rather than in a fully developed official public case file. Project 1947 summarises a reported 11 June 1967 Da Nang incident in which witnesses allegedly saw a silver cylinder for several minutes while two F-104 aircraft chased it. The same source also summarises a 19 June 1966 Nha Trang case, described as a stop-and-go object that hovered above an army base and was associated with reported electrical effects on vehicles and machinery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These cases are interesting because they resemble classic mid-20th-century UFO patterns: aircraft pursuit, hovering objects, sudden acceleration and alleged electromagnetic interference. They are also weaker than Chu Lai as public evidence because the accessible summaries depend on secondary UFO-research sources and case files rather than a complete, easily inspectable official narrative. That does not make them worthless, but it does put them in the “contested” category until primary documents, witness lists, radar data or contemporaneous press records can be checked directly.
 
-Pleiku matters for a different reason. Project 1947’s discussion of the CACTA records highlights a Pleiku, South Viet Nam case summary dated 9 February 1969 and links the region to the broader “enemy helicopter” problem discussed by General George S. Brown. The available public record is suggestive rather than complete: it points to a pattern of unusual night reports in military channels, but not to a single well-resolved incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Pleiku matters for a different reason. Project 1947’s discussion of the CACTA records highlights a Pleiku, South Viet Nam case summary dated 9 February 1969 and links the region to the broader “enemy helicopter” problem discussed by General George S. Brown. The available public record is suggestive rather than complete: it points to a pattern of unusual night reports in military channels, but not to a single well-resolved incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The HMAS Hobart incident: UFO claim versus friendly-fire record
 
-The most dramatic Vietnam War case often drawn into UFO discussions is the 17 June 1968 attack on [HMAS Hobart]({{ 'hmas-hobart/' | relative_url }}) off the Vietnamese coast near the Demilitarised Zone. The established historical fact is that the Australian destroyer was accidentally attacked by a US Air Force F-4 Phantom. Australian naval-history sources state that three missiles were fired in two attacks, killing two Royal Australian Navy personnel and wounding seven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">17 june 1968</span><span class="citation-popover-meta">Published: june 1968</span></span></span>
+The most dramatic Vietnam War case often drawn into UFO discussions is the 17 June 1968 attack on [HMAS Hobart]({{ 'hmas-hobart/' | relative_url }}) off the Vietnamese coast near the Demilitarised Zone. The established historical fact is that the Australian destroyer was accidentally attacked by a US Air Force F-4 Phantom. Australian naval-history sources state that three missiles were fired in two attacks, killing two Royal Australian Navy personnel and wounding seven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">17 june 1968</span><span class="citation-popover-meta">Published: june 1968</span></span></span>
 
-The UFO connection comes from the surrounding confusion. Reports of “enemy helicopters” or unidentified night aircraft in the DMZ area preceded the friendly-fire chain of events. Later UFO writers have argued that unknown lights or objects may have triggered the mistaken engagements. Project 1947 quotes General George S. Brown’s 1973 statement that in Viet Nam some UFO reports were not called UFOs but “enemy helicopters”, and that a battle near the DMZ ended with an Australian destroyer being hit after no enemy aircraft were found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The UFO connection comes from the surrounding confusion. Reports of “enemy helicopters” or unidentified night aircraft in the DMZ area preceded the friendly-fire chain of events. Later UFO writers have argued that unknown lights or objects may have triggered the mistaken engagements. Project 1947 quotes General George S. Brown’s 1973 statement that in Viet Nam some UFO reports were not called UFOs but “enemy helicopters”, and that a battle near the DMZ ended with an Australian destroyer being hit after no enemy aircraft were found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The careful assessment is that HMAS Hobart is a confirmed friendly-fire tragedy with a contested UFO fringe around its cause. The damage, deaths and attacking aircraft are well documented; the claim that anomalous craft caused the confusion is not established to the same standard. For readers comparing Viet Nam with neighbouring country branches, this is the kind of case where a UFO label can attach itself to a real military incident without becoming the best explanation for the incident.
 
 ## Civilian sightings after the war
 
-Post-war Viet Nam’s public UFO record is much thinner and more media-driven. VietNamNet’s 2012 roundup reported several local cases: a Thanh Hoa photograph from 9 December 2012, a Ho Chi Minh City light video from July 2011, a Hanoi object filmed on 28 October 2010, and a retrospective Dong Nai story from 1991. These reports are useful as a snapshot of local UFO culture, but most lack multiple witnesses, instrumental data, original high-quality files or independent investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
+Post-war Viet Nam’s public UFO record is much thinner and more media-driven. VietNamNet’s 2012 roundup reported several local cases: a Thanh Hoa photograph from 9 December 2012, a Ho Chi Minh City light video from July 2011, a Hanoi object filmed on 28 October 2010, and a retrospective Dong Nai story from 1991. These reports are useful as a snapshot of local UFO culture, but most lack multiple witnesses, instrumental data, original high-quality files or independent investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
 
-The Thanh Hoa case is a good example of why later civilian reports need caution. The object was reportedly noticed only after the photographer reviewed the image; no other person at the scene saw a flying object at the time. That makes it vulnerable to ordinary explanations such as a bird, insect, aircraft, lens artefact, compression artefact or manipulation, even if no obvious editing was found by people who viewed the original. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
+The Thanh Hoa case is a good example of why later civilian reports need caution. The object was reportedly noticed only after the photographer reviewed the image; no other person at the scene saw a flying object at the time. That makes it vulnerable to ordinary explanations such as a bird, insect, aircraft, lens artefact, compression artefact or manipulation, even if no obvious editing was found by people who viewed the original.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
 
-The Hanoi 2010 case is more clearly weakened by an expert explanation. VietNamNet reported that Nguyen Duc Phuong of the Vietnam Astronomical Universe Society said the photographed object was a civil aircraft. That does not resolve every Vietnamese UFO claim, but it shows the value of local astronomical and aviation knowledge: many sky mysteries are not mysterious once direction, timing, exposure, flight paths and atmospheric conditions are checked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
+The Hanoi 2010 case is more clearly weakened by an expert explanation. VietNamNet reported that Nguyen Duc Phuong of the Vietnam Astronomical Universe Society said the photographed object was a civil aircraft. That does not resolve every Vietnamese UFO claim, but it shows the value of local astronomical and aviation knowledge: many sky mysteries are not mysterious once direction, timing, exposure, flight paths and atmospheric conditions are checked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
 
 <img src="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-2-dark.svg" | relative_url }}" alt="What Did Viet Nam&#x27;s UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What public databases add, and what they cannot prove
 
-International reporting databases show that Viet Nam appears in the global UFO record, but in small numbers. The National UFO Reporting Center’s location index lists 41 reports for Vietnam, far fewer than high-reporting countries such as the United States or the United Kingdom. That count is useful for orientation, but it is not a national incidence rate: English-language reporting bias, expatriate witnesses, internet access, public awareness and willingness to submit reports all shape the dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+International reporting databases show that Viet Nam appears in the global UFO record, but in small numbers. The National UFO Reporting Center’s location index lists 41 reports for Vietnam, far fewer than high-reporting countries such as the United States or the United Kingdom. That count is useful for orientation, but it is not a national incidence rate: English-language reporting bias, expatriate witnesses, internet access, public awareness and willingness to submit reports all shape the dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-Some modern entries are detailed but still unverified. A 2022 NUFORC report from Ho Chi Minh City describes two observers seeing a silent, dark chevron-shaped object crossing the sky for about 30 seconds near District 2. The report is valuable because it gives time, place, duration, shape, witness number and a detailed description; it remains unconfirmed because there is no accompanying official investigation, radar track, calibrated imagery or independent corroboration in the accessible record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=167205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Some modern entries are detailed but still unverified. A 2022 NUFORC report from Ho Chi Minh City describes two observers seeing a silent, dark chevron-shaped object crossing the sky for about 30 seconds near District 2. The report is valuable because it gives time, place, duration, shape, witness number and a detailed description; it remains unconfirmed because there is no accompanying official investigation, radar track, calibrated imagery or independent corroboration in the accessible record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=167205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Map-based aggregators such as SENTINEL or MAPUAP also list Viet Nam sightings, including wartime and post-war entries around central Viet Nam, Da Nang, Qui Nhon, Phouc Vinh and Ho Chi Minh City. These tools help show geographic spread, but they often rest on imported witness reports rather than new investigation. They are best used as leads, not as final evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">viet nam 1966 4bd58391</span><span class="citation-popover-snippet">viet nam 1966 4bd58391</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">viet nam 1966 4bd58391</span><span class="citation-popover-snippet">viet nam 1966 4bd58391</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">viet nam 1966 4bd58391</span><span class="citation-popover-snippet">viet nam 1966 4bd58391</span></span></span>
+Map-based aggregators such as SENTINEL or MAPUAP also list Viet Nam sightings, including wartime and post-war entries around central Viet Nam, Da Nang, Qui Nhon, Phouc Vinh and Ho Chi Minh City. These tools help show geographic spread, but they often rest on imported witness reports rather than new investigation. They are best used as leads, not as final evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">viet nam 1966 4bd58391</span><span class="citation-popover-snippet">viet nam 1966 4bd58391</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">viet nam 1966 4bd58391</span><span class="citation-popover-snippet">viet nam 1966 4bd58391</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">viet nam 1966 4bd58391</span><span class="citation-popover-snippet">viet nam 1966 4bd58391</span></span></span>
 
 ## Region-level variation inside Viet Nam
 
-The regional pattern is meaningful. Central Viet Nam dominates the stronger historical record because that is where many wartime air and naval operations occurred: Da Nang, Chu Lai, Nha Trang, Qui Nhon, Pleiku and the DMZ-adjacent coast all sit within the military-reporting context. Reports from this belt often involve night operations, bases, aircraft, radar, ships or observation posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The regional pattern is meaningful. Central Viet Nam dominates the stronger historical record because that is where many wartime air and naval operations occurred: Da Nang, Chu Lai, Nha Trang, Qui Nhon, Pleiku and the DMZ-adjacent coast all sit within the military-reporting context. Reports from this belt often involve night operations, bases, aircraft, radar, ships or observation posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Southern and urban reports, especially around Ho Chi Minh City and Dong Nai, look different. They are more likely to be civilian, photographic, video-based or retrospective. The Ho Chi Minh City cases reported in local media and databases involve lights, short videos, or modern eyewitness descriptions rather than command-post logs. Their evidential value depends heavily on whether the original image or video can be tested against aircraft movements, satellites, drones, weather and camera artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
+Southern and urban reports, especially around Ho Chi Minh City and Dong Nai, look different. They are more likely to be civilian, photographic, video-based or retrospective. The Ho Chi Minh City cases reported in local media and databases involve lights, short videos, or modern eyewitness descriptions rather than command-post logs. Their evidential value depends heavily on whether the original image or video can be tested against aircraft movements, satellites, drones, weather and camera artefacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
 
-Northern and capital-area reports are visible but not especially strong in the accessible record. The Hanoi 2010 case is memorable precisely because a local astronomical expert reportedly identified it as a civil aircraft. This makes Hanoi useful as a debunking example rather than as a major unresolved case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
+Northern and capital-area reports are visible but not especially strong in the accessible record. The Hanoi 2010 case is memorable precisely because a local astronomical expert reportedly identified it as a civil aircraft. This makes Hanoi useful as a debunking example rather than as a major unresolved case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
 
 <img src="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-3-dark.svg" | relative_url }}" alt="What Did Viet Nam&#x27;s UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence tiers for Viet Nam cases
 
 A fair Viet Nam UFO chronology should separate reports by evidential quality rather than by drama.
 
-**Stronger unresolved records:** The Chu Lai 1969 journal entry sits at the top because it is tied to a dated military record and a specific operational setting. It is still unresolved, not confirmed as extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
+**Stronger unresolved records:** The Chu Lai 1969 journal entry sits at the top because it is tied to a dated military record and a specific operational setting. It is still unresolved, not confirmed as extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
 
-**Contested wartime reports:** The Da Nang, Nha Trang, Pleiku and CACTA-related cases are important leads, especially because they involve military contexts and sometimes official terminology. Their public weakness is that many accessible descriptions are summaries, not full case files with sensor data and independent review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested wartime reports:** The Da Nang, Nha Trang, Pleiku and CACTA-related cases are important leads, especially because they involve military contexts and sometimes official terminology. Their public weakness is that many accessible descriptions are summaries, not full case files with sensor data and independent review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Confirmed event, contested UFO interpretation:** HMAS Hobart belongs in its own category. The friendly-fire attack is documented; the claim that UFOs caused or shaped the incident remains speculative compared with the official and naval-history record. Naval Historical Society of Australia <span class="citation-chip-wrap"><a class="citation-chip" href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: placesofpride.awm.gov.au">[Places of Pride]</a><span class="citation-popover" role="note"><span class="citation-popover-source">placesofpride.awm.gov.au</span><span class="citation-popover-title">Places of Pride Friendly Fire</span><span class="citation-popover-snippet">Places of Pride Friendly Fire</span></span></span>
+**Confirmed event, contested UFO interpretation:** HMAS Hobart belongs in its own category. The friendly-fire attack is documented; the claim that UFOs caused or shaped the incident remains speculative compared with the official and naval-history record. Naval Historical Society of Australia<span class="citation-chip-wrap"><a class="citation-chip" href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: placesofpride.awm.gov.au">[Places of Pride]</a><span class="citation-popover" role="note"><span class="citation-popover-source">placesofpride.awm.gov.au</span><span class="citation-popover-title">Places of Pride Friendly Fire</span><span class="citation-popover-snippet">Places of Pride Friendly Fire</span></span></span>
 
-**Weak or likely conventional civilian cases:** Thanh Hoa 2012, Hanoi 2010, Ho Chi Minh City 2011 and Dong Nai 1991 are useful for understanding local public interest, but they generally lack enough corroboration to carry much evidential weight. The Hanoi example has a reported aircraft explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
+**Weak or likely conventional civilian cases:** Thanh Hoa 2012, Hanoi 2010, Ho Chi Minh City 2011 and Dong Nai 1991 are useful for understanding local public interest, but they generally lack enough corroboration to carry much evidential weight. The Hanoi example has a reported aircraft explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vietnamnet.vn">[VietNamNet News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vietnamnet.vn</span><span class="citation-popover-title">Viet Nam Net News UFOs many times appeared in Vietnam?</span><span class="citation-popover-snippet">Viet Nam Net News UFOs many times appeared in Vietnam?</span></span></span>
 
 ## Why “unidentified” stays unresolved
 
-For Viet Nam, many cases remain unidentified because the record is incomplete. A wartime journal entry may preserve a strange description but not the follow-up. A press item may report a photograph but not the original file. A witness database may capture a careful account but not the independent data needed to test it. This is exactly the problem emphasised in wider UAP research: limited-quality observations make many cases hard to resolve even when ordinary explanations remain plausible. NASA’s 2023 UAP study stressed that poor data and stigma are major barriers to understanding reports, while AARO’s public materials show that some modern cases are later resolved as balloons, birds or non-anomalous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For Viet Nam, many cases remain unidentified because the record is incomplete. A wartime journal entry may preserve a strange description but not the follow-up. A press item may report a photograph but not the original file. A witness database may capture a careful account but not the independent data needed to test it. This is exactly the problem emphasised in wider UAP research: limited-quality observations make many cases hard to resolve even when ordinary explanations remain plausible. NASA’s 2023 UAP study stressed that poor data and stigma are major barriers to understanding reports, while AARO’s public materials show that some modern cases are later resolved as balloons, birds or non-anomalous objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That wider lesson applies neatly to Viet Nam. The country’s strongest records are not weak because witnesses were necessarily unreliable; they are weak because the surviving evidence rarely includes synchronised radar, multiple camera angles, recovered material, flight logs, meteorological checks and independent chain-of-custody handling. Without those, the best classification is often “reported and unresolved”, not “explained” and not “alien”.
 
 ## How to read Viet Nam’s UFO record responsibly
 
-The most responsible way to read the Viet Nam material is to keep two ideas together. First, there really are unusual reports worth preserving, especially from the war years. The Chu Lai journal entry and CACTA-related references show that unidentified aerial events entered serious military paperwork. Secondly, the strongest public evidence still falls short of confirming exotic technology. Viet Nam’s UFO record is therefore a case study in uncertainty, not disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
+The most responsible way to read the Viet Nam material is to keep two ideas together. First, there really are unusual reports worth preserving, especially from the war years. The Chu Lai journal entry and CACTA-related references show that unidentified aerial events entered serious military paperwork. Secondly, the strongest public evidence still falls short of confirming exotic technology. Viet Nam’s UFO record is therefore a case study in uncertainty, not disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span><span class="citation-popover-snippet">The Text Message No Enemy Contact, but Alien Contact… – The Text Message</span></span></span>
 
 This also makes Viet Nam a useful sibling branch for comparison with other Southeast Asian country pages. It differs from countries whose records are mainly civilian folklore, media stories or modern drone-era videos. Here, the historical core is military and wartime, while the later civilian layer is scattered and relatively weak. That mix explains why the most interesting Viet Nam cases are not always the most spectacular ones, but the ones where a dated record, a place, a witness context and a plausible chain of reporting survive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Viet Nam&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Viet Nam&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative tools for evaluating wartime sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative tools for evaluating wartime sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing military-era UFO reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing military-era UFO reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Helps place military UFO reports within a broader investigative tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps place military UFO reports within a broader investigative tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits military, aviation and international UFO-report themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits military, aviation and international UFO-report themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-viet-nam-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-viet-nam-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1484,7 +1484,7 @@ This also makes Viet Nam a useful sibling branch for comparison with other South
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1504,7 +1504,7 @@ This also makes Viet Nam a useful sibling branch for comparison with other South
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1536,7 +1536,7 @@ This also makes Viet Nam a useful sibling branch for comparison with other South
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1588,7 +1588,7 @@ This also makes Viet Nam a useful sibling branch for comparison with other South
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1633,7 +1633,7 @@ This also makes Viet Nam a useful sibling branch for comparison with other South
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1671,204 +1671,203 @@ This also makes Viet Nam a useful sibling branch for comparison with other South
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: text-message.blogs.archives.gov  
    Title: The Text Message No Enemy Contact, but Alien Contact… – The Text Message  
-   Link: <a href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/uhr14.htm</a>  
+   Link:<a href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/uhr14.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vietnamnet.vn  
    Title: Viet Nam Net News UFOs many times appeared in Vietnam?  
-   Link: <a href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow">https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html</a>  
+   Link:<a href="https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html" target="_blank" rel="noopener noreferrer nofollow">https://vietnamnet.vn/en/ufos-many-times-appeared-in-vietnam-E55231.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=167205" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=167205</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=167205" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=167205</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mapuap.com  
    Title: viet nam 1966 4bd58391  
-   Link: <a href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/viet-nam-1966-4bd58391</a>  
+   Link:<a href="https://mapuap.com/sighting/viet-nam-1966-4bd58391" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/viet-nam-1966-4bd58391</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mapuap.com  
    Title: viet nam central 1967 3e363572  
-   Link: <a href="https://mapuap.com/sighting/viet-nam-central-1967-3e363572" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/viet-nam-central-1967-3e363572</a>  
+   Link:<a href="https://mapuap.com/sighting/viet-nam-central-1967-3e363572" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/viet-nam-central-1967-3e363572</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mapuap.com  
    Title: ho chi minh city viet nam 2010 0b56dd54  
-   Link: <a href="https://mapuap.com/sighting/ho-chi-minh-city-viet-nam-2010-0b56dd54" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/ho-chi-minh-city-viet-nam-2010-0b56dd54</a>  
+   Link:<a href="https://mapuap.com/sighting/ho-chi-minh-city-viet-nam-2010-0b56dd54" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/ho-chi-minh-city-viet-nam-2010-0b56dd54</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mapuap.com  
    Title: danang viet nam 1968 c2122082  
-   Link: <a href="https://mapuap.com/sighting/danang-viet-nam-1968-c2122082" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/danang-viet-nam-1968-c2122082</a>  
+   Link:<a href="https://mapuap.com/sighting/danang-viet-nam-1968-c2122082" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/danang-viet-nam-1968-c2122082</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mapuap.com  
    Title: viet nam off coast 1967 103b4c29  
-   Link: <a href="https://mapuap.com/sighting/viet-nam-off-coast-1967-103b4c29" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/viet-nam-off-coast-1967-103b4c29</a>  
+   Link:<a href="https://mapuap.com/sighting/viet-nam-off-coast-1967-103b4c29" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/viet-nam-off-coast-1967-103b4c29</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mapuap.com  
    Title: quinhon viet nam 1966 90d03118  
-   Link: <a href="https://mapuap.com/sighting/quinhon-viet-nam-1966-90d03118" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/quinhon-viet-nam-1966-90d03118</a>  
+   Link:<a href="https://mapuap.com/sighting/quinhon-viet-nam-1966-90d03118" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/quinhon-viet-nam-1966-90d03118</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mapuap.com  
    Title: phouc vinh viet nam 1969 92fc6ab7  
-   Link: <a href="https://mapuap.com/sighting/phouc-vinh-viet-nam-1969-92fc6ab7" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/phouc-vinh-viet-nam-1969-92fc6ab7</a>  
+   Link:<a href="https://mapuap.com/sighting/phouc-vinh-viet-nam-1969-92fc6ab7" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/phouc-vinh-viet-nam-1969-92fc6ab7</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mapuap.com  
    Title: ho chi minh viet nam 2000 1468200f  
-   Link: <a href="https://mapuap.com/sighting/ho-chi-minh-viet-nam-2000-1468200f" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/ho-chi-minh-viet-nam-2000-1468200f</a>  
+   Link:<a href="https://mapuap.com/sighting/ho-chi-minh-viet-nam-2000-1468200f" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/ho-chi-minh-viet-nam-2000-1468200f</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mapuap.com  
    Title: ukmerge lithuania 2008 bddb9485  
-   Link: <a href="https://mapuap.com/sighting/ukmerge-lithuania-2008-bddb9485" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/ukmerge-lithuania-2008-bddb9485</a>  
+   Link:<a href="https://mapuap.com/sighting/ukmerge-lithuania-2008-bddb9485" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/ukmerge-lithuania-2008-bddb9485</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
    Title: nr20 19  
-   Link: <a href="https://www.archives.gov/press/press-releases/2020/nr20-19" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2020/nr20-19</a>  
+   Link:<a href="https://www.archives.gov/press/press-releases/2020/nr20-19" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2020/nr20-19</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/ufos/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/ufos/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2011/06/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2011/06/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/2011/06/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2011/06/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
    Published: may 1948  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: text-message.blogs.archives.gov  
    Title: rg 472  
-   Link: <a href="https://text-message.blogs.archives.gov/tag/rg-472/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/rg-472/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/tag/rg-472/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/rg-472/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vietnam.vn  
-   Link: <a href="https://www.vietnam.vn/en/my-tung-them-ho-so-ve-nhung-lan-cham-tran-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/my-tung-them-ho-so-ve-nhung-lan-cham-tran-ufo</a>  
+   Link:<a href="https://www.vietnam.vn/en/my-tung-them-ho-so-ve-nhung-lan-cham-tran-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/my-tung-them-ho-so-ve-nhung-lan-cham-tran-ufo</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: vietnam.vn  
    Title: them thong tin tuyet mat nguoi cham tran ufo khien tat ca ngo ngang  
-   Link: <a href="https://www.vietnam.vn/en/them-thong-tin-tuyet-mat-nguoi-cham-tran-ufo-khien-tat-ca-ngo-ngang" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/them-thong-tin-tuyet-mat-nguoi-cham-tran-ufo-khien-tat-ca-ngo-ngang</a>  
+   Link:<a href="https://www.vietnam.vn/en/them-thong-tin-tuyet-mat-nguoi-cham-tran-ufo-khien-tat-ca-ngo-ngang" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/them-thong-tin-tuyet-mat-nguoi-cham-tran-ufo-khien-tat-ca-ngo-ngang</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vietnam.vn  
-   Link: <a href="https://www.vietnam.vn/en/lau-nam-goc-tiep-nhan-hang-tram-bao-cao-nhin-thay-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/lau-nam-goc-tiep-nhan-hang-tram-bao-cao-nhin-thay-ufo</a>  
+   Link:<a href="https://www.vietnam.vn/en/lau-nam-goc-tiep-nhan-hang-tram-bao-cao-nhin-thay-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/lau-nam-goc-tiep-nhan-hang-tram-bao-cao-nhin-thay-ufo</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: vietnam.vn  
    Title: 62 dua tre nhin thay ufo ha canh ben ngoai truong hoc  
-   Link: <a href="https://www.vietnam.vn/en/62-dua-tre-nhin-thay-ufo-ha-canh-ben-ngoai-truong-hoc" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/62-dua-tre-nhin-thay-ufo-ha-canh-ben-ngoai-truong-hoc</a>  
+   Link:<a href="https://www.vietnam.vn/en/62-dua-tre-nhin-thay-ufo-ha-canh-ben-ngoai-truong-hoc" target="_blank" rel="noopener noreferrer nofollow">https://www.vietnam.vn/en/62-dua-tre-nhin-thay-ufo-ha-canh-ben-ngoai-truong-hoc</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html</a>  
+   Link:<a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: navyhistory.au  
    Title: 17 june 1968  
-   Link: <a href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/17-june-1968/</a>  
+   Link:<a href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/17-june-1968/</a>  
    Published: june 1968  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: placesofpride.awm.gov.au  
    Title: Places of Pride Friendly Fire  
-   Link: <a href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow">https://placesofpride.awm.gov.au/stories/213631/250046</a>  
+   Link:<a href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow">https://placesofpride.awm.gov.au/stories/213631/250046</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F38lI7238tI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F38lI7238tI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cautious Readings of Historical Unidentified Flying Objects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F38lI7238tI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F38lI7238tI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cautious Readings of Historical Unidentified Flying Objects...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Documented Military UFO Incidents and Official Archives  
-   Link: <a href="https://www.youtube.com/watch?v=J8n5rZ_Vp0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J8n5rZ_Vp0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Anomaly and Air Defense Records of the 1960s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J8n5rZ_Vp0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J8n5rZ_Vp0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Anomaly and Air Defense Records of the 1960s...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Unidentified Aerial Phenomena in Military History  
-   Link: <a href="https://www.youtube.com/watch?v=680X_S0gYCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=680X_S0gYCc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documented Military UFO Incidents and Official Archives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=680X_S0gYCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=680X_S0gYCc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documented Military UFO Incidents and Official Archives...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hmashobartassqld.org  
-   Link: <a href="https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html" target="_blank" rel="noopener noreferrer nofollow">https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html</a>  
+   Link:<a href="https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html" target="_blank" rel="noopener noreferrer nofollow">https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61551359681934/videos/%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%A8%CC%9B%F0%9D%90%A2-%F0%9D%90%81%F0%9D%90%A2-%F0%9D%90%80-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9A%CC%89-%F0%9D%90%86%F0%9D%90%9A-%F0%9D%90%8A%F0%9D%90%A1%F0%9D%90%A8%CC%82%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%8B%F0%9D%90%A8-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%CC%81-t%E1%BA%A1i-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%81-%F0%9D%90%81%F0%9D%90%9A%CC%86%CC%81%F0%9D%90%9C-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0-ufo-club-m%E1%BB%9F-c%E1%BB%ADa-2424h/1178352413627466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551359681934/videos/%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%A8%CC%9B%F0%9D%90%A2-%F0%9D%90%81%F0%9D%90%A2-%F0%9D%90%80-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9A%CC%89-%F0%9D%90%86%F0%9D%90%9A-%F0%9D%90%8A%F0%9D%90%A1%F0%9D%90%A8%CC%82%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%8B%F0%9D%90%A8-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%CC%81-t%E1%BA%A1i-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%81-%F0%9D%90%81%F0%9D%90%9A%CC%86%CC%81%F0%9D%90%9C-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0-ufo-club-m%E1%BB%9F-c%E1%BB%ADa-2424h/1178352413627466/</a>  
+   Link:<a href="https://www.facebook.com/61551359681934/videos/%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%A8%CC%9B%F0%9D%90%A2-%F0%9D%90%81%F0%9D%90%A2-%F0%9D%90%80-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9A%CC%89-%F0%9D%90%86%F0%9D%90%9A-%F0%9D%90%8A%F0%9D%90%A1%F0%9D%90%A8%CC%82%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%8B%F0%9D%90%A8-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%CC%81-t%E1%BA%A1i-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%81-%F0%9D%90%81%F0%9D%90%9A%CC%86%CC%81%F0%9D%90%9C-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0-ufo-club-m%E1%BB%9F-c%E1%BB%ADa-2424h/1178352413627466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551359681934/videos/%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%A8%CC%9B%F0%9D%90%A2-%F0%9D%90%81%F0%9D%90%A2-%F0%9D%90%80-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9A%CC%89-%F0%9D%90%86%F0%9D%90%9A-%F0%9D%90%8A%F0%9D%90%A1%F0%9D%90%A8%CC%82%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%8B%F0%9D%90%A8-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%CC%81-t%E1%BA%A1i-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%94%F0%9D%90%81-%F0%9D%90%81%F0%9D%90%9A%CC%86%CC%81%F0%9D%90%9C-%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0-ufo-club-m%E1%BB%9F-c%E1%BB%ADa-2424h/1178352413627466/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/</a>  
+   Link:<a href="https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/803174771/Remote-Viewing-Lockheed-Martin-Levitation-Projects-and-the-Reverse-Engineering-Program-of-Antigravity-Craft-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/803174771/Remote-Viewing-Lockheed-Martin-Levitation-Projects-and-the-Reverse-Engineering-Program-of-Antigravity-Craft-1</a>  
+   Link:<a href="https://www.scribd.com/document/803174771/Remote-Viewing-Lockheed-Martin-Levitation-Projects-and-the-Reverse-Engineering-Program-of-Antigravity-Craft-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/803174771/Remote-Viewing-Lockheed-Martin-Levitation-Projects-and-the-Reverse-Engineering-Program-of-Antigravity-Craft-1</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ralphbuncheinstitute.org  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>

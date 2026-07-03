@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /dominican-republic-dba665-index/
 description: Focused pages that expand on Dominican Republic.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Dominican_Republic_dba665
 parent_title: Dominican Republic
@@ -16,7 +16,7 @@ parent_permalink: /dominican-republic/
 
 # Explore Topics in Dominican Republic
 
-The following pages expand on the main **[Dominican Republic]({{ '/dominican-republic/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Dominican Republic]({{ '/dominican-republic/' | relative_url }})** page and cover its key branches in.
 
 - [Explanations]({{ '/explanations-ee1a8d/' | relative_url }})
 - [La Romana]({{ '/la-romana/' | relative_url }})

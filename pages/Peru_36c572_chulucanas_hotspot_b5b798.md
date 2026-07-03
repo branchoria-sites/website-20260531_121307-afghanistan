@@ -251,13 +251,13 @@ image: /assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-1-socia
 Chulucanas occupies a special place in Peru’s UFO history because it sits at the intersection of repeated local testimony, media attention, and one of the country’s earliest semi-official investigative efforts. Unlike the famous military encounter at [La Joya]({{ 'la-joya/' | relative_url }}), the Chulucanas reports were largely civilian observations centred on the Piura region in northern Peru. What made them influential was not the existence of a single dramatic event, but the claim that unusual aerial phenomena appeared repeatedly over the same area, turning the region into a supposed national “hotspot”.
 
 <img src="{{ "/assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-1-dark.svg" | relative_url }}" alt="Chulucanas illustration 1" data-theme-src-dark="{{ "/assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The strongest evidence for Chulucanas is that many residents reported seeing unusual lights and orange-coloured spheres during the early 2000s, and that these reports attracted sustained attention from Peruvian UFO investigators. The weakest part of the case is the lack of publicly available technical data. No widely cited radar records, military intercepts, or independently verified instrument readings have emerged. As a result, Chulucanas remains important primarily as a cultural and investigative case rather than as a conclusively documented aerial anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
+The strongest evidence for Chulucanas is that many residents reported seeing unusual lights and orange-coloured spheres during the early 2000s, and that these reports attracted sustained attention from Peruvian UFO investigators. The weakest part of the case is the lack of publicly available technical data. No widely cited radar records, military intercepts, or independently verified instrument readings have emerged. As a result, Chulucanas remains important primarily as a cultural and investigative case rather than as a conclusively documented aerial anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
 
 ## The Piura reports and the orange sphere accounts
 
-Most accounts place the beginning of the Chulucanas wave in 2001, when residents of the Piura region reported seeing luminous orange or reddish-orange objects in the sky. Witness descriptions often referred to glowing spheres, lights that appeared stationary before moving, and formations that seemed to split apart or merge together. Some reports claimed that multiple objects remained visible for long periods rather than flashing briefly like aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
+Most accounts place the beginning of the Chulucanas wave in 2001, when residents of the Piura region reported seeing luminous orange or reddish-orange objects in the sky. Witness descriptions often referred to glowing spheres, lights that appeared stationary before moving, and formations that seemed to split apart or merge together. Some reports claimed that multiple objects remained visible for long periods rather than flashing briefly like aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
 
-A frequently repeated narrative concerns sightings over Chulucanas on 13 October 2001. Later UFO literature described several orange-red spheres remaining visible for hours and changing apparent formations. In some versions, observers believed the lights behaved intelligently because they appeared to coordinate their movements. These descriptions helped establish the image of Chulucanas as a place where sightings were not isolated incidents but recurring events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
+A frequently repeated narrative concerns sightings over Chulucanas on 13 October 2001. Later UFO literature described several orange-red spheres remaining visible for hours and changing apparent formations. In some versions, observers believed the lights behaved intelligently because they appeared to coordinate their movements. These descriptions helped establish the image of Chulucanas as a place where sightings were not isolated incidents but recurring events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
 
 The reports spread beyond local communities through newspapers, radio programmes, and Peruvian television coverage. By the standards of regional UFO cases, Chulucanas generated an unusually persistent stream of stories. This persistence mattered. A single sighting can disappear into local folklore, but repeated claims over months or years create the impression of a geographic concentration that attracts investigators and curiosity seekers.
 
@@ -267,9 +267,9 @@ Supporters of the hotspot idea argued that the consistency of witness descriptio
 
 ## Why Pilán Hill became the centre of the mystery
 
-As interest grew, attention increasingly focused on an area near Chulucanas known as Pilán Hill. UFO researchers promoted the location as the apparent centre of repeated observations. Field visits and night watches were organised in the belief that unusual aerial phenomena appeared there more frequently than elsewhere in the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
+As interest grew, attention increasingly focused on an area near Chulucanas known as Pilán Hill. UFO researchers promoted the location as the apparent centre of repeated observations. Field visits and night watches were organised in the belief that unusual aerial phenomena appeared there more frequently than elsewhere in the region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
 
-Some investigators described Pilán Hill as an “epicentre” of activity, claiming that sightings remained active long after the initial 2001 reports. Such language helped transform the location from a simple witness site into a destination within Peruvian UFO culture. Chulucanas gradually became associated with the broader idea of geographical hotspots: places believed to produce recurring anomalous events without a clear explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
+Some investigators described Pilán Hill as an “epicentre” of activity, claiming that sightings remained active long after the initial 2001 reports. Such language helped transform the location from a simple witness site into a destination within Peruvian UFO culture. Chulucanas gradually became associated with the broader idea of geographical hotspots: places believed to produce recurring anomalous events without a clear explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
 
 The difficulty is that hotspot claims are inherently hard to verify. Demonstrating that one location genuinely experiences more unexplained phenomena than another requires systematic observation, reliable reporting standards, and long-term data collection. Publicly available evidence from Chulucanas rarely reaches that level. Most claims depend on witness testimony, investigator reports, and media coverage rather than controlled monitoring.
 
@@ -279,13 +279,13 @@ That does not necessarily invalidate the reports. It simply means that the hotsp
 
 ## Anthony Choy and the Project 33 connection
 
-No figure is more closely associated with Chulucanas than Peruvian investigator Anthony Choy. A lawyer, broadcaster, and prominent UFO researcher, Choy became involved in examining the reports soon after the initial wave of sightings. His work helped elevate the case from a regional curiosity into a nationally recognised UFO incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Anthony_Choy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anthony Choy</span><span class="citation-popover-snippet">Anthony Choy</span></span></span>
+No figure is more closely associated with Chulucanas than Peruvian investigator Anthony Choy. A lawyer, broadcaster, and prominent UFO researcher, Choy became involved in examining the reports soon after the initial wave of sightings. His work helped elevate the case from a regional curiosity into a nationally recognised UFO incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Anthony_Choy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anthony Choy</span><span class="citation-popover-snippet">Anthony Choy</span></span></span>
 
-Choy was a founding member of Project 33, a Peruvian UFO research group that became one of the most visible organisations investigating anomalous aerial reports in the country. According to biographical accounts, he participated in inquiries linked to the Chulucanas events and later described the case as one of Peru’s most significant modern UFO episodes. His involvement also connected the incident to wider discussions about official attention to aerial anomalies in Peru. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsA missile facility malfunction was claimed to be linked to a UFO report by Robert Salas.... &quot;Govt offic...</span></span></span>
+Choy was a founding member of Project 33, a Peruvian UFO research group that became one of the most visible organisations investigating anomalous aerial reports in the country. According to biographical accounts, he participated in inquiries linked to the Chulucanas events and later described the case as one of Peru’s most significant modern UFO episodes. His involvement also connected the incident to wider discussions about official attention to aerial anomalies in Peru.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsA missile facility malfunction was claimed to be linked to a UFO report by Robert Salas.... &quot;Govt offic...</span></span></span>
 
-Several accounts describe Choy making repeated investigative trips from Lima to the Piura region. These visits included interviews with witnesses, field observations, and organised vigils intended to observe the reported phenomena directly. Supporters viewed this as evidence of unusually thorough follow-up for a Peruvian UFO case. Critics argue that most resulting evidence still consisted primarily of testimony rather than independently verifiable measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
+Several accounts describe Choy making repeated investigative trips from Lima to the Piura region. These visits included interviews with witnesses, field observations, and organised vigils intended to observe the reported phenomena directly. Supporters viewed this as evidence of unusually thorough follow-up for a Peruvian UFO case. Critics argue that most resulting evidence still consisted primarily of testimony rather than independently verifiable measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
 
-The Chulucanas case also became linked to discussions surrounding Peru’s earlier air force UFO office, the Office for Investigation of Anomalous Aerial Phenomena, and later conversations about official transparency. Although Chulucanas was not equivalent to a military encounter such as La Joya, the case gained symbolic importance because investigators presented it as an example of a report receiving more structured attention than typical civilian sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Anthony_Choy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anthony Choy</span><span class="citation-popover-snippet">Anthony Choy</span></span></span>
+The Chulucanas case also became linked to discussions surrounding Peru’s earlier air force UFO office, the Office for Investigation of Anomalous Aerial Phenomena, and later conversations about official transparency. Although Chulucanas was not equivalent to a military encounter such as La Joya, the case gained symbolic importance because investigators presented it as an example of a report receiving more structured attention than typical civilian sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Anthony_Choy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anthony Choy</span><span class="citation-popover-snippet">Anthony Choy</span></span></span>
 
 <img src="{{ "/assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-2-dark.svg" | relative_url }}" alt="Chulucanas illustration 2" data-theme-src-dark="{{ "/assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_chulucanas_hotspot_b5b798-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What witnesses claimed to see versus what can be confirmed
@@ -300,7 +300,7 @@ Witnesses commonly described:
 * Objects remaining visible for extended periods.
 * Apparent formation changes.
 * Lights that seemed to merge or separate.
-* Repeated observations over months or years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
+* Repeated observations over months or years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">project 33 chulucanas incident perus ufo office</span><span class="citation-popover-snippet">UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</span></span></span>
 
 </div>
 
@@ -311,7 +311,7 @@ What can be confirmed with greater confidence is much narrower:
 * Numerous reports were made by local residents.
 * Investigators travelled to the region and conducted field inquiries.
 * Chulucanas became widely known within Peruvian UFO research circles.
-* The case helped reinforce the idea that northern Peru contained a recurring concentration of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
+* The case helped reinforce the idea that northern Peru contained a recurring concentration of sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span>
 
 </div>
 
@@ -324,203 +324,203 @@ Several conventional explanations remain plausible. Atmospheric effects, astrono
 
 The long-term significance of Chulucanas lies less in what was observed and more in how the reports influenced Peruvian UFO culture. The case helped establish a pattern that would appear repeatedly across Peru: clusters of local sightings becoming nationally known through media attention, investigator involvement, and claims of recurring activity.
 
-Within Peru’s broader UFO chronology, Chulucanas occupies a middle ground between the high-profile military narrative of La Joya and the many weaker modern social-media sightings that quickly appear and disappear. It generated enough witness testimony to become memorable, but not enough technical documentation to settle the debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Peru&#x27;s UFO investigations office to be reopened</span><span class="citation-popover-snippet">Two weeks ago, local media reported that villagers in Marabamba, in Peru&#x27;s central Huanuco region...Read more...</span></span></span>
+Within Peru’s broader UFO chronology, Chulucanas occupies a middle ground between the high-profile military narrative of La Joya and the many weaker modern social-media sightings that quickly appear and disappear. It generated enough witness testimony to become memorable, but not enough technical documentation to settle the debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Peru&#x27;s UFO investigations office to be reopened</span><span class="citation-popover-snippet">Two weeks ago, local media reported that villagers in Marabamba, in Peru&#x27;s central Huanuco region...Read more...</span></span></span>
 
 That ambiguity explains why the case remains relevant. For believers, Chulucanas demonstrates that certain regions appear to produce recurring unexplained aerial phenomena over long periods. For skeptics, it illustrates how a location can acquire hotspot status through repetition, publicity, and community expectation even when objective evidence remains limited.
 
-More than two decades after the main reports, Chulucanas continues to be cited whenever Peru’s UFO history is discussed. Its importance rests not on definitive proof, but on its role in turning a regional series of sightings into one of the country’s enduring UFO reference points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsA missile facility malfunction was claimed to be linked to a UFO report by Robert Salas.... &quot;Govt offic...</span></span></span>
+More than two decades after the main reports, Chulucanas continues to be cited whenever Peru’s UFO history is discussed. Its importance rests not on definitive proof, but on its role in turning a regional series of sightings into one of the country’s enduring UFO reference points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</span><span class="citation-popover-meta">Published: February 2002</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsA missile facility malfunction was claimed to be linked to a UFO report by Robert Salas.... &quot;Govt offic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-fVrocQ0Ed0" title="Why The Peruvian Government Said The Alien Mummies Were A Hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-fVrocQ0Ed0" target="_blank" rel="noopener noreferrer">Why The Peruvian Government Said The Alien Mummies Were A Hoax</a></p><p class="youtube-embed-meta">Channel: Howie Mandel Does Stuff Clips &middot; Views: 2.8K &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-fVrocQ0Ed0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-fVrocQ0Ed0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Chulucanas Became Peru&#x27;s UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Chulucanas Became Peru&#x27;s UFO Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects civilian sightings and official investigations, matching the Chulucanas reporting theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects civilian sightings and official investigations, matching the Chulucanas reporting theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines witness testimony and evidence standards similar to those discussed in Chulucanas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony and evidence standards similar to those discussed in Chulucanas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how recurring local hotspot stories become part of UFO folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how recurring local hotspot stories become part of UFO folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Helps explain why regional UFO hotspots gain cultural significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why regional UFO hotspots gain cultural significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-chulucanas-became-peru-s-ufo-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ More than two decades after the main reports, Chulucanas continues to be cited w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ More than two decades after the main reports, Chulucanas continues to be cited w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ More than two decades after the main reports, Chulucanas continues to be cited w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ More than two decades after the main reports, Chulucanas continues to be cited w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ More than two decades after the main reports, Chulucanas continues to be cited w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,87 +723,86 @@ More than two decades after the main reports, Chulucanas continues to be cited w
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general54/chulu.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</p></details>
+   Link:<a href="https://rense.com/general54/chulu.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general54/chulu.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Chulucanas Incident And Other ConceptsAnthony Choy from February 2002 took him from Lima seven trips of studies to this beautiful reg...</p></details>
    Published: February 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Anthony Choy  
-   Link: <a href="https://es.wikipedia.org/wiki/Anthony_Choy" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Anthony_Choy</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Anthony_Choy" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Anthony_Choy</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsA missile facility malfunction was claimed to be linked to a UFO report by Robert Salas.... &quot;Govt offic...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsA missile facility malfunction was claimed to be linked to a UFO report by Robert Salas.... &quot;Govt offic...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufoinsight.com  
    Title: project 33 chulucanas incident perus ufo office  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/project-33-chulucanas-incident-perus-ufo-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightProject 33, The Chulucanas Incident, And Peru&#x27;s Official...23 Feb 2023 — On the evening of October 13th, 2001, over the town...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
    Title: The Guardian Peru's UFO investigations office to be reopened  
-   Link: <a href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two weeks ago, local media reported that villagers in Marabamba, in Peru&#x27;s central Huanuco region...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two weeks ago, local media reported that villagers in Marabamba, in Peru&#x27;s central Huanuco region...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/ezsbhb/ufo_shows_up_during_live_broadcast_on_peruvian_tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ezsbhb/ufo_shows_up_during_live_broadcast_on_peruvian_tv/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shows up during live broadcast on Peruvian TVAnthony Choy being surprised by the event. The supposed luminous object was seen intermi...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/ezsbhb/ufo_shows_up_during_live_broadcast_on_peruvian_tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ezsbhb/ufo_shows_up_during_live_broadcast_on_peruvian_tv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shows up during live broadcast on Peruvian TVAnthony Choy being surprised by the event. The supposed luminous object was seen intermi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/381436784/Trabajo-Ingles-Ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/381436784/Trabajo-Ingles-Ovnis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Over Piura, Peru | PDF | Young AdultThree unidentified flying object sightings were reported over Piura, Peru in October an...</p></details>
+   Link:<a href="https://www.scribd.com/document/381436784/Trabajo-Ingles-Ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/381436784/Trabajo-Ingles-Ovnis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Over Piura, Peru | PDF | Young AdultThree unidentified flying object sightings were reported over Piura, Peru in October an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/videos/ufo-sighting-in-peru-alien-encounters-fact-or-fiction/792836366213286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/videos/ufo-sighting-in-peru-alien-encounters-fact-or-fiction/792836366213286/</a>  
+   Link:<a href="https://www.facebook.com/Discovery/videos/ufo-sighting-in-peru-alien-encounters-fact-or-fiction/792836366213286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/videos/ufo-sighting-in-peru-alien-encounters-fact-or-fiction/792836366213286/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G6Tw4uXyQis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6Tw4uXyQis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Peru YesterdayBodycam: Cops Investigate Alleged UFO Crash and &#x27;Green Colored&#x27; Alien Sighting in Las Vegas. Law&amp;Crime Network &amp;midd...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G6Tw4uXyQis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6Tw4uXyQis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Peru YesterdayBodycam: Cops Investigate Alleged UFO Crash and &#x27;Green Colored&#x27; Alien Sighting in Las Vegas. Law&amp;Crime Network &amp;midd...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual hovering streak was reportedly filmed by a man while watching sunset at...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newcastleherald/posts/a-ufo-has-been-reported-in-the-skies-above-orange-in-nsw-the-unusual-hovering-st/763032622528800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual hovering streak was reportedly filmed by a man while watching sunset at...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 1972, one of Peru&#x27;s most famous UFO encounters took place. It happened in broad daylight and the saucer&#x27;s alien...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 1972, one of Peru&#x27;s most famous UFO encounters took place. It happened in broad daylight and the saucer&#x27;s alien...Read more...</p></details>
    Published: February 3, 1972  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ufoinsightcom/posts/project-33-the-chulucanas-incident-and-perus-official-ufo-office-from-the-ufo-in/672451698480785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/project-33-the-chulucanas-incident-and-perus-official-ufo-office-from-the-ufo-in/672451698480785/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 33, The Chulucanas Incident, And Peru&#x27;s Official UFO Office - UFO Insight.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ufoinsightcom/posts/project-33-the-chulucanas-incident-and-perus-official-ufo-office-from-the-ufo-in/672451698480785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/project-33-the-chulucanas-incident-and-perus-official-ufo-office-from-the-ufo-in/672451698480785/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 33, The Chulucanas Incident, And Peru&#x27;s Official UFO Office - UFO Insight.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: UF O and orb sightings in Peru linked to ancient migration  
-   Link: <a href="https://www.facebook.com/rod.miller/posts/orb-migrationmigration-of-a-ancient-unknown-people-along-with-their-unknown-enti/10230253656185681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rod.miller/posts/orb-migrationmigration-of-a-ancient-unknown-people-along-with-their-unknown-enti/10230253656185681/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chulucanas Incident (2001): Hundreds observed eight red-orange spheres moving intelligently for over five hours in Chulucanas, northern P...</p></details>
+   Link:<a href="https://www.facebook.com/rod.miller/posts/orb-migrationmigration-of-a-ancient-unknown-people-along-with-their-unknown-enti/10230253656185681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rod.miller/posts/orb-migrationmigration-of-a-ancient-unknown-people-along-with-their-unknown-enti/10230253656185681/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chulucanas Incident (2001): Hundreds observed eight red-orange spheres moving intelligently for over five hours in Chulucanas, northern P...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1ia2enb/when_a_ufo_interrupted_the_filming_of_a_tv_show/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ia2enb/when_a_ufo_interrupted_the_filming_of_a_tv_show/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with those of a typical kite. Dr. Anthony Choy, a former...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1ia2enb/when_a_ufo_interrupted_the_filming_of_a_tv_show/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ia2enb/when_a_ufo_interrupted_the_filming_of_a_tv_show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with those of a typical kite. Dr. Anthony Choy, a former...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anthonychoyoficial/posts/las-investigaciones-de-anthony-choy-en-nat-geo-national-geographic-el-incidente-/2605712116123740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anthonychoyoficial/posts/las-investigaciones-de-anthony-choy-en-nat-geo-national-geographic-el-incidente-/2605712116123740/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>neeus, a Chilean UFO investigator, told Open Minds UFO...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/anthonychoyoficial/posts/las-investigaciones-de-anthony-choy-en-nat-geo-national-geographic-el-incidente-/2605712116123740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anthonychoyoficial/posts/las-investigaciones-de-anthony-choy-en-nat-geo-national-geographic-el-incidente-/2605712116123740/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>neeus, a Chilean UFO investigator, told Open Minds UFO...Read more...</p></details>

@@ -254,20 +254,20 @@ image: /assets/images/Canada_cd6a7b_canada_uap_reporting_c0f289-Illustration-1-s
 
 ## Introduction
 
-Canada does not have a single national office responsible for receiving, analysing, and publicly managing reports of unidentified aerial phenomena (UAP). Instead, reports are scattered across aviation safety systems, military channels, local police responses, civilian research groups, and public tip lines. The result is a fragmented structure in which many sightings are logged but relatively few are systematically investigated, standardised, or compared across agencies. Recent federal reviews under the Sky Canada Project concluded that this patchwork approach weakens data quality, complicates verification, and fuels public confusion about what the government is actually monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Reports filed in...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">Canada. They include:.Read more...</span></span></span>
+Canada does not have a single national office responsible for receiving, analysing, and publicly managing reports of unidentified aerial phenomena (UAP). Instead, reports are scattered across aviation safety systems, military channels, local police responses, civilian research groups, and public tip lines. The result is a fragmented structure in which many sightings are logged but relatively few are systematically investigated, standardised, or compared across agencies. Recent federal reviews under the Sky Canada Project concluded that this patchwork approach weakens data quality, complicates verification, and fuels public confusion about what the government is actually monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Reports filed in...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">Canada. They include:.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Canada_cd6a7b_canada_uap_reporting_c0f289-Illustration-1-dark.svg" | relative_url }}" alt="Reporting illustration 1" data-theme-src-dark="{{ "/assets/images/Canada_cd6a7b_canada_uap_reporting_c0f289-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Canada_cd6a7b_canada_uap_reporting_c0f289-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The debate is no longer mainly about whether UFO reports are “real” in an extraordinary sense. It is increasingly about governance: who collects the data, what counts as credible evidence, when aviation or defence authorities become involved, and whether Canada should create a dedicated reporting structure similar to systems used in some other countries. That question has become more visible after renewed international attention to military UAP encounters in the United States and the publication of Canada’s own Sky Canada review in 2025. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
+The debate is no longer mainly about whether UFO reports are “real” in an extraordinary sense. It is increasingly about governance: who collects the data, what counts as credible evidence, when aviation or defence authorities become involved, and whether Canada should create a dedicated reporting structure similar to systems used in some other countries. That question has become more visible after renewed international attention to military UAP encounters in the United States and the publication of Canada’s own Sky Canada review in 2025.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
 
 ## How UAP Reports Move Through Canada Today
 
 Canada’s current reporting landscape is divided by mandate rather than by phenomenon. Different agencies handle different parts of the problem, and none acts as a central coordinating authority for all civilian UAP reports.
 
-Transport Canada operates the Civil Aviation Daily Occurrence Reporting System (CADORS), which receives aviation-related incident information from NAV CANADA, airports, operators, pilots, and other sources. UAP sightings affecting aviation safety can enter this system if they are considered operationally relevant. CADORS was designed for aviation occurrences generally, not as a scientific UAP database, but it has become one of the few publicly searchable federal repositories containing modern Canadian sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[2search.open.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">em (CADORS) in which unidentified aerial phenomena are captured.Read more...</span></span></span>
+Transport Canada operates the Civil Aviation Daily Occurrence Reporting System (CADORS), which receives aviation-related incident information from NAV CANADA, airports, operators, pilots, and other sources. UAP sightings affecting aviation safety can enter this system if they are considered operationally relevant. CADORS was designed for aviation occurrences generally, not as a scientific UAP database, but it has become one of the few publicly searchable federal repositories containing modern Canadian sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[2search.open.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">em (CADORS) in which unidentified aerial phenomena are captured.Read more...</span></span></span>
 
-At the same time, the Department of National Defence and the Royal Canadian Air Force may receive reports through military or sovereignty-monitoring channels, particularly if an object is considered a potential airspace or security concern. However, most civilian sightings never reach defence systems unless they intersect with national security, NORAD operations, or controlled airspace incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News UFO data collection, analysis by feds could dispel</span><span class="citation-popover-snippet">Global NewsUFO data collection, analysis by feds could dispel...July 18, 2025 — 18 Jul 2025 — The report notes Transport Canada currentl...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
+At the same time, the Department of National Defence and the Royal Canadian Air Force may receive reports through military or sovereignty-monitoring channels, particularly if an object is considered a potential airspace or security concern. However, most civilian sightings never reach defence systems unless they intersect with national security, NORAD operations, or controlled airspace incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News UFO data collection, analysis by feds could dispel</span><span class="citation-popover-snippet">Global NewsUFO data collection, analysis by feds could dispel...July 18, 2025 — 18 Jul 2025 — The report notes Transport Canada currentl...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
 
-Public reports can also move through entirely non-government paths. Civilian organisations such as Ufology Research have historically gathered sighting reports from Canadians and produced annual [surveys]({{ 'surveys/' | relative_url }}) documenting national trends. In practice, some sightings are reported only to civilian researchers and never enter federal systems at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+Public reports can also move through entirely non-government paths. Civilian organisations such as Ufology Research have historically gathered sighting reports from Canadians and produced annual [surveys]({{ 'surveys/' | relative_url }}) documenting national trends. In practice, some sightings are reported only to civilian researchers and never enter federal systems at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 This creates several structural problems:
 
@@ -281,7 +281,7 @@ This creates several structural problems:
 
 </div>
 
-The Sky Canada review described the situation as “fragmented” and “haphazard”, noting that multiple federal organisations receive information with “little coordination or oversight”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
+The Sky Canada review described the situation as “fragmented” and “haphazard”, noting that multiple federal organisations receive information with “little coordination or oversight”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
 
 ## Why Fragmentation Matters More Than It First Appears
 
@@ -291,15 +291,15 @@ The absence of a central office is not simply an administrative inconvenience. I
 
 Most sightings are anecdotal by nature. That makes consistency especially important. Investigators need comparable timestamps, weather conditions, radar data, witness numbers, photographic metadata, flight information, and observational context.
 
-Without a unified intake system, reports arrive in incompatible forms. A pilot submission in CADORS may contain technical aviation details, while a civilian email to a local UFO organisation may contain only narrative description. Police observations may never be cross-referenced with either source. The Sky Canada review argued that inconsistent collection methods hinder scientific assessment and long-term pattern analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Why is it that you are referring to UAPs instead of UFOs?Read more</span><span class="citation-popover-snippet">Questions and Answers about the Sky Canada ProjectJan 15, 2025 — The list of consulted organizations is included in the Sky Canada previe...</span></span></span>
+Without a unified intake system, reports arrive in incompatible forms. A pilot submission in CADORS may contain technical aviation details, while a civilian email to a local UFO organisation may contain only narrative description. Police observations may never be cross-referenced with either source. The Sky Canada review argued that inconsistent collection methods hinder scientific assessment and long-term pattern analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Why is it that you are referring to UAPs instead of UFOs?Read more</span><span class="citation-popover-snippet">Questions and Answers about the Sky Canada ProjectJan 15, 2025 — The list of consulted organizations is included in the Sky Canada previe...</span></span></span>
 
-This problem becomes particularly significant in aviation cases. Pilots and air traffic controllers are among the most technically trained observers, but reporting pathways remain uneven. The Sky Canada report specifically recommended encouraging aviation professionals to report sightings more systematically and reducing uncertainty about how those reports are handled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial...Enhance reporting capacity in civil aviation: Trans- port Canada shou...</span></span></span>
+This problem becomes particularly significant in aviation cases. Pilots and air traffic controllers are among the most technically trained observers, but reporting pathways remain uneven. The Sky Canada report specifically recommended encouraging aviation professionals to report sightings more systematically and reducing uncertainty about how those reports are handled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial...Enhance reporting capacity in civil aviation: Trans- port Canada shou...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cu-Yv3thTEI" title="Canadian journalist calls for total government transparency on UAP reports | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer">Canadian journalist calls for total government transparency on UAP reports | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 252.7K &middot; Uploaded: October 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cu-Yv3thTEI">Open on YouTube</a></p></div></div></div>
 
 ### The Public Often Does Not Know Where Reports Go
 
-One striking finding from the Sky Canada public survey was widespread confusion about whether any Canadian organisation investigates UAP reports at all. Many respondents believed some agency must exist but could not identify one by name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial...Enhance reporting capacity in civil aviation: Trans- port Canada shou...</span></span></span>
+One striking finding from the Sky Canada public survey was widespread confusion about whether any Canadian organisation investigates UAP reports at all. Many respondents believed some agency must exist but could not identify one by name.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial...Enhance reporting capacity in civil aviation: Trans- port Canada shou...</span></span></span>
 
 That ambiguity has practical consequences. If witnesses do not know whether reporting systems are serious, scientific, or permanent, they may avoid filing reports entirely. Others may submit reports only through informal online communities, reducing the chance of preserving useful observational evidence.
 
@@ -307,7 +307,7 @@ The lack of clarity also feeds conspiracy narratives. When data is dispersed acr
 
 ### Historical Records Became Difficult to Integrate
 
-Canada’s archival UFO history reflects the same decentralised pattern. Records from the mid-twentieth century were spread across the Department of National Defence, Transport Canada, the National Research Council, and the RCMP. Today, Library and [Archives]({{ 'archives-85c745/' | relative_url }}) Canada holds thousands of digitised files, but many were created under incompatible reporting practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</span></span></span>
+Canada’s archival UFO history reflects the same decentralised pattern. Records from the mid-twentieth century were spread across the Department of National Defence, Transport Canada, the National Research Council, and the RCMP. Today, Library and [Archives]({{ 'archives-85c745/' | relative_url }}) Canada holds thousands of digitised files, but many were created under incompatible reporting practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</span></span></span>
 
 The historical outcome is a large archive without a consistent methodology linking decades of observations. Researchers can identify notable cases, but long-term statistical comparison is difficult because agencies often recorded sightings for entirely different reasons.
 
@@ -319,7 +319,7 @@ Advocates for a national UAP office in Canada usually frame the issue as one of 
 
 A central office could establish standard reporting templates for pilots, military personnel, police, and civilians. That would allow reports from different provinces and agencies to be compared using the same evidentiary criteria.
 
-The Sky Canada review suggested that Canada identify a lead organisation capable of coordinating reporting, communication, and scientific engagement. One proposal discussed in the review was a federally trusted scientific body with international research links, potentially including the Canadian Space Agency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
+The Sky Canada review suggested that Canada identify a lead organisation capable of coordinating reporting, communication, and scientific engagement. One proposal discussed in the review was a federally trusted scientific body with international research links, potentially including the Canadian Space Agency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
 
 In practical terms, centralisation could enable:
 
@@ -341,7 +341,7 @@ The value would not necessarily lie in “solving” sightings. It would lie in 
 
 Aviation remains the strongest practical justification for a central system.
 
-Canadian pilots have periodically reported unusual lights, manoeuvres, or objects near flight paths. Most cases are ultimately unresolved rather than extraordinary, but unresolved aerial observations can still matter operationally. A poorly identified drone, atmospheric phenomenon, balloon, satellite flare, or unknown object can affect pilot decision-making in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[2search.open.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">em (CADORS) in which unidentified aerial phenomena are captured.Read more...</span></span></span>
+Canadian pilots have periodically reported unusual lights, manoeuvres, or objects near flight paths. Most cases are ultimately unresolved rather than extraordinary, but unresolved aerial observations can still matter operationally. A poorly identified drone, atmospheric phenomenon, balloon, satellite flare, or unknown object can affect pilot decision-making in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[2search.open.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">em (CADORS) in which unidentified aerial phenomena are captured.Read more...</span></span></span>
 
 A central office could separate aviation-safety triage from public speculation. Instead of leaving reports buried in general occurrence systems, analysts could examine recurring patterns, regional concentrations, altitude trends, or technological misidentifications.
 
@@ -361,7 +361,7 @@ The Sky Canada review repeatedly stressed transparency and public communication.
 
 </div>
 
-That approach resembles models used abroad, particularly France’s GEIPAN programme, which publicly categorises cases according to evidentiary strength and identification status. Canadian reviewers cited such international examples as potentially useful governance models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
+That approach resembles models used abroad, particularly France’s GEIPAN programme, which publicly categorises cases according to evidentiary strength and identification status. Canadian reviewers cited such international examples as potentially useful governance models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
 
 A transparent framework could also help separate unresolved cases from exaggerated internet narratives. Many UAP reports remain unexplained because evidence is insufficient, not because evidence confirms extraordinary origins.
 
@@ -375,7 +375,7 @@ Even supporters of reform acknowledge that creating a permanent UAP office would
 
 The core problem is evidentiary. The majority of sightings lack enough information for definitive analysis. Witness accounts may be sincere yet still impossible to verify scientifically.
 
-Transport Canada has previously noted that many unidentified-object reports fall outside its regulatory mandate and are difficult to follow up because the objects are, by definition, unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kesq.com/cnn-regional/2022/05/06/canadian-defence-minister-was-briefed-on-ufos-ahead-of-u-s-intel-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kesq.com">[KESQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kesq.com</span><span class="citation-popover-snippet">Canadian defence minister was briefed on UFOs ahead of...May 6, 2022 — A spokesperson from Transport Canada told CTVNews.ca that UFO...</span><span class="citation-popover-meta">Published: May 6, 2022</span></span></span>
+Transport Canada has previously noted that many unidentified-object reports fall outside its regulatory mandate and are difficult to follow up because the objects are, by definition, unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kesq.com/cnn-regional/2022/05/06/canadian-defence-minister-was-briefed-on-ufos-ahead-of-u-s-intel-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kesq.com">[KESQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kesq.com</span><span class="citation-popover-snippet">Canadian defence minister was briefed on UFOs ahead of...May 6, 2022 — A spokesperson from Transport Canada told CTVNews.ca that UFO...</span><span class="citation-popover-meta">Published: May 6, 2022</span></span></span>
 
 This creates a dilemma for policymakers. A dedicated office could improve consistency, but it cannot guarantee resolution. Governments are cautious about building permanent structures around phenomena that rarely produce recoverable physical evidence or repeatable observations.
 
@@ -403,7 +403,7 @@ A unified office would need clear boundaries defining what counts as a security 
 
 There is also concern that creating a formal UAP office might unintentionally legitimise speculative claims beyond the available evidence.
 
-The Sky Canada material carefully framed the issue around reporting management rather than confirmation of anomalous craft. Its emphasis was administrative and scientific: improving data collection, transparency, and literacy while reducing misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
+The Sky Canada material carefully framed the issue around reporting management rather than confirmation of anomalous craft. Its emphasis was administrative and scientific: improving data collection, transparency, and literacy while reducing misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceq.ca">[SpaceQ Media Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceq.ca</span><span class="citation-popover-snippet">SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
 
 That distinction matters politically. Governments may support better reporting standards while avoiding any implication that extraordinary explanations are likely.
 
@@ -411,7 +411,7 @@ That distinction matters politically. Governments may support better reporting s
 
 Canada’s modern UAP debate increasingly centres on institutional design rather than individual sightings. The major question is no longer whether unexplained aerial reports exist; decades of archives already show they do. The real issue is whether a modern state should treat those reports as scattered curiosities or as data requiring coordinated oversight.
 
-The Sky Canada Project marked the clearest federal acknowledgement in decades that Canada’s current reporting structure is fragmented and poorly understood by the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">report sky canada project</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — The Sky Canada Project has highlighted several gaps and areas for...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Reports filed in...Read more...</span></span></span>
+The Sky Canada Project marked the clearest federal acknowledgement in decades that Canada’s current reporting structure is fragmented and poorly understood by the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">report sky canada project</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — The Sky Canada Project has highlighted several gaps and areas for...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Reports filed in...Read more...</span></span></span>
 
 At the same time, the review stopped short of endorsing a dramatic investigative apparatus. Instead, it framed the problem as one of governance capacity: standardisation, transparency, aviation safety, scientific coordination, and public communication.
 
@@ -420,194 +420,194 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QGf_HpSxhM8" title="Canada Gets Serious About UFOs - the Sky Canada Project Report Preview (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QGf_HpSxhM8" target="_blank" rel="noopener noreferrer">Canada Gets Serious About UFOs - the Sky Canada Project Report Preview (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts &middot; Views: 80 &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QGf_HpSxhM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QGf_HpSxhM8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Canada Have One UAP Reporting Office?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Canada Have One UAP Reporting Office?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Directly addresses reporting systems, evidence quality, and investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses reporting systems, evidence quality, and investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how official agencies process unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how official agencies process unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official reporting channels and credible witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official reporting channels and credible witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Relevant to discussions about centralised reporting and government record keeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions about centralised reporting and government record keeping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-canada-have-one-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-canada-have-one-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -727,7 +727,7 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -772,7 +772,7 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,179 +813,179 @@ That leaves Canada in an unusual middle position. It has extensive historical ar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports filed in...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports filed in...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada. They include:.Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada. They include:.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</p></details>
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...May 29, 2025 — Canada&#x27;s Sky Canada Project explores how to manag...</p></details>
    Published: May 29, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: Why is it that you are referring to UAPs instead of UFOs?Read more  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions and Answers about the Sky Canada ProjectJan 15, 2025 — The list of consulted organizations is included in the Sky Canada previe...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Questions and Answers about the Sky Canada ProjectJan 15, 2025 — The list of consulted organizations is included in the Sky Canada previe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports CanadaAug 11, 2023 — The purpose of the system is to provide initial information on occurrenc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>em (CADORS) in which unidentified aerial phenomena are captured.Read more...</p></details>
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>em (CADORS) in which unidentified aerial phenomena are captured.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaManagement of Public Reporting of Unidentified Aerial...Enhance reporting capacity in civil aviation: Trans- port Canada shou...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaManagement of Public Reporting of Unidentified Aerial...Enhance reporting capacity in civil aviation: Trans- port Canada shou...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.gc.ca  
    Title: report sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — The Sky Canada Project has highlighted several gaps and areas for...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — The Sky Canada Project has highlighted several gaps and areas for...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs) in Canada? Caption text. Response, %. Yes, 2%. Yes, but I don... Chart 15: Do you think reports of UAP (UFO) sightings are somethi...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs) in Canada? Caption text. Response, %. Yes, 2%. Yes, but I don... Chart 15: Do you think reports of UAP (UFO) sightings are somethi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kesq.com  
-   Link: <a href="https://kesq.com/cnn-regional/2022/05/06/canadian-defence-minister-was-briefed-on-ufos-ahead-of-u-s-intel-report/" target="_blank" rel="noopener noreferrer nofollow">https://kesq.com/cnn-regional/2022/05/06/canadian-defence-minister-was-briefed-on-ufos-ahead-of-u-s-intel-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian defence minister was briefed on UFOs ahead of...May 6, 2022 — A spokesperson from Transport Canada told CTVNews.ca that UFO...</p></details>
+   Link:<a href="https://kesq.com/cnn-regional/2022/05/06/canadian-defence-minister-was-briefed-on-ufos-ahead-of-u-s-intel-report/" target="_blank" rel="noopener noreferrer nofollow">https://kesq.com/cnn-regional/2022/05/06/canadian-defence-minister-was-briefed-on-ufos-ahead-of-u-s-intel-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian defence minister was briefed on UFOs ahead of...May 6, 2022 — A spokesperson from Transport Canada told CTVNews.ca that UFO...</p></details>
    Published: May 6, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Project3 Dec 2025 — Management of Public Reporting of Unidentified Aerial Phenomena in Canada - Report of the Sky C...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Project3 Dec 2025 — Management of Public Reporting of Unidentified Aerial Phenomena in Canada - Report of the Sky C...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Management" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ManagementManagement (or managing) is the administration of organizations, whether businesses, nonprofit organizations, or government...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Management" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ManagementManagement (or managing) is the administration of organizations, whether businesses, nonprofit organizations, or government...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Magnet (Canada)  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Magnet_%28Canada%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Magnet_%28Canada%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Magnet (Canada)... UFO question and to recommend government action. Smith reported to Second Storey on some of Project Magnet&#x27;...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Magnet_%28Canada%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Magnet_%28Canada%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Magnet (Canada)... UFO question and to recommend government action. Smith reported to Second Storey on some of Project Magnet&#x27;...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ised-isde.canada.ca  
    Title: questions and answers about sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, a brief update on the status of the project was provided on February 27...Read more...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, a brief update on the status of the project was provided on February 27...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/money-business/leadership-management/managing-and-managing-people/content-section-1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/money-business/leadership-management/managing-and-managing-people/content-section-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 What do managers actually do? | OpenLearnIt is the planning, organising, leading and controlling of human and other resources to achiev...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/money-business/leadership-management/managing-and-managing-people/content-section-1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/money-business/leadership-management/managing-and-managing-people/content-section-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 What do managers actually do? | OpenLearnIt is the planning, organising, leading and controlling of human and other resources to achiev...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cu-Yv3thTEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Gets Serious About UFOs - the Sky Canada Project Report Preview (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cu-Yv3thTEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Gets Serious About UFOs - the Sky Canada Project Report Preview (with Chris Rutkowski)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Canada Gets Serious About UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=QGf_HpSxhM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QGf_HpSxhM8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Just Released 162 UFO Files. A Canadian Forces Insider Read Every One...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QGf_HpSxhM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QGf_HpSxhM8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Just Released 162 UFO Files. A Canadian Forces Insider Read Every One...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalnews.ca  
    Title: Global News UFO data collection, analysis by feds could dispel  
-   Link: <a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsUFO data collection, analysis by feds could dispel...July 18, 2025 — 18 Jul 2025 — The report notes Transport Canada currentl...</p></details>
+   Link:<a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsUFO data collection, analysis by feds could dispel...July 18, 2025 — 18 Jul 2025 — The report notes Transport Canada currentl...</p></details>
    Published: July 18, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/management" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe control and organization of something, esp. a business and its employees. He assumed manageme...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/management" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe control and organization of something, esp. a business and its employees. He assumed manageme...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/science/sky-canada-project-our-perspective-on-transparency-collaboration-and-the-path-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/science/sky-canada-project-our-perspective-on-transparency-collaboration-and-the-path-forward</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada Project Releases Preview to March 2025 UFO...16 Jan 2025 — This report highlights how UAP sightings are managed and proposes...</p></details>
+   Link:<a href="https://www.experiencersupport.org/science/sky-canada-project-our-perspective-on-transparency-collaboration-and-the-path-forward" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/science/sky-canada-project-our-perspective-on-transparency-collaboration-and-the-path-forward</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada Project Releases Preview to March 2025 UFO...16 Jan 2025 — This report highlights how UAP sightings are managed and proposes...</p></details>
    Published: March 2025  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaMore than 1000 UFO sightings were reported across Canada in 2025, according to the latest Canadian UFO Survey. A total of 10...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaMore than 1000 UFO sightings were reported across Canada in 2025, according to the latest Canadian UFO Survey. A total of 10...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hgZ_2Y0_6d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hgZ_2Y0_6d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual object spotted on Winnipeg flightAn incident report has been filed with Transport Canada after an unusual object was spotted on a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hgZ_2Y0_6d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hgZ_2Y0_6d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual object spotted on Winnipeg flightAn incident report has been filed with Transport Canada after an unusual object was spotted on a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: coastreporter.net  
    Title: some of the best known canadian ufo sightings over the years 10960648  
-   Link: <a href="https://www.coastreporter.net/national-news/some-of-the-best-known-canadian-ufo-sightings-over-the-years-10960648" target="_blank" rel="noopener noreferrer nofollow">https://www.coastreporter.net/national-news/some-of-the-best-known-canadian-ufo-sightings-over-the-years-10960648</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial Phenomena in... This report by The Canadian Press was first published July 18, 2025...</p></details>
+   Link:<a href="https://www.coastreporter.net/national-news/some-of-the-best-known-canadian-ufo-sightings-over-the-years-10960648" target="_blank" rel="noopener noreferrer nofollow">https://www.coastreporter.net/national-news/some-of-the-best-known-canadian-ufo-sightings-over-the-years-10960648</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial Phenomena in... This report by The Canadian Press was first published July 18, 2025...</p></details>
    Published: July 18, 2025  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy What Is the Sky Canada Project?  
-   Link: <a href="https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space Economy11 Nov 2025 — The report&#x27;s central finding is that Canada does not have one broken system for UAP reporting; it has seve...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space Economy11 Nov 2025 — The report&#x27;s central finding is that Canada does not have one broken system for UAP reporting; it has seve...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bolc.co.uk  
-   Link: <a href="https://www.bolc.co.uk/bolc-blog/what-is-management" target="_blank" rel="noopener noreferrer nofollow">https://www.bolc.co.uk/bolc-blog/what-is-management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ving predetermined goals and objectives. Management involves...Read more...</p></details>
+   Link:<a href="https://www.bolc.co.uk/bolc-blog/what-is-management" target="_blank" rel="noopener noreferrer nofollow">https://www.bolc.co.uk/bolc-blog/what-is-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ving predetermined goals and objectives. Management involves...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: merriam-webster.com  
    Title: MANAGEMEN T Definition & Meaning4 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/management" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The act or art of managing: the conducting or supervising of something (such as a business) Business improved under the management of ne...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/management" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The act or art of managing: the conducting or supervising of something (such as a business) Business improved under the management of ne...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fliegerfaust.com  
    Title: uap ufo aviation safety pilot reporting data  
-   Link: <a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — On December 3, 2025, the Office of the Chief Science Advisor publi...</p></details>
+   Link:<a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — On December 3, 2025, the Office of the Chief Science Advisor publi...</p></details>
    Published: December 3, 2025

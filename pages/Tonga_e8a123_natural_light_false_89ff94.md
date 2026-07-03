@@ -261,11 +261,11 @@ Two categories matter especially when evaluating reports from Tonga: volcanic li
 
 ## Hunga’s Lightning Storms Can Look Artificial
 
-The January 2022 eruption of the submarine volcano Hunga Tonga–Hunga Haʻapai produced one of the most extreme lightning events ever measured. Scientific monitoring networks recorded lightning activity on a scale that exceeded ordinary thunderstorms and established new records for volcanic electrical activity. Researchers documented more than 200,000 lightning flashes during the eruption sequence, with peak rates exceeding 2,600 flashes per minute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.agu.org">[AGU Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.agu.org</span><span class="citation-popover-title">tongas hunga eruption produced the most intense lightning ever recorded</span><span class="citation-popover-snippet">AGU NewsroomTonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — Tonga&#x27;s Hunga eruption produced the most intense lightning...</span></span></span> [3Wikipedia 3Nature]
+The January 2022 eruption of the submarine volcano Hunga Tonga–Hunga Haʻapai produced one of the most extreme lightning events ever measured. Scientific monitoring networks recorded lightning activity on a scale that exceeded ordinary thunderstorms and established new records for volcanic electrical activity. Researchers documented more than 200,000 lightning flashes during the eruption sequence, with peak rates exceeding 2,600 flashes per minute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.agu.org">[AGU Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.agu.org</span><span class="citation-popover-title">tongas hunga eruption produced the most intense lightning ever recorded</span><span class="citation-popover-snippet">AGU NewsroomTonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — Tonga&#x27;s Hunga eruption produced the most intense lightning...</span></span></span> [3Wikipedia 3Nature]
 
 For anyone observing from a distance, this was not ordinary lightning.
 
-The eruption column rose tens of kilometres into the atmosphere and generated dense ash clouds, shock waves and rapidly expanding plume structures. Satellite observations showed a volcanic column reaching extraordinary heights, while lightning detectors tracked electrical discharges spreading through the ash cloud in complex rings and clusters. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL102341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">AGU PublicationsLightning Rings and Gravity Waves: Insights Into the Giant...by AR Van Eaton · 2023 · Cited by 41 — On 15 January 2022...</span><span class="citation-popover-meta">Published: January 2022</span></span></span>
+The eruption column rose tens of kilometres into the atmosphere and generated dense ash clouds, shock waves and rapidly expanding plume structures. Satellite observations showed a volcanic column reaching extraordinary heights, while lightning detectors tracked electrical discharges spreading through the ash cloud in complex rings and clusters. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL102341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">AGU PublicationsLightning Rings and Gravity Waves: Insights Into the Giant...by AR Van Eaton · 2023 · Cited by 41 — On 15 January 2022...</span><span class="citation-popover-meta">Published: January 2022</span></span></span>
 
 Several characteristics make volcanic lightning easy to misinterpret:
 
@@ -279,7 +279,7 @@ Several characteristics make volcanic lightning easy to misinterpret:
 
 </div>
 
-During the Hunga event, observers were witnessing a phenomenon so unusual that scientists themselves described it as the most intense lightning ever recorded. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">tongas hunga eruption produced most intense lightning ever recorded</span><span class="citation-popover-snippet">Tonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — The eruption produced 2,600 flashes per minute at peak intensity. Scien...</span></span></span>
+During the Hunga event, observers were witnessing a phenomenon so unusual that scientists themselves described it as the most intense lightning ever recorded. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">tongas hunga eruption produced most intense lightning ever recorded</span><span class="citation-popover-snippet">Tonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — The eruption produced 2,600 flashes per minute at peak intensity. Scien...</span></span></span>
 
 That matters for UFO analysis because witness descriptions often focus on visual appearance rather than physical cause. A person seeing repeated flashes emerge from a massive dark formation above the horizon could reasonably describe luminous objects, glowing spheres or structured lights even when the underlying mechanism is volcanic.
 
@@ -287,7 +287,7 @@ That matters for UFO analysis because witness descriptions often focus on visual
 
 Many countries experience thunderstorms. Far fewer experience explosive submarine volcanism on Tonga’s scale.
 
-Hunga Tonga–Hunga Haʻapai sits within the highly active Tonga–Kermadec volcanic arc, one of the world's most geologically energetic regions. The combination of seawater, volcanic ash, expanding gas and atmospheric instability creates visual effects that are uncommon elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami</span><span class="citation-popover-snippet">2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami</span></span></span>
+Hunga Tonga–Hunga Haʻapai sits within the highly active Tonga–Kermadec volcanic arc, one of the world's most geologically energetic regions. The combination of seawater, volcanic ash, expanding gas and atmospheric instability creates visual effects that are uncommon elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami</span><span class="citation-popover-snippet">2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami</span></span></span>
 
 For UFO researchers, timing becomes important.
 
@@ -303,7 +303,7 @@ A report of unusual lights near periods of volcanic unrest should be examined al
 
 </div>
 
-The 2022 eruption demonstrated that volcanic activity can generate lights visible over enormous distances and create atmospheric disturbances that spread far beyond the immediate volcano. Researchers tracked pressure waves and atmospheric effects propagating around the globe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-01943-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underwater volcano triggered the most intense lightning...by M CONTROLS · 2023 — The huge eruption of the Hunga Tonga–Hunga Ha&#x27;apa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2208.13473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On Tsunami Waves induced by Atmospheric Pressure Shock Waves after the 2022 Hunga Tonga-Hunga Ha&#x27;apai Volcano Eruption...</span></span></span>
+The 2022 eruption demonstrated that volcanic activity can generate lights visible over enormous distances and create atmospheric disturbances that spread far beyond the immediate volcano. Researchers tracked pressure waves and atmospheric effects propagating around the globe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-01943-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underwater volcano triggered the most intense lightning...by M CONTROLS · 2023 — The huge eruption of the Hunga Tonga–Hunga Ha&#x27;apa...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2208.13473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On Tsunami Waves induced by Atmospheric Pressure Shock Waves after the 2022 Hunga Tonga-Hunga Ha&#x27;apai Volcano Eruption...</span></span></span>
 
 This does not mean every unusual light near Tonga is volcanic. It means volcanic explanations cannot be ignored in a region where the sky itself can become electrically active on a historic scale.
 
@@ -313,7 +313,7 @@ This does not mean every unusual light near Tonga is volcanic. It means volcanic
 
 A different category of false alarm comes from the ocean rather than the volcano.
 
-Across parts of Polynesia, sailors have long described unusual luminous phenomena seen on or near the sea surface. Accounts often describe flashes, streaks or directional lights that appear to originate from islands and travel across the water. The phenomenon is commonly referred to as *te lapa*, usually translated as a flashing or shimmering light associated with traditional ocean navigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mastermariners.org.au/stories-from-the-past/5211-the-enigmatic-te-lapa-lights-utilized-by-polynesians-for-ocean-navigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mastermariners.org.au">[Master Mariners]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mastermariners.org.au</span><span class="citation-popover-snippet">Master MarinersThe Enigmatic Te Lapa lights, Utilized by Polynesians for...The term denotes a light, usually reflected upon the surface...</span></span></span>
+Across parts of Polynesia, sailors have long described unusual luminous phenomena seen on or near the sea surface. Accounts often describe flashes, streaks or directional lights that appear to originate from islands and travel across the water. The phenomenon is commonly referred to as *te lapa*, usually translated as a flashing or shimmering light associated with traditional ocean navigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mastermariners.org.au/stories-from-the-past/5211-the-enigmatic-te-lapa-lights-utilized-by-polynesians-for-ocean-navigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mastermariners.org.au">[Master Mariners]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mastermariners.org.au</span><span class="citation-popover-snippet">Master MarinersThe Enigmatic Te Lapa lights, Utilized by Polynesians for...The term denotes a light, usually reflected upon the surface...</span></span></span>
 
 The important point is not whether every traditional account is literally accurate. The important point is that experienced navigators reported seeing recurring luminous effects that they believed had practical navigational value.
 
@@ -344,7 +344,7 @@ Researchers and navigators have proposed several possibilities:
 * **Reflections from distant sources** magnified by unusual atmospheric conditions.
 * **Wave interactions** that create moving reflective surfaces.
 * **Reef and swell effects** producing visible light patterns across the water.
-* **Combinations of natural luminescence and optical distortion.** <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hunga Tonga–Hunga Haʻapai</span><span class="citation-popover-snippet">April 29, 2026 — Hunga Tonga–Hunga Haʻapai is a submarine volcano in the South Pacific located about 30 km (19 mi) south of the submar...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+* **Combinations of natural luminescence and optical distortion.**<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hunga Tonga–Hunga Haʻapai</span><span class="citation-popover-snippet">April 29, 2026 — Hunga Tonga–Hunga Haʻapai is a submarine volcano in the South Pacific located about 30 km (19 mi) south of the submar...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
 </div>
 
@@ -418,199 +418,199 @@ Many historical UFO reports remain unresolved because these details were never r
 
 The most useful role of volcanic lightning and sea-light traditions is not to debunk every sighting. It is to improve the quality of analysis.
 
-The 2022 Hunga eruption showed that Tonga can generate luminous atmospheric events on a scale so extreme that scientists initially struggled to understand them. At the same time, Polynesian maritime traditions preserve accounts of unusual sea-level lights that have been observed for generations and remain only partially explained. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">tongas hunga eruption produced most intense lightning ever recorded</span><span class="citation-popover-snippet">Tonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — The eruption produced 2,600 flashes per minute at peak intensity. Scien...</span></span></span>
+The 2022 Hunga eruption showed that Tonga can generate luminous atmospheric events on a scale so extreme that scientists initially struggled to understand them. At the same time, Polynesian maritime traditions preserve accounts of unusual sea-level lights that have been observed for generations and remain only partially explained. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">tongas hunga eruption produced most intense lightning ever recorded</span><span class="citation-popover-snippet">Tonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — The eruption produced 2,600 flashes per minute at peak intensity. Scien...</span></span></span>
 
 Taken together, these phenomena explain why some dramatic reports from Tonga may ultimately have natural origins. They also explain why the strongest cases are not the ones that merely describe strange lights. The stronger cases are the ones that can demonstrate something beyond the extraordinary skies and seas that Tonga already provides.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Tonga&#x27;s Sky Looks Like a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Tonga&#x27;s Sky Looks Like a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Explains how unusual natural lights become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual natural lights become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports understanding of unusual lights visible in dark-sky environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports understanding of unusual lights visible in dark-sky environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Volcanoes and the earth&#x27;s interior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7146283-M.jpg" alt="Cover for Volcanoes and the earth&#x27;s interior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes and the earth&#x27;s interior">Volcanoes and the earth&#x27;s interior</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Decker, Barbara Decker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Volcanoes and the earth&#x27;s interior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7146283-M.jpg" alt="Cover for Volcanoes and the earth&#x27;s interior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes and the earth&#x27;s interior">Volcanoes and the earth&#x27;s interior</a>
+</h4>
+<p class="fr-book-author">By Robert W. Decker, Barbara Decker</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Internal structure, Volcanoes, Earthquakes &amp; Volcanoes, Nature, Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Internal structure, Volcanoes, Earthquakes &amp; Volcanoes, Nature, Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anomaly+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Anomaly+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anomaly">Anomaly</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Coumbe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anomaly+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Anomaly+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anomaly">Anomaly</a>
+</h4>
+<p class="fr-book-author">By Daniel Coumbe</p>
         
-        <p class="fr-book-desc">Connects unusual sightings to scientific investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Anomaly+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects unusual sightings to scientific investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Anomaly+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Volcanoes and the earth&#x27;s interior</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Volcanoes and the earth&#x27;s interior</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tonga-s-sky-looks-like-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-tonga-s-sky-looks-like-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ Taken together, these phenomena explain why some dramatic reports from Tonga may
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ Taken together, these phenomena explain why some dramatic reports from Tonga may
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ Taken together, these phenomena explain why some dramatic reports from Tonga may
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ Taken together, these phenomena explain why some dramatic reports from Tonga may
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ Taken together, these phenomena explain why some dramatic reports from Tonga may
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,144 +816,144 @@ Taken together, these phenomena explain why some dramatic reports from Tonga may
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami  
-   Link: <a href="https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-01943-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-01943-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Underwater volcano triggered the most intense lightning...by M CONTROLS · 2023 — The huge eruption of the Hunga Tonga–Hunga Ha&#x27;apa...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-023-01943-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-01943-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underwater volcano triggered the most intense lightning...by M CONTROLS · 2023 — The huge eruption of the Hunga Tonga–Hunga Ha&#x27;apa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: usgs.gov  
    Title: tongas hunga eruption produced most intense lightning ever recorded  
-   Link: <a href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — The eruption produced 2,600 flashes per minute at peak intensity. Scien...</p></details>
+   Link:<a href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — The eruption produced 2,600 flashes per minute at peak intensity. Scien...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.agu.org  
    Title: tongas hunga eruption produced the most intense lightning ever recorded  
-   Link: <a href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow">https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AGU NewsroomTonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — Tonga&#x27;s Hunga eruption produced the most intense lightning...</p></details>
+   Link:<a href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow">https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AGU NewsroomTonga&#x27;s Hunga eruption produced the most intense...20 Jun 2023 — Tonga&#x27;s Hunga eruption produced the most intense lightning...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-022-05012-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-022-05012-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A global-scale wave...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-022-05012-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-022-05012-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A global-scale wave...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43247-022-00606-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-022-00606-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eruption chronology of the December 2021 to January...by AK Gupta · 2022 · Cited by 75 — The 15 January 2022 eruption of Hunga Tonga-Hun...</p></details>
+   Link:<a href="https://www.nature.com/articles/s43247-022-00606-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-022-00606-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eruption chronology of the December 2021 to January...by AK Gupta · 2022 · Cited by 75 — The 15 January 2022 eruption of Hunga Tonga-Hun...</p></details>
    Published: December 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Hunga Tonga–Hunga Haʻapai  
-   Link: <a href="https://en.wikipedia.org/wiki/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Hunga Tonga–Hunga Haʻapai is a submarine volcano in the South Pacific located about 30 km (19 mi) south of the submar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Hunga Tonga–Hunga Haʻapai is a submarine volcano in the South Pacific located about 30 km (19 mi) south of the submar...</p></details>
    Published: April 29, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.13473" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.13473</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On Tsunami Waves induced by Atmospheric Pressure Shock Waves after the 2022 Hunga Tonga-Hunga Ha&#x27;apai Volcano Eruption...</p></details>
+   Link:<a href="https://arxiv.org/abs/2208.13473" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.13473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Tsunami Waves induced by Atmospheric Pressure Shock Waves after the 2022 Hunga Tonga-Hunga Ha&#x27;apai Volcano Eruption...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2303.04362" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.04362</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disturbances in the Doppler frequency shift of ionospheric signal and in telluric current caused by the atmospheric waves from an ex...</p></details>
+   Link:<a href="https://arxiv.org/abs/2303.04362" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.04362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disturbances in the Doppler frequency shift of ionospheric signal and in telluric current caused by the atmospheric waves from an ex...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Te lapa  
-   Link: <a href="https://en.wikipedia.org/wiki/Te_lapa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Te_lapa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Te_lapa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Te_lapa</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43247-022-00618-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-022-00618-z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexpected radiative impact of the Hunga Tonga...by P Sellitto · 2022 · Cited by 133 — We find that the Hunga Tonga-Hunga Ha-apai er...</p></details>
+   Link:<a href="https://www.nature.com/articles/s43247-022-00618-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-022-00618-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexpected radiative impact of the Hunga Tonga...by P Sellitto · 2022 · Cited by 133 — We find that the Hunga Tonga-Hunga Ha-apai er...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43247-025-02875-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-025-02875-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient ice ring observed during the 15 January 2022...by AT Prata · 2025 — Volcanic lightning reveals umbrella cloud dynamics of the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s43247-025-02875-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-025-02875-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transient ice ring observed during the 15 January 2022...by AT Prata · 2025 — Volcanic lightning reveals umbrella cloud dynamics of the...</p></details>
    Published: January 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: agupubs.onlinelibrary.wiley.com  
-   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL102341" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL102341</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AGU PublicationsLightning Rings and Gravity Waves: Insights Into the Giant...by AR Van Eaton · 2023 · Cited by 41 — On 15 January 2022...</p></details>
+   Link:<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL102341" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL102341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AGU PublicationsLightning Rings and Gravity Waves: Insights Into the Giant...by AR Van Eaton · 2023 · Cited by 41 — On 15 January 2022...</p></details>
    Published: January 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mastermariners.org.au  
-   Link: <a href="https://www.mastermariners.org.au/stories-from-the-past/5211-the-enigmatic-te-lapa-lights-utilized-by-polynesians-for-ocean-navigation" target="_blank" rel="noopener noreferrer nofollow">https://www.mastermariners.org.au/stories-from-the-past/5211-the-enigmatic-te-lapa-lights-utilized-by-polynesians-for-ocean-navigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Master MarinersThe Enigmatic Te Lapa lights, Utilized by Polynesians for...The term denotes a light, usually reflected upon the surface...</p></details>
+   Link:<a href="https://www.mastermariners.org.au/stories-from-the-past/5211-the-enigmatic-te-lapa-lights-utilized-by-polynesians-for-ocean-navigation" target="_blank" rel="noopener noreferrer nofollow">https://www.mastermariners.org.au/stories-from-the-past/5211-the-enigmatic-te-lapa-lights-utilized-by-polynesians-for-ocean-navigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master MarinersThe Enigmatic Te Lapa lights, Utilized by Polynesians for...The term denotes a light, usually reflected upon the surface...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Te Lapa  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious Polynesia phenomenonTe Lapa is an unsolved phenomenon that ancient and modern Polynesians used to navigate the Pacific Oce...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious Polynesia phenomenonTe Lapa is an unsolved phenomenon that ancient and modern Polynesians used to navigate the Pacific Oce...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOAASatellites/posts/for-full-disk-friday-we-look-back-four-years-to-the-massive-eruption-of-the-hung/1307805578058528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAASatellites/posts/for-full-disk-friday-we-look-back-four-years-to-the-massive-eruption-of-the-hung/1307805578058528/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Satellite and Information ServiceExperience the dramatic eruption of the Hunga Tonga volcano on January 15, 2022, captured in stunni...</p></details>
+   Link:<a href="https://www.facebook.com/NOAASatellites/posts/for-full-disk-friday-we-look-back-four-years-to-the-massive-eruption-of-the-hung/1307805578058528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAASatellites/posts/for-full-disk-friday-we-look-back-four-years-to-the-massive-eruption-of-the-hung/1307805578058528/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Satellite and Information ServiceExperience the dramatic eruption of the Hunga Tonga volcano on January 15, 2022, captured in stunni...</p></details>
    Published: January 15, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lacma.org  
-   Link: <a href="https://www.lacma.org/lab/project/te-lapa-polynesian-navigation-illuminated" target="_blank" rel="noopener noreferrer nofollow">https://www.lacma.org/lab/project/te-lapa-polynesian-navigation-illuminated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Te Lapa: Polynesian Navigation IlluminatedAncient Polynesian navigation techniques with new technology, including “Te Lapa”: a faint burs...</p></details>
+   Link:<a href="https://www.lacma.org/lab/project/te-lapa-polynesian-navigation-illuminated" target="_blank" rel="noopener noreferrer nofollow">https://www.lacma.org/lab/project/te-lapa-polynesian-navigation-illuminated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Te Lapa: Polynesian Navigation IlluminatedAncient Polynesian navigation techniques with new technology, including “Te Lapa”: a faint burs...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/the-most-intense-lightning-storm-ever-recorded-was-sparked-by-the-hunga-tonga-eruption/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-most-intense-lightning-storm-ever-recorded-was-sparked-by-the-hunga-tonga-eruption/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Intense Lightning Storm Ever Recorded Was...Jun 21, 2023 — The January 2022 eruption of the Hunga Tonga–Hunga Haʻapai volcano g...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/the-most-intense-lightning-storm-ever-recorded-was-sparked-by-the-hunga-tonga-eruption/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-most-intense-lightning-storm-ever-recorded-was-sparked-by-the-hunga-tonga-eruption/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Intense Lightning Storm Ever Recorded Was...Jun 21, 2023 — The January 2022 eruption of the Hunga Tonga–Hunga Haʻapai volcano g...</p></details>
    Published: January 2022  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/what-are-the-te-lapa-lights-that-ancient-polynesians-used-to-navigate-the-oceans-67971" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/what-are-the-te-lapa-lights-that-ancient-polynesians-used-to-navigate-the-oceans-67971</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are The Te Lapa Lights That Ancient Polynesians...Mar 14, 2023 — Te Lapa is described as a blinking pulse of light that emanates fr...</p></details>
+   Link:<a href="https://www.iflscience.com/what-are-the-te-lapa-lights-that-ancient-polynesians-used-to-navigate-the-oceans-67971" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/what-are-the-te-lapa-lights-that-ancient-polynesians-used-to-navigate-the-oceans-67971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are The Te Lapa Lights That Ancient Polynesians...Mar 14, 2023 — Te Lapa is described as a blinking pulse of light that emanates fr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: universetoday.com  
    Title: the most intense lightning ever seen came from last years tonga volcano eruption  
-   Link: <a href="https://www.universetoday.com/articles/the-most-intense-lightning-ever-seen-came-from-last-years-tonga-volcano-eruption" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-most-intense-lightning-ever-seen-came-from-last-years-tonga-volcano-eruption</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Intense Lightning Ever Seen Came From Last...21 June 2023 — Scientists studying the eruption say the volcanic plume created rec...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/the-most-intense-lightning-ever-seen-came-from-last-years-tonga-volcano-eruption" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-most-intense-lightning-ever-seen-came-from-last-years-tonga-volcano-eruption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Intense Lightning Ever Seen Came From Last...21 June 2023 — Scientists studying the eruption say the volcanic plume created rec...</p></details>
    Published: June 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vOPwcoFwWpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vOPwcoFwWpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Underwater Lightning Real? The Te Lapa Mystery... Polynesian Navigation and Te Lapa— “The Flashing”, Time and Mind: TheJournal of Arch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vOPwcoFwWpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vOPwcoFwWpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Underwater Lightning Real? The Te Lapa Mystery... Polynesian Navigation and Te Lapa— “The Flashing”, Time and Mind: TheJournal of Arch...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
    Title: tonga undersea volcano eruption record breaking lightning  
-   Link: <a href="https://www.space.com/tonga-undersea-volcano-eruption-record-breaking-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/tonga-undersea-volcano-eruption-record-breaking-lightning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga undersea volcano created most intense lightning...Jun 20, 2023 — The plume produced the most intense lightning storm ever seen, wi...</p></details>
+   Link:<a href="https://www.space.com/tonga-undersea-volcano-eruption-record-breaking-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/tonga-undersea-volcano-eruption-record-breaking-lightning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga undersea volcano created most intense lightning...Jun 20, 2023 — The plume produced the most intense lightning storm ever seen, wi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 261594890 Polynesian Navigation and Te Lapa The Flashing  
-   Link: <a href="https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Polynesian Navigation and Te Lapa— “The Flashing”Nov 28, 2013 — Various scientific facts and theories about bioluminescence and electroma...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Polynesian Navigation and Te Lapa— “The Flashing”Nov 28, 2013 — Various scientific facts and theories about bioluminescence and electroma...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/tonga-volcano-sparked-the-most-intense-lightning-storm-ever-recorded-180982431/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/tonga-volcano-sparked-the-most-intense-lightning-storm-ever-recorded-180982431/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga Volcano Sparked the Most Intense Lightning Storm...Jun 27, 2023 — At its peak, the raging lighting storm produced 2,600 flashes pe...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/tonga-volcano-sparked-the-most-intense-lightning-storm-ever-recorded-180982431/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/tonga-volcano-sparked-the-most-intense-lightning-storm-ever-recorded-180982431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga Volcano Sparked the Most Intense Lightning Storm...Jun 27, 2023 — At its peak, the raging lighting storm produced 2,600 flashes pe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalgeographic.com  
    Title: record setting lightning hunga volcano tonga  
-   Link: <a href="https://www.nationalgeographic.com/premium/article/record-setting-lightning-hunga-volcano-tonga" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/premium/article/record-setting-lightning-hunga-volcano-tonga</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga&#x27;s volcanic eruption triggered a staggering...28 Jun 2023 — The 2022 Hunga volcanic eruption created the most intense lightning eve...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/premium/article/record-setting-lightning-hunga-volcano-tonga" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/premium/article/record-setting-lightning-hunga-volcano-tonga</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga&#x27;s volcanic eruption triggered a staggering...28 Jun 2023 — The 2022 Hunga volcanic eruption created the most intense lightning eve...</p></details>

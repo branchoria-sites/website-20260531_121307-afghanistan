@@ -1194,88 +1194,88 @@ image: /assets/images/Belarus_027a12-overview-social.jpg
 
 ## Why Belarusian UFO evidence is unusually archive-dependent
 
-The central source for Belarusian UFO and anomalous-phenomena material is UfoCom, a Belarus-based research community whose online catalogue organises reports by region and includes UFOs, anomalous atmospheric phenomena, ball lightning, crop circles, ghosts, alleged contacts and other categories. Its own database warning is important: publication in the catalogue does not mean a case is genuine or reliable, because the group cannot verify every report and some entries consist of media clippings or witness submissions rather than full investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The central source for Belarusian UFO and anomalous-phenomena material is UfoCom, a Belarus-based research community whose online catalogue organises reports by region and includes UFOs, anomalous atmospheric phenomena, ball lightning, crop circles, ghosts, alleged contacts and other categories. Its own database warning is important: publication in the catalogue does not mean a case is genuine or reliable, because the group cannot verify every report and some entries consist of media clippings or witness submissions rather than full investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Belarus_027a12-overview.webp" | relative_url }}" alt="Overview image for What Belarus UFO Reports Really Show" loading="eager" decoding="sync" fetchpriority="high">
-That caveat matters because Belarus has no obvious public equivalent of a sustained official UFO disclosure programme. The most significant “official-adjacent” material appears through Soviet-era anomalous-phenomena correspondence rather than through a Belarusian state UFO office. UfoCom’s work on the [archives]({{ 'archives-d25b34/' | relative_url }}) of the Soviet Commission on Anomalous Phenomena describes how reports from the Belarusian Soviet Socialist Republic were not handled by a fully functioning local branch; letters were routed mainly through Moscow, Leningrad and Kyiv structures, leaving the Belarusian record scattered and incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That caveat matters because Belarus has no obvious public equivalent of a sustained official UFO disclosure programme. The most significant “official-adjacent” material appears through Soviet-era anomalous-phenomena correspondence rather than through a Belarusian state UFO office. UfoCom’s work on the [archives]({{ 'archives-d25b34/' | relative_url }}) of the Soviet Commission on Anomalous Phenomena describes how reports from the Belarusian Soviet Socialist Republic were not handled by a fully functioning local branch; letters were routed mainly through Moscow, Leningrad and Kyiv structures, leaving the Belarusian record scattered and incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same archive study says the Soviet commission’s purpose was to collect anomalous aerospace reports across the USSR, but that many submissions were filtered out when they appeared to describe rocket launches, artificial satellites, barium or sodium cloud experiments, mundane phenomena, low-information letters or “contactee” correspondence. That is a crucial point for Belarus: the historical record is not just a list of mysteries, but a record already shaped by selection, forwarding, rejection and later recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same archive study says the Soviet commission’s purpose was to collect anomalous aerospace reports across the USSR, but that many submissions were filtered out when they appeared to describe rocket launches, artificial satellites, barium or sodium cloud experiments, mundane phenomena, low-information letters or “contactee” correspondence. That is a crucial point for Belarus: the historical record is not just a list of mysteries, but a record already shaped by selection, forwarding, rejection and later recovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## A compact chronology of Belarusian UFO reporting
 
 Belarusian UFO history is best read as a set of reporting waves rather than a continuous stream of high-quality cases.
 
-The earliest catalogue entries include luminous sky reports from the late nineteenth century. UfoCom’s entry for Minsk in March 1892, drawn from the periodical press, describes letters about a bright point in the sky, larger than a comet, with changing light and beams. Such reports are historically interesting because they show that “strange lights” long predate the flying-saucer era, but they are also weak as evidence: they come through period writing, lack modern instrumental data and sit close to astronomy, meteorology and atmospheric-optics explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The earliest catalogue entries include luminous sky reports from the late nineteenth century. UfoCom’s entry for Minsk in March 1892, drawn from the periodical press, describes letters about a bright point in the sky, larger than a comet, with changing light and beams. Such reports are historically interesting because they show that “strange lights” long predate the flying-saucer era, but they are also weak as evidence: they come through period writing, lack modern instrumental data and sit close to astronomy, meteorology and atmospheric-optics explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Soviet period supplies richer but still difficult material. UfoCom’s archive work on Belarusian Soviet correspondence includes cases from the 1940s through the mid-1980s and shows that witness letters were often preserved outside Belarus itself. A 1984 Molodechno case, for example, appears in the archive as a report of a horseshoe-shaped object with white rays, but it belongs to a class of accounts whose credibility depends heavily on the surviving letter, not on independent physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Soviet period supplies richer but still difficult material. UfoCom’s archive work on Belarusian Soviet correspondence includes cases from the 1940s through the mid-1980s and shows that witness letters were often preserved outside Belarus itself. A 1984 Molodechno case, for example, appears in the archive as a report of a horseshoe-shaped object with white rays, but it belongs to a class of accounts whose credibility depends heavily on the surviving letter, not on independent physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The late 1980s and early 1990s were the publicity wave. UfoCom’s later commentary notes that the end of the Soviet period and the early post-Soviet years brought a surge of UFO stories across the former Soviet space, with Belarus no exception; unusual encounters appeared frequently in the press before the topic gradually lost its novelty. That media environment helps explain why some Belarusian cases became widely repeated while remaining thinly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/ufocomm?before=65" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The late 1980s and early 1990s were the publicity wave. UfoCom’s later commentary notes that the end of the Soviet period and the early post-Soviet years brought a surge of UFO stories across the former Soviet space, with Belarus no exception; unusual encounters appeared frequently in the press before the topic gradually lost its novelty. That media environment helps explain why some Belarusian cases became widely repeated while remaining thinly documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/ufocomm?before=65" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2000s brought a more systematic amateur-research phase. UfoCom’s 2009 annual review reported 38 separate Belarusian UFO reports for that year, calling it a record for the group’s own collection, with previous peaks in 2001 and 2007. The same review stressed that not all reports remained unexplained after analysis, and that the pattern might reflect collection activity, seasonality or reporting behaviour rather than an objective increase in anomalous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2000s brought a more systematic amateur-research phase. UfoCom’s 2009 annual review reported 38 separate Belarusian UFO reports for that year, calling it a record for the group’s own collection, with previous peaks in 2001 and 2007. The same review stressed that not all reports remained unexplained after analysis, and that the pattern might reflect collection activity, seasonality or reporting behaviour rather than an objective increase in anomalous objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Belarus_027a12-Illustration-1-dark.svg" | relative_url }}" alt="What Belarus UFO Reports Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Belarus_027a12-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1984 Minsk airliner case: Belarus’s most important contested UFO story
 
-The best-known Belarus-linked UFO case occurred near Minsk on 7 September 1984, when an Aeroflot passenger aircraft crew reported a spectacular luminous phenomenon at about 4:10 a.m. Later retellings turned the case into a major Soviet UFO incident involving changing shapes, beams of light, radar attention, other aircraft and alleged injuries or illness among crew. James Oberg’s detailed sceptical analysis in *Skeptical Inquirer* treats the case as a major lesson in how dramatic UFO narratives can grow from incomplete and repeated accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The best-known Belarus-linked UFO case occurred near Minsk on 7 September 1984, when an Aeroflot passenger aircraft crew reported a spectacular luminous phenomenon at about 4:10 a.m. Later retellings turned the case into a major Soviet UFO incident involving changing shapes, beams of light, radar attention, other aircraft and alleged injuries or illness among crew. James Oberg’s detailed sceptical analysis in *Skeptical Inquirer* treats the case as a major lesson in how dramatic UFO narratives can grow from incomplete and repeated accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-The case’s power comes from its apparent strengths: trained aviation witnesses, a specific time, a large luminous object, alleged radar interest and later claims of medical consequences. But those strengths weaken under close examination. Oberg notes that over the years the story was repeatedly retold rather than checked, and that some of its most dramatic elements, including claims about a pilot’s later death from cancer or crew illness caused by the encounter, could not be traced to original firsthand sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The case’s power comes from its apparent strengths: trained aviation witnesses, a specific time, a large luminous object, alleged radar interest and later claims of medical consequences. But those strengths weaken under close examination. Oberg notes that over the years the story was repeatedly retold rather than checked, and that some of its most dramatic elements, including claims about a pilot’s later death from cancer or crew illness caused by the encounter, could not be traced to original firsthand sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-Oberg’s proposed explanation is not a casual dismissal. He compared the Minsk account with simultaneous sightings from Sweden and Finland and argued that the vectors converged away from Minsk, toward the far north, making a local object interacting with the Belarusian aircraft unlikely. He then connected the visual sequence — bright light, halos, cloudiness, rays, tail-like forms and streamers — to a probable naval missile launch from the Murmansk or Barents Sea region, with the aircraft crew misjudging distance and threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+Oberg’s proposed explanation is not a casual dismissal. He compared the Minsk account with simultaneous sightings from Sweden and Finland and argued that the vectors converged away from Minsk, toward the far north, making a local object interacting with the Belarusian aircraft unlikely. He then connected the visual sequence — bright light, halos, cloudiness, rays, tail-like forms and streamers — to a probable naval missile launch from the Murmansk or Barents Sea region, with the aircraft crew misjudging distance and threat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-The case is still not “closed” in the strict documentary sense, because Oberg says Russian release of missile-test records would be needed to prove the launch hypothesis completely. But as a credibility assessment, the [Minsk case]({{ 'minsk-case/' | relative_url }}) belongs in the “strongly contested and probably explained” category rather than the “confirmed anomalous craft” category. It is also the single most useful Belarusian example of why exact dates, viewing directions, simultaneous reports and original logs matter more than dramatic retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The case is still not “closed” in the strict documentary sense, because Oberg says Russian release of missile-test records would be needed to prove the launch hypothesis completely. But as a credibility assessment, the [Minsk case]({{ 'minsk-case/' | relative_url }}) belongs in the “strongly contested and probably explained” category rather than the “confirmed anomalous craft” category. It is also the single most useful Belarusian example of why exact dates, viewing directions, simultaneous reports and original logs matter more than dramatic retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 ## Regional variation: why Minsk and Brest loom larger than the map itself
 
-UfoCom’s regional catalogue gives the clearest public picture of Belarusian geographical variation. Its observation page lists reports by region and, at the time accessed, showed 87 entries for Brest region, 94 for Vitebsk, 94 for Gomel, 45 for Grodno, 229 for Minsk region and 130 for Mogilev. These figures should not be read as a literal heat map of unknown aerial objects. They are better understood as a mixture of population density, researcher presence, reporting channels, local press access and database history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+UfoCom’s regional catalogue gives the clearest public picture of Belarusian geographical variation. Its observation page lists reports by region and, at the time accessed, showed 87 entries for Brest region, 94 for Vitebsk, 94 for Gomel, 45 for Grodno, 229 for Minsk region and 130 for Mogilev. These figures should not be read as a literal heat map of unknown aerial objects. They are better understood as a mixture of population density, researcher presence, reporting channels, local press access and database history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-UfoCom’s own 2009 review makes this caution explicit. It found that reports that year were unevenly distributed, with Brest and Minsk prominent, but attributed that partly to denser monitoring by the group’s members. The review also noted a summer peak in July and August, plausibly linked to holidays and people spending more time outdoors, which is exactly the kind of social factor that can change sighting frequency without any change in the sky itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+UfoCom’s own 2009 review makes this caution explicit. It found that reports that year were unevenly distributed, with Brest and Minsk prominent, but attributed that partly to denser monitoring by the group’s members. The review also noted a summer peak in July and August, plausibly linked to holidays and people spending more time outdoors, which is exactly the kind of social factor that can change sighting frequency without any change in the sky itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Minsk dominates because it combines population, media attention, aviation relevance and nearby region-level reporting. Brest matters because UfoCom has had active investigators and local teams there, which increases the chance that stories are collected and preserved. Grodno’s lower count may reflect fewer reports, but it may also reflect weaker collection. In other words, Belarus’s UFO geography is partly an evidence map, partly a human network map. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Minsk dominates because it combines population, media attention, aviation relevance and nearby region-level reporting. Brest matters because UfoCom has had active investigators and local teams there, which increases the chance that stories are collected and preserved. Grodno’s lower count may reflect fewer reports, but it may also reflect weaker collection. In other words, Belarus’s UFO geography is partly an evidence map, partly a human network map.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The project’s map page reinforces that broader scope. It is not just a UFO map, but a map of UFOs, anomalous atmospheric phenomena, poltergeist reports, ghosts, crop circles, ball lightning, fireballs, light pillars, anomalous zones and other unusual narratives across the Republic of Belarus and the former BSSR. That makes it useful for cultural and regional study, but it also means the dataset is deliberately broader than a narrow aviation-safety or military UAP archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The project’s map page reinforces that broader scope. It is not just a UFO map, but a map of UFOs, anomalous atmospheric phenomena, poltergeist reports, ghosts, crop circles, ball lightning, fireballs, light pillars, anomalous zones and other unusual narratives across the Republic of Belarus and the former BSSR. That makes it useful for cultural and regional study, but it also means the dataset is deliberately broader than a narrow aviation-safety or military UAP archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Belarus_027a12-Illustration-2-dark.svg" | relative_url }}" alt="What Belarus UFO Reports Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/Belarus_027a12-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked: a practical split
 
 A fair Belarusian evidence split starts by separating “confirmed report” from “confirmed object”. Many Belarusian cases are confirmed only in the modest sense that a report, letter, article or database entry exists. That is not trivial: it preserves witness narratives and local memory. But it does not prove an extraordinary object.
 
-**Confirmed as reports, not as alien craft.** The UfoCom catalogue, Soviet commission archive material and annual reviews confirm that Belarus has a substantial body of collected UFO and anomalous-phenomena reports. The 2009 review confirms a reporting peak within UfoCom’s own collection, and the Soviet archive work confirms that Belarusian letters existed inside wider USSR anomalous-phenomena systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[2ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as reports, not as alien craft.** The UfoCom catalogue, Soviet commission archive material and annual reviews confirm that Belarus has a substantial body of collected UFO and anomalous-phenomena reports. The 2009 review confirms a reporting peak within UfoCom’s own collection, and the Soviet archive work confirms that Belarusian letters existed inside wider USSR anomalous-phenomena systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[2ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested cases.** The 1984 Minsk airliner case remains the headline example. It has named aviation context, a precise time and a powerful narrative, but the best available sceptical reconstruction gives it a plausible missile-launch explanation and identifies narrative inflation around health effects and proximity. It is therefore a strong case for studying misperception and Cold War secrecy, not a strong case for non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+**Contested cases.** The 1984 Minsk airliner case remains the headline example. It has named aviation context, a precise time and a powerful narrative, but the best available sceptical reconstruction gives it a plausible missile-launch explanation and identifies narrative inflation around health effects and proximity. It is therefore a strong case for studying misperception and Cold War secrecy, not a strong case for non-human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-**Likely mundane or debunked cases.** UfoCom’s own analysis repeatedly points to ordinary causes. Its 2009 review explicitly classifies cases by whether they can be identified with known natural or technological phenomena, whether better data might identify them, whether information is insufficient, or whether a detailed case remains unidentified. The same review discusses sky lanterns as a known source of Belarusian UFO reports: small hot-air paper lanterns can appear as orange or glowing balls, move silently, and be launched from cities and celebrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Likely mundane or debunked cases.** UfoCom’s own analysis repeatedly points to ordinary causes. Its 2009 review explicitly classifies cases by whether they can be identified with known natural or technological phenomena, whether better data might identify them, whether information is insufficient, or whether a detailed case remains unidentified. The same review discusses sky lanterns as a known source of Belarusian UFO reports: small hot-air paper lanterns can appear as orange or glowing balls, move silently, and be launched from cities and celebrations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Modern “unidentified aerial” events.** Recent Belarus-related airspace incidents often involve drones or balloons rather than classic UFO claims. In July 2025, Belarusian authorities said an “unidentified aerial asset” detected over Minsk was later identified as a UAV and brought down by electronic warfare. Lithuanian reporting the same month described unidentified drones believed to have entered from Belarus and highlighted the difficulty of detecting small, low-flying UAVs in poor weather. These are UAP in the literal sense of initially unidentified aerial phenomena, but their evidential frame is military, border-security and drone warfare rather than extraterrestrial mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.pravda.ru">[Pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.pravda.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Modern “unidentified aerial” events.** Recent Belarus-related airspace incidents often involve drones or balloons rather than classic UFO claims. In July 2025, Belarusian authorities said an “unidentified aerial asset” detected over Minsk was later identified as a UAV and brought down by electronic warfare. Lithuanian reporting the same month described unidentified drones believed to have entered from Belarus and highlighted the difficulty of detecting small, low-flying UAVs in poor weather. These are UAP in the literal sense of initially unidentified aerial phenomena, but their evidential frame is military, border-security and drone warfare rather than extraterrestrial mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.pravda.ru">[Pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.pravda.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The recurring explanations that matter most in Belarus
 
 Belarus sits under skies shaped by aviation corridors, Soviet and post-Soviet military history, meteor activity, satellites, drones, balloons and weather effects. That does not make every sighting mundane, but it sets a high bar for extraordinary interpretations.
 
-Rocket and missile activity is especially relevant to Soviet-era cases. Oberg’s Minsk analysis places the 1984 case in a wider pattern in which secret Soviet aerospace and missile activities generated spectacular light shows that witnesses interpreted as UFOs. He describes how Plesetsk launches and other military space events produced glowing clouds and lights across the north-western Soviet Union, while official secrecy often prevented immediate clarification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+Rocket and missile activity is especially relevant to Soviet-era cases. Oberg’s Minsk analysis places the 1984 case in a wider pattern in which secret Soviet aerospace and missile activities generated spectacular light shows that witnesses interpreted as UFOs. He describes how Plesetsk launches and other military space events produced glowing clouds and lights across the north-western Soviet Union, while official secrecy often prevented immediate clarification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-Meteors and fireballs are another important filter. A 2024 report indexed by the Smithsonian/NASA Astrophysics Data System describes a bright fireball recorded on 8 January 2024 by three cameras of the Belarusian Meteor Network in Minsk and Gayany, with calculations performed from the observations. That kind of instrumented event is important because a spectacular light can be real, bright and frightening while still being a natural meteoroid rather than an engineered object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Meteors and fireballs are another important filter. A 2024 report indexed by the Smithsonian/NASA Astrophysics Data System describes a bright fireball recorded on 8 January 2024 by three cameras of the Belarusian Meteor Network in Minsk and Gayany, with calculations performed from the observations. That kind of instrumented event is important because a spectacular light can be real, bright and frightening while still being a natural meteoroid rather than an engineered object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Balloons and small UAVs have become a modern source of confusion and security concern along Belarus’s borders. AP reported in 2026 that balloons used to smuggle cigarettes from Belarus had crossed into Polish airspace for a third consecutive night, with Polish authorities treating them as hybrid incidents but also saying the recent balloon episodes posed no direct threat to Polish airspace. Such cases show how “unknown object in the sky” now often belongs to smuggling, surveillance, jamming or air-defence categories before it belongs to ufology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span></span></span>
+Balloons and small UAVs have become a modern source of confusion and security concern along Belarus’s borders. AP reported in 2026 that balloons used to smuggle cigarettes from Belarus had crossed into Polish airspace for a third consecutive night, with Polish authorities treating them as hybrid incidents but also saying the recent balloon episodes posed no direct threat to Polish airspace. Such cases show how “unknown object in the sky” now often belongs to smuggling, surveillance, jamming or air-defence categories before it belongs to ufology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span></span></span>
 
-Atmospheric and consumer phenomena also matter. UfoCom’s inclusion of ball lightning, fireballs, light pillars and anomalous atmospheric phenomena in its Belarus map is not just a broad-interest choice; it reflects the practical reality that many reports begin with light, motion and surprise, not with a clearly structured craft. Its discussion of sky lanterns in the 2009 review is a reminder that newly popular consumer objects can create temporary waves of apparently strange sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Atmospheric and consumer phenomena also matter. UfoCom’s inclusion of ball lightning, fireballs, light pillars and anomalous atmospheric phenomena in its Belarus map is not just a broad-interest choice; it reflects the practical reality that many reports begin with light, motion and surprise, not with a clearly structured craft. Its discussion of sky lanterns in the 2009 review is a reminder that newly popular consumer objects can create temporary waves of apparently strange sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cCRJwIELFuA" title="13 ABC: Spacing Out: Defining the Rare &quot;Fireball Meteor&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cCRJwIELFuA" target="_blank" rel="noopener noreferrer">13 ABC: Spacing Out: Defining the Rare &quot;Fireball Meteor&quot;</a></p><p class="youtube-embed-meta">Channel: UToledo in the News &middot; Views: 511 &middot; Uploaded: November 2024 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cCRJwIELFuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cCRJwIELFuA">Open on YouTube</a></p></div></div></div>
 
 ## Official records: what exists, what is missing, and what would change the picture
 
-The Belarusian record is strongest where it intersects with recoverable archives and weakest where it relies on rumour about hidden state files. The Soviet Commission on Anomalous Phenomena archive material is valuable because it documents how reports were gathered, sorted and sometimes rejected. But it also shows why Belarusian coverage is incomplete: there was no fully functioning local Belarusian branch, and letters were dispersed through several regional channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Belarusian record is strongest where it intersects with recoverable archives and weakest where it relies on rumour about hidden state files. The Soviet Commission on Anomalous Phenomena archive material is valuable because it documents how reports were gathered, sorted and sometimes rejected. But it also shows why Belarusian coverage is incomplete: there was no fully functioning local Belarusian branch, and letters were dispersed through several regional channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2025 UfoCom interview with former senior Belarusian Interior Ministry official Ivan Yurkin is also revealing. He described UFO-related reports in official work as rare, mostly connected in Soviet thinking with military objects in northern USSR regions, and said that no resonant Belarusian cases stood out to him. He also recalled a case involving a Belarusian aircraft accompanying an object that changed shape, but the account remains a recollection rather than a released investigative file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2025 UfoCom interview with former senior Belarusian Interior Ministry official Ivan Yurkin is also revealing. He described UFO-related reports in official work as rare, mostly connected in Soviet thinking with military objects in northern USSR regions, and said that no resonant Belarusian cases stood out to him. He also recalled a case involving a Belarusian aircraft accompanying an object that changed shape, but the account remains a recollection rather than a released investigative file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For Belarus, the decisive missing material would be original air-traffic logs, radar data, meteorological records, military launch records, recovered debris analyses, dated photographs with metadata, and unedited witness interviews collected close to the event. The Minsk case shows why: without launch records, the missile explanation remains technically unproven; without original records, the more dramatic claims become easier to repeat than to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+For Belarus, the decisive missing material would be original air-traffic logs, radar data, meteorological records, military launch records, recovered debris analyses, dated photographs with metadata, and unedited witness interviews collected close to the event. The Minsk case shows why: without launch records, the missile explanation remains technically unproven; without original records, the more dramatic claims become easier to repeat than to verify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 This does not mean Belarus has no worthwhile UFO evidence. It means the evidence is strongest as a record of sightings, reporting culture, Soviet secrecy and local investigation, and much weaker as proof of extraordinary aerial technology.
 
 ## How Belarus connects to neighbouring UFO branches without losing focus
 
-Belarusian UFO material naturally links to wider post-Soviet and eastern European patterns. The 1984 Minsk case cannot be interpreted only from within Belarus, because simultaneous Scandinavian sightings and possible northern military activity are central to the explanation. Soviet archive routing also links Belarusian reports to Moscow, Leningrad and Kyiv research networks rather than to a neat national archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Belarusian UFO material naturally links to wider post-Soviet and eastern European patterns. The 1984 Minsk case cannot be interpreted only from within Belarus, because simultaneous Scandinavian sightings and possible northern military activity are central to the explanation. Soviet archive routing also links Belarusian reports to Moscow, Leningrad and Kyiv research networks rather than to a neat national archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[ufo-com.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That cross-border texture should not blur the page scope. Belarus’s distinctive value lies in how those wider forces appear locally: Minsk as the centre of the most famous aviation case, Brest and Minsk as strong reporting regions in UfoCom’s modern database, Belarusian Soviet letters as scattered archive fragments, and current border skies as a place where drones and balloons complicate the meaning of “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span></span></span> 3ufo-com.net <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.pravda.ru">[pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.pravda.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a root-country UFO project, Belarus works best beside sibling branches on Russia, Ukraine, Lithuania, Latvia and Poland. The comparison would not be about which country has “more UFOs”, but about how geography, military secrecy, media openness, border security and amateur research networks shape what gets reported and what later becomes explainable.
+That cross-border texture should not blur the page scope. Belarus’s distinctive value lies in how those wider forces appear locally: Minsk as the centre of the most famous aviation case, Brest and Minsk as strong reporting regions in UfoCom’s modern database, Belarusian Soviet letters as scattered archive fragments, and current border skies as a place where drones and balloons complicate the meaning of “unidentified”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span><span class="citation-popover-snippet">AP News Poland restricts airspace over balloons from Belarus &#124; AP News</span></span></span> 3ufo-com.net<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.pravda.ru">[pravda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.pravda.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a root-country UFO project, Belarus works best beside sibling branches on Russia, Ukraine, Lithuania, Latvia and Poland. The comparison would not be about which country has “more UFOs”, but about how geography, military secrecy, media openness, border security and amateur research networks shape what gets reported and what later becomes explainable.
 
 <img src="{{ "/assets/images/Belarus_027a12-Illustration-3-dark.svg" | relative_url }}" alt="What Belarus UFO Reports Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Belarus_027a12-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for Belarus
@@ -1285,194 +1285,194 @@ The Belarus UFO file is substantial, but its strongest lesson is caution. There 
 The most credible reading is three-part: Belarus has a confirmed history of UFO reporting; some cases remain unresolved because the original data are incomplete; and several dramatic or modern incidents become less mysterious when matched against missile launches, meteors, lanterns, drones, balloons, reporting bias and archive gaps. That makes Belarus an important UFO country not because it proves the extraordinary, but because it shows how a national UFO record is built — and how fragile that record becomes when timing, direction, documents and physical evidence are missing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Belarus UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Belarus UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing Belarus reports with international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing Belarus reports with international cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented cases and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented cases and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on archives, folklore and long-term sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on archives, folklore and long-term sighting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Looks at how UFO narratives and archives evolve culturally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at how UFO narratives and archives evolve culturally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-belarus-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-belarus-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1488,7 +1488,7 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1508,7 +1508,7 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1540,7 +1540,7 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1592,7 +1592,7 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1637,7 +1637,7 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1678,254 +1678,254 @@ The most credible reading is three-part: Belarus has a confirmed history of UFO 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?SECTION_ID=188</a>  
+   Link:<a href="https://www.ufo-com.net/observes/?SECTION_ID=188" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?SECTION_ID=188</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo-com.net  
    Title: Архивы Комиссии по аномальным явлениям: Белорусская ССР  
-   Link: <a href="https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-9735-arhiv-kaia-bssr.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.centerforinquiry.org  
    Title: Center for Inquiry  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401</a>  
+   Link:<a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3401</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufo-com.net  
    Title: art 11687 arhiv kaia bssr chast dva  
-   Link: <a href="https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11687-arhiv-kaia-bssr-chast-dva.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufo-com.net  
    Title: art 4004 ufologicheskie itogi dve tisyachi devyatogo goda v belarusi  
-   Link: <a href="https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-4004-ufologicheskie-itogi-dve-tisyachi-devyatogo-goda-v-belarusi.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufo-com.net  
    Title: Карта наблюдений  
-   Link: <a href="https://www.ufo-com.net/observes/map.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/map.php</a>  
+   Link:<a href="https://www.ufo-com.net/observes/map.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/map.php</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufo-com.net  
    Title: «Любому непонятному явлению всегда уделялось повышенное внимание»  
-   Link: <a href="https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-14440-neponiatnye-yavlenia-belarusi.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufo-com.net  
    Title: art 11155 pervyi ufo kontakt belarusi  
-   Link: <a href="https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11155-pervyi-ufo-kontakt-belarusi.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417</a>  
+   Link:<a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3417</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679</a>  
+   Link:<a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3679</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919</a>  
+   Link:<a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=4919</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416</a>  
+   Link:<a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3416</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451</a>  
+   Link:<a href="https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/detail.php?ELEMENT_ID=3451</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufo-com.net  
    Title: Военные видят НЛО  
-   Link: <a href="https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-8821-voennye-vidiat-nlo.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufo-com.net  
    Title: art 7779 trubcevsk v ufoperspektive  
-   Link: <a href="https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-7779-trubcevsk-v-ufoperspektive.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufo-com.net  
    Title: Падение метеорита возле Кричева  
-   Link: <a href="https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-3907-padenie-meteorita-vozle-kricheva.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/books/index.php?SECTION_ID=165" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/books/index.php?SECTION_ID=165</a>  
+   Link:<a href="https://www.ufo-com.net/books/index.php?SECTION_ID=165" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/books/index.php?SECTION_ID=165</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/search/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/search/</a>  
+   Link:<a href="https://www.ufo-com.net/search/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/search/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/?PAGEN_4=18&amp;SECTION_ID=" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_4=18&amp;SECTION_ID=</a>  
+   Link:<a href="https://www.ufo-com.net/observes/?PAGEN_4=18&amp;SECTION_ID=" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_4=18&amp;SECTION_ID=</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufo-com.net  
    Title: art 5366 itogi goda  
-   Link: <a href="https://www.ufo-com.net/publications/art-5366-itogi-goda.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-5366-itogi-goda.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-5366-itogi-goda.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-5366-itogi-goda.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/?PAGEN_4=10&amp;SECTION_ID=192" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_4=10&amp;SECTION_ID=192</a>  
+   Link:<a href="https://www.ufo-com.net/observes/?PAGEN_4=10&amp;SECTION_ID=192" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_4=10&amp;SECTION_ID=192</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ufo-com.net  
    Title: art 6375 baranovecheskii region v svete programmy dromos  
-   Link: <a href="https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-6375-baranovecheskii-region-v-svete-programmy-dromos.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufo-com.net  
    Title: art 10409 kamni mebel  
-   Link: <a href="https://www.ufo-com.net/publications/art-10409-kamni-mebel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10409-kamni-mebel.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-10409-kamni-mebel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10409-kamni-mebel.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ufo-com.net  
    Title: «Звенящий» камень  
-   Link: <a href="https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-8857-zvenizshii-kamen.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufo-com.net  
    Title: art 10772 kriptozoologia belorusskogo pogranichia  
-   Link: <a href="https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10772-kriptozoologia-belorusskogo-pogranichia.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufo-com.net  
    Title: art 3965 fenomen krygov na snegy v belarysi  
-   Link: <a href="https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-3965-fenomen-krygov-na-snegy-v-belarysi.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ufo-com.net  
    Title: art 10422 expedicii vileiskom shumilinskom raionah  
-   Link: <a href="https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10422-expedicii-vileiskom-shumilinskom-raionah.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ufo-com.net  
    Title: art 10597 diadechka pokatai  
-   Link: <a href="https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10597-diadechka-pokatai.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ufo-com.net  
    Title: art 11416 valuny chashy  
-   Link: <a href="https://www.ufo-com.net/publications/art-11416-valuny-chashy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11416-valuny-chashy.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-11416-valuny-chashy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-11416-valuny-chashy.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ufo-com.net  
    Title: art 12824 belorusskie materialy opredvestijah velikoj otechestvennoj vojny  
-   Link: <a href="https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-12824-belorusskie-materialy-opredvestijah-velikoj-otechestvennoj-vojny.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ufo-com.net  
    Title: art 10240 miraji vbelarusi  
-   Link: <a href="https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10240-miraji-vbelarusi.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ufo-com.net  
    Title: art 14920 kladbishenskie prividenia  
-   Link: <a href="https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-14920-kladbishenskie-prividenia.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/observes/?PAGEN_3=18&amp;PAGEN_4=4&amp;section_id=192" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_3=18&amp;PAGEN_4=4&amp;section_id=192</a>  
+   Link:<a href="https://www.ufo-com.net/observes/?PAGEN_3=18&amp;PAGEN_4=4&amp;section_id=192" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/observes/?PAGEN_3=18&amp;PAGEN_4=4&amp;section_id=192</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ufo-com.net  
    Title: art 10485 zveniashie kamni  
-   Link: <a href="https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html</a>  
+   Link:<a href="https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/publications/art-10485-zveniashie-kamni.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: english.pravda.ru  
-   Link: <a href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://english.pravda.ru/science/109137-minsk_ufo_sighting/</a>  
+   Link:<a href="https://english.pravda.ru/science/109137-minsk_ufo_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://english.pravda.ru/science/109137-minsk_ufo_sighting/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: t.me  
-   Link: <a href="https://t.me/s/ufocomm?before=65" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/ufocomm?before=65</a>  
+   Link:<a href="https://t.me/s/ufocomm?before=65" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/ufocomm?before=65</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pravda.com.ua  
-   Link: <a href="https://www.pravda.com.ua/eng/news/2025/07/29/7523897/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/07/29/7523897/</a>  
+   Link:<a href="https://www.pravda.com.ua/eng/news/2025/07/29/7523897/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/07/29/7523897/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024AcSMP..15...47Z/abstract</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: apnews.com  
    Title: AP News Poland restricts airspace over balloons from Belarus | AP News  
-   Link: <a href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e</a>  
+   Link:<a href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Ufo Com  
-   Link: <a href="https://en.wikipedia.org/wiki/UfoCom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UfoCom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UfoCom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UfoCom</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: Wikipedia  
    Title: James Oberg  
-   Link: <a href="https://en.wikipedia.org/wiki/James_Oberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_Oberg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/James_Oberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_Oberg</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: pravda.com.ua  
-   Link: <a href="https://www.pravda.com.ua/eng/news/2025/09/10/7530178/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/09/10/7530178/</a>  
+   Link:<a href="https://www.pravda.com.ua/eng/news/2025/09/10/7530178/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/09/10/7530178/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: pravda.com.ua  
-   Link: <a href="https://www.pravda.com.ua/eng/news/2025/08/01/7524392/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/08/01/7524392/</a>  
+   Link:<a href="https://www.pravda.com.ua/eng/news/2025/08/01/7524392/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2025/08/01/7524392/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/</a>  
+   Link:<a href="https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ufocomm.ru  
-   Link: <a href="https://www.ufocomm.ru/topic/5257/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocomm.ru/topic/5257/</a>  
+   Link:<a href="https://www.ufocomm.ru/topic/5257/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocomm.ru/topic/5257/</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/</a>  
+   Link:<a href="https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DDIndiaLive/posts/belarus-defence-ministry-revealed-fragments-of-ukrainian-drones-destroyed-over-i/1045477974249078/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/1984/01/Issue-02-79.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/</a>  
+   Link:<a href="https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euromaidanpress.en/posts/a-likely-russian-drone-violated-nato-airspace-for-the-second-time-in-three-weeks/1206023884873633/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: militarnyi.com  
-   Link: <a href="https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/</a>  
+   Link:<a href="https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/drone-from-belarus-breaches-lithuanian-airspace-again-this-month/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/</a>  
+   Link:<a href="https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2427538690888656/posts/3525653807743800/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/</a>  
+   Link:<a href="https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kyivindependent/posts/lithuania-has-issued-an-urgent-air-alert-in-parts-of-the-country-on-may-20-after/1013118727890863/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/</a>  
+   Link:<a href="https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ACLEDINFO/posts/mysterious-drones-have-been-spotted-at-night-across-western-europe-appearing-aro/1267165942097050/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYTOlXMgjtQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYTOlXMgjtQ/</a>  
+   Link:<a href="https://www.instagram.com/p/DYTOlXMgjtQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYTOlXMgjtQ/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf</a>  
+   Link:<a href="https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.27939752.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: sandiegohistory.org  
-   Link: <a href="https://sandiegohistory.org/journal/v56-4/v56-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sandiegohistory.org/journal/v56-4/v56-4.pdf</a>
+   Link:<a href="https://sandiegohistory.org/journal/v56-4/v56-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sandiegohistory.org/journal/v56-4/v56-4.pdf</a>

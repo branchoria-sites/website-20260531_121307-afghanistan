@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /russian-federation-87c89a-index/
 description: Focused pages that expand on Russian Federation.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Russian_Federation_87c89a
 parent_title: Russian Federation
@@ -16,7 +16,7 @@ parent_permalink: /russian-federation/
 
 # Explore Topics in Russian Federation
 
-The following pages expand on the main **[Russian Federation]({{ '/russian-federation/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Russian Federation]({{ '/russian-federation/' | relative_url }})** page and cover its key branches in.
 
 - [Dalnegorsk]({{ '/dalnegorsk/' | relative_url }})
 - [Petrozavodsk]({{ '/petrozavodsk/' | relative_url }})

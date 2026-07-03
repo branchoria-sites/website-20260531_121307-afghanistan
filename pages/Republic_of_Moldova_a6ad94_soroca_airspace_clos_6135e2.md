@@ -248,31 +248,31 @@ image: /assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Ill
 
 ## Introduction
 
-On 14 February 2023, Moldova briefly shut its entire national airspace after authorities received reports of a small unidentified object near the northern city of Soroca, close to the border with Ukraine. The object was repeatedly described by officials as resembling a meteorological balloon, yet it could not be reliably tracked or identified at the time. What might otherwise have been a routine aviation anomaly became one of the most discussed unexplained aerial incidents in modern Moldovan history because it triggered a nationwide aviation shutdown rather than a local warning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova has temporarily closed its airspace national airliner says 2023 02 14</span><span class="citation-popover-snippet">Moldova briefly shuts airspace after report of balloon-like...14 Feb 2023 — Moldova briefly closed its air space on Tuesday to in...</span></span></span>
+On 14 February 2023, Moldova briefly shut its entire national airspace after authorities received reports of a small unidentified object near the northern city of Soroca, close to the border with Ukraine. The object was repeatedly described by officials as resembling a meteorological balloon, yet it could not be reliably tracked or identified at the time. What might otherwise have been a routine aviation anomaly became one of the most discussed unexplained aerial incidents in modern Moldovan history because it triggered a nationwide aviation shutdown rather than a local warning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova has temporarily closed its airspace national airliner says</span><span class="citation-popover-snippet">Moldova briefly shuts airspace after report of balloon-like...14 Feb 2023 — Moldova briefly closed its air space on Tuesday to in...</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-1-dark.svg" | relative_url }}" alt="Soroca Case illustration 1" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Soroca case remains important not because it provides strong evidence of an extraordinary craft, but because it shows how Moldova's security environment had changed during the war in neighbouring Ukraine. A small, poorly understood object was treated as a potential airspace threat, forcing authorities to balance uncertainty against aviation safety. In the public record of Moldovan UFO and UAP reports, it is one of the few incidents supported by official statements, flight-control measures and international reporting rather than anecdote or folklore. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+The Soroca case remains important not because it provides strong evidence of an extraordinary craft, but because it shows how Moldova's security environment had changed during the war in neighbouring Ukraine. A small, poorly understood object was treated as a potential airspace threat, forcing authorities to balance uncertainty against aviation safety. In the public record of Moldovan UFO and UAP reports, it is one of the few incidents supported by official statements, flight-control measures and international reporting rather than anecdote or folklore. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
 
 ## What Happened Near Soroca?
 
-According to Moldova's Civil Aviation Authority, the Ministry of Defence informed aviation officials at approximately 12:30 that a small unidentified object had been detected in Moldovan airspace in the Soroca region. The object was described as similar to a weather balloon. Officials stated that weather conditions prevented them from monitoring it effectively, identifying it with confidence or determining its flight path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mind.ua">[Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mind.ua</span><span class="citation-popover-snippet">Moldova explains that airspace was closed because of a...14 Feb 2023 — &quot;After verifying the information and making sure that there was n...</span></span></span>
+According to Moldova's Civil Aviation Authority, the Ministry of Defence informed aviation officials at approximately 12:30 that a small unidentified object had been detected in Moldovan airspace in the Soroca region. The object was described as similar to a weather balloon. Officials stated that weather conditions prevented them from monitoring it effectively, identifying it with confidence or determining its flight path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mind.ua">[Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mind.ua</span><span class="citation-popover-snippet">Moldova explains that airspace was closed because of a...14 Feb 2023 — &quot;After verifying the information and making sure that there was n...</span></span></span>
 
-Because the object's behaviour and trajectory could not be established, the Civil Aviation Authority ordered a temporary closure of Moldovan airspace. Flights were halted and aircraft movements disrupted while authorities attempted to determine whether any threat existed. Airspace restrictions began at roughly 13:24 local time and were lifted at 14:46 after officials concluded there was no immediate danger to the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">moldova airspace closed 3 hours</span><span class="citation-popover-snippet">Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+Because the object's behaviour and trajectory could not be established, the Civil Aviation Authority ordered a temporary closure of Moldovan airspace. Flights were halted and aircraft movements disrupted while authorities attempted to determine whether any threat existed. Airspace restrictions began at roughly 13:24 local time and were lifted at 14:46 after officials concluded there was no immediate danger to the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">moldova airspace closed 3 hours</span><span class="citation-popover-snippet">Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
 
-Although the closure lasted only a little over an hour, it affected the entire country's controlled airspace rather than only the northern region where the object had reportedly been detected. That decision immediately elevated the incident from a local observation to a national security event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says 2023 02 14</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
+Although the closure lasted only a little over an hour, it affected the entire country's controlled airspace rather than only the northern region where the object had reportedly been detected. That decision immediately elevated the incident from a local observation to a national security event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
 
 ## Why Did Officials Treat It as a Serious Risk?
 
 The most important context is timing.
 
-The incident occurred during a period of exceptional regional tension. Just days earlier, Moldova had reported that a Russian missile crossed its airspace during attacks on Ukraine. Moldovan leaders were also publicly warning of destabilisation efforts and security threats linked to the wider war. In that environment, an unidentified aerial object could not automatically be dismissed as harmless. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mtv.com.lb/news/1343278" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mtv.com.lb">[MTV Lebanon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mtv.com.lb</span><span class="citation-popover-snippet">MTV LebanonMoldova closes airspace, one day after warning of Russian...Moldova temporarily closed its air space on Tuesday, one day afte...</span></span></span>
+The incident occurred during a period of exceptional regional tension. Just days earlier, Moldova had reported that a Russian missile crossed its airspace during attacks on Ukraine. Moldovan leaders were also publicly warning of destabilisation efforts and security threats linked to the wider war. In that environment, an unidentified aerial object could not automatically be dismissed as harmless. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mtv.com.lb/news/1343278" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mtv.com.lb">[MTV Lebanon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mtv.com.lb</span><span class="citation-popover-snippet">MTV LebanonMoldova closes airspace, one day after warning of Russian...Moldova temporarily closed its air space on Tuesday, one day afte...</span></span></span>
 
 Several factors pushed officials towards caution:
 
-* **The object could not be positively identified.** Authorities openly stated that they lacked sufficient information to determine exactly what it was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
-* **Its flight path was uncertain.** Officials said weather conditions prevented reliable tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
-* **The location was strategically sensitive.** Soroca lies in northern Moldova near Ukraine, where military activity and air-defence operations were already affecting regional airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">six russian balloons spotted over kyiv most shot down officials 2023 02 15</span><span class="citation-popover-snippet">Kyiv says it shot down Russian balloons over Ukraine&#x27;s...15 Feb 2023 — The country shut its airspace for over an hour on Tuesday...</span></span></span>
-* **Civil aviation safety was the immediate concern.** Even a small balloon can create hazards if its altitude, movement or payload are unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">moldova airspace closed 3 hours</span><span class="citation-popover-snippet">Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</span></span></span>
+* **The object could not be positively identified.** Authorities openly stated that they lacked sufficient information to determine exactly what it was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+* **Its flight path was uncertain.** Officials said weather conditions prevented reliable tracking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+* **The location was strategically sensitive.** Soroca lies in northern Moldova near Ukraine, where military activity and air-defence operations were already affecting regional airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">six russian balloons spotted over kyiv most shot down officials</span><span class="citation-popover-snippet">Kyiv says it shot down Russian balloons over Ukraine&#x27;s...15 Feb 2023 — The country shut its airspace for over an hour on Tuesday...</span></span></span>
+* **Civil aviation safety was the immediate concern.** Even a small balloon can create hazards if its altitude, movement or payload are unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">moldova airspace closed 3 hours</span><span class="citation-popover-snippet">Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</span></span></span>
 
 The official response therefore reflected uncertainty management rather than a claim that an extraordinary object had been discovered. Authorities treated the lack of reliable identification as the central problem.
 
@@ -282,20 +282,20 @@ The official response therefore reflected uncertainty management rather than a c
 
 The Soroca incident did not occur in isolation. It unfolded during a period when governments across several countries were reacting aggressively to reports of unidentified high-altitude objects.
 
-Earlier in February 2023, the discovery of a Chinese surveillance balloon over North America had focused international attention on balloons and other aerial objects operating at high altitude. Military and civilian authorities were under pressure to investigate unusual radar contacts that might previously have attracted less notice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_in_Moldova" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 in Moldova</span><span class="citation-popover-snippet">2023 in Moldova14 February – 2023 Moldova and Romania high-altitude objects: Moldova temporarily closes its airspace after receiving r...</span></span></span>
+Earlier in February 2023, the discovery of a Chinese surveillance balloon over North America had focused international attention on balloons and other aerial objects operating at high altitude. Military and civilian authorities were under pressure to investigate unusual radar contacts that might previously have attracted less notice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_in_Moldova" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 in Moldova</span><span class="citation-popover-snippet">2023 in Moldova14 February – 2023 Moldova and Romania high-altitude objects: Moldova temporarily closes its airspace after receiving r...</span></span></span>
 
-On the same day as Moldova's airspace closure, neighbouring Romania reported a similar event. Romanian military radar detected an object with characteristics resembling a weather balloon at around 11,000 metres. Two MiG-21 LanceR fighter aircraft were dispatched, but the pilots failed to confirm the object visually or on onboard radar systems. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Romania&#x27;s defense ministry detected the object at 11,000 meters with radar, but the jets found no visual or radar confirmation. Moldova&#x27;s...</span></span></span>
+On the same day as Moldova's airspace closure, neighbouring Romania reported a similar event. Romanian military radar detected an object with characteristics resembling a weather balloon at around 11,000 metres. Two MiG-21 LanceR fighter aircraft were dispatched, but the pilots failed to confirm the object visually or on onboard radar systems. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Romania&#x27;s defense ministry detected the object at 11,000 meters with radar, but the jets found no visual or radar confirmation. Moldova&#x27;s...</span></span></span>
 
-The parallel timing immediately encouraged speculation that the Moldovan and Romanian observations might have been connected. However, no publicly released evidence established a direct link between the two cases. Both remained examples of briefly detected aerial anomalies that generated official concern but produced limited hard data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Romania&#x27;s defense ministry detected the object at 11,000 meters with radar, but the jets found no visual or radar confirmation. Moldova&#x27;s...</span></span></span>
+The parallel timing immediately encouraged speculation that the Moldovan and Romanian observations might have been connected. However, no publicly released evidence established a direct link between the two cases. Both remained examples of briefly detected aerial anomalies that generated official concern but produced limited hard data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Romania&#x27;s defense ministry detected the object at 11,000 meters with radar, but the jets found no visual or radar confirmation. Moldova&#x27;s...</span></span></span>
 
-At roughly the same time, Ukrainian authorities were also reporting unusual balloon activity and claimed that Russian forces had been using balloons in ways intended to complicate air-defence operations. This broader regional background contributed to the seriousness with which Moldova approached the Soroca report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/mass-protests-over-eurovision-vote-prompt-resignation-moldovan-radiotv-head-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Mass protests over Eurovision vote prompt resignation of Moldovan Radio/TV head</span><span class="citation-popover-snippet">Mass protests over Eurovision vote prompt resignation of Moldovan Radio/TV head</span></span></span>
+At roughly the same time, Ukrainian authorities were also reporting unusual balloon activity and claimed that Russian forces had been using balloons in ways intended to complicate air-defence operations. This broader regional background contributed to the seriousness with which Moldova approached the Soroca report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/mass-protests-over-eurovision-vote-prompt-resignation-moldovan-radiotv-head-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Mass protests over Eurovision vote prompt resignation of Moldovan Radio/TV head</span><span class="citation-popover-snippet">Mass protests over Eurovision vote prompt resignation of Moldovan Radio/TV head</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-2-dark.svg" | relative_url }}" alt="Soroca Case illustration 2" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Was the Object Most Likely To Be?
 
 The strongest publicly available evidence points towards a mundane explanation rather than an exotic one.
 
-Moldovan authorities themselves consistently described the object as resembling a meteorological balloon. No official statement suggested unusual manoeuvres, extreme speed, extraordinary acceleration or any other characteristics commonly associated with more dramatic UFO claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mind.ua">[Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mind.ua</span><span class="citation-popover-snippet">Moldova explains that airspace was closed because of a...14 Feb 2023 — &quot;After verifying the information and making sure that there was n...</span></span></span>
+Moldovan authorities themselves consistently described the object as resembling a meteorological balloon. No official statement suggested unusual manoeuvres, extreme speed, extraordinary acceleration or any other characteristics commonly associated with more dramatic UFO claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mind.ua">[Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mind.ua</span><span class="citation-popover-snippet">Moldova explains that airspace was closed because of a...14 Feb 2023 — &quot;After verifying the information and making sure that there was n...</span></span></span>
 
 Several plausible explanations have been discussed:
 
@@ -303,17 +303,17 @@ Several plausible explanations have been discussed:
 
 This remains the most straightforward possibility.
 
-The object's reported appearance matched a weather balloon, and no publicly released evidence contradicted that interpretation. The inability to track it reliably may simply have reflected atmospheric conditions, radar limitations or incomplete sensor coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+The object's reported appearance matched a weather balloon, and no publicly released evidence contradicted that interpretation. The inability to track it reliably may simply have reflected atmospheric conditions, radar limitations or incomplete sensor coverage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zyFOvjL8r5Q" title="Russia-Ukraine conflict: Moldova airspace has reopened after being closed due to a security alert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zyFOvjL8r5Q" target="_blank" rel="noopener noreferrer">Russia-Ukraine conflict: Moldova airspace has reopened after being closed due to a security alert</a></p><p class="youtube-embed-meta">Channel: GBNews &middot; Views: 4.7K &middot; Uploaded: February 2023 &middot; Length: 4 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zyFOvjL8r5Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zyFOvjL8r5Q">Open on YouTube</a></p></div></div></div>
 
 ### Civilian or Research Balloon
 
-Small balloons used for research, meteorology or amateur projects can travel significant distances and cross international borders. If documentation or tracking information is unavailable, they can initially appear unidentified to aviation authorities. The public record contains no confirmation that such a balloon was recovered or linked to the incident, however. <span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">moldova airspace closed 3 hours</span><span class="citation-popover-snippet">Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</span></span></span>
+Small balloons used for research, meteorology or amateur projects can travel significant distances and cross international borders. If documentation or tracking information is unavailable, they can initially appear unidentified to aviation authorities. The public record contains no confirmation that such a balloon was recovered or linked to the incident, however.<span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">moldova airspace closed 3 hours</span><span class="citation-popover-snippet">Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</span></span></span>
 
 ### Military Decoy or Surveillance Device
 
-Because of the war in Ukraine, some analysts and defence observers considered whether the object could have been related to military activity. Reports from Ukraine around the same period described balloon-based decoys used to complicate radar and air-defence operations. Yet no official Moldovan statement publicly identified the Soroca object as a military system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">balloon like object closed down moldovas airspace next to ukraine today</span><span class="citation-popover-snippet">The War ZoneBalloon-Like Object Closed Down Moldova&#x27;s Airspace Next...14 Feb 2023 — Moldova briefly closed down its airspace earlier tod...</span></span></span>
+Because of the war in Ukraine, some analysts and defence observers considered whether the object could have been related to military activity. Reports from Ukraine around the same period described balloon-based decoys used to complicate radar and air-defence operations. Yet no official Moldovan statement publicly identified the Soroca object as a military system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">balloon like object closed down moldovas airspace next to ukraine today</span><span class="citation-popover-snippet">The War ZoneBalloon-Like Object Closed Down Moldova&#x27;s Airspace Next...14 Feb 2023 — Moldova briefly closed down its airspace earlier tod...</span></span></span>
 
 The available evidence therefore supports caution rather than certainty. A balloon explanation is plausible and consistent with official descriptions, but no definitive identification was publicly released.
 
@@ -332,212 +332,212 @@ Authorities never publicly disclosed:
 * Its exact altitude.
 * Whether it was tracked continuously.
 * Whether any debris or physical evidence was recovered.
-* Whether it carried equipment, sensors or a payload. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+* Whether it carried equipment, sensors or a payload.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
 
 </div>
 
-This creates an unusual evidence profile. The existence of the incident itself is well documented. The airspace closure is a matter of public record. The official concern is undisputed. What remains uncertain is the nature of the object that triggered the response. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
+This creates an unusual evidence profile. The existence of the incident itself is well documented. The airspace closure is a matter of public record. The official concern is undisputed. What remains uncertain is the nature of the object that triggered the response. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span>
 
 That distinction matters when evaluating the case within Moldova's UFO and UAP history. Many alleged [sightings]({{ 'sightings-2cf1d4/' | relative_url }}) lack official acknowledgement altogether. The Soroca incident is the reverse: the governmental response is thoroughly documented, while the object itself remains only partially understood.
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-3-dark.svg" | relative_url }}" alt="Soroca Case illustration 3" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Soroca Case Still Matters
 
-Among Moldova's publicly known UFO and UAP-related incidents, the Soroca event stands out because it generated a measurable national consequence. Airspace closures are expensive, disruptive and politically sensitive decisions. Authorities do not normally suspend aviation activity because of an unverified rumour or a casual civilian sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jp.reuters.com/article/world/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object-idUSKBN2UO0Z6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jp.reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jp.reuters.com</span><span class="citation-popover-snippet">briefly shuts airspace after report of balloon-like...14 Feb 2023 — CHISINAU (Reuters) -Moldova briefly closed its air space on Tuesday...</span></span></span>
+Among Moldova's publicly known UFO and UAP-related incidents, the Soroca event stands out because it generated a measurable national consequence. Airspace closures are expensive, disruptive and politically sensitive decisions. Authorities do not normally suspend aviation activity because of an unverified rumour or a casual civilian sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jp.reuters.com/article/world/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object-idUSKBN2UO0Z6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jp.reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jp.reuters.com</span><span class="citation-popover-snippet">briefly shuts airspace after report of balloon-like...14 Feb 2023 — CHISINAU (Reuters) -Moldova briefly closed its air space on Tuesday...</span></span></span>
 
-The case also illustrates a broader shift in how unidentified objects are viewed in Eastern Europe. Before Russia's invasion of Ukraine, an unexplained balloon-like object might have attracted limited attention. In 2023, the same observation was interpreted through the lens of missile overflights, drone incursions, intelligence gathering and aviation security. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/moldova/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-snippet">Major events: Feb 2023: The LUUU/Chisinau FIR closed temporarily following reports of Russian drones infringing its airspace. Earlier in...</span></span></span>
+The case also illustrates a broader shift in how unidentified objects are viewed in Eastern Europe. Before Russia's invasion of Ukraine, an unexplained balloon-like object might have attracted limited attention. In 2023, the same observation was interpreted through the lens of missile overflights, drone incursions, intelligence gathering and aviation security. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/moldova/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-snippet">Major events: Feb 2023: The LUUU/Chisinau FIR closed temporarily following reports of Russian drones infringing its airspace. Earlier in...</span></span></span>
 
-For researchers examining Moldova's UFO record, the Soroca incident is therefore less a mystery about alien visitation than a case study in modern airspace uncertainty. The object was never publicly identified with confidence, but the official reaction reveals how quickly a small unexplained target can become a national security concern when it appears in contested regional skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova has temporarily closed its airspace national airliner says 2023 02 14</span><span class="citation-popover-snippet">Moldova briefly shuts airspace after report of balloon-like...14 Feb 2023 — Moldova briefly closed its air space on Tuesday to in...</span></span></span>
+For researchers examining Moldova's UFO record, the Soroca incident is therefore less a mystery about alien visitation than a case study in modern airspace uncertainty. The object was never publicly identified with confidence, but the official reaction reveals how quickly a small unexplained target can become a national security concern when it appears in contested regional skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.ipn.md">[IPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.ipn.md</span><span class="citation-popover-snippet">CAA about closing of airspace: An object looking like a...The airspace of the Republic of Moldova was closed on Tuesday after a small...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">moldova has temporarily closed its airspace national airliner says</span><span class="citation-popover-snippet">Moldova briefly shuts airspace after report of balloon-like...14 Feb 2023 — Moldova briefly closed its air space on Tuesday to in...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Moldova Close Its Airspace?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Moldova Close Its Airspace?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the airspace-security and unidentified-object focus of the Soroca incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the airspace-security and unidentified-object focus of the Soroca incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how aerial incidents are evaluated under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how aerial incidents are evaluated under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for official responses to unidentified aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official responses to unidentified aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers broader UFO context for readers moving beyond a single incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader UFO context for readers moving beyond a single incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-moldova-close-its-airspace-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-moldova-close-its-airspace-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ For researchers examining Moldova's UFO record, the Soroca incident is therefore
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ For researchers examining Moldova's UFO record, the Soroca incident is therefore
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ For researchers examining Moldova's UFO record, the Soroca incident is therefore
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ For researchers examining Moldova's UFO record, the Soroca incident is therefore
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ For researchers examining Moldova's UFO record, the Soroca incident is therefore
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,158 +740,157 @@ For researchers examining Moldova's UFO record, the Soroca incident is therefore
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: moldova has temporarily closed its airspace national airliner says 2023 02 14  
-   Link: <a href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova briefly shuts airspace after report of balloon-like...14 Feb 2023 — Moldova briefly closed its air space on Tuesday to in...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova briefly shuts airspace after report of balloon-like...14 Feb 2023 — Moldova briefly closed its air space on Tuesday to in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: old.ipn.md  
-   Link: <a href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow">https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA about closing of airspace: An object looking like a...The airspace of the [Republic of Moldova](&amp;#123;&amp;#123; &#x27;republic-of-moldova/&#x27; | relative_url &amp;#125;&amp;#125;) was closed on Tuesday after a small...</p></details>
+   Link:<a href="https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html" target="_blank" rel="noopener noreferrer nofollow">https://www.old.ipn.md/en/caa-about-closing-of-airspace-an-object-looking-like-a-7967_1095236.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAA about closing of airspace: An object looking like a...The airspace of the [Republic of Moldova](&amp;#123;&amp;#123; &#x27;republic-of-moldova/&#x27; | relative_url &amp;#125;&amp;#125;) was closed on Tuesday after a small...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mind.ua  
-   Link: <a href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova explains that airspace was closed because of a...14 Feb 2023 — &quot;After verifying the information and making sure that there was n...</p></details>
+   Link:<a href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova explains that airspace was closed because of a...14 Feb 2023 — &quot;After verifying the information and making sure that there was n...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2023 in Moldova  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_in_Moldova" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_in_Moldova</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 in Moldova14 February – 2023 Moldova and Romania high-altitude objects: Moldova temporarily closes its airspace after receiving r...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2023_in_Moldova" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_in_Moldova</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023 in Moldova14 February – 2023 Moldova and Romania high-altitude objects: Moldova temporarily closes its airspace after receiving r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of high altitude object events in 2023  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: romania detects suspicious weather balloon its airspace ministry says 2023 02 14  
-   Link: <a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: six russian balloons spotted over kyiv most shot down officials 2023 02 15  
-   Link: <a href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kyiv says it shot down Russian balloons over Ukraine&#x27;s...15 Feb 2023 — The country shut its airspace for over an hour on Tuesday...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kyiv says it shot down Russian balloons over Ukraine&#x27;s...15 Feb 2023 — The country shut its airspace for over an hour on Tuesday...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Moldova" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moldova</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MoldovaMoldova is a unitary parliamentary representative democratic republic with its capital in Chișinău, the country&#x27;s largest city...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Moldova" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moldova</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoldovaMoldova is a unitary parliamentary representative democratic republic with its capital in Chișinău, the country&#x27;s largest city...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: Mass protests over Eurovision vote prompt resignation of Moldovan Radio/TV head  
-   Link: <a href="https://www.reuters.com/world/mass-protests-over-eurovision-vote-prompt-resignation-moldovan-radiotv-head-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/mass-protests-over-eurovision-vote-prompt-resignation-moldovan-radiotv-head-2026-05-18/</a>  
+   Link:<a href="https://www.reuters.com/world/mass-protests-over-eurovision-vote-prompt-resignation-moldovan-radiotv-head-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/mass-protests-over-eurovision-vote-prompt-resignation-moldovan-radiotv-head-2026-05-18/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jp.reuters.com  
-   Link: <a href="https://jp.reuters.com/article/world/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object-idUSKBN2UO0Z6/" target="_blank" rel="noopener noreferrer nofollow">https://jp.reuters.com/article/world/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object-idUSKBN2UO0Z6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>briefly shuts airspace after report of balloon-like...14 Feb 2023 — CHISINAU (Reuters) -Moldova briefly closed its air space on Tuesday...</p></details>
+   Link:<a href="https://jp.reuters.com/article/world/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object-idUSKBN2UO0Z6/" target="_blank" rel="noopener noreferrer nofollow">https://jp.reuters.com/article/world/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object-idUSKBN2UO0Z6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>briefly shuts airspace after report of balloon-like...14 Feb 2023 — CHISINAU (Reuters) -Moldova briefly closed its air space on Tuesday...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: moldova.travel  
-   Link: <a href="https://moldova.travel/en/" target="_blank" rel="noopener noreferrer nofollow">https://moldova.travel/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the official tourist portal of MoldovaPlan your vacation. Essential information on visas and customs, how to get here, currency, accommod...</p></details>
+   Link:<a href="https://moldova.travel/en/" target="_blank" rel="noopener noreferrer nofollow">https://moldova.travel/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the official tourist portal of MoldovaPlan your vacation. Essential information on visas and customs, how to get here, currency, accommod...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania&#x27;s defense ministry detected the object at 11,000 meters with radar, but the jets found no visual or radar confirmation. Moldova&#x27;s...</p></details>
+   Link:<a href="https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/51d19e9fa8c53c54974e460ca5b8add3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romania&#x27;s defense ministry detected the object at 11,000 meters with radar, but the jets found no visual or radar confirmation. Moldova&#x27;s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: simpleflying.com  
    Title: moldova airspace closed 3 hours  
-   Link: <a href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/moldova-airspace-closed-3-hours/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</p></details>
+   Link:<a href="https://simpleflying.com/moldova-airspace-closed-3-hours/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/moldova-airspace-closed-3-hours/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simple FlyingMoldova Closed Its Airspace For 3+ Hours Today14 Feb 2023 — Moldova&#x27;s Civil Aviation Authority confirmed it had briefly shut...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mtv.com.lb  
-   Link: <a href="https://www.mtv.com.lb/news/1343278" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/news/1343278</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTV LebanonMoldova closes airspace, one day after warning of Russian...Moldova temporarily closed its air space on Tuesday, one day afte...</p></details>
+   Link:<a href="https://www.mtv.com.lb/news/1343278" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/news/1343278</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTV LebanonMoldova closes airspace, one day after warning of Russian...Moldova temporarily closed its air space on Tuesday, one day afte...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: twz.com  
    Title: balloon like object closed down moldovas airspace next to ukraine today  
-   Link: <a href="https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneBalloon-Like Object Closed Down Moldova&#x27;s Airspace Next...14 Feb 2023 — Moldova briefly closed down its airspace earlier tod...</p></details>
+   Link:<a href="https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneBalloon-Like Object Closed Down Moldova&#x27;s Airspace Next...14 Feb 2023 — Moldova briefly closed down its airspace earlier tod...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: safeairspace.net  
-   Link: <a href="https://safeairspace.net/moldova/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/moldova/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major events: Feb 2023: The LUUU/Chisinau FIR closed temporarily following reports of Russian drones infringing its airspace. Earlier in...</p></details>
+   Link:<a href="https://safeairspace.net/moldova/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/moldova/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major events: Feb 2023: The LUUU/Chisinau FIR closed temporarily following reports of Russian drones infringing its airspace. Earlier in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/foreign-travel-advice/moldova" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/moldova</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>travel advice10 Dec 2025 — FCDO travel advice for Moldova. Includes safety and security, insurance, entry requirements and legal differences...</p></details>
+   Link:<a href="https://www.gov.uk/foreign-travel-advice/moldova" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/moldova</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>travel advice10 Dec 2025 — FCDO travel advice for Moldova. Includes safety and security, insurance, entry requirements and legal differences...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Moldova" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Moldova</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova | History, Population, Map, Flag, Capital, &amp; Facts3 days ago — Moldova, landlocked country lying in the northeastern corner of th...</p></details>
+   Link:<a href="https://www.britannica.com/place/Moldova" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Moldova</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova | History, Population, Map, Flag, Capital, &amp; Facts3 days ago — Moldova, landlocked country lying in the northeastern corner of th...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mfa.gov.md  
-   Link: <a href="https://mfa.gov.md/en" target="_blank" rel="noopener noreferrer nofollow">https://mfa.gov.md/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Foreign Affairs of the Republic of MoldovaDeputy Prime Minister and Minister of Foreign Affairs of the Republic of Moldova Mihai Popșo...</p></details>
+   Link:<a href="https://mfa.gov.md/en" target="_blank" rel="noopener noreferrer nofollow">https://mfa.gov.md/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Foreign Affairs of the Republic of MoldovaDeputy Prime Minister and Minister of Foreign Affairs of the Republic of Moldova Mihai Popșo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: radiomoldova.md  
-   Link: <a href="https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova" target="_blank" rel="noopener noreferrer nofollow">https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the British secret services say about the unidentified...19 Feb 2023 — On February 14, 2023, the object observed &quot;in the form of a...</p></details>
+   Link:<a href="https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova" target="_blank" rel="noopener noreferrer nofollow">https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the British secret services say about the unidentified...19 Feb 2023 — On February 14, 2023, the object observed &quot;in the form of a...</p></details>
    Published: February 14, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.vijesti.me  
-   Link: <a href="https://en.vijesti.me/world-a/evropa/643289/Moldova-briefly-closed-its-airspace-due-to-a-flying-object%2C-the-danger-has-been-removed" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/world-a/evropa/643289/Moldova-briefly-closed-its-airspace-due-to-a-flying-object%2C-the-danger-has-been-removed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>briefly closes airspace due to flying object14 Feb 2023 — Moldova announced in the middle of the day that it was closing its airspace, an...</p></details>
+   Link:<a href="https://en.vijesti.me/world-a/evropa/643289/Moldova-briefly-closed-its-airspace-due-to-a-flying-object%2C-the-danger-has-been-removed" target="_blank" rel="noopener noreferrer nofollow">https://en.vijesti.me/world-a/evropa/643289/Moldova-briefly-closed-its-airspace-due-to-a-flying-object%2C-the-danger-has-been-removed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>briefly closes airspace due to flying object14 Feb 2023 — Moldova announced in the middle of the day that it was closing its airspace, an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theaviationist.com  
    Title: mig 21 jets scrambled after weather balloon is detected in romanias airspace  
-   Link: <a href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets were scrambled...</p></details>
+   Link:<a href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets were scrambled...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ree7GcCKPWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ree7GcCKPWc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova airspace balloon 2023 Romania and Moldova report suspicious balloon-like objects over their skies | Oneindia News Oneindia News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ree7GcCKPWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ree7GcCKPWc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova airspace balloon 2023 Romania and Moldova report suspicious balloon-like objects over their skies | Oneindia News Oneindia News...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: avim.org.tr  
    Title: MOLDOVA BRIEFLY SHUTS AIRSPACE AFTER REPORT OF BALLOON LIKE OBJECT  
-   Link: <a href="https://avim.org.tr/en/Bulten/MOLDOVA-BRIEFLY-SHUTS-AIRSPACE-AFTER-REPORT-OF-BALLOON-LIKE-OBJECT" target="_blank" rel="noopener noreferrer nofollow">https://avim.org.tr/en/Bulten/MOLDOVA-BRIEFLY-SHUTS-AIRSPACE-AFTER-REPORT-OF-BALLOON-LIKE-OBJECT</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOLDOVA BRIEFLY SHUTS AIRSPACE AFTER REPORT...15 Feb 2023 — Moldova briefly closed its air space on Tuesday to investigate reports of a...</p></details>
+   Link:<a href="https://avim.org.tr/en/Bulten/MOLDOVA-BRIEFLY-SHUTS-AIRSPACE-AFTER-REPORT-OF-BALLOON-LIKE-OBJECT" target="_blank" rel="noopener noreferrer nofollow">https://avim.org.tr/en/Bulten/MOLDOVA-BRIEFLY-SHUTS-AIRSPACE-AFTER-REPORT-OF-BALLOON-LIKE-OBJECT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOLDOVA BRIEFLY SHUTS AIRSPACE AFTER REPORT...15 Feb 2023 — Moldova briefly closed its air space on Tuesday to investigate reports of a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thestar.com.my  
    Title: moldova briefly shuts airspace after report of balloon like object  
-   Link: <a href="https://www.thestar.com.my/news/world/2023/02/15/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/news/world/2023/02/15/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova briefly shuts airspace after report of balloon-like...15 Feb 2023 — CHISINAU (Reuters) -Moldova briefly closed its air space on...</p></details>
+   Link:<a href="https://www.thestar.com.my/news/world/2023/02/15/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/news/world/2023/02/15/moldova-briefly-shuts-airspace-after-report-of-balloon-like-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova briefly shuts airspace after report of balloon-like...15 Feb 2023 — CHISINAU (Reuters) -Moldova briefly closed its air space on...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/worldnews/comments/1124hl5/moldova_has_temporarily_closed_its_airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/1124hl5/moldova_has_temporarily_closed_its_airspace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova has temporarily closed its airspace, national airliner saysr/worldnews - Moldova has temporarily closed its airspace, national ai...</p></details>
+   Link:<a href="https://www.reddit.com/r/worldnews/comments/1124hl5/moldova_has_temporarily_closed_its_airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/1124hl5/moldova_has_temporarily_closed_its_airspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova has temporarily closed its airspace, national airliner saysr/worldnews - Moldova has temporarily closed its airspace, national ai...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: globalnews.ca  
    Title: russian balloons ukraine moldova romania sightings  
-   Link: <a href="https://globalnews.ca/news/9489297/russian-balloons-ukraine-moldova-romania-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9489297/russian-balloons-ukraine-moldova-romania-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine shoots down Russian balloons as Moldova...15 Feb 2023 — Air raid sirens blared in Kyiv on Wednesday because of balloons flying o...</p></details>
+   Link:<a href="https://globalnews.ca/news/9489297/russian-balloons-ukraine-moldova-romania-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9489297/russian-balloons-ukraine-moldova-romania-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine shoots down Russian balloons as Moldova...15 Feb 2023 — Air raid sirens blared in Kyiv on Wednesday because of balloons flying o...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: x.com  
-   Link: <a href="https://x.com/thewarzonewire/status/1625634698071511042" target="_blank" rel="noopener noreferrer nofollow">https://x.com/thewarzonewire/status/1625634698071511042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ay thedrive.com/the-war-zone/b… 0. 12. 26. 8192 · · Explore...Read more...</p></details>
+   Link:<a href="https://x.com/thewarzonewire/status/1625634698071511042" target="_blank" rel="noopener noreferrer nofollow">https://x.com/thewarzonewire/status/1625634698071511042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ay thedrive.com/the-war-zone/b… 0. 12. 26. 8192 · · Explore...Read more...</p></details>

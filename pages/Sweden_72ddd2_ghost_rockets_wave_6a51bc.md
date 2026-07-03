@@ -254,74 +254,74 @@ image: /assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-1-soc
 
 ## Introduction
 
-The 1946 ghost-rocket wave remains the most important unresolved episode in Sweden’s UFO history because it combined three elements that rarely appear together: a large number of witnesses, genuine military concern, and a residue of reports that resisted immediate explanation. Between spring and autumn 1946, thousands of sightings were reported across Sweden and the wider Nordic region. Many accounts were weak, duplicated, distorted by rumour, or later attributed to meteors and ordinary aerial phenomena. Yet Swedish defence authorities also concluded that a smaller group of reports described real physical objects that could not easily be dismissed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+The 1946 ghost-rocket wave remains the most important unresolved episode in Sweden’s UFO history because it combined three elements that rarely appear together: a large number of witnesses, genuine military concern, and a residue of reports that resisted immediate explanation. Between spring and autumn 1946, thousands of sightings were reported across Sweden and the wider Nordic region. Many accounts were weak, duplicated, distorted by rumour, or later attributed to meteors and ordinary aerial phenomena. Yet Swedish defence authorities also concluded that a smaller group of reports described real physical objects that could not easily be dismissed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
 <img src="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-1-dark.svg" | relative_url }}" alt="Ghost Rockets illustration 1" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What keeps the ghost rockets relevant is not proof of an extraordinary origin. No recovered vehicle, weapon, or alien craft was ever produced. Instead, the mystery survives because several of the strongest cases involved trained observers, daylight sightings, radar interest, and alleged impacts that generated official investigations without yielding a definitive answer. The episode shaped Swedish military intelligence work, influenced later civilian UFO research, and established a pattern that would recur throughout Sweden’s UFO record: most cases eventually explained, a smaller number left unresolved, and persistent disagreement over what that remainder actually means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sweden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Swedena Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland...</span></span></span>
+What keeps the ghost rockets relevant is not proof of an extraordinary origin. No recovered vehicle, weapon, or alien craft was ever produced. Instead, the mystery survives because several of the strongest cases involved trained observers, daylight sightings, radar interest, and alleged impacts that generated official investigations without yielding a definitive answer. The episode shaped Swedish military intelligence work, influenced later civilian UFO research, and established a pattern that would recur throughout Sweden’s UFO record: most cases eventually explained, a smaller number left unresolved, and persistent disagreement over what that remainder actually means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sweden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Swedena Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland...</span></span></span>
 
 ## What witnesses reported in 1946
 
-The term “ghost rocket” emerged because many observers described objects that resembled missiles or flying torpedoes rather than the disc-shaped craft that later dominated UFO culture. Reports often involved long cylindrical bodies, sometimes with apparent fins or wings. Witnesses frequently described rapid horizontal flight, brief visibility, and a lack of the dramatic exhaust trails expected from contemporary rockets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (Swedish band</span><span class="citation-popover-snippet">Ghost (Swedish band)Ghost is a Swedish rock band formed in Linköping, in 2006. The band released their debut album, Opus Eponymous, in...</span></span></span>
+The term “ghost rocket” emerged because many observers described objects that resembled missiles or flying torpedoes rather than the disc-shaped craft that later dominated UFO culture. Reports often involved long cylindrical bodies, sometimes with apparent fins or wings. Witnesses frequently described rapid horizontal flight, brief visibility, and a lack of the dramatic exhaust trails expected from contemporary rockets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (Swedish band</span><span class="citation-popover-snippet">Ghost (Swedish band)Ghost is a Swedish rock band formed in Linköping, in 2006. The band released their debut album, Opus Eponymous, in...</span></span></span>
 
-The reports were not evenly distributed. Sweden received the largest concentration, particularly during the summer months. Sightings surged in July and August, creating intense press coverage and public speculation. Witnesses included civilians, police officers, military personnel, pilots, and local officials. Some observations were undoubtedly influenced by newspaper attention, but not all reports fit the pattern of mass suggestion. Several arrived from different locations before detailed descriptions became widely circulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+The reports were not evenly distributed. Sweden received the largest concentration, particularly during the summer months. Sightings surged in July and August, creating intense press coverage and public speculation. Witnesses included civilians, police officers, military personnel, pilots, and local officials. Some observations were undoubtedly influenced by newspaper attention, but not all reports fit the pattern of mass suggestion. Several arrived from different locations before detailed descriptions became widely circulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-A recurring feature distinguished the ghost rockets from ordinary meteor reports. Witnesses repeatedly claimed that the objects manoeuvred, altered direction, flew at low altitude, or maintained horizontal flight for prolonged periods. Such descriptions were one reason the phenomenon attracted defence attention. If even a fraction of those observations were accurate, they were difficult to reconcile with conventional meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+A recurring feature distinguished the ghost rockets from ordinary meteor reports. Witnesses repeatedly claimed that the objects manoeuvred, altered direction, flew at low altitude, or maintained horizontal flight for prolonged periods. Such descriptions were one reason the phenomenon attracted defence attention. If even a fraction of those observations were accurate, they were difficult to reconcile with conventional meteors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
-Another striking theme was the number of reported impacts into lakes. Sweden’s geography made this especially memorable. Residents across different regions reported missile-like objects descending into water, often producing splashes or columns of spray. Search efforts repeatedly failed to recover debris, creating one of the enduring puzzles of the entire wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sweden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Swedena Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland...</span></span></span>
+Another striking theme was the number of reported impacts into lakes. Sweden’s geography made this especially memorable. Residents across different regions reported missile-like objects descending into water, often producing splashes or columns of spray. Search efforts repeatedly failed to recover debris, creating one of the enduring puzzles of the entire wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sweden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Swedena Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland...</span></span></span>
 
 ## Why Swedish authorities took the reports seriously
 
-The timing mattered. Europe had just emerged from the Second World War, and German rocket technology had transformed military thinking. The V-1 flying bomb and V-2 ballistic missile demonstrated capabilities that had seemed impossible only a few years earlier. Swedish defence planners were therefore reluctant to dismiss reports that resembled advanced rockets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (Swedish band</span><span class="citation-popover-snippet">Ghost (Swedish band)Ghost is a Swedish rock band formed in Linköping, in 2006. The band released their debut album, Opus Eponymous, in...</span></span></span>
+The timing mattered. Europe had just emerged from the Second World War, and German rocket technology had transformed military thinking. The V-1 flying bomb and V-2 ballistic missile demonstrated capabilities that had seemed impossible only a few years earlier. Swedish defence planners were therefore reluctant to dismiss reports that resembled advanced rockets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (Swedish band</span><span class="citation-popover-snippet">Ghost (Swedish band)Ghost is a Swedish rock band formed in Linköping, in 2006. The band released their debut album, Opus Eponymous, in...</span></span></span>
 
-At the time, one leading concern was that the Soviet Union might be experimenting with captured German technology. Peenemünde, the former German rocket-development centre, became central to speculation because many believed Soviet engineers were exploiting equipment and expertise obtained after the war. American and Swedish intelligence personnel discussed the possibility that long-range test launches were occurring over or near the Baltic region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+At the time, one leading concern was that the Soviet Union might be experimenting with captured German technology. Peenemünde, the former German rocket-development centre, became central to speculation because many believed Soviet engineers were exploiting equipment and expertise obtained after the war. American and Swedish intelligence personnel discussed the possibility that long-range test launches were occurring over or near the Baltic region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-The Swedish Defence Staff established investigative structures involving military, intelligence, and scientific personnel. Reports were collected, compared, and screened rather than simply filed away. Authorities also became concerned that newspapers were publishing information that might reveal trajectories, locations, and observation patterns useful to a foreign power conducting weapons tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+The Swedish Defence Staff established investigative structures involving military, intelligence, and scientific personnel. Reports were collected, compared, and screened rather than simply filed away. Authorities also became concerned that newspapers were publishing information that might reveal trajectories, locations, and observation patterns useful to a foreign power conducting weapons tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-Perhaps most important, Swedish investigators did not privately conclude that all reports were mistakes. Official statements acknowledged that many sightings were doubtful, yet they also stated that certain observations appeared genuine and could not be explained by known aircraft, natural phenomena, or obvious misidentifications. That distinction helped preserve the mystery long after the initial wave faded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+Perhaps most important, Swedish investigators did not privately conclude that all reports were mistakes. Official statements acknowledged that many sightings were doubtful, yet they also stated that certain observations appeared genuine and could not be explained by known aircraft, natural phenomena, or obvious misidentifications. That distinction helped preserve the mystery long after the initial wave faded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xMtAjrLEuLM" title="Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xMtAjrLEuLM" target="_blank" rel="noopener noreferrer">Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.9K &middot; Uploaded: April 2014 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xMtAjrLEuLM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xMtAjrLEuLM">Open on YouTube</a></p></div></div></div>
 
 ## The Lake Kölmjärv case and the missing wreckage problem
 
-No individual incident has shaped the ghost-rocket mystery more than the reported impact into Lake Kölmjärv on 19 July 1946. Multiple witnesses described a grey, rocket-shaped object descending into the lake. Some accounts mentioned wings; others emphasised its torpedo-like appearance. Several observers reported a dramatic splash and disturbance of the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+No individual incident has shaped the ghost-rocket mystery more than the reported impact into Lake Kölmjärv on 19 July 1946. Multiple witnesses described a grey, rocket-shaped object descending into the lake. Some accounts mentioned wings; others emphasised its torpedo-like appearance. Several observers reported a dramatic splash and disturbance of the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-Unlike many UFO stories, this case triggered a substantial military response. Swedish authorities conducted searches lasting several weeks. Investigators examined the lake, searched for wreckage, and attempted to identify physical traces of an impact. The effort produced evidence that something unusual may have disturbed the lakebed, yet no recognisable vehicle, engine, or rocket component was recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+Unlike many UFO stories, this case triggered a substantial military response. Swedish authorities conducted searches lasting several weeks. Investigators examined the lake, searched for wreckage, and attempted to identify physical traces of an impact. The effort produced evidence that something unusual may have disturbed the lakebed, yet no recognisable vehicle, engine, or rocket component was recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 The absence of debris created two competing interpretations that still dominate discussion.
 
 One interpretation argues that the case demonstrates the weakness of the evidence. If a large physical object truly entered the lake, investigators should have recovered substantial remains. The lack of wreckage suggests witness error, exaggeration, or misperception of a meteor event.
 
-The opposing interpretation focuses on the military findings. Search personnel reported disturbances on the lake floor and remained convinced that witnesses had observed a real object. Swedish Air Force officer Karl-Gösta Bartoll later maintained that the phenomenon involved physical objects rather than simple imagination or hysteria. He speculated that an object might have fragmented or consisted of materials difficult to detect with the available equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+The opposing interpretation focuses on the military findings. Search personnel reported disturbances on the lake floor and remained convinced that witnesses had observed a real object. Swedish Air Force officer Karl-Gösta Bartoll later maintained that the phenomenon involved physical objects rather than simple imagination or hysteria. He speculated that an object might have fragmented or consisted of materials difficult to detect with the available equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-Neither explanation fully resolves the case. The physical traces were insufficient to identify an object, while the witness testimony was detailed enough to prevent an easy dismissal. Kölmjärv therefore became the defining example of the ghost-rocket problem: apparent evidence of an event, but no conclusive proof of what occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the ghost rockets over scandinavia</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe Ghost Rockets Over Scandinavia13 May 2025 — On July 19, 1946, a “ghost rocket” was reportedly seen crashing...</span><span class="citation-popover-meta">Published: July 19, 1946</span></span></span>
+Neither explanation fully resolves the case. The physical traces were insufficient to identify an object, while the witness testimony was detailed enough to prevent an easy dismissal. Kölmjärv therefore became the defining example of the ghost-rocket problem: apparent evidence of an event, but no conclusive proof of what occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the ghost rockets over scandinavia</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe Ghost Rockets Over Scandinavia13 May 2025 — On July 19, 1946, a “ghost rocket” was reportedly seen crashing...</span><span class="citation-popover-meta">Published: July 19, 1946</span></span></span>
 
 ## What explanations survived later review
 
 ### Meteor activity explains part of the wave
 
-The strongest conventional explanation is that a substantial number of ghost-rocket reports were caused by meteors. Investigators later noted that major peaks in sightings coincided with the annual Perseid meteor shower. Fast-moving fireballs can appear dramatic, produce fragmentation effects, and create misleading impressions of controlled flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+The strongest conventional explanation is that a substantial number of ghost-rocket reports were caused by meteors. Investigators later noted that major peaks in sightings coincided with the annual Perseid meteor shower. Fast-moving fireballs can appear dramatic, produce fragmentation effects, and create misleading impressions of controlled flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-This explanation fits many reports, particularly brief observations from a distance. It also explains why recovered fragments submitted to investigators often turned out to be ordinary terrestrial material or meteorite-related debris rather than rocket components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+This explanation fits many reports, particularly brief observations from a distance. It also explains why recovered fragments submitted to investigators often turned out to be ordinary terrestrial material or meteorite-related debris rather than rocket components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
-However, the meteor theory struggles with some claims involving prolonged horizontal movement, apparent manoeuvres, or detailed daylight observations. Critics of the meteor explanation argue that it accounts for part of the wave but not necessarily all of it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+However, the meteor theory struggles with some claims involving prolonged horizontal movement, apparent manoeuvres, or detailed daylight observations. Critics of the meteor explanation argue that it accounts for part of the wave but not necessarily all of it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 <img src="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-2-dark.svg" | relative_url }}" alt="Ghost Rockets illustration 2" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Secret missile testing remains plausible but incomplete
 
-The second major explanation involves military technology. Because the reports occurred immediately after the war, many analysts suspected experimental missiles derived from German designs. The idea gained credibility because Sweden and other countries were aware that both the Soviet Union and Western powers were racing to absorb German rocket expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The second major explanation involves military technology. Because the reports occurred immediately after the war, many analysts suspected experimental missiles derived from German designs. The idea gained credibility because Sweden and other countries were aware that both the Soviet Union and Western powers were racing to absorb German rocket expertise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Yet this theory also faces difficulties. No confirmed launch programme has been tied directly to the sightings, and no recovered hardware demonstrated that Soviet missile tests were crossing Scandinavian airspace in the manner often imagined. The hypothesis remains plausible as a partial explanation, particularly for some observations, but it lacks definitive supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+Yet this theory also faces difficulties. No confirmed launch programme has been tied directly to the sightings, and no recovered hardware demonstrated that Soviet missile tests were crossing Scandinavian airspace in the manner often imagined. The hypothesis remains plausible as a partial explanation, particularly for some observations, but it lacks definitive supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 ### Mass reporting and wartime anxiety amplified the phenomenon
 
-A third explanation focuses less on individual objects and more on social conditions. The public had recently witnessed revolutionary weapons technology, newspapers gave extensive coverage to unusual sightings, and populations across northern Europe were alert to security threats. Under such conditions, ambiguous aerial events were more likely to be interpreted as rockets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1946-The-Ghost-Rockets.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sohp.us">[Sign Oral History Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sohp.us</span><span class="citation-popover-title">GROSS 1946 The Ghost Rockets</span><span class="citation-popover-snippet">Sign Oral History Project1946: The Ghost Rockets - UFO&#x27;s&quot;Heretofore newspapers in Norway, Sweden, and even Switzerland have reported pers...</span></span></span>
+A third explanation focuses less on individual objects and more on social conditions. The public had recently witnessed revolutionary weapons technology, newspapers gave extensive coverage to unusual sightings, and populations across northern Europe were alert to security threats. Under such conditions, ambiguous aerial events were more likely to be interpreted as rockets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1946-The-Ghost-Rockets.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sohp.us">[Sign Oral History Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sohp.us</span><span class="citation-popover-title">GROSS 1946 The Ghost Rockets</span><span class="citation-popover-snippet">Sign Oral History Project1946: The Ghost Rockets - UFO&#x27;s&quot;Heretofore newspapers in Norway, Sweden, and even Switzerland have reported pers...</span></span></span>
 
-This does not require every witness to be mistaken. Instead, it suggests that genuine observations, rumours, meteor sightings, and mistaken identifications became merged into a single national narrative. Many historians regard this as an important part of understanding why the wave became so large. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Swedish Ghost Rockets19 Jun 2018 — This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missi...</span></span></span>
+This does not require every witness to be mistaken. Instead, it suggests that genuine observations, rumours, meteor sightings, and mistaken identifications became merged into a single national narrative. Many historians regard this as an important part of understanding why the wave became so large.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Swedish Ghost Rockets19 Jun 2018 — This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missi...</span></span></span>
 
 <img src="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-3-dark.svg" | relative_url }}" alt="Ghost Rockets illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence that still resists easy dismissal
 
-The unresolved core of the ghost-rocket story is smaller than popular retellings often suggest. Thousands of reports did not remain unexplained. Most were either weakly documented or eventually considered compatible with conventional causes. The mystery survives because of a narrower set of cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+The unresolved core of the ghost-rocket story is smaller than popular retellings often suggest. Thousands of reports did not remain unexplained. Most were either weakly documented or eventually considered compatible with conventional causes. The mystery survives because of a narrower set of cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 Several features continue to attract attention:
 
@@ -329,7 +329,7 @@ Several features continue to attract attention:
 * Reports involving military personnel and trained observers.
 * Apparently consistent descriptions from different regions.
 * Cases associated with claimed lake impacts.
-* Contemporary military assessments that treated at least some reports as real physical objects rather than hoaxes or fantasies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+* Contemporary military assessments that treated at least some reports as real physical objects rather than hoaxes or fantasies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 At the same time, the evidence has important limitations:
 
@@ -339,7 +339,7 @@ At the same time, the evidence has important limitations:
 * Photographic evidence was extremely limited and inconclusive.
 * Witness testimony often varied in detail.
 * Radar information remains fragmentary.
-* Surviving records cannot establish a single explanation covering every report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+* Surviving records cannot establish a single explanation covering every report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 </div>
 
@@ -349,203 +349,203 @@ The result is a classic unresolved historical case rather than a solved mystery 
 
 ## Why the ghost rockets still matter in Sweden
 
-The lasting significance of the ghost rockets is not that they proved alien visitation or secret super-weapons. Their importance lies in how Sweden responded. The wave prompted systematic military investigation, generated extensive archives, and established a model for later UFO reporting that distinguished between explained cases and genuinely unidentified ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+The lasting significance of the ghost rockets is not that they proved alien visitation or secret super-weapons. Their importance lies in how Sweden responded. The wave prompted systematic military investigation, generated extensive archives, and established a model for later UFO reporting that distinguished between explained cases and genuinely unidentified ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 Many later Swedish UFO discussions trace their origins back to 1946. Researchers, archivists, and organisations such as UFO-Sverige inherited a culture shaped by the ghost-rocket experience: collect reports carefully, compare witness accounts, preserve documents, and avoid assuming that an unexplained case automatically proves an extraordinary cause.
 
-That approach explains why the ghost rockets remain central to Sweden’s UFO history. The mystery survives not because the evidence became stronger over time, but because the strongest cases never produced the decisive piece of evidence that would settle the debate. More than seventy years later, the ghost rockets occupy a rare position in historical UFO research: significant enough to deserve continued study, yet incomplete enough to resist a final verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
+That approach explains why the ghost rockets remain central to Sweden’s UFO history. The mystery survives not because the evidence became stronger over time, but because the strongest cases never produced the decisive piece of evidence that would settle the debate. More than seventy years later, the ghost rockets occupy a rare position in historical UFO research: significant enough to deserve continued study, yet incomplete enough to resist a final verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost (1990 film</span><span class="citation-popover-snippet">Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NYa1WUozE7U" title="A Visit to the Archives for the Unexplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NYa1WUozE7U" target="_blank" rel="noopener noreferrer">A Visit to the Archives for the Unexplained</a></p><p class="youtube-embed-meta">Channel: Sacred Inclusion Network &middot; Views: 327 &middot; Uploaded: April 2022 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NYa1WUozE7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NYa1WUozE7U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sweden&#x27;s Ghost Rockets Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sweden&#x27;s Ghost Rockets Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains substantial coverage of the 1946 ghost rocket wave and Scandinavian cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains substantial coverage of the 1946 ghost rocket wave and Scandinavian cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises evidence quality and official reporting, themes central to ghost rockets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence quality and official reporting, themes central to ghost rockets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects how ghost rocket reports influenced postwar UFO debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects how ghost rocket reports influenced postwar UFO debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Good</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
+</h4>
+<p class="fr-book-author">By Timothy Good</p>
         
-        <p class="fr-book-desc">Frequently references Cold War-era unexplained aerial cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently references Cold War-era unexplained aerial cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers Are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers Are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sweden-s-ghost-rockets-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-sweden-s-ghost-rockets-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ That approach explains why the ghost rockets remain central to Sweden’s UFO hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ That approach explains why the ghost rockets remain central to Sweden’s UFO hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ That approach explains why the ghost rockets remain central to Sweden’s UFO hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ That approach explains why the ghost rockets remain central to Sweden’s UFO hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ That approach explains why the ghost rockets remain central to Sweden’s UFO hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,127 +748,126 @@ That approach explains why the ghost rockets remain central to Sweden’s UFO hi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/1946-08-23.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/1946-08-23.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/628" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Swedish Ghost Rockets19 Jun 2018 — This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missi...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/628" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Swedish Ghost Rockets19 Jun 2018 — This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sweden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sweden</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Swedena Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sweden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sweden</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Swedena Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Ghost (Swedish band)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost (Swedish band)Ghost is a Swedish rock band formed in Linköping, in 2006. The band released their debut album, Opus Eponymous, in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost (Swedish band)Ghost is a Swedish rock band formed in Linköping, in 2006. The band released their debut album, Opus Eponymous, in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ghost (1990 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_%281990_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_%281990_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_%281990_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost (1990 film)Ghost is a 1990 American supernatural romance film directed by Jerry Zucker, written by Bruce Joel Rubin, and starrin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: A Visit to the Archives for the Unexplained  
-   Link: <a href="https://www.youtube.com/watch?v=NYa1WUozE7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NYa1WUozE7U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rockets | Wikipedia audio article...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NYa1WUozE7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NYa1WUozE7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rockets | Wikipedia audio article...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Ghost rockets | Wikipedia audio article  
-   Link: <a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG6IAZ5HtU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG6IAZ5HtU</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sohp.us  
    Title: GROSS 1946 The Ghost Rockets  
-   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1946-The-Ghost-Rockets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1946-The-Ghost-Rockets.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sign Oral History Project1946: The Ghost Rockets - UFO&#x27;s&quot;Heretofore newspapers in Norway, Sweden, and even Switzerland have reported pers...</p></details>
+   Link:<a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1946-The-Ghost-Rockets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1946-The-Ghost-Rockets.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sign Oral History Project1946: The Ghost Rockets - UFO&#x27;s&quot;Heretofore newspapers in Norway, Sweden, and even Switzerland have reported pers...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tvi.show  
    Title: the ghost rockets over scandinavia  
-   Link: <a href="https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe Ghost Rockets Over Scandinavia13 May 2025 — On July 19, 1946, a “ghost rocket” was reportedly seen crashing...</p></details>
+   Link:<a href="https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/the-unexplained/the-ghost-rockets-over-scandinavia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe Ghost Rockets Over Scandinavia13 May 2025 — On July 19, 1946, a “ghost rocket” was reportedly seen crashing...</p></details>
    Published: July 19, 1946  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: futilitycloset.com  
    Title: ghost rockets  
-   Link: <a href="https://www.futilitycloset.com/2007/01/24/ghost-rockets/" target="_blank" rel="noopener noreferrer nofollow">https://www.futilitycloset.com/2007/01/24/ghost-rockets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2007 — It was photographed by the Swedish army on July 9, 1946, one of thousands of such sightings over Scandinavia that summer. S...</p></details>
+   Link:<a href="https://www.futilitycloset.com/2007/01/24/ghost-rockets/" target="_blank" rel="noopener noreferrer nofollow">https://www.futilitycloset.com/2007/01/24/ghost-rockets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2007 — It was photographed by the Swedish army on July 9, 1946, one of thousands of such sightings over Scandinavia that summer. S...</p></details>
    Published: July 9, 1946  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1946a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1946a.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Rocket Reports, 1946The military police at Gardermoen also are carrying on an investigation concerning the two &quot;flier X&#x27;s&quot; which we...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1946a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1946a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Rocket Reports, 1946The military police at Gardermoen also are carrying on an investigation concerning the two &quot;flier X&#x27;s&quot; which we...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: docdroid.net  
-   Link: <a href="https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RocketsThis is the only known photograph to be taken of one of the numerous “ghost rockets” observed over Swedish territory during the su...</p></details>
+   Link:<a href="https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.docdroid.net/file/download/BxSB1ZC/swedens-ghost-rockets-the-aviation-historian-24-pdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RocketsThis is the only known photograph to be taken of one of the numerous “ghost rockets” observed over Swedish territory during the su...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena in post-war ScandinaviaThe Swedish Defense Staff documented 225 sightings of “real physical objects” in day...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena in post-war ScandinaviaThe Swedish Defense Staff documented 225 sightings of “real physical objects” in day...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blockbuster.dk  
-   Link: <a href="https://www.blockbuster.dk/da/movie/ghost" target="_blank" rel="noopener noreferrer nofollow">https://www.blockbuster.dk/da/movie/ghost</a>  
+   Link:<a href="https://www.blockbuster.dk/da/movie/ghost" target="_blank" rel="noopener noreferrer nofollow">https://www.blockbuster.dk/da/movie/ghost</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCAOiVaJJlH0Oduv48NN0mMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCAOiVaJJlH0Oduv48NN0mMA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GhostIt&#x27;s virtually impossible to overstate how far GHOST has come since manifesting from the imagination of Tobias Forge in the early 21...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCAOiVaJJlH0Oduv48NN0mMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCAOiVaJJlH0Oduv48NN0mMA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GhostIt&#x27;s virtually impossible to overstate how far GHOST has come since manifesting from the imagination of Tobias Forge in the early 21...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.nuremberg.media  
    Title: First Reports Of Ghost Rockets The Beginning Of UFO Mania  
-   Link: <a href="https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html" target="_blank" rel="noopener noreferrer nofollow">https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Casus pacisFirst Reports Of &quot;Ghost Rockets&quot;, The Beginning Of UFO...Feb 26, 2021 — In 1946, there were about 2,000 UFO reports. Investig...</p></details>
+   Link:<a href="https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html" target="_blank" rel="noopener noreferrer nofollow">https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Casus pacisFirst Reports Of &quot;Ghost Rockets&quot;, The Beginning Of UFO...Feb 26, 2021 — In 1946, there were about 2,000 UFO reports. Investig...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: crystalinks.com  
-   Link: <a href="https://www.crystalinks.com/ghostrockets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ghostrockets.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost RocketsThe best known of these crashes occurred on July 19, 1946, into Lake Kolmjarv, Sweden. Witnesses reported a gray, rocket-sha...</p></details>
+   Link:<a href="https://www.crystalinks.com/ghostrockets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ghostrockets.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost RocketsThe best known of these crashes occurred on July 19, 1946, into Lake Kolmjarv, Sweden. Witnesses reported a gray, rocket-sha...</p></details>
    Published: July 19, 1946  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: edn.com  
    Title: ghost rocket ufos are 1st reported february 26 1946  
-   Link: <a href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rocket UFOs are 1st reported, February 26, 194626 Feb 2013 — Ghost rockets, rocket- or missile-shaped unidentified flying objects (...</p></details>
+   Link:<a href="https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/ghost-rocket-ufos-are-1st-reported-february-26-1946/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rocket UFOs are 1st reported, February 26, 194626 Feb 2013 — Ghost rockets, rocket- or missile-shaped unidentified flying objects (...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1946 &quot;Ghost Rockets&quot;: r/UnresolvedMysteriesOn several occasions they were seen to crash (often in lakes, most famously in Kölmjärv)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1946 &quot;Ghost Rockets&quot;: r/UnresolvedMysteriesOn several occasions they were seen to crash (often in lakes, most famously in Kölmjärv)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/2087/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/2087/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o has just sent AFU two heavy boxes (50 kilos in all!) of materials...</p></details>
+   Link:<a href="https://www.afu.se/2087/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/2087/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o has just sent AFU two heavy boxes (50 kilos in all!) of materials...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: swedish ghost rockets of 1946 when swedish  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Swedish ghost rockets of 1946-- when...Swedish investigators/scientists reached the conclusion that the &quot;rockets&quot; investigated were of e...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Swedish ghost rockets of 1946-- when...Swedish investigators/scientists reached the conclusion that the &quot;rockets&quot; investigated were of e...</p></details>

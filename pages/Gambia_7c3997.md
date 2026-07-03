@@ -1194,27 +1194,27 @@ image: /assets/images/Gambia_7c3997-overview-social.jpg
 
 ## What the Gambian record actually contains
 
-The public record is sparse. International UFO databases do not currently give The Gambia the kind of searchable case cluster seen for larger countries; for example, the National UFO Reporting Center’s location index lists many countries, including nearby Senegal and Ghana, but a text search of its location index finds no entry for “Gambia”. That does not prove no Gambian sightings have occurred, but it does show that the country has not produced a prominent English-language database trail in that archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The public record is sparse. International UFO databases do not currently give The Gambia the kind of searchable case cluster seen for larger countries; for example, the National UFO Reporting Center’s location index lists many countries, including nearby Senegal and Ghana, but a text search of its location index finds no entry for “Gambia”. That does not prove no Gambian sightings have occurred, but it does show that the country has not produced a prominent English-language database trail in that archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Gambia_7c3997-overview.webp" | relative_url }}" alt="Overview image for What Is Really Behind Gambia&#x27;s UFO Reports?" loading="eager" decoding="sync" fetchpriority="high">
-The most useful starting point is therefore not a catalogue of dramatic sightings, but the national reporting environment. The Gambia Civil Aviation Authority is the relevant aviation safety regulator: its own regulations page describes it as responsible for aviation safety oversight, licensing and surveillance of aircraft operations within the country. The official government directory lists the GCAA at Banjul International Airport and links to the Civil Aviation Act and aviation regulations, including operations, airworthiness and foreign air operator rules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">Regulations – The Gambia Civil Aviation Authority</span><span class="citation-popover-snippet">Regulations – The Gambia Civil Aviation Authority</span></span></span>
+The most useful starting point is therefore not a catalogue of dramatic sightings, but the national reporting environment. The Gambia Civil Aviation Authority is the relevant aviation safety regulator: its own regulations page describes it as responsible for aviation safety oversight, licensing and surveillance of aircraft operations within the country. The official government directory lists the GCAA at Banjul International Airport and links to the Civil Aviation Act and aviation regulations, including operations, airworthiness and foreign air operator rules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">Regulations – The Gambia Civil Aviation Authority</span><span class="citation-popover-snippet">Regulations – The Gambia Civil Aviation Authority</span></span></span>
 
-That matters because most serious modern UAP cases are not assessed only as “UFO stories”. They are treated as airspace, safety or security questions. In The Gambia, non-scheduled flights into, from or over the country require prior permits, and applications are expected to identify the operator, aircraft type, registration, call sign, routing, timing, cargo and other details. A genuinely unknown object in controlled or sensitive airspace would therefore be important less because of its label and more because it falls outside the expected permission-and-identification system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/services/permits-authorisations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">Permits &amp; Authorisations – The Gambia Civil Aviation Authority</span><span class="citation-popover-snippet">Permits &amp; Authorisations – The Gambia Civil Aviation Authority</span></span></span>
+That matters because most serious modern UAP cases are not assessed only as “UFO stories”. They are treated as airspace, safety or security questions. In The Gambia, non-scheduled flights into, from or over the country require prior permits, and applications are expected to identify the operator, aircraft type, registration, call sign, routing, timing, cargo and other details. A genuinely unknown object in controlled or sensitive airspace would therefore be important less because of its label and more because it falls outside the expected permission-and-identification system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/services/permits-authorisations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">Permits &amp; Authorisations – The Gambia Civil Aviation Authority</span><span class="citation-popover-snippet">Permits &amp; Authorisations – The Gambia Civil Aviation Authority</span></span></span>
 
 ## The June 2025 Sare Gubu metal ring case
 
-The clearest recent Gambian incident is the reported fall of a metal ring around Sare Gubu village in Sandu District, Upper River Region, in June 2025. LamToro News reported that the acting spokesperson of the Gambia Armed Forces, Captain Kemo Kanuteh, confirmed that soldiers from the 3 Infantry Battalion in Basse collected the metal ring after it crashed near Sare Gubu. The same report said experts would investigate and that the results would determine what surrounded the incident; it also noted a report of another metal object landing in Tabanding village in Senegal, close to the Gambian border. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lamtoronews.com">[lamtoronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lamtoronews.com</span><span class="citation-popover-snippet">Open source on lamtoronews.com.</span></span></span>
+The clearest recent Gambian incident is the reported fall of a metal ring around Sare Gubu village in Sandu District, Upper River Region, in June 2025. LamToro News reported that the acting spokesperson of the Gambia Armed Forces, Captain Kemo Kanuteh, confirmed that soldiers from the 3 Infantry Battalion in Basse collected the metal ring after it crashed near Sare Gubu. The same report said experts would investigate and that the results would determine what surrounded the incident; it also noted a report of another metal object landing in Tabanding village in Senegal, close to the Gambian border.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lamtoronews.com">[lamtoronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lamtoronews.com</span><span class="citation-popover-snippet">Open source on lamtoronews.com.</span></span></span>
 
 This case is confirmed in a limited but meaningful sense: a local news report attributes collection of the object to the Gambia Armed Forces, and the location, military response and investigation status are specific. It is not confirmed in the stronger sense of having a published technical report, chain-of-custody documentation, material analysis, trajectory reconstruction or identification of the launch vehicle or object source. The difference matters. A recovered object is better evidence than a vague light in the sky, but without technical analysis it remains an unidentified object, not evidence of an extraordinary craft.
 
-The “metal ring” description points towards a mundane but still serious possibility: space debris or aerospace debris. Space agencies treat re-entering debris as a real safety issue because some fragments can survive atmospheric re-entry. NASA’s Orbital Debris Program describes tools for estimating whether spacecraft and launch-vehicle components survive re-entry, while ESA explains that re-entry risk analysis looks at surviving fragments, their ground swath and casualty risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The “metal ring” description points towards a mundane but still serious possibility: space debris or aerospace debris. Space agencies treat re-entering debris as a real safety issue because some fragments can survive atmospheric re-entry. NASA’s Orbital Debris Program describes tools for estimating whether spacecraft and launch-vehicle components survive re-entry, while ESA explains that re-entry risk analysis looks at surviving fragments, their ground swath and casualty risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-A relevant comparison is Kenya’s December 2024 Mukuku incident, where a large metallic ring was investigated by the Kenya Space Agency as likely launch-vehicle separation-ring debris. That does not identify the Gambian object, but it shows that ring-shaped metallic debris falling in Africa is a known category of real-world event rather than inherently a UFO mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/kenya-metallic-ring-debris-space-agency-7zmgbxr9v" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Space debris lands in Kenya after New Year&#x27;s Eve light show</span><span class="citation-popover-snippet">The Times Space debris lands in Kenya after New Year&#x27;s Eve light show</span></span></span>
+A relevant comparison is Kenya’s December 2024 Mukuku incident, where a large metallic ring was investigated by the Kenya Space Agency as likely launch-vehicle separation-ring debris. That does not identify the Gambian object, but it shows that ring-shaped metallic debris falling in Africa is a known category of real-world event rather than inherently a UFO mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/kenya-metallic-ring-debris-space-agency-7zmgbxr9v" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Space debris lands in Kenya after New Year&#x27;s Eve light show</span><span class="citation-popover-snippet">The Times Space debris lands in Kenya after New Year&#x27;s Eve light show</span></span></span>
 
 <img src="{{ "/assets/images/Gambia_7c3997-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really Behind Gambia&#x27;s UFO Reports? illustration 1" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why geography changes how sightings would be reported
 
-The Gambia’s shape makes national UFO reporting unusual. It is a narrow West African country on the Atlantic coast, surrounded by Senegal except at the ocean, and its land is dominated by the River Gambia. Britannica describes the country as a long narrow strip around the river, flat and river-dominated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/The-Gambia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica The Gambia &#124; Culture, Religion, Map, Language, Capital</span><span class="citation-popover-snippet">Encyclopedia Britannica The Gambia &#124; Culture, Religion, Map, Language, Capital</span></span></span>
+The Gambia’s shape makes national UFO reporting unusual. It is a narrow West African country on the Atlantic coast, surrounded by Senegal except at the ocean, and its land is dominated by the River Gambia. Britannica describes the country as a long narrow strip around the river, flat and river-dominated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/The-Gambia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica The Gambia &#124; Culture, Religion, Map, Language, Capital</span><span class="citation-popover-snippet">Encyclopedia Britannica The Gambia &#124; Culture, Religion, Map, Language, Capital</span></span></span>
 
 That geography affects interpretation in three ways. First, many sightings or debris falls near the eastern or northern parts of the country may be cross-border events by default. The Sare Gubu report is a good example because the same local account points to a related object in Senegal only a short distance away. Second, the country’s main aviation and security focus is concentrated around the coast, Greater Banjul and Banjul International Airport, while rural eastern reports may depend more heavily on local witnesses, village authorities, soldiers, police and regional media. Third, objects moving across the sky may be observed from both Gambian and Senegalese territory, so a serious investigation would need cross-border timing, witness statements and, where available, radar or satellite data.
 
@@ -1222,7 +1222,7 @@ This is also why a Gambian UFO page should connect naturally to sibling country 
 
 ## Official records and what they can realistically show
 
-The Gambia has an aviation investigation framework, but it is not a public UFO archive. The Civil Aviation Act, 2018 establishes an Accident Investigation Bureau framework and states that aviation investigations are for preventing accidents and incidents. It requires relevant aviation actors, including airport operators, air traffic controllers and anyone with knowledge of an accident or incident, to report as soon as possible by the quickest available means. It also allows the commissioner to decide the extent of investigation for accidents, serious incidents or other occurrences with safety implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/wp-content/uploads/2023/09/GCAA-ACT-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
+The Gambia has an aviation investigation framework, but it is not a public UFO archive. The Civil Aviation Act, 2018 establishes an Accident Investigation Bureau framework and states that aviation investigations are for preventing accidents and incidents. It requires relevant aviation actors, including airport operators, air traffic controllers and anyone with knowledge of an accident or incident, to report as soon as possible by the quickest available means. It also allows the commissioner to decide the extent of investigation for accidents, serious incidents or other occurrences with safety implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaa.aero/wp-content/uploads/2023/09/GCAA-ACT-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.aero">[gcaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.aero</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
 
 For UFO research, this means official Gambian material would most likely appear under aviation incident, airspace security, drone, airport safety or military/security reporting rather than under a “UFO” label. A bright object seen by villagers might never reach a national aviation file unless it affected an aircraft, airport, restricted site or public safety. Conversely, a drone or unidentified aerial object near Banjul International Airport would be more likely to receive formal attention because it intersects with regulated airspace.
 
@@ -1234,18 +1234,18 @@ The public access problem is significant. The existence of an official reporting
 
 Modern unidentified aerial sightings in The Gambia must be separated from older UFO assumptions. Drones, unmanned aircraft and other aerial devices are now a normal part of the sky, and they create exactly the kind of ambiguous reports once filed as UFOs: lights near airports, hovering objects, unusual movement, or small craft seen at night.
 
-The drone-law picture is partly public and partly opaque. A drone-law aggregator summarising Gambian rules says drone operations are regulated and that remotely piloted aircraft should not be operated in a way that causes a hazard to persons, property or other aircraft; it also says operations require appropriate authorisation from the authority. Because this is a secondary source and even notes that some official links have been difficult to reach, it should be treated as guidance rather than a substitute for direct GCAA confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drone-laws.com/drone-laws-in-the-gambia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone-laws.com">[Drone Laws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone-laws.com</span><span class="citation-popover-title">drone laws in the gambia</span><span class="citation-popover-snippet">drone laws in the gambia</span></span></span>
+The drone-law picture is partly public and partly opaque. A drone-law aggregator summarising Gambian rules says drone operations are regulated and that remotely piloted aircraft should not be operated in a way that causes a hazard to persons, property or other aircraft; it also says operations require appropriate authorisation from the authority. Because this is a secondary source and even notes that some official links have been difficult to reach, it should be treated as guidance rather than a substitute for direct GCAA confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drone-laws.com/drone-laws-in-the-gambia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone-laws.com">[Drone Laws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone-laws.com</span><span class="citation-popover-title">drone laws in the gambia</span><span class="citation-popover-snippet">drone laws in the gambia</span></span></span>
 
-More concretely, Gambiana reported in January 2026 that The Gambia’s Ministry of Defence warned against operation of drones, UAVs and other aerial objects over key national installations, including State House, Banjul International Airport and defence and security sites. The report said unauthorised aerial activity in those areas would be treated as a serious security violation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gambiana.com/ministry-of-defence-bans-drone-flights-over-key-national-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gambiana.com">[Gambiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gambiana.com</span><span class="citation-popover-title">Ministry of Defence bans drone flights over key national sites</span><span class="citation-popover-snippet">Ministry of Defence bans drone flights over key national sites</span></span></span>
+More concretely, Gambiana reported in January 2026 that The Gambia’s Ministry of Defence warned against operation of drones, UAVs and other aerial objects over key national installations, including State House, Banjul International Airport and defence and security sites. The report said unauthorised aerial activity in those areas would be treated as a serious security violation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gambiana.com/ministry-of-defence-bans-drone-flights-over-key-national-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gambiana.com">[Gambiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gambiana.com</span><span class="citation-popover-title">Ministry of Defence bans drone flights over key national sites</span><span class="citation-popover-snippet">Ministry of Defence bans drone flights over key national sites</span></span></span>
 
 That security framing is important for any future Gambian UFO case. A light over a beach resort may be a curiosity. A light over Banjul International Airport, State House or a military installation is a security incident until identified. This does not make it alien, but it does make it worth documenting carefully.
 
 <img src="{{ "/assets/images/Gambia_7c3997-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really Behind Gambia&#x27;s UFO Reports? illustration 2" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors, fireballs and sky reports that look extraordinary
 
-Some UFO reports begin as honest observations of meteors, fireballs or re-entering debris. NASA’s CNEOS fireball page provides public data from US Government sensor detections, but it warns that the data are not real-time, not independently reanalysed by CNEOS, and not all fireballs are reported. The American Meteor Society also points to the International Meteor Organization’s Fireball Data Center as a route for collecting fireball reports around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Some UFO reports begin as honest observations of meteors, fireballs or re-entering debris. NASA’s CNEOS fireball page provides public data from US Government sensor detections, but it warns that the data are not real-time, not independently reanalysed by CNEOS, and not all fireballs are reported. The American Meteor Society also points to the International Meteor Organization’s Fireball Data Center as a route for collecting fireball reports around the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is relevant to The Gambia because a bright meteor can be seen over a wide region and may be reported differently from village to village: a missile, a burning object, a falling star, a spiritual sign, a plane accident or a UFO. A West African example from Nigeria shows how this can happen: DUBAWA fact-checked reports of a “missile-like” light in Sokoto and Kebbi and judged the claim misleading, finding that the appearance and timing were more consistent with meteor activity during the Eta Aquariids meteor shower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
+This is relevant to The Gambia because a bright meteor can be seen over a wide region and may be reported differently from village to village: a missile, a burning object, a falling star, a spiritual sign, a plane accident or a UFO. A West African example from Nigeria shows how this can happen: DUBAWA fact-checked reports of a “missile-like” light in Sokoto and Kebbi and judged the claim misleading, finding that the appearance and timing were more consistent with meteor activity during the Eta Aquariids meteor shower.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
 
 For Gambian sightings, this means the best first questions are practical. Was there a known meteor shower? Was the object visible across a broad area? Did it move in a straight, fast path with a glowing trail? Was there sound delayed by several minutes? Did any recovered material exist? These questions will usually do more to sort real anomalies from common sky phenomena than speculation about origin.
 
@@ -1253,13 +1253,13 @@ For Gambian sightings, this means the best first questions are practical. Was th
 
 A useful Gambian evidence split is small but clear.
 
-**Confirmed or partly confirmed:** The Sare Gubu metal ring incident is the strongest public case because it involves a reported physical object, a named location, a named military unit and a reported statement by a Gambia Armed Forces spokesperson. It is confirmed as a public safety and recovery incident, not as an identified spacecraft or alien-related case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lamtoronews.com/tag/ring/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lamtoronews.com">[lamtoronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lamtoronews.com</span><span class="citation-popover-title">ring – Lam Toro News</span><span class="citation-popover-snippet">ring – Lam Toro News</span></span></span>
+**Confirmed or partly confirmed:** The Sare Gubu metal ring incident is the strongest public case because it involves a reported physical object, a named location, a named military unit and a reported statement by a Gambia Armed Forces spokesperson. It is confirmed as a public safety and recovery incident, not as an identified spacecraft or alien-related case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lamtoronews.com/tag/ring/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lamtoronews.com">[lamtoronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lamtoronews.com</span><span class="citation-popover-title">ring – Lam Toro News</span><span class="citation-popover-snippet">ring – Lam Toro News</span></span></span>
 
-**Contested or unresolved:** The origin of the Sare Gubu object remains unresolved in public reporting. Space debris is plausible because of the object’s described form and because ring-shaped launch debris has occurred elsewhere, but plausibility is not identification. A firm conclusion would require material analysis, dimensions, markings, trajectory modelling and correlation with known re-entries or launches. NASA and ESA sources show that re-entry survival analysis is a technical discipline, not something that can be done from photographs or rumours alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/photo-gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-title">photo gallery</span><span class="citation-popover-snippet">photo gallery</span></span></span>
+**Contested or unresolved:** The origin of the Sare Gubu object remains unresolved in public reporting. Space debris is plausible because of the object’s described form and because ring-shaped launch debris has occurred elsewhere, but plausibility is not identification. A firm conclusion would require material analysis, dimensions, markings, trajectory modelling and correlation with known re-entries or launches. NASA and ESA sources show that re-entry survival analysis is a technical discipline, not something that can be done from photographs or rumours alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/photo-gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-title">photo gallery</span><span class="citation-popover-snippet">photo gallery</span></span></span>
 
-**Weak or low-value evidence:** Generic “Gambia UFO sightings” pages and social media reposts add little unless they provide date, time, location, witness count, direction of travel, duration, images, official response or later correction. A page claiming to collect Gambian UFO reports but saying it is still working to add received material is not a reliable incident chronology by itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gambia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Weak or low-value evidence:** Generic “Gambia UFO sightings” pages and social media reposts add little unless they provide date, time, location, witness count, direction of travel, duration, images, official response or later correction. A page claiming to collect Gambian UFO reports but saying it is still working to add received material is not a reliable incident chronology by itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gambia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunked or likely ordinary:** No specific major Gambian case appears publicly debunked in the way some international UFO cases have been, but the broader pattern from serious UAP investigations is relevant. NASA’s UAP study reported no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP, while AARO says the US Department of Defense has found no evidence of extraterrestrial technology and lists several official UAP cases resolved as balloons or not anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> 2aaro.mil
+**Debunked or likely ordinary:** No specific major Gambian case appears publicly debunked in the way some international UFO cases have been, but the broader pattern from serious UAP investigations is relevant. NASA’s UAP study reported no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP, while AARO says the US Department of Defense has found no evidence of extraterrestrial technology and lists several official UAP cases resolved as balloons or not anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> 2aaro.mil
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xgPfdnolU0U" title="LIVE Massive Mysterious Metal Ring Crashes Into Kenyan Village | Kenya News Updates | News18 | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xgPfdnolU0U" target="_blank" rel="noopener noreferrer">LIVE Massive Mysterious Metal Ring Crashes Into Kenyan Village | Kenya News Updates | News18 | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 3.5K &middot; Uploaded: January 2025 &middot; Length: 1 hour 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xgPfdnolU0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xgPfdnolU0U">Open on YouTube</a></p></div></div></div>
 
@@ -1282,194 +1282,194 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
 <img src="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really Behind Gambia&#x27;s UFO Reports? illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Behind Gambia&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Behind Gambia&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Demonstrates how documented cases differ from sparse national records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how documented cases differ from sparse national records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for assessing sparse sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for assessing sparse sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a cautious evidence-based overview of Gambian reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a cautious evidence-based overview of Gambian reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful when examining anecdotal and folklore-linked reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful when examining anecdotal and folklore-linked reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-gambia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-gambia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1485,7 +1485,7 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1505,7 +1505,7 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1537,7 +1537,7 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1589,7 +1589,7 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1634,7 +1634,7 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1672,296 +1672,295 @@ That makes The Gambia a useful sibling case within a country-by-country UFO proj
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gcaa.aero  
    Title: Regulations – The Gambia Civil Aviation Authority  
-   Link: <a href="https://gcaa.aero/regulations/" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/regulations/</a>  
+   Link:<a href="https://gcaa.aero/regulations/" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/regulations/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gambia.gov.gm  
-   Link: <a href="https://gambia.gov.gm/gambia-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow">https://gambia.gov.gm/gambia-civil-aviation-authority/</a>  
+   Link:<a href="https://gambia.gov.gm/gambia-civil-aviation-authority/" target="_blank" rel="noopener noreferrer nofollow">https://gambia.gov.gm/gambia-civil-aviation-authority/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gcaa.aero  
    Title: Permits & Authorisations – The Gambia Civil Aviation Authority  
-   Link: <a href="https://gcaa.aero/services/permits-authorisations/" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/services/permits-authorisations/</a>  
+   Link:<a href="https://gcaa.aero/services/permits-authorisations/" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/services/permits-authorisations/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/</a>  
+   Link:<a href="https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/2025/06/10/3-infantry-battalion-soldiers-collected-metal-ring-which-crashes-around-sare-gubu-village-gaf-confirmed/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lamtoronews.com  
    Title: ring – Lam Toro News  
-   Link: <a href="https://lamtoronews.com/tag/ring/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/ring/</a>  
+   Link:<a href="https://lamtoronews.com/tag/ring/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/ring/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance</a>  
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Reentry_and_collision_avoidance</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica The Gambia | Culture, Religion, Map, Language, Capital  
-   Link: <a href="https://www.britannica.com/place/The-Gambia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/The-Gambia</a>  
+   Link:<a href="https://www.britannica.com/place/The-Gambia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/The-Gambia</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gcaa.aero  
    Title: Microsoft Word  
-   Link: <a href="https://gcaa.aero/wp-content/uploads/2023/09/GCAA-ACT-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/wp-content/uploads/2023/09/GCAA-ACT-2018.pdf</a>  
+   Link:<a href="https://gcaa.aero/wp-content/uploads/2023/09/GCAA-ACT-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/wp-content/uploads/2023/09/GCAA-ACT-2018.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drone-laws.com  
    Title: drone laws in the gambia  
-   Link: <a href="https://drone-laws.com/drone-laws-in-the-gambia/" target="_blank" rel="noopener noreferrer nofollow">https://drone-laws.com/drone-laws-in-the-gambia/</a>  
+   Link:<a href="https://drone-laws.com/drone-laws-in-the-gambia/" target="_blank" rel="noopener noreferrer nofollow">https://drone-laws.com/drone-laws-in-the-gambia/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gambiana.com  
    Title: Ministry of Defence bans drone flights over key national sites  
-   Link: <a href="https://gambiana.com/ministry-of-defence-bans-drone-flights-over-key-national-sites/" target="_blank" rel="noopener noreferrer nofollow">https://gambiana.com/ministry-of-defence-bans-drone-flights-over-key-national-sites/</a>  
+   Link:<a href="https://gambiana.com/ministry-of-defence-bans-drone-flights-over-key-national-sites/" target="_blank" rel="noopener noreferrer nofollow">https://gambiana.com/ministry-of-defence-bans-drone-flights-over-key-national-sites/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dubawa.org  
    Title: Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity  
-   Link: <a href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/</a>  
+   Link:<a href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: technology.esa.int  
-   Link: <a href="https://technology.esa.int/page/re-entry-safety" target="_blank" rel="noopener noreferrer nofollow">https://technology.esa.int/page/re-entry-safety</a>  
+   Link:<a href="https://technology.esa.int/page/re-entry-safety" target="_blank" rel="noopener noreferrer nofollow">https://technology.esa.int/page/re-entry-safety</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gambia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/gambia-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gambia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/gambia-ufo-sightings.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gcaa.aero  
-   Link: <a href="https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf</a>  
+   Link:<a href="https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gcaa.aero/wp-content/uploads/2023/09/PART-8-OPERATIONS.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/space-debris-101" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/space-debris-101</a>  
+   Link:<a href="https://aerospace.org/article/space-debris-101" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/space-debris-101</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/Space_Debris_FAQ_Frequently_asked_questions" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Space_Debris_FAQ_Frequently_asked_questions</a>  
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/Space_Debris_FAQ_Frequently_asked_questions" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/Space_Debris_FAQ_Frequently_asked_questions</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blogs.esa.int  
    Title: a new method to reduce the casualty risks of space debris during re entry  
-   Link: <a href="https://blogs.esa.int/cleanspace/2019/10/22/a-new-method-to-reduce-the-casualty-risks-of-space-debris-during-re-entry/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/cleanspace/2019/10/22/a-new-method-to-reduce-the-casualty-risks-of-space-debris-during-re-entry/</a>  
+   Link:<a href="https://blogs.esa.int/cleanspace/2019/10/22/a-new-method-to-reduce-the-casualty-risks-of-space-debris-during-re-entry/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/cleanspace/2019/10/22/a-new-method-to-reduce-the-casualty-risks-of-space-debris-during-re-entry/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Clean_Space/Space_debris_feel_the_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Clean_Space/Space_debris_feel_the_burn</a>  
+   Link:<a href="https://www.esa.int/Space_Safety/Clean_Space/Space_debris_feel_the_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Clean_Space/Space_debris_feel_the_burn</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: int S P-473  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/52/SDC3-paper52.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/52/SDC3-paper52.pdf</a>  
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/52/SDC3-paper52.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc3/paper/52/SDC3-paper52.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/tag/gaf/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/gaf/</a>  
+   Link:<a href="https://lamtoronews.com/tag/gaf/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/gaf/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/tag/border/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/border/</a>  
+   Link:<a href="https://lamtoronews.com/tag/border/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/border/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/tag/military/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/military/</a>  
+   Link:<a href="https://lamtoronews.com/tag/military/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/military/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/category/news/page/13/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/category/news/page/13/</a>  
+   Link:<a href="https://lamtoronews.com/category/news/page/13/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/category/news/page/13/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/category/security-matters/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/category/security-matters/page/4/</a>  
+   Link:<a href="https://lamtoronews.com/category/security-matters/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/category/security-matters/page/4/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: lamtoronews.com  
-   Link: <a href="https://lamtoronews.com/tag/gambia/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/gambia/page/12/</a>  
+   Link:<a href="https://lamtoronews.com/tag/gambia/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://lamtoronews.com/tag/gambia/page/12/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: photo gallery  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/photo-gallery/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/photo-gallery/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/photo-gallery/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/photo-gallery/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/faq/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/faq/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/faq/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/faq/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/orsat.html" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/orsat.html</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/orsat.html" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/orsat.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: space.blog.gov.uk  
    Title: the free falling rocket how we knew the uk was safe  
-   Link: <a href="https://space.blog.gov.uk/2021/05/14/the-free-falling-rocket-how-we-knew-the-uk-was-safe/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2021/05/14/the-free-falling-rocket-how-we-knew-the-uk-was-safe/</a>  
+   Link:<a href="https://space.blog.gov.uk/2021/05/14/the-free-falling-rocket-how-we-knew-the-uk-was-safe/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2021/05/14/the-free-falling-rocket-how-we-knew-the-uk-was-safe/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: assets.publishing.service.gov.uk  
    Title: AAIB Bulletin 6 2023  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/648039dc103ca6000c039a72/AAIB_Bulletin_6-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/648039dc103ca6000c039a72/AAIB_Bulletin_6-2023.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/648039dc103ca6000c039a72/AAIB_Bulletin_6-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/648039dc103ca6000c039a72/AAIB_Bulletin_6-2023.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mans-body-found-in-undercarriage-of-plane-that-flew-from-gambia-to-britain-12772604" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mans-body-found-in-undercarriage-of-plane-that-flew-from-gambia-to-britain-12772604</a>  
+   Link:<a href="https://news.sky.com/story/mans-body-found-in-undercarriage-of-plane-that-flew-from-gambia-to-britain-12772604" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mans-body-found-in-undercarriage-of-plane-that-flew-from-gambia-to-britain-12772604</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gcaa.gov.ae  
-   Link: <a href="https://www.gcaa.gov.ae/en/departments/airaccidentinvestigation/Pages/InvestigationReports.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.gov.ae/en/departments/airaccidentinvestigation/Pages/InvestigationReports.aspx</a>  
+   Link:<a href="https://www.gcaa.gov.ae/en/departments/airaccidentinvestigation/Pages/InvestigationReports.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.gov.ae/en/departments/airaccidentinvestigation/Pages/InvestigationReports.aspx</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: GOV.UK  
    Title: aircraft accident report aar 1 slash 2023 leonardo aw169 g vskp  
-   Link: <a href="https://www.gov.uk/aaib-reports/aircraft-accident-report-aar-1-slash-2023-leonardo-aw169-g-vskp" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/aaib-reports/aircraft-accident-report-aar-1-slash-2023-leonardo-aw169-g-vskp</a>  
+   Link:<a href="https://www.gov.uk/aaib-reports/aircraft-accident-report-aar-1-slash-2023-leonardo-aw169-g-vskp" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/aaib-reports/aircraft-accident-report-aar-1-slash-2023-leonardo-aw169-g-vskp</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: thetimes.co.uk  
    Title: The Times Space debris lands in Kenya after New Year's Eve light show  
-   Link: <a href="https://www.thetimes.co.uk/article/kenya-metallic-ring-debris-space-agency-7zmgbxr9v" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/kenya-metallic-ring-debris-space-agency-7zmgbxr9v</a>  
+   Link:<a href="https://www.thetimes.co.uk/article/kenya-metallic-ring-debris-space-agency-7zmgbxr9v" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/kenya-metallic-ring-debris-space-agency-7zmgbxr9v</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-gambia/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-gambia/</a>  
+   Link:<a href="https://uavcoach.com/drone-laws-in-gambia/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-gambia/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Senegal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Senegal</a>  
+   Link:<a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Senegal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Senegal</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Banjul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banjul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Banjul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Banjul</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: Wikipedia  
    Title: Space debris  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: openfactbook.org  
-   Link: <a href="https://openfactbook.org/countries/senegal/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/senegal/</a>  
+   Link:<a href="https://openfactbook.org/countries/senegal/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/senegal/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: unhabitat.org  
-   Link: <a href="https://unhabitat.org/gambia-national-urban-profile" target="_blank" rel="noopener noreferrer nofollow">https://unhabitat.org/gambia-national-urban-profile</a>  
+   Link:<a href="https://unhabitat.org/gambia-national-urban-profile" target="_blank" rel="noopener noreferrer nofollow">https://unhabitat.org/gambia-national-urban-profile</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/accidents-and-incidents" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents</a>  
+   Link:<a href="https://skybrary.aero/accidents-and-incidents" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.ufology" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.ufology</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.ufology" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.ufology</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: worldfactbookarchive.org  
-   Link: <a href="https://worldfactbookarchive.org/archive/field/GM/Geography%20-%20note" target="_blank" rel="noopener noreferrer nofollow">https://worldfactbookarchive.org/archive/field/GM/Geography%20-%20note</a>  
+   Link:<a href="https://worldfactbookarchive.org/archive/field/GM/Geography%20-%20note" target="_blank" rel="noopener noreferrer nofollow">https://worldfactbookarchive.org/archive/field/GM/Geography%20-%20note</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: ecoi.net  
-   Link: <a href="https://www.ecoi.net/en/countries/senegal/country-profiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoi.net/en/countries/senegal/country-profiles/</a>  
+   Link:<a href="https://www.ecoi.net/en/countries/senegal/country-profiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoi.net/en/countries/senegal/country-profiles/</a>  
 
 ### Additional References
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dcA0eQ7ILd8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dcA0eQ7ILd8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>【4K】 Drone RAW Footage This is GAMBIA 2020 Serekunda Banjul UltraHD Stock Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dcA0eQ7ILd8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dcA0eQ7ILd8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>【4K】 Drone RAW Footage This is GAMBIA 2020 Serekunda Banjul UltraHD Stock Video...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: Massive mysterious metal ring crashes into Kenyan village | REUTERS  
-   Link: <a href="https://www.youtube.com/watch?v=DNvZTLUVdKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DNvZTLUVdKw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE Massive Mysterious Metal Ring Crashes Into Kenyan Village | Kenya News Updates | News18 | N18G...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DNvZTLUVdKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DNvZTLUVdKw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE Massive Mysterious Metal Ring Crashes Into Kenyan Village | Kenya News Updates | News18 | N18G...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: "One in a million" piece of space debris crashes on remote village in Kenya  
-   Link: <a href="https://www.youtube.com/watch?v=_onrUCo5ea0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_onrUCo5ea0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feature on efforts by authorities to improve Security at Banjul International Airport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_onrUCo5ea0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_onrUCo5ea0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feature on efforts by authorities to improve Security at Banjul International Airport...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xgPfdnolU0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xgPfdnolU0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic space object crashes in Kenyan village...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xgPfdnolU0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xgPfdnolU0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic space object crashes in Kenyan village...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: Kenya probes mysterious metallic object from space  
-   Link: <a href="https://www.youtube.com/watch?v=LBGenhIQ5EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LBGenhIQ5EQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;One in a million&quot; piece of space debris crashes on remote village in Kenya...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LBGenhIQ5EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LBGenhIQ5EQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;One in a million&quot; piece of space debris crashes on remote village in Kenya...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/</a>  
+   Link:<a href="https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100070993844190/posts/the-turkish-government-through-its-embassy-in-banjul-presented-a-consignment-of-/338738278502631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100070993844190/posts/the-turkish-government-through-its-embassy-in-banjul-presented-a-consignment-of-/338738278502631/</a>  
+   Link:<a href="https://www.facebook.com/100070993844190/posts/the-turkish-government-through-its-embassy-in-banjul-presented-a-consignment-of-/338738278502631/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100070993844190/posts/the-turkish-government-through-its-embassy-in-banjul-presented-a-consignment-of-/338738278502631/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: fyi.org.nz  
-   Link: <a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>  
+   Link:<a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/</a>  
+   Link:<a href="https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/a-500-kilogram-metallic-object-crashed-into-mukuku-village-in-makueni-county-ken/1030389365802084/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/udptvshow/posts/a-soldier-in-the-quick-reaction-force-qrf-of-the-gambia-armed-forces-nearly-got-/971911084292450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/udptvshow/posts/a-soldier-in-the-quick-reaction-force-qrf-of-the-gambia-armed-forces-nearly-got-/971911084292450/</a>
+   Link:<a href="https://www.facebook.com/udptvshow/posts/a-soldier-in-the-quick-reaction-force-qrf-of-the-gambia-armed-forces-nearly-got-/971911084292450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/udptvshow/posts/a-soldier-in-the-quick-reaction-force-qrf-of-the-gambia-armed-forces-nearly-got-/971911084292450/</a>

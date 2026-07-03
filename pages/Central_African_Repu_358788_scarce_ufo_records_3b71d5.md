@@ -248,29 +248,29 @@ image: /assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illu
 
 ## Introduction
 
-Publicly accessible records of unidentified flying object (UFO) or unidentified aerial phenomena (UAP) reports tied specifically to the **[Central African Republic]({{ 'central-african-republic/' | relative_url }})** are strikingly thin compared with better‑documented countries. Unlike nations with established civilian databases or formal government investigation units, there is little to no searchable catalogue of Central African observations, case files, photographic archives, or follow‑up studies that meet the usual benchmarks of a “UFO record.” This scarcity reflects not just the absence of extraordinary events, but a complex mix of reporting barriers, infrastructural limits, and cultural‑media dynamics that make sightings from this part of Africa far less visible on global platforms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</span></span></span>
+Publicly accessible records of unidentified flying object (UFO) or unidentified aerial phenomena (UAP) reports tied specifically to the **[Central African Republic]({{ 'central-african-republic/' | relative_url }})** are strikingly thin compared with better‑documented countries. Unlike nations with established civilian databases or formal government investigation units, there is little to no searchable catalogue of Central African observations, case files, photographic archives, or follow‑up studies that meet the usual benchmarks of a “UFO record.” This scarcity reflects not just the absence of extraordinary events, but a complex mix of reporting barriers, infrastructural limits, and cultural‑media dynamics that make sightings from this part of Africa far less visible on global platforms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</span></span></span>
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-1-dark.svg" | relative_url }}" alt="Missing Records illustration 1" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Conflict, Communication Barriers and Sparse Documentation
 
 One of the most immediate constraints on UFO reporting in the Central African Republic is the country’s ongoing **security and conflict environment**, which shapes how and whether unusual sky events could ever reach a public record. Years of armed conflict involving multiple groups have disrupted daily life, information flow, and local media operations; communities are often preoccupied with safety rather than chronicling aerial phenomena. Moreover, vast rural areas with low population density and limited transport infrastructure mean that even unusual observations may remain unshared beyond immediate communities.
 
-Compounding these factors, both historical analyses of UFO reports across Africa and general ufology commentaries note that African sightings often **fail to enter international media or specialist databases** because they are not escalated from local contexts to global reporting networks. Observers in isolated or developing regions may lack the means — from electricity and telephony to stable internet — to capture, document, and transmit their experiences to national or global archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">There are. UFO sightings occur all over the world and it includes Africa. But they are less largely known in than for...</span></span></span>
+Compounding these factors, both historical analyses of UFO reports across Africa and general ufology commentaries note that African sightings often **fail to enter international media or specialist databases** because they are not escalated from local contexts to global reporting networks. Observers in isolated or developing regions may lack the means — from electricity and telephony to stable internet — to capture, document, and transmit their experiences to national or global archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">There are. UFO sightings occur all over the world and it includes Africa. But they are less largely known in than for...</span></span></span>
 
-In the Central African Republic, where internet penetration and consistent electricity are limited relative to more developed regions, this communication gap is particularly acute: many rural residents still lack regular access to digital reporting tools, and national journalism faces chronic resource constraints. As a result, ordinary aerial sightings — whether lights, unusual aircraft, or atmospheric phenomena — may simply **never make it into searchable, public datasets**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</span></span></span>
+In the Central African Republic, where internet penetration and consistent electricity are limited relative to more developed regions, this communication gap is particularly acute: many rural residents still lack regular access to digital reporting tools, and national journalism faces chronic resource constraints. As a result, ordinary aerial sightings — whether lights, unusual aircraft, or atmospheric phenomena — may simply **never make it into searchable, public datasets**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rh5QWKcPYns" title="Dozens of fighters disarm in Central African Republic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rh5QWKcPYns" target="_blank" rel="noopener noreferrer">Dozens of fighters disarm in Central African Republic</a></p><p class="youtube-embed-meta">Channel: TRT World &middot; Views: 1.7K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rh5QWKcPYns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rh5QWKcPYns">Open on YouTube</a></p></div></div></div>
 
 ## Limited Public and Institutional Reporting Mechanisms
 
-Unlike countries that have formal civilian or government bodies for analysing and archiving UAP reports — such as the **GEIPAN** unit in France, an official programme that collects, investigates, and publishes aerospace phenomena reports annually — the Central African Republic has no widely accessible institutional framework dedicated to this purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span> The absence of even a hobbyist or civic reporting infrastructure means there are few channels through which witnesses can submit accounts that are then preserved, indexed, and disseminated for public or research use.
+Unlike countries that have formal civilian or government bodies for analysing and archiving UAP reports — such as the **GEIPAN** unit in France, an official programme that collects, investigates, and publishes aerospace phenomena reports annually — the Central African Republic has no widely accessible institutional framework dedicated to this purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span> The absence of even a hobbyist or civic reporting infrastructure means there are few channels through which witnesses can submit accounts that are then preserved, indexed, and disseminated for public or research use.
 
 In contexts with dedicated reporting bodies, sightings are systematically categorised, publicly posted, and often investigated with follow‑up interviews, radar data, or sensor analysis. That kind of formalised record‑keeping simply does not exist in the Central African Republic’s public information environment, leaving any potential reports adrift in unindexed regional chatter rather than in enduring archives.
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-2-dark.svg" | relative_url }}" alt="Missing Records illustration 2" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cultural Perceptions and Stigma
 
-Across central and western Africa, cultural factors can also influence whether unusual sky events are reported or discussed openly. Some qualitative accounts from observers in the region suggest that **taboo, superstition, or fear of stigma** may discourage individuals from sharing sightings — especially when such accounts risk social ridicule or dismissal. Reports from neighbouring Francophone regions indicate that even in countries where people claim to see unexplained lights or objects, there can be a strong reluctance to have their experiences documented publicly, particularly by external researchers or on international platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40jannhalexander/the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-taboo-superstition-47ef4bdaf323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">THE UFO ISSUE IN CENTRAL AFRICA(Gabon, Congo, Democratic Republic of Congo): taboo, superstition, fear of stigma &#124; by Jann Halexan...</span></span></span>
+Across central and western Africa, cultural factors can also influence whether unusual sky events are reported or discussed openly. Some qualitative accounts from observers in the region suggest that **taboo, superstition, or fear of stigma** may discourage individuals from sharing sightings — especially when such accounts risk social ridicule or dismissal. Reports from neighbouring Francophone regions indicate that even in countries where people claim to see unexplained lights or objects, there can be a strong reluctance to have their experiences documented publicly, particularly by external researchers or on international platforms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40jannhalexander/the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-taboo-superstition-47ef4bdaf323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">THE UFO ISSUE IN CENTRAL AFRICA(Gabon, Congo, Democratic Republic of Congo): taboo, superstition, fear of stigma &#124; by Jann Halexan...</span></span></span>
 
 This phenomenon means that even when sightings occur and are discussed informally within communities, they may **never enter formalised reporting channels** or databases that a global audience could access. In contrast, countries with established UFO research networks or strong press coverage tend to have more extensive public records precisely because observers feel more supported in sharing and recording their experiences.
 
@@ -278,210 +278,210 @@ This phenomenon means that even when sightings occur and are discussed informall
 
 ## Global Reporting Biases and Information Flows
 
-Beyond local conditions, there is a broader **geographical imbalance** in how UFO or UAP sightings get documented and propagated. Databases and archives of aerial phenomena — whether maintained by civilian organisations like the National UFO Reporting Center (NUFORC) or by government disclosure programs in the United States — are heavily weighted toward regions with high reporting activity, strong media ecosystems, and extensive internet access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldpopulationreview.com">[World Population Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldpopulationreview.com</span><span class="citation-popover-title">Some suspect that</span><span class="citation-popover-snippet">World Population ReviewUFO Sightings by Country 2026May 22, 2026 — Although there have been several UFO sightings in Argentina, much of t...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+Beyond local conditions, there is a broader **geographical imbalance** in how UFO or UAP sightings get documented and propagated. Databases and archives of aerial phenomena — whether maintained by civilian organisations like the National UFO Reporting Center (NUFORC) or by government disclosure programs in the United States — are heavily weighted toward regions with high reporting activity, strong media ecosystems, and extensive internet access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldpopulationreview.com">[World Population Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldpopulationreview.com</span><span class="citation-popover-title">Some suspect that</span><span class="citation-popover-snippet">World Population ReviewUFO Sightings by Country 2026May 22, 2026 — Although there have been several UFO sightings in Argentina, much of t...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
-Analyses of UFO records by continent show detailed lists for countries ranging from Algeria to Zimbabwe, but **Africa’s listing lacks entries** for many nations simply because sightings there have not been systematically recorded or elevated to international scrutiny. The Central African Republic, in particular, does not feature in global lists of documented sightings maintained by public archives or encyclopaedia entries, underscoring how much the absence of records reflects reporting infrastructure rather than a literal absence of aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Africa</span><span class="citation-popover-snippet">April 18, 2021 — This is a list of alleged sightings of unidentified flying objects (UFO) in Africa.... Cynthia Hind, Ufos Over Africa...</span><span class="citation-popover-meta">Published: April 18, 2021</span></span></span>
+Analyses of UFO records by continent show detailed lists for countries ranging from Algeria to Zimbabwe, but **Africa’s listing lacks entries** for many nations simply because sightings there have not been systematically recorded or elevated to international scrutiny. The Central African Republic, in particular, does not feature in global lists of documented sightings maintained by public archives or encyclopaedia entries, underscoring how much the absence of records reflects reporting infrastructure rather than a literal absence of aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Africa</span><span class="citation-popover-snippet">April 18, 2021 — This is a list of alleged sightings of unidentified flying objects (UFO) in Africa.... Cynthia Hind, Ufos Over Africa...</span><span class="citation-popover-meta">Published: April 18, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-3-dark.svg" | relative_url }}" alt="Missing Records illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_scarce_ufo_records_3b71d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary Sightings Disappear in the Noise
 
 Finally, the mechanics of how sightings get lost before they become records are important to understand. In regions with limited media space, many aerial phenomena that are easily explainable — such as satellites, aircraft, atmospheric lights, or astronomical bodies — are not followed up with detailed reporting because journalists and citizens alike prioritise other news or community concerns. Without a local cluster of enthusiasts, investigatory outlets, or civilian databases to catalogue minor but interesting events, these ordinary but “unidentified” instances simply **fade from memory** rather than entering an archival trail.
 
-In addition, global UFO and UAP reporting has experienced variability worldwide, with some major reporting bodies observing declines in submissions or redirection of focus toward formal declassified datasets. In this global context, peripheral regions without established UFO research communities can appear to have scant records even if everyday observers see unusual things in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/the-government-is-very-serious-about-ufos-so-why-are-researchers-being-stymied" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Live ScienceThe government is very serious about UFOs. So why are researchers being stymied? &#124; Live ScienceMarch 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+In addition, global UFO and UAP reporting has experienced variability worldwide, with some major reporting bodies observing declines in submissions or redirection of focus toward formal declassified datasets. In this global context, peripheral regions without established UFO research communities can appear to have scant records even if everyday observers see unusual things in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/the-government-is-very-serious-about-ufos-so-why-are-researchers-being-stymied" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Live ScienceThe government is very serious about UFOs. So why are researchers being stymied? &#124; Live ScienceMarch 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 In sum, the scarcity of public UFO records in the Central African Republic is less an absence of phenomena than a reflection of **reporting barriers**, **limited communication infrastructure**, **cultural and media constraints**, and **global reporting biases**. These factors combine to ensure that potential sightings rarely achieve the documented, searchable form that characterises richer archives in other parts of the world. The result is a thin public record that tells us more about how information flows — and how it doesn’t — than about what might be occurring above the skies of the Central African Republic.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are CAR UFO Records So Thin?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are CAR UFO Records So Thin?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers reporting categories and evidentiary challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reporting categories and evidentiary challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of documented testimony and institutional records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of documented testimony and institutional records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explains how official archives form and why some countries have sparse records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official archives form and why some countries have sparse records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for evaluating weak, incomplete, or anecdotal evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating weak, incomplete, or anecdotal evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-car-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-car-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -497,7 +497,7 @@ In sum, the scarcity of public UFO records in the Central African Republic is le
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -517,7 +517,7 @@ In sum, the scarcity of public UFO records in the Central African Republic is le
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -549,7 +549,7 @@ In sum, the scarcity of public UFO records in the Central African Republic is le
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -601,7 +601,7 @@ In sum, the scarcity of public UFO records in the Central African Republic is le
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -646,7 +646,7 @@ In sum, the scarcity of public UFO records in the Central African Republic is le
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,122 +684,121 @@ In sum, the scarcity of public UFO records in the Central African Republic is le
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafricaf.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafricaf.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There are. UFO sightings occur all over the world and it includes Africa. But they are less largely known in than for...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There are. UFO sightings occur all over the world and it includes Africa. But they are less largely known in than for...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
+   Link:<a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jannhalexander/the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-taboo-superstition-47ef4bdaf323" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jannhalexander/the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-taboo-superstition-47ef4bdaf323</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO ISSUE IN CENTRAL AFRICA(Gabon, Congo, Democratic Republic of Congo): taboo, superstition, fear of stigma | by Jann Halexan...</p></details>
+   Link:<a href="https://medium.com/%40jannhalexander/the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-taboo-superstition-47ef4bdaf323" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jannhalexander/the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-taboo-superstition-47ef4bdaf323</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO ISSUE IN CENTRAL AFRICA(Gabon, Congo, Democratic Republic of Congo): taboo, superstition, fear of stigma | by Jann Halexan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 18, 2021 — This is a list of alleged sightings of unidentified flying objects (UFO) in Africa.... Cynthia Hind, Ufos Over Africa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 18, 2021 — This is a list of alleged sightings of unidentified flying objects (UFO) in Africa.... Cynthia Hind, Ufos Over Africa...</p></details>
    Published: April 18, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uap.nexus  
    Title: Whether y  
-   Link: <a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting AggregatorUAP NEXUS - THE LEADING UFO AND UAP SIGHTING DATABASE Welcome to UAP NEXUS, the most trusted platform for track...</p></details>
+   Link:<a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting AggregatorUAP NEXUS - THE LEADING UFO AND UAP SIGHTING DATABASE Welcome to UAP NEXUS, the most trusted platform for track...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Central African Republic - Life in a Forgotten Crisis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Central African Republic - Life in a Forgotten Crisis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Central African Republic  
-   Link: <a href="https://www.youtube.com/watch?v=Rh5QWKcPYns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rh5QWKcPYns</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Mystery of the South African UFO Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rh5QWKcPYns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rh5QWKcPYns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Mystery of the South African UFO Phenomenon...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: worldpopulationreview.com  
    Title: Some suspect that  
-   Link: <a href="https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Population ReviewUFO Sightings by Country 2026May 22, 2026 — Although there have been several UFO sightings in Argentina, much of t...</p></details>
+   Link:<a href="https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/country-rankings/ufo-sightings-by-country</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Population ReviewUFO Sightings by Country 2026May 22, 2026 — Although there have been several UFO sightings in Argentina, much of t...</p></details>
    Published: May 22, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/the-government-is-very-serious-about-ufos-so-why-are-researchers-being-stymied" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/the-government-is-very-serious-about-ufos-so-why-are-researchers-being-stymied</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThe government is very serious about UFOs. So why are researchers being stymied? | Live ScienceMarch 15, 2026...</p></details>
+   Link:<a href="https://www.livescience.com/space/extraterrestrial-life/the-government-is-very-serious-about-ufos-so-why-are-researchers-being-stymied" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/the-government-is-very-serious-about-ufos-so-why-are-researchers-being-stymied</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThe government is very serious about UFOs. So why are researchers being stymied? | Live ScienceMarch 15, 2026...</p></details>
    Published: March 15, 2026  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: casefiles.space  
-   Link: <a href="https://www.casefiles.space/" target="_blank" rel="noopener noreferrer nofollow">https://www.casefiles.space/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community UAP Investigation NetworkSYSTEM METRICS -- LIVE INCIDENTS CATALOGUED COUNTRIES COVERED REGISTERED AGENTS UNRESOLVE...</p></details>
+   Link:<a href="https://www.casefiles.space/" target="_blank" rel="noopener noreferrer nofollow">https://www.casefiles.space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community UAP Investigation NetworkSYSTEM METRICS -- LIVE INCIDENTS CATALOGUED COUNTRIES COVERED REGISTERED AGENTS UNRESOLVE...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedisclosureera.com  
-   Link: <a href="https://www.thedisclosureera.com/articles/the-global-disclosure-divide-how-world-governments-approach-uap-transparency-in-starkly-different-ways" target="_blank" rel="noopener noreferrer nofollow">https://www.thedisclosureera.com/articles/the-global-disclosure-divide-how-world-governments-approach-uap-transparency-in-starkly-different-ways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sure EraApril 25, 2026 — THE GLOBAL DISCLOSURE DIVIDE: HOW WORLD GOVERNMENTS APPROACH UAP TRANSPARENCY IN STARKLY DIFFERENT WAYS From Fra...</p></details>
+   Link:<a href="https://www.thedisclosureera.com/articles/the-global-disclosure-divide-how-world-governments-approach-uap-transparency-in-starkly-different-ways" target="_blank" rel="noopener noreferrer nofollow">https://www.thedisclosureera.com/articles/the-global-disclosure-divide-how-world-governments-approach-uap-transparency-in-starkly-different-ways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sure EraApril 25, 2026 — THE GLOBAL DISCLOSURE DIVIDE: HOW WORLD GOVERNMENTS APPROACH UAP TRANSPARENCY IN STARKLY DIFFERENT WAYS From Fra...</p></details>
    Published: April 25, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: artangel.org.uk  
-   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldStrange lights came out of UFOs fuselage, but without any noise. As an eyewitness, shepherd Trantos Ka...</p></details>
+   Link:<a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldStrange lights came out of UFOs fuselage, but without any noise. As an eyewitness, shepherd Trantos Ka...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oxben.com.tr  
-   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
+   Link:<a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aliencatalog.com  
-   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
+   Link:<a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: euronews.com  
    Title: UF Os: Do environmental factors increase or decrease reported sightings?  
-   Link: <a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
+   Link:<a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
    Published: February 29, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
    Title: jimmy carter once saw a ufo but had this to say about aliens on earth  
-   Link: <a href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter once saw a UFO — but had this to say about...30 Dec 2024 — Jimmy Carter once saw a UFO — but had this to say about aliens o...</p></details>
+   Link:<a href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter once saw a UFO — but had this to say about...30 Dec 2024 — Jimmy Carter once saw a UFO — but had this to say about aliens o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: astronomy.com  
    Title: But the public is growing increasingly confused by ordinary object  
-   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of rising UFO sightings are greatly exaggeratedOctober 2, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY EXAGGERATED The pand...</p></details>
+   Link:<a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of rising UFO sightings are greatly exaggeratedOctober 2, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY EXAGGERATED The pand...</p></details>
    Published: October 2, 2020  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.sputniknews.africa  
    Title: world ufo day most mysterious sightings in africa 1060287160  
-   Link: <a href="https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html" target="_blank" rel="noopener noreferrer nofollow">https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Day: Most Mysterious Sightings in Africa2 Jul 2023 — Despite the lack of direct evidence of a UFO crash in Roswell, some people still...</p></details>
+   Link:<a href="https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html" target="_blank" rel="noopener noreferrer nofollow">https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Day: Most Mysterious Sightings in Africa2 Jul 2023 — Despite the lack of direct evidence of a UFO crash in Roswell, some people still...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cfr.org  
-   Link: <a href="https://www.cfr.org/podcasts/why-it-matters/ufos-close-encounters-national-security-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/podcasts/why-it-matters/ufos-close-encounters-national-security-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And the truth about them is often hidden from the public, for reasons related to national security...</p></details>
+   Link:<a href="https://www.cfr.org/podcasts/why-it-matters/ufos-close-encounters-national-security-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/podcasts/why-it-matters/ufos-close-encounters-national-security-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And the truth about them is often hidden from the public, for reasons related to national security...</p></details>

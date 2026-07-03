@@ -248,18 +248,18 @@ image: /assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-1-social.jpg
 
 ## Introduction
 
-Sweden’s reputation in UFO research rests less on dramatic crash stories than on something far rarer: a vast, organised archive. In the city of Norrköping, the Archives for the Unexplained (AFU) has spent decades collecting witness reports, investigator files, military documents, magazines, photographs, recordings, correspondence, and newspaper clippings connected to unexplained aerial phenomena and related subjects. Rather than arguing that UFO claims are true, AFU’s central contribution is preservation. It keeps records available long after witnesses die, newspapers disappear, organisations close, and memories fade. For researchers trying to understand Sweden’s long history of UFO reports—from the 1946 [ghost rockets]({{ 'ghost-rockets/' | relative_url }}) to modern sightings—that paper trail is often more important than any individual case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU)Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">english5. Archives for the Unexplained (AFU). Located in Norrköping, AFU is one of the world&#x27;s largest repositories on UFOs, Forteana...</span></span></span>
+Sweden’s reputation in UFO research rests less on dramatic crash stories than on something far rarer: a vast, organised archive. In the city of Norrköping, the Archives for the Unexplained (AFU) has spent decades collecting witness reports, investigator files, military documents, magazines, photographs, recordings, correspondence, and newspaper clippings connected to unexplained aerial phenomena and related subjects. Rather than arguing that UFO claims are true, AFU’s central contribution is preservation. It keeps records available long after witnesses die, newspapers disappear, organisations close, and memories fade. For researchers trying to understand Sweden’s long history of UFO reports—from the 1946 [ghost rockets]({{ 'ghost-rockets/' | relative_url }}) to modern sightings—that paper trail is often more important than any individual case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU)Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">english5. Archives for the Unexplained (AFU). Located in Norrköping, AFU is one of the world&#x27;s largest repositories on UFOs, Forteana...</span></span></span>
 
 <img src="{{ "/assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-1-dark.svg" | relative_url }}" alt="AFU Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why AFU matters internationally
 
-Many countries have UFO organisations. Far fewer have built a large-scale documentary infrastructure around them. AFU began in Sweden in 1973 and later moved to Norrköping, where it developed into a non-profit foundation dedicated to preserving material on unexplained phenomena. Its stated purpose is not only to collect documents but also to support research and encourage critical discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/by-laws/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">By-laws - AFUThe purposes of the foundation shall be: a. to manage and develop an international archive and library for documents and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/?page_id=98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">About AFU &#124;Archives for the unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 a...</span></span></span>
+Many countries have UFO organisations. Far fewer have built a large-scale documentary infrastructure around them. AFU began in Sweden in 1973 and later moved to Norrköping, where it developed into a non-profit foundation dedicated to preserving material on unexplained phenomena. Its stated purpose is not only to collect documents but also to support research and encourage critical discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/by-laws/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">By-laws - AFUThe purposes of the foundation shall be: a. to manage and develop an international archive and library for documents and...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/?page_id=98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">About AFU &#124;Archives for the unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 a...</span></span></span>
 
-What makes AFU stand out is scale. UFO-Sweden and AFU describe holdings that include more than 60,000 books, roughly 90,000 magazine issues, around 700,000 press clippings, tens of thousands of photographs and recordings, and more than 25,000 Swedish UFO reports. The archive also contains military-related documentation connected to the famous ghost-rocket investigations of 1946 and later decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">Archives for the UnexplainedSamtidigt flyttades arkivet till Norrköping. AFU är inte en ordinär förening där man blir ”medlem”. Däremot k...</span></span></span>
+What makes AFU stand out is scale. UFO-Sweden and AFU describe holdings that include more than 60,000 books, roughly 90,000 magazine issues, around 700,000 press clippings, tens of thousands of photographs and recordings, and more than 25,000 Swedish UFO reports. The archive also contains military-related documentation connected to the famous ghost-rocket investigations of 1946 and later decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">Archives for the UnexplainedSamtidigt flyttades arkivet till Norrköping. AFU är inte en ordinär förening där man blir ”medlem”. Däremot k...</span></span></span>
 
-International library and archive guides regularly describe AFU as one of the largest, and often the largest, specialised repository devoted to UFOs and related anomalous phenomena. Researchers, journalists, documentary makers, folklorists, historians of science, and sceptical investigators all draw from the same collections because the archive preserves material regardless of whether a case ultimately appears convincing or unconvincing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.bemidjistate.edu/ufoarchives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.bemidjistate.edu">[Bemidji State University LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.bemidjistate.edu</span><span class="citation-popover-snippet">Bemidji State University LibGuidesUFOArchives: Your Guide to finding UFO-related archives in...Feb 27, 2026 — AFU - Archives for the Une...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.rice.edu/c.php?g=663387&amp;p=4662216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.rice.edu">[Rice University LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.rice.edu</span><span class="citation-popover-snippet">Rice University LibGuidesParanormal Studies: Archival CollectionsFeb 9, 2026 — Located in Norrköping, Sweden, this is the largest collect...</span></span></span>
+International library and archive guides regularly describe AFU as one of the largest, and often the largest, specialised repository devoted to UFOs and related anomalous phenomena. Researchers, journalists, documentary makers, folklorists, historians of science, and sceptical investigators all draw from the same collections because the archive preserves material regardless of whether a case ultimately appears convincing or unconvincing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.bemidjistate.edu/ufoarchives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.bemidjistate.edu">[Bemidji State University LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.bemidjistate.edu</span><span class="citation-popover-snippet">Bemidji State University LibGuidesUFOArchives: Your Guide to finding UFO-related archives in...Feb 27, 2026 — AFU - Archives for the Une...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.rice.edu/c.php?g=663387&amp;p=4662216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.rice.edu">[Rice University LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.rice.edu</span><span class="citation-popover-snippet">Rice University LibGuidesParanormal Studies: Archival CollectionsFeb 9, 2026 — Located in Norrköping, Sweden, this is the largest collect...</span></span></span>
 
-This is one reason Sweden occupies an unusual place in UFO history. The country has produced relatively few globally famous cases compared with the United States, but it has preserved an exceptional amount of underlying evidence. The result is a research environment where old claims can often be traced back to original paperwork rather than recycled through decades of retellings. AFU <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanlibrariesmagazine.org">[American Libraries Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanlibrariesmagazine.org</span><span class="citation-popover-title">bookend the real x files</span><span class="citation-popover-snippet">American Libraries MagazineBookend: The Real X-Files1 Mar 2016 — The Archives for the Unexplained in Norrköping, Sweden, holds the world&#x27;...</span></span></span>
+This is one reason Sweden occupies an unusual place in UFO history. The country has produced relatively few globally famous cases compared with the United States, but it has preserved an exceptional amount of underlying evidence. The result is a research environment where old claims can often be traced back to original paperwork rather than recycled through decades of retellings. AFU<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanlibrariesmagazine.org">[American Libraries Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanlibrariesmagazine.org</span><span class="citation-popover-title">bookend the real x files</span><span class="citation-popover-snippet">American Libraries MagazineBookend: The Real X-Files1 Mar 2016 — The Archives for the Unexplained in Norrköping, Sweden, holds the world&#x27;...</span></span></span>
 
 ## What AFU actually preserves
 
@@ -274,21 +274,21 @@ Its collections include:
 * Organisational archives from UFO groups in Sweden and abroad.
 * Audio recordings, films, slides, and photographs.
 * Military and government-related documentation where available.
-* Historical magazines, newsletters, and specialist publications that would otherwise be difficult to access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">about afu</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 and in 1979 AFU...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">report files</span><span class="citation-popover-snippet">UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</span></span></span>
+* Historical magazines, newsletters, and specialist publications that would otherwise be difficult to access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">about afu</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 and in 1979 AFU...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">report files</span><span class="citation-popover-snippet">UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</span></span></span>
 
-The archive also extends beyond UFOs into folklore, Forteana, cryptozoology, paranormal claims, sceptical literature, fringe science publications, and mainstream scientific and defence journals. That breadth matters because it allows researchers to compare competing interpretations rather than studying sightings in isolation. A historian examining a Swedish UFO flap can review both believer-oriented publications and sceptical critiques preserved in the same institution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/magazines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">MagazinesThe collection covers all kinds of phenomena, with UFOs as a prime subject but also including cryptozoology, forteana, psychi...</span></span></span>
+The archive also extends beyond UFOs into folklore, Forteana, cryptozoology, paranormal claims, sceptical literature, fringe science publications, and mainstream scientific and defence journals. That breadth matters because it allows researchers to compare competing interpretations rather than studying sightings in isolation. A historian examining a Swedish UFO flap can review both believer-oriented publications and sceptical critiques preserved in the same institution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/collections/magazines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">MagazinesThe collection covers all kinds of phenomena, with UFOs as a prime subject but also including cryptozoology, forteana, psychi...</span></span></span>
 
-AFU has additionally acquired major private collections from individual investigators. These donations often include unique material that never appeared in published books. One example is the collection of Swedish researcher Erland Sandqvist, whose archive included extensive ghost-rocket documentation, newspaper clippings, photographs, and investigation files. Without archival preservation, much of that material would likely have disappeared after its original use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/2087/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">50 kilo collection from Erland Sandqvist (Sweden</span><span class="citation-popover-snippet">50 kilo collection from Erland Sandqvist (Sweden)November 10, 2009 —... 1946 ghost rocket wave, combined with his own investigations...</span><span class="citation-popover-meta">Published: November 10, 2009</span></span></span>
+AFU has additionally acquired major private collections from individual investigators. These donations often include unique material that never appeared in published books. One example is the collection of Swedish researcher Erland Sandqvist, whose archive included extensive ghost-rocket documentation, newspaper clippings, photographs, and investigation files. Without archival preservation, much of that material would likely have disappeared after its original use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/2087/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">50 kilo collection from Erland Sandqvist (Sweden</span><span class="citation-popover-snippet">50 kilo collection from Erland Sandqvist (Sweden)November 10, 2009 —... 1946 ghost rocket wave, combined with his own investigations...</span><span class="citation-popover-meta">Published: November 10, 2009</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7RLtpVR_mdA" title="8: Sweden. Archives for the Unexplained and Ghost Rockets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7RLtpVR_mdA" target="_blank" rel="noopener noreferrer">8: Sweden. Archives for the Unexplained and Ghost Rockets</a></p><p class="youtube-embed-meta">Channel: European UFOs &middot; Views: 177 &middot; Uploaded: June 2024 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7RLtpVR_mdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7RLtpVR_mdA">Open on YouTube</a></p></div></div></div>
 
 ## The ghost-rocket records show the archive’s value
 
-No Swedish UFO topic demonstrates AFU’s importance better than the ghost rockets of 1946. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+No Swedish UFO topic demonstrates AFU’s importance better than the ghost rockets of 1946.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
-The ghost-rocket wave generated hundreds of reports across Sweden and neighbouring countries. Witnesses described missile-like objects, apparent impacts, unusual aerial manoeuvres, and objects disappearing into lakes. Decades later, much of the discussion still depends on records preserved by archives rather than on surviving physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Archives_for_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Archives for the UnexplainedArchives for the Unexplained (AFU), formerly known as Archives for UFO research is a depository dedicated...</span></span></span>
+The ghost-rocket wave generated hundreds of reports across Sweden and neighbouring countries. Witnesses described missile-like objects, apparent impacts, unusual aerial manoeuvres, and objects disappearing into lakes. Decades later, much of the discussion still depends on records preserved by archives rather than on surviving physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Archives_for_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Archives for the UnexplainedArchives for the Unexplained (AFU), formerly known as Archives for UFO research is a depository dedicated...</span></span></span>
 
-AFU's report collections contain copies of thousands of historical Swedish reports stretching back to the ghost-flier waves of the 1930s and the ghost rockets of 1946. It also preserves material linked to Swedish military investigations and later research efforts. Because the original events occurred nearly eighty years ago, preservation itself has become a form of evidence management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/?page_id=4778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">UFO report files &#124;We have substantial files of Finnish UFO magazines, clippings and the annual yearbooks published by the Suomen Ufotutki...</span></span></span>
+AFU's report collections contain copies of thousands of historical Swedish reports stretching back to the ghost-flier waves of the 1930s and the ghost rockets of 1946. It also preserves material linked to Swedish military investigations and later research efforts. Because the original events occurred nearly eighty years ago, preservation itself has become a form of evidence management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/?page_id=4778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">UFO report files &#124;We have substantial files of Finnish UFO magazines, clippings and the annual yearbooks published by the Suomen Ufotutki...</span></span></span>
 
 The archive therefore allows researchers to ask questions that would otherwise be impossible:
 
@@ -298,7 +298,7 @@ The archive therefore allows researchers to ask questions that would otherwise b
 * Which stories appeared first in newspapers and which originated from direct reports?
 * How often were multiple witnesses involved?
 * Which cases generated official interest?
-* Which claims grew more dramatic through retelling? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">es, recordings, e-files, objects and other materialsRead more...</span></span></span>
+* Which claims grew more dramatic through retelling?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">es, recordings, e-files, objects and other materialsRead more...</span></span></span>
 
 </div>
 
@@ -309,13 +309,13 @@ In many UFO controversies, later summaries become more influential than the orig
 
 A common misunderstanding is that a large archive somehow validates the phenomena it documents. AFU itself does not make that argument.
 
-An archive can establish that a report existed, that investigators took it seriously, that a witness consistently repeated a story, or that officials discussed a case. It cannot automatically establish that the reported event occurred exactly as described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/contact-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Contact usAFU in focus when university gives UFO course...(0)70 620 11 48 (Clas Svahn) for information on donations and interviews. Ljur...</span></span></span>
+An archive can establish that a report existed, that investigators took it seriously, that a witness consistently repeated a story, or that officials discussed a case. It cannot automatically establish that the reported event occurred exactly as described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/contact-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Contact usAFU in focus when university gives UFO course...(0)70 620 11 48 (Clas Svahn) for information on donations and interviews. Ljur...</span></span></span>
 
 This distinction is especially important in Sweden's UFO history.
 
-For example, the existence of extensive files on ghost rockets confirms that Swedish authorities received many reports and devoted resources to investigating them. It does not demonstrate that the objects were extraterrestrial craft. Likewise, preserving a witness account proves that the account was recorded; it does not prove the witness interpreted the event correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+For example, the existence of extensive files on ghost rockets confirms that Swedish authorities received many reports and devoted resources to investigating them. It does not demonstrate that the objects were extraterrestrial craft. Likewise, preserving a witness account proves that the account was recorded; it does not prove the witness interpreted the event correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
-At the same time, archives provide an important safeguard against oversimplification. Cases that are casually dismissed can sometimes contain more witness testimony, radar references, or investigative detail than later summaries acknowledge. The reverse is also true: stories that grow legendary can shrink when researchers return to the original paperwork and discover uncertainty, missing data, or contradictory testimony. AFU's value lies in making those checks possible. AFU <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">fact not fiction ufo journals from the archives for the unexplained</span><span class="citation-popover-snippet">Archives of the Unexplained in Norrköping, Sweden. Formerly known as the Archives For UFO Research, the organization was founded in 1973...</span></span></span>
+At the same time, archives provide an important safeguard against oversimplification. Cases that are casually dismissed can sometimes contain more witness testimony, radar references, or investigative detail than later summaries acknowledge. The reverse is also true: stories that grow legendary can shrink when researchers return to the original paperwork and discover uncertainty, missing data, or contradictory testimony. AFU's value lies in making those checks possible. AFU<span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">fact not fiction ufo journals from the archives for the unexplained</span><span class="citation-popover-snippet">Archives of the Unexplained in Norrköping, Sweden. Formerly known as the Archives For UFO Research, the organization was founded in 1973...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rjr3Yq-dMUE" title="The Man Sitting On More UFO Evidence Than Anyone Alive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rjr3Yq-dMUE" target="_blank" rel="noopener noreferrer">The Man Sitting On More UFO Evidence Than Anyone Alive</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 787.4K &middot; Uploaded: February 2026 &middot; Length: 1 hour 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rjr3Yq-dMUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rjr3Yq-dMUE">Open on YouTube</a></p></div></div></div>
 
@@ -323,11 +323,11 @@ At the same time, archives provide an important safeguard against oversimplifica
 
 One reason AFU attracts attention outside UFO circles is that it functions as a historical archive as much as a paranormal one.
 
-Researchers studying Cold War culture can examine how Swedish society reacted to unexplained aerial reports. Media scholars can trace newspaper coverage. Folklorists can compare UFO narratives with older traditions of mysterious lights and visitors. Sceptical investigators can revisit famous cases to test whether later explanations fit the original evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU)Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/by-laws/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">By-laws - AFUThe purposes of the foundation shall be: a. to manage and develop an international archive and library for documents and...</span></span></span>
+Researchers studying Cold War culture can examine how Swedish society reacted to unexplained aerial reports. Media scholars can trace newspaper coverage. Folklorists can compare UFO narratives with older traditions of mysterious lights and visitors. Sceptical investigators can revisit famous cases to test whether later explanations fit the original evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU)Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/by-laws/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">By-laws - AFUThe purposes of the foundation shall be: a. to manage and develop an international archive and library for documents and...</span></span></span>
 
-This broader role helps explain why AFU preserves sceptical publications alongside pro-UFO material. The archive's mission is centred on documentation rather than advocacy. As a result, it serves people who disagree sharply about what UFO reports mean while giving them access to many of the same records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/?page_id=98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">About AFU &#124;Archives for the unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 a...</span></span></span>
+This broader role helps explain why AFU preserves sceptical publications alongside pro-UFO material. The archive's mission is centred on documentation rather than advocacy. As a result, it serves people who disagree sharply about what UFO reports mean while giving them access to many of the same records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/afu2/?page_id=98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">About AFU &#124;Archives for the unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 a...</span></span></span>
 
-That approach also fits the culture of UFO-Sweden, which has long emphasised investigation and classification rather than automatic acceptance of extraordinary explanations. The archive and the investigative tradition reinforce each other: reports are collected, evaluated, stored, and made available for future review rather than treated as permanently solved or permanently mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">english5. Archives for the Unexplained (AFU). Located in Norrköping, AFU is one of the world&#x27;s largest repositories on UFOs, Forteana...</span></span></span>
+That approach also fits the culture of UFO-Sweden, which has long emphasised investigation and classification rather than automatic acceptance of extraordinary explanations. The archive and the investigative tradition reinforce each other: reports are collected, evaluated, stored, and made available for future review rather than treated as permanently solved or permanently mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">english5. Archives for the Unexplained (AFU). Located in Norrköping, AFU is one of the world&#x27;s largest repositories on UFOs, Forteana...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NYa1WUozE7U" title="A Visit to the Archives for the Unexplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NYa1WUozE7U" target="_blank" rel="noopener noreferrer">A Visit to the Archives for the Unexplained</a></p><p class="youtube-embed-meta">Channel: Sacred Inclusion Network &middot; Views: 327 &middot; Uploaded: April 2022 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NYa1WUozE7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NYa1WUozE7U">Open on YouTube</a></p></div></div></div>
 
@@ -335,201 +335,201 @@ That approach also fits the culture of UFO-Sweden, which has long emphasised inv
 
 If AFU disappeared tomorrow, Sweden would still have its history of sightings. What would be lost is the ability to verify much of that history.
 
-Thousands of local newspaper reports exist nowhere else in organised form. Private correspondence between investigators and witnesses would become harder to access. Small magazines produced by long-defunct organisations could vanish from practical use. Historical case files might survive physically while becoming effectively invisible to researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanlibrariesmagazine.org">[American Libraries Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanlibrariesmagazine.org</span><span class="citation-popover-title">bookend the real x files</span><span class="citation-popover-snippet">American Libraries MagazineBookend: The Real X-Files1 Mar 2016 — The Archives for the Unexplained in Norrköping, Sweden, holds the world&#x27;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">fact not fiction ufo journals from the archives for the unexplained</span><span class="citation-popover-snippet">Archives of the Unexplained in Norrköping, Sweden. Formerly known as the Archives For UFO Research, the organization was founded in 1973...</span></span></span>
+Thousands of local newspaper reports exist nowhere else in organised form. Private correspondence between investigators and witnesses would become harder to access. Small magazines produced by long-defunct organisations could vanish from practical use. Historical case files might survive physically while becoming effectively invisible to researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanlibrariesmagazine.org">[American Libraries Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanlibrariesmagazine.org</span><span class="citation-popover-title">bookend the real x files</span><span class="citation-popover-snippet">American Libraries MagazineBookend: The Real X-Files1 Mar 2016 — The Archives for the Unexplained in Norrköping, Sweden, holds the world&#x27;...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">fact not fiction ufo journals from the archives for the unexplained</span><span class="citation-popover-snippet">Archives of the Unexplained in Norrköping, Sweden. Formerly known as the Archives For UFO Research, the organization was founded in 1973...</span></span></span>
 
-This is why AFU occupies such a central position in the Swedish UFO story. The archive does not provide definitive proof of extraterrestrial visitors, hidden technologies, or paranormal explanations. Instead, it preserves the evidence trail itself. In a field where claims are often repeated without documentation, that role may be more significant than any single sighting. Sweden's distinctive contribution to UFO history is not merely that unusual reports were made there, but that an extraordinary effort was made to keep the records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">about afu</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 and in 1979 AFU...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">Archives for the UnexplainedSamtidigt flyttades arkivet till Norrköping. AFU är inte en ordinär förening där man blir ”medlem”. Däremot k...</span></span></span>
+This is why AFU occupies such a central position in the Swedish UFO story. The archive does not provide definitive proof of extraterrestrial visitors, hidden technologies, or paranormal explanations. Instead, it preserves the evidence trail itself. In a field where claims are often repeated without documentation, that role may be more significant than any single sighting. Sweden's distinctive contribution to UFO history is not merely that unusual reports were made there, but that an extraordinary effort was made to keep the records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/about-afu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-title">about afu</span><span class="citation-popover-snippet">Archives for the Unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 and in 1979 AFU...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.se">[UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.se</span><span class="citation-popover-snippet">Archives for the UnexplainedSamtidigt flyttades arkivet till Norrköping. AFU är inte en ordinär förening där man blir ”medlem”. Däremot k...</span></span></span>
 
 <img src="{{ "/assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-3-dark.svg" | relative_url }}" alt="AFU Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Inside Sweden&#x27;s Huge UFO Paper Trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Inside Sweden&#x27;s Huge UFO Paper Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects archival evidence, official documentation, and long-term UFO record keeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects archival evidence, official documentation, and long-term UFO record keeping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong match for readers interested in how large UFO archives preserve and analyse historical reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for readers interested in how large UFO archives preserve and analyse historical reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Fits AFU&#x27;s wider mission of preserving unexplained and Fortean material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits AFU&#x27;s wider mission of preserving unexplained and Fortean material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful companion to archival research and historical case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful companion to archival research and historical case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-sweden-s-huge-ufo-paper-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-sweden-s-huge-ufo-paper-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ This is why AFU occupies such a central position in the Swedish UFO story. The a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ This is why AFU occupies such a central position in the Swedish UFO story. The a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ This is why AFU occupies such a central position in the Swedish UFO story. The a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ This is why AFU occupies such a central position in the Swedish UFO story. The a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ This is why AFU occupies such a central position in the Swedish UFO story. The a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,184 +732,183 @@ This is why AFU occupies such a central position in the Swedish UFO story. The a
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the Unexplained (AFU)Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libr...</p></details>
+   Link:<a href="https://www.afu.se/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the Unexplained (AFU)Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo.se  
-   Link: <a href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php/english</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>english5. Archives for the Unexplained (AFU). Located in Norrköping, AFU is one of the world&#x27;s largest repositories on UFOs, Forteana...</p></details>
+   Link:<a href="https://www.ufo.se/index.php/english" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php/english</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>english5. Archives for the Unexplained (AFU). Located in Norrköping, AFU is one of the world&#x27;s largest repositories on UFOs, Forteana...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/about-afu/by-laws/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/about-afu/by-laws/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By-laws - AFUThe purposes of the foundation shall be: a. to manage and develop an international archive and library for documents and...</p></details>
+   Link:<a href="https://www.afu.se/about-afu/by-laws/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/about-afu/by-laws/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By-laws - AFUThe purposes of the foundation shall be: a. to manage and develop an international archive and library for documents and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/afu2/?page_id=98" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?page_id=98</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About AFU |Archives for the unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 a...</p></details>
+   Link:<a href="https://www.afu.se/afu2/?page_id=98" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?page_id=98</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About AFU |Archives for the unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afu.se  
    Title: about afu  
-   Link: <a href="https://www.afu.se/about-afu/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/about-afu/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the Unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 and in 1979 AFU...</p></details>
+   Link:<a href="https://www.afu.se/about-afu/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/about-afu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the Unexplained (AFU) was originally founded in Södertälje, Sweden in 1973. The book library started in 1974 and in 1979 AFU...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afu.se  
    Title: report files  
-   Link: <a href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/report-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</p></details>
+   Link:<a href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/report-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report filesThe UFO-Sweden/AFU report archives also include xerox copies of some 3.000 Swedish UFO reports from 1933-34 (ghost fli...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: libguides.rice.edu  
-   Link: <a href="https://libguides.rice.edu/c.php?g=663387&amp;p=4662216" target="_blank" rel="noopener noreferrer nofollow">https://libguides.rice.edu/c.php?g=663387&amp;p=4662216</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University LibGuidesParanormal Studies: Archival CollectionsFeb 9, 2026 — Located in Norrköping, Sweden, this is the largest collect...</p></details>
+   Link:<a href="https://libguides.rice.edu/c.php?g=663387&amp;p=4662216" target="_blank" rel="noopener noreferrer nofollow">https://libguides.rice.edu/c.php?g=663387&amp;p=4662216</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University LibGuidesParanormal Studies: Archival CollectionsFeb 9, 2026 — Located in Norrköping, Sweden, this is the largest collect...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/collections/magazines/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/magazines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MagazinesThe collection covers all kinds of phenomena, with UFOs as a prime subject but also including cryptozoology, forteana, psychi...</p></details>
+   Link:<a href="https://www.afu.se/collections/magazines/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/magazines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MagazinesThe collection covers all kinds of phenomena, with UFOs as a prime subject but also including cryptozoology, forteana, psychi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Archives_for_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_for_the_Unexplained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the UnexplainedArchives for the Unexplained (AFU), formerly known as Archives for UFO research is a depository dedicated...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Archives_for_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_for_the_Unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the UnexplainedArchives for the Unexplained (AFU), formerly known as Archives for UFO research is a depository dedicated...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: afu.se  
    Title: 50 kilo collection from Erland Sandqvist (Sweden)  
-   Link: <a href="https://www.afu.se/2087/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/2087/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 kilo collection from Erland Sandqvist (Sweden)November 10, 2009 —... 1946 ghost rocket wave, combined with his own investigations...</p></details>
+   Link:<a href="https://www.afu.se/2087/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/2087/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 kilo collection from Erland Sandqvist (Sweden)November 10, 2009 —... 1946 ghost rocket wave, combined with his own investigations...</p></details>
    Published: November 10, 2009  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufo.se  
-   Link: <a href="https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the UnexplainedSamtidigt flyttades arkivet till Norrköping. AFU är inte en ordinär förening där man blir ”medlem”. Däremot k...</p></details>
+   Link:<a href="https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php/a/801-archives-for-the-unexplained2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the UnexplainedSamtidigt flyttades arkivet till Norrköping. AFU är inte en ordinär förening där man blir ”medlem”. Däremot k...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/afu2/?page_id=4778" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?page_id=4778</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report files |We have substantial files of Finnish UFO magazines, clippings and the annual yearbooks published by the Suomen Ufotutki...</p></details>
+   Link:<a href="https://www.afu.se/afu2/?page_id=4778" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?page_id=4778</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report files |We have substantial files of Finnish UFO magazines, clippings and the annual yearbooks published by the Suomen Ufotutki...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/afu2/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es, recordings, e-files, objects and other materialsRead more...</p></details>
+   Link:<a href="https://www.afu.se/afu2/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es, recordings, e-files, objects and other materialsRead more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/contact-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contact usAFU in focus when university gives UFO course...(0)70 620 11 48 (Clas Svahn) for information on donations and interviews. Ljur...</p></details>
+   Link:<a href="https://www.afu.se/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/contact-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contact usAFU in focus when university gives UFO course...(0)70 620 11 48 (Clas Svahn) for information on donations and interviews. Ljur...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: fan l express 29 agosto 1946 ghost rocket  
-   Link: <a href="https://archive.org/details/fan-l-express-29-agosto-1946-ghost-rocket" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/fan-l-express-29-agosto-1946-ghost-rocket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAN L&#x27; Express, 29 Agosto 1946 Ghost Rocket27 Jun 2025 — IN COLLECTIONS. Alfredo Lissoni UFO Clippings Collection Patron Libraries (Libra...</p></details>
+   Link:<a href="https://archive.org/details/fan-l-express-29-agosto-1946-ghost-rocket" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/fan-l-express-29-agosto-1946-ghost-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAN L&#x27; Express, 29 Agosto 1946 Ghost Rocket27 Jun 2025 — IN COLLECTIONS. Alfredo Lissoni UFO Clippings Collection Patron Libraries (Libra...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
    Title: AFU 1989 33  
-   Link: <a href="https://archive.org/details/AFU_1989_33" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/AFU_1989_33</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This newsletter is from the collection of the Archives for The Unexplained (also known as the Archives for UFO Research), in Sweden.Read...</p></details>
+   Link:<a href="https://archive.org/details/AFU" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/AFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This newsletter is from the collection of the Archives for The Unexplained (also known as the Archives for UFO Research), in Sweden.Read...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: libguides.bemidjistate.edu  
-   Link: <a href="https://libguides.bemidjistate.edu/ufoarchives" target="_blank" rel="noopener noreferrer nofollow">https://libguides.bemidjistate.edu/ufoarchives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bemidji State University LibGuidesUFOArchives: Your Guide to finding UFO-related archives in...Feb 27, 2026 — AFU - Archives for the Une...</p></details>
+   Link:<a href="https://libguides.bemidjistate.edu/ufoarchives" target="_blank" rel="noopener noreferrer nofollow">https://libguides.bemidjistate.edu/ufoarchives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bemidji State University LibGuidesUFOArchives: Your Guide to finding UFO-related archives in...Feb 27, 2026 — AFU - Archives for the Une...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: americanlibrariesmagazine.org  
    Title: bookend the real x files  
-   Link: <a href="https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Libraries MagazineBookend: The Real X-Files1 Mar 2016 — The Archives for the Unexplained in Norrköping, Sweden, holds the world&#x27;...</p></details>
+   Link:<a href="https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://americanlibrariesmagazine.org/2016/03/01/bookend-the-real-x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Libraries MagazineBookend: The Real X-Files1 Mar 2016 — The Archives for the Unexplained in Norrköping, Sweden, holds the world&#x27;...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wearethemutants.com  
    Title: fact not fiction ufo journals from the archives for the unexplained  
-   Link: <a href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Unexplained in Norrköping, Sweden. Formerly known as the Archives For UFO Research, the organization was founded in 1973...</p></details>
+   Link:<a href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Unexplained in Norrköping, Sweden. Formerly known as the Archives For UFO Research, the organization was founded in 1973...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/afuarchives/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afuarchives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFU - Archives for the Unexplained | NorrköpingDuring a few hours, we held presentations of the UFO phenomena, the Swedish UFO organizati...</p></details>
+   Link:<a href="https://www.facebook.com/afuarchives/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afuarchives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFU - Archives for the Unexplained | NorrköpingDuring a few hours, we held presentations of the UFO phenomena, the Swedish UFO organizati...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What were the ghost rockets seen over Sweden in 1946?UFO sightings started in Scandinavian countries in 1946. Lusiana Luz ▻ Mystery Alien...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1870439410119194/posts/2110720249424441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What were the ghost rockets seen over Sweden in 1946?UFO sightings started in Scandinavian countries in 1946. Lusiana Luz ▻ Mystery Alien...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: the ghost rockets of sweden mysterious objects in the nordic skiesin the summer  
-   Link: <a href="https://www.facebook.com/MoviesArchive.Hai/videos/-the-ghost-rockets-of-sweden-mysterious-objects-in-the-nordic-skiesin-the-summer/1248012913978810/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesArchive.Hai/videos/-the-ghost-rockets-of-sweden-mysterious-objects-in-the-nordic-skiesin-the-summer/1248012913978810/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>📰 The Ghost Rockets of Sweden: Mysterious Objects in the...... 1946, Scandinavia became the center of one of the earliest and most puzzl...</p></details>
+   Link:<a href="https://www.facebook.com/MoviesArchive.Hai/videos/-the-ghost-rockets-of-sweden-mysterious-objects-in-the-nordic-skiesin-the-summer/1248012913978810/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesArchive.Hai/videos/-the-ghost-rockets-of-sweden-mysterious-objects-in-the-nordic-skiesin-the-summer/1248012913978810/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>📰 The Ghost Rockets of Sweden: Mysterious Objects in the...... 1946, Scandinavia became the center of one of the earliest and most puzzl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7RLtpVR_mdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RLtpVR_mdA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8: Sweden. Archives for the Unexplained and Ghost RocketsI am joined by Clas Svahn, international director of UFO-Sweden and chairman for...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7RLtpVR_mdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RLtpVR_mdA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8: Sweden. Archives for the Unexplained and Ghost RocketsI am joined by Clas Svahn, international director of UFO-Sweden and chairman for...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thestandard.com.hk  
    Title: The unexplained Giant Swedish archive logs paranormal phenomena  
-   Link: <a href="https://www.thestandard.com.hk/world-news/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.thestandard.com.hk/world-news/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Swedish archive logs paranormal phenomenaMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest lib...</p></details>
+   Link:<a href="https://www.thestandard.com.hk/world-news/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.thestandard.com.hk/world-news/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Swedish archive logs paranormal phenomenaMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest lib...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thestandard.com.hk  
    Title: The unexplained Giant Swedish archive logs paranormal phenomena  
-   Link: <a href="https://www.thestandard.com.hk/world/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.thestandard.com.hk/world/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Swedish archive logs paranormal phenomenaMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest lib...</p></details>
+   Link:<a href="https://www.thestandard.com.hk/world/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.thestandard.com.hk/world/article/214646/The-unexplained-Giant-Swedish-archive-logs-paranormal-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Swedish archive logs paranormal phenomenaMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest lib...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: newvision.co.ug  
    Title: the unexplained giant swedish archive logs pa NV 184120 042026  
-   Link: <a href="https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_042026" target="_blank" rel="noopener noreferrer nofollow">https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_042026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logsMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest library...</p></details>
+   Link:<a href="https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_042026" target="_blank" rel="noopener noreferrer nofollow">https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_042026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logsMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest library...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: newvision.co.ug  
    Title: the unexplained giant swedish archive logs pa NV 184120 052026  
-   Link: <a href="https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_052026" target="_blank" rel="noopener noreferrer nofollow">https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_052026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logsApr 30, 2026 — Files are displayed at the Archives for the Unexplained (AFU) on March 12, 2024...</p></details>
+   Link:<a href="https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_052026" target="_blank" rel="noopener noreferrer nofollow">https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120_052026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logsApr 30, 2026 — Files are displayed at the Archives for the Unexplained (AFU) on March 12, 2024...</p></details>
    Published: March 12, 2024  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
    Title: A archive of 50 years of UFO cases stored by Clas Svahn  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1sk4yyh/a_archive_of_50_years_of_ufo_cases_stored_by_clas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sk4yyh/a_archive_of_50_years_of_ufo_cases_stored_by_clas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libraries, recordings, e-files, objects a...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1sk4yyh/a_archive_of_50_years_of_ufo_cases_stored_by_clas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sk4yyh/a_archive_of_50_years_of_ufo_cases_stored_by_clas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives for the unexplained (AFU) preserves a rich world-wide heritage of paper archives, book libraries, recordings, e-files, objects a...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: newvision.co.ug  
    Title: the unexplained giant swedish archive logs pa NV 184120  
-   Link: <a href="https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120" target="_blank" rel="noopener noreferrer nofollow">https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logsMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest library...</p></details>
+   Link:<a href="https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120" target="_blank" rel="noopener noreferrer nofollow">https://www.newvision.co.ug/category/report/the-unexplained-giant-swedish-archive-logs-pa-NV_184120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logsMar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s biggest library...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: phys.org  
    Title: 2024 03 unexplained giant swedish archive paranormal  
-   Link: <a href="https://phys.org/news/2024-03-unexplained-giant-swedish-archive-paranormal.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-03-unexplained-giant-swedish-archive-paranormal.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logs paranormal...Mar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s...</p></details>
+   Link:<a href="https://phys.org/news/2024-03-unexplained-giant-swedish-archive-paranormal.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-03-unexplained-giant-swedish-archive-paranormal.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexplained: Giant Swedish archive logs paranormal...Mar 22, 2024 — The Archives for the Unexplained (AFU) claims to be the world&#x27;s...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/archivesfortheunexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/archivesfortheunexplained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gest collection in the world, located in Norrköping Sweden.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/archivesfortheunexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/archivesfortheunexplained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gest collection in the world, located in Norrköping Sweden.Read more...</p></details>

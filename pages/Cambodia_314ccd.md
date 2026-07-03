@@ -1201,20 +1201,20 @@ That does not make Cambodia irrelevant to UFO study. It makes it a useful exampl
 
 The public record is best divided into three tiers: documented unidentified debris events, witness reports in civilian UFO databases, and internet-era speculation. Cambodia has examples of all three, but not all deserve the same weight.
 
-The National UFO Reporting Center, a US-based civilian reporting archive, lists Cambodia as having 10 reports in its country index. NUFORC describes its database as a public archive of first-hand accounts, but it also warns that it makes no claim that posted reports are valid and that many reports are reproduced substantially as submitted. That matters for Cambodia because several entries are vivid but not independently corroborated by official documents, radar data, photographs, named investigators, or local press follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
+The National UFO Reporting Center, a US-based civilian reporting archive, lists Cambodia as having 10 reports in its country index. NUFORC describes its database as a public archive of first-hand accounts, but it also warns that it makes no claim that posted reports are valid and that many reports are reproduced substantially as submitted. That matters for Cambodia because several entries are vivid but not independently corroborated by official documents, radar data, photographs, named investigators, or local press follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
-The strongest Cambodia-linked record is not a classic flying-saucer sighting. It is the 2008 debris event near Kampot province and Vietnam’s Phu Quoc Island. Reuters reported that Vietnam’s state news agency described an unidentified object exploding above Phu Quoc, about 10 kilometres off Cambodia’s Kampot coast, while Cambodia’s air force had first reported and then retracted a claim of a mysterious plane crash. Residents found grey metal fragments, officials contacted airlines in Vietnam, Cambodia and Thailand, and no missing aircraft was reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Vietnam reports &quot;UFO&quot; explosion</span><span class="citation-popover-snippet">Vietnam reports &quot;UFO&quot; explosion</span></span></span>
+The strongest Cambodia-linked record is not a classic flying-saucer sighting. It is the 2008 debris event near Kampot province and Vietnam’s Phu Quoc Island. Reuters reported that Vietnam’s state news agency described an unidentified object exploding above Phu Quoc, about 10 kilometres off Cambodia’s Kampot coast, while Cambodia’s air force had first reported and then retracted a claim of a mysterious plane crash. Residents found grey metal fragments, officials contacted airlines in Vietnam, Cambodia and Thailand, and no missing aircraft was reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Vietnam reports &quot;UFO&quot; explosion</span><span class="citation-popover-snippet">Vietnam reports &quot;UFO&quot; explosion</span></span></span>
 
-A second debris event appeared in 2018 in Preah Vihear province, where residents reported pieces of aluminium and rubber falling over a rural area. The reporting available in English is weaker than for 2008 and relies heavily on republished agency-style material, but the most important detail is prosaic: the local police chief reportedly suggested the fragments might have come from a drone, not from a spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Pieces Of A “UFO” Fell From The Sky And Landed</span><span class="citation-popover-snippet">Pieces Of A “UFO” Fell From The Sky And Landed</span></span></span>
+A second debris event appeared in 2018 in Preah Vihear province, where residents reported pieces of aluminium and rubber falling over a rural area. The reporting available in English is weaker than for 2008 and relies heavily on republished agency-style material, but the most important detail is prosaic: the local police chief reportedly suggested the fragments might have come from a drone, not from a spacecraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Pieces Of A “UFO” Fell From The Sky And Landed</span><span class="citation-popover-snippet">Pieces Of A “UFO” Fell From The Sky And Landed</span></span></span>
 
 <img src="{{ "/assets/images/Cambodia_314ccd-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Cambodia&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2008 Kampot–Phu Quoc incident is the central case
 
 The May 2008 incident deserves attention because it is the rare Cambodia-related UFO story with multiple public-source layers: local witnesses heard an explosion, debris was found in coastal areas, aviation officials commented, and international media picked up the story. It also shows why the word “UFO” can mislead. In this case, “UFO” meant an unidentified flying object in the literal sense: something apparently airborne had not yet been identified.
 
-Reuters reported that Vietnam News Agency said an explosion occurred about 8 kilometres above Phu Quoc Island and that authorities could not tell whether the object was a civil or military aircraft. Soldiers searched for wreckage and survivors; airlines in Vietnam, Cambodia and Thailand were contacted; and no missing aircraft reports emerged. On the Cambodian side, villagers in Kampot said they heard a loud explosion and later found small chunks of metal near the coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Plane crashes in southeast Cambodia</span><span class="citation-popover-snippet">Plane crashes in southeast Cambodia</span></span></span>
+Reuters reported that Vietnam News Agency said an explosion occurred about 8 kilometres above Phu Quoc Island and that authorities could not tell whether the object was a civil or military aircraft. Soldiers searched for wreckage and survivors; airlines in Vietnam, Cambodia and Thailand were contacted; and no missing aircraft reports emerged. On the Cambodian side, villagers in Kampot said they heard a loud explosion and later found small chunks of metal near the coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Plane crashes in southeast Cambodia</span><span class="citation-popover-snippet">Plane crashes in southeast Cambodia</span></span></span>
 
-Cambodian reporting added a useful corrective. The Cambodia Daily wrote that debris was found from Phu Quoc to Cambodia’s Kampot coast and Sihanoukville, but Cambodian aviation officials repeated that there was no evidence of a downed aircraft. Mao Havanall, then secretary of state for civil aviation, was reported as saying neither Vietnam nor Thailand had informed Cambodia of a missing aircraft and that Cambodian military aircraft were accounted for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">aircraft debris was found on kampot coast local officials</span></span></span>
+Cambodian reporting added a useful corrective. The Cambodia Daily wrote that debris was found from Phu Quoc to Cambodia’s Kampot coast and Sihanoukville, but Cambodian aviation officials repeated that there was no evidence of a downed aircraft. Mao Havanall, then secretary of state for civil aviation, was reported as saying neither Vietnam nor Thailand had informed Cambodia of a missing aircraft and that Cambodian military aircraft were accounted for.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">aircraft debris was found on kampot coast local officials</span></span></span>
 
 The case therefore sits in the “contested but materially grounded” category. There was a real report of an explosion and real debris claims, but the public evidence does not establish what the object was. Possible explanations include aircraft or aircraft-related debris, military hardware, a drone or unmanned system, a rocket or satellite component, or misattributed debris from another source. The public record does not support a leap to extraterrestrial origin.
 
@@ -1224,30 +1224,30 @@ The case therefore sits in the “contested but materially grounded” category.
 
 The known public chronology is sparse. It is useful mainly as a map of reporting quality rather than as proof of a continuing phenomenon.
 
-**1978, Kranglvea:** NUFORC hosts a report said to have occurred during the 1975–1979 Khmer Rouge period and filed in 2001. It describes an oval object, lights, sounds, and highly unusual narrative elements, including voices and later visionary experiences. NUFORC itself notes that the date is approximate and that it had no other information about the alleged sighting. This is historically interesting as testimony, but evidentially weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+**1978, Kranglvea:** NUFORC hosts a report said to have occurred during the 1975–1979 Khmer Rouge period and filed in 2001. It describes an oval object, lights, sounds, and highly unusual narrative elements, including voices and later visionary experiences. NUFORC itself notes that the date is approximate and that it had no other information about the alleged sighting. This is historically interesting as testimony, but evidentially weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-**March 2003, road to Siem Reap:** A NUFORC witness report filed in 2011 describes two observers seeing a disc-shaped craft from a bus travelling from the Poipet border area towards Siem Reap. The report is detailed about conditions, location, distance, shape, and witness confidence, but it remains a late-filed personal account without independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=19245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**March 2003, road to Siem Reap:** A NUFORC witness report filed in 2011 describes two observers seeing a disc-shaped craft from a bus travelling from the Poipet border area towards Siem Reap. The report is detailed about conditions, location, distance, shape, and witness confidence, but it remains a late-filed personal account without independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=19245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**May 2008, Kampot coast and Phu Quoc:** This is the best-documented Cambodia-linked incident. It involved a reported aerial explosion, debris, Cambodian and Vietnamese official comments, and press follow-up. It remains unidentified in public reporting, but not confirmed as anomalous in the stronger sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+**May 2008, Kampot coast and Phu Quoc:** This is the best-documented Cambodia-linked incident. It involved a reported aerial explosion, debris, Cambodian and Vietnamese official comments, and press follow-up. It remains unidentified in public reporting, but not confirmed as anomalous in the stronger sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
-**October 2018, Preah Vihear province:** Residents reportedly found aluminium and rubber fragments after hearing a loud sound. Local police reportedly considered a drone explanation plausible. This belongs closer to the “probable human-made debris” category than to a classic UFO sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Pieces Of A “UFO” Fell From The Sky And Landed</span><span class="citation-popover-snippet">Pieces Of A “UFO” Fell From The Sky And Landed</span></span></span>
+**October 2018, Preah Vihear province:** Residents reportedly found aluminium and rubber fragments after hearing a loud sound. Local police reportedly considered a drone explanation plausible. This belongs closer to the “probable human-made debris” category than to a classic UFO sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Pieces Of A “UFO” Fell From The Sky And Landed</span><span class="citation-popover-snippet">Pieces Of A “UFO” Fell From The Sky And Landed</span></span></span>
 
-**December 2025, unspecified Cambodia location:** NUFORC posted a report by a self-described Marine veteran involving a blue orb near rice paddies, later an orange orb seen from a vessel, and additional close-encounter claims. The report lists six military observers for the first sighting, but the public entry provides no official unit record, sensor data, or named corroborating witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**December 2025, unspecified Cambodia location:** NUFORC posted a report by a self-described Marine veteran involving a blue orb near rice paddies, later an orange orb seen from a vessel, and additional close-encounter claims. The report lists six military observers for the first sighting, but the public entry provides no official unit record, sensor data, or named corroborating witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Cambodia_314ccd-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Cambodia&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Cambodia’s regional pattern matters
 
 Cambodia’s public reports cluster around places where observation conditions and interpretation problems are unusually strong: rural roads, rice fields, coastal border zones, temple and military-adjacent areas, and tourist corridors. These are not meaningless details. They shape what witnesses see and what investigators can later verify.
 
-The Siem Reap corridor report, for example, came from a night bus journey through dark fields with little fixed lighting, while the 2008 case unfolded around Kampot, Sihanoukville, and Phu Quoc, a coastal air-and-sea environment where debris, military movements, weather, and cross-border reporting can complicate identification. The 2018 Preah Vihear fragments were reported in a rural province where drone use, border security sensitivities, and limited immediate technical analysis could easily leave residents with an unexplained event before authorities reached a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194537" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Vietnam reports &quot;UFO&quot; explosion</span><span class="citation-popover-snippet">Vietnam reports &quot;UFO&quot; explosion</span></span></span>
+The Siem Reap corridor report, for example, came from a night bus journey through dark fields with little fixed lighting, while the 2008 case unfolded around Kampot, Sihanoukville, and Phu Quoc, a coastal air-and-sea environment where debris, military movements, weather, and cross-border reporting can complicate identification. The 2018 Preah Vihear fragments were reported in a rural province where drone use, border security sensitivities, and limited immediate technical analysis could easily leave residents with an unexplained event before authorities reached a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194537" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Vietnam reports &quot;UFO&quot; explosion</span><span class="citation-popover-snippet">Vietnam reports &quot;UFO&quot; explosion</span></span></span>
 
-The regional pattern also explains why Cambodia should be linked cautiously to sibling country branches such as Vietnam, Thailand, and Laos. The 2008 case is Cambodia-linked but not purely Cambodian: the reported explosion was over or near Phu Quoc, debris was reported on both sides of the coastal area, and authorities in several countries were contacted about missing aircraft. For a country-by-country UFO project, this makes the case an obvious cross-link between Cambodia and Vietnam rather than a clean national incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Plane crashes in southeast Cambodia</span><span class="citation-popover-snippet">Plane crashes in southeast Cambodia</span></span></span>
+The regional pattern also explains why Cambodia should be linked cautiously to sibling country branches such as Vietnam, Thailand, and Laos. The 2008 case is Cambodia-linked but not purely Cambodian: the reported explosion was over or near Phu Quoc, debris was reported on both sides of the coastal area, and authorities in several countries were contacted about missing aircraft. For a country-by-country UFO project, this makes the case an obvious cross-link between Cambodia and Vietnam rather than a clean national incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Plane crashes in southeast Cambodia</span><span class="citation-popover-snippet">Plane crashes in southeast Cambodia</span></span></span>
 
 ## Official records and the archive gap
 
-There is no clear public evidence of a Cambodian government UFO investigation programme, national UAP office, or dedicated declassified UFO archive. The official Cambodian material most relevant to these cases is aviation governance, not UFO research. Cambodia’s civil aviation law places air traffic control for civil aircraft in Cambodian airspace under the State Secretariat of Civil Aviation, and contemporary aviation material identifies the SSCA as the body overseeing airport operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vertic.org/media/National%20Legislation/Cambodia/KH_Law%20on%20Civil%20Aviation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vertic.org">[VERTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vertic.org</span><span class="citation-popover-title">Law on Civil Aviation of the Kingdom of Cambodia</span><span class="citation-popover-snippet">Law on Civil Aviation of the Kingdom of Cambodia</span></span></span>
+There is no clear public evidence of a Cambodian government UFO investigation programme, national UAP office, or dedicated declassified UFO archive. The official Cambodian material most relevant to these cases is aviation governance, not UFO research. Cambodia’s civil aviation law places air traffic control for civil aircraft in Cambodian airspace under the State Secretariat of Civil Aviation, and contemporary aviation material identifies the SSCA as the body overseeing airport operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vertic.org/media/National%20Legislation/Cambodia/KH_Law%20on%20Civil%20Aviation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vertic.org">[VERTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vertic.org</span><span class="citation-popover-title">Law on Civil Aviation of the Kingdom of Cambodia</span><span class="citation-popover-snippet">Law on Civil Aviation of the Kingdom of Cambodia</span></span></span>
 
-That institutional context helps explain the 2008 response. Officials treated the event as a possible aviation incident first: was there a missing aircraft, a crash site, debris, survivors, or a report from a neighbouring country? When those checks did not confirm a downed plane, the case remained publicly unresolved rather than becoming evidence for a more exotic explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">aircraft debris was found on kampot coast local officials</span></span></span>
+That institutional context helps explain the 2008 response. Officials treated the event as a possible aviation incident first: was there a missing aircraft, a crash site, debris, survivors, or a report from a neighbouring country? When those checks did not confirm a downed plane, the case remained publicly unresolved rather than becoming evidence for a more exotic explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.cambodiadaily.com">[The Cambodia Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.cambodiadaily.com</span><span class="citation-popover-title">aircraft debris was found on kampot coast local officials</span><span class="citation-popover-snippet">aircraft debris was found on kampot coast local officials</span></span></span>
 
 The archive gap is itself an important finding. In countries with strong UFO [archives]({{ 'archives-513076/' | relative_url }}), researchers can compare witness accounts against military logs, radar records, air traffic data, meteorological reports, astronomical conditions, and later official conclusions. For Cambodia, public researchers usually have only press stories, foreign databases, social-media fragments, and occasional official comments about aviation or debris. That makes overconfidence especially risky.
 
@@ -1257,20 +1257,20 @@ The archive gap is itself an important finding. In countries with strong UFO [ar
 
 A practical way to read Cambodia’s UFO record is to separate “unidentified” from “extraordinary”.
 
-**Confirmed or strongly grounded:** The 2008 Kampot–Phu Quoc event involved real official and press attention, reported debris, and cross-border aviation checks. The safest conclusion is that an unidentified airborne or falling-object event was reported and investigated informally through aviation and local authorities. The object’s origin was not publicly established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+**Confirmed or strongly grounded:** The 2008 Kampot–Phu Quoc event involved real official and press attention, reported debris, and cross-border aviation checks. The safest conclusion is that an unidentified airborne or falling-object event was reported and investigated informally through aviation and local authorities. The object’s origin was not publicly established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
-**Contested:** The NUFORC entries from Kranglvea, Siem Reap, and the 2025 unspecified Cambodia location are contested in the evidential sense: they are preserved witness accounts, but their public files do not contain enough independent data to verify the objects, distances, manoeuvres, or interpretations. NUFORC’s own database guidance is relevant here because it explicitly says the centre does not claim posted reports are valid. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63623" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">world ufo day</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested:** The NUFORC entries from Kranglvea, Siem Reap, and the 2025 unspecified Cambodia location are contested in the evidential sense: they are preserved witness accounts, but their public files do not contain enough independent data to verify the objects, distances, manoeuvres, or interpretations. NUFORC’s own database guidance is relevant here because it explicitly says the centre does not claim posted reports are valid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63623" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">world ufo day</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Probably prosaic or leaning prosaic:** The 2018 Preah Vihear fragments lean towards a human-made explanation because the material was described as aluminium and rubber and a local police chief reportedly raised the possibility of drone parts. Without a published technical report, “drone debris” is not proven, but it is more consistent with the available description than an extraterrestrial explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Pieces Of A “UFO” Fell From The Sky And Landed</span><span class="citation-popover-snippet">Pieces Of A “UFO” Fell From The Sky And Landed</span></span></span>
+**Probably prosaic or leaning prosaic:** The 2018 Preah Vihear fragments lean towards a human-made explanation because the material was described as aluminium and rubber and a local police chief reportedly raised the possibility of drone parts. Without a published technical report, “drone debris” is not proven, but it is more consistent with the available description than an extraterrestrial explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Pieces Of A “UFO” Fell From The Sky And Landed</span><span class="citation-popover-snippet">Pieces Of A “UFO” Fell From The Sky And Landed</span></span></span>
 
 **Debunked or low-value claims:** Cambodia also appears in “ancient aliens” and temple-mystery content online, especially around Angkor or Preah Vihear. These claims generally sit outside serious UFO incident analysis because they reinterpret archaeology rather than document observed unidentified aerial events. They should not be mixed with sighting chronology unless a page is specifically about ancient-astronaut beliefs rather than modern UFO reports.
 
 <img src="{{ "/assets/images/Cambodia_314ccd-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Cambodia&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Cambodia fits the wider UAP evidence problem
 
-Cambodia’s cases match a wider lesson in UAP research: unresolved does not mean extraordinary. AARO, the US office responsible for government UAP analysis, describes its work as a scientific, data-driven effort, and its official case pages show many examples where reports are resolved as balloons, birds, or ordinary aircraft, while others remain unresolved because the data are insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+Cambodia’s cases match a wider lesson in UAP research: unresolved does not mean extraordinary. AARO, the US office responsible for government UAP analysis, describes its work as a scientific, data-driven effort, and its official case pages show many examples where reports are resolved as balloons, birds, or ordinary aircraft, while others remain unresolved because the data are insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-NASA’s UAP study took a similar stance. Its public FAQ explains that the independent study was not a review of past incidents but a roadmap for using better data, technology, and scientific methods to evaluate future UAP reports. That is directly applicable to Cambodia: most public Cambodian cases lack the sensor records, chain-of-custody evidence, clear photographs, exact locations, and technical analysis needed to move from “interesting report” to “strong case”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+NASA’s UAP study took a similar stance. Its public FAQ explains that the independent study was not a review of past incidents but a roadmap for using better data, technology, and scientific methods to evaluate future UAP reports. That is directly applicable to Cambodia: most public Cambodian cases lack the sensor records, chain-of-custody evidence, clear photographs, exact locations, and technical analysis needed to move from “interesting report” to “strong case”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 This is why the 2008 debris event remains the most valuable case even though it is not the most dramatic. It includes the things serious readers should care about: physical debris claims, named places, aviation checks, official caution, and competing interpretations. By contrast, a spectacular witness story with no corroborating records may be memorable but is harder to use as evidence.
 
@@ -1285,194 +1285,194 @@ The current public record supports a modest conclusion: Cambodia has a small num
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zP53r2eF5Kw" title="This Fatal Crash Didn’t Leave Investigators Any Clues 🔎 Air Disasters | Smithsonian Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zP53r2eF5Kw" target="_blank" rel="noopener noreferrer">This Fatal Crash Didn’t Leave Investigators Any Clues 🔎 Air Disasters | Smithsonian Channel</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel Aviation Nation &middot; Views: 90.6K &middot; Uploaded: March 2021 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zP53r2eF5Kw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zP53r2eF5Kw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Cambodia&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Cambodia&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative frameworks applicable to Cambodia&#x27;s limited case record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative frameworks applicable to Cambodia&#x27;s limited case record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong overview for readers investigating national UFO cases and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong overview for readers investigating national UFO cases and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how governments and investigators handle unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how governments and investigators handle unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for readers comparing global folklore and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers comparing global folklore and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-cambodia-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-cambodia-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1488,7 +1488,7 @@ The current public record supports a modest conclusion: Cambodia has a small num
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1508,7 +1508,7 @@ The current public record supports a modest conclusion: Cambodia has a small num
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1540,7 +1540,7 @@ The current public record supports a modest conclusion: Cambodia has a small num
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1592,7 +1592,7 @@ The current public record supports a modest conclusion: Cambodia has a small num
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1637,7 +1637,7 @@ The current public record supports a modest conclusion: Cambodia has a small num
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1675,179 +1675,178 @@ The current public record supports a modest conclusion: Cambodia has a small num
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: Vietnam reports "UFO" explosion  
-   Link: <a href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/</a>  
+   Link:<a href="https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/vietnam-reports-ufo-explosion-idUSBKK88829/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iflscience.com  
    Title: Pieces Of A “UFO” Fell From The Sky And Landed  
-   Link: <a href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357</a>  
+   Link:<a href="https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/pieces-of-a-ufo-fell-from-the-sky-and-landed-in-remote-cambodian-village-50357</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=19245" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=19245</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=19245" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=19245</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85009</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=85009" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85009</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=194537" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194537</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=194537" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194537</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vertic.org  
    Title: Law on Civil Aviation of the Kingdom of Cambodia  
-   Link: <a href="https://www.vertic.org/media/National%20Legislation/Cambodia/KH_Law%20on%20Civil%20Aviation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vertic.org/media/National%20Legislation/Cambodia/KH_Law%20on%20Civil%20Aviation.pdf</a>  
+   Link:<a href="https://www.vertic.org/media/National%20Legislation/Cambodia/KH_Law%20on%20Civil%20Aviation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vertic.org/media/National%20Legislation/Cambodia/KH_Law%20on%20Civil%20Aviation.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=63623" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63623</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=63623" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63623</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
    Title: world ufo day  
-   Link: <a href="https://nuforc.org/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/world-ufo-day/</a>  
+   Link:<a href="https://nuforc.org/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/world-ufo-day/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reuters.com  
    Title: Plane crashes in southeast Cambodia  
-   Link: <a href="https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/</a>  
+   Link:<a href="https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/economy/plane-crashes-in-southeast-cambodia-official-idUSBKK31745/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/documents/organization/229566.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/229566.pdf</a>  
+   Link:<a href="https://2009-2017.state.gov/documents/organization/229566.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/229566.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/BramleyTheGodsOfEdenTheChillingTruthAboutExtraterrestrialInfiltrationAndConspira_201904/Bramley%20-%20The%20Gods%20of%20Eden%20-%20The%20Chilling%20Truth%20about%20Extraterrestrial%20Infiltration%20and%20Conspiracy%20to%20Keep%20Humankind%20in%20Chains_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BramleyTheGodsOfEdenTheChillingTruthAboutExtraterrestrialInfiltrationAndConspira_201904/Bramley%20-%20The%20Gods%20of%20Eden%20-%20The%20Chilling%20Truth%20about%20Extraterrestrial%20Infiltration%20and%20Conspiracy%20to%20Keep%20Humankind%20in%20Chains_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/BramleyTheGodsOfEdenTheChillingTruthAboutExtraterrestrialInfiltrationAndConspira_201904/Bramley%20-%20The%20Gods%20of%20Eden%20-%20The%20Chilling%20Truth%20about%20Extraterrestrial%20Infiltration%20and%20Conspiracy%20to%20Keep%20Humankind%20in%20Chains_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BramleyTheGodsOfEdenTheChillingTruthAboutExtraterrestrialInfiltrationAndConspira_201904/Bramley%20-%20The%20Gods%20of%20Eden%20-%20The%20Chilling%20Truth%20about%20Extraterrestrial%20Infiltration%20and%20Conspiracy%20to%20Keep%20Humankind%20in%20Chains_djvu.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: english.cambodiadaily.com  
    Title: aircraft debris was found on kampot coast local officials  
-   Link: <a href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/</a>  
+   Link:<a href="https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/29/aircraft-debris-was-found-on-kampot-coast-local-officials/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: english.cambodiadaily.com  
    Title: The Cambodia Daily Officials Cast Doubt on Report of Plane Crash  
-   Link: <a href="https://english.cambodiadaily.com/2008/05/28/officials-cast-doubt-on-report-of-plane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/28/officials-cast-doubt-on-report-of-plane-crash/</a>  
+   Link:<a href="https://english.cambodiadaily.com/2008/05/28/officials-cast-doubt-on-report-of-plane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://english.cambodiadaily.com/2008/05/28/officials-cast-doubt-on-report-of-plane-crash/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741381" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741381</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741381" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741381</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741380" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741380</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741380" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741380</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/00046885" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00046885</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/00046885" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00046885</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Preah Vihear  
-   Link: <a href="https://en.wikipedia.org/wiki/Preah_Vihear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Preah_Vihear</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Preah_Vihear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Preah_Vihear</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Lidar Technology Uncovers Hidden Temple | Expedition Unknown  
-   Link: <a href="https://www.youtube.com/watch?v=1NGyu_Bcz_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1NGyu_Bcz_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking news: US War Department opens Colombia, Thailand confronts China - Cambodia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1NGyu_Bcz_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1NGyu_Bcz_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking news: US War Department opens Colombia, Thailand confronts China - Cambodia...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Expedition X: Strange Creature Hunt & Paranormal Investigation  
-   Link: <a href="https://www.youtube.com/watch?v=ogMFGmpsfes" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ogMFGmpsfes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lidar Technology Uncovers Hidden Temple | Expedition Unknown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ogMFGmpsfes" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ogMFGmpsfes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lidar Technology Uncovers Hidden Temple | Expedition Unknown...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/240614352_Observations_on_the_spread_and_extent_of_alien_invasive_plant_species_in_six_protected_areas_in_Cambodia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240614352_Observations_on_the_spread_and_extent_of_alien_invasive_plant_species_in_six_protected_areas_in_Cambodia</a>  
+   Link:<a href="https://www.researchgate.net/publication/240614352_Observations_on_the_spread_and_extent_of_alien_invasive_plant_species_in_six_protected_areas_in_Cambodia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240614352_Observations_on_the_spread_and_extent_of_alien_invasive_plant_species_in_six_protected_areas_in_Cambodia</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/</a>  
+   Link:<a href="https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/USHistoryGroup/posts/3455898334625531/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: getty.edu  
-   Link: <a href="https://www.getty.edu/publications/resources/virtuallibrary/9781606061244.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.getty.edu/publications/resources/virtuallibrary/9781606061244.pdf</a>  
+   Link:<a href="https://www.getty.edu/publications/resources/virtuallibrary/9781606061244.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.getty.edu/publications/resources/virtuallibrary/9781606061244.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/cambodiasap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/cambodiasap.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/cambodiasap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/cambodiasap.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWeekMag/posts/cia-secret-bases-are-facilities-maintained-by-the-central-intelligence-agency-of/1111623324343412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeekMag/posts/cia-secret-bases-are-facilities-maintained-by-the-central-intelligence-agency-of/1111623324343412/</a>  
+   Link:<a href="https://www.facebook.com/TheWeekMag/posts/cia-secret-bases-are-facilities-maintained-by-the-central-intelligence-agency-of/1111623324343412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeekMag/posts/cia-secret-bases-are-facilities-maintained-by-the-central-intelligence-agency-of/1111623324343412/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>

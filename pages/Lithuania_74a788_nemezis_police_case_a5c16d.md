@@ -261,10 +261,10 @@ The “Nemezis” police sighting of 25 June 1996 is the single most cited i
 
 According to international press summaries and UFO chronologies drawing on archived foreign‑service translations, two Lithuanian police officers—named in some accounts as **Jaunius Požera** and **Laimis Kraujalis**—reported encountering an unusual aerial object while on patrol on the road between Vilnius and Medininkai near the village of Nemezis in the early hours of 25 June 1996. The key elements attributed to their testimony are:
 
-* A **spherical, luminous object** seen hovering roughly 20–30 metres above the ground, about 10 kilometres from Vilnius. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[odla.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">deux policiers ont observé un ovni près de vilnius en 1996</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésMarch 28, 2021...</span><span class="citation-popover-meta">Published: March 28, 2021</span></span></span>
-* The object was described as **“pulsing”, alternately expanding and contracting**, and emitting a **“strange sound like an electric or electronic crackle.”** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurenews.it">[disclosurenews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurenews.it</span><span class="citation-popover-title">Police Officers Spot UFO</span><span class="citation-popover-snippet">1996 - Disclosure NewsMarch 1, 2021...</span><span class="citation-popover-meta">Published: March 1, 2021</span></span></span>
-* The officers watched it for roughly **half an hour** before approaching to within about 50 metres, at which point it reportedly rose higher and departed rapidly towards Vilnius. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurenews.it">[disclosurenews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurenews.it</span><span class="citation-popover-title">Police Officers Spot UFO</span><span class="citation-popover-snippet">1996 - Disclosure NewsMarch 1, 2021...</span><span class="citation-popover-meta">Published: March 1, 2021</span></span></span>
-* After the object left, other police units and rapid reaction forces were said to have arrived, with some accounts claiming that background radiation was measured, the **sound was recorded**, and that **grass near the location was flattened** in an approximately ten‑metre circle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/lithuania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[thenightskyii.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">Lithuanian UFO Sighting</span><span class="citation-popover-snippet">June 25, 1996...</span><span class="citation-popover-meta">Published: June 25, 1996</span></span></span>
+* A **spherical, luminous object** seen hovering roughly 20–30 metres above the ground, about 10 kilometres from Vilnius.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[odla.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">deux policiers ont observé un ovni près de vilnius en 1996</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésMarch 28, 2021...</span><span class="citation-popover-meta">Published: March 28, 2021</span></span></span>
+* The object was described as **“pulsing”, alternately expanding and contracting**, and emitting a **“strange sound like an electric or electronic crackle.”**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurenews.it">[disclosurenews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurenews.it</span><span class="citation-popover-title">Police Officers Spot UFO</span><span class="citation-popover-snippet">1996 - Disclosure NewsMarch 1, 2021...</span><span class="citation-popover-meta">Published: March 1, 2021</span></span></span>
+* The officers watched it for roughly **half an hour** before approaching to within about 50 metres, at which point it reportedly rose higher and departed rapidly towards Vilnius.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurenews.it">[disclosurenews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurenews.it</span><span class="citation-popover-title">Police Officers Spot UFO</span><span class="citation-popover-snippet">1996 - Disclosure NewsMarch 1, 2021...</span><span class="citation-popover-meta">Published: March 1, 2021</span></span></span>
+* After the object left, other police units and rapid reaction forces were said to have arrived, with some accounts claiming that background radiation was measured, the **sound was recorded**, and that **grass near the location was flattened** in an approximately ten‑metre circle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/lithuania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[thenightskyii.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">Lithuanian UFO Sighting</span><span class="citation-popover-snippet">June 25, 1996...</span><span class="citation-popover-meta">Published: June 25, 1996</span></span></span>
 
 This narrative, repeated across UFO enthusiast sites and secondary summaries, gives the impression of an event with **multiple witness and site factors** rather than a brief visual sighting.
 
@@ -274,9 +274,9 @@ This narrative, repeated across UFO enthusiast sites and secondary summaries, gi
 
 Although the story has been copied often on UFO enthusiast and lore sites, **the original documentation and evidence trail is extremely limited**:
 
-* A declassified **CIA archive document titled “POLICE OFFICERS SPOT UFO; RAPID REACTION…”** exists and is often cited by UFO researchers. This document appears to be a direct transcription of a **Foreign Broadcast Information Service (FBIS)** summary of an Itar‑Tass wire report on the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">POLICE OFFICERS SPOT UFO; RAPID REACTION...THE POLICEMEN WATCHED THE UFO FOR ABOUT HALF AN HOUR. ON THEIR. ARRIVAL AT THE SCENE OF TH...</span></span></span>
-* These entries show that **foreign intelligence services collected and kept a textual summary**, but they do not contain **raw primary data** such as official Lithuanian police logs, recordings, photographs, or technical measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/docs/FOIA_Logs_CIA_1999-2004.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">FOIA Logs CIA 1999 2004</span><span class="citation-popover-snippet">FOIA Logs for Central Intelligence Agency (CIA) for 1999-...July 8, 2024 — 10 Dec 2007 — U.F.O SIGHTINGS, ALIEN ENCOUNTERS AND GOVERNMEN...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
-* The news reporting on which the archive record is based is itself a paraphrase of a wire agency story rather than a published official investigation or detailed witness interview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/francesoir27jul1996.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOS at close sight: the newspapers, France Soir, UFO landing in Vilnius, Lithuania, 1996...</span></span></span>
+* A declassified **CIA archive document titled “POLICE OFFICERS SPOT UFO; RAPID REACTION…”** exists and is often cited by UFO researchers. This document appears to be a direct transcription of a **Foreign Broadcast Information Service (FBIS)** summary of an Itar‑Tass wire report on the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">POLICE OFFICERS SPOT UFO; RAPID REACTION...THE POLICEMEN WATCHED THE UFO FOR ABOUT HALF AN HOUR. ON THEIR. ARRIVAL AT THE SCENE OF TH...</span></span></span>
+* These entries show that **foreign intelligence services collected and kept a textual summary**, but they do not contain **raw primary data** such as official Lithuanian police logs, recordings, photographs, or technical measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/docs/FOIA_Logs_CIA_1999-2004.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">FOIA Logs CIA</span><span class="citation-popover-snippet">FOIA Logs for Central Intelligence Agency (CIA) for 1999-...July 8, 2024 — 10 Dec 2007 — U.F.O SIGHTINGS, ALIEN ENCOUNTERS AND GOVERNMEN...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
+* The news reporting on which the archive record is based is itself a paraphrase of a wire agency story rather than a published official investigation or detailed witness interview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/francesoir27jul1996.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOS at close sight: the newspapers, France Soir, UFO landing in Vilnius, Lithuania, 1996...</span></span></span>
 
 In other words, the most visible “primary source” backing the Nemezis account is a **translated press clipping preserved in intelligence archives**, not a publicly released investigative file by Lithuanian authorities.
 
@@ -287,8 +287,8 @@ Accounts circulating online suggest various physical and instrumental checks wer
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Reports from UFO‑themed pages describe **flattened grass** as the only physical trace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/lithuania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[thenightskyii.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">Lithuanian UFO Sighting</span><span class="citation-popover-snippet">June 25, 1996...</span><span class="citation-popover-meta">Published: June 25, 1996</span></span></span>
-* Claims that **radiation levels were measured** or that **sound recordings exist** are based on secondary retellings, not on published data or expert analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurenews.it">[disclosurenews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurenews.it</span><span class="citation-popover-title">Police Officers Spot UFO</span><span class="citation-popover-snippet">1996 - Disclosure NewsMarch 1, 2021...</span><span class="citation-popover-meta">Published: March 1, 2021</span></span></span>
+* Reports from UFO‑themed pages describe **flattened grass** as the only physical trace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/lithuania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[thenightskyii.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">Lithuanian UFO Sighting</span><span class="citation-popover-snippet">June 25, 1996...</span><span class="citation-popover-meta">Published: June 25, 1996</span></span></span>
+* Claims that **radiation levels were measured** or that **sound recordings exist** are based on secondary retellings, not on published data or expert analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurenews.it">[disclosurenews.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurenews.it</span><span class="citation-popover-title">Police Officers Spot UFO</span><span class="citation-popover-snippet">1996 - Disclosure NewsMarch 1, 2021...</span><span class="citation-popover-meta">Published: March 1, 2021</span></span></span>
 * There are **no public police reports, technical reports, radar data, photographs or forensic materials** associated with the case that have been released by Lithuanian official sources.
 
 </div>
@@ -301,7 +301,7 @@ This marks a stark contrast with well‑documented cases in other national archi
 
 The enduring interest in the Nemezis sighting stems mainly from its combination of **officiality (police witnesses) and ambiguity (lack of clear explanation)**. However, several core questions remain unresolved due to the evidence limitations:
 
-* **Witness testimony reliability**: Beyond the wire‑service paraphrase, there are no accessible detailed interviews with the named officers or transcripts of what they reported to their command. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[odla.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">deux policiers ont observé un ovni près de vilnius en 1996</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésMarch 28, 2021...</span><span class="citation-popover-meta">Published: March 28, 2021</span></span></span>
+* **Witness testimony reliability**: Beyond the wire‑service paraphrase, there are no accessible detailed interviews with the named officers or transcripts of what they reported to their command.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[odla.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">deux policiers ont observé un ovni près de vilnius en 1996</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésMarch 28, 2021...</span><span class="citation-popover-meta">Published: March 28, 2021</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -314,201 +314,201 @@ The enduring interest in the Nemezis sighting stems mainly from its combination 
 <img src="{{ "/assets/images/Lithuania_74a788_nemezis_police_case_a5c16d-Illustration-3-dark.svg" | relative_url }}" alt="Nemezis Case illustration 3" data-theme-src-dark="{{ "/assets/images/Lithuania_74a788_nemezis_police_case_a5c16d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lithuania_74a788_nemezis_police_case_a5c16d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Evidence Problem in Perspective
 
-The Nemezis police sighting exemplifies a **common challenge in UFO case studies**: compelling witness descriptions do not equate to compelling evidence unless they are paired with verifiable data or independent confirmation. For Lithuania, the case is historically notable as one of the rare reports involving official witnesses, but it remains an **unidentified report with no publicly verifiable evidence** beyond international news summaries preserved in intelligence archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">POLICE OFFICERS SPOT UFO; RAPID REACTION...THE POLICEMEN WATCHED THE UFO FOR ABOUT HALF AN HOUR. ON THEIR. ARRIVAL AT THE SCENE OF TH...</span></span></span>
+The Nemezis police sighting exemplifies a **common challenge in UFO case studies**: compelling witness descriptions do not equate to compelling evidence unless they are paired with verifiable data or independent confirmation. For Lithuania, the case is historically notable as one of the rare reports involving official witnesses, but it remains an **unidentified report with no publicly verifiable evidence** beyond international news summaries preserved in intelligence archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">POLICE OFFICERS SPOT UFO; RAPID REACTION...THE POLICEMEN WATCHED THE UFO FOR ABOUT HALF AN HOUR. ON THEIR. ARRIVAL AT THE SCENE OF TH...</span></span></span>
 
 In the absence of a released investigative file or corroborating scientific data, the Nemezis sighting sits in the “contested but historically interesting” category within Lithuania’s UFO chronology rather than rising to the level of a documented unexplained physical event.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F6dpSPWibsE" title="Lithuanians scramble to take cover over drone alert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F6dpSPWibsE" target="_blank" rel="noopener noreferrer">Lithuanians scramble to take cover over drone alert</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 2.6K &middot; Uploaded: May 2026 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F6dpSPWibsE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F6dpSPWibsE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Nemezis Lithuania&#x27;s Strongest UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Nemezis Lithuania&#x27;s Strongest UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ideal framework for evaluating a police-witness UFO case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal framework for evaluating a police-witness UFO case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how notable cases become part of UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how notable cases become part of UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights credible witness testimony and official-source cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights credible witness testimony and official-source cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides alternative ways of interpreting unusual witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides alternative ways of interpreting unusual witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-nemezis-lithuania-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ In the absence of a released investigative file or corroborating scientific data
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ In the absence of a released investigative file or corroborating scientific data
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ In the absence of a released investigative file or corroborating scientific data
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ In the absence of a released investigative file or corroborating scientific data
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ In the absence of a released investigative file or corroborating scientific data
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,105 +714,105 @@ In the absence of a released investigative file or corroborating scientific data
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: odla.fr  
    Title: deux policiers ont observé un ovni près de vilnius en 1996  
-   Link: <a href="https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ôdla: actualité Ufologique et phénomènes inexpliquésMarch 28, 2021...</p></details>
+   Link:<a href="https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2021/03/28/deux-policiers-ont-observ%C3%A9-un-ovni-pr%C3%A8s-de-vilnius-en-1996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ôdla: actualité Ufologique et phénomènes inexpliquésMarch 28, 2021...</p></details>
    Published: March 28, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/francesoir27jul1996.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/francesoir27jul1996.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOS at close sight: the newspapers, France Soir, UFO landing in Vilnius, Lithuania, 1996...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/francesoir27jul1996.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/francesoir27jul1996.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOS at close sight: the newspapers, France Soir, UFO landing in Vilnius, Lithuania, 1996...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: disclosurenews.it  
    Title: Police Officers Spot UFO  
-   Link: <a href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurenews.it/police-officers-spot-ufo-1996/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1996 - Disclosure NewsMarch 1, 2021...</p></details>
+   Link:<a href="https://www.disclosurenews.it/police-officers-spot-ufo-1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurenews.it/police-officers-spot-ufo-1996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1996 - Disclosure NewsMarch 1, 2021...</p></details>
    Published: March 1, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thenightskyii.org  
    Title: Lithuanian UFO Sighting  
-   Link: <a href="https://www.thenightskyii.org/lithuania.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thenightskyii.org/lithuania.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 1996...</p></details>
+   Link:<a href="https://www.thenightskyii.org/lithuania.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thenightskyii.org/lithuania.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 1996...</p></details>
    Published: June 25, 1996  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>POLICE OFFICERS SPOT UFO; RAPID REACTION...THE POLICEMEN WATCHED THE UFO FOR ABOUT HALF AN HOUR. ON THEIR. ARRIVAL AT THE SCENE OF TH...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>POLICE OFFICERS SPOT UFO; RAPID REACTION...THE POLICEMEN WATCHED THE UFO FOR ABOUT HALF AN HOUR. ON THEIR. ARRIVAL AT THE SCENE OF TH...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: governmentattic.org  
    Title: FOIA Logs CIA 1999 2004  
-   Link: <a href="https://www.governmentattic.org/docs/FOIA_Logs_CIA_1999-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/docs/FOIA_Logs_CIA_1999-2004.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Logs for Central Intelligence Agency (CIA) for 1999-...July 8, 2024 — 10 Dec 2007 — U.F.O SIGHTINGS, ALIEN ENCOUNTERS AND GOVERNMEN...</p></details>
+   Link:<a href="https://www.governmentattic.org/docs/FOIA_Logs_CIA_1999-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/docs/FOIA_Logs_CIA_1999-2004.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Logs for Central Intelligence Agency (CIA) for 1999-...July 8, 2024 — 10 Dec 2007 — U.F.O SIGHTINGS, ALIEN ENCOUNTERS AND GOVERNMEN...</p></details>
    Published: July 8, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
    Title: DOCUMMENT FROM THE CIA ARCHIVE: This document dated  
-   Link: <a href="https://ufologie.patrickgross.org/htm/foia04.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/foia04.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: FOIA - Documment from the CIA archive, 1996March 25, 1997 — FOIA DECLASSIFIED DOCUMENTS: This is a US document, decl...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/foia04.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/foia04.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: FOIA - Documment from the CIA archive, 1996March 25, 1997 — FOIA DECLASSIFIED DOCUMENTS: This is a US document, decl...</p></details>
    Published: March 25, 1997  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rfb6dv/cia_doc_reveals_two_police_officers_witnessed_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfb6dv/cia_doc_reveals_two_police_officers_witnessed_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA doc reveals two police officers witnessed the landing of...They&#x27;re gonna show stuff that is easily identifiable.” r/UFOs - Rep. Burc...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rfb6dv/cia_doc_reveals_two_police_officers_witnessed_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfb6dv/cia_doc_reveals_two_police_officers_witnessed_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA doc reveals two police officers witnessed the landing of...They&#x27;re gonna show stuff that is easily identifiable.” r/UFOs - Rep. Burc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ru.scribd.com  
-   Link: <a href="https://ru.scribd.com/doc/48102262/FBIS-Reporting-1996-Lithuania-UFO-Sighting-Involving-Lithuanian-Police-and-Rapid-Reaction-Forces-16-June-1996" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/doc/48102262/FBIS-Reporting-1996-Lithuania-UFO-Sighting-Involving-Lithuanian-Police-and-Rapid-Reaction-Forces-16-June-1996</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting 1996 Lithuania UFO Sighting Involving...16 Jun 1996 — FBIS Reporting 1996 Lithuania UFO Sighting Involving Lithuanian Police a...</p></details>
+   Link:<a href="https://ru.scribd.com/doc/48102262/FBIS-Reporting-1996-Lithuania-UFO-Sighting-Involving-Lithuanian-Police-and-Rapid-Reaction-Forces-16-June-1996" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/doc/48102262/FBIS-Reporting-1996-Lithuania-UFO-Sighting-Involving-Lithuanian-Police-and-Rapid-Reaction-Forces-16-June-1996</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting 1996 Lithuania UFO Sighting Involving...16 Jun 1996 — FBIS Reporting 1996 Lithuania UFO Sighting Involving Lithuanian Police a...</p></details>
    Published: June 1996  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufomagazines.com  
-   Link: <a href="https://www.ufomagazines.com/mysterieux-objets-celestes-gmldln-mysterieux-objets-celestes-no-02-mars-avril-1997/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mysterieux-objets-celestes-gmldln-mysterieux-objets-celestes-no-02-mars-avril-1997/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GROUPEMENT MARNAIS LUMIERES DANS LA NUIT — GROUPEMENT MARNAIS DE LUMIERES DANS LA NUIT | UFO Magazine ArchiveUFOS: THE LATEST NEWS This s...</p></details>
+   Link:<a href="https://www.ufomagazines.com/mysterieux-objets-celestes-gmldln-mysterieux-objets-celestes-no-02-mars-avril-1997/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mysterieux-objets-celestes-gmldln-mysterieux-objets-celestes-no-02-mars-avril-1997/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GROUPEMENT MARNAIS LUMIERES DANS LA NUIT — GROUPEMENT MARNAIS DE LUMIERES DANS LA NUIT | UFO Magazine ArchiveUFOS: THE LATEST NEWS This s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets | National Archives | The GuardianAugust 16, 2009 — This article is more than 16 years...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets | National Archives | The GuardianAugust 16, 2009 — This article is more than 16 years...</p></details>
    Published: August 16, 2009  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/outkick-culture/fbi-received-tip-nazis-built-secret-ufo-craft-bombshell-declassified-documents-reveal" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/outkick-culture/fbi-received-tip-nazis-built-secret-ufo-craft-bombshell-declassified-documents-reveal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI received tip Nazis built secret UFO craft, bombshell...8 May 2026 — Declassified FBI documents released under President Donald Trump...</p></details>
+   Link:<a href="https://www.foxnews.com/outkick-culture/fbi-received-tip-nazis-built-secret-ufo-craft-bombshell-declassified-documents-reveal" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/outkick-culture/fbi-received-tip-nazis-built-secret-ufo-craft-bombshell-declassified-documents-reveal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI received tip Nazis built secret UFO craft, bombshell...8 May 2026 — Declassified FBI documents released under President Donald Trump...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: The most compelling UFO evidence known to man Falcon Lake Incident  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most compelling UFO evidence known to manFalcon Lake Incident - The most compelling UFO evidence known to man... Explorations of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most compelling UFO evidence known to manFalcon Lake Incident - The most compelling UFO evidence known to man... Explorations of the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.mises.org  
    Title: I Chose Liberty Autobiographies of Contemporary Libertarians 2  
-   Link: <a href="https://cdn.mises.org/I%20Chose%20Liberty%20Autobiographies%20of%20Contemporary%20Libertarians_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.mises.org/I%20Chose%20Liberty%20Autobiographies%20of%20Contemporary%20Libertarians_2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a basically agricultural and mining economy into an industrialized one.... UFO phenomena. I&#x27;d prepared a report on UFOs in a high school...</p></details>
+   Link:<a href="https://cdn.mises.org/I%20Chose%20Liberty%20Autobiographies%20of%20Contemporary%20Libertarians_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.mises.org/I%20Chose%20Liberty%20Autobiographies%20of%20Contemporary%20Libertarians_2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a basically agricultural and mining economy into an industrialized one.... UFO phenomena. I&#x27;d prepared a report on UFOs in a high school...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nso.lt  
    Title: Keli dokumentuoti NSO pasirodymai Lietuvoje (UFO in Lithuania)  
-   Link: <a href="https://www.nso.lt/lt/ufo-lt.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nso.lt/lt/ufo-lt.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LithuanianGlobal Lithuanian Net: san-taka station: Keletas dokumentuotų NSO pasirodymų Lietuvoje NSO TSRS: pirmas pasitarimas – Lietuvoje...</p></details>
+   Link:<a href="https://www.nso.lt/lt/ufo-lt.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nso.lt/lt/ufo-lt.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LithuanianGlobal Lithuanian Net: san-taka station: Keletas dokumentuotų NSO pasirodymų Lietuvoje NSO TSRS: pirmas pasitarimas – Lietuvoje...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS30360/pdf/GOVPUB-D301-PURL-LPS30360.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS30360/pdf/GOVPUB-D301-PURL-LPS30360.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenge and Response: Anticipating US Military Security...secular state is an alien body in a purposeful universe, the introduction of...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS30360/pdf/GOVPUB-D301-PURL-LPS30360.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS30360/pdf/GOVPUB-D301-PURL-LPS30360.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenge and Response: Anticipating US Military Security...secular state is an alien body in a purposeful universe, the introduction of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: era.ed.ac.uk  
-   Link: <a href="https://era.ed.ac.uk/bitstreams/7ed03b0d-9d11-49f2-9f58-532b0410255c/download" target="_blank" rel="noopener noreferrer nofollow">https://era.ed.ac.uk/bitstreams/7ed03b0d-9d11-49f2-9f58-532b0410255c/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Pella — suffered ill at the hands of an alien (e.g. theft), wished to rectify their losses,1 either by means of sequestration of...</p></details>
+   Link:<a href="https://era.ed.ac.uk/bitstreams/7ed03b0d-9d11-49f2-9f58-532b0410255c/download" target="_blank" rel="noopener noreferrer nofollow">https://era.ed.ac.uk/bitstreams/7ed03b0d-9d11-49f2-9f58-532b0410255c/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Pella — suffered ill at the hands of an alien (e.g. theft), wished to rectify their losses,1 either by means of sequestration of...</p></details>

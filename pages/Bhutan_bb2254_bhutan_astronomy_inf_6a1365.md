@@ -254,14 +254,14 @@ image: /assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-1-s
 
 ## Introduction
 
-Bhutan has only a small number of publicly documented UFO reports, but its developing astronomy culture has started to shape how unusual aerial sightings are interpreted and discussed. The emergence of the Bhutan Astronomical Society, nationwide stargazing programmes, astro-tourism initiatives and telescope-based public education has created a different environment from the one that existed during the country’s better-known 1968 Himalayan UFO report. Instead of relying mainly on anecdotal interpretation, a growing segment of Bhutanese observers now has greater familiarity with planets, meteors, satellites, atmospheric optics and night-sky navigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bbs.bt">[BBSCL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bbs.bt</span><span class="citation-popover-title">Reporter Sherub</span><span class="citation-popover-snippet">CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</span></span></span>
+Bhutan has only a small number of publicly documented UFO reports, but its developing astronomy culture has started to shape how unusual aerial sightings are interpreted and discussed. The emergence of the Bhutan Astronomical Society, nationwide stargazing programmes, astro-tourism initiatives and telescope-based public education has created a different environment from the one that existed during the country’s better-known 1968 Himalayan UFO report. Instead of relying mainly on anecdotal interpretation, a growing segment of Bhutanese observers now has greater familiarity with planets, meteors, satellites, atmospheric optics and night-sky navigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bbs.bt">[BBSCL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bbs.bt</span><span class="citation-popover-title">Reporter Sherub</span><span class="citation-popover-snippet">CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</span></span></span>
 
 <img src="{{ "/assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-1-dark.svg" | relative_url }}" alt="Astronomy Infrastructure illustration 1" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Bhutan’s geography naturally produces conditions that can both encourage and complicate UFO reporting. High-altitude valleys, exceptionally dark skies and low light pollution make celestial objects unusually vivid. At the same time, limited historical observation infrastructure has meant that many sightings were difficult to verify independently. Bhutan’s recent astronomy outreach efforts therefore play two roles at once: they increase the number of people actively watching the sky, but they also improve the ability of witnesses to identify ordinary astronomical phenomena before classifying them as unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelacrossbhutan.com">[Across Bhutan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelacrossbhutan.com</span><span class="citation-popover-title">Start your journey with us!</span><span class="citation-popover-snippet">Across BhutanStargazing in Bhutan: Best Star Watching Spots &amp; Sky...October 16, 2025 — Discover the best stargazing spots in Bhutan — cl...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bbs.bt">[BBSCL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bbs.bt</span><span class="citation-popover-title">Reporter Sherub</span><span class="citation-popover-snippet">CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
+This matters because Bhutan’s geography naturally produces conditions that can both encourage and complicate UFO reporting. High-altitude valleys, exceptionally dark skies and low light pollution make celestial objects unusually vivid. At the same time, limited historical observation infrastructure has meant that many sightings were difficult to verify independently. Bhutan’s recent astronomy outreach efforts therefore play two roles at once: they increase the number of people actively watching the sky, but they also improve the ability of witnesses to identify ordinary astronomical phenomena before classifying them as unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelacrossbhutan.com">[Across Bhutan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelacrossbhutan.com</span><span class="citation-popover-title">Start your journey with us!</span><span class="citation-popover-snippet">Across BhutanStargazing in Bhutan: Best Star Watching Spots &amp; Sky...October 16, 2025 — Discover the best stargazing spots in Bhutan — cl...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bbs.bt">[BBSCL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bbs.bt</span><span class="citation-popover-title">Reporter Sherub</span><span class="citation-popover-snippet">CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
 
 ## Why Bhutan’s skies generate unusual observations
 
-Bhutan’s physical environment is unusually favourable for naked-eye astronomy. Much of the country sits at high elevation with thin, dry air and comparatively low levels of urban illumination. Rural valleys and mountain passes often experience extremely dark skies, allowing observers to see bright planets, meteor showers, satellites and sections of the Milky Way with unusual clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelacrossbhutan.com">[Across Bhutan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelacrossbhutan.com</span><span class="citation-popover-title">Start your journey with us!</span><span class="citation-popover-snippet">Across BhutanStargazing in Bhutan: Best Star Watching Spots &amp; Sky...October 16, 2025 — Discover the best stargazing spots in Bhutan — cl...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+Bhutan’s physical environment is unusually favourable for naked-eye astronomy. Much of the country sits at high elevation with thin, dry air and comparatively low levels of urban illumination. Rural valleys and mountain passes often experience extremely dark skies, allowing observers to see bright planets, meteor showers, satellites and sections of the Milky Way with unusual clarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelacrossbhutan.com">[Across Bhutan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelacrossbhutan.com</span><span class="citation-popover-title">Start your journey with us!</span><span class="citation-popover-snippet">Across BhutanStargazing in Bhutan: Best Star Watching Spots &amp; Sky...October 16, 2025 — Discover the best stargazing spots in Bhutan — cl...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 These same conditions can also produce striking visual experiences that inexperienced observers may misinterpret. Venus near the horizon can appear unnaturally bright and stationary. Meteors crossing thin mountain air can look exceptionally vivid. Satellites may seem to change direction as they emerge from or disappear into Earth’s shadow. Temperature inversions and mountain weather can also distort perceived motion or colour.
 
@@ -280,9 +280,9 @@ That distinction is especially relevant to Bhutan because the country has never 
 
 ## The Bhutan Astronomical Society and a new observation culture
 
-The Bhutan Astronomical Society represents the country’s first organised modern astronomy outreach effort on a national scale. Public reporting from Bhutan Broadcasting Service and astronomy-related outreach campaigns describes the society as focusing on workshops, training programmes, telescope observation sessions and public engagement. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bbs.bt">[BBSCL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bbs.bt</span><span class="citation-popover-title">Reporter Sherub</span><span class="citation-popover-snippet">CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
+The Bhutan Astronomical Society represents the country’s first organised modern astronomy outreach effort on a national scale. Public reporting from Bhutan Broadcasting Service and astronomy-related outreach campaigns describes the society as focusing on workshops, training programmes, telescope observation sessions and public engagement. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bbs.bt">[BBSCL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bbs.bt</span><span class="citation-popover-title">Reporter Sherub</span><span class="citation-popover-snippet">CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
 
-The organisation was initiated in 2024 and rapidly linked itself to educational and tourism activities rather than fringe UFO culture. Its emphasis has been observational literacy: teaching participants how to recognise constellations, use telescopes, understand planetary motion and identify transient sky events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</span><span class="citation-popover-snippet">Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</span><span class="citation-popover-meta">Published: February 2024</span></span></span>
+The organisation was initiated in 2024 and rapidly linked itself to educational and tourism activities rather than fringe UFO culture. Its emphasis has been observational literacy: teaching participants how to recognise constellations, use telescopes, understand planetary motion and identify transient sky events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</span><span class="citation-popover-snippet">Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</span><span class="citation-popover-meta">Published: February 2024</span></span></span>
 
 This has an indirect but important effect on UFO reporting reliability in Bhutan.
 
@@ -305,7 +305,7 @@ without having easy access to identification tools or trained observers. Modern 
 * astrophotography training,
 * sky-mapping software,
 * telescope access,
-* and organised observation events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GovTechBhutan/posts/register-to-be-a-part-of-the-first-nationwide-stargazing-event-in-the-country-jo/820142550141394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">nomy, Constellations and navigating the night-sky using telescopes as...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/bhutanbroadcastingservice/posts/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81while-much-of-buddhist-values-are-about-/1023723472758980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook𝗕𝗵𝘂𝘁𝗮𝗻 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗶𝗰𝗮𝗹 𝗦𝗼𝗰𝗶𝗲𝘁𝘆 𝘁𝗮𝗸𝗲𝘀...The society will provide educational resources, workshops, and training programmes for stude...</span></span></span>
+* and organised observation events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GovTechBhutan/posts/register-to-be-a-part-of-the-first-nationwide-stargazing-event-in-the-country-jo/820142550141394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">nomy, Constellations and navigating the night-sky using telescopes as...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/bhutanbroadcastingservice/posts/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81while-much-of-buddhist-values-are-about-/1023723472758980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook𝗕𝗵𝘂𝘁𝗮𝗻 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗶𝗰𝗮𝗹 𝗦𝗼𝗰𝗶𝗲𝘁𝘆 𝘁𝗮𝗸𝗲𝘀...The society will provide educational resources, workshops, and training programmes for stude...</span></span></span>
 
 </div>
 
@@ -313,7 +313,7 @@ As a result, Bhutan’s astronomy infrastructure functions as a filtering mechan
 
 ## Public stargazing programmes and witness reliability
 
-Bhutan’s recent stargazing initiatives are especially important because they create shared observation environments. Public “star parties”, astro-tourism events and guided viewing sessions mean that multiple observers can examine the same object simultaneously with trained facilitators present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</span><span class="citation-popover-snippet">Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</span><span class="citation-popover-meta">Published: February 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/bhutanbroadcastingservice/videos/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81/1259164605487749/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ts, teachers, and other enthusiasts interested in astronomy...</span></span></span>
+Bhutan’s recent stargazing initiatives are especially important because they create shared observation environments. Public “star parties”, astro-tourism events and guided viewing sessions mean that multiple observers can examine the same object simultaneously with trained facilitators present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</span><span class="citation-popover-snippet">Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</span><span class="citation-popover-meta">Published: February 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/bhutanbroadcastingservice/videos/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81/1259164605487749/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ts, teachers, and other enthusiasts interested in astronomy...</span></span></span>
 
 From an evidential perspective, this changes the quality of reporting in several ways.
 
@@ -325,7 +325,7 @@ Historical UFO reports often rely on isolated testimony. In organised astronomy 
 
 * compare perceptions,
 * estimate direction and altitude,
-* identify known celestial objects, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DQVsD89iSSs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">No. Many celestial objects can be enjoyed with the naked eye. Can astro-tourism in Bhutan...</span></span></span>
+* identify known celestial objects,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DQVsD89iSSs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">No. Many celestial objects can be enjoyed with the naked eye. Can astro-tourism in Bhutan...</span></span></span>
 * and rule out simple observational errors.
 
 </div>
@@ -334,7 +334,7 @@ If a participant reports an “unidentified glowing object”, experienced facil
 
 ### Telescope access changes perception
 
-Bhutan historically had very limited public telescope infrastructure. According to astronomy outreach reporting and conference material, the country’s developing astronomy network now includes imported telescopes and plans for distributed observing facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</span></span></span>
+Bhutan historically had very limited public telescope infrastructure. According to astronomy outreach reporting and conference material, the country’s developing astronomy network now includes imported telescopes and plans for distributed observing facilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</span></span></span>
 
 This matters because telescopic observation often resolves ambiguity. A bright “disc” seen with the naked eye may become recognisable as:
 
@@ -353,7 +353,7 @@ In UFO research generally, ambiguous distant lights generate a high proportion o
 
 ### Astrophotography creates more verifiable records
 
-Astrophotography training programmes in Bhutan encourage participants to document the sky systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GovTechBhutan/posts/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8B-%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94govtech-agency-invites-applic/1428707402618236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐂𝐀𝐋𝐋 𝐅𝐎𝐑 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒𝐀𝐬𝐭𝐫𝐨𝐩𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝟐𝟎𝟐𝟔govtech agency invites applic</span><span class="citation-popover-snippet">Facebook𝟒–𝟏𝟓 𝐌𝐚𝐲, 𝟐𝟎𝟐𝟔 Venue: Desuung Skilling Center...Dates: 4–15 May, 2026 Venue: Desuung Skilling Center, Phaduna, Punakha This pro...</span></span></span>
+Astrophotography training programmes in Bhutan encourage participants to document the sky systematically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GovTechBhutan/posts/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8B-%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94govtech-agency-invites-applic/1428707402618236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐂𝐀𝐋𝐋 𝐅𝐎𝐑 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒𝐀𝐬𝐭𝐫𝐨𝐩𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝟐𝟎𝟐𝟔govtech agency invites applic</span><span class="citation-popover-snippet">Facebook𝟒–𝟏𝟓 𝐌𝐚𝐲, 𝟐𝟎𝟐𝟔 Venue: Desuung Skilling Center...Dates: 4–15 May, 2026 Venue: Desuung Skilling Center, Phaduna, Punakha This pro...</span></span></span>
 
 Even when unusual lights are reported, photographs allow:
 
@@ -361,7 +361,7 @@ Even when unusual lights are reported, photographs allow:
 
 * metadata analysis,
 * exposure analysis,
-* comparison with astronomical databases, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</span><span class="citation-popover-snippet">Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</span><span class="citation-popover-meta">Published: February 2024</span></span></span>
+* comparison with astronomical databases,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠</span><span class="citation-popover-snippet">Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</span><span class="citation-popover-meta">Published: February 2024</span></span></span>
 * and cross-checking against satellite passes or meteor activity.
 
 </div>
@@ -373,13 +373,13 @@ That does not guarantee accurate identification, but it produces stronger eviden
 
 Astronomy outreach can simultaneously reduce false UFO reports and increase the total number of observations.
 
-That apparent contradiction is common in countries with expanding amateur astronomy communities. As more people intentionally observe the night sky, the absolute number of unusual sightings can rise simply because observers spend more time looking upward. Amateur astronomy communities worldwide frequently report transient phenomena that casual observers would never notice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Amateur_astronomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Amateur astronomy</span><span class="citation-popover-snippet">Amateur astronomy</span></span></span>
+That apparent contradiction is common in countries with expanding amateur astronomy communities. As more people intentionally observe the night sky, the absolute number of unusual sightings can rise simply because observers spend more time looking upward. Amateur astronomy communities worldwide frequently report transient phenomena that casual observers would never notice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Amateur_astronomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Amateur astronomy</span><span class="citation-popover-snippet">Amateur astronomy</span></span></span>
 
 In Bhutan, this effect may become more visible because:
 
-* dark skies improve visibility, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=R9U0yL3w5bA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Stargazing in the Himalayas: Bhutan’s Dark Skies</span><span class="citation-popover-snippet">Astronomy and Science Education in Bhutan...</span></span></span>
+* dark skies improve visibility,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=R9U0yL3w5bA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Stargazing in the Himalayas: Bhutan’s Dark Skies</span><span class="citation-popover-snippet">Astronomy and Science Education in Bhutan...</span></span></span>
 * astro-tourism encourages nighttime observation,
-* and astronomy festivals normalise skywatching activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.micebhutan.com/in-the-press/why-everyone-will-soon-flock-to-bhutan-s-skies-and-you-can-go-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micebhutan.com">[micebhutan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micebhutan.com</span><span class="citation-popover-title">why everyone will soon flock to bhutan s skies and you can go first</span><span class="citation-popover-snippet">Why Everyone Will Soon Flock to Bhutan&#x27;s Skies (And You...Bhutan Astro Festival: From 2026, Bhutan will host an annual astro festival bl...</span></span></span>
+* and astronomy festivals normalise skywatching activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.micebhutan.com/in-the-press/why-everyone-will-soon-flock-to-bhutan-s-skies-and-you-can-go-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micebhutan.com">[micebhutan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micebhutan.com</span><span class="citation-popover-title">why everyone will soon flock to bhutan s skies and you can go first</span><span class="citation-popover-snippet">Why Everyone Will Soon Flock to Bhutan&#x27;s Skies (And You...Bhutan Astro Festival: From 2026, Bhutan will host an annual astro festival bl...</span></span></span>
 
 However, the overall quality of reports tends to improve at the same time. Trained observers are more likely to record:
 
@@ -395,7 +395,7 @@ That produces reports that are more useful for later analysis, even if most even
 <img src="{{ "/assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-3-dark.svg" | relative_url }}" alt="Astronomy Infrastructure illustration 3" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The absence of formal observatories and radar systems
 
-Despite recent astronomy enthusiasm, Bhutan still has limited professional observation infrastructure. The country does not possess a major astronomical observatory network comparable to India’s Himalayan observatories or China’s large-scale telescope facilities. Most astronomy activity remains educational, amateur or tourism-oriented rather than research-intensive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</span></span></span>
+Despite recent astronomy enthusiasm, Bhutan still has limited professional observation infrastructure. The country does not possess a major astronomical observatory network comparable to India’s Himalayan observatories or China’s large-scale telescope facilities. Most astronomy activity remains educational, amateur or tourism-oriented rather than research-intensive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</span></span></span>
 
 This limitation matters when evaluating UFO claims.
 
@@ -418,7 +418,7 @@ The famous [1968 Thimphu sighting]({{ '1968-thimphu-sighting/' | relative_url }}
 
 ## Traditional astrology and modern astronomy
 
-Bhutan’s sky culture also includes an important distinction between traditional astrology and scientific astronomy. Institutions such as Pangrizampa and the Druk Phudrangding College for Astrology preserve longstanding Bhutanese astrological traditions connected to calendars, rituals and auspicious dates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bhutan.travel/journal/editorial/reaching-for-the-stars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhutan.travel">[bhutan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhutan.travel</span><span class="citation-popover-snippet">Reaching for The StarsTo learn more, they went to the kingdom&#x27;s foremost astrological institution, the Druk Phudrangding College fo...</span></span></span>
+Bhutan’s sky culture also includes an important distinction between traditional astrology and scientific astronomy. Institutions such as Pangrizampa and the Druk Phudrangding College for Astrology preserve longstanding Bhutanese astrological traditions connected to calendars, rituals and auspicious dates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bhutan.travel/journal/editorial/reaching-for-the-stars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhutan.travel">[bhutan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhutan.travel</span><span class="citation-popover-snippet">Reaching for The StarsTo learn more, they went to the kingdom&#x27;s foremost astrological institution, the Druk Phudrangding College fo...</span></span></span>
 
 That heritage shapes how the sky is culturally perceived, but it is separate from modern observational astronomy.
 
@@ -450,194 +450,194 @@ For Bhutan specifically, this may gradually transform UFO discussions from folkl
 At present, Bhutan’s astronomy infrastructure is best understood as a literacy and observation network rather than a dedicated UFO detection system. Its main effect is to narrow the gap between “unusual” and “unexplained” by giving more Bhutanese observers the tools to tell the difference.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Bhutan’s Astronomy Programs and UFO Observation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Bhutan’s Astronomy Programs and UFO Observation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how trained observation improves report quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how trained observation improves report quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly supports astronomy education and sky observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports astronomy education and sky observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps observers distinguish planets, stars, and deep-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps observers distinguish planets, stars, and deep-sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Relevant to public observing programs and amateur astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to public observing programs and amateur astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="bhutan-s-astronomy-programs-and-ufo-observation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -653,7 +653,7 @@ At present, Bhutan’s astronomy infrastructure is best understood as a literacy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -673,7 +673,7 @@ At present, Bhutan’s astronomy infrastructure is best understood as a literacy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -705,7 +705,7 @@ At present, Bhutan’s astronomy infrastructure is best understood as a literacy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -757,7 +757,7 @@ At present, Bhutan’s astronomy infrastructure is best understood as a literacy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -802,7 +802,7 @@ At present, Bhutan’s astronomy infrastructure is best understood as a literacy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -840,141 +840,140 @@ At present, Bhutan’s astronomy infrastructure is best understood as a literacy
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bbs.bt  
    Title: Reporter Sherub  
-   Link: <a href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow">https://www.bbs.bt/200902/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</p></details>
+   Link:<a href="https://www.bbs.bt/200902/" target="_blank" rel="noopener noreferrer nofollow">https://www.bbs.bt/200902/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLBhutan Astronomical Society takes flight - BBSCLMarch 19, 2024 — 19 Mar 2024 — Stargazing sessions, public lectures and outreach pro...</p></details>
    Published: March 19, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GovTechBhutan/posts/register-to-be-a-part-of-the-first-nationwide-stargazing-event-in-the-country-jo/820142550141394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovTechBhutan/posts/register-to-be-a-part-of-the-first-nationwide-stargazing-event-in-the-country-jo/820142550141394/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nomy, Constellations and navigating the night-sky using telescopes as...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/GovTechBhutan/posts/register-to-be-a-part-of-the-first-nationwide-stargazing-event-in-the-country-jo/820142550141394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovTechBhutan/posts/register-to-be-a-part-of-the-first-nationwide-stargazing-event-in-the-country-jo/820142550141394/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nomy, Constellations and navigating the night-sky using telescopes as...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bhutanbroadcastingservice/posts/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81while-much-of-buddhist-values-are-about-/1023723472758980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bhutanbroadcastingservice/posts/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81while-much-of-buddhist-values-are-about-/1023723472758980/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook𝗕𝗵𝘂𝘁𝗮𝗻 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗶𝗰𝗮𝗹 𝗦𝗼𝗰𝗶𝗲𝘁𝘆 𝘁𝗮𝗸𝗲𝘀...The society will provide educational resources, workshops, and training programmes for stude...</p></details>
+   Link:<a href="https://www.facebook.com/bhutanbroadcastingservice/posts/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81while-much-of-buddhist-values-are-about-/1023723472758980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bhutanbroadcastingservice/posts/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81while-much-of-buddhist-values-are-about-/1023723472758980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook𝗕𝗵𝘂𝘁𝗮𝗻 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝗶𝗰𝗮𝗹 𝗦𝗼𝗰𝗶𝗲𝘁𝘆 𝘁𝗮𝗸𝗲𝘀...The society will provide educational resources, workshops, and training programmes for stude...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bhutanbroadcastingservice/videos/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81/1259164605487749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bhutanbroadcastingservice/videos/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81/1259164605487749/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ts, teachers, and other enthusiasts interested in astronomy...</p></details>
+   Link:<a href="https://www.facebook.com/bhutanbroadcastingservice/videos/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81/1259164605487749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bhutanbroadcastingservice/videos/%F0%9D%97%95%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81/1259164605487749/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ts, teachers, and other enthusiasts interested in astronomy...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
    Title: 𝐒𝐭𝐚𝐫𝐠𝐚𝐳𝐢𝐧𝐠 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐨𝐫 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠  
-   Link: <a href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C8pOguOtEsm/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</p></details>
+   Link:<a href="https://www.instagram.com/p/C8pOguOtEsm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C8pOguOtEsm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bhutan Astronomical Society was initiated on 21st February 2024, coinciding with the 44th Birth Anniversary of His Majesty the...</p></details>
    Published: February 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: 𝐂𝐀𝐋𝐋 𝐅𝐎𝐑 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒𝐀𝐬𝐭𝐫𝐨𝐩𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝟐𝟎𝟐𝟔govtech agency invites applic  
-   Link: <a href="https://www.facebook.com/GovTechBhutan/posts/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8B-%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94govtech-agency-invites-applic/1428707402618236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovTechBhutan/posts/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8B-%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94govtech-agency-invites-applic/1428707402618236/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook𝟒–𝟏𝟓 𝐌𝐚𝐲, 𝟐𝟎𝟐𝟔 Venue: Desuung Skilling Center...Dates: 4–15 May, 2026 Venue: Desuung Skilling Center, Phaduna, Punakha This pro...</p></details>
+   Link:<a href="https://www.facebook.com/GovTechBhutan/posts/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8B-%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94govtech-agency-invites-applic/1428707402618236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovTechBhutan/posts/%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8B-%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94govtech-agency-invites-applic/1428707402618236/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook𝟒–𝟏𝟓 𝐌𝐚𝐲, 𝟐𝟎𝟐𝟔 Venue: Desuung Skilling Center...Dates: 4–15 May, 2026 Venue: Desuung Skilling Center, Phaduna, Punakha This pro...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
    Title: Bhutan, here we come!  
-   Link: <a href="https://www.instagram.com/p/DR12j81iSMn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR12j81iSMn/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Through a collaborative approach...This Astro Week Festival aims to promote astro tourism, scientific awareness, astronomy education thr...</p></details>
+   Link:<a href="https://www.instagram.com/p/DR12j81iSMn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR12j81iSMn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Through a collaborative approach...This Astro Week Festival aims to promote astro tourism, scientific awareness, astronomy education thr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Desuungskillingprogramme/posts/-look-up-to-the-sky-bhutans-first-astro-tourism-experience-is-herejoin-us-for-fe/961641226509336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Desuungskillingprogramme/posts/-look-up-to-the-sky-bhutans-first-astro-tourism-experience-is-herejoin-us-for-fe/961641226509336/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>o take the curiosity in astronomy forward.... Bhutan...</p></details>
+   Link:<a href="https://www.facebook.com/Desuungskillingprogramme/posts/-look-up-to-the-sky-bhutans-first-astro-tourism-experience-is-herejoin-us-for-fe/961641226509336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Desuungskillingprogramme/posts/-look-up-to-the-sky-bhutans-first-astro-tourism-experience-is-herejoin-us-for-fe/961641226509336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o take the curiosity in astronomy forward.... Bhutan...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: micebhutan.com  
    Title: why everyone will soon flock to bhutan s skies and you can go first  
-   Link: <a href="https://www.micebhutan.com/in-the-press/why-everyone-will-soon-flock-to-bhutan-s-skies-and-you-can-go-first" target="_blank" rel="noopener noreferrer nofollow">https://www.micebhutan.com/in-the-press/why-everyone-will-soon-flock-to-bhutan-s-skies-and-you-can-go-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Everyone Will Soon Flock to Bhutan&#x27;s Skies (And You...Bhutan Astro Festival: From 2026, Bhutan will host an annual astro festival bl...</p></details>
+   Link:<a href="https://www.micebhutan.com/in-the-press/why-everyone-will-soon-flock-to-bhutan-s-skies-and-you-can-go-first" target="_blank" rel="noopener noreferrer nofollow">https://www.micebhutan.com/in-the-press/why-everyone-will-soon-flock-to-bhutan-s-skies-and-you-can-go-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Everyone Will Soon Flock to Bhutan&#x27;s Skies (And You...Bhutan Astro Festival: From 2026, Bhutan will host an annual astro festival bl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Amateur astronomy  
-   Link: <a href="https://en.wikipedia.org/wiki/Amateur_astronomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Amateur_astronomy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Amateur_astronomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Amateur_astronomy</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bhutan.travel  
-   Link: <a href="https://bhutan.travel/journal/editorial/reaching-for-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://bhutan.travel/journal/editorial/reaching-for-the-stars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reaching for The StarsTo learn more, they went to the kingdom&#x27;s foremost astrological institution, the Druk Phudrangding College fo...</p></details>
+   Link:<a href="https://bhutan.travel/journal/editorial/reaching-for-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://bhutan.travel/journal/editorial/reaching-for-the-stars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reaching for The StarsTo learn more, they went to the kingdom&#x27;s foremost astrological institution, the Druk Phudrangding College fo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQVsD89iSSs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQVsD89iSSs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No. Many celestial objects can be enjoyed with the naked eye. Can astro-tourism in Bhutan...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQVsD89iSSs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQVsD89iSSs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No. Many celestial objects can be enjoyed with the naked eye. Can astro-tourism in Bhutan...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025AAS...24611503P/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS LabsBhutan Aims for the Starsby D Perkins · 2025 — Thus began the Bhutan Astronomical Society. Now several larger telescopes are sche...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: travelacrossbhutan.com  
    Title: Start your journey with us!  
-   Link: <a href="https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/" target="_blank" rel="noopener noreferrer nofollow">https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Across BhutanStargazing in Bhutan: Best Star Watching Spots &amp; Sky...October 16, 2025 — Discover the best stargazing spots in Bhutan — cl...</p></details>
+   Link:<a href="https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/" target="_blank" rel="noopener noreferrer nofollow">https://travelacrossbhutan.com/stargazing-bhutan-best-watching-spots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Across BhutanStargazing in Bhutan: Best Star Watching Spots &amp; Sky...October 16, 2025 — Discover the best stargazing spots in Bhutan — cl...</p></details>
    Published: October 16, 2025  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britastro.org  
-   Link: <a href="https://britastro.org/outreach" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/outreach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OutreachGo Stargazing! Free marketing for astronomy society events. This well-designed website lists stargazing opportunities and astrono...</p></details>
+   Link:<a href="https://britastro.org/outreach" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/outreach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OutreachGo Stargazing! Free marketing for astronomy society events. This well-designed website lists stargazing opportunities and astrono...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ras.ac.uk  
-   Link: <a href="https://ras.ac.uk/education-and-careers/outreach" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/education-and-careers/outreach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OutreachThese resources are for people doing outreach and students and cover many topics, from solar eclipses to the perfect telescopes t...</p></details>
+   Link:<a href="https://ras.ac.uk/education-and-careers/outreach" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/education-and-careers/outreach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OutreachThese resources are for people doing outreach and students and cover many topics, from solar eclipses to the perfect telescopes t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gostargazing.co.uk  
-   Link: <a href="https://gostargazing.co.uk/organiser/westoflondonas/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/organiser/westoflondonas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>West Of London Astronomical SocietyThe West of London Astronomical Society is an active astronomy group that meets every month (except fo...</p></details>
+   Link:<a href="https://gostargazing.co.uk/organiser/westoflondonas/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/organiser/westoflondonas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>West Of London Astronomical SocietyThe West of London Astronomical Society is an active astronomy group that meets every month (except fo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: icert.org.in  
    Title: a study on heavenly horizons astro tourism in the himalayan realm  
-   Link: <a href="https://icert.org.in/index.php/2026/01/19/a-study-on-heavenly-horizons-astro-tourism-in-the-himalayan-realm/" target="_blank" rel="noopener noreferrer nofollow">https://icert.org.in/index.php/2026/01/19/a-study-on-heavenly-horizons-astro-tourism-in-the-himalayan-realm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astro-Tourism in the Himalayan Realm1 Jan 2026 — Amateur astronomy tourism: Serious enthusiasts traveling with specialized equipment. Cas...</p></details>
+   Link:<a href="https://icert.org.in/index.php/2026/01/19/a-study-on-heavenly-horizons-astro-tourism-in-the-himalayan-realm/" target="_blank" rel="noopener noreferrer nofollow">https://icert.org.in/index.php/2026/01/19/a-study-on-heavenly-horizons-astro-tourism-in-the-himalayan-realm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astro-Tourism in the Himalayan Realm1 Jan 2026 — Amateur astronomy tourism: Serious enthusiasts traveling with specialized equipment. Cas...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How High Altitude and Thin Air Affect Night Sky Perception  
-   Link: <a href="https://www.youtube.com/watch?v=aG9-7q8vX8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG9-7q8vX8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Atmospheric Optics and Light Phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aG9-7q8vX8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG9-7q8vX8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Atmospheric Optics and Light Phenomena...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Identifying Planets, Satellites, and Meteors at Night  
-   Link: <a href="https://www.youtube.com/watch?v=e_t_5g8lG-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e_t_5g8lG-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How High Altitude and Thin Air Affect Night Sky Perception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e_t_5g8lG-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e_t_5g8lG-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How High Altitude and Thin Air Affect Night Sky Perception...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
    Title: arXiv The Simulated Sky: Stellarium for Cultural Astronomy Research  
-   Link: <a href="https://arxiv.org/abs/2104.01019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.01019</a>  
+   Link:<a href="https://arxiv.org/abs/2104.01019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.01019</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Astronomy and Science Education in Bhutan  
-   Link: <a href="https://www.youtube.com/watch?v=F3a7jG8m_y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3a7jG8m_y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Planets, Satellites, and Meteors at Night...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F3a7jG8m_y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3a7jG8m_y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Planets, Satellites, and Meteors at Night...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Stargazing in the Himalayas: Bhutan’s Dark Skies  
-   Link: <a href="https://www.youtube.com/watch?v=R9U0yL3w5bA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9U0yL3w5bA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy and Science Education in Bhutan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R9U0yL3w5bA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9U0yL3w5bA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy and Science Education in Bhutan...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Understanding Atmospheric Optics and Light Phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=33a4y-Uf91k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=33a4y-Uf91k</a>
+   Link:<a href="https://www.youtube.com/watch?v=33a4y-Uf91k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=33a4y-Uf91k</a>

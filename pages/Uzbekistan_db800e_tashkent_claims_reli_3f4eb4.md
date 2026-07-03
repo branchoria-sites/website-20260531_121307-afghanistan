@@ -254,7 +254,7 @@ image: /assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration
 
 ## Introduction
 
-Tashkent dominates Uzbekistan’s UFO folklore for a simple reason: it is where most of the country’s cameras, newspapers, television stations, researchers, and online audiences are concentrated. As a result, many of Uzbekistan’s most widely circulated UFO photographs, rumours, and witness stories are linked to the capital. Yet the same concentration of attention that produces more reports also creates a reliability problem. The best-known Tashkent cases are usually supported by copies of photographs rather than original negatives, retold witness accounts rather than contemporaneous records, and social-media reposts that strip away dates, locations, and technical details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Serious: UAP over Tashkent in 1990 &amp; 1992: r/aliensNovember 4, 2025 — I know that this was the 90&#x27;s but isn&#x27;t it amazing that even...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
+Tashkent dominates Uzbekistan’s UFO folklore for a simple reason: it is where most of the country’s cameras, newspapers, television stations, researchers, and online audiences are concentrated. As a result, many of Uzbekistan’s most widely circulated UFO photographs, rumours, and witness stories are linked to the capital. Yet the same concentration of attention that produces more reports also creates a reliability problem. The best-known Tashkent cases are usually supported by copies of photographs rather than original negatives, retold witness accounts rather than contemporaneous records, and social-media reposts that strip away dates, locations, and technical details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Serious: UAP over Tashkent in 1990 &amp; 1992: r/aliensNovember 4, 2025 — I know that this was the 90&#x27;s but isn&#x27;t it amazing that even...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration-1-dark.svg" | relative_url }}" alt="Tashkent Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is an unusual situation. Tashkent is arguably Uzbekistan’s main UFO story hub, but it is not necessarily the country’s strongest evidence hub. Many claims are memorable, visually striking, and repeatedly shared. Far fewer can be independently verified.
@@ -263,9 +263,9 @@ The result is an unusual situation. Tashkent is arguably Uzbekistan’s main UFO
 
 Unlike remote regions of Uzbekistan, Tashkent combines several conditions that naturally generate more unexplained-sky reports.
 
-The city has the country's largest population, its densest media environment, major scientific institutions, and a long Soviet-era tradition of interest in space exploration and astronomy. The presence of facilities such as the Astronomy Institute of the Academy of Sciences and later public venues such as the Tashkent Planetarium helped make unusual sky phenomena a recurring topic of public discussion rather than a purely local curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+The city has the country's largest population, its densest media environment, major scientific institutions, and a long Soviet-era tradition of interest in space exploration and astronomy. The presence of facilities such as the Astronomy Institute of the Academy of Sciences and later public venues such as the Tashkent Planetarium helped make unusual sky phenomena a recurring topic of public discussion rather than a purely local curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
 
-The city's Soviet and post-Soviet cultural landscape also matters. Tashkent developed a strong association with technological modernity, aviation, scientific education, and "cosmic" architecture during the late Soviet period. Public fascination with space and unexplained aerial phenomena was often stronger in large urban centres than in rural districts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/artanddesign/2025/apr/28/cosmic-metros-ufo-circus-tops-mesmerising-architecture-tashkent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Prominent examples include the turquoise-domed Chorsu Bazaar and the futuristic-looking Tashkent Circus, both built in the late 20th cent...</span></span></span>
+The city's Soviet and post-Soviet cultural landscape also matters. Tashkent developed a strong association with technological modernity, aviation, scientific education, and "cosmic" architecture during the late Soviet period. Public fascination with space and unexplained aerial phenomena was often stronger in large urban centres than in rural districts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/artanddesign/2025/apr/28/cosmic-metros-ufo-circus-tops-mesmerising-architecture-tashkent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Prominent examples include the turquoise-domed Chorsu Bazaar and the futuristic-looking Tashkent Circus, both built in the late 20th cent...</span></span></span>
 
 This creates a feedback loop:
 
@@ -285,9 +285,9 @@ Because of that cycle, a light over Tashkent is more likely to become part of Uz
 
 ### The photographs that keep reappearing
 
-The most frequently cited Tashkent UFO photographs are a group of images allegedly taken on 7 November 1990 by a young witness, often identified online only as "Volodya B." According to repeated retellings, approximately twenty photographs were captured from an apartment balcony showing a structured object over the city. Variants of the story continue to circulate through UFO forums, social-media pages, and reposted image collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DNMuQImxuP1/?hl=bg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">DNMu QImxu P1</span><span class="citation-popover-snippet">REPORT: UFO SPOTTED OVER UZBEKISTAN...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 photos of a UFO. The...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange, glowing object with sparkling lights...UFO - Tashkent, Uzbekistan, November 7, 1990 These fascinating photos were tak...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/photos/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157592644207/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">back in 1990 something unusual appeared in the sky over tashkent and a young boy</span><span class="citation-popover-snippet">Back in 1990, something unusual appeared in the sky over...Back in 1990, something unusual appeared in the sky over Tashkent, and a youn...</span></span></span>
+The most frequently cited Tashkent UFO photographs are a group of images allegedly taken on 7 November 1990 by a young witness, often identified online only as "Volodya B." According to repeated retellings, approximately twenty photographs were captured from an apartment balcony showing a structured object over the city. Variants of the story continue to circulate through UFO forums, social-media pages, and reposted image collections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DNMuQImxuP1/?hl=bg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">DNMu QImxu P1</span><span class="citation-popover-snippet">REPORT: UFO SPOTTED OVER UZBEKISTAN...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 photos of a UFO. The...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange, glowing object with sparkling lights...UFO - Tashkent, Uzbekistan, November 7, 1990 These fascinating photos were tak...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/photos/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157592644207/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">back in 1990 something unusual appeared in the sky over tashkent and a young boy</span><span class="citation-popover-snippet">Back in 1990, something unusual appeared in the sky over...Back in 1990, something unusual appeared in the sky over Tashkent, and a youn...</span></span></span>
 
-What makes the case notable is not the images themselves but their persistence. More than three decades later, the photographs still appear in UFO communities as evidence that a major sighting occurred over Tashkent during the final years of the Soviet Union. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Serious: UAP over Tashkent in 1990 &amp; 1992: r/aliensNovember 4, 2025 — I know that this was the 90&#x27;s but isn&#x27;t it amazing that even...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
+What makes the case notable is not the images themselves but their persistence. More than three decades later, the photographs still appear in UFO communities as evidence that a major sighting occurred over Tashkent during the final years of the Soviet Union.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Serious: UAP over Tashkent in 1990 &amp; 1992: r/aliensNovember 4, 2025 — I know that this was the 90&#x27;s but isn&#x27;t it amazing that even...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OAifOXu_L-M" title="The UnXplained: UNBELIEVABLE Evidence of Unidentified Aerial Phenomena (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OAifOXu_L-M" target="_blank" rel="noopener noreferrer">The UnXplained: UNBELIEVABLE Evidence of Unidentified Aerial Phenomena (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 227.8K &middot; Uploaded: March 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OAifOXu_L-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OAifOXu_L-M">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +308,7 @@ Critical details are usually absent:
 
 </div>
 
-Without those elements, investigators cannot reliably establish object size, distance, altitude, or even whether all circulated images come from the same photographic sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
+Without those elements, investigators cannot reliably establish object size, distance, altitude, or even whether all circulated images come from the same photographic sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
 
 This does not automatically make the photographs fraudulent. It simply means that they cannot be treated as strong physical evidence. In UFO research, chain of custody often matters as much as the image itself. Once originals disappear and only copies remain, verification becomes extremely difficult.
 
@@ -316,9 +316,9 @@ This does not automatically make the photographs fraudulent. It simply means tha
 
 Many Tashkent photo stories emerged during the late Soviet and early post-Soviet period, when record preservation was inconsistent.
 
-Political upheaval, institutional restructuring, local newspaper closures, and the migration of archives into private collections all contributed to documentation gaps. This broader historical context helps explain why some stories survive only as scans, recollections, or references in later UFO literature rather than as complete documentary files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">pentagon ufo files include 1994 tajik air report over kazakhstan</span><span class="citation-popover-snippet">photographs purportedly showing objects in the sky above the city. The same Tashkent claims are also associated with UFO Phenomenon: A Lo...</span></span></span>
+Political upheaval, institutional restructuring, local newspaper closures, and the migration of archives into private collections all contributed to documentation gaps. This broader historical context helps explain why some stories survive only as scans, recollections, or references in later UFO literature rather than as complete documentary files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesca.com">[The Times Of Central Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesca.com</span><span class="citation-popover-title">pentagon ufo files include 1994 tajik air report over kazakhstan</span><span class="citation-popover-snippet">photographs purportedly showing objects in the sky above the city. The same Tashkent claims are also associated with UFO Phenomenon: A Lo...</span></span></span>
 
-The same problem appears in several well-known Soviet-era UFO cases outside Uzbekistan. Photographs sometimes survive while supporting records vanish, leaving later researchers with images but little verifiable context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+The same problem appears in several well-known Soviet-era UFO cases outside Uzbekistan. Photographs sometimes survive while supporting records vanish, leaving later researchers with images but little verifiable context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration-2-dark.svg" | relative_url }}" alt="Tashkent Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_tashkent_claims_reli_3f4eb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Rumours Outgrow Evidence
@@ -327,11 +327,11 @@ The same problem appears in several well-known Soviet-era UFO cases outside Uzbe
 
 A striking feature of Tashkent UFO lore is that many stories gain authority through repetition rather than new evidence.
 
-An image may first appear in a niche forum, then be reposted on social media, then cited in a video, then referenced by another website that treats the previous repost as confirmation. Over time, the number of references grows even though the underlying evidence remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
+An image may first appear in a niche forum, then be reposted on social media, then cited in a video, then referenced by another website that treats the previous repost as confirmation. Over time, the number of references grows even though the underlying evidence remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
 
 This creates the impression that multiple sources confirm a sighting when they may all trace back to the same original claim.
 
-The phenomenon is especially visible in the recurring 1990 Tashkent photographs. Modern posts often describe them as famous, widely known, or among the clearest UFO images ever taken. Yet those descriptions usually point back to the same limited pool of images rather than newly discovered documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DXA0pTyjo5w/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">DXA0p Tyjo5w</span><span class="citation-popover-snippet">🚨 Strange Glowing Objects Spotted Over Uzbekistan 🇺🇿✨...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 pho...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DXnpvb3jDgQ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">DXnpvb3j Dg Q</span><span class="citation-popover-snippet">took an incredible 20 photos of a UFO. The event occurred on November 7, 1990, and the photos were taken with a Soviet...Read more...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
+The phenomenon is especially visible in the recurring 1990 Tashkent photographs. Modern posts often describe them as famous, widely known, or among the clearest UFO images ever taken. Yet those descriptions usually point back to the same limited pool of images rather than newly discovered documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DXA0pTyjo5w/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">DXA0p Tyjo5w</span><span class="citation-popover-snippet">🚨 Strange Glowing Objects Spotted Over Uzbekistan 🇺🇿✨...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 pho...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DXnpvb3jDgQ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">DXnpvb3j Dg Q</span><span class="citation-popover-snippet">took an incredible 20 photos of a UFO. The event occurred on November 7, 1990, and the photos were taken with a Soviet...Read more...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
 
 ### Metadata disappears first
 
@@ -350,7 +350,7 @@ For older Tashkent cases, investigators frequently lack:
 
 </div>
 
-When that information disappears, analysis becomes speculative. Researchers can debate what an object resembles, but they cannot reliably calculate its characteristics. This is one reason many UFO photographs remain unresolved rather than proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tashkent_Planetarium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tashkent Planetarium</span><span class="citation-popover-snippet">Tashkent Planetarium</span></span></span>
+When that information disappears, analysis becomes speculative. Researchers can debate what an object resembles, but they cannot reliably calculate its characteristics. This is one reason many UFO photographs remain unresolved rather than proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tashkent_Planetarium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tashkent Planetarium</span><span class="citation-popover-snippet">Tashkent Planetarium</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U0C06lFJacE" title="GOD VS UFOS (2025) Full UFO Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U0C06lFJacE" target="_blank" rel="noopener noreferrer">GOD VS UFOS (2025) Full UFO Documentary</a></p><p class="youtube-embed-meta">Channel: Indie Film Worldwide | BritFlicks &middot; Views: 84.7K &middot; Uploaded: March 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U0C06lFJacE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U0C06lFJacE">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +358,7 @@ When that information disappears, analysis becomes speculative. Researchers can 
 
 Recent Tashkent sightings show the same pattern in a digital form.
 
-Videos of bright objects over the city routinely circulate through Telegram channels, Instagram pages, Facebook groups, and UFO-focused communities before technical analysis occurs. By the time scientific institutions comment, the story may already have accumulated layers of alien interpretations, military theories, and conspiracy claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span> Facebook A notable example emerged in early 2026 when footage of a bright object over Tashkent spread widely online. The Astronomy Institute of Uzbeki <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange, glowing object with sparkling lights...UFO - Tashkent, Uzbekistan, November 7, 1990 These fascinating photos were tak...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span> stan's Academy of Sciences responded publicly, emphasising that the available video was insufficient to identify the object with certainty. The official response reflected a recurring theme in Uzbekistan's UFO record: public attention arrives quickly, but evidence often remains limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+Videos of bright objects over the city routinely circulate through Telegram channels, Instagram pages, Facebook groups, and UFO-focused communities before technical analysis occurs. By the time scientific institutions comment, the story may already have accumulated layers of alien interpretations, military theories, and conspiracy claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span> Facebook A notable example emerged in early 2026 when footage of a bright object over Tashkent spread widely online. The Astronomy Institute of Uzbeki<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange, glowing object with sparkling lights...UFO - Tashkent, Uzbekistan, November 7, 1990 These fascinating photos were tak...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span> stan's Academy of Sciences responded publicly, emphasising that the available video was insufficient to identify the object with certainty. The official response reflected a recurring theme in Uzbekistan's UFO record: public attention arrives quickly, but evidence often remains limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UdDvA5NiwdA" title="Mystery Wire rewind: UFOs in Russia, more investigations | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UdDvA5NiwdA" target="_blank" rel="noopener noreferrer">Mystery Wire rewind: UFOs in Russia, more investigations | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 161.5K &middot; Uploaded: March 2026 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UdDvA5NiwdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UdDvA5NiwdA">Open on YouTube</a></p></div></div></div>
 
@@ -378,7 +378,7 @@ Several recurring obstacles appear across decades of Tashkent UFO stories:
 
 **Technical data are missing.** Radar, astronomical logs, and precise measurements are rarely available.
 
-**Narratives evolve over time.** Later retellings often become more dramatic than the earliest versions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in 1990 1992</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
+**Narratives evolve over time.** Later retellings often become more dramatic than the earliest versions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">uap over tashkent in</span><span class="citation-popover-snippet">UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</span><span class="citation-popover-meta">Published: November 7, 1990</span></span></span>
 
 For researchers examining Uzbekistan's wider UFO history, this makes Tashkent simultaneously important and frustrating. The capital generates more reports than any other part of the country and preserves some of its most famous photographs. Yet the city's reputation as a UFO centre rests largely on stories whose evidential foundations are weaker than their cultural visibility.
 
@@ -389,197 +389,197 @@ Tashkent's significance is less about proving extraordinary aerial phenomena and
 
 The city acts as the country's main archive of rumours, photographs, witness recollections, and recurring folklore. It preserves Soviet-era memories, post-independence media stories, and modern social-media sightings in one place. That concentration gives researchers a useful window into how unexplained aerial reports are recorded, repeated, modified, and remembered.
 
-The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan's largest collection of UFO claims, but not its strongest body of verified evidence. The capital is where stories survive, circulate, and grow. Whether those stories describe genuinely anomalous events is usually much harder to establish than the rumours themselves. Wikipedia 3Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan's largest collection of UFO claims, but not its strongest body of verified evidence. The capital is where stories survive, circulate, and grow. Whether those stories describe genuinely anomalous events is usually much harder to establish than the rumours themselves. Wikipedia 3Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Tashkent Became Uzbekistan&#x27;s UFO Story Hub. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Tashkent Became Uzbekistan&#x27;s UFO Story Hub. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines reliability issues across large collections of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reliability issues across large collections of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relates to evaluating claims, photos, and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to evaluating claims, photos, and testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witnesses and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witnesses and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how rumors and narratives expand over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how rumors and narratives expand over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-tashkent-became-uzbekistan-s-ufo-story-hub-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,172 +782,171 @@ The most defensible conclusion is therefore modest. Tashkent contains Uzbekistan
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious: UAP over Tashkent in 1990 &amp; 1992: r/aliensNovember 4, 2025 — I know that this was the 90&#x27;s but isn&#x27;t it amazing that even...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1oo0oxi/serious_uap_over_tashkent_in_1990_1992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serious: UAP over Tashkent in 1990 &amp; 1992: r/aliensNovember 4, 2025 — I know that this was the 90&#x27;s but isn&#x27;t it amazing that even...</p></details>
    Published: November 4, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: uap over tashkent in 1990 1992  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oo0aom/uap_over_tashkent_in_1990_1992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP over Tashkent in 1990 &amp; 1992: r/UFOsPhotos were taken in Tashkent on November 7, 1990, in the afternoon, by Volodymyr B. from an 8th...</p></details>
    Published: November 7, 1990  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: uzdaily.uz  
    Title: Uz Daily.uz Uzbekistan's Academy of Sciences' Astronomy Institute  
-   Link: <a href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</p></details>
+   Link:<a href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</p></details>
    Published: February 20, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Tashkent Planetarium  
-   Link: <a href="https://en.wikipedia.org/wiki/Tashkent_Planetarium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tashkent_Planetarium</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tashkent_Planetarium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tashkent_Planetarium</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange, glowing object with sparkling lights...UFO - Tashkent, Uzbekistan, November 7, 1990 These fascinating photos were tak...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-glowing-object-with-sparkling-lights-was-recorded-hovering-over-the-sk/1611615637631736/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A strange, glowing object with sparkling lights...UFO - Tashkent, Uzbekistan, November 7, 1990 These fascinating photos were tak...</p></details>
    Published: November 7, 1990  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: back in 1990 something unusual appeared in the sky over tashkent and a young boy  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/photos/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157592644207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157592644207/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Back in 1990, something unusual appeared in the sky over...Back in 1990, something unusual appeared in the sky over Tashkent, and a youn...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/photos/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157592644207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157592644207/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Back in 1990, something unusual appeared in the sky over...Back in 1990, something unusual appeared in the sky over Tashkent, and a youn...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
    Title: DNMu QImxu P1  
-   Link: <a href="https://www.instagram.com/p/DNMuQImxuP1/?hl=bg" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNMuQImxuP1/?hl=bg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT: UFO SPOTTED OVER UZBEKISTAN...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 photos of a UFO. The...</p></details>
+   Link:<a href="https://www.instagram.com/p/DNMuQImxuP1/?hl=bg" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNMuQImxuP1/?hl=bg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT: UFO SPOTTED OVER UZBEKISTAN...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 photos of a UFO. The...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
    Title: DXA0p Tyjo5w  
-   Link: <a href="https://www.instagram.com/reel/DXA0pTyjo5w/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXA0pTyjo5w/?hl=en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 Strange Glowing Objects Spotted Over Uzbekistan 🇺🇿✨...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 pho...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXA0pTyjo5w/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXA0pTyjo5w/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 Strange Glowing Objects Spotted Over Uzbekistan 🇺🇿✨...In Tashkent, Uzbekistan, in 1990. Schoolboy Volodya B. took an incredible 20 pho...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
    Title: DXnpvb3j Dg Q  
-   Link: <a href="https://www.instagram.com/reel/DXnpvb3jDgQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXnpvb3jDgQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>took an incredible 20 photos of a UFO. The event occurred on November 7, 1990, and the photos were taken with a Soviet...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXnpvb3jDgQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXnpvb3jDgQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>took an incredible 20 photos of a UFO. The event occurred on November 7, 1990, and the photos were taken with a Soviet...Read more...</p></details>
    Published: November 7, 1990  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Voronezh UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Voronezh_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voronezh_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Voronezh_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voronezh_UFO_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Clearest Photo of a UFO!!  
-   Link: <a href="https://www.instagram.com/reel/DXt9bhkigf-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXt9bhkigf-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#ufo #alien #tashkent #mystery #...The photo you are currently seeing on your screen is one of the clearest photos of a UFO ever taken...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXt9bhkigf-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXt9bhkigf-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#ufo #alien #tashkent #mystery #...The photo you are currently seeing on your screen is one of the clearest photos of a UFO ever taken...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/new-video-from-uzbekistan-is-making-waves-online-it-shows-a-strange-object-hover/926230867063002/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/new-video-from-uzbekistan-is-making-waves-online-it-shows-a-strange-object-hover/926230867063002/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s about UFOs and possible alien activity. The...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/new-video-from-uzbekistan-is-making-waves-online-it-shows-a-strange-object-hover/926230867063002/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/new-video-from-uzbekistan-is-making-waves-online-it-shows-a-strange-object-hover/926230867063002/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s about UFOs and possible alien activity. The...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/recently-shared-video-from-uzbekistan-has-caught-widespread-attention-after-view/1499907702135864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/recently-shared-video-from-uzbekistan-has-caught-widespread-attention-after-view/1499907702135864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>surrounded by stormy clouds and a strange glowing light.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/recently-shared-video-from-uzbekistan-has-caught-widespread-attention-after-view/1499907702135864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/recently-shared-video-from-uzbekistan-has-caught-widespread-attention-after-view/1499907702135864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>surrounded by stormy clouds and a strange glowing light.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: ufos in tashkent uzbekistan  
-   Link: <a href="https://www.facebook.com/disclosureparty/videos/ufos-in-tashkent-uzbekistan/1447555660421339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/videos/ufos-in-tashkent-uzbekistan/1447555660421339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Tashkent, Uzbekistan11 Jan 2026 — A set of photographs taken from an eighth-floor balcony in Tashkent, Uzbekistan on November 7th...</p></details>
+   Link:<a href="https://www.facebook.com/disclosureparty/videos/ufos-in-tashkent-uzbekistan/1447555660421339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/videos/ufos-in-tashkent-uzbekistan/1447555660421339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Tashkent, Uzbekistan11 Jan 2026 — A set of photographs taken from an eighth-floor balcony in Tashkent, Uzbekistan on November 7th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Image, captured as a still frame from a video recording  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archaeology ▻ UFO, Aliens, Other Planets and Paranormal Activities... ☑️. 37w · Public · The photos show a supposed unidentified flying o...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/image-captured-as-a-still-frame-from-a-video-recording-appears-to-show-an-uniden/863026643383425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archaeology ▻ UFO, Aliens, Other Planets and Paranormal Activities... ☑️. 37w · Public · The photos show a supposed unidentified flying o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: THOUGHT S 💬 A newly circulating UAP clip has sparked  
-   Link: <a href="https://www.instagram.com/p/DYsf38DEiTS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYsf38DEiTS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unidentified,” meaning the objects remain unexplained — not automatically alien.... UFO FILES SWIPE LEFT FOR MORE ACTUAL SITE PHOTO WITH...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYsf38DEiTS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYsf38DEiTS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unidentified,” meaning the objects remain unexplained — not automatically alien.... UFO FILES SWIPE LEFT FOR MORE ACTUAL SITE PHOTO WITH...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYotl4MJXRh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYotl4MJXRh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>life after claims surfaced that four different alien species...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYotl4MJXRh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYotl4MJXRh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>life after claims surfaced that four different alien species...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/artanddesign/2025/apr/28/cosmic-metros-ufo-circus-tops-mesmerising-architecture-tashkent" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2025/apr/28/cosmic-metros-ufo-circus-tops-mesmerising-architecture-tashkent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent examples include the turquoise-domed Chorsu Bazaar and the futuristic-looking Tashkent Circus, both built in the late 20th cent...</p></details>
+   Link:<a href="https://www.theguardian.com/artanddesign/2025/apr/28/cosmic-metros-ufo-circus-tops-mesmerising-architecture-tashkent" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2025/apr/28/cosmic-metros-ufo-circus-tops-mesmerising-architecture-tashkent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent examples include the turquoise-domed Chorsu Bazaar and the futuristic-looking Tashkent Circus, both built in the late 20th cent...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: timesca.com  
    Title: pentagon ufo files include 1994 tajik air report over kazakhstan  
-   Link: <a href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>photographs purportedly showing objects in the sky above the city. The same Tashkent claims are also associated with UFO Phenomenon: A Lo...</p></details>
+   Link:<a href="https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/" target="_blank" rel="noopener noreferrer nofollow">https://timesca.com/pentagon-ufo-files-include-1994-tajik-air-report-over-kazakhstan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>photographs purportedly showing objects in the sky above the city. The same Tashkent claims are also associated with UFO Phenomenon: A Lo...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pinupmagazine.org  
-   Link: <a href="https://www.pinupmagazine.org/articles/tashkent-modernism-the-invention-of-the-soviet-east" target="_blank" rel="noopener noreferrer nofollow">https://www.pinupmagazine.org/articles/tashkent-modernism-the-invention-of-the-soviet-east</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TASHKENT MODERNISM: THE INVENTION OF THE...The story of modern Tashkent is one about the invention of a Soviet East. Islamic urban life...</p></details>
+   Link:<a href="https://www.pinupmagazine.org/articles/tashkent-modernism-the-invention-of-the-soviet-east" target="_blank" rel="noopener noreferrer nofollow">https://www.pinupmagazine.org/articles/tashkent-modernism-the-invention-of-the-soviet-east</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TASHKENT MODERNISM: THE INVENTION OF THE...The story of modern Tashkent is one about the invention of a Soviet East. Islamic urban life...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: avi-loeb.medium.com  
    Title: analysis of the second batch of ufo files released by the pentagon 1d76e7724073  
-   Link: <a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Second Batch of UFO Files Released by the...Of course, believers in UFOs or UAPs would argue: “The aliens are interested in those...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Second Batch of UFO Files Released by the...Of course, believers in UFOs or UAPs would argue: “The aliens are interested in those...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencefocus.com  
    Title: the ufos that scientists think are real but cant explain  
-   Link: <a href="https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs that scientists think are real, but can&#x27;t explain27 Jun 2025 — Conspiracies and FBI secrets: Why we love UFOs · Alien mothership...</p></details>
+   Link:<a href="https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs that scientists think are real, but can&#x27;t explain27 Jun 2025 — Conspiracies and FBI secrets: Why we love UFOs · Alien mothership...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Secret UFO files smuggled out of Russia released | Jesse Weber Live  
-   Link: <a href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pYnDYLv1NPo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire rewind: UFOs in Russia, more investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pYnDYLv1NPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire rewind: UFOs in Russia, more investigations...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U0C06lFJacE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U0C06lFJacE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: UNBELIEVABLE Evidence of Unidentified Aerial Phenomena (Season 1) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U0C06lFJacE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U0C06lFJacE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: UNBELIEVABLE Evidence of Unidentified Aerial Phenomena (Season 1) | History...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: 6 UFO Mysteries as the Soviet Union Collapsed  
-   Link: <a href="https://www.youtube.com/watch?v=DIHZO3iH5QM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DIHZO3iH5QM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO files smuggled out of Russia released | Jesse Weber Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DIHZO3iH5QM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DIHZO3iH5QM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO files smuggled out of Russia released | Jesse Weber Live...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OAifOXu_L-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OAifOXu_L-M</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OAifOXu_L-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OAifOXu_L-M</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Mystery Wire rewind: UFOs in Russia, more investigations  
-   Link: <a href="https://www.youtube.com/watch?v=UdDvA5NiwdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UdDvA5NiwdA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GOD VS UFOS (2025) Full UFO Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UdDvA5NiwdA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UdDvA5NiwdA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GOD VS UFOS (2025) Full UFO Documentary...</p></details>

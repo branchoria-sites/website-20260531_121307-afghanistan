@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ghana-317dba-index/
 description: Focused pages that expand on Ghana.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Ghana_317dba
 parent_title: Ghana
@@ -16,7 +16,7 @@ parent_permalink: /ghana/
 
 # Explore Topics in Ghana
 
-The following pages expand on the main **[Ghana]({{ '/ghana/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ghana]({{ '/ghana/' | relative_url }})** page and cover its key branches in.
 
 - [1987 Sighting]({{ '/1987-sighting/' | relative_url }})
 - [Public Records]({{ '/public-records/' | relative_url }})

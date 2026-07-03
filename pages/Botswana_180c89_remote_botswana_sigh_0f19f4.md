@@ -248,42 +248,42 @@ image: /assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-1
 
 ## Introduction
 
-Remote regions of **Botswana** such as the Okavango Delta and the Ghanzi District have generated a handful of **unidentified aerial phenomena (UAP)** reports — mainly involving unusual lights or fireball‑like objects observed under very dark, low‑population skies. Because these areas are extremely isolated, free from significant light pollution and conventional air traffic, observers sometimes interpret night‑sky events as anomalous. However, the evidentiary record for such sightings remains **sparse and anecdotal**, with no independently verified craft or anomalous technology documented in these locations. What follows is a focused appraisal of the available reports from **Okavango** and **Ghanzi**, alongside what conventional atmospheric phenomena and observational challenges might explain them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Remote regions of **Botswana** such as the Okavango Delta and the Ghanzi District have generated a handful of **unidentified aerial phenomena (UAP)** reports — mainly involving unusual lights or fireball‑like objects observed under very dark, low‑population skies. Because these areas are extremely isolated, free from significant light pollution and conventional air traffic, observers sometimes interpret night‑sky events as anomalous. However, the evidentiary record for such sightings remains **sparse and anecdotal**, with no independently verified craft or anomalous technology documented in these locations. What follows is a focused appraisal of the available reports from **Okavango** and **Ghanzi**, alongside what conventional atmospheric phenomena and observational challenges might explain them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-1-dark.svg" | relative_url }}" alt="Remote Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Okavango Delta Light Reports
 
-One of the better‑documented remote sightings in Botswana’s public UFO reporting archives comes from the **Okavango Delta**, a vast inland wetland in north‑west Botswana and a UNESCO World Heritage Site known for its pristine wilderness and exceptionally dark **night skies** that reveal stars and celestial objects with high clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1432/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[unesco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreOkavango DeltaOkavango Delta. This delta in north-west Botswana comprises permanent marshlands and seasonally...</span></span></span>
+One of the better‑documented remote sightings in Botswana’s public UFO reporting archives comes from the **Okavango Delta**, a vast inland wetland in north‑west Botswana and a UNESCO World Heritage Site known for its pristine wilderness and exceptionally dark **night skies** that reveal stars and celestial objects with high clarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1432/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[unesco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreOkavango DeltaOkavango Delta. This delta in north-west Botswana comprises permanent marshlands and seasonally...</span></span></span>
 
-* **2016 OKavango Light Encounter:** A report in the **National UFO Reporting Center (NUFORC)** describes an observer standing at a tent inside the Okavango Delta who saw what initially appeared to be a star that began moving and pulsating. According to the witness’s account, the white, oval light drifted slowly across the sky, descended toward the water, vanished momentarily, then reappeared as a bright, steady pulsating light before finally fading. No aircraft, vessels, or known light sources were reported in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 128534July 22, 2016...</span><span class="citation-popover-meta">Published: July 22, 2016</span></span></span>
+* **2016 OKavango Light Encounter:** A report in the **National UFO Reporting Center (NUFORC)** describes an observer standing at a tent inside the Okavango Delta who saw what initially appeared to be a star that began moving and pulsating. According to the witness’s account, the white, oval light drifted slowly across the sky, descended toward the water, vanished momentarily, then reappeared as a bright, steady pulsating light before finally fading. No aircraft, vessels, or known light sources were reported in the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 128534July 22, 2016...</span><span class="citation-popover-meta">Published: July 22, 2016</span></span></span>
 
-The remoteness of the Delta — large alluvial wetlands with minimal human infrastructure — means that **any light in the far night sky is conspicuous** to a casual observer. This low light‑pollution environment also makes everyday astronomical phenomena such as satellites, planets near the horizon, meteors, or atmospheric scintillation more visible and sometimes misinterpreted by untrained observers. Guidebooks for astronomical observation specifically note that Botswana’s unlit skies make it ideal for stargazing precisely because mundane celestial bodies appear so striking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibiana.de">[Namibiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibiana.de</span><span class="citation-popover-snippet">Night Skies of Botswana, by Stephen O&#x27;MearaNight Skies of Botswana by Stephen O&#x27;Meara is a guide to visual astronomy for novice...</span></span></span>
+The remoteness of the Delta — large alluvial wetlands with minimal human infrastructure — means that **any light in the far night sky is conspicuous** to a casual observer. This low light‑pollution environment also makes everyday astronomical phenomena such as satellites, planets near the horizon, meteors, or atmospheric scintillation more visible and sometimes misinterpreted by untrained observers. Guidebooks for astronomical observation specifically note that Botswana’s unlit skies make it ideal for stargazing precisely because mundane celestial bodies appear so striking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibiana.de">[Namibiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibiana.de</span><span class="citation-popover-snippet">Night Skies of Botswana, by Stephen O&#x27;MearaNight Skies of Botswana by Stephen O&#x27;Meara is a guide to visual astronomy for novice...</span></span></span>
 
 Given the absence of corroborating data (such as multi‑observer reports, radar tracks, or imagery), the Okavango Delta sighting remains unresolved. Key alternative explanations that should be considered in this context include:
 
 * **Celestial objects:** bright planets (e.g. Venus) near twilight, especially at low altitudes, can *appear to move* due to observer perspective.
 * **Aircraft or satellites:** slow, low light motion is sometimes reported when observing distant aircraft lights or Earth‑orbiting satellites.
 * **Atmospheric optics:** distortion due to humidity gradients over the Delta can cause apparent pulsation.
-* **Meteors/fireballs:** while shorter in duration, meteors can present as bright, descending objects. (Such events are well‑documented globally by fireball networks.) <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+* **Meteors/fireballs:** while shorter in duration, meteors can present as bright, descending objects. (Such events are well‑documented globally by fireball networks.)<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XcDDofS5Huw" title="The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XcDDofS5Huw" target="_blank" rel="noopener noreferrer">The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 519.2K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XcDDofS5Huw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XcDDofS5Huw">Open on YouTube</a></p></div></div></div>
 
 ## Ghanzi Fireball Events
 
-In the **Ghanzi District**, centred around the town of Ghanzi and stretching across the flat, sparsely inhabited **Kalahari Desert**, remote reports lean toward **fireball‑like events** rather than hovering lights. NUFORC lists at least one such sighting from **June 2015**, where an eyewitness described a bright, slowly moving light near the horizon — interpreted as a “fireball”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In the **Ghanzi District**, centred around the town of Ghanzi and stretching across the flat, sparsely inhabited **Kalahari Desert**, remote reports lean toward **fireball‑like events** rather than hovering lights. NUFORC lists at least one such sighting from **June 2015**, where an eyewitness described a bright, slowly moving light near the horizon — interpreted as a “fireball”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-* **2015 Ghanzi Fireball (NUFORC):** According to the report, a bright light moved slowly left‑to‑right across the horizon before dropping below it. The observer claimed to have witnessed similar occurrences in previous years at roughly the same location. This kind of description is more consistent with **meteoroid entries** or atmospheric re‑entry events than with structured craft: broader surveys of Earth’s skies have shown that metre‑scale interplanetary debris entering the atmosphere can produce bright bolides and slow‑visible movement for several seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+* **2015 Ghanzi Fireball (NUFORC):** According to the report, a bright light moved slowly left‑to‑right across the horizon before dropping below it. The observer claimed to have witnessed similar occurrences in previous years at roughly the same location. This kind of description is more consistent with **meteoroid entries** or atmospheric re‑entry events than with structured craft: broader surveys of Earth’s skies have shown that metre‑scale interplanetary debris entering the atmosphere can produce bright bolides and slow‑visible movement for several seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 The **Ghanzi region** is flat and features wide vistas under clear skies far from urban glare, meaning that *fireball events tend to stand out*. Without corroborating radar or multi‑observer documentation, these remain single‑point witness accounts with high potential for misidentification of meteors or satellite re‑entries. Constellations, planets, or even aircraft contrails at low light angles can appear anomalous to untrained observers.
 
 <img src="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-2-dark.svg" | relative_url }}" alt="Remote Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Verification Challenges and Scientific Context
 
-Across both regions, there are **no official government investigations**, published sensor records, or independent analyses that confirm any phenomenon as extraterrestrial or beyond established atmospheric and astronomical causes. The absence of corroborative evidence — such as radar tracking, photographs, or multi‑site observations — is a consistent limitation in remote sighting reports. The examples from **Okavango** and **Ghanzi** are singular eyewitness accounts submitted to voluntary reporting outlets, which by their nature are **anecdotal and unsystematic**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Across both regions, there are **no official government investigations**, published sensor records, or independent analyses that confirm any phenomenon as extraterrestrial or beyond established atmospheric and astronomical causes. The absence of corroborative evidence — such as radar tracking, photographs, or multi‑site observations — is a consistent limitation in remote sighting reports. The examples from **Okavango** and **Ghanzi** are singular eyewitness accounts submitted to voluntary reporting outlets, which by their nature are **anecdotal and unsystematic**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Scientific explanation frameworks for unusual lights in remote skies generally draw on well‑understood natural phenomena:
 
-* **Meteor and fireball activity:** The Earth regularly encounters small meteoroids that produce bright streaks or bolides visible from the surface, especially in very dark skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+* **Meteor and fireball activity:** The Earth regularly encounters small meteoroids that produce bright streaks or bolides visible from the surface, especially in very dark skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,204 +301,204 @@ In the absence of systematic data collection (e.g., photographic sequences, tria
 
 ## Summary of Remote Sightings Evidence
 
-* **Okavango sightings** consist mainly of pulsating light reports from within the Delta’s exceptionally dark skies, lacking independent verification and open to conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 128534July 22, 2016...</span><span class="citation-popover-meta">Published: July 22, 2016</span></span></span>
-* **Ghanzi sightings** are primarily described as fireball‑like events consistent with meteor activity seen in other dark‑sky regions worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Okavango sightings** consist mainly of pulsating light reports from within the Delta’s exceptionally dark skies, lacking independent verification and open to conventional explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 128534July 22, 2016...</span><span class="citation-popover-meta">Published: July 22, 2016</span></span></span>
+* **Ghanzi sightings** are primarily described as fireball‑like events consistent with meteor activity seen in other dark‑sky regions worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * Neither region has produced corroborated radar, photographic, or scientific documentation that would support non‑terrestrial explanations.
-* The **astronomical visibility** in these areas — while spectacular — makes mundane sky phenomena more noticeable and also more prone to misinterpretation without proper context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibiana.de">[Namibiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibiana.de</span><span class="citation-popover-snippet">Night Skies of Botswana, by Stephen O&#x27;MearaNight Skies of Botswana by Stephen O&#x27;Meara is a guide to visual astronomy for novice...</span></span></span>
+* The **astronomical visibility** in these areas — while spectacular — makes mundane sky phenomena more noticeable and also more prone to misinterpretation without proper context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibiana.de">[Namibiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibiana.de</span><span class="citation-popover-snippet">Night Skies of Botswana, by Stephen O&#x27;MearaNight Skies of Botswana by Stephen O&#x27;Meara is a guide to visual astronomy for novice...</span></span></span>
 
 Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s wider catalogue of unidentified reports, the **quality of evidence and lack of independent verification** mean that the safest working framing for these cases remains unresolved light phenomena subject to conventional atmospheric and astronomical interpretation rather than confirmed anomalous craft.
 
 <img src="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-3-dark.svg" | relative_url }}" alt="Remote Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are the Strange Lights Over Botswana&#x27;s Remote Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are the Strange Lights Over Botswana&#x27;s Remote Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate anecdotal sightings from isolated areas with limited corroborating data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate anecdotal sightings from isolated areas with limited corroborating data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Remote dark-sky sightings often involve stars, planets, satellites, meteors, and other night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Remote dark-sky sightings often involve stars, planets, satellites, meteors, and other night-sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broadens the page from Botswana reports to better-documented UAP cases and witness standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens the page from Botswana reports to better-documented UAP cases and witness standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Gives a typology for remote light sightings, close encounters, and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives a typology for remote light sightings, close encounters, and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-are-the-strange-lights-over-botswana-s-remote-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,83 +704,83 @@ Overall, while remote Okavango and Ghanzi sightings contribute to Botswana’s w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whc.unesco.org  
-   Link: <a href="https://whc.unesco.org/en/list/1432/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1432/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO World Heritage CentreOkavango DeltaOkavango Delta. This delta in north-west Botswana comprises permanent marshlands and seasonally...</p></details>
+   Link:<a href="https://whc.unesco.org/en/list/1432/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1432/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO World Heritage CentreOkavango DeltaOkavango Delta. This delta in north-west Botswana comprises permanent marshlands and seasonally...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: namibiana.de  
-   Link: <a href="https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Skies of Botswana, by Stephen O&#x27;MearaNight Skies of Botswana by Stephen O&#x27;Meara is a guide to visual astronomy for novice...</p></details>
+   Link:<a href="https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.namibiana.de/namibia-information/literaturauszuege/titel/night-skies-botswana-stephen-omeara-9781775846932-978-1-77-584693-2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Skies of Botswana, by Stephen O&#x27;MearaNight Skies of Botswana by Stephen O&#x27;Meara is a guide to visual astronomy for novice...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128534</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 128534July 22, 2016...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128534</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 128534July 22, 2016...</p></details>
    Published: July 22, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Observation of metre-scale impactors by the Desert Fireball Network  
-   Link: <a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</p></details>
    Published: August 28, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/botswana/</a>  
+   Link:<a href="https://thephenomenon.app/botswana/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/botswana/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: info-botswana.com  
    Title: The town is the administrative seat of the Ghanzi District, which stretches from  
-   Link: <a href="https://www.info-botswana.com/activities-and-places-of-interest/ghanzi/ghanzi" target="_blank" rel="noopener noreferrer nofollow">https://www.info-botswana.com/activities-and-places-of-interest/ghanzi/ghanzi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghanzi - The capital of the KalahariGHANZI THE KALAHARI CAPITAL The town with its 15,000 inhabitants is situated only 70 km away from Nam...</p></details>
+   Link:<a href="https://www.info-botswana.com/activities-and-places-of-interest/ghanzi/ghanzi" target="_blank" rel="noopener noreferrer nofollow">https://www.info-botswana.com/activities-and-places-of-interest/ghanzi/ghanzi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghanzi - The capital of the KalahariGHANZI THE KALAHARI CAPITAL The town with its 15,000 inhabitants is situated only 70 km away from Nam...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalgeographic.com  
-   Link: <a href="https://www.nationalgeographic.com/environment/article/paid-content-a-day-in-the-okavango-delta" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/environment/article/paid-content-a-day-in-the-okavango-delta</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A day in the Okavango DeltaWhat&#x27;s it like to arrive in one of the most pristine, unspoiled oases in all of Africa? Batswana photojournali...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/environment/article/paid-content-a-day-in-the-okavango-delta" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/environment/article/paid-content-a-day-in-the-okavango-delta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A day in the Okavango DeltaWhat&#x27;s it like to arrive in one of the most pristine, unspoiled oases in all of Africa? Batswana photojournali...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: botswanawildlife.com  
-   Link: <a href="https://botswanawildlife.com/ghanzi.html" target="_blank" rel="noopener noreferrer nofollow">https://botswanawildlife.com/ghanzi.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghanzi, BotswanaImage: Ghanzi Map GHANZIImage Description and history Situated 300km south-west of Maun and just north of the Trans-Kalah...</p></details>
+   Link:<a href="https://botswanawildlife.com/ghanzi.html" target="_blank" rel="noopener noreferrer nofollow">https://botswanawildlife.com/ghanzi.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghanzi, BotswanaImage: Ghanzi Map GHANZIImage Description and history Situated 300km south-west of Maun and just north of the Trans-Kalah...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/botswana-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/botswana-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/botswana-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/botswana-ufo-sightings.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalgeographic.org  
-   Link: <a href="https://www.nationalgeographic.org/society/our-programs/okavango/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.org/society/our-programs/okavango/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Okavango Wilderness ProjectThe Okavango Wilderness Project has been surveying and collecting scientific data on the river system and work...</p></details>
+   Link:<a href="https://www.nationalgeographic.org/society/our-programs/okavango/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.org/society/our-programs/okavango/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Okavango Wilderness ProjectThe Okavango Wilderness Project has been surveying and collecting scientific data on the river system and work...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X07000222" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1464343X07000222</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACKNOWLEDGEMENTS The authors wish to acknowledge the assistance of the three students, Mmapula Makgatlhe, Semakaleng Senthuf...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X07000222" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1464343X07000222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACKNOWLEDGEMENTS The authors wish to acknowledge the assistance of the three students, Mmapula Makgatlhe, Semakaleng Senthuf...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: earthobservatory.nasa.gov  
    Title: The fire is near the western boundary of (and perhaps inside) Botswana’s  
-   Link: <a href="https://earthobservatory.nasa.gov/images/20427/fire-in-the-kalahari" target="_blank" rel="noopener noreferrer nofollow">https://earthobservatory.nasa.gov/images/20427/fire-in-the-kalahari</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the KalahariAugust 29, 2008 — FIRE IN THE KALAHARI August 29, 2008JPEG A huge bushfire was burning in the Kalahari in western Botswana...</p></details>
+   Link:<a href="https://earthobservatory.nasa.gov/images/20427/fire-in-the-kalahari" target="_blank" rel="noopener noreferrer nofollow">https://earthobservatory.nasa.gov/images/20427/fire-in-the-kalahari</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the KalahariAugust 29, 2008 — FIRE IN THE KALAHARI August 29, 2008JPEG A huge bushfire was burning in the Kalahari in western Botswana...</p></details>
    Published: August 29, 2008  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: timbuktutravel.com  
-   Link: <a href="https://www.timbuktutravel.com/blog/okavango-delta-fluke-nature" target="_blank" rel="noopener noreferrer nofollow">https://www.timbuktutravel.com/blog/okavango-delta-fluke-nature</a>  
+   Link:<a href="https://www.timbuktutravel.com/blog/okavango-delta-fluke-nature" target="_blank" rel="noopener noreferrer nofollow">https://www.timbuktutravel.com/blog/okavango-delta-fluke-nature</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333981207_Range_expansion_Servals_spotted_in_the_Kalahari" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333981207_Range_expansion_Servals_spotted_in_the_Kalahari</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Range expansion: Servals spotted in the KalahariJune 24, 2019 — commercial farm block (non-protected areas) we recorded five sighti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/333981207_Range_expansion_Servals_spotted_in_the_Kalahari" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333981207_Range_expansion_Servals_spotted_in_the_Kalahari</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Range expansion: Servals spotted in the KalahariJune 24, 2019 — commercial farm block (non-protected areas) we recorded five sighti...</p></details>
    Published: June 24, 2019  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: audleytravel.com  
-   Link: <a href="https://www.audleytravel.com/ca/botswana/places-to-go/okavango-delta/ghanzi" target="_blank" rel="noopener noreferrer nofollow">https://www.audleytravel.com/ca/botswana/places-to-go/okavango-delta/ghanzi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aces to visit * Accommodations * Things to do * Best time to visit Close Botswana menu Ghanzi, also known as &#x27;the capital of...</p></details>
+   Link:<a href="https://www.audleytravel.com/ca/botswana/places-to-go/okavango-delta/ghanzi" target="_blank" rel="noopener noreferrer nofollow">https://www.audleytravel.com/ca/botswana/places-to-go/okavango-delta/ghanzi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aces to visit * Accommodations * Things to do * Best time to visit Close Botswana menu Ghanzi, also known as &#x27;the capital of...</p></details>

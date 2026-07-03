@@ -257,7 +257,7 @@ The incident is often referred to in later Korean media as the “Cheongwadae UF
 
 Accounts collected decades later describe a city suddenly confronted by military action overhead. According to witness testimonies revisited in Korean media, anti-aircraft batteries opened fire after reports of unidentified objects appeared in Seoul's northern skies during the early evening. Some witnesses recalled seeing bright lights or unusual aerial targets; others primarily remembered the sound of sustained gunfire and the confusion that followed. [서울신문]
 
-One recurring feature of later testimony is the claim that the firing continued for a prolonged period. Subsequent retellings often describe anti-aircraft units engaging multiple unidentified targets while residents watched from rooftops, streets and hillsides. The exact number of objects remains highly disputed. Some modern UFO-oriented accounts speak of numerous targets, but those figures are difficult to verify against contemporary documentation and should be treated cautiously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.noticiasufologicas.com.br/em-1976-disparos-antiaereos-em-seul-duraram-quase-2-horas-sem-acertos-contra-objetos-na-direcao-da-residencia-presidencial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.noticiasufologicas.com.br">[Noticias Ufológicas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.noticiasufologicas.com.br</span><span class="citation-popover-snippet">Noticias UfológicasIn 1976, anti-aircraft fire in Seoul lasted almost 2 hours, without...In 1976, anti-aircraft fire in Seoul lasted alm...</span></span></span>
+One recurring feature of later testimony is the claim that the firing continued for a prolonged period. Subsequent retellings often describe anti-aircraft units engaging multiple unidentified targets while residents watched from rooftops, streets and hillsides. The exact number of objects remains highly disputed. Some modern UFO-oriented accounts speak of numerous targets, but those figures are difficult to verify against contemporary documentation and should be treated cautiously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.noticiasufologicas.com.br/em-1976-disparos-antiaereos-em-seul-duraram-quase-2-horas-sem-acertos-contra-objetos-na-direcao-da-residencia-presidencial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.noticiasufologicas.com.br">[Noticias Ufológicas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.noticiasufologicas.com.br</span><span class="citation-popover-snippet">Noticias UfológicasIn 1976, anti-aircraft fire in Seoul lasted almost 2 hours, without...In 1976, anti-aircraft fire in Seoul lasted alm...</span></span></span>
 
 More significant than the object descriptions are the reports of physical harm. Witnesses interviewed decades later described injuries allegedly caused by falling rounds or fragments during and after the firing. Korean press reports summarising those testimonies included accounts from individuals who believed they had been struck while attempting to return home after the shooting subsided. These recollections helped shift discussion away from the UFO question alone and toward the risks created by anti-aircraft engagement over a densely populated city. [서울신문+2아시아경제]
 
@@ -286,7 +286,7 @@ That distinction matters when assessing evidence quality:
 
 * **Well-supported:** anti-aircraft firing occurred, witnesses remembered a military engagement over Seoul, and later reporting documented claims of civilian injuries. [서울신문]
 * **Partially supported:** unidentified aerial reports appear to have triggered the alert, but surviving public documentation is fragmentary. [아시아경제]
-* **Poorly supported:** later claims involving large numbers of UFOs, extraordinary craft, crashes or long-running concealment programmes largely originate from much later UFO literature and internet discussions rather than contemporaneous evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14vt0it/an_attempt_to_shoot_down_a_ufo_over_seoul_in_1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">an attempt to shoot down a ufo over seoul in 1976</span><span class="citation-popover-snippet">An attempt to shoot down a UFO over Seoul in 1976....How come there aren&#x27;t UFO sightings in Korea? Has anyone seen... r/UFOs - On...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Abovethenormnews/posts/-new-claims-about-immovable-ufo-craft-in-korea-and-the-usa-we-are-reporting-on-n/894982216668773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">new claims about immovable ufo craft in korea and the usa we are reporting on n</span><span class="citation-popover-snippet">🛸 New Claims About Immovable UFO Craft in Korea and...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw the m...</span></span></span>
+* **Poorly supported:** later claims involving large numbers of UFOs, extraordinary craft, crashes or long-running concealment programmes largely originate from much later UFO literature and internet discussions rather than contemporaneous evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14vt0it/an_attempt_to_shoot_down_a_ufo_over_seoul_in_1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">an attempt to shoot down a ufo over seoul in 1976</span><span class="citation-popover-snippet">An attempt to shoot down a UFO over Seoul in 1976....How come there aren&#x27;t UFO sightings in Korea? Has anyone seen... r/UFOs - On...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Abovethenormnews/posts/-new-claims-about-immovable-ufo-craft-in-korea-and-the-usa-we-are-reporting-on-n/894982216668773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">new claims about immovable ufo craft in korea and the usa we are reporting on n</span><span class="citation-popover-snippet">🛸 New Claims About Immovable UFO Craft in Korea and...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw the m...</span></span></span>
 
 The imbalance between these categories is important. The strongest historical evidence concerns what people and institutions did, not necessarily what was in the sky.
 
@@ -298,7 +298,7 @@ For years, the incident occupied an uncertain place in South Korean public memor
 
 Television programmes revisiting the case helped preserve witness testimony and renewed interest in reports that had largely faded from mainstream discussion. These retrospectives often emphasised two themes simultaneously: the mystery of the unidentified objects and the human consequences of the military response. [아시아경제]
 
-More recently, the incident has been pulled into wider international UFO narratives. Claims about hidden crash sites, recovered craft and alleged government secrets have sometimes been linked retrospectively to the 1976 alert. The problem is that these connections generally rest on speculation rather than independently verifiable evidence. They tell us more about the modern UFO information ecosystem than about what can be established regarding Seoul in October 1976. Cybernews <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up...Read more...</span></span></span>
+More recently, the incident has been pulled into wider international UFO narratives. Claims about hidden crash sites, recovered craft and alleged government secrets have sometimes been linked retrospectively to the 1976 alert. The problem is that these connections generally rest on speculation rather than independently verifiable evidence. They tell us more about the modern UFO information ecosystem than about what can be established regarding Seoul in October 1976. Cybernews<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Korea_8d9deb_seoul_1976_ufo_alert_ac36db-Illustration-3-dark.svg" | relative_url }}" alt="Seoul 1976 illustration 3" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb_seoul_1976_ufo_alert_ac36db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb_seoul_1976_ufo_alert_ac36db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
@@ -314,194 +314,194 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tfBBVARssEM" title="Korean Blue House 1976 sighting may connect to Ross Coulthart&#x27;s massive UFO story - Psicoactivo #792" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tfBBVARssEM" target="_blank" rel="noopener noreferrer">Korean Blue House 1976 sighting may connect to Ross Coulthart&#x27;s massive UFO story - Psicoactivo #792</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 19.6K &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tfBBVARssEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tfBBVARssEM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Seoul&#x27;s 1976 UFO Alert Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Seoul&#x27;s 1976 UFO Alert Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Matches a historically significant military-response UFO incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a historically significant military-response UFO incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating historic sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating historic sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Addresses defence-related UAP events and official reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses defence-related UAP events and official reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Features military and official perspectives on aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features military and official perspectives on aerial incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-seoul-s-1976-ufo-alert-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-seoul-s-1976-ufo-alert-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,137 +704,136 @@ In the broader history of UFO reports in the [Republic of Korea]({{ 'republic-of
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: an attempt to shoot down a ufo over seoul in 1976  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14vt0it/an_attempt_to_shoot_down_a_ufo_over_seoul_in_1976/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14vt0it/an_attempt_to_shoot_down_a_ufo_over_seoul_in_1976/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An attempt to shoot down a UFO over Seoul in 1976....How come there aren&#x27;t UFO sightings in Korea? Has anyone seen... r/UFOs - On...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14vt0it/an_attempt_to_shoot_down_a_ufo_over_seoul_in_1976/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14vt0it/an_attempt_to_shoot_down_a_ufo_over_seoul_in_1976/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An attempt to shoot down a UFO over Seoul in 1976....How come there aren&#x27;t UFO sightings in Korea? Has anyone seen... r/UFOs - On...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: new claims about immovable ufo craft in korea and the usa we are reporting on n  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-new-claims-about-immovable-ufo-craft-in-korea-and-the-usa-we-are-reporting-on-n/894982216668773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-new-claims-about-immovable-ufo-craft-in-korea-and-the-usa-we-are-reporting-on-n/894982216668773/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 New Claims About Immovable UFO Craft in Korea and...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw the m...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-new-claims-about-immovable-ufo-craft-in-korea-and-the-usa-we-are-reporting-on-n/894982216668773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-new-claims-about-immovable-ufo-craft-in-korea-and-the-usa-we-are-reporting-on-n/894982216668773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 New Claims About Immovable UFO Craft in Korea and...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw the m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cybernews.com  
-   Link: <a href="https://cybernews.com/news/eric-burlison-ufo-uap-disclosure-seoul/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/eric-burlison-ufo-uap-disclosure-seoul/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison claims a giant UFO is hidden overseasFeb 19, 2026 — Evidence photos of giant dome UFO sites in the Korean mountains...</p></details>
+   Link:<a href="https://cybernews.com/news/eric-burlison-ufo-uap-disclosure-seoul/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/eric-burlison-ufo-uap-disclosure-seoul/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison claims a giant UFO is hidden overseasFeb 19, 2026 — Evidence photos of giant dome UFO sites in the Korean mountains...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up...Read more...</p></details>
+   Link:<a href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1dfhcyw/many_witnesses_reported_many_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1dfhcyw/many_witnesses_reported_many_unidentified_flying/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>said that a secret facility near Seoul was built into a...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1dfhcyw/many_witnesses_reported_many_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1dfhcyw/many_witnesses_reported_many_unidentified_flying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>said that a secret facility near Seoul was built into a...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: on october 14 1976 over seoul six million  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qdykw6/on_october_14_1976_over_seoul_six_million/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qdykw6/on_october_14_1976_over_seoul_six_million/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On October 14, 1976, over Seoul, six million witnesses saw...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 2mo ago...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1qdykw6/on_october_14_1976_over_seoul_six_million/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qdykw6/on_october_14_1976_over_seoul_six_million/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On October 14, 1976, over Seoul, six million witnesses saw...Why do most UFO/alien incidents seem to come from the US? r/UFOs. • 2mo ago...</p></details>
    Published: October 14, 1976  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancientsecrets/posts/614209660840974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientsecrets/posts/614209660840974/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Steven Greer Claims Enormous UFO is Concealed in...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ancientsecrets/posts/614209660840974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientsecrets/posts/614209660840974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Steven Greer Claims Enormous UFO is Concealed in...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: uncover the secret history of 3 ufo crash sites and the bizarre phenomena they e  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncover the secret history of 3 UFO crash sites... UFO as people all over the area also reported UFOs. In 1976, multiple witnesses report...</p></details>
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncover the secret history of 3 UFO crash sites... UFO as people all over the area also reported UFOs. In 1976, multiple witnesses report...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: dr steven greer has repeated a claim which he attributes to an unnamed pentagon  
-   Link: <a href="https://www.facebook.com/thescarecast/posts/dr-steven-greer-has-repeated-a-claim-which-he-attributes-to-an-unnamed-pentagon-/1766553357852964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/posts/dr-steven-greer-has-repeated-a-claim-which-he-attributes-to-an-unnamed-pentagon-/1766553357852964/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Greer has repeated a claim, which he attributes...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw th...</p></details>
+   Link:<a href="https://www.facebook.com/thescarecast/posts/dr-steven-greer-has-repeated-a-claim-which-he-attributes-to-an-unnamed-pentagon-/1766553357852964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/posts/dr-steven-greer-has-repeated-a-claim-which-he-attributes-to-an-unnamed-pentagon-/1766553357852964/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Greer has repeated a claim, which he attributes...&quot; 1976 UFO Incident: A notable event in 1976 where six million witnesses saw th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: Across the country, Americans were constantly looking up  
-   Link: <a href="https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings officially reported to the U.S. Air Force jumped from 23 to 148.... Multiple UFOs appeared over the presidential residence...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/across-the-country-americans-were-constantly-looking-up-the-red-scare-churned-on/1248389627153686/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings officially reported to the U.S. Air Force jumped from 23 to 148.... Multiple UFOs appeared over the presidential residence...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cybernews.com  
    Title: The Cosmic Report: The X Files  
-   Link: <a href="https://cybernews.com/science/the-x-files-the-cosmic-report/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/science/the-x-files-the-cosmic-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a weekly space round-up18 Jan 2026 — From moon hotels and billionaire space tourism to SETI&#x27;s 21-year search for alien technosignatures...</p></details>
+   Link:<a href="https://cybernews.com/science/the-x-files-the-cosmic-report/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/science/the-x-files-the-cosmic-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a weekly space round-up18 Jan 2026 — From moon hotels and billionaire space tourism to SETI&#x27;s 21-year search for alien technosignatures...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The effect of this secrecy has been to leave the average American to face our visitors alone and in total...Read more...</p></details>
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The effect of this secrecy has been to leave the average American to face our visitors alone and in total...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.noticiasufologicas.com.br  
-   Link: <a href="https://en.noticiasufologicas.com.br/em-1976-disparos-antiaereos-em-seul-duraram-quase-2-horas-sem-acertos-contra-objetos-na-direcao-da-residencia-presidencial/" target="_blank" rel="noopener noreferrer nofollow">https://en.noticiasufologicas.com.br/em-1976-disparos-antiaereos-em-seul-duraram-quase-2-horas-sem-acertos-contra-objetos-na-direcao-da-residencia-presidencial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias UfológicasIn 1976, anti-aircraft fire in Seoul lasted almost 2 hours, without...In 1976, anti-aircraft fire in Seoul lasted alm...</p></details>
+   Link:<a href="https://en.noticiasufologicas.com.br/em-1976-disparos-antiaereos-em-seul-duraram-quase-2-horas-sem-acertos-contra-objetos-na-direcao-da-residencia-presidencial/" target="_blank" rel="noopener noreferrer nofollow">https://en.noticiasufologicas.com.br/em-1976-disparos-antiaereos-em-seul-duraram-quase-2-horas-sem-acertos-contra-objetos-na-direcao-da-residencia-presidencial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias UfológicasIn 1976, anti-aircraft fire in Seoul lasted almost 2 hours, without...In 1976, anti-aircraft fire in Seoul lasted alm...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports During the Korean War | PDFAmerican Pilots Report UFOs over Korea This chapter presents 30 UFO sighting reports that were mad...</p></details>
+   Link:<a href="https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/239457098/Advanced-Aerial-Devices-Richard-Haines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reports During the Korean War | PDFAmerican Pilots Report UFOs over Korea This chapter presents 30 UFO sighting reports that were mad...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: threads.com  
-   Link: <a href="https://www.threads.com/%40ufos.official/post/DTjiWxFFGjf/video-on-october-over-seoul-six-million-witnesses-saw-military-firing-anti-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40ufos.official/post/DTjiWxFFGjf/video-on-october-over-seoul-six-million-witnesses-saw-military-firing-anti-aircraft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anti-aircraft guns at 12 UFOs near... 1964 UFO Incident: Robert Jacobs Explains How UFO Destroyed Missile at Vandenberg AFB UFO...Read...</p></details>
+   Link:<a href="https://www.threads.com/%40ufos.official/post/DTjiWxFFGjf/video-on-october-over-seoul-six-million-witnesses-saw-military-firing-anti-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40ufos.official/post/DTjiWxFFGjf/video-on-october-over-seoul-six-million-witnesses-saw-military-firing-anti-aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anti-aircraft guns at 12 UFOs near... 1964 UFO Incident: Robert Jacobs Explains How UFO Destroyed Missile at Vandenberg AFB UFO...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asiae.co.kr  
    Title: 아시아경제Anti-aircraft fire over Seoul skies Bullet pierces shoulder  
-   Link: <a href="https://www.asiae.co.kr/en/article/2020110814451833079" target="_blank" rel="noopener noreferrer nofollow">https://www.asiae.co.kr/en/article/2020110814451833079</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 8, 2020 — &quot;Anti-aircraft fire over Seoul skies Bullet pierces shoulder... Witnesses recount the &#x27;Cheongwadae UFO&#x27; incident [Unanswere...</p></details>
+   Link:<a href="https://www.asiae.co.kr/en/article/2020110814451833079" target="_blank" rel="noopener noreferrer nofollow">https://www.asiae.co.kr/en/article/2020110814451833079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 8, 2020 — &quot;Anti-aircraft fire over Seoul skies Bullet pierces shoulder... Witnesses recount the &#x27;Cheongwadae UFO&#x27; incident [Unanswere...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: origins.osu.edu  
-   Link: <a href="https://origins.osu.edu/watch" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Events in Historical PerspectiveHeadquartered at Wright Patterson Air Force Base near Dayton, OH, Project Blue Book, the...</p></details>
+   Link:<a href="https://origins.osu.edu/watch" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Current Events in Historical PerspectiveHeadquartered at Wright Patterson Air Force Base near Dayton, OH, Project Blue Book, the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nonproliferation.org  
    Title: 180409 nc3 is there a ghost in the machine  
-   Link: <a href="https://www.nonproliferation.org/wp-content/uploads/2018/04/180409-nc3-is-there-a-ghost-in-the-machine.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nonproliferation.org/wp-content/uploads/2018/04/180409-nc3-is-there-a-ghost-in-the-machine.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>false alarm, software test simulating missile launch... missile fired on · November 7 from offshore Los Angeles. Social Media Storm. Ali...</p></details>
+   Link:<a href="https://www.nonproliferation.org/wp-content/uploads/2018/04/180409-nc3-is-there-a-ghost-in-the-machine.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nonproliferation.org/wp-content/uploads/2018/04/180409-nc3-is-there-a-ghost-in-the-machine.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>false alarm, software test simulating missile launch... missile fired on · November 7 from offshore Los Angeles. Social Media Storm. Ali...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: List of reported UFO sightings  
-   Link: <a href="https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgUser:Yann/List of reported UFO sightingsThis is a partial list by date of sightings of alleged unidentified flying objects (...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/User%3AYann/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgUser:Yann/List of reported UFO sightingsThis is a partial list by date of sightings of alleged unidentified flying objects (...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... alien in origin, unrelated to astrobiology or xenobiology. List of UFO religions · List of investiga...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... alien in origin, unrelated to astrobiology or xenobiology. List of UFO religions · List of investiga...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: laseoulite.substack.com  
    Title: ufo incidents in korea  
-   Link: <a href="https://laseoulite.substack.com/p/ufo-incidents-in-korea" target="_blank" rel="noopener noreferrer nofollow">https://laseoulite.substack.com/p/ufo-incidents-in-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidents in Korea - by LA Seoulite... alien craft. There is a famous UFO incident that happened in 1994 in Zimbabwe, involving over 60 s...</p></details>
+   Link:<a href="https://laseoulite.substack.com/p/ufo-incidents-in-korea" target="_blank" rel="noopener noreferrer nofollow">https://laseoulite.substack.com/p/ufo-incidents-in-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incidents in Korea - by LA Seoulite... alien craft. There is a famous UFO incident that happened in 1994 in Zimbabwe, involving over 60 s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: michaelorganresearch.blogspot.com  
    Title: imgok ro flying saucer  
-   Link: <a href="https://michaelorganresearch.blogspot.com/2024/09/imgok-ro-flying-saucer.html" target="_blank" rel="noopener noreferrer nofollow">https://michaelorganresearch.blogspot.com/2024/09/imgok-ro-flying-saucer.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the strangest story about about aliens, YouTube, 12 September 2024, duration: 30 seconds. South Korean UFOs, Richard...Read more...</p></details>
+   Link:<a href="https://michaelorganresearch.blogspot.com/2024/09/imgok-ro-flying-saucer.html" target="_blank" rel="noopener noreferrer nofollow">https://michaelorganresearch.blogspot.com/2024/09/imgok-ro-flying-saucer.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the strangest story about about aliens, YouTube, 12 September 2024, duration: 30 seconds. South Korean UFOs, Richard...Read more...</p></details>
    Published: September 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=okSt3YGgX_4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=okSt3YGgX_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korean Blue House 1976 sighting may connect to Ross Coulthart&#x27;s massive UFO story - Psicoactivo #792...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=okSt3YGgX_4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=okSt3YGgX_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korean Blue House 1976 sighting may connect to Ross Coulthart&#x27;s massive UFO story - Psicoactivo #792...</p></details>

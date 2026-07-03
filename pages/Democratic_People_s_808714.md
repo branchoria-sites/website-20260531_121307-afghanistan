@@ -1194,37 +1194,37 @@ image: /assets/images/Democratic_People_s_808714-overview-social.jpg
 
 ## Why DPRK UFO Evidence Is So Sparse
 
-The DPRK is a difficult environment for any civilian sighting record. Independent journalism is banned or effectively impossible, ordinary domestic reporting is controlled by the state, and foreign observers are tightly constrained. Reporters Without Borders ranked North Korea 179th out of 180 countries and territories in its 2026 regional press-freedom assessment, describing independent journalism there as banned outright. Human Rights Watch likewise describes the country as one of the world’s most repressive states, with severe controls over movement, speech and access to outside information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The DPRK is a difficult environment for any civilian sighting record. Independent journalism is banned or effectively impossible, ordinary domestic reporting is controlled by the state, and foreign observers are tightly constrained. Reporters Without Borders ranked North Korea 179th out of 180 countries and territories in its 2026 regional press-freedom assessment, describing independent journalism there as banned outright. Human Rights Watch likewise describes the country as one of the world’s most repressive states, with severe controls over movement, speech and access to outside information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Democratic_People_s_808714-overview.webp" | relative_url }}" alt="Overview image for Democratic People s Republic of Korea" loading="eager" decoding="sync" fetchpriority="high">
-That means the usual UFO evidence trail — local newspaper accounts, police logs, civilian aviation reports, amateur skywatching groups, photographs, interviews and follow-up by independent researchers — is mostly absent. Where reports do exist, they often come from outsiders: US military personnel during the Korean War, South Korean defence sources near the Demilitarised Zone, foreign news agencies, or later UFO organisations preserving interviews and clippings. This does not make every report false, but it does mean the DPRK record is structurally biased towards military observations and border-security incidents rather than ordinary civilian sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[2Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span>
+That means the usual UFO evidence trail — local newspaper accounts, police logs, civilian aviation reports, amateur skywatching groups, photographs, interviews and follow-up by independent researchers — is mostly absent. Where reports do exist, they often come from outsiders: US military personnel during the Korean War, South Korean defence sources near the Demilitarised Zone, foreign news agencies, or later UFO organisations preserving interviews and clippings. This does not make every report false, but it does mean the DPRK record is structurally biased towards military observations and border-security incidents rather than ordinary civilian sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[2Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span>
 
-The other complication is that the sky over and around North Korea is heavily militarised. Aircraft, artillery, missiles, drones, balloons, radar tracks, birds over the DMZ, satellite launches and propaganda devices all create objects that may be unidentified at first contact. Recent inter-Korean disputes over drones and balloons show how quickly an “unknown object” in Korean airspace becomes a sovereignty and military-security issue rather than a neutral scientific puzzle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">North Korea says it recovered crashed South Korean military drone, KCNA says</span><span class="citation-popover-snippet">North Korea says it recovered crashed South Korean military drone, KCNA says</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+The other complication is that the sky over and around North Korea is heavily militarised. Aircraft, artillery, missiles, drones, balloons, radar tracks, birds over the DMZ, satellite launches and propaganda devices all create objects that may be unidentified at first contact. Recent inter-Korean disputes over drones and balloons show how quickly an “unknown object” in Korean airspace becomes a sovereignty and military-security issue rather than a neutral scientific puzzle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">North Korea says it recovered crashed South Korean military drone, KCNA says</span><span class="citation-popover-snippet">North Korea says it recovered crashed South Korean military drone, KCNA says</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 ## The Core Chronology: A Small Number of High-Value Cases
 
 ### Spring 1951: the Chorwon or Iron Triangle “attack” claim
 
-The best-known contested ground case linked to what is now the North Korean theatre is the account of Francis P. Wall, a US Army private first class who said his unit saw and fired at a strange orange object near Chorwon during the Korean War. A later History article summarises the claim as a May 1951 episode in which Wall’s unit, operating near Chorwon about 60 miles north of Seoul, saw an object compared to a “jack-o-lantern” moving across the mountains, followed by illness among soldiers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When Dozens of Korean War GIs Claimed a UFO Made</span><span class="citation-popover-snippet">When Dozens of Korean War GIs Claimed a UFO Made</span></span></span>
+The best-known contested ground case linked to what is now the North Korean theatre is the account of Francis P. Wall, a US Army private first class who said his unit saw and fired at a strange orange object near Chorwon during the Korean War. A later History article summarises the claim as a May 1951 episode in which Wall’s unit, operating near Chorwon about 60 miles north of Seoul, saw an object compared to a “jack-o-lantern” moving across the mountains, followed by illness among soldiers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When Dozens of Korean War GIs Claimed a UFO Made</span><span class="citation-popover-snippet">When Dozens of Korean War GIs Claimed a UFO Made</span></span></span>
 
-The primary difficulty is timing and documentation. The case became widely known through a 1987 interview conducted decades after the alleged event, not through an immediately available 1951 official investigation file. Rice University’s Woodson Research Center catalogue confirms the existence of a 1987 audio item in the Richard F. Haines Ufology papers: an interview concerning a spring 1951 Korea UFO sighting, with Francis P. Wall named as the witness and the Iron Triangle as the location. That archival existence matters, but it confirms the later interview record rather than independently proving the full event as described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
+The primary difficulty is timing and documentation. The case became widely known through a 1987 interview conducted decades after the alleged event, not through an immediately available 1951 official investigation file. Rice University’s Woodson Research Center catalogue confirms the existence of a 1987 audio item in the Richard F. Haines Ufology papers: an interview concerning a spring 1951 Korea UFO sighting, with Francis P. Wall named as the witness and the Iron Triangle as the location. That archival existence matters, but it confirms the later interview record rather than independently proving the full event as described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
 
-For a DPRK-focused chronology, this case should be treated as **contested**. It is relevant because the Iron Triangle was a major Korean War combat zone close to the later North–South military frontier, and because the story has become part of Korean War UFO lore. It is not as strong as the Wonsan–Sunchon bomber reports because its public evidentiary base rests heavily on retrospective testimony, later ufological preservation and popular retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Open source on history.com.</span></span></span>
+For a DPRK-focused chronology, this case should be treated as **contested**. It is relevant because the Iron Triangle was a major Korean War combat zone close to the later North–South military frontier, and because the story has become part of Korean War UFO lore. It is not as strong as the Wonsan–Sunchon bomber reports because its public evidentiary base rests heavily on retrospective testimony, later ufological preservation and popular retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Open source on history.com.</span></span></span>
 
 <img src="{{ "/assets/images/Democratic_People_s_808714-Illustration-1-dark.svg" | relative_url }}" alt="Democratic People s Republic of Korea illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 29 January 1952: Wonsan and Sunchon bomber reports
 
-The most important DPRK-scope UFO incident is the Wonsan–Sunchon case of 29 January 1952. Contemporary press material preserved by Project 1947 reports that the US Air Force disclosed sightings by crew members of two US bombers over Korea, describing objects resembling “flying discs” or bright orange globe-shaped lights. The incident is significant because Wonsan and Sunchon are in northern Korea, because the observers were military aircrew, and because the report entered the early Cold War atmosphere in which unknown aerial objects were assessed partly as possible hostile technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important DPRK-scope UFO incident is the Wonsan–Sunchon case of 29 January 1952. Contemporary press material preserved by Project 1947 reports that the US Air Force disclosed sightings by crew members of two US bombers over Korea, describing objects resembling “flying discs” or bright orange globe-shaped lights. The incident is significant because Wonsan and Sunchon are in northern Korea, because the observers were military aircrew, and because the report entered the early Cold War atmosphere in which unknown aerial objects were assessed partly as possible hostile technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Later summaries identify two related observations. One B-29 crew near Wonsan reportedly saw an orange luminous sphere or disc with a blue-flame effect, while a second crew near Sunchon reported a similar orange sphere following the aircraft for roughly a minute. Brad Sparks’s catalogue of Project Blue Book “unknowns” lists entries for 29 January 1952 near Wonsan and Sunchon, describing orange luminous objects seen by USAF B-29 crews at around 20,000 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span>
+Later summaries identify two related observations. One B-29 crew near Wonsan reportedly saw an orange luminous sphere or disc with a blue-flame effect, while a second crew near Sunchon reported a similar orange sphere following the aircraft for roughly a minute. Brad Sparks’s catalogue of Project Blue Book “unknowns” lists entries for 29 January 1952 near Wonsan and Sunchon, describing orange luminous objects seen by USAF B-29 crews at around 20,000 feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span>
 
-This case is best classified as **confirmed as a historical UFO report, not confirmed as extraordinary technology**. The distinction matters. The documentary trail supports that trained aircrew reported unidentified lights and that the US Air Force took the reports seriously enough to investigate. It does not establish that the objects were non-human craft, advanced Soviet devices, plasma phenomena, or any other specific explanation. The National Archives notes that Project Blue Book was declassified and that, from 1947 to 1969, 12,618 sightings were reported to the project, with 701 left “Unidentified”; “unidentified” in this archival sense means unresolved from available data, not proved exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+This case is best classified as **confirmed as a historical UFO report, not confirmed as extraordinary technology**. The distinction matters. The documentary trail supports that trained aircrew reported unidentified lights and that the US Air Force took the reports seriously enough to investigate. It does not establish that the objects were non-human craft, advanced Soviet devices, plasma phenomena, or any other specific explanation. The National Archives notes that Project Blue Book was declassified and that, from 1947 to 1969, 12,618 sightings were reported to the project, with 701 left “Unidentified”; “unidentified” in this archival sense means unresolved from available data, not proved exotic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 ### 1952–1953: Korean War reports and the wider Blue Book problem
 
-The Wonsan–Sunchon sighting sits inside a broader Korean War and early Project Blue Book context. Searchable Blue Book and ufology archives contain multiple Korea-related entries, including military aircrew observations and later catalogues of cases treated as unresolved. NICAP’s Project Blue Book history describes the early 1950s as a period of increasing official attention before the large 1952 UFO wave, while Blue Book-related catalogues preserve references to Korean War cases beyond the best-known Wonsan–Sunchon episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The Wonsan–Sunchon sighting sits inside a broader Korean War and early Project Blue Book context. Searchable Blue Book and ufology archives contain multiple Korea-related entries, including military aircrew observations and later catalogues of cases treated as unresolved. NICAP’s Project Blue Book history describes the early 1950s as a period of increasing official attention before the large 1952 UFO wave, while Blue Book-related catalogues preserve references to Korean War cases beyond the best-known Wonsan–Sunchon episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The Korean War setting raises both the interest level and the error risk. On the one hand, trained crews, radar operators and combat personnel were often experienced observers with immediate reason to report unusual aerial phenomena. On the other hand, wartime skies included aircraft, flak, searchlights, weather effects, burning debris, electronic countermeasures, stress, fatigue and incomplete positional data. Modern official UAP analysis repeatedly stresses the same problem: without reliable distance, size, altitude, speed and sensor context, an object can remain genuinely unidentified without being physically anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The Korean War setting raises both the interest level and the error risk. On the one hand, trained crews, radar operators and combat personnel were often experienced observers with immediate reason to report unusual aerial phenomena. On the other hand, wartime skies included aircraft, flak, searchlights, weather effects, burning debris, electronic countermeasures, stress, fatigue and incomplete positional data. Modern official UAP analysis repeatedly stresses the same problem: without reliable distance, size, altitude, speed and sensor context, an object can remain genuinely unidentified without being physically anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OzC3Fg_rRJM" title="&quot;War of the Worlds&quot; 1938 Radio Broadcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OzC3Fg_rRJM" target="_blank" rel="noopener noreferrer">&quot;War of the Worlds&quot; 1938 Radio Broadcast</a></p><p class="youtube-embed-meta">Channel: Freedom Forum &middot; Views: 1.2M &middot; Uploaded: October 2011 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OzC3Fg_rRJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OzC3Fg_rRJM">Open on YouTube</a></p></div></div></div>
 
@@ -1232,261 +1232,261 @@ The Korean War setting raises both the interest level and the error risk. On the
 
 The DPRK-related record is not evenly distributed across the country. It clusters in places where outsiders had visibility, where military operations were intense, or where modern border surveillance produces alerts.
 
-**Wonsan and Sunchon** dominate the historical record because they were observed from the air by US bomber crews in 1952. These were not civilian town-square sightings; they were wartime aerial observations over northern Korea, recorded through US military and press channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Wonsan and Sunchon** dominate the historical record because they were observed from the air by US bomber crews in 1952. These were not civilian town-square sightings; they were wartime aerial observations over northern Korea, recorded through US military and press channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**The Iron Triangle and Chorwon area** matters because it produced the most dramatic ground-witness narrative, but that narrative is much weaker as a contemporaneous evidentiary file. It survives chiefly through a later interview and subsequent ufological and popular accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
+**The Iron Triangle and Chorwon area** matters because it produced the most dramatic ground-witness narrative, but that narrative is much weaker as a contemporaneous evidentiary file. It survives chiefly through a later interview and subsequent ufological and popular accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
 
-**The DMZ and border belt** produce modern “unidentified object” stories, but these are usually military-security incidents rather than classic UFO cases. In July 2019, South Korea scrambled aircraft after detecting an unidentified object near the DMZ; officials later said the radar trace was a flock of about 20 birds. This is a useful debunked case because it shows how quickly a real defence alert can turn into a UFO headline before mundane identification catches up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**The DMZ and border belt** produce modern “unidentified object” stories, but these are usually military-security incidents rather than classic UFO cases. In July 2019, South Korea scrambled aircraft after detecting an unidentified object near the DMZ; officials later said the radar trace was a flock of about 20 birds. This is a useful debunked case because it shows how quickly a real defence alert can turn into a UFO headline before mundane identification catches up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Pyongyang and major military sites** appear mainly in modern drone and propaganda disputes, not in credible civilian UFO archives. In October 2024, North Korea claimed South Korean drones had scattered leaflets over Pyongyang and later said it had recovered a crashed South Korean military drone; Reuters reported that South Korea declined to confirm or denied the framing, while a South Korean lawmaker said the drone shown resembled a South Korean-made model. These episodes belong more to drone warfare and psychological operations than to anomalous-phenomena research, but they help explain why DPRK airspace claims are politically loaded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+**Pyongyang and major military sites** appear mainly in modern drone and propaganda disputes, not in credible civilian UFO archives. In October 2024, North Korea claimed South Korean drones had scattered leaflets over Pyongyang and later said it had recovered a crashed South Korean military drone; Reuters reported that South Korea declined to confirm or denied the framing, while a South Korean lawmaker said the drone shown resembled a South Korean-made model. These episodes belong more to drone warfare and psychological operations than to anomalous-phenomena research, but they help explain why DPRK airspace claims are politically loaded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 <img src="{{ "/assets/images/Democratic_People_s_808714-Illustration-2-dark.svg" | relative_url }}" alt="Democratic People s Republic of Korea illustration 2" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Records and Archives: What Exists
 
-There is no known public DPRK equivalent of Project Blue Book: no accessible national UFO archive, no transparent civilian reporting channel, and no independent domestic research infrastructure comparable to groups in more open societies. The accessible official record for DPRK-scope UFO cases is therefore largely external, especially US Air Force and US archival material from the Korean War period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+There is no known public DPRK equivalent of Project Blue Book: no accessible national UFO archive, no transparent civilian reporting channel, and no independent domestic research infrastructure comparable to groups in more open societies. The accessible official record for DPRK-scope UFO cases is therefore largely external, especially US Air Force and US archival material from the Korean War period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The National Archives states that Project Blue Book records were retired to its custody, declassified, and made available for examination, while Fold3’s digitised publication describes NARA T1206 as “records and case files relating to investigations of sightings of unidentified flying objects” from 1947 to 1969. These archives are central for Korean War cases because US forces generated many of the surviving reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The National Archives states that Project Blue Book records were retired to its custody, declassified, and made available for examination, while Fold3’s digitised publication describes NARA T1206 as “records and case files relating to investigations of sightings of unidentified flying objects” from 1947 to 1969. These archives are central for Korean War cases because US forces generated many of the surviving reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-CIA Reading Room material also preserves UFO-related documents and references to Project Blue Book, including declassified files connected to US government UFO interest and later private or congressional pressure for release. The CIA’s own historical study of its role in UFO matters describes agency interest from the late 1940s onward, shaped by Cold War concerns that UFO reports might involve foreign technology, public panic or intelligence vulnerabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100010001 0</span><span class="citation-popover-snippet">cia rdp81r00560r000100010001 0</span></span></span>
+CIA Reading Room material also preserves UFO-related documents and references to Project Blue Book, including declassified files connected to US government UFO interest and later private or congressional pressure for release. The CIA’s own historical study of its role in UFO matters describes agency interest from the late 1940s onward, shaped by Cold War concerns that UFO reports might involve foreign technology, public panic or intelligence vulnerabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100010001 0</span><span class="citation-popover-snippet">cia rdp81r00560r000100010001 0</span></span></span>
 
-For readers assessing DPRK claims, the most useful archival rule is simple: a case is stronger when it has a date, location, named observing platform, contemporaneous reporting chain, and surviving official or institutional record. By that standard, Wonsan–Sunchon is the strongest DPRK-scope case; the Chorwon “attack” account is historically interesting but more contested; modern anonymous database pages or unsourced social media claims are weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
+For readers assessing DPRK claims, the most useful archival rule is simple: a case is stronger when it has a date, location, named observing platform, contemporaneous reporting chain, and surviving official or institutional record. By that standard, Wonsan–Sunchon is the strongest DPRK-scope case; the Chorwon “attack” account is historically interesting but more contested; modern anonymous database pages or unsourced social media claims are weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
 
 ## Confirmed, Contested and Debunked Claims
 
 ### Confirmed as records, not as alien events
 
-The Wonsan–Sunchon reports are confirmed in the limited but important sense that they are part of the historical UFO-report record. Contemporary press accounts, later catalogues and Blue Book-related references agree on the basic frame: US bomber crews reported orange luminous objects over northern Korea in January 1952. What remains unconfirmed is the identity of the objects and any claim that they represented non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Wonsan–Sunchon reports are confirmed in the limited but important sense that they are part of the historical UFO-report record. Contemporary press accounts, later catalogues and Blue Book-related references agree on the basic frame: US bomber crews reported orange luminous objects over northern Korea in January 1952. What remains unconfirmed is the identity of the objects and any claim that they represented non-human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This distinction aligns with modern official UAP language. AARO, the US All-domain Anomaly Resolution Office, states that examination of UAP sightings is ongoing but that the Department of Defense has found no evidence of extraterrestrial technology. Reuters similarly reported that the 2024 Pentagon historical review found no evidence of extraterrestrial technology and that many past sightings were ordinary objects or phenomena, with better data likely to resolve many remaining cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+This distinction aligns with modern official UAP language. AARO, the US All-domain Anomaly Resolution Office, states that examination of UAP sightings is ongoing but that the Department of Defense has found no evidence of extraterrestrial technology. Reuters similarly reported that the 2024 Pentagon historical review found no evidence of extraterrestrial technology and that many past sightings were ordinary objects or phenomena, with better data likely to resolve many remaining cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vs-7ufYdcJs" title="North Korean Refugee Story: Sleep Well, My Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vs-7ufYdcJs" target="_blank" rel="noopener noreferrer">North Korean Refugee Story: Sleep Well, My Baby</a></p><p class="youtube-embed-meta">Channel: Liberty in North Korea &middot; Views: 25.3K &middot; Uploaded: October 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vs-7ufYdcJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vs-7ufYdcJs">Open on YouTube</a></p></div></div></div>
 
 ### Contested but culturally persistent
 
-The Francis P. Wall / Chorwon account is the clearest contested DPRK-adjacent case. It has a named witness, a military-unit context and an archived 1987 interview record, but its extraordinary details are not supported in the public record by a contemporaneous official case file of equal strength. The case should be presented as Korean War UFO folklore with some traceable witness documentation, not as a settled military-medical mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
+The Francis P. Wall / Chorwon account is the clearest contested DPRK-adjacent case. It has a named witness, a military-unit context and an archived 1987 interview record, but its extraordinary details are not supported in the public record by a contemporaneous official case file of equal strength. The case should be presented as Korean War UFO folklore with some traceable witness documentation, not as a settled military-medical mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
 
-Some online databases and UFO sites list North Korea sightings in broad terms, but their evidentiary value varies widely. A page may invite reports or assert that North Korean sightings exist without publishing verifiable dates, primary documents, witness names, photographs or investigation notes. Such entries are useful as signs of public interest, not as strong incident evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Some online databases and UFO sites list North Korea sightings in broad terms, but their evidentiary value varies widely. A page may invite reports or assert that North Korean sightings exist without publishing verifiable dates, primary documents, witness names, photographs or investigation notes. Such entries are useful as signs of public interest, not as strong incident evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### Debunked or conventionally explained
 
-The July 2019 DMZ alert is the clearest modern debunked case. South Korean forces initially treated a radar trace near the border as an unidentified object, reportedly deploying aircraft, but officials later said it was a flock of birds. ABC News quoted a South Korean Joint Chiefs of Staff officer saying the trace was made by around 20 birds, and other outlets reported the same correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The July 2019 DMZ alert is the clearest modern debunked case. South Korean forces initially treated a radar trace near the border as an unidentified object, reportedly deploying aircraft, but officials later said it was a flock of birds. ABC News quoted a South Korean Joint Chiefs of Staff officer saying the trace was made by around 20 birds, and other outlets reported the same correction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Modern drone and balloon incidents are different: they may remain politically disputed, but they are not good evidence of anomalous craft. North Korea’s 2024 claims about South Korean drones over Pyongyang, South Korea’s refusal to confirm the allegation, and the wider exchange of propaganda balloons are all better understood within military signalling, reconnaissance, leaflet operations and inter-Korean escalation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">North Korea&#x27;s Kim Jong Un oversees tests of &#x27;suicide drones</span><span class="citation-popover-snippet">North Korea&#x27;s Kim Jong Un oversees tests of &#x27;suicide drones</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This marks one of the first public announcements by North Korea of integrating AI into missile terminal guidance systems, enhancing targe...</span></span></span>
+Modern drone and balloon incidents are different: they may remain politically disputed, but they are not good evidence of anomalous craft. North Korea’s 2024 claims about South Korean drones over Pyongyang, South Korea’s refusal to confirm the allegation, and the wider exchange of propaganda balloons are all better understood within military signalling, reconnaissance, leaflet operations and inter-Korean escalation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">North Korea&#x27;s Kim Jong Un oversees tests of &#x27;suicide drones</span><span class="citation-popover-snippet">North Korea&#x27;s Kim Jong Un oversees tests of &#x27;suicide drones</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This marks one of the first public announcements by North Korea of integrating AI into missile terminal guidance systems, enhancing targe...</span></span></span>
 
 <img src="{{ "/assets/images/Democratic_People_s_808714-Illustration-3-dark.svg" | relative_url }}" alt="Democratic People s Republic of Korea illustration 3" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Plausible Explanations Fit the DPRK Record?
 
-For the Korean War cases, several conventional or semi-conventional explanations remain plausible without being proved. Aircraft lights, flares, reflections, gunfire effects, atmospheric distortion, burning debris, searchlights, misjudged distance, stress and fatigue all fit the wartime environment. Cold War analysts also had reason to consider hostile technology, because early UFO concern often overlapped with fear of Soviet aircraft, missiles or reconnaissance systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For the Korean War cases, several conventional or semi-conventional explanations remain plausible without being proved. Aircraft lights, flares, reflections, gunfire effects, atmospheric distortion, burning debris, searchlights, misjudged distance, stress and fatigue all fit the wartime environment. Cold War analysts also had reason to consider hostile technology, because early UFO concern often overlapped with fear of Soviet aircraft, missiles or reconnaissance systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For modern border cases, the explanation set is narrower and more terrestrial: drones, balloons, birds, military aircraft, missile tests and surveillance platforms. North Korea has publicly tested drones, including explosive drones, and has accused South Korea of drone incursions; South Korea and international media have also reported North Korean balloon launches carrying rubbish or propaganda-related payloads. These are exactly the kinds of objects that generate urgent “unidentified” alerts before identification is complete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+For modern border cases, the explanation set is narrower and more terrestrial: drones, balloons, birds, military aircraft, missile tests and surveillance platforms. North Korea has publicly tested drones, including explosive drones, and has accused South Korea of drone incursions; South Korea and international media have also reported North Korean balloon launches carrying rubbish or propaganda-related payloads. These are exactly the kinds of objects that generate urgent “unidentified” alerts before identification is complete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-The DPRK’s own missile and drone programmes add another layer. Reuters reported in May 2026 that North Korea had tested a mix of weapons including AI-guided precision cruise missiles and long-range artillery rockets, according to state media, while South Korea confirmed multiple projectile launches. In such an environment, unusual lights or tracks over North Korea are more likely to be interpreted first through defence and intelligence frameworks than through civilian anomalous-phenomena reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">north korea blames souths military drone intrusion 2024 10 27</span><span class="citation-popover-snippet">north korea blames souths military drone intrusion 2024 10 27</span></span></span>
+The DPRK’s own missile and drone programmes add another layer. Reuters reported in May 2026 that North Korea had tested a mix of weapons including AI-guided precision cruise missiles and long-range artillery rockets, according to state media, while South Korea confirmed multiple projectile launches. In such an environment, unusual lights or tracks over North Korea are more likely to be interpreted first through defence and intelligence frameworks than through civilian anomalous-phenomena reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">north korea blames souths military drone intrusion</span><span class="citation-popover-snippet">north korea blames souths military drone intrusion</span></span></span>
 
 ## How to Read DPRK UFO Claims Without Overcorrecting
 
-A sceptical approach does not require dismissing every report. The Wonsan–Sunchon case remains historically significant because trained military crews reported something they could not identify, and because the case became part of the early US Air Force UFO record. It is reasonable to treat it as a genuine unresolved report from a wartime setting. It is not reasonable to turn “unresolved” into “extraterrestrial” without stronger data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A sceptical approach does not require dismissing every report. The Wonsan–Sunchon case remains historically significant because trained military crews reported something they could not identify, and because the case became part of the early US Air Force UFO record. It is reasonable to treat it as a genuine unresolved report from a wartime setting. It is not reasonable to turn “unresolved” into “extraterrestrial” without stronger data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The reverse error is also common: assuming that because North Korea is closed, any missing evidence is being hidden. The information environment certainly prevents ordinary verification, but absence of open DPRK records does not automatically imply suppression of extraordinary UFO evidence. It may simply reflect state censorship, lack of independent media, lack of civilian reporting mechanisms, and the fact that many airborne anomalies near the peninsula are military or environmental. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The reverse error is also common: assuming that because North Korea is closed, any missing evidence is being hidden. The information environment certainly prevents ordinary verification, but absence of open DPRK records does not automatically imply suppression of extraordinary UFO evidence. It may simply reflect state censorship, lack of independent media, lack of civilian reporting mechanisms, and the fact that many airborne anomalies near the peninsula are military or environmental.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The best practical standard is to rank claims by traceability. Stronger DPRK-scope cases should have contemporaneous documentation, identifiable witnesses or units, a precise location, multiple independent channels, and a clear distinction between “unidentified at the time” and “unexplainable after investigation”. By that standard, the page’s evidence hierarchy is clear: Wonsan–Sunchon is the key historical case; Chorwon is a contested witness-centred case; the 2019 DMZ bird alert is a useful debunking example; recent drone and balloon disputes belong mainly to military-security analysis rather than UFO evidence. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
+The best practical standard is to rank claims by traceability. Stronger DPRK-scope cases should have contemporaneous documentation, identifiable witnesses or units, a precise location, multiple independent channels, and a clear distinction between “unidentified at the time” and “unexplainable after investigation”. By that standard, the page’s evidence hierarchy is clear: Wonsan–Sunchon is the key historical case; Chorwon is a contested witness-centred case; the 2019 DMZ bird alert is a useful debunking example; recent drone and balloon disputes belong mainly to military-security analysis rather than UFO evidence. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[Rice University Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-title">archival objects</span><span class="citation-popover-snippet">archival objects</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6ZI2TASWGMg" title="North Korea&#x27;s Kim Jong Un oversees tests of &#x27;suicide drones&#x27; | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6ZI2TASWGMg" target="_blank" rel="noopener noreferrer">North Korea&#x27;s Kim Jong Un oversees tests of &#x27;suicide drones&#x27; | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 16.9K &middot; Uploaded: August 2024 &middot; Length: 1 minute 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6ZI2TASWGMg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6ZI2TASWGMg">Open on YouTube</a></p></div></div></div>
 
 ## Linkage to the Wider Korea UFO Branch
 
-A DPRK UFO page naturally connects to sibling coverage of the Republic of Korea, the Korean Demilitarised Zone, Korean War sightings, Project Blue Book cases in East Asia, and modern drone or balloon incidents on the peninsula. The key interpretive difference is source access: South Korea has a far more open media and civil society environment, while DPRK-scope reports are usually mediated through foreign military, intelligence, archival or journalistic channels. That difference changes the evidence base before any individual sighting is even assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A DPRK UFO page naturally connects to sibling coverage of the Republic of Korea, the Korean Demilitarised Zone, Korean War sightings, Project Blue Book cases in East Asia, and modern drone or balloon incidents on the peninsula. The key interpretive difference is source access: South Korea has a far more open media and civil society environment, while DPRK-scope reports are usually mediated through foreign military, intelligence, archival or journalistic channels. That difference changes the evidence base before any individual sighting is even assessed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most useful way to understand the DPRK branch is therefore not as a hidden trove of alien encounters, but as a narrow, high-friction record where military history and information control dominate. Its strongest UFO material belongs to the Korean War and early Cold War; its modern “unidentified object” stories usually resolve into birds, drones, balloons, missiles or politically contested airspace claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What We Know About UFO Sightings in North Korea. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What We Know About UFO Sightings in North Korea. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating sparse military sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating sparse military sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the Korean War-era period central to North Korean UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the Korean War-era period central to North Korean UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official UFO investigations during the Cold War.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official UFO investigations during the Cold War.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Offers broader context for military and intelligence reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader context for military and intelligence reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1502,7 +1502,7 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1522,7 +1522,7 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1554,7 +1554,7 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1606,7 +1606,7 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1651,7 +1651,7 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1689,241 +1689,240 @@ The most useful way to understand the DPRK branch is therefore not as a hidden t
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
+   Link:<a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
+   Link:<a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/323830</a>  
+   Link:<a href="https://archives.library.rice.edu/repositories/2/archival_objects/323830" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/323830</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: North Korea says it recovered crashed South Korean military drone, KCNA says  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-says-it-recovered-crashed-south-korean-military-drone-kcna-2024-10-18/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/south-korea-denies-north-koreas-claim-it-sent-drones-into-pyongyang-yonhap-2024-10-11/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: When Dozens of Korean War GIs Claimed a UFO Made  
-   Link: <a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
+   Link:<a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/springkor.htm</a>  
+   Link:<a href="https://www.nicap.org/springkor.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/springkor.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/north-korea-ufo-sightings.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reuters.com  
    Title: North Korea's Kim Jong Un oversees tests of 'suicide drones'  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-oversees-drone-test-2024-08-25/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks one of the first public announcements by North Korea of integrating AI into missile terminal guidance systems, enhancing targe...</p></details>
+   Link:<a href="https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This marks one of the first public announcements by North Korea of integrating AI into missile terminal guidance systems, enhancing targe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nicap.org  
    Title: 520202 PROJECT 1947 U.S  
-   Link: <a href="https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf</a>  
+   Link:<a href="https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520202_PROJECT%201947%20-%20U.S.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-says-south-korea-infringed-its-airspace-with-another-drone-jan-4-2026-01-09/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/</a>  
+   Link:<a href="https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/site-us-nationals-crossing-into-north-korea-has-history-diplomatic-military-2023-07-18/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reuters.com  
    Title: north korea blames souths military drone intrusion 2024 10 27  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/north-korea-blames-souths-military-drone-intrusion-2024-10-27/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: 2021-2025.state.gov  
-   Link: <a href="https://2021-2025.state.gov/report/custom/47ee47117c/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/47ee47117c/</a>  
+   Link:<a href="https://2021-2025.state.gov/report/custom/47ee47117c/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/47ee47117c/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: state.gov  
    Title: north korea  
-   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea</a>  
+   Link:<a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/north-korea</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: 2021-2025.state.gov  
-   Link: <a href="https://2021-2025.state.gov/report/custom/951e8cd56f/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/951e8cd56f/</a>  
+   Link:<a href="https://2021-2025.state.gov/report/custom/951e8cd56f/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/951e8cd56f/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter</a>  
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-korean-war-encounter</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/366467" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/366467</a>  
+   Link:<a href="https://archives.library.rice.edu/repositories/2/archival_objects/366467" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/366467</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/classement/2026/asia-pacific</a>  
+   Link:<a href="https://rsf.org/en/classement/2026/asia-pacific" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/classement/2026/asia-pacific</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071</a>  
+   Link:<a href="https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/unidentified-flying-object-koreas-dmz-flock-birds/story?id=64061071</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hrw.org  
    Title: north korea  
-   Link: <a href="https://www.hrw.org/world-report/2025/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2025/country-chapters/north-korea</a>  
+   Link:<a href="https://www.hrw.org/world-report/2025/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2025/country-chapters/north-korea</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
    Title: reporters without borders rsf just released the 2026 version of its world press  
-   Link: <a href="https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/</a>  
+   Link:<a href="https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Statista.Inc/posts/reporters-without-borders-rsf-just-released-the-2026-version-of-its-world-press-/1303401711997195/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/977704395576978/posts/27046193501634711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/27046193501634711/</a>  
+   Link:<a href="https://www.facebook.com/groups/977704395576978/posts/27046193501634711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/27046193501634711/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html</a>  
+   Link:<a href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/80-g/80-G-420000/80-G-421429.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421</a>  
+   Link:<a href="https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/01/11/2003850421</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012</a>  
+   Link:<a href="https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/front/archives/2008/05/15/2003412012</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Border Isolation and Human Rights Matrix of the DPRK  
-   Link: <a href="https://www.youtube.com/watch?v=vs-7ufYdcJs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vs-7ufYdcJs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geopolitical Confrontation and Defensive Postures on the Korean Peninsula...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vs-7ufYdcJs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vs-7ufYdcJs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geopolitical Confrontation and Defensive Postures on the Korean Peninsula...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Propaganda, Balloons, and Border Tensions in the Koreas  
-   Link: <a href="https://www.youtube.com/watch?v=w-LkkVw5Ol4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-LkkVw5Ol4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orson Welles and the Cold War Infiltration Mindset...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w-LkkVw5Ol4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-LkkVw5Ol4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orson Welles and the Cold War Infiltration Mindset...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Orson Welles and the Cold War Infiltration Mindset  
-   Link: <a href="https://www.youtube.com/watch?v=OzC3Fg_rRJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OzC3Fg_rRJM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Border Isolation and Human Rights Matrix of the DPRK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OzC3Fg_rRJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OzC3Fg_rRJM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Border Isolation and Human Rights Matrix of the DPRK...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30</a>  
+   Link:<a href="https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ab04d8a582e1760d01c2783c2d50b30</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXwtP2NluWh/?img_index=3" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXwtP2NluWh/?img_index=3</a>  
+   Link:<a href="https://www.instagram.com/p/DXwtP2NluWh/?img_index=3" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXwtP2NluWh/?img_index=3</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
+   Link:<a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/</a>
+   Link:<a href="https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/south-korea-scrambles-jets-unidentified-object-detected-over-dmz-birds-today-2019-07-01/</a>

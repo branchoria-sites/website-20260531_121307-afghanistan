@@ -1197,40 +1197,40 @@ image: /assets/images/Latvia_c5f5bb-overview-social.jpg
 Latvia’s UFO material is not held together by a single official public archive. Instead, the record is split between international sighting databases, Latvian-language media stories, private anomaly researchers, internet forums, aviation-security reports and defence statements. That makes Latvia a “low-volume, high-noise” country for UFO research: there are enough reports to map recurring patterns, but not enough independently verified cases to support strong claims.
 
 <img src="{{ "/assets/images/Latvia_c5f5bb-overview.webp" | relative_url }}" alt="Overview image for What Has Latvia Really Seen in the Sky?" loading="eager" decoding="sync" fetchpriority="high">
-The National UFO Reporting Center, a United States-based civilian database, lists 12 reports under Latvia. The entries range from a 1985 report north of Druskininkai, to sightings in Rīga, Sigulda, Liepāja, Saldus, Ķekava and Turlava, with reported shapes including circles, triangles, fireballs, disks and unknown objects. As evidence, this is useful but limited: the database preserves witness claims, not official determinations, and several entries are anonymous, brief, delayed or written with little technical detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLatvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Latvia</span><span class="citation-popover-snippet">Reports for Country Latvia</span></span></span>
+The National UFO Reporting Center, a United States-based civilian database, lists 12 reports under Latvia. The entries range from a 1985 report north of Druskininkai, to sightings in Rīga, Sigulda, Liepāja, Saldus, Ķekava and Turlava, with reported shapes including circles, triangles, fireballs, disks and unknown objects. As evidence, this is useful but limited: the database preserves witness claims, not official determinations, and several entries are anonymous, brief, delayed or written with little technical detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLatvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Latvia</span><span class="citation-popover-snippet">Reports for Country Latvia</span></span></span>
 
-Latvian local coverage adds texture but not necessarily proof. A 2012 Jauns.lv feature described the Latvian anomalous phenomena research centre “UFOlats” as a group that had spent years investigating unusual phenomena, including alleged traces of extraterrestrial civilisations, ghosts and other anomalies, and said it included people with backgrounds in physics, mathematics, history, nature research, electronics and information fields. That is important culturally: Latvia has had organised local interest in the subject. It does not, by itself, establish that any case was extraordinary. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jauns.lv">[jauns.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jauns.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Latvian local coverage adds texture but not necessarily proof. A 2012 Jauns.lv feature described the Latvian anomalous phenomena research centre “UFOlats” as a group that had spent years investigating unusual phenomena, including alleged traces of extraterrestrial civilisations, ghosts and other anomalies, and said it included people with backgrounds in physics, mathematics, history, nature research, electronics and information fields. That is important culturally: Latvia has had organised local interest in the subject. It does not, by itself, establish that any case was extraordinary. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jauns.lv">[jauns.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jauns.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## A practical chronology: what has actually been reported?
 
 Latvia’s sighting chronology looks less like a chain of landmark incidents and more like a series of scattered claims. The early and mid-period reports are mostly civilian observations; the recent period is dominated by official airspace monitoring and drone alerts.
 
-One of the oldest claims circulating in Latvian UFO writing concerns an alleged 1871 observation over Madona, attributed in a Latvian anomaly catalogue to the astronomer Étienne Léopold Trouvelot. The claim describes multiple high-altitude objects of different shapes and speeds, but it should be treated cautiously because the modern citation trail is weak and it appears mainly in secondary ufology-oriented retellings rather than in an easily verifiable Latvian official record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aliens.lv/l/7116-latvijas-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliens.lv">[Aliens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliens.lv</span><span class="citation-popover-title">Latvijas NLO</span><span class="citation-popover-snippet">Latvijas NLO</span></span></span>
+One of the oldest claims circulating in Latvian UFO writing concerns an alleged 1871 observation over Madona, attributed in a Latvian anomaly catalogue to the astronomer Étienne Léopold Trouvelot. The claim describes multiple high-altitude objects of different shapes and speeds, but it should be treated cautiously because the modern citation trail is weak and it appears mainly in secondary ufology-oriented retellings rather than in an easily verifiable Latvian official record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aliens.lv/l/7116-latvijas-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliens.lv">[Aliens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliens.lv</span><span class="citation-popover-title">Latvijas NLO</span><span class="citation-popover-snippet">Latvijas NLO</span></span></span>
 
-The post-Soviet and early internet-era record is more concrete because it appears in databases and newspapers. NUFORC includes a June 1993 Rīga report, a July 1991 Ķekava report filed much later, an October 2005 Sigulda “triangle” report, an August 2008 Rīga “fireball” report, a 2009 Liepāja orange-circle report, a 2013 Rīga fireball report, a 2018 Saldus triangle report and a 2022 Turlava disk/light report. These entries are valuable as a witness-report index, but most lack radar data, photographs, independent witness chains or formal investigation notes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The post-Soviet and early internet-era record is more concrete because it appears in databases and newspapers. NUFORC includes a June 1993 Rīga report, a July 1991 Ķekava report filed much later, an October 2005 Sigulda “triangle” report, an August 2008 Rīga “fireball” report, a 2009 Liepāja orange-circle report, a 2013 Rīga fireball report, a 2018 Saldus triangle report and a 2022 Turlava disk/light report. These entries are valuable as a witness-report index, but most lack radar data, photographs, independent witness chains or formal investigation notes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-A few reports are vivid enough to show why people remember them. The 2008 Rīga NUFORC entry describes two observers seeing six to ten pulsating lightballs moving north over the city in a triangle-like arrangement for five to ten minutes. The 2005 Sigulda report describes three people seeing what first looked like falling stars, followed minutes later by a fast, silent, triangular group of lights. The 2022 Turlava report describes four observers seeing a constant bright blue light moving slowly north-east for about 25 seconds. None of these entries proves an anomalous craft; they show the kind of short-duration, light-based reports that dominate Latvia’s civilian record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=65370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A few reports are vivid enough to show why people remember them. The 2008 Rīga NUFORC entry describes two observers seeing six to ten pulsating lightballs moving north over the city in a triangle-like arrangement for five to ten minutes. The 2005 Sigulda report describes three people seeing what first looked like falling stars, followed minutes later by a fast, silent, triangular group of lights. The 2022 Turlava report describes four observers seeing a constant bright blue light moving slowly north-east for about 25 seconds. None of these entries proves an anomalous craft; they show the kind of short-duration, light-based reports that dominate Latvia’s civilian record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=65370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Latvian media has also reported individual ufology personalities and sightings. A 2015 article in NRA described the Latvian ufologist Jevgeņijs Sidorovs recalling a 2001 summer sighting above Jūrmala: a silent rotating object with pink and violet flashes that disappeared towards the Gulf of Rīga. The article is useful for local context, but the evidential status remains testimonial: it is a reported recollection, not a documented multi-sensor case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nra.lv/izklaide/141972-vakara-zinas-latvijas-popularais-ufologs-virs-jurmalas-redzejis-nlo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nra.lv">[NRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nra.lv</span><span class="citation-popover-title">VAKARA ZIŅAS: Latvijas populārais ufologs virs Jūrmalas redzējis NLO</span><span class="citation-popover-snippet">VAKARA ZIŅAS: Latvijas populārais ufologs virs Jūrmalas redzējis NLO</span></span></span>
+Latvian media has also reported individual ufology personalities and sightings. A 2015 article in NRA described the Latvian ufologist Jevgeņijs Sidorovs recalling a 2001 summer sighting above Jūrmala: a silent rotating object with pink and violet flashes that disappeared towards the Gulf of Rīga. The article is useful for local context, but the evidential status remains testimonial: it is a reported recollection, not a documented multi-sensor case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nra.lv/izklaide/141972-vakara-zinas-latvijas-popularais-ufologs-virs-jurmalas-redzejis-nlo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nra.lv">[NRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nra.lv</span><span class="citation-popover-title">VAKARA ZIŅAS: Latvijas populārais ufologs virs Jūrmalas redzējis NLO</span><span class="citation-popover-snippet">VAKARA ZIŅAS: Latvijas populārais ufologs virs Jūrmalas redzējis NLO</span></span></span>
 
 <img src="{{ "/assets/images/Latvia_c5f5bb-Illustration-1-dark.svg" | relative_url }}" alt="What Has Latvia Really Seen in the Sky? illustration 1" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Region patterns: Rīga, the coast and the eastern border
 
 The visible pattern in Latvia is shaped by population, sky visibility and security geography. Rīga appears often because it has the largest population and more potential witnesses, but it also has the highest chance of mundane explanations: aircraft, drones, lights, reflections, advertising events, lanterns and atmospheric effects. Coastal and resort areas such as Jūrmala and the Gulf of Rīga add another layer, because lights over water can be difficult to judge for distance, altitude and speed.
 
-Western and rural cases, such as Turlava in Kuldīga Municipality or Saldus, may feel more mysterious to witnesses because there is less urban light pollution and fewer obvious aircraft cues. Yet that does not automatically improve the evidence. A dark rural sky also makes meteors, satellites, re-entering debris, high-altitude aircraft and distant drones more striking, especially when observers have no instruments and only a few seconds to interpret what they see. The NUFORC Latvia entries illustrate this: many reports are short, light-centred and dependent on witness impressions of silence, speed or shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182465" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Western and rural cases, such as Turlava in Kuldīga Municipality or Saldus, may feel more mysterious to witnesses because there is less urban light pollution and fewer obvious aircraft cues. Yet that does not automatically improve the evidence. A dark rural sky also makes meteors, satellites, re-entering debris, high-altitude aircraft and distant drones more striking, especially when observers have no instruments and only a few seconds to interpret what they see. The NUFORC Latvia entries illustrate this: many reports are short, light-centred and dependent on witness impressions of silence, speed or shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182465" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The eastern border has become the most important region for “unidentified object” reports, but in a defence rather than paranormal sense. In September 2024, Latvia’s National Armed Forces detected an unidentified flying object near the Latvian-Belarusian border in the Krāslava region; NATO air-policing fighters scrambled, but the object was later identified as a flock of birds. The same region and broader eastern border area have also been central to drone and air-threat alerts after Russia’s full-scale invasion of Ukraine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The eastern border has become the most important region for “unidentified object” reports, but in a defence rather than paranormal sense. In September 2024, Latvia’s National Armed Forces detected an unidentified flying object near the Latvian-Belarusian border in the Krāslava region; NATO air-policing fighters scrambled, but the object was later identified as a flock of birds. The same region and broader eastern border area have also been central to drone and air-threat alerts after Russia’s full-scale invasion of Ukraine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Official records: no Latvian “UFO archive”, but real airspace files matter
 
 There is no strong public evidence that Latvia maintains a declassified UFO archive comparable to the United Kingdom’s released Ministry of Defence UFO files or the United States’ expanding UAP record collections. The absence of such an archive should not be overread as either proof of secrecy or proof that nothing is reported; it more likely reflects institutional priorities and the small number of publicly significant cases.
 
-What Latvia does have is a modern airspace-security record. The Ministry of Defence confirmed that a Russian Shahed-type unmanned aerial vehicle entered Latvia from Belarus and crashed in Gaigalava parish, Rēzekne municipality, on 7 September 2024. The ministry said the National Armed Forces detected the UAV’s approach and crash site, notified NATO channels, deactivated the drone, collected debris for analysis and reinforced air-defence capabilities on the eastern border. Reuters separately reported that Latvian officials said the drone carried explosives likely intended for Ukraine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+What Latvia does have is a modern airspace-security record. The Ministry of Defence confirmed that a Russian Shahed-type unmanned aerial vehicle entered Latvia from Belarus and crashed in Gaigalava parish, Rēzekne municipality, on 7 September 2024. The ministry said the National Armed Forces detected the UAV’s approach and crash site, notified NATO channels, deactivated the drone, collected debris for analysis and reinforced air-defence capabilities on the eastern border. Reuters separately reported that Latvian officials said the drone carried explosives likely intended for Ukraine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is the most important distinction in the Latvian record: an object may be unidentified at first and still become fully prosaic, military or security-related later. The September 2024 bird incident shows one end of the spectrum; the Gaigalava Shahed crash shows the other. Both began as airspace uncertainty, but one resolved into wildlife and the other into a dangerous military drone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is the most important distinction in the Latvian record: an object may be unidentified at first and still become fully prosaic, military or security-related later. The September 2024 bird incident shows one end of the spectrum; the Gaigalava Shahed crash shows the other. Both began as airspace uncertainty, but one resolved into wildlife and the other into a dangerous military drone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Latvia’s Civil Aviation Agency also shows why modern “UFO” interpretation must account for drones. The agency reported a sharp rise in drone-related enforcement and registration: 123 administrative offence cases in 2025, compared with 73 in 2024, while registered drone operators rose from 7,846 at the end of 2024 to 11,242 by the end of 2025. This does not explain every sighting, but it changes the baseline: a Latvian witness seeing an odd low light in 2026 is much more likely to be seeing a drone or drone-related response than a classic flying saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.lv">[caa.gov.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.lv</span><span class="citation-popover-title">Sākumlapa en &#124; Civilās aviācijas aģentūra</span><span class="citation-popover-snippet">Sākumlapa en &#124; Civilās aviācijas aģentūra</span></span></span>
+Latvia’s Civil Aviation Agency also shows why modern “UFO” interpretation must account for drones. The agency reported a sharp rise in drone-related enforcement and registration: 123 administrative offence cases in 2025, compared with 73 in 2024, while registered drone operators rose from 7,846 at the end of 2024 to 11,242 by the end of 2025. This does not explain every sighting, but it changes the baseline: a Latvian witness seeing an odd low light in 2026 is much more likely to be seeing a drone or drone-related response than a classic flying saucer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.lv">[caa.gov.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.lv</span><span class="citation-popover-title">Sākumlapa en &#124; Civilās aviācijas aģentūra</span><span class="citation-popover-snippet">Sākumlapa en &#124; Civilās aviācijas aģentūra</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tgqAt6YN1jE" title="Baltic Sea Anomaly, Atlantis, and Underwater Alien Bases | Mysteries of the Ocean Pt 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tgqAt6YN1jE" target="_blank" rel="noopener noreferrer">Baltic Sea Anomaly, Atlantis, and Underwater Alien Bases | Mysteries of the Ocean Pt 1</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 4.2M &middot; Uploaded: January 2024 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tgqAt6YN1jE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tgqAt6YN1jE">Open on YouTube</a></p></div></div></div>
 
@@ -1238,20 +1238,20 @@ Latvia’s Civil Aviation Agency also shows why modern “UFO” interpretation 
 
 A useful Latvia page should separate three evidence categories rather than treat every report as equally mysterious.
 
-**Confirmed or officially resolved cases.** The September 2024 Krāslava-region alert was officially resolved as a flock of birds after NATO jets scrambled and no suspicious object was found. The 7 September 2024 Gaigalava incident was confirmed by Latvia’s Ministry of Defence as a Russian Shahed-type UAV that entered from Belarus and crashed in Latvia. These cases are not UFO mysteries in the popular alien sense; they are examples of unidentified aerial reports being identified through military and official follow-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed or officially resolved cases.** The September 2024 Krāslava-region alert was officially resolved as a flock of birds after NATO jets scrambled and no suspicious object was found. The 7 September 2024 Gaigalava incident was confirmed by Latvia’s Ministry of Defence as a Russian Shahed-type UAV that entered from Belarus and crashed in Latvia. These cases are not UFO mysteries in the popular alien sense; they are examples of unidentified aerial reports being identified through military and official follow-up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested or unresolved civilian sightings.** The Rīga 2008 triangle-like light formation, Sigulda 2005 triangle report, Jūrmala 2001 Sidorovs account and Turlava 2022 blue-light report remain unresolved in the weak sense that no definitive public explanation is attached to them. That is not the same as strong evidence for exotic technology. They lack the features that would raise confidence: calibrated imagery, radar correlation, multiple independent reports, reliable timing, flight-track exclusion, astronomical checks and physical traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLatvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Latvia</span><span class="citation-popover-snippet">Reports for Country Latvia</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=65370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested or unresolved civilian sightings.** The Rīga 2008 triangle-like light formation, Sigulda 2005 triangle report, Jūrmala 2001 Sidorovs account and Turlava 2022 blue-light report remain unresolved in the weak sense that no definitive public explanation is attached to them. That is not the same as strong evidence for exotic technology. They lack the features that would raise confidence: calibrated imagery, radar correlation, multiple independent reports, reliable timing, flight-track exclusion, astronomical checks and physical traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLatvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Latvia</span><span class="citation-popover-snippet">Reports for Country Latvia</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=65370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Debunked or strongly explained cases.** The best Latvian example is not a UFO sighting but a “sky mystery” that shows how quickly extraordinary claims can form. In October 2009, a supposed meteorite crater near Mazsalaca attracted wide attention, but scientists soon concluded it was artificial; Wired reported expert criticism that meteorites are not still burning when they land and that no large fireball had been reported in the region. The case later became known as a publicity stunt, making it a cautionary example for all dramatic sky-impact claims in Latvia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2009/10/did-a-meteorite-or-nerdy-hoaxsters-strike-latvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Did a Meteorite, or Nerdy Hoaxsters, Strike Latvia? &#124; WIRED</span><span class="citation-popover-snippet">Did a Meteorite, or Nerdy Hoaxsters, Strike Latvia? &#124; WIRED</span></span></span>
+**Debunked or strongly explained cases.** The best Latvian example is not a UFO sighting but a “sky mystery” that shows how quickly extraordinary claims can form. In October 2009, a supposed meteorite crater near Mazsalaca attracted wide attention, but scientists soon concluded it was artificial; Wired reported expert criticism that meteorites are not still burning when they land and that no large fireball had been reported in the region. The case later became known as a publicity stunt, making it a cautionary example for all dramatic sky-impact claims in Latvia.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2009/10/did-a-meteorite-or-nerdy-hoaxsters-strike-latvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Did a Meteorite, or Nerdy Hoaxsters, Strike Latvia? &#124; WIRED</span><span class="citation-popover-snippet">Did a Meteorite, or Nerdy Hoaxsters, Strike Latvia? &#124; WIRED</span></span></span>
 
 <img src="{{ "/assets/images/Latvia_c5f5bb-Illustration-2-dark.svg" | relative_url }}" alt="What Has Latvia Really Seen in the Sky? illustration 2" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why many Latvian UFO reports look like lights, triangles or fireballs
 
 Latvia’s reported UFO shapes are not unusual by global standards: circles, triangles, disks and fireballs appear often because human observers tend to infer shape from light patterns. Three lights can become a triangle; several lanterns or drones can become a formation; a bright meteor can become a “fireball UFO”; a distant aircraft can seem silent if it is far enough away or moving with the wind.
 
-This is not a dismissal of witnesses. It is a reminder that night-sky perception is hard. The BBC Sky at Night Magazine’s general UFO explainer notes that most sightings have earthly origins, including optical illusions and rare weather, and AARO’s own official imagery page includes European UAP cases resolved as birds, balloons and prosaic aircraft alongside cases left unresolved because data was insufficient. Latvia’s 2024 flock-of-birds alert is a local example of the same problem: even trained monitoring systems can produce uncertainty before later identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+This is not a dismissal of witnesses. It is a reminder that night-sky perception is hard. The BBC Sky at Night Magazine’s general UFO explainer notes that most sightings have earthly origins, including optical illusions and rare weather, and AARO’s own official imagery page includes European UAP cases resolved as birds, balloons and prosaic aircraft alongside cases left unresolved because data was insufficient. Latvia’s 2024 flock-of-birds alert is a local example of the same problem: even trained monitoring systems can produce uncertainty before later identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-The Latvian evidence also shows why “unresolved” should be handled carefully. In AARO’s public European cases, some reports remain unresolved not because they display impossible performance, but because available data is too limited to determine a precise source. That is a useful model for Latvia: most civilian reports are unresolved because they are under-documented, not because they have survived a rigorous elimination process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The Latvian evidence also shows why “unresolved” should be handled carefully. In AARO’s public European cases, some reports remain unresolved not because they display impossible performance, but because available data is too limited to determine a precise source. That is a useful model for Latvia: most civilian reports are unresolved because they are under-documented, not because they have survived a rigorous elimination process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tRyZ323nQGI" title="“NATO Airspace Under Threat” Says Latvia Military After Russian Drone Intrusions | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tRyZ323nQGI" target="_blank" rel="noopener noreferrer">“NATO Airspace Under Threat” Says Latvia Military After Russian Drone Intrusions | APT</a></p><p class="youtube-embed-meta">Channel: APT &middot; Views: 586 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tRyZ323nQGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tRyZ323nQGI">Open on YouTube</a></p></div></div></div>
 
@@ -1259,9 +1259,9 @@ The Latvian evidence also shows why “unresolved” should be handled carefully
 
 Before the 2020s, Latvia’s UFO topic was mostly a fringe-cultural and witness-report subject. Since Russia’s full-scale invasion of Ukraine in 2022, the same sky has become a security environment. Unidentified objects near Latvia now matter because they can be drones, straying military systems, aircraft without clear identification, or objects that trigger public-warning systems.
 
-NATO Baltic air policing is central to this change. Reuters reported in August 2024 that Italian Eurofighters scrambled from Šiauliai in Lithuania to intercept unidentified aircraft in Baltic airspace after orders from a NATO surveillance centre in Germany. Latvia is part of that Baltic security context, even when a particular intercept is not over Latvian territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+NATO Baltic air policing is central to this change. Reuters reported in August 2024 that Italian Eurofighters scrambled from Šiauliai in Lithuania to intercept unidentified aircraft in Baltic airspace after orders from a NATO surveillance centre in Germany. Latvia is part of that Baltic security context, even when a particular intercept is not over Latvian territory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-Latvia’s own public guidance has also shifted towards practical drone safety. The Ministry of Defence has advised residents who receive airspace-threat cell broadcasts to seek shelter indoors, avoid windows, follow reliable official updates and not approach fallen drones or debris because the object may contain explosives. That guidance is not ufology; it is civil protection. But it now overlaps with the public language of “unidentified flying objects” more than classic UFO lore does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Latvia’s own public guidance has also shifted towards practical drone safety. The Ministry of Defence has advised residents who receive airspace-threat cell broadcasts to seek shelter indoors, avoid windows, follow reliable official updates and not approach fallen drones or debris because the object may contain explosives. That guidance is not ufology; it is civil protection. But it now overlaps with the public language of “unidentified flying objects” more than classic UFO lore does.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xbnh_Wgar6k" title="UFO Formations in Latvia &amp; Lithuania&#x27; 1983 &amp; 1985 / Real Sighting / Animation by Nick Lido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xbnh_Wgar6k" target="_blank" rel="noopener noreferrer">UFO Formations in Latvia &amp; Lithuania&#x27; 1983 &amp; 1985 / Real Sighting / Animation by Nick Lido</a></p><p class="youtube-embed-meta">Channel: Nick Lido &middot; Views: 8.2K &middot; Uploaded: March 2010 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xbnh_Wgar6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xbnh_Wgar6k">Open on YouTube</a></p></div></div></div>
 
@@ -1269,11 +1269,11 @@ Latvia’s own public guidance has also shifted towards practical drone safety. 
 
 Latvia’s UFO evidence can be read on a credibility ladder.
 
-At the top are official defence, aviation and emergency-management sources, especially when they identify an object, describe the response, or report what remains unknown. These sources are not perfect, but they are accountable and usually connected to radar, airspace procedures or on-site investigation. The Gaigalava Shahed statement and Krāslava birds case belong here. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the top are official defence, aviation and emergency-management sources, especially when they identify an object, describe the response, or report what remains unknown. These sources are not perfect, but they are accountable and usually connected to radar, airspace procedures or on-site investigation. The Gaigalava Shahed statement and Krāslava birds case belong here.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Next are reputable news organisations that report official statements, witness accounts and follow-up developments. Latvian Public Media and Reuters are especially useful for airspace incidents because they distinguish initial uncertainty from later clarification. Local outlets such as NRA and Jauns.lv are useful for cultural context and named ufologists, but their older human-interest pieces should not be treated as technical investigations. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jauns.lv">[jauns.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jauns.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/italy-scrambles-fighter-jets-intercept-aircraft-over-baltic-2024-08-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Italy scrambles fighter jets to intercept aircraft over Baltic &#124; Reuters</span><span class="citation-popover-snippet">Italy scrambles fighter jets to intercept aircraft over Baltic &#124; Reuters</span></span></span>
+Next are reputable news organisations that report official statements, witness accounts and follow-up developments. Latvian Public Media and Reuters are especially useful for airspace incidents because they distinguish initial uncertainty from later clarification. Local outlets such as NRA and Jauns.lv are useful for cultural context and named ufologists, but their older human-interest pieces should not be treated as technical investigations. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jauns.lv">[jauns.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jauns.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/italy-scrambles-fighter-jets-intercept-aircraft-over-baltic-2024-08-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Italy scrambles fighter jets to intercept aircraft over Baltic &#124; Reuters</span><span class="citation-popover-snippet">Italy scrambles fighter jets to intercept aircraft over Baltic &#124; Reuters</span></span></span>
 
-Lower on the ladder are civilian UFO databases and anomaly websites. NUFORC is valuable because it preserves dates, places, shapes and summaries, but its Latvia entries mostly document claims rather than conclusions. Latvian anomaly catalogues can help locate folklore-like or historical claims, but the older the claim and the weaker the citation trail, the more cautiously it should be used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Lower on the ladder are civilian UFO databases and anomaly websites. NUFORC is valuable because it preserves dates, places, shapes and summaries, but its Latvia entries mostly document claims rather than conclusions. Latvian anomaly catalogues can help locate folklore-like or historical claims, but the older the claim and the weaker the citation trail, the more cautiously it should be used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 At the bottom are social-media posts, anonymous forum comments and video uploads without provenance. They can reveal what people are seeing and discussing, but they are poor stand-alone evidence. In Latvia, as elsewhere, the strongest cases would need exact time, exact location, direction of view, duration, weather, camera metadata, nearby flight and satellite checks, and independent reports from separated observers.
 
@@ -1287,194 +1287,194 @@ This matters because Latvia sits in a region where several ordinary and extraord
 For now, Latvia’s UFO record is best understood as a small national case file with three layers: a modest civilian sighting tradition, a local anomaly-research culture, and a fast-growing defence-and-drone context. The credible takeaway is not that Latvia has produced decisive evidence of non-human craft. It is that Latvia’s skies are increasingly monitored, increasingly busy, and increasingly capable of turning an unexplained light into either a solved case, a security incident or an unresolved anecdote depending on the quality of the evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Has Latvia Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Has Latvia Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a national overview focused on evidence and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a national overview focused on evidence and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for interpreting scattered sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for interpreting scattered sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding folklore, culture and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding folklore, culture and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines the kinds of civilian reports found in countries like Latvia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the kinds of civilian reports found in countries like Latvia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-latvia-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-has-latvia-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1490,7 +1490,7 @@ For now, Latvia’s UFO record is best understood as a small national case file 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1510,7 +1510,7 @@ For now, Latvia’s UFO record is best understood as a small national case file 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1542,7 +1542,7 @@ For now, Latvia’s UFO record is best understood as a small national case file 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1594,7 +1594,7 @@ For now, Latvia’s UFO record is best understood as a small national case file 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1639,7 +1639,7 @@ For now, Latvia’s UFO record is best understood as a small national case file 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1680,227 +1680,227 @@ For now, Latvia’s UFO record is best understood as a small national case file 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Latvia  
-   Link: <a href="https://nuforc.org/subndx/?id=cLatvia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLatvia</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cLatvia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLatvia</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/17.09.2024-unidentified-flying-object-near-latvian-border-turns-out-to-be-flock-of-birds.a569094/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mod.gov.lv  
-   Link: <a href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone</a>  
+   Link:<a href="https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/russian-out-control-drone-crashed-gaigalava-parish-was-shahed-type-drone</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jauns.lv  
-   Link: <a href="https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus" target="_blank" rel="noopener noreferrer nofollow">https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus</a>  
+   Link:<a href="https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus" target="_blank" rel="noopener noreferrer nofollow">https://jauns.lv/raksts/zinas/145610-ka-latvija-medi-spokus-un-citplanetiesus</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aliens.lv  
    Title: Latvijas NLO  
-   Link: <a href="https://www.aliens.lv/l/7116-latvijas-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.aliens.lv/l/7116-latvijas-nlo</a>  
+   Link:<a href="https://www.aliens.lv/l/7116-latvijas-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.aliens.lv/l/7116-latvijas-nlo</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=65370" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=65370</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=65370" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=65370</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46877" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46877</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=46877" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46877</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=182465" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182465</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=182465" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182465</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nra.lv  
    Title: VAKARA ZIŅAS: Latvijas populārais ufologs virs Jūrmalas redzējis NLO  
-   Link: <a href="https://nra.lv/izklaide/141972-vakara-zinas-latvijas-popularais-ufologs-virs-jurmalas-redzejis-nlo.htm" target="_blank" rel="noopener noreferrer nofollow">https://nra.lv/izklaide/141972-vakara-zinas-latvijas-popularais-ufologs-virs-jurmalas-redzejis-nlo.htm</a>  
+   Link:<a href="https://nra.lv/izklaide/141972-vakara-zinas-latvijas-popularais-ufologs-virs-jurmalas-redzejis-nlo.htm" target="_blank" rel="noopener noreferrer nofollow">https://nra.lv/izklaide/141972-vakara-zinas-latvijas-popularais-ufologs-virs-jurmalas-redzejis-nlo.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/society/defence/22.05.2026-thursdays-drone-either-left-or-fell-in-latvia.a648349/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/22.05.2026-thursdays-drone-either-left-or-fell-in-latvia.a648349/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defence/22.05.2026-thursdays-drone-either-left-or-fell-in-latvia.a648349/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/22.05.2026-thursdays-drone-either-left-or-fell-in-latvia.a648349/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: caa.gov.lv  
    Title: Sākumlapa en | Civilās aviācijas aģentūra  
-   Link: <a href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.lv/en</a>  
+   Link:<a href="https://www.caa.gov.lv/en" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.lv/en</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wired.com  
    Title: Did a Meteorite, or Nerdy Hoaxsters, Strike Latvia? | WIRED  
-   Link: <a href="https://www.wired.com/2009/10/did-a-meteorite-or-nerdy-hoaxsters-strike-latvia" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2009/10/did-a-meteorite-or-nerdy-hoaxsters-strike-latvia</a>  
+   Link:<a href="https://www.wired.com/2009/10/did-a-meteorite-or-nerdy-hoaxsters-strike-latvia" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2009/10/did-a-meteorite-or-nerdy-hoaxsters-strike-latvia</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reuters.com  
    Title: Italy scrambles fighter jets to intercept aircraft over Baltic | Reuters  
-   Link: <a href="https://www.reuters.com/world/europe/italy-scrambles-fighter-jets-intercept-aircraft-over-baltic-2024-08-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/italy-scrambles-fighter-jets-intercept-aircraft-over-baltic-2024-08-06/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/italy-scrambles-fighter-jets-intercept-aircraft-over-baltic-2024-08-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/italy-scrambles-fighter-jets-intercept-aircraft-over-baltic-2024-08-06/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mod.gov.lv  
-   Link: <a href="https://www.mod.gov.lv/en/news/what-do-upon-receiving-cell-broadcast-notification-about-potential-threat-latvian-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/what-do-upon-receiving-cell-broadcast-notification-about-potential-threat-latvian-airspace</a>  
+   Link:<a href="https://www.mod.gov.lv/en/news/what-do-upon-receiving-cell-broadcast-notification-about-potential-threat-latvian-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/what-do-upon-receiving-cell-broadcast-notification-about-potential-threat-latvian-airspace</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mod.gov.lv  
-   Link: <a href="https://www.mod.gov.lv/en/news/defence-minister-andris-spruds-calls-nato-senior-military-leadership-strengthen-latvian" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/defence-minister-andris-spruds-calls-nato-senior-military-leadership-strengthen-latvian</a>  
+   Link:<a href="https://www.mod.gov.lv/en/news/defence-minister-andris-spruds-calls-nato-senior-military-leadership-strengthen-latvian" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.lv/en/news/defence-minister-andris-spruds-calls-nato-senior-military-leadership-strengthen-latvian</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/economy/transport/12.09.2025-vilnius-plane-diverted-to-riga-due-to-unidentified-flying-object.a614164/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/economy/transport/12.09.2025-vilnius-plane-diverted-to-riga-due-to-unidentified-flying-object.a614164/</a>  
+   Link:<a href="https://eng.lsm.lv/article/economy/transport/12.09.2025-vilnius-plane-diverted-to-riga-due-to-unidentified-flying-object.a614164/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/economy/transport/12.09.2025-vilnius-plane-diverted-to-riga-due-to-unidentified-flying-object.a614164/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/society/defence/25.03.2026-drone-flies-into-latvian-territory-from-russia-and-falls.a640310/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/25.03.2026-drone-flies-into-latvian-territory-from-russia-and-falls.a640310/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defence/25.03.2026-drone-flies-into-latvian-territory-from-russia-and-falls.a640310/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/25.03.2026-drone-flies-into-latvian-territory-from-russia-and-falls.a640310/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/society/society/24.05.2026-latvian-emergency-112-website-still-needs-improvements-for-crises.a648482/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/society/24.05.2026-latvian-emergency-112-website-still-needs-improvements-for-crises.a648482/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/society/24.05.2026-latvian-emergency-112-website-still-needs-improvements-for-crises.a648482/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/society/24.05.2026-latvian-emergency-112-website-still-needs-improvements-for-crises.a648482/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/society/defence/25.05.2026-latvian-army-commander-air-defence-mainly-protects-cities-critical-infrastructure.a648555/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/25.05.2026-latvian-army-commander-air-defence-mainly-protects-cities-critical-infrastructure.a648555/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defence/25.05.2026-latvian-army-commander-air-defence-mainly-protects-cities-critical-infrastructure.a648555/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/25.05.2026-latvian-army-commander-air-defence-mainly-protects-cities-critical-infrastructure.a648555/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/topic/air-force/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/topic/air-force/</a>  
+   Link:<a href="https://eng.lsm.lv/topic/air-force/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/topic/air-force/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: eng.lsm.lv  
    Title: source of latvian army information leak identified.a339497  
-   Link: <a href="https://eng.lsm.lv/article/society/defense/source-of-latvian-army-information-leak-identified.a339497/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/source-of-latvian-army-information-leak-identified.a339497/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defense/source-of-latvian-army-information-leak-identified.a339497/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/source-of-latvian-army-information-leak-identified.a339497/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: eng.lsm.lv  
    Title: 19.11.2025 another busy week for baltic air police.a622997  
-   Link: <a href="https://eng.lsm.lv/article/society/defence/19.11.2025-another-busy-week-for-baltic-air-police.a622997/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/19.11.2025-another-busy-week-for-baltic-air-police.a622997/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defence/19.11.2025-another-busy-week-for-baltic-air-police.a622997/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defence/19.11.2025-another-busy-week-for-baltic-air-police.a622997/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: eng.lsm.lv  
    Title: 19.09.2024 nbs commander nato jets take off daily in latvia.a569365  
-   Link: <a href="https://eng.lsm.lv/article/society/defense/19.09.2024-nbs-commander-nato-jets-take-off-daily-in-latvia.a569365/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/19.09.2024-nbs-commander-nato-jets-take-off-daily-in-latvia.a569365/</a>  
+   Link:<a href="https://eng.lsm.lv/article/society/defense/19.09.2024-nbs-commander-nato-jets-take-off-daily-in-latvia.a569365/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/society/defense/19.09.2024-nbs-commander-nato-jets-take-off-daily-in-latvia.a569365/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: eng.lsm.lv  
-   Link: <a href="https://eng.lsm.lv/article/features/features/26.04.2025-as-latvia-defends-natos-eastern-border-ukraine-peace-talks-test-strength-of-the-alliance.a596713/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/features/features/26.04.2025-as-latvia-defends-natos-eastern-border-ukraine-peace-talks-test-strength-of-the-alliance.a596713/</a>  
+   Link:<a href="https://eng.lsm.lv/article/features/features/26.04.2025-as-latvia-defends-natos-eastern-border-ukraine-peace-talks-test-strength-of-the-alliance.a596713/" target="_blank" rel="noopener noreferrer nofollow">https://eng.lsm.lv/article/features/features/26.04.2025-as-latvia-defends-natos-eastern-border-ukraine-peace-talks-test-strength-of-the-alliance.a596713/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nra.lv  
    Title: 480514 virs igaunijas noveroti kritosi neidentificeti lidojosi objekti  
-   Link: <a href="https://nra.lv/pasaule/480514-virs-igaunijas-noveroti-kritosi-neidentificeti-lidojosi-objekti.htm" target="_blank" rel="noopener noreferrer nofollow">https://nra.lv/pasaule/480514-virs-igaunijas-noveroti-kritosi-neidentificeti-lidojosi-objekti.htm</a>  
+   Link:<a href="https://nra.lv/pasaule/480514-virs-igaunijas-noveroti-kritosi-neidentificeti-lidojosi-objekti.htm" target="_blank" rel="noopener noreferrer nofollow">https://nra.lv/pasaule/480514-virs-igaunijas-noveroti-kritosi-neidentificeti-lidojosi-objekti.htm</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aliens.lv  
    Title: 6755 milzu nlo latvija  
-   Link: <a href="https://www.aliens.lv/m/6755-milzu-nlo-latvija" target="_blank" rel="noopener noreferrer nofollow">https://www.aliens.lv/m/6755-milzu-nlo-latvija</a>  
+   Link:<a href="https://www.aliens.lv/m/6755-milzu-nlo-latvija" target="_blank" rel="noopener noreferrer nofollow">https://www.aliens.lv/m/6755-milzu-nlo-latvija</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aliens.lv  
-   Link: <a href="https://www.aliens.lv/n/2404-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.aliens.lv/n/2404-nlo</a>  
+   Link:<a href="https://www.aliens.lv/n/2404-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.aliens.lv/n/2404-nlo</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nato.int  
    Title: official texts 17265  
-   Link: <a href="https://www.nato.int/cps/en/natohq/official_texts_17265.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/cps/en/natohq/official_texts_17265.htm</a>  
+   Link:<a href="https://www.nato.int/cps/en/natohq/official_texts_17265.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/cps/en/natohq/official_texts_17265.htm</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/758519307942365/posts/2453648891762723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/758519307942365/posts/2453648891762723/</a>  
+   Link:<a href="https://www.facebook.com/groups/758519307942365/posts/2453648891762723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/758519307942365/posts/2453648891762723/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1779595758976659/posts/3662717723997777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1779595758976659/posts/3662717723997777/</a>  
+   Link:<a href="https://www.facebook.com/groups/1779595758976659/posts/3662717723997777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1779595758976659/posts/3662717723997777/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Underwater UFO explorer finds movielike object in Baltic Sea | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=aDjj3Om0h_w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDjj3Om0h_w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baltic Sea Anomaly, Atlantis, and Underwater Alien Bases | Mysteries of the Ocean Pt 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aDjj3Om0h_w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDjj3Om0h_w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baltic Sea Anomaly, Atlantis, and Underwater Alien Bases | Mysteries of the Ocean Pt 1...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tgqAt6YN1jE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tgqAt6YN1jE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case Of The Baltic Sea Anomaly | The Mystery Beneath...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tgqAt6YN1jE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tgqAt6YN1jE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Case Of The Baltic Sea Anomaly | The Mystery Beneath...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sOIE4ryffVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sOIE4ryffVI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe skies: NATO Air Policing – the Baltic States...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sOIE4ryffVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sOIE4ryffVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe skies: NATO Air Policing – the Baltic States...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: The Case Of The Baltic Sea Anomaly | The Mystery Beneath  
-   Link: <a href="https://www.youtube.com/watch?v=ImV8f0pOoXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ImV8f0pOoXQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latvian prime minister resigns amid stray Ukrainian drones controversy | DW News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ImV8f0pOoXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ImV8f0pOoXQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latvian prime minister resigns amid stray Ukrainian drones controversy | DW News...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-59-state-department/rg-059-general-records-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-59-state-department/rg-059-general-records-2.html</a>  
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-59-state-department/rg-059-general-records-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-59-state-department/rg-059-general-records-2.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: entityart.co.uk  
-   Link: <a href="https://entityart.co.uk/meteors-fireballs-falling-craft-saved-by-ufos-ufology-explained-part-5/" target="_blank" rel="noopener noreferrer nofollow">https://entityart.co.uk/meteors-fireballs-falling-craft-saved-by-ufos-ufology-explained-part-5/</a>  
+   Link:<a href="https://entityart.co.uk/meteors-fireballs-falling-craft-saved-by-ufos-ufology-explained-part-5/" target="_blank" rel="noopener noreferrer nofollow">https://entityart.co.uk/meteors-fireballs-falling-craft-saved-by-ufos-ufology-explained-part-5/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: watchmojo.com  
-   Link: <a href="https://www.watchmojo.com/articles/4-alleged-ufos-seen-by-astronauts-unveiled" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/4-alleged-ufos-seen-by-astronauts-unveiled</a>  
+   Link:<a href="https://www.watchmojo.com/articles/4-alleged-ufos-seen-by-astronauts-unveiled" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/4-alleged-ufos-seen-by-astronauts-unveiled</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: allsky7.net  
-   Link: <a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
+   Link:<a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/dzimtasdetektivs/posts/5987327018015391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dzimtasdetektivs/posts/5987327018015391/</a>  
+   Link:<a href="https://www.facebook.com/groups/dzimtasdetektivs/posts/5987327018015391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dzimtasdetektivs/posts/5987327018015391/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FubarNews/posts/did-anyone-else-see-a-bright-orange-fireball-with-a-tail-in-the-sky-near-oldmedr/1356200276536467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FubarNews/posts/did-anyone-else-see-a-bright-orange-fireball-with-a-tail-in-the-sky-near-oldmedr/1356200276536467/</a>
+   Link:<a href="https://www.facebook.com/FubarNews/posts/did-anyone-else-see-a-bright-orange-fireball-with-a-tail-in-the-sky-near-oldmedr/1356200276536467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FubarNews/posts/did-anyone-else-see-a-bright-orange-fireball-with-a-tail-in-the-sky-near-oldmedr/1356200276536467/</a>

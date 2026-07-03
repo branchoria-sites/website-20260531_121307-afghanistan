@@ -1197,52 +1197,52 @@ image: /assets/images/Netherlands_Kingdom_d6d70a-overview-social.jpg
 In the Dutch context, “UFO” should be read literally: an unidentified flying object or observation, not automatically an extraterrestrial vehicle. The modern term “UAP”, unidentified anomalous phenomena, is increasingly used by advocacy groups because it avoids some of the cultural baggage of “UFO”, but the evidential problem remains the same: what was observed, by whom, under what conditions, and with what independent data?
 
 <img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a-overview.webp" | relative_url }}" alt="Overview image for Netherlands Kingdom of the" loading="eager" decoding="sync" fetchpriority="high">
-The most useful Dutch evidence falls into four broad tiers. First are **official or archival records**, such as Project Blue Book files that include reports from Delft in 1952 and the Netherlands in 1954, preserved as United States Air Force material and mirrored through public archives. Project Blue Book itself was declassified and transferred to the U.S. National Archives; it closed in 1969 and does not cover later sightings. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
+The most useful Dutch evidence falls into four broad tiers. First are **official or archival records**, such as Project Blue Book files that include reports from Delft in 1952 and the Netherlands in 1954, preserved as United States Air Force material and mirrored through public archives. Project Blue Book itself was declassified and transferred to the U.S. National Archives; it closed in 1969 and does not cover later sightings. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
 
-Second are **civilian reporting databases**, especially UFO Meldpunt Nederland, which has operated a public web platform since January 2011. Its statistics page listed 18,000-plus reports by May 2026, with yearly totals fluctuating from hundreds to around two thousand and with clear spikes in recent years. This is valuable as a social and observational dataset, but it is not the same thing as a laboratory dataset: it depends on self-reporting, varying witness quality, and later interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+Second are **civilian reporting databases**, especially UFO Meldpunt Nederland, which has operated a public web platform since January 2011. Its statistics page listed 18,000-plus reports by May 2026, with yearly totals fluctuating from hundreds to around two thousand and with clear spikes in recent years. This is valuable as a social and observational dataset, but it is not the same thing as a laboratory dataset: it depends on self-reporting, varying witness quality, and later interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-Third are **case reconstructions**: books, documentaries, radio reports, local history work, and interviews with witnesses. These are especially important for [Gorredijk]({{ 'gorredijk/' | relative_url }}) and Soesterberg, where the significance lies not only in what witnesses said they saw, but in how communities, investigators, military personnel, journalists, and sceptics responded. Defensie Magazines <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[3noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Third are **case reconstructions**: books, documentaries, radio reports, local history work, and interviews with witnesses. These are especially important for [Gorredijk]({{ 'gorredijk/' | relative_url }}) and Soesterberg, where the significance lies not only in what witnesses said they saw, but in how communities, investigators, military personnel, journalists, and sceptics responded. Defensie Magazines<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[3noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Fourth are **sceptical and debunking analyses**. In the Netherlands, Stichting Skepsis has been a prominent source of critical assessment, arguing that many reports are anecdotal, that official Dutch aviation bodies have not maintained a strong UFO-registration culture, and that memory, media influence, aircraft, satellites, planets, balloons, lens effects, and atmospheric conditions explain many cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+Fourth are **sceptical and debunking analyses**. In the Netherlands, Stichting Skepsis has been a prominent source of critical assessment, arguing that many reports are anecdotal, that official Dutch aviation bodies have not maintained a strong UFO-registration culture, and that memory, media influence, aircraft, satellites, planets, balloons, lens effects, and atmospheric conditions explain many cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
 ## The national pattern: many reports, few hard unknowns
 
-The best single snapshot of recent Dutch UFO reporting comes from UFO Meldpunt Nederland’s statistics. Since its public platform launched in 2011, it has recorded yearly totals ranging from 458 reports in 2011 to 2,026 in 2020, with 1,312 in 2024 and 1,329 in 2025. The 2020 spike matters because it coincided with a period when more people were outdoors under pandemic restrictions and when Starlink satellite trains became a widely misread sky phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+The best single snapshot of recent Dutch UFO reporting comes from UFO Meldpunt Nederland’s statistics. Since its public platform launched in 2011, it has recorded yearly totals ranging from 458 reports in 2011 to 2,026 in 2020, with 1,312 in 2024 and 1,329 in 2025. The 2020 spike matters because it coincided with a period when more people were outdoors under pandemic restrictions and when Starlink satellite trains became a widely misread sky phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-The same database shows why raw report counts should not be mistaken for proof of unexplained craft. Since August 2018, the site’s listed identifications include stars or planets, aircraft, satellites or the International Space Station, lanterns, lens flare, Starlink satellites, and skybeamers. In other words, many “UFO” entries are not mysteries after basic checking; they are unfamiliar presentations of familiar things. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+The same database shows why raw report counts should not be mistaken for proof of unexplained craft. Since August 2018, the site’s listed identifications include stars or planets, aircraft, satellites or the International Space Station, lanterns, lens flare, Starlink satellites, and skybeamers. In other words, many “UFO” entries are not mysteries after basic checking; they are unfamiliar presentations of familiar things.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-The regional distribution also follows population and visibility more than it points to a single national mystery zone. UFO Meldpunt’s province table places Zuid-Holland first with 3,082 reports, followed by Noord-Holland, Gelderland, and Noord-Brabant. These are populous, urbanised or semi-urbanised areas with heavy air traffic, dense social networks, many cameras, and many potential misidentifications. Friesland is lower in total count, but it carries outsized historical importance because of the Gorredijk wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+The regional distribution also follows population and visibility more than it points to a single national mystery zone. UFO Meldpunt’s province table places Zuid-Holland first with 3,082 reports, followed by Noord-Holland, Gelderland, and Noord-Brabant. These are populous, urbanised or semi-urbanised areas with heavy air traffic, dense social networks, many cameras, and many potential misidentifications. Friesland is lower in total count, but it carries outsized historical importance because of the Gorredijk wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-The reported shapes also tell a story about culture and technology. The Meldpunt database lists “bol” or sphere as the most common form, followed by “other”, formations of lights, triangles, discs, flashes, cigars, changing forms, fireballs, boomerangs, sound, and pyramids. Bram Roza of UFO Meldpunt has described a historical shift in Dutch reports: saucers in the 1950s and 1960s, more cigar-like objects in the 1970s and 1980s, light formations in the 1990s, and more light balls today. That does not prove reports are culturally manufactured, but it does show that witness descriptions evolve with the sky environment and popular imagery around them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+The reported shapes also tell a story about culture and technology. The Meldpunt database lists “bol” or sphere as the most common form, followed by “other”, formations of lights, triangles, discs, flashes, cigars, changing forms, fireballs, boomerangs, sound, and pyramids. Bram Roza of UFO Meldpunt has described a historical shift in Dutch reports: saucers in the 1950s and 1960s, more cigar-like objects in the 1970s and 1980s, light formations in the 1990s, and more light balls today. That does not prove reports are culturally manufactured, but it does show that witness descriptions evolve with the sky environment and popular imagery around them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
 <img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a-Illustration-1-dark.svg" | relative_url }}" alt="Netherlands Kingdom of the illustration 1" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Key Dutch incident chronology
 
 The Dutch record is not built around one famous national case in the way the United States has Roswell. It is better read as a sequence of episodes with different evidential value.
 
-**1952: Delft enters Project Blue Book.** Public archive listings preserve a Project Blue Book report identified as “Delft, Netherlands” from September 1952. Its value is less as a dramatic case file and more as evidence that Dutch reports entered the international Cold War-era UFO paperwork system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
+**1952: Delft enters Project Blue Book.** Public archive listings preserve a Project Blue Book report identified as “Delft, Netherlands” from September 1952. Its value is less as a dramatic case file and more as evidence that Dutch reports entered the international Cold War-era UFO paperwork system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
 
-**1954: another Netherlands Project Blue Book file.** A second publicly listed Project Blue Book Netherlands report dates to August 1954. Together, these records show that the Dutch skies were not absent from the early post-war UFO archive, even though the files do not amount to a Dutch government investigation programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
+**1954: another Netherlands Project Blue Book file.** A second publicly listed Project Blue Book Netherlands report dates to August 1954. Together, these records show that the Dutch skies were not absent from the early post-war UFO archive, even though the files do not amount to a Dutch government investigation programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
 
-**1965–1990: NOBOVO and organised Dutch ufology.** The Nederlands Onderzoeksbureau voor Onbekende Vliegende Objecten, usually shortened to NOBOVO, was founded in the 1960s and became one of the country’s main civilian UFO-research groups. Sceptical retrospectives describe it as becoming inactive in the 1980s and dissolving in 1990, while later UFO-case writing credits it with using advisers and explaining a number of reports during its active period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+**1965–1990: NOBOVO and organised Dutch ufology.** The Nederlands Onderzoeksbureau voor Onbekende Vliegende Objecten, usually shortened to NOBOVO, was founded in the 1960s and became one of the country’s main civilian UFO-research groups. Sceptical retrospectives describe it as becoming inactive in the 1980s and dissolving in 1990, while later UFO-case writing credits it with using advisers and explaining a number of reports during its active period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
-**1974: Gorredijk and the Frisian wave.** In February 1974, Gorredijk in Friesland became the centre of a local UFO wave involving adults and schoolchildren, reported strange lights, observation posts, national press attention, visiting investigators, and social division within the village. Historian and writer Taede A. Smedes later reconstructed the episode as a community event as much as a sky mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[2noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**1974: Gorredijk and the Frisian wave.** In February 1974, Gorredijk in Friesland became the centre of a local UFO wave involving adults and schoolchildren, reported strange lights, observation posts, national press attention, visiting investigators, and social division within the village. Historian and writer Taede A. Smedes later reconstructed the episode as a community event as much as a sky mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[2noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**1979: Soesterberg Air Base.** On the early morning of 3 February 1979, twelve military personnel at Soesterberg Air Base reportedly saw an unknown object or system of lights over the base. This remains the most persistent Dutch military-linked UFO case, partly because it involved trained personnel at a Cold War air base and partly because later retellings connect it with nearby sightings in the same region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+**1979: Soesterberg Air Base.** On the early morning of 3 February 1979, twelve military personnel at Soesterberg Air Base reportedly saw an unknown object or system of lights over the base. This remains the most persistent Dutch military-linked UFO case, partly because it involved trained personnel at a Cold War air base and partly because later retellings connect it with nearby sightings in the same region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
-**2011 onward: the Meldpunt era.** UFO Meldpunt Nederland’s public web platform created a more visible civilian reporting channel. It records report volume by month, year, province, shape, and explanation category, making it useful for detecting social and technological patterns even when individual reports are weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+**2011 onward: the Meldpunt era.** UFO Meldpunt Nederland’s public web platform created a more visible civilian reporting channel. It records report volume by month, year, province, shape, and explanation category, making it useful for detecting social and technological patterns even when individual reports are weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-**2023–2026: UAP policy advocacy.** UAP Coalition Netherlands, a civil-society group focused on professionals in aviation, police, and the armed forces, began publicly pressing for official attention, transparency, and a reporting point. Its press releases include calls in 2023, 2025, and 2026 for Dutch and European handling of UAP reports, especially for professionals who may be reluctant to report unusual observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">UAP Coalitie Nederland Press releases</span><span class="citation-popover-snippet">UAP Coalitie Nederland Press releases</span></span></span>
+**2023–2026: UAP policy advocacy.** UAP Coalition Netherlands, a civil-society group focused on professionals in aviation, police, and the armed forces, began publicly pressing for official attention, transparency, and a reporting point. Its press releases include calls in 2023, 2025, and 2026 for Dutch and European handling of UAP reports, especially for professionals who may be reluctant to report unusual observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">UAP Coalitie Nederland Press releases</span><span class="citation-popover-snippet">UAP Coalitie Nederland Press releases</span></span></span>
 
-**2025: drones over Volkel and Eindhoven.** In November 2025, the Ministry of Defence reported action after drones were observed over Volkel Air Base on Friday and Saturday evenings, with air-force personnel using ground-based weapons before the drones left. Civilian and military traffic at Eindhoven Airport was also halted for several hours after drone sightings. This is not a classic extraterrestrial UFO case, but it is an important modern “unidentified aerial” episode because it involved restricted airspace, military response, and an unresolved origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-title">Update: Optreden tegen drones boven vliegvelden &#124; Defensie.nl</span><span class="citation-popover-snippet">Update: Optreden tegen drones boven vliegvelden &#124; Defensie.nl</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+**2025: drones over Volkel and Eindhoven.** In November 2025, the Ministry of Defence reported action after drones were observed over Volkel Air Base on Friday and Saturday evenings, with air-force personnel using ground-based weapons before the drones left. Civilian and military traffic at Eindhoven Airport was also halted for several hours after drone sightings. This is not a classic extraterrestrial UFO case, but it is an important modern “unidentified aerial” episode because it involved restricted airspace, military response, and an unresolved origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-title">Update: Optreden tegen drones boven vliegvelden &#124; Defensie.nl</span><span class="citation-popover-snippet">Update: Optreden tegen drones boven vliegvelden &#124; Defensie.nl</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 552.1K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
 
 ## Gorredijk: when a village became the case
 
-Gorredijk is the Netherlands’ strongest example of a UFO wave as a social event. In early 1974, the Frisian village and surrounding area saw repeated reports of strange lights and objects. Later summaries describe adults and schoolchildren reporting lights in the sky, observation posts being set up, UFO researchers travelling to the village, and national media attention turning a local curiosity into a public drama. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boekmeter.nl/book/113887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boekmeter.nl">[BoekMeter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boekmeter.nl</span><span class="citation-popover-title">Boek Meter De Ufo&#x27;s van Gorredijk</span><span class="citation-popover-snippet">Boek Meter De Ufo&#x27;s van Gorredijk</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tresoar.nl">[2tresoar.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tresoar.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Gorredijk is the Netherlands’ strongest example of a UFO wave as a social event. In early 1974, the Frisian village and surrounding area saw repeated reports of strange lights and objects. Later summaries describe adults and schoolchildren reporting lights in the sky, observation posts being set up, UFO researchers travelling to the village, and national media attention turning a local curiosity into a public drama.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boekmeter.nl/book/113887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boekmeter.nl">[BoekMeter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boekmeter.nl</span><span class="citation-popover-title">Boek Meter De Ufo&#x27;s van Gorredijk</span><span class="citation-popover-snippet">Boek Meter De Ufo&#x27;s van Gorredijk</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tresoar.nl">[2tresoar.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tresoar.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case matters because the evidence is not just “someone saw something”. The interesting question is how a community handled uncertainty. Smedes’s reconstruction, as described in interviews and publisher material, treats the Gorredijk wave as a period in which belief, scepticism, embarrassment, fear, and local identity collided. The reports reportedly faded as quickly as they arrived, leaving behind a contested memory rather than a definitive physical explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span>
+The case matters because the evidence is not just “someone saw something”. The interesting question is how a community handled uncertainty. Smedes’s reconstruction, as described in interviews and publisher material, treats the Gorredijk wave as a period in which belief, scepticism, embarrassment, fear, and local identity collided. The reports reportedly faded as quickly as they arrived, leaving behind a contested memory rather than a definitive physical explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span><span class="citation-popover-snippet">Historisch Nieuwsblad&#x27;Nooit eerder zagen we in Nederland zoveel ufo&#x27;s</span></span></span>
 
 For evidence assessment, Gorredijk sits in the **contested** category. There were many witnesses and strong local impact, which makes it more significant than a lone modern phone-camera dot. But available public summaries do not point to recovered material, calibrated sensor data, radar confirmation, or a universally accepted official explanation. The most cautious reading is that Gorredijk is a valuable case about mass reporting and local interpretation, not a proven case of extraordinary technology.
 
@@ -1250,11 +1250,11 @@ It is also useful for comparing Dutch cases with sibling branches in a wider cou
 
 ## Soesterberg: the case that still carries military weight
 
-Soesterberg is the Netherlands’ most memorable air-base UFO case. The core report is that, in the early hours of 3 February 1979, twelve military personnel saw an unknown object or light system pass over Vliegbasis Soesterberg. Later accounts describe a large triangular form with bright light beams, slow movement, and no clear radar match. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+Soesterberg is the Netherlands’ most memorable air-base UFO case. The core report is that, in the early hours of 3 February 1979, twelve military personnel saw an unknown object or light system pass over Vliegbasis Soesterberg. Later accounts describe a large triangular form with bright light beams, slow movement, and no clear radar match.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
-The case has endured because it sits at the intersection of several powerful themes: a Cold War air base, American military presence, trained witnesses, possible missing or inaccessible reports, and later claims of additional sightings in the surrounding region. The Dutch Ministry of Defence’s own magazine covered Bram Roza’s 2024 documentary and noted his attempt to obtain reports that would have been made about the sightings, while also reporting his view that the documentary does not settle what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span></span></span>
+The case has endured because it sits at the intersection of several powerful themes: a Cold War air base, American military presence, trained witnesses, possible missing or inaccessible reports, and later claims of additional sightings in the surrounding region. The Dutch Ministry of Defence’s own magazine covered Bram Roza’s 2024 documentary and noted his attempt to obtain reports that would have been made about the sightings, while also reporting his view that the documentary does not settle what was seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span></span></span>
 
-The sceptical counterweight is important. Stichting Skepsis praised the documentary’s tone but stressed problems with memory after more than forty years, conflicting witness recollections, and the possibility that the official air-force explanation involved a temperature inversion reflecting vehicle headlights or other lights across layers of cold air. One attendee who was reportedly among the original military witnesses described seeing two lights, contrasting with more elaborate triangular recollections in the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+The sceptical counterweight is important. Stichting Skepsis praised the documentary’s tone but stressed problems with memory after more than forty years, conflicting witness recollections, and the possibility that the official air-force explanation involved a temperature inversion reflecting vehicle headlights or other lights across layers of cold air. One attendee who was reportedly among the original military witnesses described seeing two lights, contrasting with more elaborate triangular recollections in the film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
 Soesterberg therefore belongs in the **unresolved but not confirmed** category. It is stronger than most Dutch reports because of the witness setting and its persistence in archival, media, and documentary discussion. It is weaker than a confirmed anomalous-technology case because the physical evidence is absent, the records are incomplete or inaccessible, and the recollections have changed or diverged over time.
 
@@ -1265,21 +1265,21 @@ The case also shows why military proximity can be misleading. A sighting near a 
 
 The Netherlands does not appear to have a public, centralised, official UFO archive comparable to the older U.S. Project Blue Book collection or the United Kingdom’s released Ministry of Defence UFO files. Dutch discussion instead relies on scattered material: U.S. archival files that mention Dutch sightings, local police-to-defence traces, aviation and air-defence procedures, and civilian records.
 
-Stichting Skepsis reported that inquiries with the Royal Netherlands Air Force, Dutch air traffic control, and the pilots’ association produced little because UFOs were not formally registered in those channels. It also reported that freedom-of-information efforts by UFO Meldpunt produced fifteen official cases, mostly local police reports passed to the Air Operations Control Station at Nieuw-Milligen, and that AOCS said Quick Reaction Alert pilots had not encountered a flying object they could not identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+Stichting Skepsis reported that inquiries with the Royal Netherlands Air Force, Dutch air traffic control, and the pilots’ association produced little because UFOs were not formally registered in those channels. It also reported that freedom-of-information efforts by UFO Meldpunt produced fifteen official cases, mostly local police reports passed to the Air Operations Control Station at Nieuw-Milligen, and that AOCS said Quick Reaction Alert pilots had not encountered a flying object they could not identify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
 This creates a frustrating but important distinction. There may be official Dutch paperwork connected to unusual reports, especially where police, air defence, or local authorities were contacted. But that is not the same as a sustained government UAP investigation programme with published conclusions. The available evidence suggests administrative fragments rather than a hidden Dutch equivalent of Project Blue Book.
 
-The clearest official modern material concerns drones rather than classic UFOs. The Ministry of Defence’s 23 November 2025 update on Volkel and Eindhoven was explicit that drones were seen over military airfields, that defence measures were taken, and that police and the Royal Marechaussee were investigating. It also stated that drone flights near airports are strictly prohibited because they create unsafe flight conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span></span></span>
+The clearest official modern material concerns drones rather than classic UFOs. The Ministry of Defence’s 23 November 2025 update on Volkel and Eindhoven was explicit that drones were seen over military airfields, that defence measures were taken, and that police and the Royal Marechaussee were investigating. It also stated that drone flights near airports are strictly prohibited because they create unsafe flight conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span><span class="citation-popover-snippet">Magazines De ufo’s van Soesterberg &#124; 02 &#124; Defensiekrant</span></span></span>
 
 ## Region-level variation: where reports cluster and why
 
-Regional variation in Dutch UFO reporting is real, but it should be read carefully. UFO Meldpunt’s figures show the largest absolute numbers in Zuid-Holland, Noord-Holland, Gelderland, and Noord-Brabant. These provinces contain large populations, major transport corridors, dense lighting environments, military or civil aviation activity, and many people with smartphones. More reports from these regions do not automatically imply more anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+Regional variation in Dutch UFO reporting is real, but it should be read carefully. UFO Meldpunt’s figures show the largest absolute numbers in Zuid-Holland, Noord-Holland, Gelderland, and Noord-Brabant. These provinces contain large populations, major transport corridors, dense lighting environments, military or civil aviation activity, and many people with smartphones. More reports from these regions do not automatically imply more anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-Friesland is different. Its overall Meldpunt count is lower than the big western and southern provinces, but the Gorredijk wave gives it high historical weight. The lesson is that “most reports” and “most culturally important case” are not the same measure. A province can produce fewer modern entries while still hosting one of the most studied Dutch UFO episodes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+Friesland is different. Its overall Meldpunt count is lower than the big western and southern provinces, but the Gorredijk wave gives it high historical weight. The lesson is that “most reports” and “most culturally important case” are not the same measure. A province can produce fewer modern entries while still hosting one of the most studied Dutch UFO episodes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-Utrecht also has a special role because of Soesterberg and the surrounding Leusderheide and Panbos reports discussed in later reconstructions. The Soesterberg case is not simply a point on a map; it is a regional cluster tied to a former air base, Cold War memory, and later documentary testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+Utrecht also has a special role because of Soesterberg and the surrounding Leusderheide and Panbos reports discussed in later reconstructions. The Soesterberg case is not simply a point on a map; it is a regional cluster tied to a former air base, Cold War memory, and later documentary testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
-Noord-Brabant became prominent in a different, modern sense through the 2025 drone events at Volkel and Eindhoven. These incidents belong more naturally to airspace security than to alien-contact folklore, but they demonstrate how unidentified aerial activity can become operationally serious even when the likely category is drone technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-snippet">Open source on defensie.nl.</span></span></span>
+Noord-Brabant became prominent in a different, modern sense through the 2025 drone events at Volkel and Eindhoven. These incidents belong more naturally to airspace security than to alien-contact folklore, but they demonstrate how unidentified aerial activity can become operationally serious even when the likely category is drone technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-snippet">Open source on defensie.nl.</span></span></span>
 
 For the wider Kingdom of the Netherlands, public evidence is much thinner outside the European Netherlands. Searches for Aruba, Curaçao, Bonaire, Sint Maarten, Saba, and Sint Eustatius produce scattered social-media or database-style references rather than strong official or journalistic case records. That does not prove there have been no sightings in the Caribbean parts of the Kingdom; it means the public-source base is not comparable in quality to the Dutch mainland record.
 
@@ -1289,23 +1289,23 @@ For the wider Kingdom of the Netherlands, public evidence is much thinner outsid
 
 A clear Dutch UFO page should separate three things that are often blurred together.
 
-**Confirmed events** are events where something happened, but not necessarily something exotic. UFO Meldpunt’s report totals are confirmed as entries in a civilian database. Project Blue Book contains publicly listed Netherlands-related files. The 2025 Volkel and Eindhoven events are confirmed as official drone-security incidents by the Ministry of Defence and reported by international news agencies. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
+**Confirmed events** are events where something happened, but not necessarily something exotic. UFO Meldpunt’s report totals are confirmed as entries in a civilian database. Project Blue Book contains publicly listed Netherlands-related files. The 2025 Volkel and Eindhoven events are confirmed as official drone-security incidents by the Ministry of Defence and reported by international news agencies. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons Category:UFO sightings in the Netherlands</span><span class="citation-popover-snippet">Commons Category:UFO sightings in the Netherlands</span></span></span>
 
-**Contested cases** are cases where the event history is meaningful, but the interpretation remains disputed. Gorredijk and Soesterberg fit here. Gorredijk had many witnesses and major local impact, but no public hard evidence that resolves the sightings. Soesterberg had military witnesses and persistent claims, but also conflicting memories, missing or unavailable documentation, and plausible atmospheric-light explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+**Contested cases** are cases where the event history is meaningful, but the interpretation remains disputed. Gorredijk and Soesterberg fit here. Gorredijk had many witnesses and major local impact, but no public hard evidence that resolves the sightings. Soesterberg had military witnesses and persistent claims, but also conflicting memories, missing or unavailable documentation, and plausible atmospheric-light explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
-**Debunked or routinely explained reports** make up much of the modern reporting stream. UFO Meldpunt’s own identification table includes planets, stars, aircraft, satellites, the ISS, Starlink, lanterns, skybeamers, and lens flare. NOS reporting from 2017 similarly described a seasonal rise in reports when people spend more time outdoors and noted an example in which a reported object near Ouderkerk aan de Amstel was ultimately an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+**Debunked or routinely explained reports** make up much of the modern reporting stream. UFO Meldpunt’s own identification table includes planets, stars, aircraft, satellites, the ISS, Starlink, lanterns, skybeamers, and lens flare. NOS reporting from 2017 similarly described a seasonal rise in reports when people spend more time outdoors and noted an example in which a reported object near Ouderkerk aan de Amstel was ultimately an aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
 This split matters because a large number of reports can coexist with a small number of serious unknowns. It is entirely possible for Dutch skies to produce thousands of UFO reports and for most of them to be mundane, while a handful still deserve careful historical or aviation-safety attention.
 
 ## Research groups and the Dutch reporting ecosystem
 
-Dutch UFO research has moved through several institutional forms. NOBOVO represented an older organised ufology model, active from the 1960s into the late twentieth century. Later, UFO Meldpunt Nederland filled a reporting gap with a public platform, statistics, maps, explanations, and recent reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van josie zwinenberg 1979</span><span class="citation-popover-snippet">de ufo van josie zwinenberg 1979</span></span></span>
+Dutch UFO research has moved through several institutional forms. NOBOVO represented an older organised ufology model, active from the 1960s into the late twentieth century. Later, UFO Meldpunt Nederland filled a reporting gap with a public platform, statistics, maps, explanations, and recent reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van josie zwinenberg 1979</span><span class="citation-popover-snippet">de ufo van josie zwinenberg 1979</span></span></span>
 
-UFO Meldpunt is valuable because it makes reporting visible and because it tries to classify obvious explanations. Its own process includes a step added in August 2018 to ask whether a sighting matched already-known signal patterns, after the organisation observed that satellites, lanterns, and lens flares were generating many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+UFO Meldpunt is valuable because it makes reporting visible and because it tries to classify obvious explanations. Its own process includes a step added in August 2018 to ask whether a sighting matched already-known signal patterns, after the organisation observed that satellites, lanterns, and lens flares were generating many reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
 
-UAP Coalition Netherlands represents a newer, policy-oriented strand. Its website says it focuses on professionals with UAP experiences, especially in aviation, police, and the armed forces, and its press releases call for a national reporting point and wider European attention. This is less about collecting every public light-in-the-sky report and more about lowering stigma and creating a channel for people whose observations could have safety or security significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">UAP Coalitie Nederland Press releases</span><span class="citation-popover-snippet">UAP Coalitie Nederland Press releases</span></span></span>
+UAP Coalition Netherlands represents a newer, policy-oriented strand. Its website says it focuses on professionals with UAP experiences, especially in aviation, police, and the armed forces, and its press releases call for a national reporting point and wider European attention. This is less about collecting every public light-in-the-sky report and more about lowering stigma and creating a channel for people whose observations could have safety or security significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">UAP Coalitie Nederland Press releases</span><span class="citation-popover-snippet">UAP Coalitie Nederland Press releases</span></span></span>
 
-Stichting Skepsis occupies the critical side of the ecosystem. Its analyses do not simply mock reports; the stronger sceptical work asks what can be known from witness testimony, whether memories have been reshaped by time and media, and whether official non-registration creates an evidential vacuum that enthusiasts may fill too confidently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+Stichting Skepsis occupies the critical side of the ecosystem. Its analyses do not simply mock reports; the stronger sceptical work asks what can be known from witness testimony, whether memories have been reshaped by time and media, and whether official non-registration creates an evidential vacuum that enthusiasts may fill too confidently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
 <img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a-Illustration-3-dark.svg" | relative_url }}" alt="Netherlands Kingdom of the illustration 3" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why many Dutch sightings are hard to evaluate
@@ -1314,11 +1314,11 @@ The Netherlands is a difficult environment for clean UFO evidence. It has dense 
 
 Several recurring explanation categories are especially important:
 
-* **Satellites and Starlink:** trains or bright passes can look like coordinated lights, especially to people who have not seen them before. UFO Meldpunt’s identification table lists both normal satellites or the ISS and Starlink as major explanation categories since 2018. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
-* **Planets and stars:** bright Venus, Jupiter, or low stars can appear to hover, flash, change colour, or move when seen through haze, thin cloud, or moving reference points. UFO Meldpunt lists stars or planets as one of its largest explanation categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
-* **Lens flare and phone artefacts:** modern reports often come with video, but phone optics can create ghost lights that move with the camera rather than the sky. Lens flare is explicitly listed among the Meldpunt’s common identifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
-* **Atmospheric refraction and inversion:** the sceptical discussion of Soesterberg highlights a possible air-force explanation involving a temperature inversion, in which lights from vehicles or the landscape could be reflected or distorted by cold air layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
-* **Drones:** the 2025 Volkel and Eindhoven incidents show that some unidentified aerial reports are not astronomical or psychological at all; they may be unauthorised machines in restricted airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/onderwerpen/v/vliegbewegingen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-snippet">Open source on defensie.nl.</span></span></span>
+* **Satellites and Starlink:** trains or bright passes can look like coordinated lights, especially to people who have not seen them before. UFO Meldpunt’s identification table lists both normal satellites or the ISS and Starlink as major explanation categories since 2018.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+* **Planets and stars:** bright Venus, Jupiter, or low stars can appear to hover, flash, change colour, or move when seen through haze, thin cloud, or moving reference points. UFO Meldpunt lists stars or planets as one of its largest explanation categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+* **Lens flare and phone artefacts:** modern reports often come with video, but phone optics can create ghost lights that move with the camera rather than the sky. Lens flare is explicitly listed among the Meldpunt’s common identifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO Meldpunt Nederland</span></span></span>
+* **Atmospheric refraction and inversion:** the sceptical discussion of Soesterberg highlights a possible air-force explanation involving a temperature inversion, in which lights from vehicles or the landscape could be reflected or distorted by cold air layers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+* **Drones:** the 2025 Volkel and Eindhoven incidents show that some unidentified aerial reports are not astronomical or psychological at all; they may be unauthorised machines in restricted airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defensie.nl/onderwerpen/v/vliegbewegingen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensie.nl">[Defensie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensie.nl</span><span class="citation-popover-snippet">Open source on defensie.nl.</span></span></span>
 
 The practical result is that “unexplained” has to be used modestly. A report can remain unexplained because it is genuinely anomalous, but also because it lacks time, direction, camera metadata, multiple independent witnesses, radar data, or a recoverable object.
 
@@ -1326,201 +1326,201 @@ The practical result is that “unexplained” has to be used modestly. A report
 
 ## The Dutch evidence balance
 
-The Dutch UFO record is strongest as a study of reporting, memory, local history, and airspace ambiguity. It is weaker as evidence for extraordinary craft. Gorredijk shows how a village can become absorbed by a wave of reports; Soesterberg shows why military witnesses and missing records keep a case alive; UFO Meldpunt shows how ordinary explanations dominate large modern datasets; and the 2025 drone incidents show that unidentified aerial activity can be operationally serious without becoming extraterrestrial. Defensie <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[3noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
+The Dutch UFO record is strongest as a study of reporting, memory, local history, and airspace ambiguity. It is weaker as evidence for extraordinary craft. Gorredijk shows how a village can become absorbed by a wave of reports; Soesterberg shows why military witnesses and missing records keep a case alive; UFO Meldpunt shows how ordinary explanations dominate large modern datasets; and the 2025 drone incidents show that unidentified aerial activity can be operationally serious without becoming extraterrestrial. Defensie<span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[3noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span><span class="citation-popover-snippet">Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis</span></span></span>
 
 The most reliable conclusion is not that the Netherlands has “no UFO mystery”, nor that it has proof of alien visitation. It is that Dutch evidence separates sharply into categories. There are many reports, a few historically important clusters, scattered official records, recurring mundane explanations, and a current policy debate over whether aviation and defence professionals need a safer reporting channel.
 
 For readers comparing country branches, the Netherlands is therefore a useful middle case. It lacks a large public government UFO programme, but it has enough civilian data, Cold War-era cases, sceptical analysis, and recent drone-security events to show how UFO phenomena shift with institutions, media, technology, and local geography.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Dutch UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Dutch UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for interpreting community UFO waves and cultural narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting community UFO waves and cultural narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative frameworks applicable to Dutch cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative frameworks applicable to Dutch cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides contemporary context for international UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contemporary context for international UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Excellent overview for readers exploring national UFO case histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent overview for readers exploring national UFO case histories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-dutch-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-dutch-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1536,7 +1536,7 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1556,7 +1556,7 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1588,7 +1588,7 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1640,7 +1640,7 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1685,7 +1685,7 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1726,210 +1726,210 @@ For readers comparing country branches, the Netherlands is therefore a useful mi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skepsis.nl  
    Title: Stichting Skepsis Daar zijn de ufo’s weer – Stichting Skepsis  
-   Link: <a href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-onderzoek/</a>  
+   Link:<a href="https://skepsis.nl/ufo-onderzoek/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-onderzoek/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defensie.nl  
    Title: Update: Optreden tegen drones boven vliegvelden | Defensie.nl  
-   Link: <a href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel</a>  
+   Link:<a href="https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/actueel/nieuws/2025/11/22/optreden-tegen-drones-boven-vliegbasis-volkel</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: Commons Category:UFO sightings in the Netherlands  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_the_Netherlands</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-09-7275072-Delft-Netherlands-2028-.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8715494-Netherlands.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: noordboek.nl  
-   Link: <a href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow">https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer</a>  
+   Link:<a href="https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer" target="_blank" rel="noopener noreferrer nofollow">https://noordboek.nl/boek/de-ufos-van-gorredijk/boekflyer</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepsis.nl  
    Title: Stichting Skepsis Wat de ooggetuigen zich herinneren – Stichting Skepsis  
-   Link: <a href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-soesterberg/</a>  
+   Link:<a href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-soesterberg/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: magazines.defensie.nl  
    Title: Magazines De ufo’s van Soesterberg | 02 | Defensiekrant  
-   Link: <a href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos</a>  
+   Link:<a href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tresoar.nl  
-   Link: <a href="https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c" target="_blank" rel="noopener noreferrer nofollow">https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c</a>  
+   Link:<a href="https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c" target="_blank" rel="noopener noreferrer nofollow">https://www.tresoar.nl/vertellen/verhalen/653d3fc02fb2c25928c20c0c</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepsis.nl  
-   Link: <a href="https://skepsis.nl/skepter-covers/skepter-4-4-1991/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/skepter-covers/skepter-4-4-1991/</a>  
+   Link:<a href="https://skepsis.nl/skepter-covers/skepter-4-4-1991/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/skepter-covers/skepter-4-4-1991/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/eindhoven-airport-closed-after-drone-sightings-defence-minister-says-2025-11-22/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: boekmeter.nl  
    Title: Boek Meter De Ufo's van Gorredijk  
-   Link: <a href="https://www.boekmeter.nl/book/113887" target="_blank" rel="noopener noreferrer nofollow">https://www.boekmeter.nl/book/113887</a>  
+   Link:<a href="https://www.boekmeter.nl/book/113887" target="_blank" rel="noopener noreferrer nofollow">https://www.boekmeter.nl/book/113887</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nos.nl  
    Title: 2175788 ballon drone of toch iets anders hoogseizoen bij het ufo meldpunt  
-   Link: <a href="https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt" target="_blank" rel="noopener noreferrer nofollow">https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt</a>  
+   Link:<a href="https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt" target="_blank" rel="noopener noreferrer nofollow">https://nos.nl/artikel/2175788-ballon-drone-of-toch-iets-anders-hoogseizoen-bij-het-ufo-meldpunt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: defensie.nl  
-   Link: <a href="https://www.defensie.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/</a>  
+   Link:<a href="https://www.defensie.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: defensie.nl  
-   Link: <a href="https://www.defensie.nl/onderwerpen/v/vliegbewegingen" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/onderwerpen/v/vliegbewegingen</a>  
+   Link:<a href="https://www.defensie.nl/onderwerpen/v/vliegbewegingen" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/onderwerpen/v/vliegbewegingen</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: english.defensie.nl  
    Title: milaip 06 2026split ad deel 1 dp dl eh gr kd  
-   Link: <a href="https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf</a>  
+   Link:<a href="https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://english.defensie.nl/site/binaries/site-content/collections/documents/2026/04/28/milaip-06-26-part-3-ad1/milaip-06-2026split-ad-deel-1-dp-dl-eh-gr-kd.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: magazines.defensie.nl  
    Title: 10 11 dingen slider 2025  
-   Link: <a href="https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025</a>  
+   Link:<a href="https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/vliegendehollander/2025/12/10_11-dingen_slider_2025</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: defensie.nl  
    Title: stand van defensie voorjaar 2026  
-   Link: <a href="https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf</a>  
+   Link:<a href="https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defensie.nl/site/binaries/site-content/collections/documents/2026/05/20/stand-van-defensie/stand-van-defensie-voorjaar-2026.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: magazines.defensie.nl  
    Title: 09 negen dingen  
-   Link: <a href="https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen</a>  
+   Link:<a href="https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/vliegendehollander/2020/11/09_negen-dingen</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reuters.com  
    Title: dutch military uses weapons against drones over air force base 2025 11 22  
-   Link: <a href="https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/</a>  
+   Link:<a href="https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/dutch-military-uses-weapons-against-drones-over-air-force-base-2025-11-22/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
+   Link:<a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepsis.nl  
    Title: [PDF] Tussen Waarheid & Waanzin  
-   Link: <a href="https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf</a>  
+   Link:<a href="https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/mainsite/inhoud/uploads/2021/03/TussenWaarheidEnWaanzin2021.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufomeldpunt.nl  
    Title: UFO Meldpunt Nederland Statistieken  
-   Link: <a href="https://www.ufomeldpunt.nl/statistieken" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/statistieken</a>  
+   Link:<a href="https://www.ufomeldpunt.nl/statistieken" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/statistieken</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufomeldpunt.nl  
    Title: UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland  
-   Link: <a href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/</a>  
+   Link:<a href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: historischnieuwsblad.nl  
    Title: Historisch Nieuwsblad'Nooit eerder zagen we in Nederland zoveel ufo's'  
-   Link: <a href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow">https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/</a>  
+   Link:<a href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow">https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ufozaken.nl  
    Title: de ufo van josie zwinenberg 1979  
-   Link: <a href="https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979" target="_blank" rel="noopener noreferrer nofollow">https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979</a>  
+   Link:<a href="https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979" target="_blank" rel="noopener noreferrer nofollow">https://www.ufozaken.nl/cases/de-ufo-van-josie-zwinenberg-1979</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: uapcoalitienederland.nl  
    Title: UAP Coalitie Nederland Press releases  
-   Link: <a href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/press/press-releases/</a>  
+   Link:<a href="https://uapcoalitienederland.nl/en/press/press-releases/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/press/press-releases/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/ufomeldpunt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/ufomeldpunt/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/ufomeldpunt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/ufomeldpunt/?hl=en</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: UFO Meldpunt Nederland  
-   Link: <a href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland</a>  
+   Link:<a href="https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/UFO_Meldpunt_Nederland</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: jco.birdscaribbean.org  
-   Link: <a href="https://jco.birdscaribbean.org/index.php/jco/article/view/217" target="_blank" rel="noopener noreferrer nofollow">https://jco.birdscaribbean.org/index.php/jco/article/view/217</a>  
+   Link:<a href="https://jco.birdscaribbean.org/index.php/jco/article/view/217" target="_blank" rel="noopener noreferrer nofollow">https://jco.birdscaribbean.org/index.php/jco/article/view/217</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LNXzKPr7mrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LNXzKPr7mrA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters In Europe | Never-Seen-Before Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LNXzKPr7mrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LNXzKPr7mrA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters In Europe | Never-Seen-Before Evidence...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFO Encounters In Europe | Never-Seen-Before Evidence!  
-   Link: <a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n7FS9BXBa8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFO appears in the sky over Amsterdam...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n7FS9BXBa8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFO appears in the sky over Amsterdam...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DRX7R20jLil/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRX7R20jLil/</a>  
+   Link:<a href="https://www.instagram.com/p/DRX7R20jLil/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRX7R20jLil/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/</a>  
+   Link:<a href="https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/videos/fpreels-netherlands-eindhoven-airport-shut-after-drone-sightingsair-traffic-at-e/4130195003869377/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRZQld_FZ81/?hl=en-gb</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research</a>  
+   Link:<a href="https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400876026_UFOs_in_the_Cold_War_A_Fun_Assignment_for_Teaching_Digital_Archival_Research</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: uapfilewatch.com  
-   Link: <a href="https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399" target="_blank" rel="noopener noreferrer nofollow">https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no-2-2-5300-2-5399</a>  
+   Link:<a href="https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no" target="_blank" rel="noopener noreferrer nofollow">https://uapfilewatch.com/document/341-110448-records-relating-to-the-collection-and-dissemination-of-intelligence-1948-1955-ts-cont-no</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0</a>  
+   Link:<a href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: x.com  
-   Link: <a href="https://x.com/TheStudyofWar/status/1992435438720585943?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/TheStudyofWar/status/1992435438720585943?lang=en</a>  
+   Link:<a href="https://x.com/TheStudyofWar/status/1992435438720585943?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/TheStudyofWar/status/1992435438720585943?lang=en</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/</a>
+   Link:<a href="https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/breaking-air-traffic-at-eindhoven-airport-has-been-suspended-due-to-multiple-dro/1296100799227913/</a>

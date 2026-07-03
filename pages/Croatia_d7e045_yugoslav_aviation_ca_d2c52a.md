@@ -251,7 +251,7 @@ image: /assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-1-
 The most discussed aviation-related UFO stories connected to Croatia emerged during the final decades of socialist Yugoslavia, especially in the 1970s. Unlike later civilian sightings built around blurry photographs or anecdotal recollections, these cases involved commercial aircraft crews, military radar operators, air-defence systems, and reports of interceptor activity. The two incidents most often cited are the alleged radar observations associated with the Yugoslav Air Force’s 172nd Aviation Regiment and the 1977 Pan Adria encounter involving a Zagreb-based airline operating over Yugoslav airspace. Together, these stories helped shape how UFO reports were understood in Croatia: less as folklore and more as aviation-security anomalies linked to trained witnesses.
 
 <img src="{{ "/assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-1-dark.svg" | relative_url }}" alt="1970 s Aviation Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The historical problem is that the evidence remains fragmented. Much of the material comes from later interviews, UFO publications, secondary retellings, or post-Yugoslav media accounts rather than fully released military archives. That makes the Croatian-linked aviation cases historically interesting but evidentially uneven. Some details are corroborated across multiple retellings — such as radar tracking claims, military involvement, and the participation of airline crews — while more dramatic elements, including extraordinary speeds and pilot deaths linked directly to UFO pursuit, remain contested or poorly documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLP Pan Adria incident</span><span class="citation-popover-snippet">Wikipedija, prosta enciklopedijaAugust 28, 2018 — Vse se je zgodilo ob priložnosti poleta letala Fokker 227 Pan Adrie na liniji Zagreb –...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+The historical problem is that the evidence remains fragmented. Much of the material comes from later interviews, UFO publications, secondary retellings, or post-Yugoslav media accounts rather than fully released military archives. That makes the Croatian-linked aviation cases historically interesting but evidentially uneven. Some details are corroborated across multiple retellings — such as radar tracking claims, military involvement, and the participation of airline crews — while more dramatic elements, including extraordinary speeds and pilot deaths linked directly to UFO pursuit, remain contested or poorly documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLP Pan Adria incident</span><span class="citation-popover-snippet">Wikipedija, prosta enciklopedijaAugust 28, 2018 — Vse se je zgodilo ob priložnosti poleta letala Fokker 227 Pan Adrie na liniji Zagreb –...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 ## Why Yugoslav aviation incidents mattered in Croatia
 
@@ -268,7 +268,7 @@ This aviation environment mattered because Yugoslavia’s military culture treat
 
 </div>
 
-The period also coincided with severe stress inside Yugoslav air-traffic control. The 1976 Zagreb mid-air collision, which killed 176 people, exposed overcrowded skies, understaffing, and radar-management problems over Croatia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLO Pan Adria incident</span><span class="citation-popover-snippet">Zna se samo da je jedan pilot te noći poginuo. Vojna lica... ↑ „Yugoslavian UFO incident &#x27;Pan Adria&#x27; in 1977”. sanjindumisic.com. 16.3...</span></span></span> That tragedy was unrelated to UFO claims, but it shaped later interpretations of anomalous aviation reports. In practical terms, it demonstrated that radar confusion, communication failures, and fast-moving aircraft in dense corridors could produce situations that observers initially struggled to interpret.
+The period also coincided with severe stress inside Yugoslav air-traffic control. The 1976 Zagreb mid-air collision, which killed 176 people, exposed overcrowded skies, understaffing, and radar-management problems over Croatia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLO Pan Adria incident</span><span class="citation-popover-snippet">Zna se samo da je jedan pilot te noći poginuo. Vojna lica... ↑ „Yugoslavian UFO incident &#x27;Pan Adria&#x27; in 1977”. sanjindumisic.com. 16.3...</span></span></span> That tragedy was unrelated to UFO claims, but it shaped later interpretations of anomalous aviation reports. In practical terms, it demonstrated that radar confusion, communication failures, and fast-moving aircraft in dense corridors could produce situations that observers initially struggled to interpret.
 
 As a result, Croatian-linked UFO stories from the era occupy a complicated space between air-defence history, Cold War anxiety, and later myth-making.
 
@@ -278,7 +278,7 @@ As a result, Croatian-linked UFO stories from the era occupy a complicated space
 
 The most persistent military-linked Croatian UFO narrative concerns reports associated with the Yugoslav Air Force’s 172nd Aviation Regiment and radar coverage near the southern Adriatic. Later UFO groups in the former Yugoslavia connected the story to radar operators monitoring the Prevlaka and Dubrovnik region, an area of high military importance because it overlooked Adriatic access routes and southern Yugoslav coastal airspace.
 
-The 172nd Regiment itself belonged to the Yugoslav Air Force structure during the Cold War period and operated within a broader network of reconnaissance and fighter aviation units. Some associated aviation squadrons were linked to bases in the wider Adriatic region, including installations in what are now Croatia and Montenegro. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Zagreb mid air collision</span><span class="citation-popover-snippet">1976 Zagreb mid air collision</span></span></span>
+The 172nd Regiment itself belonged to the Yugoslav Air Force structure during the Cold War period and operated within a broader network of reconnaissance and fighter aviation units. Some associated aviation squadrons were linked to bases in the wider Adriatic region, including installations in what are now Croatia and Montenegro.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Zagreb mid air collision</span><span class="citation-popover-snippet">1976 Zagreb mid air collision</span></span></span>
 
 Accounts published decades later describe radar operators detecting unidentified targets that reportedly manoeuvred in unusual ways near the Adriatic coast. The claims vary by source, but recurring elements include:
 
@@ -319,7 +319,7 @@ Still, the persistence of the story is historically significant because it helpe
 
 ### A Zagreb-linked airline at the centre of the case
 
-The most famous Croatian-linked aviation UFO case of the 1970s is the so-called Pan Adria incident of August 1977. Pan Adria Airways was a Zagreb-based Yugoslav airline operating passenger, cargo, and charter routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">355th Reconnaissance Aviation Squadron</span><span class="citation-popover-snippet">355th Reconnaissance Aviation Squadron</span></span></span>
+The most famous Croatian-linked aviation UFO case of the 1970s is the so-called Pan Adria incident of August 1977. Pan Adria Airways was a Zagreb-based Yugoslav airline operating passenger, cargo, and charter routes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">355th Reconnaissance Aviation Squadron</span><span class="citation-popover-snippet">355th Reconnaissance Aviation Squadron</span></span></span>
 
 According to later accounts, a Pan Adria aircraft flying on a night route from Zagreb toward Belgrade and onward to Titograd encountered an unusual luminous object that appeared to pace the aircraft for an extended period. The incident later became one of the best-known UFO stories from the former Yugoslavia because it allegedly involved:
 
@@ -332,7 +332,7 @@ According to later accounts, a Pan Adria aircraft flying on a night route from Z
 
 </div>
 
-The most widely repeated version states that the crew first noticed a blue-red or red-coloured light near Sremska Mitrovica during the early hours of 16 August 1977. The object reportedly remained near the aircraft as it descended toward Belgrade and later continued to follow the flight after departure toward Titograd. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pan_Adria_Airways" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pan Adria Airways</span><span class="citation-popover-snippet">Pan Adria Airways</span></span></span>
+The most widely repeated version states that the crew first noticed a blue-red or red-coloured light near Sremska Mitrovica during the early hours of 16 August 1977. The object reportedly remained near the aircraft as it descended toward Belgrade and later continued to follow the flight after departure toward Titograd.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pan_Adria_Airways" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pan Adria Airways</span><span class="citation-popover-snippet">Pan Adria Airways</span></span></span>
 
 ### Radar tracking and interception claims
 
@@ -362,12 +362,12 @@ However, historians face major evidential problems when assessing the case:
 
 </div>
 
-The alleged death of a pilot is especially difficult to verify. Some later accounts mention it briefly without documentation linking a fatal crash directly to UFO pursuit operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLP Pan Adria incident</span><span class="citation-popover-snippet">Wikipedija, prosta enciklopedijaAugust 28, 2018 — Vse se je zgodilo ob priložnosti poleta letala Fokker 227 Pan Adrie na liniji Zagreb –...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+The alleged death of a pilot is especially difficult to verify. Some later accounts mention it briefly without documentation linking a fatal crash directly to UFO pursuit operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLP Pan Adria incident</span><span class="citation-popover-snippet">Wikipedija, prosta enciklopedijaAugust 28, 2018 — Vse se je zgodilo ob priložnosti poleta letala Fokker 227 Pan Adrie na liniji Zagreb –...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-2-dark.svg" | relative_url }}" alt="1970 s Aviation Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the case survived for decades
 
-The Pan Adria story endured partly because it contained elements that audiences considered difficult to dismiss. Unlike many civilian UFO claims, it involved professional aviation personnel operating within controlled airspace. Later summaries also stressed that Yugoslav authorities supposedly discouraged witnesses from speaking publicly about the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Yugoslavian UFO experience</span><span class="citation-popover-snippet">Yugoslavian UFO experienceJuly 9, 2023 — The Incident: The UFO sighting occurred in August 1977 during a commercial flight of the f...</span><span class="citation-popover-meta">Published: July 9, 2023</span></span></span>
+The Pan Adria story endured partly because it contained elements that audiences considered difficult to dismiss. Unlike many civilian UFO claims, it involved professional aviation personnel operating within controlled airspace. Later summaries also stressed that Yugoslav authorities supposedly discouraged witnesses from speaking publicly about the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Yugoslavian UFO experience</span><span class="citation-popover-snippet">Yugoslavian UFO experienceJuly 9, 2023 — The Incident: The UFO sighting occurred in August 1977 during a commercial flight of the f...</span><span class="citation-popover-meta">Published: July 9, 2023</span></span></span>
 
 This alleged secrecy fit broader post-Cold War narratives about hidden military archives across eastern Europe. After the collapse of Yugoslavia, former crew members and aviation enthusiasts became more willing to discuss stories that had circulated privately for years.
 
@@ -390,7 +390,7 @@ Several non-extraordinary explanations are commonly proposed:
 
 The Pan Adria incident in particular took place within heavily monitored airspace where military and civilian traffic overlapped. Under those conditions, ambiguous radar returns could easily gain dramatic interpretations, especially if crews expected interception activity or unusual manoeuvres nearby.
 
-The post-1976 Zagreb collision environment also increased sensitivity to anything abnormal on radar displays. Air-traffic controllers in Yugoslavia were already operating under intense pressure due to congestion and equipment limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLO Pan Adria incident</span><span class="citation-popover-snippet">Zna se samo da je jedan pilot te noći poginuo. Vojna lica... ↑ „Yugoslavian UFO incident &#x27;Pan Adria&#x27; in 1977”. sanjindumisic.com. 16.3...</span></span></span>
+The post-1976 Zagreb collision environment also increased sensitivity to anything abnormal on radar displays. Air-traffic controllers in Yugoslavia were already operating under intense pressure due to congestion and equipment limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NLO Pan Adria incident</span><span class="citation-popover-snippet">Zna se samo da je jedan pilot te noći poginuo. Vojna lica... ↑ „Yugoslavian UFO incident &#x27;Pan Adria&#x27; in 1977”. sanjindumisic.com. 16.3...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4DzjUBGkrJc" title="1977 🇷🇸 #UFOB [CASE] Known as &#x27;Pan Adria&#x27; in former Yugoslavia. Radar operator Aldo Matić&#x27; recounts." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4DzjUBGkrJc" target="_blank" rel="noopener noreferrer">1977 🇷🇸 #UFOB [CASE] Known as &#x27;Pan Adria&#x27; in former Yugoslavia. Radar operator Aldo Matić&#x27; recounts.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library &middot; Views: 817 &middot; Uploaded: October 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4DzjUBGkrJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4DzjUBGkrJc">Open on YouTube</a></p></div></div></div>
 
@@ -423,7 +423,7 @@ Before these stories circulated widely, UFO discussion in Yugoslavia tended to r
 
 That combination gave later Croatian UFO researchers a narrative framework very different from folklore-style sightings. The message was that unexplained aerial phenomena could intersect with real aviation and defence structures.
 
-The Pan Adria incident became particularly influential in regional UFO communities after the 1990s because it seemed to offer a local equivalent to western pilot-encounter cases. Croatian and Serbian UFO groups repeatedly revisited the story in articles, television discussions, and online archives, often presenting it as evidence that Yugoslav authorities quietly investigated anomalous aerial events during the Cold War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Zagreb mid air collision</span><span class="citation-popover-snippet">1976 Zagreb mid air collision</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">355th Reconnaissance Aviation Squadron</span><span class="citation-popover-snippet">355th Reconnaissance Aviation Squadron</span></span></span>
+The Pan Adria incident became particularly influential in regional UFO communities after the 1990s because it seemed to offer a local equivalent to western pilot-encounter cases. Croatian and Serbian UFO groups repeatedly revisited the story in articles, television discussions, and online archives, often presenting it as evidence that Yugoslav authorities quietly investigated anomalous aerial events during the Cold War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Zagreb mid air collision</span><span class="citation-popover-snippet">1976 Zagreb mid air collision</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">355th Reconnaissance Aviation Squadron</span><span class="citation-popover-snippet">355th Reconnaissance Aviation Squadron</span></span></span>
 
 The incidents also contributed to a broader Croatian pattern in which aviation-linked reports received more public attention than ordinary civilian sightings. Even decades later, unexplained aerial events involving aircraft, radar, or military systems tended to attract disproportionate media interest compared with isolated eyewitness claims.
 
@@ -451,194 +451,194 @@ Beyond that, certainty rapidly declines.
 For Croatia’s UFO history, the lasting importance of these incidents is therefore cultural and historical rather than evidential. They marked the moment when unidentified aerial phenomena became linked in the regional imagination with professional aviation, Cold War surveillance, and the possibility — whether real or exaggerated — of hidden military knowledge about unusual events in the skies above the Adriatic.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How 1970s Aviation Reports Shaped Croatia’s UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How 1970s Aviation Reports Shaped Croatia’s UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to official UFO case analysis and aviation encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to official UFO case analysis and aviation encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding radar and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding radar and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches military, pilot, radar, and aviation-report themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches military, pilot, radar, and aviation-report themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for military aircraft technology and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military aircraft technology and secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-1970s-aviation-reports-shaped-croatia-s-ufo-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ For Croatia’s UFO history, the lasting importance of these incidents is theref
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ For Croatia’s UFO history, the lasting importance of these incidents is theref
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ For Croatia’s UFO history, the lasting importance of these incidents is theref
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -758,7 +758,7 @@ For Croatia’s UFO history, the lasting importance of these incidents is theref
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -803,7 +803,7 @@ For Croatia’s UFO history, the lasting importance of these incidents is theref
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -841,106 +841,105 @@ For Croatia’s UFO history, the lasting importance of these incidents is theref
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: NLP Pan Adria incident  
-   Link: <a href="https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedija, prosta enciklopedijaAugust 28, 2018 — Vse se je zgodilo ob priložnosti poleta letala Fokker 227 Pan Adrie na liniji Zagreb –...</p></details>
+   Link:<a href="https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sl.wikipedia.org/wiki/NLP_Pan_Adria_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedija, prosta enciklopedijaAugust 28, 2018 — Vse se je zgodilo ob priložnosti poleta letala Fokker 227 Pan Adrie na liniji Zagreb –...</p></details>
    Published: August 28, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: NLO Pan Adria incident  
-   Link: <a href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zna se samo da je jedan pilot te noći poginuo. Vojna lica... ↑ „Yugoslavian UFO incident &#x27;Pan Adria&#x27; in 1977”. sanjindumisic.com. 16.3...</p></details>
+   Link:<a href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zna se samo da je jedan pilot te noći poginuo. Vojna lica... ↑ „Yugoslavian UFO incident &#x27;Pan Adria&#x27; in 1977”. sanjindumisic.com. 16.3...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1976 Zagreb mid air collision  
-   Link: <a href="https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 355th Reconnaissance Aviation Squadron  
-   Link: <a href="https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/355th_Reconnaissance_Aviation_Squadron</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Pan Adria Airways  
-   Link: <a href="https://en.wikipedia.org/wiki/Pan_Adria_Airways" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pan_Adria_Airways</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pan_Adria_Airways" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pan_Adria_Airways</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Yugoslavian UFO experience  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslavian UFO experienceJuly 9, 2023 — The Incident: The UFO sighting occurred in August 1977 during a commercial flight of the f...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslavian UFO experienceJuly 9, 2023 — The Incident: The UFO sighting occurred in August 1977 during a commercial flight of the f...</p></details>
    Published: July 9, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: yugoslav radar operator recalls 1977 pan adria  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/17hjora/yugoslav_radar_operator_recalls_1977_pan_adria/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/17hjora/yugoslav_radar_operator_recalls_1977_pan_adria/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOB - Trump administration to release UFO files featuring pilot encounters imminently.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/17hjora/yugoslav_radar_operator_recalls_1977_pan_adria/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/17hjora/yugoslav_radar_operator_recalls_1977_pan_adria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOB - Trump administration to release UFO files featuring pilot encounters imminently.Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/operator/pan-adria" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/operator/pan-adria</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesPan AdriaSuffered a ground accident while taxiing at Zagreb-Pleso Airport. All 47 occupants were eva...</p></details>
+   Link:<a href="https://www.baaa-acro.com/operator/pan-adria" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/operator/pan-adria</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesPan AdriaSuffered a ground accident while taxiing at Zagreb-Pleso Airport. All 47 occupants were eva...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: admiralcloudberg.medium.com  
    Title: philosophy of blame the story of the 1976 zagreb mid air collision 38202bfc1ad7  
-   Link: <a href="https://admiralcloudberg.medium.com/philosophy-of-blame-the-story-of-the-1976-zagreb-mid-air-collision-38202bfc1ad7" target="_blank" rel="noopener noreferrer nofollow">https://admiralcloudberg.medium.com/philosophy-of-blame-the-story-of-the-1976-zagreb-mid-air-collision-38202bfc1ad7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Blame: The story of the 1976 Zagreb mid-air...On the 10th of September 1976, tragedy unfolded in the skies over Yugoslavia as two air...</p></details>
+   Link:<a href="https://admiralcloudberg.medium.com/philosophy-of-blame-the-story-of-the-1976-zagreb-mid-air-collision-38202bfc1ad7" target="_blank" rel="noopener noreferrer nofollow">https://admiralcloudberg.medium.com/philosophy-of-blame-the-story-of-the-1976-zagreb-mid-air-collision-38202bfc1ad7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Blame: The story of the 1976 Zagreb mid-air...On the 10th of September 1976, tragedy unfolded in the skies over Yugoslavia as two air...</p></details>
    Published: September 1976  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medtrends.org  
-   Link: <a href="https://www.medtrends.org/reports/MedTrends_AD-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.medtrends.org/reports/MedTrends_AD-Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE GROWTH TRENDS IN THE ADRIATIC SEA:Leakage or escaping leading to the introduction of alien marine species (e.g. fish, crustaceans, m...</p></details>
+   Link:<a href="https://www.medtrends.org/reports/MedTrends_AD-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.medtrends.org/reports/MedTrends_AD-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE GROWTH TRENDS IN THE ADRIATIC SEA:Leakage or escaping leading to the introduction of alien marine species (e.g. fish, crustaceans, m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4kwabufLJ9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kwabufLJ9Y</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4kwabufLJ9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kwabufLJ9Y</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: A routine flight turned into an encounter with the unknown  
-   Link: <a href="https://www.instagram.com/p/DHn_7OhNKTU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHn_7OhNKTU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 16, 1977, a Pan Adria Fokker F27 was en route from Zagreb when a... #DulceBase #ConspiracyTheories #UndergroundBase #UFO #Alie...</p></details>
+   Link:<a href="https://www.instagram.com/p/DHn_7OhNKTU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHn_7OhNKTU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On August 16, 1977, a Pan Adria Fokker F27 was en route from Zagreb when a... #DulceBase #ConspiracyTheories #UndergroundBase #UFO #Alie...</p></details>
    Published: August 16, 1977  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: “UFO building” at Ada Ciganlija in Belgrade (Serbia)  
-   Link: <a href="https://www.facebook.com/groups/spaceage/posts/10164185926399679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceage/posts/10164185926399679/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>His curiosity led him to an incident on August 16, 1977 involving a Pan Adria airliner.... UFO triangle sighting over Serbia reported. D...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spaceage/posts/10164185926399679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceage/posts/10164185926399679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His curiosity led him to an incident on August 16, 1977 involving a Pan Adria airliner.... UFO triangle sighting over Serbia reported. D...</p></details>
    Published: August 16, 1977  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: achtungskyhawk.com  
-   Link: <a href="https://achtungskyhawk.com/category/yugoslav-and-croatian-aviation-history/" target="_blank" rel="noopener noreferrer nofollow">https://achtungskyhawk.com/category/yugoslav-and-croatian-aviation-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s from Croatian and Yugoslav aviation history.Read more...</p></details>
+   Link:<a href="https://achtungskyhawk.com/category/yugoslav-and-croatian-aviation-history/" target="_blank" rel="noopener noreferrer nofollow">https://achtungskyhawk.com/category/yugoslav-and-croatian-aviation-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s from Croatian and Yugoslav aviation history.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: api.parliament.uk  
    Title: aircraft accident yugoslavia  
-   Link: <a href="https://api.parliament.uk/historic-hansard/commons/1971/may/24/aircraft-accident-yugoslavia" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1971/may/24/aircraft-accident-yugoslavia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACCIDENT (YUGOSLAVIA) (Hansard, 24 May 1971)24 May 1971 — A Tupalev 134A aircraft, operated by Aviogenex, a Yugoslav company, on a flight...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/commons/1971/may/24/aircraft-accident-yugoslavia" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/commons/1971/may/24/aircraft-accident-yugoslavia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACCIDENT (YUGOSLAVIA) (Hansard, 24 May 1971)24 May 1971 — A Tupalev 134A aircraft, operated by Aviogenex, a Yugoslav company, on a flight...</p></details>
    Published: May 1971  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PAN ADRIA INCIDENT: Rušenje dva JNA MIGA-a 21...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PAN ADRIA INCIDENT: Rušenje dva JNA MIGA-a 21...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Na rubu znanosti  
-   Link: <a href="https://www.youtube.com/watch?v=b5BMzkTTkjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b5BMzkTTkjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO case of Yugoslav pilot in 70s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b5BMzkTTkjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b5BMzkTTkjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO case of Yugoslav pilot in 70s...</p></details>

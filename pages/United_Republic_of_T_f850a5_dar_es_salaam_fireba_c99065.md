@@ -248,14 +248,14 @@ image: /assets/images/United_Republic_of_T_f850a5_dar_es_salaam_fireba_c99065-Il
 
 ## Introduction
 
-The 2009 Dar es Salaam “fireball” report occupies a distinctive place in Tanzania’s small UFO record because it is one of the few modern cases linked to video footage rather than a purely verbal sighting. At the same time, it is also one of the strongest examples of why unusual lights in the sky are often difficult to classify from low-quality evidence alone. Public descriptions refer to a bright object observed over Dar es Salaam and later discussed in UFO-reporting circles, including the National UFO Reporting Center (NUFORC). Yet the available material is sparse, the video quality is poor, and no publicly known investigation produced radar data, astronomical reconstruction or detailed witness interviews. The result is not a convincing alien-craft case but a useful example of how meteors, satellites, atmospheric conditions and camera limitations can create apparently mysterious footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2009 Dar es Salaam “fireball” report occupies a distinctive place in Tanzania’s small UFO record because it is one of the few modern cases linked to video footage rather than a purely verbal sighting. At the same time, it is also one of the strongest examples of why unusual lights in the sky are often difficult to classify from low-quality evidence alone. Public descriptions refer to a bright object observed over Dar es Salaam and later discussed in UFO-reporting circles, including the National UFO Reporting Center (NUFORC). Yet the available material is sparse, the video quality is poor, and no publicly known investigation produced radar data, astronomical reconstruction or detailed witness interviews. The result is not a convincing alien-craft case but a useful example of how meteors, satellites, atmospheric conditions and camera limitations can create apparently mysterious footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/United_Republic_of_T_f850a5_dar_es_salaam_fireba_c99065-Illustration-1-dark.svg" | relative_url }}" alt="Dar Fireball illustration 1" data-theme-src-dark="{{ "/assets/images/United_Republic_of_T_f850a5_dar_es_salaam_fireba_c99065-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Republic_of_T_f850a5_dar_es_salaam_fireba_c99065-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider Tanzanian UFO chronology, the Dar es Salaam incident is significant less for what it proves than for what it demonstrates about evidence quality. Unlike the older Mount [Kilimanjaro]({{ 'kilimanjaro/' | relative_url }}) case, the discussion centres on interpreting a recorded visual object rather than reconstructing an event from decades-old testimony.
 
 ## What the observers and blog account described
 
-The publicly circulated versions of the story describe a bright object visible in the sky over Dar es Salaam during 2009. The sighting later appeared in UFO-reporting databases and online discussions, where it was typically presented as an unidentified aerial object rather than a documented astronomical event. References to the case are brief, and there is little agreement on crucial details such as duration, exact direction of travel, altitude, weather conditions or the number of independent witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Indonesian UFO Contact Cases Database (Version 0.9...dAtABASES CASES OF CONTACT WITH UFO IN INDONESIA UFO sighting in Malang in 1991 I...</span></span></span>
+The publicly circulated versions of the story describe a bright object visible in the sky over Dar es Salaam during 2009. The sighting later appeared in UFO-reporting databases and online discussions, where it was typically presented as an unidentified aerial object rather than a documented astronomical event. References to the case are brief, and there is little agreement on crucial details such as duration, exact direction of travel, altitude, weather conditions or the number of independent witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Indonesian UFO Contact Cases Database (Version 0.9...dAtABASES CASES OF CONTACT WITH UFO IN INDONESIA UFO sighting in Malang in 1991 I...</span></span></span>
 
 That lack of detail matters. In sky-observation investigations, the most useful information is often not the appearance of the object itself but the surrounding context:
 
@@ -280,7 +280,7 @@ The surviving descriptions instead focus on the object's brightness and unusual 
 
 For many investigators, the simplest explanation would be a meteor or fireball.
 
-A fireball is an unusually bright meteor produced when a fragment of cosmic material enters Earth's atmosphere and burns intensely. Large fireballs can outshine planets, generate dramatic colours and appear startlingly close even when they are actually tens of kilometres away. The International Astronomical Union's standard definition treats a fireball as a meteor brighter than magnitude -4, making such events highly visible to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A fireball is an unusually bright meteor produced when a fragment of cosmic material enters Earth's atmosphere and burns intensely. Large fireballs can outshine planets, generate dramatic colours and appear startlingly close even when they are actually tens of kilometres away. The International Astronomical Union's standard definition treats a fireball as a meteor brighter than magnitude -4, making such events highly visible to casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several characteristics commonly associated with fireball sightings overlap with the limited descriptions attributed to the Dar es Salaam case:
 
@@ -296,7 +296,7 @@ Several characteristics commonly associated with fireball sightings overlap with
 
 Fireballs are also frequently mistaken for structured craft. Witnesses often report a glowing object slowing down, hovering or changing shape, when in reality atmospheric perspective and brightness fluctuations are altering perception. A bright meteor near the horizon can appear especially unusual because its path seems flatter and slower than viewers expect.
 
-Tanzania has a long history of public interest in meteors and meteorites. The country is associated with several scientifically recognised meteorite finds and falls, showing that atmospheric entry events are not rare in the region's skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tzaffairs.org/2008/page/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tzaffairs.org">[Tanzanian Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tzaffairs.org</span><span class="citation-popover-snippet">Tanzanian AffairsPage 21 Sept 2008 — The 0.7 kg meteorite landed near Ivuna, Tanzania, on December 16, 1938, and was subsequently split i...</span><span class="citation-popover-meta">Published: December 16, 1938</span></span></span>
+Tanzania has a long history of public interest in meteors and meteorites. The country is associated with several scientifically recognised meteorite finds and falls, showing that atmospheric entry events are not rare in the region's skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tzaffairs.org/2008/page/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tzaffairs.org">[Tanzanian Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tzaffairs.org</span><span class="citation-popover-snippet">Tanzanian AffairsPage 21 Sept 2008 — The 0.7 kg meteorite landed near Ivuna, Tanzania, on December 16, 1938, and was subsequently split i...</span><span class="citation-popover-meta">Published: December 16, 1938</span></span></span>
 
 The major weakness of the meteor explanation is that the public record does not preserve enough timing information to match the sighting with a documented regional fireball event. Without that correlation, the explanation remains plausible rather than confirmed.
 
@@ -361,201 +361,201 @@ This distinguishes it from some historically significant UFO cases elsewhere, wh
 
 The cautious interpretation is that the Dar es Salaam 2009 sighting was a genuine observation of a bright object in the sky but not necessarily an unexplained one.
 
-A meteor fireball remains a strong candidate because bright meteors routinely generate reports of unusual aerial objects and can look dramatic even during a brief appearance. A satellite reflection or other ordinary astronomical source also fits many aspects of the limited descriptions. Camera blur and image-quality limitations further reduce confidence in any interpretation based solely on the surviving footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A meteor fireball remains a strong candidate because bright meteors routinely generate reports of unusual aerial objects and can look dramatic even during a brief appearance. A satellite reflection or other ordinary astronomical source also fits many aspects of the limited descriptions. Camera blur and image-quality limitations further reduce confidence in any interpretation based solely on the surviving footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-What keeps the case unresolved is not the strength of extraordinary evidence but the weakness of the available record. There is too little information to identify the object conclusively, yet there is also too little evidence to justify a claim that the event involved a genuinely anomalous craft. In Tanzania's UFO history, the Dar es Salaam fireball therefore stands as a useful lesson in investigative caution: an unusual sight can be real, memorable and sincerely reported while still remaining most consistent with ordinary sky phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+What keeps the case unresolved is not the strength of extraordinary evidence but the weakness of the available record. There is too little information to identify the object conclusively, yet there is also too little evidence to justify a claim that the event involved a genuinely anomalous craft. In Tanzania's UFO history, the Dar es Salaam fireball therefore stands as a useful lesson in investigative caution: an unusual sight can be real, memorable and sincerely reported while still remaining most consistent with ordinary sky phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5bYAjCMcwM" title="How To Recognize Space Rocks vs Satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5bYAjCMcwM" target="_blank" rel="noopener noreferrer">How To Recognize Space Rocks vs Satellites</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 96.0K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5bYAjCMcwM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5bYAjCMcwM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Dar es Salaam Fireball a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Dar es Salaam Fireball a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigation standards and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation standards and unresolved sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a discussion of unresolved aerial sightings and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a discussion of unresolved aerial sightings and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating whether unusual sky events merit UFO classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating whether unusual sky events merit UFO classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores contemporary UFO claims and evidential debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores contemporary UFO claims and evidential debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-dar-es-salaam-fireball-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-dar-es-salaam-fireball-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ What keeps the case unresolved is not the strength of extraordinary evidence but
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ What keeps the case unresolved is not the strength of extraordinary evidence but
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ What keeps the case unresolved is not the strength of extraordinary evidence but
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ What keeps the case unresolved is not the strength of extraordinary evidence but
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ What keeps the case unresolved is not the strength of extraordinary evidence but
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,84 +758,83 @@ What keeps the case unresolved is not the strength of extraordinary evidence but
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2018, 11 18). NUFORC. Database - Index by Shape of UFO. Retrieved from NUFORC.org: [http://www.nuforc.org/webreports...Read](http://www.nuforc.org/webreports...Read) more...</p></details>
+   Link:<a href="https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2018, 11 18). NUFORC. Database - Index by Shape of UFO. Retrieved from NUFORC.org: [http://www.nuforc.org/webreports...Read](http://www.nuforc.org/webreports...Read) more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indonesian UFO Contact Cases Database (Version 0.9...dAtABASES CASES OF CONTACT WITH UFO IN INDONESIA UFO sighting in Malang in 1991 I...</p></details>
+   Link:<a href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indonesian UFO Contact Cases Database (Version 0.9...dAtABASES CASES OF CONTACT WITH UFO IN INDONESIA UFO sighting in Malang in 1991 I...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tzaffairs.org  
-   Link: <a href="https://www.tzaffairs.org/2008/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.tzaffairs.org/2008/page/2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tanzanian AffairsPage 21 Sept 2008 — The 0.7 kg meteorite landed near Ivuna, Tanzania, on December 16, 1938, and was subsequently split i...</p></details>
+   Link:<a href="https://www.tzaffairs.org/2008/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.tzaffairs.org/2008/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tanzanian AffairsPage 21 Sept 2008 — The 0.7 kg meteorite landed near Ivuna, Tanzania, on December 16, 1938, and was subsequently split i...</p></details>
    Published: December 16, 1938  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.google.com  
-   Link: <a href="https://sites.google.com/site/astronomyintanzania/january2009nightskiesovertanzania" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/astronomyintanzania/january2009nightskiesovertanzania</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Tanzania - january2009nightskiesovertanzania1 Jan 2009 — CLICK ON IMAGE TO VIEW LARGER IMAGE. NIGHT SKIES OF JANUARY AND ASTRONOMICAL...</p></details>
+   Link:<a href="https://sites.google.com/site/astronomyintanzania/january2009nightskiesovertanzania" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/astronomyintanzania/january2009nightskiesovertanzania</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Tanzania - january2009nightskiesovertanzania1 Jan 2009 — CLICK ON IMAGE TO VIEW LARGER IMAGE. NIGHT SKIES OF JANUARY AND ASTRONOMICAL...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS AT MOUNT NYANGANI There have been...[https://www.ufoinsight.com/ufos-aliens-far-reaching](https://www.ufoinsight.com/ufos-aliens-far-reaching) -influe…/ · No photo description a...</p></details>
+   Link:<a href="https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS AT MOUNT NYANGANI There have been...[https://www.ufoinsight.com/ufos-aliens-far-reaching](https://www.ufoinsight.com/ufos-aliens-far-reaching) -influe…/ · No photo description a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This book is aimed at anyone serious about getting to the bottom of the. UFO phenomenon. The best tool we have for doing this is...Read...</p></details>
+   Link:<a href="https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This book is aimed at anyone serious about getting to the bottom of the. UFO phenomenon. The best tool we have for doing this is...Read...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/535120/1/OR20074.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/535120/1/OR20074.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report, single column layoutby AEG Winson · 2020 · Cited by 2 — The METEOR project addresses: flood, earthquake, landslide and volcanic h...</p></details>
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/535120/1/OR20074.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/535120/1/OR20074.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report, single column layoutby AEG Winson · 2020 · Cited by 2 — The METEOR project addresses: flood, earthquake, landslide and volcanic h...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: afdb.org  
-   Link: <a href="https://www.afdb.org/sites/default/files/tanesco_esia_report_transmission_line_and_substation_project_in_mbeya_-_21.04.2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afdb.org/sites/default/files/tanesco_esia_report_transmission_line_and_substation_project_in_mbeya_-_21.04.2026_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Impact Statement30 Apr 2026 — The Government of the [United Republic of Tanzania](&amp;#123;&amp;#123; &#x27;united-republic-of-tanzania/&#x27; | relative_url &amp;#125;&amp;#125;) (GoT) has obtained funding from the African...</p></details>
+   Link:<a href="https://www.afdb.org/sites/default/files/tanesco_esia_report_transmission_line_and_substation_project_in_mbeya_-_21.04.2026_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afdb.org/sites/default/files/tanesco_esia_report_transmission_line_and_substation_project_in_mbeya_-_21.04.2026_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Impact Statement30 Apr 2026 — The Government of the [United Republic of Tanzania](&amp;#123;&amp;#123; &#x27;united-republic-of-tanzania/&#x27; | relative_url &amp;#125;&amp;#125;) (GoT) has obtained funding from the African...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wespenre.com  
-   Link: <a href="https://wespenre.com/2019/01/31/second-level-of-learning-appendix-b-updates-on-the-remarkable-michael-lee-hill-case-part-2-the-world-teacher-of-the-new-era/" target="_blank" rel="noopener noreferrer nofollow">https://wespenre.com/2019/01/31/second-level-of-learning-appendix-b-updates-on-the-remarkable-michael-lee-hill-case-part-2-the-world-teacher-of-the-new-era/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates on &#x27;The Remarkable Michael Lee Hill Case&#x27; Part 2...31 Jan 2019 — This means, foremost, alien debris of crashed UFOs etc...</p></details>
+   Link:<a href="https://wespenre.com/2019/01/31/second-level-of-learning-appendix-b-updates-on-the-remarkable-michael-lee-hill-case-part-2-the-world-teacher-of-the-new-era/" target="_blank" rel="noopener noreferrer nofollow">https://wespenre.com/2019/01/31/second-level-of-learning-appendix-b-updates-on-the-remarkable-michael-lee-hill-case-part-2-the-world-teacher-of-the-new-era/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updates on &#x27;The Remarkable Michael Lee Hill Case&#x27; Part 2...31 Jan 2019 — This means, foremost, alien debris of crashed UFOs etc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WMBBTV/posts/starting-around-730-pm-we-received-multiple-calls-that-there-was-a-large-shimmer/1185735016932308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WMBBTV/posts/starting-around-730-pm-we-received-multiple-calls-that-there-was-a-large-shimmer/1185735016932308/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AA records show that the balloon belongs to Aerostar, an aerospace...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WMBBTV/posts/starting-around-730-pm-we-received-multiple-calls-that-there-was-a-large-shimmer/1185735016932308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WMBBTV/posts/starting-around-730-pm-we-received-multiple-calls-that-there-was-a-large-shimmer/1185735016932308/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AA records show that the balloon belongs to Aerostar, an aerospace...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: yumpu.com  
-   Link: <a href="https://www.yumpu.com/en/document/view/36215106/description-of-a-new-howardite-meteorite-fall-in-arkistogsffi" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/36215106/description-of-a-new-howardite-meteorite-fall-in-arkistogsffi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arkisto...13 Dec 2014 —... Dar es Salaam, Tanzania. 2&lt;br /&gt;. Introduction&lt;br /&gt;. This report summarizes laboratory and other data &lt;stro...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/36215106/description-of-a-new-howardite-meteorite-fall-in-arkistogsffi" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/36215106/description-of-a-new-howardite-meteorite-fall-in-arkistogsffi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arkisto...13 Dec 2014 —... Dar es Salaam, Tanzania. 2&lt;br /&gt;. Introduction&lt;br /&gt;. This report summarizes laboratory and other data &lt;stro...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: conbio.org  
    Title: Conservation Biologyfor All reducedsize  
-   Link: <a href="https://conbio.org/images/content_publications/ConservationBiologyforAll_reducedsize.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conbio.org/images/content_publications/ConservationBiologyforAll_reducedsize.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dar es Salaam Hong Kong Karachi. Kuala Lumpur Madrid Melbourne Mexico City Nairobi. New Delhi Shanghai Taipei Toronto. With offices in. A...</p></details>
+   Link:<a href="https://conbio.org/images/content_publications/ConservationBiologyforAll_reducedsize.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conbio.org/images/content_publications/ConservationBiologyforAll_reducedsize.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dar es Salaam Hong Kong Karachi. Kuala Lumpur Madrid Melbourne Mexico City Nairobi. New Delhi Shanghai Taipei Toronto. With offices in. A...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sasquatchandsourdough.com  
    Title: Sasquatch & Sourdough: Home Where the supernatural meets the sacred  
-   Link: <a href="https://sasquatchandsourdough.com/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchandsourdough.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch and Sourdough explores the world of cryptids, UFOs, hauntings, folklore, and high strangeness through a lens...Read more...</p></details>
+   Link:<a href="https://sasquatchandsourdough.com/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchandsourdough.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch and Sourdough explores the world of cryptids, UFOs, hauntings, folklore, and high strangeness through a lens...Read more...</p></details>

@@ -1199,11 +1199,11 @@ That makes Jamaica an important but careful page in a Caribbean UFO project. It 
 <img src="{{ "/assets/images/Jamaica_5eedd6-overview.webp" | relative_url }}" alt="Overview image for What Is Really In Jamaica&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
 ## What the public record actually contains
 
-The clearest open index for Jamaica is NUFORC’s country page. It records sightings from an approximate 1972 Montego Bay sphere to reports filed in 2026, with shapes including lights, spheres, circles, fireballs, cylinders, an oval, a disk, a cone, an orb and “changing” objects. The list is not an official Jamaican archive; it is a public witness-report database. That matters because its entries often preserve useful raw testimony but rarely include independent radar, air-traffic, astronomical or meteorological verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The clearest open index for Jamaica is NUFORC’s country page. It records sightings from an approximate 1972 Montego Bay sphere to reports filed in 2026, with shapes including lights, spheres, circles, fireballs, cylinders, an oval, a disk, a cone, an orb and “changing” objects. The list is not an official Jamaican archive; it is a public witness-report database. That matters because its entries often preserve useful raw testimony but rarely include independent radar, air-traffic, astronomical or meteorological verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-A second public map, Enigma Labs, has a Jamaica page and identifies Kingston as the leading listed city, but the accessible page provides only limited detail without functioning as a primary investigative archive. It is useful for orientation, less useful for evidence grading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Jamaica &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Jamaica &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+A second public map, Enigma Labs, has a Jamaica page and identifies Kingston as the leading listed city, but the accessible page provides only limited detail without functioning as a primary investigative archive. It is useful for orientation, less useful for evidence grading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Jamaica &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Jamaica &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
-Jamaica’s official aviation framework does show where a serious airborne hazard might enter the system. The Jamaica Civil Aviation Authority provides a mandatory occurrence report resource, and Jamaica’s National Aviation Safety Plan places the JCAA at the centre of national aviation safety planning with the responsible ministry and aviation industry. Those documents do not amount to a public UFO programme, but they show the route through which a safety-relevant unknown aircraft, drone, balloon, near miss or aviation occurrence would more plausibly be handled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jcaa.gov.jm/resource/fsaw0050-mandatory-occurrence-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.gov.jm">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.gov.jm</span><span class="citation-popover-title">fsaw0050 mandatory occurrence report</span><span class="citation-popover-snippet">fsaw0050 mandatory occurrence report</span></span></span>
+Jamaica’s official aviation framework does show where a serious airborne hazard might enter the system. The Jamaica Civil Aviation Authority provides a mandatory occurrence report resource, and Jamaica’s National Aviation Safety Plan places the JCAA at the centre of national aviation safety planning with the responsible ministry and aviation industry. Those documents do not amount to a public UFO programme, but they show the route through which a safety-relevant unknown aircraft, drone, balloon, near miss or aviation occurrence would more plausibly be handled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jcaa.gov.jm/resource/fsaw0050-mandatory-occurrence-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.gov.jm">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.gov.jm</span><span class="citation-popover-title">fsaw0050 mandatory occurrence report</span><span class="citation-popover-snippet">fsaw0050 mandatory occurrence report</span></span></span>
 
 The absence of a visible Jamaican UAP office should not be overread. Many countries do not publish UFO files as a separate category. A serious sighting near an airport could be logged as an aviation safety matter; a bright bolide could sit in meteor databases; a viral video could remain only on social media; and a private witness narrative may never reach any official body.
 
@@ -1211,26 +1211,26 @@ The absence of a visible Jamaican UAP office should not be overread. Many countr
 
 The Jamaican record is less a sequence of famous national cases than a set of recurring report types. The chronology below highlights the reports that best show how the evidence varies.
 
-**1972, Montego Bay — the airport-adjacent sphere.** NUFORC’s earliest Jamaica entry describes a ten-second sighting by one witness who remembered a bright yellow spherical object hovering in the direction of Sangster International Airport before disappearing behind clouds. The report was filed in 2002, with NUFORC noting that the witness remained anonymous and the date was approximate. The location near an airport is interesting, but the long reporting delay and single-witness nature keep it in the contested category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Jamaica</span><span class="citation-popover-snippet">Reports for Country Jamaica</span></span></span>
+**1972, Montego Bay — the airport-adjacent sphere.** NUFORC’s earliest Jamaica entry describes a ten-second sighting by one witness who remembered a bright yellow spherical object hovering in the direction of Sangster International Airport before disappearing behind clouds. The report was filed in 2002, with NUFORC noting that the witness remained anonymous and the date was approximate. The location near an airport is interesting, but the long reporting delay and single-witness nature keep it in the contested category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Jamaica</span><span class="citation-popover-snippet">Reports for Country Jamaica</span></span></span>
 
-**1989–2008 — scattered daylight, light and “fireball” reports.** NUFORC’s country list includes a 1989 cylinder report, a 1997 St Andrew parish report, 2004–05 Cardiff and Kingston entries, a 2007 Montego Bay report of about 18 small lights, a 2008 Malvern green glowing ball and a 1983 Broadgate “egg” report filed much later. The pattern is not one of one famous wave, but of intermittent reports from different parts of the island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**1989–2008 — scattered daylight, light and “fireball” reports.** NUFORC’s country list includes a 1989 cylinder report, a 1997 St Andrew parish report, 2004–05 Cardiff and Kingston entries, a 2007 Montego Bay report of about 18 small lights, a 2008 Malvern green glowing ball and a 1983 Broadgate “egg” report filed much later. The pattern is not one of one famous wave, but of intermittent reports from different parts of the island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2012, Jamaica-to-Canada flight — the window-reflection problem.** A four-observer in-flight report described three glowing circles and a fast aircraft-like object, with video said to include the plane wing and window. NUFORC’s note raised the possibility of a reflection off the window. This is a good example of why aviation-window videos are difficult: reflections can move independently of the outside scene, and viewers may misread internal light as external motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2012, Jamaica-to-Canada flight — the window-reflection problem.** A four-observer in-flight report described three glowing circles and a fast aircraft-like object, with video said to include the plane wing and window. NUFORC’s note raised the possibility of a reflection off the window. This is a good example of why aviation-window videos are difficult: reflections can move independently of the outside scene, and viewers may misread internal light as external motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2012, Negril — crimson lights over the Atlantic.** Two observers reported roughly 30 crimson circular lights travelling northwest over the Atlantic for about 30 minutes. The account is more substantial than a one-second flash because it gives number, colour, direction, duration and spacing. It is still not confirmed: evenly spaced lights over the sea can invite several ordinary hypotheses, including lanterns, aircraft spacing, marine activity, drones, satellites or distant lights distorted by viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2012, Negril — crimson lights over the Atlantic.** Two observers reported roughly 30 crimson circular lights travelling northwest over the Atlantic for about 30 minutes. The account is more substantial than a one-second flash because it gives number, colour, direction, duration and spacing. It is still not confirmed: evenly spaced lights over the sea can invite several ordinary hypotheses, including lanterns, aircraft spacing, marine activity, drones, satellites or distant lights distorted by viewing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2021, Kingston — a camera-only cone near the Moon.** A Kingston report from December 2021 says the object was not visible to the naked eye and appeared only in iPhone photographs of the full Moon. NUFORC’s location note includes “lens flare??”, and the witness described a green haze in one image. This sits closer to the debunked or likely explained side than to a strong UFO case, because camera-only objects near bright light sources are a common failure mode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2021, Kingston — a camera-only cone near the Moon.** A Kingston report from December 2021 says the object was not visible to the naked eye and appeared only in iPhone photographs of the full Moon. NUFORC’s location note includes “lens flare??”, and the witness described a green haze in one image. This sits closer to the debunked or likely explained side than to a strong UFO case, because camera-only objects near bright light sources are a common failure mode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2024, Kingston/St Andrew — hovering coloured lights.** A two-observer report described a circular craft with different coloured lights, apparently turning in place, seen while walking down a mountainside before it moved behind a mountain. The report has a useful setting and duration, but lacks corroborating media, triangulation or official follow-up in the accessible record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2024, Kingston/St Andrew — hovering coloured lights.** A two-observer report described a circular craft with different coloured lights, apparently turning in place, seen while walking down a mountainside before it moved behind a mountain. The report has a useful setting and duration, but lacks corroborating media, triangulation or official follow-up in the accessible record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2025 report of a 1994 Westmoreland encounter — high-strangeness, low-verification.** A detailed NUFORC entry filed in 2025 describes a tan, blimp-like or disc-like craft, poles or antennae, windows, a loud humming sound, paralysis, illness and possible missing time. It is one of the most dramatic Jamaica-linked narratives, but it is also retrospectively reported decades later by one witness and includes interpretive language about close encounters and possible exposure without medical documentation. It is important culturally and narratively; evidentially, it remains unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2025 report of a 1994 Westmoreland encounter — high-strangeness, low-verification.** A detailed NUFORC entry filed in 2025 describes a tan, blimp-like or disc-like craft, poles or antennae, windows, a loud humming sound, paralysis, illness and possible missing time. It is one of the most dramatic Jamaica-linked narratives, but it is also retrospectively reported decades later by one witness and includes interpretive language about close encounters and possible exposure without medical documentation. It is important culturally and narratively; evidentially, it remains unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2026, Negril West End — likely rocket or Starlink-related.** Six witnesses in separate nearby locations reported a white changing object over the sea that dissipated within about 10 to 13 seconds. NUFORC lists the explanation as “Rocket - Probable” and adds “Likely Starlink-343 (6-96).” This is the strongest example in the Jamaica set of an initially strange multi-witness event being pulled towards a conventional spaceflight explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=195227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2026, Negril West End — likely rocket or Starlink-related.** Six witnesses in separate nearby locations reported a white changing object over the sea that dissipated within about 10 to 13 seconds. NUFORC lists the explanation as “Rocket - Probable” and adds “Likely Starlink-343 (6-96).” This is the strongest example in the Jamaica set of an initially strange multi-witness event being pulled towards a conventional spaceflight explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=195227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Jamaica_5eedd6-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really In Jamaica&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where sightings cluster inside Jamaica
 
-Jamaica’s public reports are not evenly spread. NUFORC’s list repeatedly names Montego Bay, Kingston and Negril, with Westmoreland appearing in both the 1994 retrospective encounter and the 2026 West End event. That clustering probably reflects a mixture of population, tourism, coastline visibility, airport activity and reporting habits rather than a proven physical concentration of anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+Jamaica’s public reports are not evenly spread. NUFORC’s list repeatedly names Montego Bay, Kingston and Negril, with Westmoreland appearing in both the 1994 retrospective encounter and the 2026 West End event. That clustering probably reflects a mixture of population, tourism, coastline visibility, airport activity and reporting habits rather than a proven physical concentration of anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 **Montego Bay and St James** appear early and often: the 1972 sphere near the airport, a 1995 resort-area rectangle, 2007 small lights, a 2013 fireball-type report, the 2020 red-lights entry and a 2024 beach orb entry. The presence of Sangster International Airport and a high volume of visitors make this region especially vulnerable to aircraft, landing lights, reflections, drones, sky lanterns and satellite misidentification.
 
@@ -1246,9 +1246,9 @@ A fair Jamaica UFO page needs three bins rather than one dramatic pile.
 
 **Contested and unresolved.** The 1972 Montego Bay sphere, the 2012 Negril crimson lights, the 2024 Kingston/St Andrew coloured object and the 1994 Westmoreland retrospective case remain unresolved in the public record. They are interesting because they include concrete descriptions, but each lacks the independent data that would move it beyond testimony: radar, multiple videos from separated locations, flight tracks, astronomical checks, weather data and official investigation notes.
 
-**Likely explained or weakened by ordinary mechanisms.** The 2012 in-flight report is weakened by NUFORC’s own reflection note; the 2021 Kingston photograph is weakened by its camera-only nature and possible lens flare; the 2026 Negril West End event is explicitly marked by NUFORC as probably rocket-related and likely Starlink. These are not failures of witnesses. They are examples of how sincere observation can collide with modern skies full of satellites, aircraft, rockets, bright planets, phone optics and atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Jamaica</span><span class="citation-popover-snippet">Reports for Country Jamaica</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Likely explained or weakened by ordinary mechanisms.** The 2012 in-flight report is weakened by NUFORC’s own reflection note; the 2021 Kingston photograph is weakened by its camera-only nature and possible lens flare; the 2026 Negril West End event is explicitly marked by NUFORC as probably rocket-related and likely Starlink. These are not failures of witnesses. They are examples of how sincere observation can collide with modern skies full of satellites, aircraft, rockets, bright planets, phone optics and atmospheric effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Jamaica</span><span class="citation-popover-snippet">Reports for Country Jamaica</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-This split is consistent with wider official UAP analysis. NASA’s independent UAP study found that analysis is often hampered by poor sensor calibration, missing metadata, lack of multiple measurements and lack of baseline data. AARO’s public imagery page shows the same practical pattern: some cases remain unresolved, while others are assessed as balloons, birds or prosaic aircraft because their motion and appearance match known objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This split is consistent with wider official UAP analysis. NASA’s independent UAP study found that analysis is often hampered by poor sensor calibration, missing metadata, lack of multiple measurements and lack of baseline data. AARO’s public imagery page shows the same practical pattern: some cases remain unresolved, while others are assessed as balloons, birds or prosaic aircraft because their motion and appearance match known objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ycCVkZJswQ" title="Mystery in the Skies: Jamaican Rastafari Elder&#x27;s UFO Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ycCVkZJswQ" target="_blank" rel="noopener noreferrer">Mystery in the Skies: Jamaican Rastafari Elder&#x27;s UFO Encounters</a></p><p class="youtube-embed-meta">Channel: I Never Knew Tv &middot; Views: 130.7K &middot; Uploaded: December 2024 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ycCVkZJswQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ycCVkZJswQ">Open on YouTube</a></p></div></div></div>
 
@@ -1256,35 +1256,35 @@ This split is consistent with wider official UAP analysis. NASA’s independent 
 
 Jamaica’s geography makes some UFO reports especially easy to misread. The island has busy international airports, cruise and marine activity, mountain ridges, open sea horizons and tourist zones where many observers are watching unfamiliar skies. A visitor in Negril or Montego Bay may not know the normal look of local flight paths, lanterns, drones, fishing lights, planets through haze or launch-related phenomena from the wider region.
 
-Fireballs are one recurring category worth treating separately. The European Space Agency explains that fireballs and bright meteors are small near-Earth objects, often centimetres to metres across, that collide with the atmosphere and can leave long bright trails; NASA notes that very bright meteor sightings rise seasonally in the northern hemisphere, especially around the February-to-April “fireball season”. A green or orange ball falling from the sky, such as the 2008 Malvern-style description in the Jamaica list, therefore has a strong natural explanation to check before exotic claims are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Fireballs are one recurring category worth treating separately. The European Space Agency explains that fireballs and bright meteors are small near-Earth objects, often centimetres to metres across, that collide with the atmosphere and can leave long bright trails; NASA notes that very bright meteor sightings rise seasonally in the northern hemisphere, especially around the February-to-April “fireball season”. A green or orange ball falling from the sky, such as the 2008 Malvern-style description in the Jamaica list, therefore has a strong natural explanation to check before exotic claims are considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-Phone cameras add another layer. Modern cameras are excellent at creating evidence, but they also create artefacts: lens flares near the Moon or Sun, rolling-shutter distortions, compression blocks, autofocus hunting, reflections from windows and exaggerated motion from digital zoom. That is why the Kingston 2021 camera-only report is less persuasive than it may first appear; the object was not seen directly, and the photographs were taken while shooting a full Moon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Phone cameras add another layer. Modern cameras are excellent at creating evidence, but they also create artefacts: lens flares near the Moon or Sun, rolling-shutter distortions, compression blocks, autofocus hunting, reflections from windows and exaggerated motion from digital zoom. That is why the Kingston 2021 camera-only report is less persuasive than it may first appear; the object was not seen directly, and the photographs were taken while shooting a full Moon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Jamaica_5eedd6-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really In Jamaica&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and the transparency gap
 
-There is no obvious public Jamaican equivalent of the US AARO case portal or the UK National Archives UFO guide. Jamaica’s publicly accessible aviation material is framed around civil aviation safety, accident investigation and occurrence reporting rather than UFO disclosure. The JCAA’s mandatory occurrence report page and Jamaica’s National Aviation Safety Plan support the view that safety-relevant events would be routed through aviation systems, not necessarily published as “UFO files”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jcaa.gov.jm/accident-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.gov.jm">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.gov.jm</span><span class="citation-popover-title">accident investigations</span><span class="citation-popover-snippet">accident investigations</span></span></span>
+There is no obvious public Jamaican equivalent of the US AARO case portal or the UK National Archives UFO guide. Jamaica’s publicly accessible aviation material is framed around civil aviation safety, accident investigation and occurrence reporting rather than UFO disclosure. The JCAA’s mandatory occurrence report page and Jamaica’s National Aviation Safety Plan support the view that safety-relevant events would be routed through aviation systems, not necessarily published as “UFO files”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jcaa.gov.jm/accident-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.gov.jm">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.gov.jm</span><span class="citation-popover-title">accident investigations</span><span class="citation-popover-snippet">accident investigations</span></span></span>
 
 That creates a transparency gap for researchers. A report over Kingston may live as a social media video. A report near Sangster International Airport may never be public unless a witness posts it or an aviation incident is formally released. A meteor may be captured outside Jamaican institutions entirely. A tourist may file to NUFORC after returning home. These fragmented pathways explain why the public record looks patchy even when sightings are sincere.
 
-The US record is useful as a cautionary comparison, not as direct evidence about Jamaica. The US National Archives now maintains a UAP records collection under Record Group 615 and says it will add records on a rolling basis as federal agencies transfer them. AARO’s historical review, meanwhile, found no evidence that investigated UFO/UAP cases proved extraterrestrial origin. The relevant lesson for Jamaica is methodological: disclosure produces documents, but documents still have to be read against sensor quality, ordinary explanations and evidential gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The US record is useful as a cautionary comparison, not as direct evidence about Jamaica. The US National Archives now maintains a UAP records collection under Record Group 615 and says it will add records on a rolling basis as federal agencies transfer them. AARO’s historical review, meanwhile, found no evidence that investigated UFO/UAP cases proved extraterrestrial origin. The relevant lesson for Jamaica is methodological: disclosure produces documents, but documents still have to be read against sensor quality, ordinary explanations and evidential gaps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Jamaica_5eedd6-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really In Jamaica&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local-source reliability: what to trust first
 
 For Jamaica, the most reliable approach is not to trust or dismiss a case because it sounds exciting. It is to rank the source type.
 
-Highest value comes from records that include time, location, direction, duration, multiple independent witnesses, photographs or video, and a checkable explanation trail. The 2026 Negril West End entry is useful in this way because it has six witnesses, multiple nearby viewing positions and an explicit likely explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Highest value comes from records that include time, location, direction, duration, multiple independent witnesses, photographs or video, and a checkable explanation trail. The 2026 Negril West End entry is useful in this way because it has six witnesses, multiple nearby viewing positions and an explicit likely explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Middle value belongs to witness reports with clear narrative detail but no independent corroboration. The 1972 Montego Bay sphere and 2012 [Negril lights]({{ 'negril-lights/' | relative_url }}) fit here: they are specific enough to discuss, but not strong enough to confirm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Middle value belongs to witness reports with clear narrative detail but no independent corroboration. The 1972 Montego Bay sphere and 2012 [Negril lights]({{ 'negril-lights/' | relative_url }}) fit here: they are specific enough to discuss, but not strong enough to confirm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Lowest value belongs to viral clips, social posts, copied overseas stories and AI-generated or reconstructed imagery. Jamaican media and social pages sometimes circulate UFO-related material from outside Jamaica, including general Pentagon-file stories or foreign incidents. Those can show public interest, but they should not be mistaken for Jamaican sightings unless the location, witness and event can be pinned down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaica-gleaner.com">[Jamaica Gleaner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaica-gleaner.com</span><span class="citation-popover-title">Jamaica Gleaner Another UFO sighting caught on camera &#124; e Sponsored</span><span class="citation-popover-snippet">Jamaica Gleaner Another UFO sighting caught on camera &#124; e Sponsored</span></span></span>
+Lowest value belongs to viral clips, social posts, copied overseas stories and AI-generated or reconstructed imagery. Jamaican media and social pages sometimes circulate UFO-related material from outside Jamaica, including general Pentagon-file stories or foreign incidents. Those can show public interest, but they should not be mistaken for Jamaican sightings unless the location, witness and event can be pinned down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaica-gleaner.com">[Jamaica Gleaner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaica-gleaner.com</span><span class="citation-popover-title">Jamaica Gleaner Another UFO sighting caught on camera &#124; e Sponsored</span><span class="citation-popover-snippet">Jamaica Gleaner Another UFO sighting caught on camera &#124; e Sponsored</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-VQLiaH4KZQ" title="UFO Spotted Festive Christmas Morant bay St Thomas Jamaica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-VQLiaH4KZQ" target="_blank" rel="noopener noreferrer">UFO Spotted Festive Christmas Morant bay St Thomas Jamaica</a></p><p class="youtube-embed-meta">Channel: Bigsuper Road Vlog &middot; Views: 5.7K &middot; Uploaded: December 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-VQLiaH4KZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-VQLiaH4KZQ">Open on YouTube</a></p></div></div></div>
 
 ## How Jamaica compares with nearby branches
 
-Within a Caribbean UFO project, Jamaica is best linked to neighbouring branches as a reporting-pattern case rather than a definitive anomaly case. NUFORC’s country index lists Jamaica at 31 reports, compared with Puerto Rico at 17, Trinidad and Tobago at 16, The Bahamas at 6, Grand Cayman at 3 and Haiti at 4. Those counts depend on who reports to NUFORC, so they should not be treated as a true measure of sky activity. They do, however, explain why Jamaica often appears in regional social-media claims about Caribbean UFO sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Within a Caribbean UFO project, Jamaica is best linked to neighbouring branches as a reporting-pattern case rather than a definitive anomaly case. NUFORC’s country index lists Jamaica at 31 reports, compared with Puerto Rico at 17, Trinidad and Tobago at 16, The Bahamas at 6, Grand Cayman at 3 and Haiti at 4. Those counts depend on who reports to NUFORC, so they should not be treated as a true measure of sky activity. They do, however, explain why Jamaica often appears in regional social-media claims about Caribbean UFO sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The useful comparison is qualitative. Puerto Rico often carries stronger folklore and US-military-adjacent claims; Trinidad and Tobago has recent rocket/satellite misidentification discussions; Jamaica has a broader mix of tourism-zone lights, Kingston camera reports, Montego Bay airport-adjacent reports and Westmoreland narratives. A sibling-page structure can therefore compare how island geography, tourism, air traffic and reporting platforms shape each country’s UFO record without implying that one island is inherently more “visited” than another.
 
@@ -1292,201 +1292,201 @@ The useful comparison is qualitative. Puerto Rico often carries stronger folklor
 
 ## What would make a Jamaican UFO case stronger
 
-A future Jamaican case would become more important if it included several kinds of evidence at once: simultaneous video from separated locations, exact time stamps, compass direction, elevation angle, weather and cloud conditions, flight-tracking checks, satellite-pass checks, meteor/fireball database checks and any aviation or police report number. NASA’s UAP study stresses the same problem at a higher level: without calibrated sensors, metadata, multiple measurements and baseline data, even intriguing observations are hard to analyse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A future Jamaican case would become more important if it included several kinds of evidence at once: simultaneous video from separated locations, exact time stamps, compass direction, elevation angle, weather and cloud conditions, flight-tracking checks, satellite-pass checks, meteor/fireball database checks and any aviation or police report number. NASA’s UAP study stresses the same problem at a higher level: without calibrated sensors, metadata, multiple measurements and baseline data, even intriguing observations are hard to analyse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For ordinary readers, the practical test is simple. A strong Jamaica report should answer: where was it, what direction was it moving, how long did it last, who else saw it independently, what was the nearest airport or flight path, was the Moon or a bright planet nearby, were any rockets or Starlink trains visible, and does the image show signs of lens flare or window reflection? Cases that cannot answer those questions may still be sincere, but they remain weak evidence.
 
 Jamaica’s UFO record is therefore real as a body of sightings, thin as a body of confirmed anomalies, and useful as a case study in how island skies produce both genuinely puzzling reports and very plausible misidentifications.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really In Jamaica&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really In Jamaica&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps contextualize local sightings within global UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps contextualize local sightings within global UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing scattered sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing scattered sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Relevant to discussions of records, evidence, and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions of records, evidence, and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page evaluating witness reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page evaluating witness reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-jamaica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-jamaica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1502,7 +1502,7 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1522,7 +1522,7 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1554,7 +1554,7 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1606,7 +1606,7 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1651,7 +1651,7 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1689,219 +1689,218 @@ Jamaica’s UFO record is therefore real as a body of sightings, thin as a body 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Jamaica  
-   Link: <a href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cJamaica</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cJamaica" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cJamaica</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting UFO Sightings in Jamaica | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/jm</a>  
+   Link:<a href="https://enigmalabs.io/explore/jm" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/jm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24825</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24825</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86759</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=86759" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86759</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=90981</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=90981" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=90981</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168500</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=168500" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168500</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182381</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=182381" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182381</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190840" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190840</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=190840" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190840</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=195227" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195227</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=195227" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195227</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: neo.ssa.esa.int  
-   Link: <a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
+   Link:<a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nasa.gov  
    Title: It’s Fireball Season! Answering Your Meteor Questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jamaica-gleaner.com  
    Title: Jamaica Gleaner Another UFO sighting caught on camera | e Sponsored  
-   Link: <a href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera</a>  
+   Link:<a href="https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/esponsored/20210715/another-ufo-sighting-caught-camera</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jamaica-gleaner.com  
-   Link: <a href="https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its</a>  
+   Link:<a href="https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/world-news/20260508/pentagon-begins-releasing-new-files-ufos-and-says-public-can-draw-its</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: old.jamaica-gleaner.com  
-   Link: <a href="https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html" target="_blank" rel="noopener noreferrer nofollow">https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html</a>  
+   Link:<a href="https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html" target="_blank" rel="noopener noreferrer nofollow">https://old.jamaica-gleaner.com/gleaner/20020203/cleisure/cleisure3.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: past.jamaica-gleaner.com  
    Title: ufo hunter claims he has found 100 cent proof life mars  
-   Link: <a href="https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars</a>  
+   Link:<a href="https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/esponsored/20220209/ufo-hunter-claims-he-has-found-100-cent-proof-life-mars</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: past.jamaica-gleaner.com  
    Title: digital integration marketing production  
-   Link: <a href="https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39</a>  
+   Link:<a href="https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/authors/digital-integration-marketing-production?page=39</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: past.jamaica-gleaner.com  
    Title: are ufos piloted people future  
-   Link: <a href="https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future</a>  
+   Link:<a href="https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/esponsored/20210909/are-ufos-piloted-people-future</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: past.jamaica-gleaner.com  
    Title: bang bizarre  
-   Link: <a href="https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36</a>  
+   Link:<a href="https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/smonteith/bang-bizarre?page=36</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jamaica-gleaner.com  
    Title: i molested bill cosby  
-   Link: <a href="https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby</a>  
+   Link:<a href="https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-gleaner.com/article/commentary/20141202/i-molested-bill-cosby</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: old.jamaica-gleaner.com  
-   Link: <a href="https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html" target="_blank" rel="noopener noreferrer nofollow">https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html</a>  
+   Link:<a href="https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html" target="_blank" rel="noopener noreferrer nofollow">https://old.jamaica-gleaner.com/gleaner/20091019/lead/lead3.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: past.jamaica-gleaner.com  
    Title: unidentified flying object has crashed and exploded polands east  
-   Link: <a href="https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east</a>  
+   Link:<a href="https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east" target="_blank" rel="noopener noreferrer nofollow">https://past.jamaica-gleaner.com/article/world-news/20250820/unidentified-flying-object-has-crashed-and-exploded-polands-east</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: space.com  
    Title: spacex starlink 6 88 b1101 ccsfs jrti  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti</a>  
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/</a>  
+   Link:<a href="https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/photos/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1290702766486478/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: Jamaica Gleaner Jamaica  
-   Link: <a href="https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/</a>  
+   Link:<a href="https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/photos/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518217004935/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/</a>  
+   Link:<a href="https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/as-the-hurricane-season-continues-the-gleaner-archives-takes-a-look-back-at-the-/1773349656153465/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/photo.php?fbid=1085518217004935&amp;id=100066403014064&amp;set=a.586008913622537" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1085518217004935&amp;id=100066403014064&amp;set=a.586008913622537</a>  
+   Link:<a href="https://www.facebook.com/photo.php?fbid=1085518217004935&amp;id=100066403014064&amp;set=a.586008913622537" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1085518217004935&amp;id=100066403014064&amp;set=a.586008913622537</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
+   Link:<a href="https://www.caa.co.uk/mor" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/mor</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: jamaicagleaner.com  
    Title: 'Aliens are among us'  
-   Link: <a href="https://jamaicagleaner.com/gleaner/20080915/news/news1.html" target="_blank" rel="noopener noreferrer nofollow">https://jamaicagleaner.com/gleaner/20080915/news/news1.html</a>  
+   Link:<a href="https://jamaicagleaner.com/gleaner/20080915/news/news1.html" target="_blank" rel="noopener noreferrer nofollow">https://jamaicagleaner.com/gleaner/20080915/news/news1.html</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Mystery in the Skies: Jamaican Rastafari Elder's UFO Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=8ycCVkZJswQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ycCVkZJswQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files SHOCKING Videos- 30 Min of MYSTERIOUS UFO Sightings, Alien-Like Figures in Pentagon Dump...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ycCVkZJswQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ycCVkZJswQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files SHOCKING Videos- 30 Min of MYSTERIOUS UFO Sightings, Alien-Like Figures in Pentagon Dump...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=r1uXSVrgwkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1uXSVrgwkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.A.P Appears Over Trinidad and Tobago During Night Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r1uXSVrgwkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1uXSVrgwkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.A.P Appears Over Trinidad and Tobago During Night Sky...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFO files: UAP disclosures & evidence for unexplained cases | Backscroll  
-   Link: <a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvlgGKf7oq0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvlgGKf7oq0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: U.A.P Appears Over Trinidad and Tobago During Night Sky  
-   Link: <a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: aviation.govt.nz  
-   Link: <a href="https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx</a>  
+   Link:<a href="https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/assets/forms/CA005-occurrence-report.docx</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/fireball-sightings-surge-across-usrecord-breaking-meteor-sightings-light-up-the-/1493998152300866/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/jamaica-ufo-sightings.html</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hon.babsygrange/posts/2328259770633666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hon.babsygrange/posts/2328259770633666/</a>
+   Link:<a href="https://www.facebook.com/hon.babsygrange/posts/2328259770633666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hon.babsygrange/posts/2328259770633666/</a>

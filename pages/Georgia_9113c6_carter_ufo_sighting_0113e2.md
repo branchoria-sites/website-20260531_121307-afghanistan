@@ -248,20 +248,20 @@ image: /assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-1-s
 
 ## Introduction
 
-Jimmy Carter’s reported UFO sighting in rural Georgia became one of the most discussed presidential-era UFO stories in American history because it combined an identifiable witness, a formal written report, and a paper trail that survived in UFO archives and later federal collections. The event itself was relatively modest: Carter, then a Georgia state senator and future governor, saw a strange light near Leary, Georgia, during a Lions Club gathering in 1969. What made the case enduring was not dramatic physical evidence, but the unusual fact that Carter later documented the incident in writing and publicly stood by the claim that he had witnessed something he could not identify at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">carter files report on ufo sighting</span><span class="citation-popover-snippet">Jimmy Carter files report on UFO sighting16 Nov 2009 — Future President Jimmy Carter files a report with the International UFO Bureau on...</span></span></span> Within the broader history of UFO reporting in Georgia, the Carter case occupies a distinctive middle ground between folklore and official documentation. Unlike many anonymous sightings, this one generated archival records, media scrutiny, skeptical re-analysis, and continuing debate over whether the object was a planet, a military atmospheric experiment, or simply an unresolved visual phenomenon. The surviving records also illustrate how UFO reporting moved from local witness testimony into institutional archives during the Cold War and post-Project Blue Book era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span>
+Jimmy Carter’s reported UFO sighting in rural Georgia became one of the most discussed presidential-era UFO stories in American history because it combined an identifiable witness, a formal written report, and a paper trail that survived in UFO archives and later federal collections. The event itself was relatively modest: Carter, then a Georgia state senator and future governor, saw a strange light near Leary, Georgia, during a Lions Club gathering in 1969. What made the case enduring was not dramatic physical evidence, but the unusual fact that Carter later documented the incident in writing and publicly stood by the claim that he had witnessed something he could not identify at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">carter files report on ufo sighting</span><span class="citation-popover-snippet">Jimmy Carter files report on UFO sighting16 Nov 2009 — Future President Jimmy Carter files a report with the International UFO Bureau on...</span></span></span> Within the broader history of UFO reporting in Georgia, the Carter case occupies a distinctive middle ground between folklore and official documentation. Unlike many anonymous sightings, this one generated archival records, media scrutiny, skeptical re-analysis, and continuing debate over whether the object was a planet, a military atmospheric experiment, or simply an unresolved visual phenomenon. The surviving records also illustrate how UFO reporting moved from local witness testimony into institutional archives during the Cold War and post-Project Blue Book era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-1-dark.svg" | relative_url }}" alt="Carter Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Leary Sighting Entered UFO History
 
-The sighting occurred near Leary in southwest Georgia while Carter was preparing to speak at a Lions Club meeting. Most accounts place the event in early evening, shortly after sunset, with Carter and several others standing outdoors before the meeting began. Carter later described seeing a bright object in the western sky that appeared to approach, stop, change colours, and then retreat into the distance. He said the object shifted between white, blue, and red hues and remained visible for roughly ten minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+The sighting occurred near Leary in southwest Georgia while Carter was preparing to speak at a Lions Club meeting. Most accounts place the event in early evening, shortly after sunset, with Carter and several others standing outdoors before the meeting began. Carter later described seeing a bright object in the western sky that appeared to approach, stop, change colours, and then retreat into the distance. He said the object shifted between white, blue, and red hues and remained visible for roughly ten minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
-What distinguished the event from countless regional UFO stories was Carter’s later political prominence. By the time he formally documented the sighting in 1973, he was Governor of Georgia and already becoming a national political figure. His report therefore carried more public weight than an ordinary civilian account. The case gained even more visibility during Carter’s 1976 presidential campaign, when journalists revisited the report and linked it to his statements supporting greater transparency around government UFO records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO Over Georgia?</span><span class="citation-popover-snippet">Jimmy Logged One29 Apr 1977 —... UFO sightings as unexplained phenomena. Carter filed a handwritten report in July, 1973, when the Inter...</span></span></span>
+What distinguished the event from countless regional UFO stories was Carter’s later political prominence. By the time he formally documented the sighting in 1973, he was Governor of Georgia and already becoming a national political figure. His report therefore carried more public weight than an ordinary civilian account. The case gained even more visibility during Carter’s 1976 presidential campaign, when journalists revisited the report and linked it to his statements supporting greater transparency around government UFO records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO Over Georgia?</span><span class="citation-popover-snippet">Jimmy Logged One29 Apr 1977 —... UFO sightings as unexplained phenomena. Carter filed a handwritten report in July, 1973, when the Inter...</span></span></span>
 
-Carter consistently framed the event carefully. He never claimed to have seen extraterrestrial craft or alien beings. Instead, he maintained that he had observed an unidentified object that he genuinely could not explain at the time. Later interviews show that he resisted sensational interpretations even while defending the sincerity of his observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Jimmy Carter once saw a UFO</span><span class="citation-popover-snippet">Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</span></span></span>
+Carter consistently framed the event carefully. He never claimed to have seen extraterrestrial craft or alien beings. Instead, he maintained that he had observed an unidentified object that he genuinely could not explain at the time. Later interviews show that he resisted sensational interpretations even while defending the sincerity of his observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Jimmy Carter once saw a UFO</span><span class="citation-popover-snippet">Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</span></span></span>
 
 ## The 1973 Written Report and Its Archival Survival
 
-The core historical document in the case is the written UFO report Carter submitted in September 1973 to the International UFO Bureau in Oklahoma City. The organisation had contacted him requesting details about the sighting, and Carter completed a standardised witness questionnaire. Copies of this report circulated among UFO research groups and were later reproduced in books, archives, and digital collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">pdf10 Jun 2005 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the subject of unidentifi...</span></span></span>
+The core historical document in the case is the written UFO report Carter submitted in September 1973 to the International UFO Bureau in Oklahoma City. The organisation had contacted him requesting details about the sighting, and Carter completed a standardised witness questionnaire. Copies of this report circulated among UFO research groups and were later reproduced in books, archives, and digital collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">pdf10 Jun 2005 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the subject of unidentifi...</span></span></span>
 
 The report contains several details that became central to later analysis:
 
@@ -271,19 +271,19 @@ The report contains several details that became central to later analysis:
 * Carter estimated it appeared roughly 30 degrees above the horizon.
 * He stated that around ten to twelve people witnessed the event.
 * The object reportedly changed colour and seemed self-luminous.
-* The observation lasted approximately ten to twelve minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+* The observation lasted approximately ten to twelve minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 </div>
 
-Because the report was handwritten and submitted before Carter became president, many researchers considered it unusually valuable compared with retrospective celebrity anecdotes. The document helped establish a traceable chain of custody for the story, allowing historians and sceptics alike to examine the original wording rather than relying solely on later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">pdf10 Jun 2005 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the subject of unidentifi...</span></span></span>
+Because the report was handwritten and submitted before Carter became president, many researchers considered it unusually valuable compared with retrospective celebrity anecdotes. The document helped establish a traceable chain of custody for the story, allowing historians and sceptics alike to examine the original wording rather than relying solely on later retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">pdf10 Jun 2005 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the subject of unidentifi...</span></span></span>
 
-The National Archives later identified presidential-library holdings connected to UFO and UAP material, including records associated with Carter-era interest in the subject. The Carter sighting became part of a broader archival conversation about how governments and presidential libraries preserve records relating to unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span>
+The National Archives later identified presidential-library holdings connected to UFO and UAP material, including records associated with Carter-era interest in the subject. The Carter sighting became part of a broader archival conversation about how governments and presidential libraries preserve records relating to unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JsBXXVN4vyk" title="President Jimmy Carter Spots a U.F.O. | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JsBXXVN4vyk" target="_blank" rel="noopener noreferrer">President Jimmy Carter Spots a U.F.O. | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 170.5K &middot; Uploaded: June 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JsBXXVN4vyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JsBXXVN4vyk">Open on YouTube</a></p></div></div></div>
 
 ## The Date Problem and Why It Matters
 
-One of the most important historical disputes surrounding the Carter case concerns the actual date of the sighting. Carter’s written report identified the event as occurring in October 1969. Later investigators, however, argued that Lions Club records strongly suggest the meeting took place on 6 January 1969 instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+One of the most important historical disputes surrounding the Carter case concerns the actual date of the sighting. Carter’s written report identified the event as occurring in October 1969. Later investigators, however, argued that Lions Club records strongly suggest the meeting took place on 6 January 1969 instead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 This discrepancy became crucial because astronomical and military-record explanations depend heavily on timing. Researchers noted several problems with the October date:
 
@@ -291,7 +291,7 @@ This discrepancy became crucial because astronomical and military-record explana
 
 * Carter’s role in the Lions Club district structure had apparently ended before October 1969.
 * The Leary Lions Club reportedly dissolved before the autumn date listed in the report.
-* Club records placed Carter in Leary for a speech in January rather than October. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+* Club records placed Carter in Leary for a speech in January rather than October.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 </div>
 
@@ -304,15 +304,15 @@ The Carter case became a classic example of how UFO reports can move from myster
 <img src="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-2-dark.svg" | relative_url }}" alt="Carter Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Venus Explanation
 
-Astronomers and sceptical investigators argued that the bright object may have been the planet Venus, which was especially prominent in the western sky around the likely January 1969 timeframe. Venus is one of the most common sources of UFO misidentification because atmospheric distortion near the horizon can create apparent colour changes and unusual motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-snippet">ublic while Governor of Georgia, was in fact a misidentification of the planet Venus...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://explainingscience.org/2025/04/26/venus-the-morning-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explainingscience.org">[Explaining Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explainingscience.org</span><span class="citation-popover-title">venus the morning star</span><span class="citation-popover-snippet">26 Apr 2025 — Its brightness has often lead people to mistake it for a UFO. In 1969 future US president Jimmy Carter, who was then govern...</span></span></span>
+Astronomers and sceptical investigators argued that the bright object may have been the planet Venus, which was especially prominent in the western sky around the likely January 1969 timeframe. Venus is one of the most common sources of UFO misidentification because atmospheric distortion near the horizon can create apparent colour changes and unusual motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-snippet">ublic while Governor of Georgia, was in fact a misidentification of the planet Venus...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://explainingscience.org/2025/04/26/venus-the-morning-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explainingscience.org">[Explaining Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explainingscience.org</span><span class="citation-popover-title">venus the morning star</span><span class="citation-popover-snippet">26 Apr 2025 — Its brightness has often lead people to mistake it for a UFO. In 1969 future US president Jimmy Carter, who was then govern...</span></span></span>
 
-Sceptic Robert Sheaffer became one of the best-known proponents of the Venus interpretation. Allan Hendry, a respected UFO investigator associated with the Center for UFO Studies, also regarded the explanation as plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+Sceptic Robert Sheaffer became one of the best-known proponents of the Venus interpretation. Allan Hendry, a respected UFO investigator associated with the Center for UFO Studies, also regarded the explanation as plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 Critics of the Venus theory noted that Carter described apparent movement and claimed multiple observers reacted similarly. Supporters of the Venus explanation countered that perceptual effects, especially at dusk, can create convincing illusions of motion and changing brightness.
 
 ### The Eglin Air Force Base Barium Release Theory
 
-Another explanation emerged from researchers familiar with Cold War atmospheric experiments. According to this interpretation, Carter may have witnessed a high-altitude barium cloud released during an Air Force-related upper-atmosphere experiment launched from Eglin Air Force Base in Florida. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+Another explanation emerged from researchers familiar with Cold War atmospheric experiments. According to this interpretation, Carter may have witnessed a high-altitude barium cloud released during an Air Force-related upper-atmosphere experiment launched from Eglin Air Force Base in Florida.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 The theory gained attention because:
 
@@ -321,7 +321,7 @@ The theory gained attention because:
 * Military records documented a barium release on 6 January 1969.
 * The timing roughly aligned with the reconstructed sighting date.
 * The direction from Leary toward Eglin broadly matched Carter’s description.
-* Artificial barium clouds can glow dramatically after sunset and shift colours visibly in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+* Artificial barium clouds can glow dramatically after sunset and shift colours visibly in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 </div>
 
@@ -333,11 +333,11 @@ The existence of multiple plausible explanations is one reason the case remains 
 
 ## Public Reaction and Political Consequences
 
-When the story became widely known during Carter’s rise to national office, reactions ranged from ridicule to fascination. Some newspapers treated the report humorously, while others framed it as evidence that Carter was unusually candid compared with conventional politicians. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO Over Georgia?</span><span class="citation-popover-snippet">Jimmy Logged One29 Apr 1977 —... UFO sightings as unexplained phenomena. Carter filed a handwritten report in July, 1973, when the Inter...</span></span></span>
+When the story became widely known during Carter’s rise to national office, reactions ranged from ridicule to fascination. Some newspapers treated the report humorously, while others framed it as evidence that Carter was unusually candid compared with conventional politicians.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO Over Georgia?</span><span class="citation-popover-snippet">Jimmy Logged One29 Apr 1977 —... UFO sightings as unexplained phenomena. Carter filed a handwritten report in July, 1973, when the Inter...</span></span></span>
 
-The sighting also intersected with the political climate of the 1970s, when distrust of government secrecy was high after Watergate and amid continuing public interest in UFO investigations. Carter stated during the 1976 campaign that he favoured greater openness regarding UFO information. His remarks were widely interpreted as a contrast to earlier periods of official secrecy around aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History Once in office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">carter files report on ufo sighting</span><span class="citation-popover-snippet">Jimmy Carter files report on UFO sighting16 Nov 2009 — Future President Jimmy Carter files a report with the International UFO Bureau on...</span></span></span>, however, Carter did not become a crusader for UFO disclosure in the way some enthusiasts expected. National security constraints, classified aerospace projects, and intelligence concerns complicated the issue. Later commentary often portrayed this gap between campaign rhetoric and presidential reality as part of the mythology surrounding the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Jimmy Carter once saw a UFO</span><span class="citation-popover-snippet">Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</span></span></span>
+The sighting also intersected with the political climate of the 1970s, when distrust of government secrecy was high after Watergate and amid continuing public interest in UFO investigations. Carter stated during the 1976 campaign that he favoured greater openness regarding UFO information. His remarks were widely interpreted as a contrast to earlier periods of official secrecy around aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History Once in office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">carter files report on ufo sighting</span><span class="citation-popover-snippet">Jimmy Carter files report on UFO sighting16 Nov 2009 — Future President Jimmy Carter files a report with the International UFO Bureau on...</span></span></span>, however, Carter did not become a crusader for UFO disclosure in the way some enthusiasts expected. National security constraints, classified aerospace projects, and intelligence concerns complicated the issue. Later commentary often portrayed this gap between campaign rhetoric and presidential reality as part of the mythology surrounding the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Jimmy Carter once saw a UFO</span><span class="citation-popover-snippet">Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</span></span></span>
 
-Importantly, Carter himself remained restrained in his interpretation. In later interviews he repeatedly emphasised that he did not believe he had seen visitors from another planet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Jimmy Carter once saw a UFO</span><span class="citation-popover-snippet">Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</span></span></span>
+Importantly, Carter himself remained restrained in his interpretation. In later interviews he repeatedly emphasised that he did not believe he had seen visitors from another planet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Jimmy Carter once saw a UFO</span><span class="citation-popover-snippet">Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QoXoYetbsds" title="Jimmy Carter May Have Seen A UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer">Jimmy Carter May Have Seen A UFO</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 65.6K &middot; Uploaded: October 2016 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QoXoYetbsds">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +348,7 @@ Within Georgia’s UFO history, the Carter sighting stands out because it connec
 * A preserved written witness report.
 * Extensive national press coverage.
 * Archival references in presidential and UFO collections.
-* Continuing scholarly and sceptical analysis decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span>
+* Continuing scholarly and sceptical analysis decades later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</span><span class="citation-popover-meta">Published: September 2009</span></span></span>
 
 The case also demonstrates how UFO history often evolves. The original observation was relatively simple, but the later debate over dates, atmospheric science, military experiments, and political memory became more historically significant than the sighting itself.
 
@@ -357,194 +357,194 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
 <img src="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-3-dark.svg" | relative_url }}" alt="Carter Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_carter_ufo_sighting_0113e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Jimmy Carter&#x27;s UFO Encounter in Georgia. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Jimmy Carter&#x27;s UFO Encounter in Georgia. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Explains the evolution of UFO investigation culture that shaped interpretation of famous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the evolution of UFO investigation culture that shaped interpretation of famous sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects directly to documented UFO reports, official investigations, and public controversy surrounding famous cases like Carter&#x27;s sight...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to documented UFO reports, official investigations, and public controversy surrounding famous cases like Carter&#x27;s sight...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating eyewitness reports and unexplained aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating eyewitness reports and unexplained aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented witness testimony and official records similar to the Carter case&#x27;s archival appeal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented witness testimony and official records similar to the Carter case&#x27;s archival appeal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jimmy-carter-s-ufo-encounter-in-georgia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,136 +750,136 @@ For researchers examining Georgia’s role in American UFO culture, the Carter i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: carter files report on ufo sighting  
-   Link: <a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter files report on UFO sighting16 Nov 2009 — Future President Jimmy Carter files a report with the International UFO Bureau on...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter files report on UFO sighting16 Nov 2009 — Future President Jimmy Carter files a report with the International UFO Bureau on...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs...The National Archives and Records Administration (NARA) has reco...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs...The National Archives and Records Administration (NARA) has reco...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — President Jimmy Carter, saw a UFO over the skies of Leary, Georgia, and filed this report when he was Governor of Georgia...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — President Jimmy Carter, saw a UFO over the skies of Leary, Georgia, and filed this report when he was Governor of Georgia...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
    Title: Carter UFO  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf10 Jun 2005 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the subject of unidentifi...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf10 Jun 2005 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the subject of unidentifi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: debunker.com  
-   Link: <a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ublic while Governor of Georgia, was in fact a misidentification of the planet Venus...</p></details>
+   Link:<a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ublic while Governor of Georgia, was in fact a misidentification of the planet Venus...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298958/ufos-congressional-hearing-what-to-know/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About UFOs After the Congressional HearingJul 27, 2023 — Carter kept the sighting to himself, deciding only in 1973 to file...</p></details>
+   Link:<a href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298958/ufos-congressional-hearing-what-to-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About UFOs After the Congressional HearingJul 27, 2023 — Carter kept the sighting to himself, deciding only in 1973 to file...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a3upjYAi1tw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History.com...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a3upjYAi1tw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History.com...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
    Title: The Washington Post UFO Over Georgia?  
-   Link: <a href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Logged One29 Apr 1977 —... UFO sightings as unexplained phenomena. Carter filed a handwritten report in July, 1973, when the Inter...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1977/04/30/ufo-over-georgia-jimmy-logged-one/080ef1c3-6ff3-41a9-a1e4-a37c54b5cbca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Logged One29 Apr 1977 —... UFO sightings as unexplained phenomena. Carter filed a handwritten report in July, 1973, when the Inter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
    Title: New York Post Jimmy Carter once saw a UFO  
-   Link: <a href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</p></details>
+   Link:<a href="https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although Carter described seeing an unidentified flying object and detailed the experience, he remained skeptical about the existence of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/01/11/us-news/jimmy-carters-off-the-record-thoughts-on-ufos-alien-civilizations-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/01/11/us-news/jimmy-carters-off-the-record-thoughts-on-ufos-alien-civilizations-revealed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carter shared his thoughts on UFOs and alien civilizations with Simon, expressing a lack of fear about the possibility of extraterrestria...</p></details>
+   Link:<a href="https://nypost.com/2025/01/11/us-news/jimmy-carters-off-the-record-thoughts-on-ufos-alien-civilizations-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/01/11/us-news/jimmy-carters-off-the-record-thoughts-on-ufos-alien-civilizations-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carter shared his thoughts on UFOs and alien civilizations with Simon, expressing a lack of fear about the possibility of extraterrestria...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: explainingscience.org  
    Title: venus the morning star  
-   Link: <a href="https://explainingscience.org/2025/04/26/venus-the-morning-star/" target="_blank" rel="noopener noreferrer nofollow">https://explainingscience.org/2025/04/26/venus-the-morning-star/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Apr 2025 — Its brightness has often lead people to mistake it for a UFO. In 1969 future US president Jimmy Carter, who was then govern...</p></details>
+   Link:<a href="https://explainingscience.org/2025/04/26/venus-the-morning-star/" target="_blank" rel="noopener noreferrer nofollow">https://explainingscience.org/2025/04/26/venus-the-morning-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Apr 2025 — Its brightness has often lead people to mistake it for a UFO. In 1969 future US president Jimmy Carter, who was then govern...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESby David Clarke, published September 2009 by The. National Archives. This book is largely based upon the real-life accounts of U...</p></details>
    Published: September 2009  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveJimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other peopl...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveJimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other peopl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL Jimmy Carter reported seeing an unidentified flying...The general consensus is that Carter misidentified Venus or a barium tracer cl...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL Jimmy Carter reported seeing an unidentified flying...The general consensus is that Carter misidentified Venus or a barium tracer cl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airandspaceforces.com  
-   Link: <a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF and the UFOsThe Unidentified Flying Object (UFO) era began with a bang on the afternoon of June 24, 1947, in the Cascade mountain ra...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF and the UFOsThe Unidentified Flying Object (UFO) era began with a bang on the afternoon of June 24, 1947, in the Cascade mountain ra...</p></details>
    Published: June 24, 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2026/02/18/trump-obama-alien-presidents-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/02/18/trump-obama-alien-presidents-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>presidents have approached the topic of extraterrestrial life and unidentified aerial phenomena (UAPs). Interest in aliens has surged rec...</p></details>
+   Link:<a href="https://www.axios.com/2026/02/18/trump-obama-alien-presidents-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/02/18/trump-obama-alien-presidents-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>presidents have approached the topic of extraterrestrial life and unidentified aerial phenomena (UAPs). Interest in aliens has surged rec...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. President Carter&#x27;s UFO...</p></details>
+   Link:<a href="https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. President Carter&#x27;s UFO...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/puobfh/jimmy_carters_ufo_sighting_and_the_real_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/puobfh/jimmy_carters_ufo_sighting_and_the_real_story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 1973, Georgia Governor Jimmy Carter filed a report with the...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/puobfh/jimmy_carters_ufo_sighting_and_the_real_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/puobfh/jimmy_carters_ufo_sighting_and_the_real_story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 1973, Georgia Governor Jimmy Carter filed a report with the...Read more...</p></details>
    Published: September 18, 1973  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: in 1969 jimmy carter reported seeing a ufo in leary georgia later while running  
-   Link: <a href="https://www.facebook.com/NPSCentennialLEGO/posts/in-1969-jimmy-carter-reported-seeing-a-ufo-in-leary-georgia-later-while-running-/869914048569471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NPSCentennialLEGO/posts/in-1969-jimmy-carter-reported-seeing-a-ufo-in-leary-georgia-later-while-running-/869914048569471/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Later while running for President, Carter made a campaign promise to release all...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NPSCentennialLEGO/posts/in-1969-jimmy-carter-reported-seeing-a-ufo-in-leary-georgia-later-while-running-/869914048569471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NPSCentennialLEGO/posts/in-1969-jimmy-carter-reported-seeing-a-ufo-in-leary-georgia-later-while-running-/869914048569471/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Later while running for President, Carter made a campaign promise to release all...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1hpuw66/in_1973_hayden_hewes_asked_jimmy_carter_to_fill/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hpuw66/in_1973_hayden_hewes_asked_jimmy_carter_to_fill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, Hayden Hewes asked Jimmy Carter to fill out a...In 1973, Hayden Hewes asked Jimmy Carter to fill out a UFO sighting report of h...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1hpuw66/in_1973_hayden_hewes_asked_jimmy_carter_to_fill/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hpuw66/in_1973_hayden_hewes_asked_jimmy_carter_to_fill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, Hayden Hewes asked Jimmy Carter to fill out a...In 1973, Hayden Hewes asked Jimmy Carter to fill out a UFO sighting report of h...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/232264111587505/posts/1480237893456781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/232264111587505/posts/1480237893456781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Director or some such person basically that he...</p></details>
+   Link:<a href="https://www.facebook.com/groups/232264111587505/posts/1480237893456781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/232264111587505/posts/1480237893456781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Director or some such person basically that he...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vocal.media  
    Title: How Can Venus Be a UFO? | Futurism  
-   Link: <a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A celebrated UFO report, widely publicized in the 1970s, is Jimmy Carter&#x27;s sighting in Georgia, before he was governor. Hundre...</p></details>
+   Link:<a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A celebrated UFO report, widely publicized in the 1970s, is Jimmy Carter&#x27;s sighting in Georgia, before he was governor. Hundre...</p></details>

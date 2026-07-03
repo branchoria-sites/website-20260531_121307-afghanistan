@@ -1194,33 +1194,33 @@ image: /assets/images/Mauritius_26160d-overview-social.jpg
 
 ## The public record is thin, but the sky is not quiet
 
-Mauritius does not appear to have a publicly accessible national UFO archive comparable to the released Ministry of Defence files in the United Kingdom or the US All-domain Anomaly Resolution Office record sets. The Mauritian government’s public-facing portals cover civil administration, weather, civil aviation and other services, but they do not present a dedicated UFO or UAP reporting programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://govmu.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govmu.org">[govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mauritius does not appear to have a publicly accessible national UFO archive comparable to the released Ministry of Defence files in the United Kingdom or the US All-domain Anomaly Resolution Office record sets. The Mauritian government’s public-facing portals cover civil administration, weather, civil aviation and other services, but they do not present a dedicated UFO or UAP reporting programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://govmu.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govmu.org">[govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Mauritius_26160d-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Mauritius Sky..." loading="eager" decoding="sync" fetchpriority="high">
 That absence matters because UFO evidence quality depends heavily on the reporting channel. A sighting posted on Facebook or a local forum can be interesting as a lead, but it usually lacks the features needed for later analysis: exact time, observing location, compass direction, elevation angle, duration, camera metadata, weather conditions, and corroborating independent witnesses. By contrast, a formal aviation, meteorological or astronomical record can sometimes be checked against known aircraft, satellite passes, launches, meteors and cloud conditions.
 
-The strongest institutional clue for Mauritius is not a UFO office, but the country’s air and space context. The Department of Civil Aviation says air traffic services operate within the Mauritius Flight Information Region, covering up to 9,000,000 square kilometres of the Indian Ocean, and the same division coordinates search and rescue for aircraft emergencies within that region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civil-aviation.govmu.org">[civil-aviation.govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civil-aviation.govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not make Mauritius a UFO hotspot, but it does mean the island is embedded in a large aviation environment where unusual lights may be observed over oceanic routes or remote skies.
+The strongest institutional clue for Mauritius is not a UFO office, but the country’s air and space context. The Department of Civil Aviation says air traffic services operate within the Mauritius Flight Information Region, covering up to 9,000,000 square kilometres of the Indian Ocean, and the same division coordinates search and rescue for aircraft emergencies within that region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civil-aviation.govmu.org">[civil-aviation.govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civil-aviation.govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not make Mauritius a UFO hotspot, but it does mean the island is embedded in a large aviation environment where unusual lights may be observed over oceanic routes or remote skies.
 
-Mauritius also has a genuine astronomy culture. The island has hosted the Mauritius Radio Telescope at Bras d’Eau, and a 2024 astronomy development report noted the deployment of a Transient Array Radio Telescope at the Université des Mascareignes, Bel Air campus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indico.cern.ch/event/756030/contributions/3133707/attachments/1712363/2761064/Girish_sahepi_nepal_2017_may_20-21.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indico.cern.ch">[Indico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indico.cern.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That scientific background is important because local sky literacy can cut both ways: it can generate more reports from people who look up often, but it can also help explain them.
+Mauritius also has a genuine astronomy culture. The island has hosted the Mauritius Radio Telescope at Bras d’Eau, and a 2024 astronomy development report noted the deployment of a Transient Array Radio Telescope at the Université des Mascareignes, Bel Air campus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indico.cern.ch/event/756030/contributions/3133707/attachments/1712363/2761064/Girish_sahepi_nepal_2017_may_20-21.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indico.cern.ch">[Indico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indico.cern.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That scientific background is important because local sky literacy can cut both ways: it can generate more reports from people who look up often, but it can also help explain them.
 
 ## The 29 September 2013 case is the key Mauritius example
 
-The clearest Mauritius UFO case in the public record is not an alien mystery but a well-documented misidentification. On 29 September 2013, people in Mauritius, Réunion and southern Africa reported a strange glowing object in the night sky. Space.com reported that a video taken in Mauritius showed a glowing orb, and that reports of a UFO followed before the object was explained as fuel or propellant released from the second stage of a Falcon 9 rocket. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span>
+The clearest Mauritius UFO case in the public record is not an alien mystery but a well-documented misidentification. On 29 September 2013, people in Mauritius, Réunion and southern Africa reported a strange glowing object in the night sky. Space.com reported that a video taken in Mauritius showed a glowing orb, and that reports of a UFO followed before the object was explained as fuel or propellant released from the second stage of a Falcon 9 rocket.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span>
 
-The timing fits. SpaceX’s own CASSIOPE mission page says Falcon 9 launched from Space Launch Complex 4 East at Vandenberg Air Force Base on Sunday, 29 September, at 9:00 a.m. Pacific time, which is 16:00 UTC. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[SpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spaceflight Now’s mission status page gives the same launch date, time and vehicle: Falcon 9 v1.1, payload CASSIOPE, launch at 1600 GMT from Vandenberg. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceflightnow.com/falcon9/006/status.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reports in the Indian Ocean region occurred roughly an hour later, consistent with upper-stage activity becoming visible far from the launch site.
+The timing fits. SpaceX’s own CASSIOPE mission page says Falcon 9 launched from Space Launch Complex 4 East at Vandenberg Air Force Base on Sunday, 29 September, at 9:00 a.m. Pacific time, which is 16:00 UTC.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[SpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Spaceflight Now’s mission status page gives the same launch date, time and vehicle: Falcon 9 v1.1, payload CASSIOPE, launch at 1600 GMT from Vandenberg.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceflightnow.com/falcon9/006/status.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reports in the Indian Ocean region occurred roughly an hour later, consistent with upper-stage activity becoming visible far from the launch site.
 
-The object’s appearance also matches a known rocket-plume pattern. High-altitude propellant venting can produce a luminous, expanding cloud because sunlight still reaches the upper atmosphere while observers on the ground are already in darkness. This same mechanism is now widely recognised in “space jellyfish” and spiral sightings after rocket launches, especially when the observer is in twilight or night but the plume is sunlit at altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linfo.re">[linfo.re]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linfo.re</span><span class="citation-popover-title">lumineuse » observée dans le ciel de La Réunion cette nuit</span><span class="citation-popover-snippet">lumineuse » observée dans le ciel de La Réunion cette nuit</span></span></span>
+The object’s appearance also matches a known rocket-plume pattern. High-altitude propellant venting can produce a luminous, expanding cloud because sunlight still reaches the upper atmosphere while observers on the ground are already in darkness. This same mechanism is now widely recognised in “space jellyfish” and spiral sightings after rocket launches, especially when the observer is in twilight or night but the plume is sunlit at altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linfo.re">[linfo.re]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linfo.re</span><span class="citation-popover-title">lumineuse » observée dans le ciel de La Réunion cette nuit</span><span class="citation-popover-snippet">lumineuse » observée dans le ciel de La Réunion cette nuit</span></span></span>
 
 What makes the 2013 case useful is that it illustrates a recurring trap in island sightings. A glowing object over the sea may feel local because it is seen from local beaches, towns or inland viewpoints, but its cause may be hundreds or thousands of kilometres away. For Mauritius, the sky above the horizon is not limited to local aircraft. It can include satellite launches, upper-stage venting, re-entries, high-altitude debris, meteors and distant aviation.
 
 <img src="{{ "/assets/images/Mauritius_26160d-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Mauritius Sky... illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later “UFO” reports mostly fit the same pattern
 
-A second public example came in January 2019, when Malagasy outlet L’Express de Madagascar reported that people had seen an oval, bright object with a luminous halo west of Mauritius, also reportedly visible from Réunion. The article treated SpaceX activity as the most plausible explanation, linking the sighting to the Falcon 9 launch of the Iridium-8 mission on 11 January 2019. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexpress.mg">[L&#x27;Express de Madagascar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexpress.mg</span><span class="citation-popover-title">L&#x27;Express de Madagascar Ovni</span><span class="citation-popover-snippet">L&#x27;Express de Madagascar Ovni</span></span></span>
+A second public example came in January 2019, when Malagasy outlet L’Express de Madagascar reported that people had seen an oval, bright object with a luminous halo west of Mauritius, also reportedly visible from Réunion. The article treated SpaceX activity as the most plausible explanation, linking the sighting to the Falcon 9 launch of the Iridium-8 mission on 11 January 2019.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexpress.mg">[L&#x27;Express de Madagascar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexpress.mg</span><span class="citation-popover-title">L&#x27;Express de Madagascar Ovni</span><span class="citation-popover-snippet">L&#x27;Express de Madagascar Ovni</span></span></span>
 
-That case is less cleanly documented than the 2013 episode, but the pattern is familiar: multiple witnesses, short-lived luminous form, social-media discussion, and a plausible launch-related explanation. The absence of strong photographs in the report weakens the evidential value, but it also makes extraordinary conclusions harder to justify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexpress.mg">[L&#x27;Express de Madagascar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexpress.mg</span><span class="citation-popover-title">L&#x27;Express de Madagascar Ovni</span><span class="citation-popover-snippet">L&#x27;Express de Madagascar Ovni</span></span></span>
+That case is less cleanly documented than the 2013 episode, but the pattern is familiar: multiple witnesses, short-lived luminous form, social-media discussion, and a plausible launch-related explanation. The absence of strong photographs in the report weakens the evidential value, but it also makes extraordinary conclusions harder to justify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexpress.mg">[L&#x27;Express de Madagascar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexpress.mg</span><span class="citation-popover-title">L&#x27;Express de Madagascar Ovni</span><span class="citation-popover-snippet">L&#x27;Express de Madagascar Ovni</span></span></span>
 
-A more recent regional comparison reinforces the same point. In December 2025, Réunion residents reported a luminous spiral, and LINFO.re cited the Observatoire astronomique de La Réunion explaining it as degassing from the second stage of a SpaceX Falcon 9 after mission completion. The article specifically described residual fuel released while the rocket stage rotated, forming a spectacular spiral because the gas cloud remained lit by the Sun at high altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linfo.re">[linfo.re]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linfo.re</span><span class="citation-popover-title">lumineuse » observée dans le ciel de La Réunion cette nuit</span><span class="citation-popover-snippet">lumineuse » observée dans le ciel de La Réunion cette nuit</span></span></span>
+A more recent regional comparison reinforces the same point. In December 2025, Réunion residents reported a luminous spiral, and LINFO.re cited the Observatoire astronomique de La Réunion explaining it as degassing from the second stage of a SpaceX Falcon 9 after mission completion. The article specifically described residual fuel released while the rocket stage rotated, forming a spectacular spiral because the gas cloud remained lit by the Sun at high altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linfo.re">[linfo.re]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linfo.re</span><span class="citation-popover-title">lumineuse » observée dans le ciel de La Réunion cette nuit</span><span class="citation-popover-snippet">lumineuse » observée dans le ciel de La Réunion cette nuit</span></span></span>
 
 For Mauritius, that Réunion example matters because the two islands share a broad viewing environment in the south-west Indian Ocean. A rocket plume, re-entry or high-altitude phenomenon visible from Réunion can often be visible from Mauritius or vice versa, depending on geometry, weather and time of day. This is a natural cross-branch link for any wider Indian Ocean or Mascarene UFO project: Mauritius cases should often be checked against Réunion, Madagascar and southern African observations before being treated as local anomalies.
 
@@ -1230,30 +1230,30 @@ For Mauritius, that Réunion example matters because the two islands share a bro
 
 The most responsible way to classify Mauritius UFO material is by evidence status, not by how strange the object sounded to witnesses.
 
-**Confirmed or well-explained:** The 29 September 2013 Mauritius sighting is the strongest confirmed explanation in the public record. It was linked to the Falcon 9 CASSIOPE launch and upper-stage propellant release, with independent launch records confirming the mission time and vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[SpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed or well-explained:** The 29 September 2013 Mauritius sighting is the strongest confirmed explanation in the public record. It was linked to the Falcon 9 CASSIOPE launch and upper-stage propellant release, with independent launch records confirming the mission time and vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[SpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Plausibly explained but less fully documented:** The January 2019 west-of-Mauritius report is plausibly connected to the SpaceX Iridium-8 launch, but the public article itself notes the lack of usable photographs. That leaves it less evidentially strong than the 2013 case, even if the rocket explanation is reasonable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexpress.mg">[L&#x27;Express de Madagascar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexpress.mg</span><span class="citation-popover-title">L&#x27;Express de Madagascar Ovni</span><span class="citation-popover-snippet">L&#x27;Express de Madagascar Ovni</span></span></span>
+**Plausibly explained but less fully documented:** The January 2019 west-of-Mauritius report is plausibly connected to the SpaceX Iridium-8 launch, but the public article itself notes the lack of usable photographs. That leaves it less evidentially strong than the 2013 case, even if the rocket explanation is reasonable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexpress.mg">[L&#x27;Express de Madagascar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexpress.mg</span><span class="citation-popover-title">L&#x27;Express de Madagascar Ovni</span><span class="citation-popover-snippet">L&#x27;Express de Madagascar Ovni</span></span></span>
 
-**Contested or low-grade claims:** Pages and groups dedicated to “Mauritius UFO sightings” exist, including generic reporting pages that invite alien-contact and close-encounter submissions. However, at least one such page offers broad claims about growing UFO reports while providing little case-specific documentation on the page itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritius-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These sources are useful for mapping public interest, but weak for establishing what happened in any particular incident.
+**Contested or low-grade claims:** Pages and groups dedicated to “Mauritius UFO sightings” exist, including generic reporting pages that invite alien-contact and close-encounter submissions. However, at least one such page offers broad claims about growing UFO reports while providing little case-specific documentation on the page itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritius-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These sources are useful for mapping public interest, but weak for establishing what happened in any particular incident.
 
-**Debunked by mechanism rather than by ridicule:** Rocket plumes are not a sceptical handwave; they are a repeatable physical explanation. The December 2025 Réunion spiral explanation, the [2013 Falcon 9]({{ '2013-falcon-9/' | relative_url }}) Mauritius case, and the broader description of rocket-generated luminous “jellyfish” all point to the same mechanism: high-altitude exhaust or vented fuel illuminated against a darker ground sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linfo.re">[linfo.re]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linfo.re</span><span class="citation-popover-title">lumineuse » observée dans le ciel de La Réunion cette nuit</span><span class="citation-popover-snippet">lumineuse » observée dans le ciel de La Réunion cette nuit</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span> This classification leaves room for unknowns without inflating them. A sighting can be unidentified to the witness and still be explainable later. Conversely, a report can remain unidentified simply because the evidence is too sparse, not because it displays extraordinary behaviour.
+**Debunked by mechanism rather than by ridicule:** Rocket plumes are not a sceptical handwave; they are a repeatable physical explanation. The December 2025 Réunion spiral explanation, the [2013 Falcon 9]({{ '2013-falcon-9/' | relative_url }}) Mauritius case, and the broader description of rocket-generated luminous “jellyfish” all point to the same mechanism: high-altitude exhaust or vented fuel illuminated against a darker ground sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linfo.re">[linfo.re]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linfo.re</span><span class="citation-popover-title">lumineuse » observée dans le ciel de La Réunion cette nuit</span><span class="citation-popover-snippet">lumineuse » observée dans le ciel de La Réunion cette nuit</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span> This classification leaves room for unknowns without inflating them. A sighting can be unidentified to the witness and still be explainable later. Conversely, a report can remain unidentified simply because the evidence is too sparse, not because it displays extraordinary behaviour.
 
 <img src="{{ "/assets/images/Mauritius_26160d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Mauritius Sky... illustration 2" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Mauritius can produce convincing misidentifications
 
-Mauritius is well placed for visually striking sky events. It is an island country in the Indian Ocean, east of Madagascar, with the main island and outlying territories such as Rodrigues and Agaléga spread across a maritime region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Mauritius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Mauritius &#124; Currency, People, Language, Population, Maps</span><span class="citation-popover-snippet">Encyclopedia Britannica Mauritius &#124; Currency, People, Language, Population, Maps</span></span></span> Sea horizons reduce visual clutter, while darker coastal or upland viewpoints can make high-altitude objects look more dramatic than they would in a light-polluted city.
+Mauritius is well placed for visually striking sky events. It is an island country in the Indian Ocean, east of Madagascar, with the main island and outlying territories such as Rodrigues and Agaléga spread across a maritime region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Mauritius" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Mauritius &#124; Currency, People, Language, Population, Maps</span><span class="citation-popover-snippet">Encyclopedia Britannica Mauritius &#124; Currency, People, Language, Population, Maps</span></span></span> Sea horizons reduce visual clutter, while darker coastal or upland viewpoints can make high-altitude objects look more dramatic than they would in a light-polluted city.
 
-Weather also affects perception. The Mauritius Meteorological Services regularly tracks cloud, showers and airflow over the island, and even ordinary cloud layers can distort brightness, hide reference stars, or make an aircraft or satellite seem to appear and vanish abruptly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metservice.intnet.mu/forecast-bulletin-english-mauritius.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metservice.intnet.mu">[MetService Mauritius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metservice.intnet.mu</span><span class="citation-popover-title">Met Service Mauritius Forecast Bulletin</span><span class="citation-popover-snippet">Met Service Mauritius Forecast Bulletin</span></span></span> A witness who sees a luminous object through broken cloud may sincerely report sudden acceleration or disappearance when the simpler explanation is intermittent visibility.
+Weather also affects perception. The Mauritius Meteorological Services regularly tracks cloud, showers and airflow over the island, and even ordinary cloud layers can distort brightness, hide reference stars, or make an aircraft or satellite seem to appear and vanish abruptly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metservice.intnet.mu/forecast-bulletin-english-mauritius.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metservice.intnet.mu">[MetService Mauritius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metservice.intnet.mu</span><span class="citation-popover-title">Met Service Mauritius Forecast Bulletin</span><span class="citation-popover-snippet">Met Service Mauritius Forecast Bulletin</span></span></span> A witness who sees a luminous object through broken cloud may sincerely report sudden acceleration or disappearance when the simpler explanation is intermittent visibility.
 
-The island’s aviation setting adds another layer. Aircraft approaching or leaving Sir Seewoosagur Ramgoolam International Airport, distant aircraft at cruising altitude, and traffic within the wider Mauritius Flight Information Region can all produce slow-moving or hovering-light impressions depending on angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civil-aviation.govmu.org">[civil-aviation.govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civil-aviation.govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A plane flying towards an observer can seem stationary; a turn can look like a sudden change in direction; landing lights can appear brighter than stars or planets.
+The island’s aviation setting adds another layer. Aircraft approaching or leaving Sir Seewoosagur Ramgoolam International Airport, distant aircraft at cruising altitude, and traffic within the wider Mauritius Flight Information Region can all produce slow-moving or hovering-light impressions depending on angle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civil-aviation.govmu.org">[civil-aviation.govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civil-aviation.govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A plane flying towards an observer can seem stationary; a turn can look like a sudden change in direction; landing lights can appear brighter than stars or planets.
 
-Astronomical causes should also stay on the checklist. Bright planets, meteors, satellite flares, re-entering debris and meteor showers are common sources of UFO reports worldwide. The International Meteor Organization notes that showers such as the Southern delta Aquariids are especially favourable from southern tropical latitudes, which makes meteor awareness relevant for Mauritius observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Astronomical causes should also stay on the checklist. Bright planets, meteors, satellite flares, re-entering debris and meteor showers are common sources of UFO reports worldwide. The International Meteor Organization notes that showers such as the Southern delta Aquariids are especially favourable from southern tropical latitudes, which makes meteor awareness relevant for Mauritius observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KvLUO6kor2A" title="Open Space 56: SpaceX&#x27;s Andrew Rader and &quot;Beyond the Known&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KvLUO6kor2A" target="_blank" rel="noopener noreferrer">Open Space 56: SpaceX&#x27;s Andrew Rader and &quot;Beyond the Known&quot;</a></p><p class="youtube-embed-meta">Channel: Fraser Cain &middot; Views: 6.6K &middot; Uploaded: December 2019 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KvLUO6kor2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KvLUO6kor2A">Open on YouTube</a></p></div></div></div>
 
 ## Local reliability: what would make a Mauritius case strong?
 
-A strong Mauritius UFO report would not need to prove extraterrestrial origin. It would need to survive ordinary checks. The NASA independent study team on UAP stressed that the subject suffers from limited high-quality observations, and that better data is central to progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> That principle applies directly to Mauritius.
+A strong Mauritius UFO report would not need to prove extraterrestrial origin. It would need to survive ordinary checks. The NASA independent study team on UAP stressed that the subject suffers from limited high-quality observations, and that better data is central to progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> That principle applies directly to Mauritius.
 
 The minimum useful report would include the exact local time, location, direction faced, elevation above the horizon, duration, weather, camera metadata, whether the object made sound, and whether it was seen by independent witnesses from different places. A short video is helpful only if it includes context: foreground objects, horizon, stars, compass direction, and unedited timing. A zoomed-in light against a black sky is usually too ambiguous to analyse.
 
@@ -1274,9 +1274,9 @@ These checks do not “explain away” sightings unfairly. They prevent weak cas
 <img src="{{ "/assets/images/Mauritius_26160d-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Mauritius Sky... illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records: what exists, and what appears missing
 
-The official record most relevant to Mauritius is indirect. Civil aviation, meteorology and astronomy sources can help explain sightings, but there is no obvious public Mauritian equivalent of a national UFO case catalogue. The Department of Civil Aviation’s role in air traffic services and search and rescue within the Mauritius FIR is relevant for aviation safety, but the public page does not present UAP case files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civil-aviation.govmu.org">[civil-aviation.govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civil-aviation.govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The official record most relevant to Mauritius is indirect. Civil aviation, meteorology and astronomy sources can help explain sightings, but there is no obvious public Mauritian equivalent of a national UFO case catalogue. The Department of Civil Aviation’s role in air traffic services and search and rescue within the Mauritius FIR is relevant for aviation safety, but the public page does not present UAP case files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civil-aviation.govmu.org">[civil-aviation.govmu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civil-aviation.govmu.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Internationally, the picture is clearer. The UK National Archives explains that “UFO” means something seen in the sky but not recognised, not automatically something extraterrestrial, and that many archived reports describe shapes, lights and flashes that can often be explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The US AARO historical report similarly found no evidence that past US government investigations confirmed extraterrestrial origin for UFO/UAP reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TheEarthNews1/posts/us-department-of-war-releases-first-batch-of-ufo-documents-under-trumps-order/1429404982560441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>(#endnote-16 "Endnote 16")
+Internationally, the picture is clearer. The UK National Archives explains that “UFO” means something seen in the sky but not recognised, not automatically something extraterrestrial, and that many archived reports describe shapes, lights and flashes that can often be explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The US AARO historical report similarly found no evidence that past US government investigations confirmed extraterrestrial origin for UFO/UAP reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TheEarthNews1/posts/us-department-of-war-releases-first-batch-of-ufo-documents-under-trumps-order/1429404982560441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>(#endnote-16 "Endnote 16")
 
 Those foreign records should not be treated as Mauritius evidence. They do, however, provide a useful standard: most serious UAP work separates witness experience from final explanation, and it treats data quality as decisive. Mauritius reports should be handled the same way. A local light in the sky may be culturally interesting, but without time, location and corroboration it cannot carry much investigative weight.
 
@@ -1284,199 +1284,199 @@ Those foreign records should not be treated as Mauritius evidence. They do, howe
 
 Mauritius is not currently a major UFO archive country, but it is a good case study in modern misidentification. The island’s public UFO record shows how quickly a dramatic sighting can spread through social media, how often the explanation lies in space activity rather than local events, and why regional comparison is essential across the south-west Indian Ocean.
 
-The most valuable Mauritius lesson is methodological. A sighting seen over Port Louis, Albion, the west coast or an inland village may still require checking a rocket launched from California, a satellite pass over the Indian Ocean, a meteor shower visible from southern latitudes, and reports from Réunion or South Africa. The 2013 Falcon 9 case is memorable precisely because the “UFO” was real in the observational sense: people did see a strange glowing object. The mistake was not seeing it, but stopping the investigation at “unidentified.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[Space X]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a Mauritius-focused UFO page, the honest conclusion is therefore modest but useful: there are public sightings, there is recurring local interest, and there are plausible regional sky events worth documenting. Yet the best-supported cases are explained, while the more extraordinary claims remain thinly sourced. The next genuinely important Mauritius case would be one that arrives with enough data to be tested rather than merely shared.
+The most valuable Mauritius lesson is methodological. A sighting seen over Port Louis, Albion, the west coast or an inland village may still require checking a rocket launched from California, a satellite pass over the Indian Ocean, a meteor shower visible from southern latitudes, and reports from Réunion or South Africa. The 2013 Falcon 9 case is memorable precisely because the “UFO” was real in the observational sense: people did see a strange glowing object. The mistake was not seeing it, but stopping the investigation at “unidentified.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[Space X]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a Mauritius-focused UFO page, the honest conclusion is therefore modest but useful: there are public sightings, there is recurring local interest, and there are plausible regional sky events worth documenting. Yet the best-supported cases are explained, while the more extraordinary claims remain thinly sourced. The next genuinely important Mauritius case would be one that arrives with enough data to be tested rather than merely shared.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_p6LAUg2W_M" title="Replay: SpaceX scrubs launches Falcon 9 rocket with SES O3b mPOWER satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_p6LAUg2W_M" target="_blank" rel="noopener noreferrer">Replay: SpaceX scrubs launches Falcon 9 rocket with SES O3b mPOWER satellites</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now &middot; Views: 44.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_p6LAUg2W_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_p6LAUg2W_M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Mauritius Sky Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Mauritius Sky Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings should be assessed and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings should be assessed and classified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides broad context for evaluating reported UFO cases and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for evaluating reported UFO cases and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s focus on separating documented cases from folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s focus on separating documented cases from folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of unusual sky reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of unusual sky reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-mauritius-sky-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-mauritius-sky-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1492,7 +1492,7 @@ The most valuable Mauritius lesson is methodological. A sighting seen over Port 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1512,7 +1512,7 @@ The most valuable Mauritius lesson is methodological. A sighting seen over Port 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1544,7 +1544,7 @@ The most valuable Mauritius lesson is methodological. A sighting seen over Port 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1596,7 +1596,7 @@ The most valuable Mauritius lesson is methodological. A sighting seen over Port 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1641,7 +1641,7 @@ The most valuable Mauritius lesson is methodological. A sighting seen over Port 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1679,363 +1679,362 @@ The most valuable Mauritius lesson is methodological. A sighting seen over Port 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: X Rocket Launch Sparks 'UFO' Sightings: Reports  
-   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+   Link:<a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spacex.com  
-   Link: <a href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches/cassiope</a>  
+   Link:<a href="https://www.spacex.com/launches/cassiope" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches/cassiope</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spaceflightnow.com  
-   Link: <a href="https://www.spaceflightnow.com/falcon9/006/status.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceflightnow.com/falcon9/006/status.html</a>  
+   Link:<a href="https://www.spaceflightnow.com/falcon9/006/status.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceflightnow.com/falcon9/006/status.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: govmu.org  
-   Link: <a href="https://govmu.org/" target="_blank" rel="noopener noreferrer nofollow">https://govmu.org/</a>  
+   Link:<a href="https://govmu.org/" target="_blank" rel="noopener noreferrer nofollow">https://govmu.org/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: civil-aviation.govmu.org  
-   Link: <a href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow">https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx</a>  
+   Link:<a href="https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx" target="_blank" rel="noopener noreferrer nofollow">https://civil-aviation.govmu.org/Pages/AIR%20NAVIGATION%20SERVICES/ATM.aspx</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: indico.cern.ch  
-   Link: <a href="https://indico.cern.ch/event/756030/contributions/3133707/attachments/1712363/2761064/Girish_sahepi_nepal_2017_may_20-21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.cern.ch/event/756030/contributions/3133707/attachments/1712363/2761064/Girish_sahepi_nepal_2017_may_20-21.pdf</a>  
+   Link:<a href="https://indico.cern.ch/event/756030/contributions/3133707/attachments/1712363/2761064/Girish_sahepi_nepal_2017_may_20-21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.cern.ch/event/756030/contributions/3133707/attachments/1712363/2761064/Girish_sahepi_nepal_2017_may_20-21.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linfo.re  
    Title: lumineuse » observée dans le ciel de La Réunion cette nuit  
-   Link: <a href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow">https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni</a>  
+   Link:<a href="https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni" target="_blank" rel="noopener noreferrer nofollow">https://www.linfo.re/la-reunion/societe/une-boule-lumineuse-observee-dans-le-ciel-de-la-reunion-cette-nuit-il-ne-s-agit-pas-d-un-ovni</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lexpress.mg  
    Title: L'Express de Madagascar Ovni  
-   Link: <a href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow">https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/</a>  
+   Link:<a href="https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/" target="_blank" rel="noopener noreferrer nofollow">https://lexpress.mg/14/01/2019/ovni-un-etrange-objet-apercu-dans-le-ciel/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritius-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritius-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritius-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritius-ufo-sightings.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Mauritius | Currency, People, Language, Population, Maps  
-   Link: <a href="https://www.britannica.com/place/Mauritius" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Mauritius</a>  
+   Link:<a href="https://www.britannica.com/place/Mauritius" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Mauritius</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metservice.intnet.mu  
    Title: Met Service Mauritius Forecast Bulletin  
-   Link: <a href="https://metservice.intnet.mu/forecast-bulletin-english-mauritius.php" target="_blank" rel="noopener noreferrer nofollow">https://metservice.intnet.mu/forecast-bulletin-english-mauritius.php</a>  
+   Link:<a href="https://metservice.intnet.mu/forecast-bulletin-english-mauritius.php" target="_blank" rel="noopener noreferrer nofollow">https://metservice.intnet.mu/forecast-bulletin-english-mauritius.php</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
+   Link:<a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mauritius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mauritius</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mauritius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mauritius</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Falcon 9  
-   Link: <a href="https://en.wikipedia.org/wiki/Falcon_9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_9</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Falcon_9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_9</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Flight information region  
-   Link: <a href="https://en.wikipedia.org/wiki/Flight_information_region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_information_region</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flight_information_region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_information_region</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Mauritius Radio Telescope  
-   Link: <a href="https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100086084642460/posts/even-astro-mauritius-is-stumped-definitely-not-a-plane-not-a-satellite-no-ration/657832303762919/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100086084642460/posts/even-astro-mauritius-is-stumped-definitely-not-a-plane-not-a-satellite-no-ration/657832303762919/</a>  
+   Link:<a href="https://www.facebook.com/100086084642460/posts/even-astro-mauritius-is-stumped-definitely-not-a-plane-not-a-satellite-no-ration/657832303762919/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100086084642460/posts/even-astro-mauritius-is-stumped-definitely-not-a-plane-not-a-satellite-no-ration/657832303762919/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mopays/posts/ufo-unidentified-flying-object-seen-in-mauritius-right-now-this-is-visible-clear/563101400426005/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mopays/posts/ufo-unidentified-flying-object-seen-in-mauritius-right-now-this-is-visible-clear/563101400426005/</a>  
+   Link:<a href="https://www.facebook.com/mopays/posts/ufo-unidentified-flying-object-seen-in-mauritius-right-now-this-is-visible-clear/563101400426005/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mopays/posts/ufo-unidentified-flying-object-seen-in-mauritius-right-now-this-is-visible-clear/563101400426005/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: september 29th on this day in 2013 spacex launched the first ever falcon 9 to li  
-   Link: <a href="https://www.facebook.com/NASASpaceflight/posts/september-29th-on-this-day-in-2013-spacex-launched-the-first-ever-falcon-9-to-li/1110360021090034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceflight/posts/september-29th-on-this-day-in-2013-spacex-launched-the-first-ever-falcon-9-to-li/1110360021090034/</a>  
+   Link:<a href="https://www.facebook.com/NASASpaceflight/posts/september-29th-on-this-day-in-2013-spacex-launched-the-first-ever-falcon-9-to-li/1110360021090034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceflight/posts/september-29th-on-this-day-in-2013-spacex-launched-the-first-ever-falcon-9-to-li/1110360021090034/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DailyMail/posts/an-awe-inspiring-mission-shrouded-in-secrecy-read-more/1452432763589446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyMail/posts/an-awe-inspiring-mission-shrouded-in-secrecy-read-more/1452432763589446/</a>  
+   Link:<a href="https://www.facebook.com/DailyMail/posts/an-awe-inspiring-mission-shrouded-in-secrecy-read-more/1452432763589446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyMail/posts/an-awe-inspiring-mission-shrouded-in-secrecy-read-more/1452432763589446/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/antelopevalleyphotos/posts/5127601920679065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/antelopevalleyphotos/posts/5127601920679065/</a>  
+   Link:<a href="https://www.facebook.com/groups/antelopevalleyphotos/posts/5127601920679065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/antelopevalleyphotos/posts/5127601920679065/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/</a>  
+   Link:<a href="https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstronautChrisHadfield/posts/for-clarity-thats-neither-a-ufo-nor-a-drone-just-a-spacex-dragon-returning-home-/1120748849418484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronautChrisHadfield/posts/for-clarity-thats-neither-a-ufo-nor-a-drone-just-a-spacex-dragon-returning-home-/1120748849418484/</a>  
+   Link:<a href="https://www.facebook.com/AstronautChrisHadfield/posts/for-clarity-thats-neither-a-ufo-nor-a-drone-just-a-spacex-dragon-returning-home-/1120748849418484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronautChrisHadfield/posts/for-clarity-thats-neither-a-ufo-nor-a-drone-just-a-spacex-dragon-returning-home-/1120748849418484/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/</a>  
+   Link:<a href="https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LikeNews13/posts/liftoffthe-launch-of-a-falcon-9-rocket-carrying-29-starlink-satellites-from-cape/1399103345588611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LikeNews13/posts/liftoffthe-launch-of-a-falcon-9-rocket-carrying-29-starlink-satellites-from-cape/1399103345588611/</a>  
+   Link:<a href="https://www.facebook.com/LikeNews13/posts/liftoffthe-launch-of-a-falcon-9-rocket-carrying-29-starlink-satellites-from-cape/1399103345588611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LikeNews13/posts/liftoffthe-launch-of-a-falcon-9-rocket-carrying-29-starlink-satellites-from-cape/1399103345588611/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/</a>  
+   Link:<a href="https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobagochannel5/posts/reports-of-a-suspected-soucouyant-or-alien-spacecraft-illuminating-the-night-sky/1583759067087379/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ActusMeteo974/posts/observationvous-avez-%C3%A9t%C3%A9-nombreux-%C3%A0-nous-signaler-une-observation-peu-commune-da/6443484445683042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ActusMeteo974/posts/observationvous-avez-%C3%A9t%C3%A9-nombreux-%C3%A0-nous-signaler-une-observation-peu-commune-da/6443484445683042/</a>  
+   Link:<a href="https://www.facebook.com/ActusMeteo974/posts/observationvous-avez-%C3%A9t%C3%A9-nombreux-%C3%A0-nous-signaler-une-observation-peu-commune-da/6443484445683042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ActusMeteo974/posts/observationvous-avez-%C3%A9t%C3%A9-nombreux-%C3%A0-nous-signaler-une-observation-peu-commune-da/6443484445683042/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: ce ne sont pas des ovnismais un envoi des poubelles starlinkchers followersvous  
-   Link: <a href="https://www.facebook.com/SocieteAstronomiqueLiege/posts/ce-ne-sont-pas-des-ovnismais-un-envoi-des-poubelles-starlinkchers-followersvous-/1395208359315522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SocieteAstronomiqueLiege/posts/ce-ne-sont-pas-des-ovnismais-un-envoi-des-poubelles-starlinkchers-followersvous-/1395208359315522/</a>  
+   Link:<a href="https://www.facebook.com/SocieteAstronomiqueLiege/posts/ce-ne-sont-pas-des-ovnismais-un-envoi-des-poubelles-starlinkchers-followersvous-/1395208359315522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SocieteAstronomiqueLiege/posts/ce-ne-sont-pas-des-ovnismais-un-envoi-des-poubelles-starlinkchers-followersvous-/1395208359315522/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61553640124141/posts/pour-ceux-qui-ont-vu-ce-spectacle-hier-dans-le-ciel-mauricien-je-vous-rassure-ce/122228603774121337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61553640124141/posts/pour-ceux-qui-ont-vu-ce-spectacle-hier-dans-le-ciel-mauricien-je-vous-rassure-ce/122228603774121337/</a>  
+   Link:<a href="https://www.facebook.com/61553640124141/posts/pour-ceux-qui-ont-vu-ce-spectacle-hier-dans-le-ciel-mauricien-je-vous-rassure-ce/122228603774121337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61553640124141/posts/pour-ceux-qui-ont-vu-ce-spectacle-hier-dans-le-ciel-mauricien-je-vous-rassure-ce/122228603774121337/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/topfmmauritius/posts/spacex-lancement-r%C3%A9ussi-pour-la-capsule-spatiale-avec-deux-astronautes-%C3%A0-bordles/3387183107992692/?locale=ja_JP" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/topfmmauritius/posts/spacex-lancement-r%C3%A9ussi-pour-la-capsule-spatiale-avec-deux-astronautes-%C3%A0-bordles/3387183107992692/?locale=ja_JP</a>  
+   Link:<a href="https://www.facebook.com/topfmmauritius/posts/spacex-lancement-r%C3%A9ussi-pour-la-capsule-spatiale-avec-deux-astronautes-%C3%A0-bordles/3387183107992692/?locale=ja_JP" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/topfmmauritius/posts/spacex-lancement-r%C3%A9ussi-pour-la-capsule-spatiale-avec-deux-astronautes-%C3%A0-bordles/3387183107992692/?locale=ja_JP</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/mauritiusastronomy/posts/5898254826916275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mauritiusastronomy/posts/5898254826916275/</a>  
+   Link:<a href="https://www.facebook.com/groups/mauritiusastronomy/posts/5898254826916275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mauritiusastronomy/posts/5898254826916275/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/</a>  
+   Link:<a href="https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IAUMauritius/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IAUMauritius/</a>  
+   Link:<a href="https://www.facebook.com/IAUMauritius/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IAUMauritius/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
+   Link:<a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/</a>  
+   Link:<a href="https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kwtxnews10/posts/trump-says-the-pentagon-is-preparing-to-release-some-very-interesting-ufo-files-/1433485015488334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kwtxnews10/posts/trump-says-the-pentagon-is-preparing-to-release-some-very-interesting-ufo-files-/1433485015488334/</a>  
+   Link:<a href="https://www.facebook.com/kwtxnews10/posts/trump-says-the-pentagon-is-preparing-to-release-some-very-interesting-ufo-files-/1433485015488334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kwtxnews10/posts/trump-says-the-pentagon-is-preparing-to-release-some-very-interesting-ufo-files-/1433485015488334/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheEarthNews1/posts/us-department-of-war-releases-first-batch-of-ufo-documents-under-trumps-order/1429404982560441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheEarthNews1/posts/us-department-of-war-releases-first-batch-of-ufo-documents-under-trumps-order/1429404982560441/</a>  
+   Link:<a href="https://www.facebook.com/TheEarthNews1/posts/us-department-of-war-releases-first-batch-of-ufo-documents-under-trumps-order/1429404982560441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheEarthNews1/posts/us-department-of-war-releases-first-batch-of-ufo-documents-under-trumps-order/1429404982560441/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: m.facebook.com  
-   Link: <a href="https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR</a>  
+   Link:<a href="https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CalypsoRadio101.8/posts/donald-trump-says-us-ufo-uap-files-will-be-released-very-soon-claiming-officials/1344961794157245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CalypsoRadio101.8/posts/donald-trump-says-us-ufo-uap-files-will-be-released-very-soon-claiming-officials/1344961794157245/</a>  
+   Link:<a href="https://www.facebook.com/CalypsoRadio101.8/posts/donald-trump-says-us-ufo-uap-files-will-be-released-very-soon-claiming-officials/1344961794157245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CalypsoRadio101.8/posts/donald-trump-says-us-ufo-uap-files-will-be-released-very-soon-claiming-officials/1344961794157245/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxokc/posts/president-donald-trump-said-hes-directing-the-pentagon-and-other-federal-agencie/1333135288859671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/president-donald-trump-said-hes-directing-the-pentagon-and-other-federal-agencie/1333135288859671/</a>  
+   Link:<a href="https://www.facebook.com/foxokc/posts/president-donald-trump-said-hes-directing-the-pentagon-and-other-federal-agencie/1333135288859671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/president-donald-trump-said-hes-directing-the-pentagon-and-other-federal-agencie/1333135288859671/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rsbnetwork/posts/watch-president-trump-announces-that-ufo-file-releases-will-begin-soon-including/1450852210410585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rsbnetwork/posts/watch-president-trump-announces-that-ufo-file-releases-will-begin-soon-including/1450852210410585/</a>  
+   Link:<a href="https://www.facebook.com/rsbnetwork/posts/watch-president-trump-announces-that-ufo-file-releases-will-begin-soon-including/1450852210410585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rsbnetwork/posts/watch-president-trump-announces-that-ufo-file-releases-will-begin-soon-including/1450852210410585/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABC7/posts/president-donald-trump-is-promising-to-release-new-ufo-records-that-he-says-will/1388088780126419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC7/posts/president-donald-trump-is-promising-to-release-new-ufo-records-that-he-says-will/1388088780126419/</a>  
+   Link:<a href="https://www.facebook.com/ABC7/posts/president-donald-trump-is-promising-to-release-new-ufo-records-that-he-says-will/1388088780126419/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC7/posts/president-donald-trump-is-promising-to-release-new-ufo-records-that-he-says-will/1388088780126419/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/countryrebelclothing/posts/could-we-soon-know-the-truth-president-trump-says-that-the-governments-ufo-files/1279628324279710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/countryrebelclothing/posts/could-we-soon-know-the-truth-president-trump-says-that-the-governments-ufo-files/1279628324279710/</a>  
+   Link:<a href="https://www.facebook.com/countryrebelclothing/posts/could-we-soon-know-the-truth-president-trump-says-that-the-governments-ufo-files/1279628324279710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/countryrebelclothing/posts/could-we-soon-know-the-truth-president-trump-says-that-the-governments-ufo-files/1279628324279710/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: news.sky.com  
    Title: pentagon releases never before seen files on ufos 13541565  
-   Link: <a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
+   Link:<a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Expedition 69 Astronaut Sultan Alneyadi Talks with Mauritius Students  
-   Link: <a href="https://www.youtube.com/watch?v=R1ToVgdEV_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R1ToVgdEV_A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launches Impact Qantas Flights Between Australia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R1ToVgdEV_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R1ToVgdEV_A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launches Impact Qantas Flights Between Australia...</p></details>
    Published: May 11, 2023  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Space X Rocket Launches Impact Qantas Flights Between Australia  
-   Link: <a href="https://www.youtube.com/watch?v=p9DdFgojdqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p9DdFgojdqk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Network&#x27;s &quot;UFO Breakfast: Tang Xianglong&#x27;s Time&quot; 2026.01.30 Jiabin Travel Agency General Mana...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p9DdFgojdqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p9DdFgojdqk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Network&#x27;s &quot;UFO Breakfast: Tang Xianglong&#x27;s Time&quot; 2026.01.30 Jiabin Travel Agency General Mana...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: office.com  
-   Link: <a href="https://www.office.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.office.com/</a>  
+   Link:<a href="https://www.office.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.office.com/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: mauritiustimes.com  
    Title: ufo sightings  
-   Link: <a href="https://www.mauritiustimes.com/mt/tag/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritiustimes.com/mt/tag/ufo-sightings/</a>  
+   Link:<a href="https://www.mauritiustimes.com/mt/tag/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritiustimes.com/mt/tag/ufo-sightings/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/foreign-travel-advice/mauritius" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/mauritius</a>  
+   Link:<a href="https://www.gov.uk/foreign-travel-advice/mauritius" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/mauritius</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: m365.cloud.microsoft  
-   Link: <a href="https://m365.cloud.microsoft/" target="_blank" rel="noopener noreferrer nofollow">https://m365.cloud.microsoft/</a>  
+   Link:<a href="https://m365.cloud.microsoft/" target="_blank" rel="noopener noreferrer nofollow">https://m365.cloud.microsoft/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/fsd/astro" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/fsd/astro</a>  
+   Link:<a href="https://www.weather.gov/fsd/astro" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/fsd/astro</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A9755_11_3533465_djvu.txt</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos man made made up and unknown  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: discussion.alamy.com  
-   Link: <a href="https://discussion.alamy.com/topic/9219-have-you-found-any-alamy-images-in-march-2018/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://discussion.alamy.com/topic/9219-have-you-found-any-alamy-images-in-march-2018/page/2/</a>  
+   Link:<a href="https://discussion.alamy.com/topic/9219-have-you-found-any-alamy-images-in-march-2018/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://discussion.alamy.com/topic/9219-have-you-found-any-alamy-images-in-march-2018/page/2/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: caymancompass.com  
    Title: spacex falcon 9 sparks ufo chatter  
-   Link: <a href="https://www.caymancompass.com/2023/02/28/spacex-falcon-9-sparks-ufo-chatter/" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/2023/02/28/spacex-falcon-9-sparks-ufo-chatter/</a>  
+   Link:<a href="https://www.caymancompass.com/2023/02/28/spacex-falcon-9-sparks-ufo-chatter/" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/2023/02/28/spacex-falcon-9-sparks-ufo-chatter/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: spacex.com  
-   Link: <a href="https://www.spacex.com/vehicles/falcon-9" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/vehicles/falcon-9</a>  
+   Link:<a href="https://www.spacex.com/vehicles/falcon-9" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/vehicles/falcon-9</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: csmonitor.com  
    Title: Space X launches upgraded rocket in first satellite mission  
-   Link: <a href="https://www.csmonitor.com/Science/2013/0930/SpaceX-launches-upgraded-rocket-in-first-satellite-mission" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0930/SpaceX-launches-upgraded-rocket-in-first-satellite-mission</a>  
+   Link:<a href="https://www.csmonitor.com/Science/2013/0930/SpaceX-launches-upgraded-rocket-in-first-satellite-mission" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0930/SpaceX-launches-upgraded-rocket-in-first-satellite-mission</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: x.com  
-   Link: <a href="https://x.com/SpaceflightNow/status/1472189630866993152" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SpaceflightNow/status/1472189630866993152</a>  
+   Link:<a href="https://x.com/SpaceflightNow/status/1472189630866993152" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SpaceflightNow/status/1472189630866993152</a>  
 
 ### Additional References
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: youtube.com  
    Title: Debris found in Mauritius to be examined by MH370 investigators  
-   Link: <a href="https://www.youtube.com/watch?v=d7FNt5NdlzA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d7FNt5NdlzA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition 69 Astronaut Sultan Alneyadi Talks with Mauritius Students - May 11, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d7FNt5NdlzA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d7FNt5NdlzA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition 69 Astronaut Sultan Alneyadi Talks with Mauritius Students - May 11, 2023...</p></details>
    Published: May 11, 2023  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cs_Tvx0fMSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cs_Tvx0fMSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debris found in Mauritius to be examined by MH370 investigators...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cs_Tvx0fMSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cs_Tvx0fMSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris found in Mauritius to be examined by MH370 investigators...</p></details>
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-gb/microsoft-365" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-gb/microsoft-365</a>  
+   Link:<a href="https://www.microsoft.com/en-gb/microsoft-365" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-gb/microsoft-365</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DM-gGUfz_x0/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM-gGUfz_x0/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DM-gGUfz_x0/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM-gGUfz_x0/?hl=en</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: astro4dev.org  
-   Link: <a href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow">https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/</a>  
+   Link:<a href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow">https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: miguelclaro.com  
-   Link: <a href="https://www.miguelclaro.com/wp/portfolio/an-ufo-light-painting-against-the-sky-of-alqueva-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.miguelclaro.com/wp/portfolio/an-ufo-light-painting-against-the-sky-of-alqueva-lake/</a>  
+   Link:<a href="https://www.miguelclaro.com/wp/portfolio/an-ufo-light-painting-against-the-sky-of-alqueva-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.miguelclaro.com/wp/portfolio/an-ufo-light-painting-against-the-sky-of-alqueva-lake/</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1qa4juc/anyone_here_know_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1qa4juc/anyone_here_know_what_this_is/</a>  
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1qa4juc/anyone_here_know_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1qa4juc/anyone_here_know_what_this_is/</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/mu/balaclava/2279039/astronomy-weather/2279039" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/mu/balaclava/2279039/astronomy-weather/2279039</a>
+   Link:<a href="https://www.accuweather.com/en/mu/balaclava/2279039/astronomy-weather/2279039" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/mu/balaclava/2279039/astronomy-weather/2279039</a>

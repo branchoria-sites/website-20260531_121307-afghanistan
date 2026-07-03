@@ -1196,50 +1196,50 @@ image: /assets/images/Zimbabwe_5922f5-overview-social.jpg
 
 ## Introduction
 
-Zimbabwe’s UFO record is dominated by one case: the 16 September 1994 [Ariel School]({{ 'ariel-school/' | relative_url }}) incident near Ruwa, east of Harare. Around 60 pupils said they saw one or more strange craft and small dark figures near the school grounds, making it one of the most widely discussed school-based UFO claims in the world. Its importance is not that it has been proven extraterrestrial; it has not. Its importance is that it sits at the meeting point of mass witness testimony, childhood memory, local media, imported UFO culture, uneven investigation methods, and a thin official record. The strongest reading is cautious: Zimbabwe has a famous, deeply contested close-encounter narrative, a small cluster of linked 1994 reports, and little publicly accessible state documentation that would allow the case to be resolved to modern evidential standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Zimbabwe’s UFO record is dominated by one case: the 16 September 1994 [Ariel School]({{ 'ariel-school/' | relative_url }}) incident near Ruwa, east of Harare. Around 60 pupils said they saw one or more strange craft and small dark figures near the school grounds, making it one of the most widely discussed school-based UFO claims in the world. Its importance is not that it has been proven extraterrestrial; it has not. Its importance is that it sits at the meeting point of mass witness testimony, childhood memory, local media, imported UFO culture, uneven investigation methods, and a thin official record. The strongest reading is cautious: Zimbabwe has a famous, deeply contested close-encounter narrative, a small cluster of linked 1994 reports, and little publicly accessible state documentation that would allow the case to be resolved to modern evidential standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Zimbabwe&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Zimbabwe’s UFO history centres on Ruwa
 
-The Ariel School case did not emerge in isolation. In the days before the school report, Zimbabweans and other southern African witnesses reported unusual lights in the sky, and Zimbabwe Broadcasting Corporation radio reportedly invited listeners to phone in with descriptions. Local UFO investigator Cynthia Hind then received other claims, including a daylight sighting by a boy and his mother and a trucker’s report of strange beings on a road, before the Ariel School report became her “Case 96”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Ariel School case did not emerge in isolation. In the days before the school report, Zimbabweans and other southern African witnesses reported unusual lights in the sky, and Zimbabwe Broadcasting Corporation radio reportedly invited listeners to phone in with descriptions. Local UFO investigator Cynthia Hind then received other claims, including a daylight sighting by a boy and his mother and a trucker’s report of strange beings on a road, before the Ariel School report became her “Case 96”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This matters because the Ruwa incident is often presented as a single, sealed event: children saw something, [investigators]({{ 'investigators-4bec57/' | relative_url }}) arrived, and the world argued about whether it was real. The local chronology is messier. By the time the schoolchildren’s story reached investigators, Zimbabwe already had a live UFO atmosphere, with radio discussion and fresh reports circulating. That does not make the children’s claims false, but it does weaken any simple argument that the sighting arose in a cultural vacuum.
 
-Ruwa itself also matters. Ariel School was a private school near Harare, and contemporary accounts describe its pupils as a socially mixed but comparatively privileged group: black Zimbabwean children from several backgrounds, Asian children, mixed-race children and white children, many from families able to afford private education. Hind considered the children’s varied cultural interpretations significant because some common details appeared across accounts while explanations differed. Sceptical readings treat that same setting differently: an unsupervised school break, excited children, and adult investigators arriving afterwards can all shape memory and testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ruwa itself also matters. Ariel School was a private school near Harare, and contemporary accounts describe its pupils as a socially mixed but comparatively privileged group: black Zimbabwean children from several backgrounds, Asian children, mixed-race children and white children, many from families able to afford private education. Hind considered the children’s varied cultural interpretations significant because some common details appeared across accounts while explanations differed. Sceptical readings treat that same setting differently: an unsupervised school break, excited children, and adult investigators arriving afterwards can all shape memory and testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The 1994 Ariel School chronology
 
-The core claim is straightforward. During the mid-morning break on 16 September 1994, while teachers were reportedly in a staff meeting, children outdoors said they saw disc-like objects descend near a rough, bushy area beyond the playing field. Hind’s later account, summarised by the Mail & Guardian, describes “three or four objects” moving near power lines and landing among trees, followed by reports of a small figure in dark clothing with unusual eyes and hair. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The core claim is straightforward. During the mid-morning break on 16 September 1994, while teachers were reportedly in a staff meeting, children outdoors said they saw disc-like objects descend near a rough, bushy area beyond the playing field. Hind’s later account, summarised by the Mail & Guardian, describes “three or four objects” moving near power lines and landing among trees, followed by reports of a small figure in dark clothing with unusual eyes and hair.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The first stage of the case was local and immediate. Children told adults, parents became involved, and Hind interviewed pupils and collected drawings. The second stage turned the case international: BBC correspondent Tim Leach filmed interviews, and Harvard psychiatrist John Mack later visited Zimbabwe and interviewed children over two days. UFO Afrinews, Hind’s publication, recorded that Mack’s interviews had developed the case further and that he had drawn out additional information from the children. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span>
+The first stage of the case was local and immediate. Children told adults, parents became involved, and Hind interviewed pupils and collected drawings. The second stage turned the case international: BBC correspondent Tim Leach filmed interviews, and Harvard psychiatrist John Mack later visited Zimbabwe and interviewed children over two days. UFO Afrinews, Hind’s publication, recorded that Mack’s interviews had developed the case further and that he had drawn out additional information from the children.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span>
 
-The third stage is the afterlife. The case has been repeatedly revisited in documentaries, podcasts, newspaper features and sceptical analyses. Former pupils have described the effect of ridicule, media attention and long-term doubt on their lives, while later films and articles have introduced new disputes about whether some children truly saw a craft, saw only a figure, followed other children’s excitement, or later absorbed details from interviews and media retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The third stage is the afterlife. The case has been repeatedly revisited in documentaries, podcasts, newspaper features and sceptical analyses. Former pupils have described the effect of ridicule, media attention and long-term doubt on their lives, while later films and articles have introduced new disputes about whether some children truly saw a craft, saw only a figure, followed other children’s excitement, or later absorbed details from interviews and media retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Zimbabwe&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is confirmed, contested and weak
 
-The confirmed core is narrower than the popular version. It is well supported that a group of Ariel School pupils reported an unusual event on 16 September 1994; that Cynthia Hind investigated soon afterwards; that children produced drawings and testimony; and that John Mack later interviewed witnesses. It is also clear that the case became one of Africa’s best-known UFO stories and remains culturally influential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span>
+The confirmed core is narrower than the popular version. It is well supported that a group of Ariel School pupils reported an unusual event on 16 September 1994; that Cynthia Hind investigated soon afterwards; that children produced drawings and testimony; and that John Mack later interviewed witnesses. It is also clear that the case became one of Africa’s best-known UFO stories and remains culturally influential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span>
 
-The contested core is much larger. The number “62” is widely repeated for children who claimed to have seen either a craft or an entity, but accounts vary in how many saw which element, how many were present, and how much detail emerged before adult questioning. The environmental “message” often attached to the case is particularly contested because sceptics argue that it became prominent through Mack’s later interviews rather than in the earliest reports. Skeptical Inquirer has argued that Mack’s prior interest in UFO contact and planetary warnings may have shaped the interpretive frame applied to the children’s accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The contested core is much larger. The number “62” is widely repeated for children who claimed to have seen either a craft or an entity, but accounts vary in how many saw which element, how many were present, and how much detail emerged before adult questioning. The environmental “message” often attached to the case is particularly contested because sceptics argue that it became prominent through Mack’s later interviews rather than in the earliest reports. Skeptical Inquirer has argued that Mack’s prior interest in UFO contact and planetary warnings may have shaped the interpretive frame applied to the children’s accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The weak evidence is the physical and official record. There is no widely accepted chain of custody for physical traces, no clear official Zimbabwean investigative file in public circulation, and no instrument data that can independently confirm a landed object. In modern UAP research, official bodies increasingly stress calibrated sensors, original records and transparent data handling; NARA’s UAP collection and later US government transparency efforts show how formal archives can support public review, but Zimbabwe’s Ariel case largely depends on witness interviews, drawings, media footage and private ufological records rather than comparable state-held documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The weak evidence is the physical and official record. There is no widely accepted chain of custody for physical traces, no clear official Zimbabwean investigative file in public circulation, and no instrument data that can independently confirm a landed object. In modern UAP research, official bodies increasingly stress calibrated sensors, original records and transparent data handling; NARA’s UAP collection and later US government transparency efforts show how formal archives can support public review, but Zimbabwe’s Ariel case largely depends on witness interviews, drawings, media footage and private ufological records rather than comparable state-held documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The main explanations in play
 
-The extraterrestrial interpretation remains the one that made the case famous: children reported craft, beings and, in later tellings, telepathic ecological warnings. Supporters point to the number of witnesses, the emotional intensity of the children’s reactions, the drawings, and the apparent seriousness with which several former pupils have continued to describe the event. The case is powerful as testimony, especially because many witnesses were children and some have remained consistent that something extraordinary happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The extraterrestrial interpretation remains the one that made the case famous: children reported craft, beings and, in later tellings, telepathic ecological warnings. Supporters point to the number of witnesses, the emotional intensity of the children’s reactions, the drawings, and the apparent seriousness with which several former pupils have continued to describe the event. The case is powerful as testimony, especially because many witnesses were children and some have remained consistent that something extraordinary happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The social-contagion explanation is the leading sceptical alternative. It does not require every child to lie. It suggests that an ambiguous stimulus, a rumour, a prank or a few excited claims spread rapidly during an unsupervised break, then hardened through repeated retelling, adult interviews and media attention. A 2023 Vice article on the Netflix series Encounters reported one former pupil’s claim that he helped start the episode by pointing to a sunlit rock and calling it a spaceship, although that confession itself could not be independently verified and is disputed by other witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/encounters-netflix-zimbabwe-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">encounters netflix zimbabwe ufo sighting</span><span class="citation-popover-snippet">encounters netflix zimbabwe ufo sighting</span></span></span>
+The social-contagion explanation is the leading sceptical alternative. It does not require every child to lie. It suggests that an ambiguous stimulus, a rumour, a prank or a few excited claims spread rapidly during an unsupervised break, then hardened through repeated retelling, adult interviews and media attention. A 2023 Vice article on the Netflix series Encounters reported one former pupil’s claim that he helped start the episode by pointing to a sunlit rock and calling it a spaceship, although that confession itself could not be independently verified and is disputed by other witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/encounters-netflix-zimbabwe-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">encounters netflix zimbabwe ufo sighting</span><span class="citation-popover-snippet">encounters netflix zimbabwe ufo sighting</span></span></span>
 
-Other sceptical proposals are more specific but also more speculative. Some writers have explored whether the children misread ordinary sights through vegetation, whether the event was influenced by existing science-fiction imagery, or whether local performances, puppetry or public-health messaging might have contributed to the description of figures and warnings. These hypotheses are useful because they identify testable pressures on memory and perception, but none has become a universally accepted solution. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gideonreid.co.uk">[Gideon Reid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gideonreid.co.uk</span><span class="citation-popover-title">ufos aliens in southern africa before ariel school</span><span class="citation-popover-snippet">ufos aliens in southern africa before ariel school</span></span></span>
+Other sceptical proposals are more specific but also more speculative. Some writers have explored whether the children misread ordinary sights through vegetation, whether the event was influenced by existing science-fiction imagery, or whether local performances, puppetry or public-health messaging might have contributed to the description of figures and warnings. These hypotheses are useful because they identify testable pressures on memory and perception, but none has become a universally accepted solution. Metabunk<span class="citation-chip-wrap"><a class="citation-chip" href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gideonreid.co.uk">[Gideon Reid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gideonreid.co.uk</span><span class="citation-popover-title">ufos aliens in southern africa before ariel school</span><span class="citation-popover-snippet">ufos aliens in southern africa before ariel school</span></span></span>
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Zimbabwe&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local sources and reliability problems
 
-Cynthia Hind is essential to the Zimbabwe record because she preserved early testimony and publicised the case. Without her, Ariel might have remained a local school story. Her role is therefore both a strength and a limitation. She captured material close to the event, but she was also an advocate for UFO interpretation rather than a neutral state investigator. A sceptical profile notes that Hind described herself as spreading the word about UFOs and actively encouraged African reports for UFO Afrinews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gideonreid.co.uk">[Gideon Reid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gideonreid.co.uk</span><span class="citation-popover-title">ufos aliens in southern africa before ariel school</span><span class="citation-popover-snippet">ufos aliens in southern africa before ariel school</span></span></span>
+Cynthia Hind is essential to the Zimbabwe record because she preserved early testimony and publicised the case. Without her, Ariel might have remained a local school story. Her role is therefore both a strength and a limitation. She captured material close to the event, but she was also an advocate for UFO interpretation rather than a neutral state investigator. A sceptical profile notes that Hind described herself as spreading the word about UFOs and actively encouraged African reports for UFO Afrinews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gideonreid.co.uk">[Gideon Reid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gideonreid.co.uk</span><span class="citation-popover-title">ufos aliens in southern africa before ariel school</span><span class="citation-popover-snippet">ufos aliens in southern africa before ariel school</span></span></span>
 
-The BBC and later documentary material add value because they preserve voices, faces and emotional texture, but they are not the same as controlled forensic evidence. Media interviews can document what witnesses said at a given time; they cannot, by themselves, establish what was physically present. Mack’s involvement also cuts both ways. His professional status gave the case international credibility, yet his prior public commitment to taking alien-abduction narratives seriously means his interviews need to be read as interpretive encounters, not as detached field measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The BBC and later documentary material add value because they preserve voices, faces and emotional texture, but they are not the same as controlled forensic evidence. Media interviews can document what witnesses said at a given time; they cannot, by themselves, establish what was physically present. Mack’s involvement also cuts both ways. His professional status gave the case international credibility, yet his prior public commitment to taking alien-abduction narratives seriously means his interviews need to be read as interpretive encounters, not as detached field measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Local memory is also shaped by Zimbabwe’s later social changes. The Mail & Guardian’s 2014 revisit found that the school and surrounding area had changed, with the rough bush area reportedly turned into a sports field and the school community no longer resembling the 1994 pupil body. That makes reconstruction harder: the physical scene, local community and social context have all shifted since the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local memory is also shaped by Zimbabwe’s later social changes. The Mail & Guardian’s 2014 revisit found that the school and surrounding area had changed, with the rough bush area reportedly turned into a sports field and the school community no longer resembling the 1994 pupil body. That makes reconstruction harder: the physical scene, local community and social context have all shifted since the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Region-level pattern inside Zimbabwe
 
@@ -1247,22 +1247,22 @@ Within Zimbabwe, the evidence is heavily concentrated around Harare and Ruwa rat
 
 That concentration probably reflects reporting infrastructure as much as sky activity. Harare had the broadcasters, foreign correspondents, private schools and investigators who could turn a sighting into a durable record. A strange light seen in a more remote district might have been discussed locally and then disappeared from the historical record. This is a common archival problem in UFO research: the map of reports often shows where claims are captured, not necessarily where unusual events occur.
 
-The [1994 wave]({{ '1994-wave/' | relative_url }}) also links Zimbabwe naturally to the wider southern Africa branch of UFO history, because reports of a bright object crossed national boundaries and were discussed beyond Zimbabwe. For a country-level page, however, the key point is that Zimbabwe’s best-known case is not a broad national pattern of repeated official incidents. It is a high-profile school encounter embedded in a short regional wave of reports and preserved mainly through private and media channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The [1994 wave]({{ '1994-wave/' | relative_url }}) also links Zimbabwe naturally to the wider southern Africa branch of UFO history, because reports of a bright object crossed national boundaries and were discussed beyond Zimbabwe. For a country-level page, however, the key point is that Zimbabwe’s best-known case is not a broad national pattern of repeated official incidents. It is a high-profile school encounter embedded in a short regional wave of reports and preserved mainly through private and media channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Zimbabwe_5922f5-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Zimbabwe&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case should be classified
 
 A fair evidence split is more useful than a yes-or-no verdict.
 
-**Confirmed:** a large group of children at Ariel School reported an unusual event; Hind and Mack investigated; drawings and interviews exist; the case became internationally influential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed:** a large group of children at Ariel School reported an unusual event; Hind and Mack investigated; drawings and interviews exist; the case became internationally influential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested:** the exact number of primary witnesses, whether all saw the same thing, when the environmental-message element entered the story, and whether later media retellings sharpened details that were originally more varied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested:** the exact number of primary witnesses, whether all saw the same thing, when the environmental-message element entered the story, and whether later media retellings sharpened details that were originally more varied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Unproven:** any claim that a non-human craft landed near Ruwa. There is no public physical evidence, official Zimbabwean investigative dossier or instrument record strong enough to establish that conclusion.
 
 **Plausibly debunkable but not conclusively debunked:** claims that the incident began as a prank, misperception, rumour cascade, or culturally shaped school panic. These explanations fit known weaknesses in the evidence, but the available public record does not settle every witness account.
 
-This classification also fits modern UAP standards. NASA and AARO-era discussions repeatedly stress that better data, less stigma and more reliable reporting systems are needed before unusual aerial claims can move from testimony to robust explanation; AARO has also stated that, to date, it has found no verifiable evidence of extraterrestrial beings, technology or activity in the cases it has reviewed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This classification also fits modern UAP standards. NASA and AARO-era discussions repeatedly stress that better data, less stigma and more reliable reporting systems are needed before unusual aerial claims can move from testimony to robust explanation; AARO has also stated that, to date, it has found no verifiable evidence of extraterrestrial beings, technology or activity in the cases it has reviewed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 ## Why Ariel still matters
 
@@ -1271,194 +1271,194 @@ Ariel remains important because it is a rare case where the human record is unus
 For Zimbabwe, the case has become the country’s defining UFO episode, overshadowing thinner reports from the same 1994 period. For UFO research more broadly, it is a cautionary benchmark: strong witness emotion is not the same as strong physical evidence, but weak physical evidence does not make the witnesses’ experience meaningless. The most defensible conclusion is that Ariel School is a significant Zimbabwean UFO case, a serious social and testimonial puzzle, and an unresolved cultural event rather than a proven extraterrestrial encounter.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Zimbabwe&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Zimbabwe&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness testimony and unexplained sightings similar to the evidential questions raised by Ariel School.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony and unexplained sightings similar to the evidential questions raised by Ariel School.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Substantial coverage of Mack&#x27;s UFO investigations, including the Zimbabwe case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Substantial coverage of Mack&#x27;s UFO investigations, including the Zimbabwe case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces investigative categories and methods relevant to close-encounter reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces investigative categories and methods relevant to close-encounter reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a careful evidential framework useful for assessing famous cases like Ariel School.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a careful evidential framework useful for assessing famous cases like Ariel School.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-zimbabwe-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1474,7 +1474,7 @@ For Zimbabwe, the case has become the country’s defining UFO episode, overshad
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1494,7 +1494,7 @@ For Zimbabwe, the case has become the country’s defining UFO episode, overshad
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1526,7 +1526,7 @@ For Zimbabwe, the case has become the country’s defining UFO episode, overshad
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1578,7 +1578,7 @@ For Zimbabwe, the case has become the country’s defining UFO episode, overshad
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1623,7 +1623,7 @@ For Zimbabwe, the case has become the country’s defining UFO episode, overshad
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1664,115 +1664,115 @@ For Zimbabwe, the case has become the country’s defining UFO episode, overshad
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vice.com  
    Title: encounters netflix zimbabwe ufo sighting  
-   Link: <a href="https://www.vice.com/en/article/encounters-netflix-zimbabwe-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/encounters-netflix-zimbabwe-ufo-sighting/</a>  
+   Link:<a href="https://www.vice.com/en/article/encounters-netflix-zimbabwe-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/encounters-netflix-zimbabwe-ufo-sighting/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/</a>  
+   Link:<a href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "UFO AFRINEWS12 150"  
-   Link: <a href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: whyy.org  
-   Link: <a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
+   Link:<a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: Ariel School UFO  
-   Link: <a href="https://www.metabunk.org/threads/ariel-school-ufo-glinting-reflections-through-vegetation-how-to-visualise.12528/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ariel-school-ufo-glinting-reflections-through-vegetation-how-to-visualise.12528/</a>  
+   Link:<a href="https://www.metabunk.org/threads/ariel-school-ufo-glinting-reflections-through-vegetation-how-to-visualise.12528/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ariel-school-ufo-glinting-reflections-through-vegetation-how-to-visualise.12528/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Ariel School UFO Landing  
-   Link: <a href="https://archive.org/details/ariel-school-ufo" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ariel-school-ufo</a>  
+   Link:<a href="https://archive.org/details/ariel-school-ufo" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ariel-school-ufo</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mg.co.za  
-   Link: <a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
+   Link:<a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gideonreid.co.uk  
    Title: ufos aliens in southern africa before ariel school  
-   Link: <a href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/</a>  
+   Link:<a href="https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/ufos-aliens-in-southern-africa-before-ariel-school/</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort &gt; U.S. Department of War &gt; Release | U...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort &gt; U.S. Department of War &gt; Release | U...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Schoolyard witnesses in mass UFO sighting demand answers | Australian Story  
-   Link: <a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhKyQkhOfoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Ariel School UFO Incident: 60 Students Saw Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/</a>  
+   Link:<a href="https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/</a>  
+   Link:<a href="https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYHxlNKlNfM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYHxlNKlNfM/</a>
+   Link:<a href="https://www.instagram.com/p/DYHxlNKlNfM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYHxlNKlNfM/</a>

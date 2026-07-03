@@ -251,7 +251,7 @@ image: /assets/images/The_Bahamas_f765dc_sea_sightings_69f025-Illustration-1-soc
 Many of [the Bahamas]({{ 'the-bahamas/' | relative_url }})’ most persistent UFO stories come not from remote inland areas, but from Nassau harbour approaches, resort beaches, ferries and cruise-ship decks looking out over dark water. That pattern matters because open sea horizons create some of the most deceptive viewing conditions in the Caribbean. Lights appear isolated against black water, distances become difficult to judge, and ordinary aircraft or marine traffic can seem to hover, accelerate or vanish abruptly.
 
 <img src="{{ "/assets/images/The_Bahamas_f765dc_sea_sightings_69f025-Illustration-1-dark.svg" | relative_url }}" alt="Sea Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/The_Bahamas_f765dc_sea_sightings_69f025-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Bahamas_f765dc_sea_sightings_69f025-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a distinctive class of Bahamian sightings: reports of glowing objects pacing cruise ships, orange spheres rising from the sea horizon, silent lights over Nassau at night, and apparent “underwater” movement seen from hotel balconies or ship railings. Public databases such as the National UFO Reporting Center (NUFORC) contain multiple Bahamas and Caribbean maritime reports, but most lack radar data, precise bearings or corroborating instrumentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=58582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 58582Was on right side of ship heading north. Heard buzzing noise like a boat motor/motorcycle. Looked to right...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Country BahamasNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... N...</span></span></span>
+The result is a distinctive class of Bahamian sightings: reports of glowing objects pacing cruise ships, orange spheres rising from the sea horizon, silent lights over Nassau at night, and apparent “underwater” movement seen from hotel balconies or ship railings. Public databases such as the National UFO Reporting Center (NUFORC) contain multiple Bahamas and Caribbean maritime reports, but most lack radar data, precise bearings or corroborating instrumentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=58582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 58582Was on right side of ship heading north. Heard buzzing noise like a boat motor/motorcycle. Looked to right...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Country BahamasNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... N...</span></span></span>
 
 Rather than proving extraordinary craft, Nassau-area sea sightings reveal how geography, tourism and marine optics combine to produce experiences that genuinely feel unusual to witnesses.
 
@@ -272,7 +272,7 @@ Passengers often spend long periods looking into darkness with few reference poi
 
 This helps explain why many cruise-ship UFO accounts involve hovering lights, pacing objects or glowing spheres over the ocean rather than structured craft seen clearly at close range.
 
-One widely circulated NUFORC report describes a couple aboard a Carnival cruise returning from Nassau who claimed a glowing green object matched the ship’s speed just above the water before darting away at a right angle. The witnesses reported hearing a buzzing sound and said only a few nearby passengers appeared to notice anything unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+One widely circulated NUFORC report describes a couple aboard a Carnival cruise returning from Nassau who claimed a glowing green object matched the ship’s speed just above the water before darting away at a right angle. The witnesses reported hearing a buzzing sound and said only a few nearby passengers appeared to notice anything unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 The report is typical of maritime UFO cases in several ways:
 
@@ -321,7 +321,7 @@ Even ordinary marine navigation lights can look strange when isolated in darknes
 
 The Bahamas has relatively few long-running local UFO research groups compared with larger countries. As a result, many Nassau-area cases enter public databases through tourists rather than structured field investigations.
 
-NUFORC’s Bahamas listings include reports from Nassau, Paradise Island and nearby waters, but the cases are heavily anecdotal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Witnesses are often:
+NUFORC’s Bahamas listings include reports from Nassau, Paradise Island and nearby waters, but the cases are heavily anecdotal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Witnesses are often:
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -355,7 +355,7 @@ Open-water viewing conditions make this especially difficult to verify.
 
 When a bright object approaches the horizon line, it can appear to dip into the ocean because the observer loses sight of it against haze or swell patterns. Aircraft descending toward distant airports can produce exactly this effect. Likewise, a rising celestial body may seem to emerge directly from the water.
 
-Some online discussions and social-media clips from cruise ships interpret reflections, diving seabirds or wave glints as submerged luminous objects. In many cases, commenters quickly propose ordinary explanations such as reflected ship lighting or marine birds catching illumination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1jf0j5i/caught_by_my_friend_off_her_cruise_ship_balcony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Types of UFOs and their... r/UFOs - The greatest UFO photos taken of Giant cigar mother-ship over...</span></span></span>
+Some online discussions and social-media clips from cruise ships interpret reflections, diving seabirds or wave glints as submerged luminous objects. In many cases, commenters quickly propose ordinary explanations such as reflected ship lighting or marine birds catching illumination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1jf0j5i/caught_by_my_friend_off_her_cruise_ship_balcony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Types of UFOs and their... r/UFOs - The greatest UFO photos taken of Giant cigar mother-ship over...</span></span></span>
 
 This does not eliminate every unexplained maritime report, but it demonstrates how easily ocean environments produce ambiguous footage.
 
@@ -404,194 +404,194 @@ A light above dark water can seem detached from ordinary reality in ways that su
 For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting zones even though it has produced very little hard evidence that withstands detailed investigation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFOs Look Stranger Over Bahamian Waters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFOs Look Stranger Over Bahamian Waters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating aerial reports over water.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating aerial reports over water.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores witness interpretation of unusual events and environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness interpretation of unusual events and environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Draw Characters for the Artistically Challenged on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8814883-M.jpg" alt="Cover for How to Draw Characters for the Artistically Challenged" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Draw Characters for the Artistically Challenged">How to Draw Characters for the Artistically Challenged</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Draw Characters for the Artistically Challenged on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8814883-M.jpg" alt="Cover for How to Draw Characters for the Artistically Challenged" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Draw Characters for the Artistically Challenged">How to Draw Characters for the Artistically Challenged</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Highlights how unusual marine environments can produce extraordinary perceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights how unusual marine environments can produce extraordinary perceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bermuda Triangle / Charles Berlitz. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle / Charles Berlitz.">The Bermuda Triangle / Charles Berlitz.</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bermuda Triangle / Charles Berlitz. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle / Charles Berlitz.">The Bermuda Triangle / Charles Berlitz.</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz</p>
         
-        <p class="fr-book-desc">First published 1974.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1974.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Draw Characters for the Artistically Challenged</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Draw Characters for the Artistically Challenged</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-stranger-over-bahamian-waters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufos-look-stranger-over-bahamian-waters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,133 +794,132 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=58582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58582</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 58582Was on right side of ship heading north. Heard buzzing noise like a boat motor/motorcycle. Looked to right...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=58582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58582</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 58582Was on right side of ship heading north. Heard buzzing noise like a boat motor/motorcycle. Looked to right...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cBahamas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country BahamasNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... N...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cBahamas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country BahamasNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... N...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1jf0j5i/caught_by_my_friend_off_her_cruise_ship_balcony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1jf0j5i/caught_by_my_friend_off_her_cruise_ship_balcony/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of UFOs and their... r/UFOs - The greatest UFO photos taken of Giant cigar mother-ship over...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1jf0j5i/caught_by_my_friend_off_her_cruise_ship_balcony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1jf0j5i/caught_by_my_friend_off_her_cruise_ship_balcony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of UFOs and their... r/UFOs - The greatest UFO photos taken of Giant cigar mother-ship over...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/1cos1dk/ufo_activity_in_the_bahamas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/1cos1dk/ufo_activity_in_the_bahamas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO activity in the Bahamas.: r/AlienBodiesHigh altitude UFO sightings. r/UFOs. • 2y ago. High altitude UFO sightings. 1. 6. police drov...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/1cos1dk/ufo_activity_in_the_bahamas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/1cos1dk/ufo_activity_in_the_bahamas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO activity in the Bahamas.: r/AlienBodiesHigh altitude UFO sightings. r/UFOs. • 2y ago. High altitude UFO sightings. 1. 6. police drov...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1spy4by/unbelievable_sighting_by_my_husband_and_i_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1spy4by/unbelievable_sighting_by_my_husband_and_i_that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Burchett calls today&#x27;s UFO files release “the Deep State. 0:17. 2.9K...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1spy4by/unbelievable_sighting_by_my_husband_and_i_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1spy4by/unbelievable_sighting_by_my_husband_and_i_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Burchett calls today&#x27;s UFO files release “the Deep State. 0:17. 2.9K...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1gtilsu/video_showing_a_cluster_of_14_luminous_orbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gtilsu/video_showing_a_cluster_of_14_luminous_orbs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iddle of the ocean &amp;middot; Here is an old video showing a jellyfish type ufo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1gtilsu/video_showing_a_cluster_of_14_luminous_orbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gtilsu/video_showing_a_cluster_of_14_luminous_orbs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iddle of the ocean &amp;middot; Here is an old video showing a jellyfish type ufo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197313" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197313</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1973133 May 2026 — NUFORC UFO Sighting 197313. Occurred: 2026-04-13 00:30 Local Reported: 2026-04-26 23:55 Pacific Du...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=197313" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197313</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1973133 May 2026 — NUFORC UFO Sighting 197313. Occurred: 2026-04-13 00:30 Local Reported: 2026-04-26 23:55 Pacific Du...</p></details>
    Published: April 13, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationThe Bahamas, 6. Tonga, 2. Trinidad and Tobago, 14. Tunisia, 6. Turkey, 110. Türkiye, 11... Rosa Orellana on Oc...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationThe Bahamas, 6. Tonga, 2. Trinidad and Tobago, 14. Tunisia, 6. Turkey, 110. Türkiye, 11... Rosa Orellana on Oc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cCaribbean" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cCaribbean</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country CaribbeanNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... NUFOR...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=cCaribbean" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cCaribbean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country CaribbeanNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... NUFOR...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=77003" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77003</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 77003NUFORC UFO Sighting 77003. Occurred: 2005-06-30 13:00 Local - Approximate Reported: 2010-08-05 12:55 Pacific Dur...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=77003" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 77003NUFORC UFO Sighting 77003. Occurred: 2005-06-30 13:00 Local - Approximate Reported: 2010-08-05 12:55 Pacific Dur...</p></details>
    Published: June 30, 2005  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=149759" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=149759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 149759NUFORC UFO Sighting 149759. Occurred: 2012-04-07 02:00 Local Reported: 2019-10-11 13:52 Pacific Duration: 3 min...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=149759" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=149759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 149759NUFORC UFO Sighting 149759. Occurred: 2012-04-07 02:00 Local Reported: 2019-10-11 13:52 Pacific Duration: 3 min...</p></details>
    Published: April 7, 2012  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/the-bahamas-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/the-bahamas-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: The Bahamas UFO Sightings &amp; ReportsBrowse or report The Bahamas UFO UAP or USO sightings and other strange paranormal experi...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/the-bahamas-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/the-bahamas-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: The Bahamas UFO Sightings &amp; ReportsBrowse or report The Bahamas UFO UAP or USO sightings and other strange paranormal experi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/bjpoX9bz1cM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/bjpoX9bz1cM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Over Nassau Strange Lights from Royal...... cruise near Nassau, Bahamas, we... UFO Sighting Over Nassau Strange Lights fro...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/bjpoX9bz1cM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/bjpoX9bz1cM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Over Nassau Strange Lights from Royal...... cruise near Nassau, Bahamas, we... UFO Sighting Over Nassau Strange Lights fro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
    Title: aliens · apps · national security · navy · ocean · ufos · 10/26/25 · Read Next  
-   Link: <a href="https://nypost.com/2025/10/26/us-news/ufo-tracker-shows-thousands-of-eerie-underwater-objects-lurking-along-us-coasts/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/10/26/us-news/ufo-tracker-shows-thousands-of-eerie-underwater-objects-lurking-along-us-coasts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO tracker shows thousands of eerie underwater objects...26 Oct 2025 — UFO sightings are nothing new, and are often dismissed as...</p></details>
+   Link:<a href="https://nypost.com/2025/10/26/us-news/ufo-tracker-shows-thousands-of-eerie-underwater-objects-lurking-along-us-coasts/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/10/26/us-news/ufo-tracker-shows-thousands-of-eerie-underwater-objects-lurking-along-us-coasts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO tracker shows thousands of eerie underwater objects...26 Oct 2025 — UFO sightings are nothing new, and are often dismissed as...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/idpls/posts/8098412090206595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/idpls/posts/8098412090206595/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video is taken from the 16th deck of a cruise ship in the Bahamas. It moves like an eagle ray, but...</p></details>
+   Link:<a href="https://www.facebook.com/groups/idpls/posts/8098412090206595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/idpls/posts/8098412090206595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video is taken from the 16th deck of a cruise ship in the Bahamas. It moves like an eagle ray, but...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: caribbeanworld-magazine.com  
-   Link: <a href="https://www.caribbeanworld-magazine.com/home/magazine/mysteries-in-paradise-ufo-sightings-in-the-caribbean-islands/" target="_blank" rel="noopener noreferrer nofollow">https://www.caribbeanworld-magazine.com/home/magazine/mysteries-in-paradise-ufo-sightings-in-the-caribbean-islands/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries in Paradise: UFO Sightings in the Caribbean...2 May 2025 — From the 1950s onward, the Caribbean became home to a series of mod...</p></details>
+   Link:<a href="https://www.caribbeanworld-magazine.com/home/magazine/mysteries-in-paradise-ufo-sightings-in-the-caribbean-islands/" target="_blank" rel="noopener noreferrer nofollow">https://www.caribbeanworld-magazine.com/home/magazine/mysteries-in-paradise-ufo-sightings-in-the-caribbean-islands/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries in Paradise: UFO Sightings in the Caribbean...2 May 2025 — From the 1950s onward, the Caribbean became home to a series of mod...</p></details>
    Published: May 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYU0UhNKRBa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYU0UhNKRBa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and waterspout appeared simultaneously off the coast of the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYU0UhNKRBa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYU0UhNKRBa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and waterspout appeared simultaneously off the coast of the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/abc7la/reel/DYIyM5XDjOp/?hl=am-et" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/abc7la/reel/DYIyM5XDjOp/?hl=am-et</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pout appeared simultaneously off the coast of the Bahamas...</p></details>
+   Link:<a href="https://www.instagram.com/abc7la/reel/DYIyM5XDjOp/?hl=am-et" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/abc7la/reel/DYIyM5XDjOp/?hl=am-et</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pout appeared simultaneously off the coast of the Bahamas...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/astrophotographyamateurs2/posts/1479830997118969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/astrophotographyamateurs2/posts/1479830997118969/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ud formation. I would welcome your thoughts on it. No...</p></details>
+   Link:<a href="https://www.facebook.com/groups/astrophotographyamateurs2/posts/1479830997118969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/astrophotographyamateurs2/posts/1479830997118969/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ud formation. I would welcome your thoughts on it. No...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bachmanngroup.com  
    Title: Cruise Ship Passengers see UFO  
-   Link: <a href="https://bachmanngroup.com/cruise-ship-passengers-see-ufo" target="_blank" rel="noopener noreferrer nofollow">https://bachmanngroup.com/cruise-ship-passengers-see-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bachmann Group13 Oct 2014 — Whether one believes in UFOs or not, it is difficult to deny the impact that this particular UFO sighting lef...</p></details>
+   Link:<a href="https://bachmanngroup.com/cruise-ship-passengers-see-ufo" target="_blank" rel="noopener noreferrer nofollow">https://bachmanngroup.com/cruise-ship-passengers-see-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bachmann Group13 Oct 2014 — Whether one believes in UFOs or not, it is difficult to deny the impact that this particular UFO sighting lef...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Understanding the Green Flash and atmospheric light refraction  
-   Link: <a href="https://www.youtube.com/watch?v=wX-Y1a7yYw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-Y1a7yYw0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bioluminescence: The natural &quot;glowing&quot; lights of the ocean...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wX-Y1a7yYw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-Y1a7yYw0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bioluminescence: The natural &quot;glowing&quot; lights of the ocean...</p></details>

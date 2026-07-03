@@ -281,11 +281,11 @@ These conditions do not create false sightings, but they can make perfectly ordi
 
 ### Why meteors are a leading explanation
 
-One of the most common explanations for dramatic sky reports is the fireball, an unusually bright meteor created when a space rock enters Earth's atmosphere. Large fireballs can produce intense flashes, apparent manoeuvres, fragmentation, coloured light, and even delayed sonic booms. Witnesses unfamiliar with the phenomenon may interpret them as aircraft, missiles, or unidentified craft. Research on bolides shows that bright atmospheric entries can fragment dramatically and create powerful visual effects over enormous areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</span><span class="citation-popover-meta">Published: February 20, 2018</span></span></span>
+One of the most common explanations for dramatic sky reports is the fireball, an unusually bright meteor created when a space rock enters Earth's atmosphere. Large fireballs can produce intense flashes, apparent manoeuvres, fragmentation, coloured light, and even delayed sonic booms. Witnesses unfamiliar with the phenomenon may interpret them as aircraft, missiles, or unidentified craft. Research on bolides shows that bright atmospheric entries can fragment dramatically and create powerful visual effects over enormous areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</span><span class="citation-popover-meta">Published: February 20, 2018</span></span></span>
 
 The Sahara is particularly favourable for observing such events. The dark sky background means even moderate fireballs can attract attention. A bright meteor seen over remote terrain may appear to descend nearby even when it is tens or hundreds of kilometres away.
 
-Recent meteor reporting systems have recorded fireball observations from Niger itself. The American Meteor Society and International Meteor Organization databases contain reports from Niamey, illustrating that bright meteor events are observed in the country and continue to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/videos?video_id=21925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[2amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">MeteorsAMS Event: 3140-2026, Report (3140d-2026) Niamey, Niamey Urban Community, NE This video may not be related to a fireball event. Mo...</span></span></span>
+Recent meteor reporting systems have recorded fireball observations from Niger itself. The American Meteor Society and International Meteor Organization databases contain reports from Niamey, illustrating that bright meteor events are observed in the country and continue to occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/videos?video_id=21925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[2amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">MeteorsAMS Event: 3140-2026, Report (3140d-2026) Niamey, Niamey Urban Community, NE This video may not be related to a fireball event. Mo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TdGW7mvGBIg" title="Air Base 201" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TdGW7mvGBIg" target="_blank" rel="noopener noreferrer">Air Base 201</a></p><p class="youtube-embed-meta">Channel: Airman Magazine &middot; Views: 29.7K &middot; Uploaded: April 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TdGW7mvGBIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TdGW7mvGBIg">Open on YouTube</a></p></div></div></div>
 
@@ -293,9 +293,9 @@ Recent meteor reporting systems have recorded fireball observations from Niger i
 
 A recurring feature of fireball reports worldwide is the belief that an object crashed close to the observer. Human depth perception performs poorly against a dark sky, and bright meteors often appear much nearer than they really are.
 
-This matters in Niger because some reports describe objects apparently descending into remote desert areas. A meteor can create exactly that impression. Even when fragments survive atmospheric entry, the actual fall zone may be far from where witnesses believe the object landed. Studies of observed meteorite falls show that estimating impact locations from eyewitness testimony alone is often unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</span><span class="citation-popover-meta">Published: February 20, 2018</span></span></span>
+This matters in Niger because some reports describe objects apparently descending into remote desert areas. A meteor can create exactly that impression. Even when fragments survive atmospheric entry, the actual fall zone may be far from where witnesses believe the object landed. Studies of observed meteorite falls show that estimating impact locations from eyewitness testimony alone is often unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</span><span class="citation-popover-meta">Published: February 20, 2018</span></span></span>
 
-The presence of meteorites in the wider Sahara also demonstrates that genuine extraterrestrial rocks do reach the region. Northern Niger has produced meteorite finds, including a high-profile Martian meteorite discovered in the [Agadez]({{ 'agadez/' | relative_url }}) region in 2023. However, meteorites are evidence of natural space debris, not spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbesafrica.com">[Forbes Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbesafrica.com</span><span class="citation-popover-snippet">Forbes AfricaWhy A Rare Rock From Mars That Sold For $5.3 Million Is...21 Jul 2025 — It was found in the Agadez region of northern Niger...</span></span></span>
+The presence of meteorites in the wider Sahara also demonstrates that genuine extraterrestrial rocks do reach the region. Northern Niger has produced meteorite finds, including a high-profile Martian meteorite discovered in the [Agadez]({{ 'agadez/' | relative_url }}) region in 2023. However, meteorites are evidence of natural space debris, not spacecraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbesafrica.com">[Forbes Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbesafrica.com</span><span class="citation-popover-snippet">Forbes AfricaWhy A Rare Rock From Mars That Sold For $5.3 Million Is...21 Jul 2025 — It was found in the Agadez region of northern Niger...</span></span></span>
 
 ## Re-entry Debris and Recovered Fragments
 
@@ -305,14 +305,14 @@ A second major explanation involves artificial objects returning from space. Sat
 
 Unlike meteors, which usually cross the sky rapidly as a single bright object, re-entering spacecraft often fragment into multiple luminous pieces moving along a common trajectory. Witnesses may describe a chain of lights, a slow-moving fireball, or several objects flying in formation.
 
-Space agencies routinely track such events. Recent examples include the controlled re-entry of the European Space Agency's ERS-2 satellite and numerous uncontrolled re-entry events monitored by international space-debris programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span>
+Space agencies routinely track such events. Recent examples include the controlled re-entry of the European Space Agency's ERS-2 satellite and numerous uncontrolled re-entry events monitored by international space-debris programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span>
 
 <img src="{{ "/assets/images/Niger_6687e1_conventional_explana_813c05-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Niger_6687e1_conventional_explana_813c05-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Niger_6687e1_conventional_explana_813c05-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The challenge of fragment reports
 
 Reports of recovered fragments in remote areas require particular caution. In regions with limited forensic investigation, an unusual metallic object may quickly become associated with a reported sky event even when no direct connection exists.
 
-The Sahara has a long history of meteorite discoveries because its dry environment preserves fallen material well and makes dark rocks easier to spot against desert surfaces. As a result, genuine meteorites, industrial scrap, vehicle debris, and natural geological materials can all become incorporated into local stories about unidentified aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbesafrica.com">[Forbes Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbesafrica.com</span><span class="citation-popover-snippet">Forbes AfricaWhy A Rare Rock From Mars That Sold For $5.3 Million Is...21 Jul 2025 — It was found in the Agadez region of northern Niger...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.premiumtimesng.com/news/top-news/813348-mars-meteorite-found-in-niger-controversially-sold-in-us.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: premiumtimesng.com">[Premium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">premiumtimesng.com</span><span class="citation-popover-title">813348 mars meteorite found in niger controversially sold in us</span><span class="citation-popover-snippet">The rare rock weighs more than 24.6 kilograms and is considered to be the largest...Read more...</span></span></span>
+The Sahara has a long history of meteorite discoveries because its dry environment preserves fallen material well and makes dark rocks easier to spot against desert surfaces. As a result, genuine meteorites, industrial scrap, vehicle debris, and natural geological materials can all become incorporated into local stories about unidentified aerial events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbesafrica.com">[Forbes Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbesafrica.com</span><span class="citation-popover-snippet">Forbes AfricaWhy A Rare Rock From Mars That Sold For $5.3 Million Is...21 Jul 2025 — It was found in the Agadez region of northern Niger...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.premiumtimesng.com/news/top-news/813348-mars-meteorite-found-in-niger-controversially-sold-in-us.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: premiumtimesng.com">[Premium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">premiumtimesng.com</span><span class="citation-popover-title">813348 mars meteorite found in niger controversially sold in us</span><span class="citation-popover-snippet">The rare rock weighs more than 24.6 kilograms and is considered to be the largest...Read more...</span></span></span>
 
 Without documented recovery procedures, laboratory analysis, or a verified chain of custody, claims that recovered fragments came from an unidentified craft remain difficult to assess.
 
@@ -322,7 +322,7 @@ Without documented recovery procedures, laboratory analysis, or a verified chain
 
 Northern Niger contains one of the strongest conventional explanations for unusual aerial observations: aviation activity.
 
-Agadez hosted Air Base 201, a major drone facility used by the United States before the withdrawal completed in 2024. The base supported unmanned aerial operations and other military aviation activities in the Sahel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usafe.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">US completes withdrawal from AB 201August 6, 2024 — 6 Aug 2024 — The US military completed its withdrawal from Air Base 201 in Agadez, Aug...</span><span class="citation-popover-meta">Published: August 6, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us military completes withdrawal key drone base niger 2024 08 05</span><span class="citation-popover-snippet">military completes withdrawal from key drone base in NigerThe United States military has completed its withdrawal from air base 201 in Ni...</span></span></span> Drones can appear highly unusual to observers unfamiliar with their flight characteristics. At night, navigation lights may seem stationary for long periods before suddenly changing position. A drone flying toward an observer can appear motionless, then seem to accelerate unexpectedly when its angle changes. Similar effects are frequently reported in UFO investigations worldwide.
+Agadez hosted Air Base 201, a major drone facility used by the United States before the withdrawal completed in 2024. The base supported unmanned aerial operations and other military aviation activities in the Sahel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usafe.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafe.af.mil">[usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafe.af.mil</span><span class="citation-popover-snippet">US completes withdrawal from AB 201August 6, 2024 — 6 Aug 2024 — The US military completed its withdrawal from Air Base 201 in Agadez, Aug...</span><span class="citation-popover-meta">Published: August 6, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">us military completes withdrawal key drone base niger</span><span class="citation-popover-snippet">military completes withdrawal from key drone base in NigerThe United States military has completed its withdrawal from air base 201 in Ni...</span></span></span> Drones can appear highly unusual to observers unfamiliar with their flight characteristics. At night, navigation lights may seem stationary for long periods before suddenly changing position. A drone flying toward an observer can appear motionless, then seem to accelerate unexpectedly when its angle changes. Similar effects are frequently reported in UFO investigations worldwide.
 
 Aircraft operating at high altitude can create comparable confusion. Under clear desert conditions, landing lights may remain visible for long periods and appear detached from any visible aircraft structure.
 
@@ -379,194 +379,194 @@ Reported featureLikely conventional explanationBright object crossing the sky ra
 Taken together, meteors, re-entry debris, aircraft, drones, and industrial lighting provide the strongest evidence-based starting point for interpreting unusual sky reports from Niger. While individual cases may remain uncertain, these mechanisms account for most reported features without requiring extraordinary assumptions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Else Could Niger Witnesses Be Seeing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Else Could Niger Witnesses Be Seeing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses conventional explanations, classification and investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses conventional explanations, classification and investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights why witness testimony alone is often insufficient.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights why witness testimony alone is often insufficient.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Contains numerous examples of misidentified aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains numerous examples of misidentified aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand astronomical objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand astronomical objects often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-niger-witnesses-be-seeing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-niger-witnesses-be-seeing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ Taken together, meteors, re-entry debris, aircraft, drones, and industrial light
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ Taken together, meteors, re-entry debris, aircraft, drones, and industrial light
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ Taken together, meteors, re-entry debris, aircraft, drones, and industrial light
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ Taken together, meteors, re-entry debris, aircraft, drones, and industrial light
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ Taken together, meteors, re-entry debris, aircraft, drones, and industrial light
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,135 +769,134 @@ Taken together, meteors, re-entry debris, aircraft, drones, and industrial light
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.07299</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.07299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</p></details>
    Published: February 20, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Observation of metre-scale impactors by the Desert Fireball Network  
-   Link: <a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
+   Link:<a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1702.03968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03968</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The January 7, 2015, superbolide over Romania and structural diversity of meter-sized asteroids...</p></details>
+   Link:<a href="https://arxiv.org/abs/1702.03968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03968</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The January 7, 2015, superbolide over Romania and structural diversity of meter-sized asteroids...</p></details>
    Published: January 7, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fireball.amsmeteors.org  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/report/421544" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/report/421544</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latitude, 13°. Longitude, 2°. Elevation, 228m. Time and Duration. Local Date &amp; Time, 2026-04-27 23:40...Read more...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/report/421544" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/report/421544</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latitude, 13°. Longitude, 2°. Elevation, 228m. Time and Duration. Local Date &amp; Time, 2026-04-27 23:40...Read more...</p></details>
    Published: April 27, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/videos?video_id=21925" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=21925</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorsAMS Event: 3140-2026, Report (3140d-2026) Niamey, Niamey Urban Community, NE This video may not be related to a fireball event. Mo...</p></details>
+   Link:<a href="https://amsmeteors.org/videos?video_id=21925" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=21925</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorsAMS Event: 3140-2026, Report (3140d-2026) Niamey, Niamey Urban Community, NE This video may not be related to a fireball event. Mo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fireball.amsmeteors.org  
    Title: Fireball reports Niamey, Niamey Urban Community, ≈45s, -9, -,  
-   Link: <a href="https://fireball.amsmeteors.org/imo_view/browse_reports/?page=15&amp;st=" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/browse_reports/?page=15&amp;st=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball reportsNiamey, Niamey Urban Community, ≈45s, -9, -, -? DjibrillaA, 1. 3140c, 2026-04-27 23:40 UT, 2026-04-27 23:40? NE, Niamey...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/imo_view/browse_reports/?page=15&amp;st=" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/browse_reports/?page=15&amp;st=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball reportsNiamey, Niamey Urban Community, ≈45s, -9, -, -? DjibrillaA, 1. 3140c, 2026-04-27 23:40 UT, 2026-04-27 23:40? NE, Niamey...</p></details>
    Published: April 27, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usafe.af.mil  
-   Link: <a href="https://www.usafe.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US completes withdrawal from AB 201August 6, 2024 — 6 Aug 2024 — The US military completed its withdrawal from Air Base 201 in Agadez, Aug...</p></details>
+   Link:<a href="https://www.usafe.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafe.af.mil/News/Article-Display/Article/3863464/us-completes-withdrawal-from-ab-201/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US completes withdrawal from AB 201August 6, 2024 — 6 Aug 2024 — The US military completed its withdrawal from Air Base 201 in Agadez, Aug...</p></details>
    Published: August 6, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: us military completes withdrawal key drone base niger 2024 08 05  
-   Link: <a href="https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military completes withdrawal from key drone base in NigerThe United States military has completed its withdrawal from air base 201 in Ni...</p></details>
+   Link:<a href="https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military completes withdrawal from key drone base in NigerThe United States military has completed its withdrawal from air base 201 in Ni...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reports - Report a Fireball - American Meteor SocietyReports found: 4766 in the last 30 days Page 1 / 96; Event 3071-2026; 3071a, 2026...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports - Report a Fireball - American Meteor SocietyReports found: 4766 in the last 30 days Page 1 / 96; Event 3071-2026; 3071a, 2026...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: forbesafrica.com  
-   Link: <a href="https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes AfricaWhy A Rare Rock From Mars That Sold For $5.3 Million Is...21 Jul 2025 — It was found in the Agadez region of northern Niger...</p></details>
+   Link:<a href="https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbesafrica.com/current-affairs/2025/07/21/the-sahara-represents-a-very-important-reservoir-of-extraterrestrial-material-why-a-rare-rock-from-mars-that-sold-for-5-3-million-is-drawing-mixed-reactions-in-africa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes AfricaWhy A Rare Rock From Mars That Sold For $5.3 Million Is...21 Jul 2025 — It was found in the Agadez region of northern Niger...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: premiumtimesng.com  
    Title: 813348 mars meteorite found in niger controversially sold in us  
-   Link: <a href="https://www.premiumtimesng.com/news/top-news/813348-mars-meteorite-found-in-niger-controversially-sold-in-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.premiumtimesng.com/news/top-news/813348-mars-meteorite-found-in-niger-controversially-sold-in-us.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rare rock weighs more than 24.6 kilograms and is considered to be the largest...Read more...</p></details>
+   Link:<a href="https://www.premiumtimesng.com/news/top-news/813348-mars-meteorite-found-in-niger-controversially-sold-in-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.premiumtimesng.com/news/top-news/813348-mars-meteorite-found-in-niger-controversially-sold-in-us.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rare rock weighs more than 24.6 kilograms and is considered to be the largest...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/news/nwa-16788-mars-rock-sold-sothebys" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/nwa-16788-mars-rock-sold-sothebys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Mars rock on Earth sold at auction for $5.3 million21 Jul 2025 — NWA 16788 was blasted out of Mars by an asteroid slamming into t...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/news/nwa-16788-mars-rock-sold-sothebys" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/nwa-16788-mars-rock-sold-sothebys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Mars rock on Earth sold at auction for $5.3 million21 Jul 2025 — NWA 16788 was blasted out of Mars by an asteroid slamming into t...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fallA meteorite fall, also called an observed fall, is a meteorite collected after its fall from outer space, that was obser...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fallA meteorite fall, also called an observed fall, is a meteorite collected after its fall from outer space, that was obser...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“QUITE A LIGHT SHOW!” 😍 NASA astronaut Chris Williams...NASA astronaut Chris Williams photographed a bright fireball from the ISS on Apr...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“QUITE A LIGHT SHOW!” 😍 NASA astronaut Chris Williams...NASA astronaut Chris Williams photographed a bright fireball from the ISS on Apr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: morningstaronline.co.uk  
-   Link: <a href="https://morningstaronline.co.uk/article/niger-investigates-how-mars-meteorite-landed-sahara-has-been-sold-privately-new-york" target="_blank" rel="noopener noreferrer nofollow">https://morningstaronline.co.uk/article/niger-investigates-how-mars-meteorite-landed-sahara-has-been-sold-privately-new-york</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Niger investigates how Mars meteorite that landed in...11 Aug 2025 — The 24.6-kilogram meteorite is believed to have been knocked off th...</p></details>
+   Link:<a href="https://morningstaronline.co.uk/article/niger-investigates-how-mars-meteorite-landed-sahara-has-been-sold-privately-new-york" target="_blank" rel="noopener noreferrer nofollow">https://morningstaronline.co.uk/article/niger-investigates-how-mars-meteorite-landed-sahara-has-been-sold-privately-new-york</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Niger investigates how Mars meteorite that landed in...11 Aug 2025 — The 24.6-kilogram meteorite is believed to have been knocked off th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aerospaceamerica.aiaa.org  
-   Link: <a href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: airforcetimes.com  
-   Link: <a href="https://www.airforcetimes.com/flashpoints/2019/11/01/armed-drones-to-fly-out-of-niger-air-base-now-operational-after-delayed-completion/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcetimes.com/flashpoints/2019/11/01/armed-drones-to-fly-out-of-niger-air-base-now-operational-after-delayed-completion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armed drones to fly out of Niger air base now operational...1 Nov 2019 — US Africa Command announced Friday that intelligence, surveilla...</p></details>
+   Link:<a href="https://www.airforcetimes.com/flashpoints/2019/11/01/armed-drones-to-fly-out-of-niger-air-base-now-operational-after-delayed-completion/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcetimes.com/flashpoints/2019/11/01/armed-drones-to-fly-out-of-niger-air-base-now-operational-after-delayed-completion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armed drones to fly out of Niger air base now operational...1 Nov 2019 — US Africa Command announced Friday that intelligence, surveilla...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dodig.mil  
    Title: evaluation of niger air base 201 military construction dodig 2020 077  
-   Link: <a href="https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Niger Air Base 201 Military Construction...31 Mar 2020 — The objective of this evaluation was to determine whether the US...</p></details>
+   Link:<a href="https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/2134187/evaluation-of-niger-air-base-201-military-construction-dodig-2020-077/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Niger Air Base 201 Military Construction...31 Mar 2020 — The objective of this evaluation was to determine whether the US...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: meteorite-recon.com  
-   Link: <a href="https://www.meteorite-recon.com/home/meteorite-documentaries/niger-iron-meteorites/p3" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite-recon.com/home/meteorite-documentaries/niger-iron-meteorites/p3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bland (1989), gave a relatively recent age for the Saharan meteorite accumulation surface and identified a...Read more...</p></details>
+   Link:<a href="https://www.meteorite-recon.com/home/meteorite-documentaries/niger-iron-meteorites/p3" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite-recon.com/home/meteorite-documentaries/niger-iron-meteorites/p3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bland (1989), gave a relatively recent age for the Saharan meteorite accumulation surface and identified a...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: evrimagaci.org  
    Title: nasa satellite set for fiery earth reentry tuesday 532840  
-   Link: <a href="https://evrimagaci.org/gpt/nasa-satellite-set-for-fiery-earth-reentry-tuesday-532840?srsltid=AfmBOoqLlJ9loA3gL3rN5Uiqr17lyF3ilxQPCjj6ncTEXhlgs2qxR8w8" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/nasa-satellite-set-for-fiery-earth-reentry-tuesday-532840?srsltid=AfmBOoqLlJ9loA3gL3rN5Uiqr17lyF3ilxQPCjj6ncTEXhlgs2qxR8w8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Satellite Set For Fiery Earth Reentry Tuesday10 Mar 2026 — NASA&#x27;s Van Allen Probe A will reenter Earth&#x27;s atmosphere on March 10, 202...</p></details>
+   Link:<a href="https://evrimagaci.org/gpt/nasa-satellite-set-for-fiery-earth-reentry-tuesday-532840?srsltid=AfmBOoqLlJ9loA3gL3rN5Uiqr17lyF3ilxQPCjj6ncTEXhlgs2qxR8w8" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/nasa-satellite-set-for-fiery-earth-reentry-tuesday-532840?srsltid=AfmBOoqLlJ9loA3gL3rN5Uiqr17lyF3ilxQPCjj6ncTEXhlgs2qxR8w8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Satellite Set For Fiery Earth Reentry Tuesday10 Mar 2026 — NASA&#x27;s Van Allen Probe A will reenter Earth&#x27;s atmosphere on March 10, 202...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalgeographic.com  
    Title: Video shows fireball meteor explode in broad daylight  
-   Link: <a href="https://www.nationalgeographic.com/science/article/fireball-meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/fireball-meteors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Jun 2025 — Videos from dashcams and security cameras shared online caught the event, which occurred around 12:25 p.m. EDT on June 26...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/fireball-meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/fireball-meteors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Jun 2025 — Videos from dashcams and security cameras shared online caught the event, which occurred around 12:25 p.m. EDT on June 26...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: telegraph.co.uk  
    Title: niger claims mars rock was trafficked out of africa  
-   Link: <a href="https://www.telegraph.co.uk/world-news/2025/08/10/niger-claims-mars-rock-was-trafficked-out-of-africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/world-news/2025/08/10/niger-claims-mars-rock-was-trafficked-out-of-africa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Niger claims rare Mars meteorite was &#x27;trafficked&#x27; out of Africa10 Aug 2025 — Niger has opened an investigation into whether a rare Mars r...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/world-news/2025/08/10/niger-claims-mars-rock-was-trafficked-out-of-africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/world-news/2025/08/10/niger-claims-mars-rock-was-trafficked-out-of-africa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Niger claims rare Mars meteorite was &#x27;trafficked&#x27; out of Africa10 Aug 2025 — Niger has opened an investigation into whether a rare Mars r...</p></details>

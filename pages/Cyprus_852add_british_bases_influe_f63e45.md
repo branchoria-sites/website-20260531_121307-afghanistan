@@ -259,15 +259,15 @@ The long‑standing British military presence in Cyprus — concentrated in the 
 <img src="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-1-dark.svg" | relative_url }}" alt="Military Influence illustration 1" data-theme-src-dark="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Military Airspace Matters for UFO Reports
 
-The British bases at Akrotiri and Dhekelia occupy roughly 3 % of Cyprus’s landmass and include RAF airfields, radar stations, and long‑range surveillance installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Akrotiri and Dhekelia</span><span class="citation-popover-snippet">Akrotiri and Dhekelia</span></span></span> Their operational patterns — training flights, fast jets, electronic emissions, and classified sensors — inherently increase the background of unusual lights, high‑speed tracks, or radar returns in the southern and eastern air corridors of Cyprus. Civilian observers are often unaware of military flight schedules or sensitive radar lobes, so unidentified lights or movements near these zones are more likely to be perceived as enigmatic rather than attributed to known aircraft, satellites, or atmospheric phenomena. This phenomenon — where military traffic and restricted airspace complexity raise misidentification risk — is well understood in broader unexplained aerial phenomena research and appears applicable to Cyprus as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+The British bases at Akrotiri and Dhekelia occupy roughly 3 % of Cyprus’s landmass and include RAF airfields, radar stations, and long‑range surveillance installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Akrotiri and Dhekelia</span><span class="citation-popover-snippet">Akrotiri and Dhekelia</span></span></span> Their operational patterns — training flights, fast jets, electronic emissions, and classified sensors — inherently increase the background of unusual lights, high‑speed tracks, or radar returns in the southern and eastern air corridors of Cyprus. Civilian observers are often unaware of military flight schedules or sensitive radar lobes, so unidentified lights or movements near these zones are more likely to be perceived as enigmatic rather than attributed to known aircraft, satellites, or atmospheric phenomena. This phenomenon — where military traffic and restricted airspace complexity raise misidentification risk — is well understood in broader unexplained aerial phenomena research and appears applicable to Cyprus as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
-Furthermore, anecdotal UFO reporting historically clusters near these installations. A Cyprus Mail article from 2008 specifically noted a reported sighting over Pervolia near Larnaca — described as being near the airport *and* “close enough to the British base of Dhekelia” — as a contemporary example of where proximity to military activity overlapped with unexplained public accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[Cyprus Mail Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">ufos over cyprus 2</span><span class="citation-popover-snippet">Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</span></span></span> While the article emphasised that neither civil aviation nor military radar logged these events, its geographic framing underscores how sightings often appear in zones with dense air activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[Cyprus Mail Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">ufos over cyprus 2</span><span class="citation-popover-snippet">Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</span></span></span>
+Furthermore, anecdotal UFO reporting historically clusters near these installations. A Cyprus Mail article from 2008 specifically noted a reported sighting over Pervolia near Larnaca — described as being near the airport *and* “close enough to the British base of Dhekelia” — as a contemporary example of where proximity to military activity overlapped with unexplained public accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[Cyprus Mail Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">ufos over cyprus 2</span><span class="citation-popover-snippet">Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</span></span></span> While the article emphasised that neither civil aviation nor military radar logged these events, its geographic framing underscores how sightings often appear in zones with dense air activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[Cyprus Mail Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">ufos over cyprus 2</span><span class="citation-popover-snippet">Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</span></span></span>
 
 ## Military Witness Claims and the 1971 Royal Marines Case
 
-One of the most cited cases linking British military personnel to Cyprus UFO reports centres on a 1971 sighting during a Royal Marine field exercise. According to retrospective witness claims circulated in UFO enthusiast circles (and recounted in niche publications and witness‑collected archives), a large, bright orb was observed over the Dhekelia area by a Royal Marine unit, and RAF Lightning fighters were reportedly scrambled from RAF Akrotiri in an unsuccessful intercept attempt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1kyu40w/cyprus_1971_1400_royal_marines_witness_a_massive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">cyprus 1971 1400 royal marines witness a massive</span><span class="citation-popover-snippet">ufo-sighting-in-cyprus-1971/. Date: May 31, 1971. Time: Approximately 8... Clifford Stone participated in missions to recover UFOs or Al...</span><span class="citation-popover-meta">Published: May 31, 1971</span></span></span>
+One of the most cited cases linking British military personnel to Cyprus UFO reports centres on a 1971 sighting during a Royal Marine field exercise. According to retrospective witness claims circulated in UFO enthusiast circles (and recounted in niche publications and witness‑collected archives), a large, bright orb was observed over the Dhekelia area by a Royal Marine unit, and RAF Lightning fighters were reportedly scrambled from RAF Akrotiri in an unsuccessful intercept attempt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1kyu40w/cyprus_1971_1400_royal_marines_witness_a_massive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">cyprus 1971 1400 royal marines witness a massive</span><span class="citation-popover-snippet">ufo-sighting-in-cyprus-1971/. Date: May 31, 1971. Time: Approximately 8... Clifford Stone participated in missions to recover UFOs or Al...</span><span class="citation-popover-meta">Published: May 31, 1971</span></span></span>
 
-Proponents of the case often highlight that trained observers like servicemen providing accounts lend weight to an encounter’s credibility; such testimonies typically attract attention in unidentified aerial phenomena research because military witnesses are assumed to have familiarity with aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">royal marine recalls ufo sighting in cyprus 1971</span><span class="citation-popover-snippet">Royal Marine recalls UFO sighting in Cyprus, 19712 Nov 2016 — What is impressive is the fact that the sighting was acknowledged formally...</span></span></span> However, this incident remains outside official documentation: there are no public Ministry of Defence records confirming the sighting or the scramble, and investigators have suggested mundane explanations — including possible correlation with space launch activity, such as the *Mariner 9* rocket launch occurring on the same date in 1971 — as potential misinterpretations of atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">royal marine recalls ufo sighting in cyprus 1971</span><span class="citation-popover-snippet">Royal Marine recalls UFO sighting in Cyprus, 19712 Nov 2016 — What is impressive is the fact that the sighting was acknowledged formally...</span></span></span>
+Proponents of the case often highlight that trained observers like servicemen providing accounts lend weight to an encounter’s credibility; such testimonies typically attract attention in unidentified aerial phenomena research because military witnesses are assumed to have familiarity with aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">royal marine recalls ufo sighting in cyprus 1971</span><span class="citation-popover-snippet">Royal Marine recalls UFO sighting in Cyprus, 19712 Nov 2016 — What is impressive is the fact that the sighting was acknowledged formally...</span></span></span> However, this incident remains outside official documentation: there are no public Ministry of Defence records confirming the sighting or the scramble, and investigators have suggested mundane explanations — including possible correlation with space launch activity, such as the *Mariner 9* rocket launch occurring on the same date in 1971 — as potential misinterpretations of atmospheric effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">royal marine recalls ufo sighting in cyprus 1971</span><span class="citation-popover-snippet">Royal Marine recalls UFO sighting in Cyprus, 19712 Nov 2016 — What is impressive is the fact that the sighting was acknowledged formally...</span></span></span>
 
 Because the evidence for this 1971 Cyprus case largely derives from retrospective narratives and private UFO journals rather than declassified military logs or peer‑reviewed investigation, its impact on serious reporting patterns remains controversial and debated among researchers. Nonetheless, its persistence in UFO literature demonstrates how British military witnesses factor into the cultural memory of Cyprus anomalous sightings.
 
@@ -275,20 +275,20 @@ Because the evidence for this 1971 Cyprus case largely derives from retrospectiv
 
 ## Civilian Reporting Near Military Zones
 
-Beyond military eyewitness claims, civilian reports around the British bases often show patterns influenced by the region’s complex emissions and aircraft movements. Civilians observing lights low on the horizon at dusk or night near RAF airfields — particularly without access to flight data — may describe these as “unidentified lights” or craft. This aligns with broader patterns documented in UFO reporting worldwide, where airbases, restricted flying zones, and radar sites act as focal points for unexplained reports even when explainable aviation activity is present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+Beyond military eyewitness claims, civilian reports around the British bases often show patterns influenced by the region’s complex emissions and aircraft movements. Civilians observing lights low on the horizon at dusk or night near RAF airfields — particularly without access to flight data — may describe these as “unidentified lights” or craft. This aligns with broader patterns documented in UFO reporting worldwide, where airbases, restricted flying zones, and radar sites act as focal points for unexplained reports even when explainable aviation activity is present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
-In Cyprus, journalists and local forums have repeatedly noted clusters of UFO sightings near areas with military infrastructure, such as near Pervolia close to Dhekelia, or around Kyrenia and Limassol where base‑related training flights are common. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[Cyprus Mail Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">ufos over cyprus 2</span><span class="citation-popover-snippet">Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</span></span></span> Yet publicly accessible radar logs, official civil aviation statements, or Ministry of Defence confirmations for these events are generally absent, leaving a credibility gap between anecdotal accounts and verifiable military data.
+In Cyprus, journalists and local forums have repeatedly noted clusters of UFO sightings near areas with military infrastructure, such as near Pervolia close to Dhekelia, or around Kyrenia and Limassol where base‑related training flights are common.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[Cyprus Mail Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">ufos over cyprus 2</span><span class="citation-popover-snippet">Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</span></span></span> Yet publicly accessible radar logs, official civil aviation statements, or Ministry of Defence confirmations for these events are generally absent, leaving a credibility gap between anecdotal accounts and verifiable military data.
 
 ## How Radar, Air Traffic, and Public Perception Intersect
 
-British Forces Cyprus operates a network of radars and surveillance systems as part of RAF and allied intelligence assets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/British_Forces_Cyprus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">British Forces Cyprus</span><span class="citation-popover-snippet">British Forces Cyprus</span></span></span> These systems serve defence and NATO purposes but are not designed to release detailed tracks to the public. As a result, when unusual radar contacts occur in these sectors — whether due to atmospheric oddities, bird migrations, or real temporary radar blobs — there is often no publicly accessible data that could corroborate or debunk contemporaneous UFO reports, exacerbating public uncertainty.
+British Forces Cyprus operates a network of radars and surveillance systems as part of RAF and allied intelligence assets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/British_Forces_Cyprus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">British Forces Cyprus</span><span class="citation-popover-snippet">British Forces Cyprus</span></span></span> These systems serve defence and NATO purposes but are not designed to release detailed tracks to the public. As a result, when unusual radar contacts occur in these sectors — whether due to atmospheric oddities, bird migrations, or real temporary radar blobs — there is often no publicly accessible data that could corroborate or debunk contemporaneous UFO reports, exacerbating public uncertainty.
 
 Similarly, military aircraft — particularly high‑speed jets, training sorties or classified flights — can traverse Cyprus airspace in ways unfamiliar to civilian observers. Without context, these movements can be described as unexplained or anomalous by those on the ground.
 
 <img src="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-2-dark.svg" | relative_url }}" alt="Military Influence illustration 2" data-theme-src-dark="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact on Public Narratives and Local Debate
 
-The intersection of British military presence with UFO reporting has also fed into broader social narratives about sovereignty and safety on the island. Contemporary political debates — particularly following regional crises such as the 2026 drone strikes on RAF Akrotiri — have reignited Cypriot discussions about the future role of the British bases and how foreign military infrastructure affects local security and public perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/uk/drone-strike-drives-calls-end-british-military-presence-cyprus-2026-03-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone strike drives calls to end British military presence on Cyprus</span><span class="citation-popover-snippet">While no injuries were reported, the incident caused panic and evacuations, intensifying concerns about Cyprus being drawn into broader r...</span></span></span> While most public and diplomatic discourse focuses on geopolitics, this shifting context influences how unusual sightings are framed: as either mundane military phenomena, misinterpretations tied to restricted operations, or in some quarters as emblematic of deeper concerns about foreign presence.
+The intersection of British military presence with UFO reporting has also fed into broader social narratives about sovereignty and safety on the island. Contemporary political debates — particularly following regional crises such as the 2026 drone strikes on RAF Akrotiri — have reignited Cypriot discussions about the future role of the British bases and how foreign military infrastructure affects local security and public perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/uk/drone-strike-drives-calls-end-british-military-presence-cyprus-2026-03-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone strike drives calls to end British military presence on Cyprus</span><span class="citation-popover-snippet">While no injuries were reported, the incident caused panic and evacuations, intensifying concerns about Cyprus being drawn into broader r...</span></span></span> While most public and diplomatic discourse focuses on geopolitics, this shifting context influences how unusual sightings are framed: as either mundane military phenomena, misinterpretations tied to restricted operations, or in some quarters as emblematic of deeper concerns about foreign presence.
 
 At the same time, local UFO forums and civilian reporters often invoke proximity to the bases when recounting sightings, whether as suggestive background or as a reason for increased attention. This interplay underscores how the basing footprint continues to shape not just the density of aerial activity in Cyprus but the narratives constructed around unexplained observations.
 
@@ -318,194 +318,194 @@ In sum, while the British military presence does not provide **verified evidence
 <img src="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-3-dark.svg" | relative_url }}" alt="Military Influence illustration 3" data-theme-src-dark="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add_british_bases_influe_f63e45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did British Bases Shape Cyprus UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did British Bases Shape Cyprus UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines official investigations and military reporting structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations and military reporting structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical frameworks for evaluating military sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical frameworks for evaluating military sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with reports involving bases, pilots and official observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with reports involving bases, pilots and official observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers military-linked UFO discussions and contemporary reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military-linked UFO discussions and contemporary reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-british-bases-shape-cyprus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ In sum, while the British military presence does not provide **verified evidence
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ In sum, while the British military presence does not provide **verified evidence
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ In sum, while the British military presence does not provide **verified evidence
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ In sum, while the British military presence does not provide **verified evidence
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ In sum, while the British military presence does not provide **verified evidence
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,139 +708,138 @@ In sum, while the British military presence does not provide **verified evidence
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Akrotiri and Dhekelia  
-   Link: <a href="https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.cyprus-mail.com  
    Title: ufos over cyprus 2  
-   Link: <a href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</p></details>
+   Link:<a href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cyprus Mail ArchiveUFOs over Cyprus?17 Feb 2008 — Cyprus appears to be a hotbed of UFO activity given the number of sightings reported by...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: cyprus 1971 1400 royal marines witness a massive  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kyu40w/cyprus_1971_1400_royal_marines_witness_a_massive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kyu40w/cyprus_1971_1400_royal_marines_witness_a_massive/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-sighting-in-cyprus-1971/. Date: May 31, 1971. Time: Approximately 8... Clifford Stone participated in missions to recover UFOs or Al...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kyu40w/cyprus_1971_1400_royal_marines_witness_a_massive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kyu40w/cyprus_1971_1400_royal_marines_witness_a_massive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-sighting-in-cyprus-1971/. Date: May 31, 1971. Time: Approximately 8... Clifford Stone participated in missions to recover UFOs or Al...</p></details>
    Published: May 31, 1971  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: openminds.tv  
    Title: royal marine recalls ufo sighting in cyprus 1971  
-   Link: <a href="https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Marine recalls UFO sighting in Cyprus, 19712 Nov 2016 — What is impressive is the fact that the sighting was acknowledged formally...</p></details>
+   Link:<a href="https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/royal-marine-recalls-ufo-sighting-in-cyprus-1971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Marine recalls UFO sighting in Cyprus, 19712 Nov 2016 — What is impressive is the fact that the sighting was acknowledged formally...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: British Forces Cyprus  
-   Link: <a href="https://en.wikipedia.org/wiki/British_Forces_Cyprus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_Forces_Cyprus</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/British_Forces_Cyprus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_Forces_Cyprus</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Drone strike drives calls to end British military presence on Cyprus  
-   Link: <a href="https://www.reuters.com/world/uk/drone-strike-drives-calls-end-british-military-presence-cyprus-2026-03-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/drone-strike-drives-calls-end-british-military-presence-cyprus-2026-03-06/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While no injuries were reported, the incident caused panic and evacuations, intensifying concerns about Cyprus being drawn into broader r...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/drone-strike-drives-calls-end-british-military-presence-cyprus-2026-03-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/drone-strike-drives-calls-end-british-military-presence-cyprus-2026-03-06/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While no injuries were reported, the incident caused panic and evacuations, intensifying concerns about Cyprus being drawn into broader r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.cyprus-mail.com  
    Title: dramatic increase in ufo sightings  
-   Link: <a href="https://archive.cyprus-mail.com/2010/07/22/dramatic-increase-in-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2010/07/22/dramatic-increase-in-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>increase in UFO sightings – Cyprus MailJuly 22, 2010 — DRAMATIC INCREASE IN UFO SIGHTINGS * July 22, 2010 IF ALIENS are choosing the Cypr...</p></details>
+   Link:<a href="https://archive.cyprus-mail.com/2010/07/22/dramatic-increase-in-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2010/07/22/dramatic-increase-in-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>increase in UFO sightings – Cyprus MailJuly 22, 2010 — DRAMATIC INCREASE IN UFO SIGHTINGS * July 22, 2010 IF ALIENS are choosing the Cypr...</p></details>
    Published: July 22, 2010  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.cyprus-mail.com  
    Title: clerides confirms britain might have stored nuclear weapons at akrotiri in 1960s  
-   Link: <a href="https://archive.cyprus-mail.com/2000/01/04/clerides-confirms-britain-might-have-stored-nuclear-weapons-at-akrotiri-in-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2000/01/04/clerides-confirms-britain-might-have-stored-nuclear-weapons-at-akrotiri-in-1960s/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>confirms Britain might have stored nuclear weapons at Akrotiri in 1960s – Cyprus MailJanuary 4, 2000 — CLERIDES CONFIRMS BRITAIN MIGHT HA...</p></details>
+   Link:<a href="https://archive.cyprus-mail.com/2000/01/04/clerides-confirms-britain-might-have-stored-nuclear-weapons-at-akrotiri-in-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2000/01/04/clerides-confirms-britain-might-have-stored-nuclear-weapons-at-akrotiri-in-1960s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>confirms Britain might have stored nuclear weapons at Akrotiri in 1960s – Cyprus MailJanuary 4, 2000 — CLERIDES CONFIRMS BRITAIN MIGHT HA...</p></details>
    Published: January 4, 2000  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.cyprus-mail.com  
    Title: the day the aliens came  
-   Link: <a href="https://archive.cyprus-mail.com/2008/11/23/the-day-the-aliens-came/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/11/23/the-day-the-aliens-came/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>day the aliens came23 Nov 2008 — Whether alien activity or natural phenomena, reports of UFOs have flooded in this summer from all across...</p></details>
+   Link:<a href="https://archive.cyprus-mail.com/2008/11/23/the-day-the-aliens-came/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/11/23/the-day-the-aliens-came/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>day the aliens came23 Nov 2008 — Whether alien activity or natural phenomena, reports of UFOs have flooded in this summer from all across...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: liquisearch.com  
    Title: Akrotiri and Dhekelia  
-   Link: <a href="https://www.liquisearch.com/akrotiri_and_dhekelia/dispute_with_cyprus" target="_blank" rel="noopener noreferrer nofollow">https://www.liquisearch.com/akrotiri_and_dhekelia/dispute_with_cyprus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispute With Cyprus | Dispute CyprusAKROTIRI AND DHEKELIA - DISPUTE WITH CYPRUS Dispute With Cyprus In July 2001, violent protests were h...</p></details>
+   Link:<a href="https://www.liquisearch.com/akrotiri_and_dhekelia/dispute_with_cyprus" target="_blank" rel="noopener noreferrer nofollow">https://www.liquisearch.com/akrotiri_and_dhekelia/dispute_with_cyprus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dispute With Cyprus | Dispute CyprusAKROTIRI AND DHEKELIA - DISPUTE WITH CYPRUS Dispute With Cyprus In July 2001, violent protests were h...</p></details>
    Published: July 2001  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Dhekelia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dhekelia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dhekélia | British Military, Cyprus, &amp; Map | BritannicaDHEKÉLIA British military enclave, Cyprus Also known as: Dekéleia Written and fact...</p></details>
+   Link:<a href="https://www.britannica.com/place/Dhekelia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Dhekelia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dhekélia | British Military, Cyprus, &amp; Map | BritannicaDHEKÉLIA British military enclave, Cyprus Also known as: Dekéleia Written and fact...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vetted.show  
-   Link: <a href="https://www.vetted.show/ufo-crashes/mysterious-aerial-incident-shocks-troodos-mountains" target="_blank" rel="noopener noreferrer nofollow">https://www.vetted.show/ufo-crashes/mysterious-aerial-incident-shocks-troodos-mountains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Troodos: Unexplained Phenomenon Puzzles Cyprus HighlandsMYSTERIOUS AERIAL INCIDENT SHOCKS TROODOS MOUNTAINS Aug 31 Written By G...</p></details>
+   Link:<a href="https://www.vetted.show/ufo-crashes/mysterious-aerial-incident-shocks-troodos-mountains" target="_blank" rel="noopener noreferrer nofollow">https://www.vetted.show/ufo-crashes/mysterious-aerial-incident-shocks-troodos-mountains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Troodos: Unexplained Phenomenon Puzzles Cyprus HighlandsMYSTERIOUS AERIAL INCIDENT SHOCKS TROODOS MOUNTAINS Aug 31 Written By G...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: windowoncyprus.com  
-   Link: <a href="https://www.windowoncyprus.com/cyprus_ufo_forum.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.windowoncyprus.com/cyprus_ufo_forum.htm</a>  
+   Link:<a href="https://www.windowoncyprus.com/cyprus_ufo_forum.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.windowoncyprus.com/cyprus_ufo_forum.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commonslibrary.parliament.uk  
    Title: uk The UK Sovereign Base Areas in Cyprus: Status and recent developments  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10540/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10540/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Sovereign Base Areas in Cyprus: Status and recent developments - House of Commons LibraryMarch 3, 2026 — THE UK SOVEREIGN BASE AREAS I...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10540/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Sovereign Base Areas in Cyprus: Status and recent developments - House of Commons LibraryMarch 3, 2026 — THE UK SOVEREIGN BASE AREAS I...</p></details>
    Published: March 3, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.famagusta.news  
    Title: news UF O crashed in Troodos claims British soldier – Famagusta News  
-   Link: <a href="https://en.famagusta.news/news/ufo" target="_blank" rel="noopener noreferrer nofollow">https://en.famagusta.news/news/ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>crashed in Troodos claims British soldier – Famagusta NewsOctober 11, 2017 — UFO CRASHED IN TROODOS CLAIMS BRITISH SOLDIER Image: Famagus...</p></details>
+   Link:<a href="https://en.famagusta.news/news/ufo" target="_blank" rel="noopener noreferrer nofollow">https://en.famagusta.news/news/ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>crashed in Troodos claims British soldier – Famagusta NewsOctober 11, 2017 — UFO CRASHED IN TROODOS CLAIMS BRITISH SOLDIER Image: Famagus...</p></details>
    Published: October 11, 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newsincyprus.com  
    Title: royal marine recalls ufo sighting in cyprus 1971 open minds ufo news  
-   Link: <a href="https://www.newsincyprus.com/news/45711/royal-marine-recalls-ufo-sighting-in-cyprus-1971-open-minds-ufo-news" target="_blank" rel="noopener noreferrer nofollow">https://www.newsincyprus.com/news/45711/royal-marine-recalls-ufo-sighting-in-cyprus-1971-open-minds-ufo-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Marine recalls UFO sighting in Cyprus, 1971 –...19 Nov 2016 — Royal Marine recalls UFO sighting in Cyprus, 1971 – Open Minds UFO News...</p></details>
+   Link:<a href="https://www.newsincyprus.com/news/45711/royal-marine-recalls-ufo-sighting-in-cyprus-1971-open-minds-ufo-news" target="_blank" rel="noopener noreferrer nofollow">https://www.newsincyprus.com/news/45711/royal-marine-recalls-ufo-sighting-in-cyprus-1971-open-minds-ufo-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Marine recalls UFO sighting in Cyprus, 1971 –...19 Nov 2016 — Royal Marine recalls UFO sighting in Cyprus, 1971 – Open Minds UFO News...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: declassifieduk.org  
    Title: inside britains military dictatorship in the mediterranean  
-   Link: <a href="https://www.declassifieduk.org/inside-britains-military-dictatorship-in-the-mediterranean/" target="_blank" rel="noopener noreferrer nofollow">https://www.declassifieduk.org/inside-britains-military-dictatorship-in-the-mediterranean/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Britain&#x27;s military dictatorship in the Mediterranean31 Jan 2023 — The UK retains two chunks of Cyprus for military and spying purp...</p></details>
+   Link:<a href="https://www.declassifieduk.org/inside-britains-military-dictatorship-in-the-mediterranean/" target="_blank" rel="noopener noreferrer nofollow">https://www.declassifieduk.org/inside-britains-military-dictatorship-in-the-mediterranean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Britain&#x27;s military dictatorship in the Mediterranean31 Jan 2023 — The UK retains two chunks of Cyprus for military and spying purp...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/CyprusMarineLife/posts/1962272767366256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CyprusMarineLife/posts/1962272767366256/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (Unidentified Floating Object):) at Akrotiri January 2018.The sighting was around over Cyprus, 16:48 local time of Italy...</p></details>
+   Link:<a href="https://www.facebook.com/groups/CyprusMarineLife/posts/1962272767366256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CyprusMarineLife/posts/1962272767366256/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (Unidentified Floating Object):) at Akrotiri January 2018.The sighting was around over Cyprus, 16:48 local time of Italy...</p></details>
    Published: January 2018  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theweek.com  
    Title: the history behind the uks military bases in cyprus  
-   Link: <a href="https://theweek.com/politics/the-history-behind-the-uks-military-bases-in-cyprus" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/politics/the-history-behind-the-uks-military-bases-in-cyprus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The history behind the UK&#x27;s military bases in Cyprus4 Mar 2026 — The bases “enable the UK to maintain a permanent military presence at a...</p></details>
+   Link:<a href="https://theweek.com/politics/the-history-behind-the-uks-military-bases-in-cyprus" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/politics/the-history-behind-the-uks-military-bases-in-cyprus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The history behind the UK&#x27;s military bases in Cyprus4 Mar 2026 — The bases “enable the UK to maintain a permanent military presence at a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: paranorms.com  
    Title: Dhekelia Barracks Alien Encounter | Paranorms  
-   Link: <a href="https://paranorms.com/dhekelia-barracks-alien/" target="_blank" rel="noopener noreferrer nofollow">https://paranorms.com/dhekelia-barracks-alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2016 — DHEKELIA BARRACKS ALIEN ENCOUNTER by Les Hewitt, January 2016 – Updated April 2021 Image: Dhekelia Barracks Alien Encou...</p></details>
+   Link:<a href="https://paranorms.com/dhekelia-barracks-alien/" target="_blank" rel="noopener noreferrer nofollow">https://paranorms.com/dhekelia-barracks-alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2016 — DHEKELIA BARRACKS ALIEN ENCOUNTER by Les Hewitt, January 2016 – Updated April 2021 Image: Dhekelia Barracks Alien Encou...</p></details>
    Published: January 7, 2016

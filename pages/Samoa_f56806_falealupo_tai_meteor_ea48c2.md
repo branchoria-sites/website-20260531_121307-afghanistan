@@ -251,27 +251,27 @@ image: /assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-1-so
 The reported falling stone at Falealupo-Tai on Savaiʻi in February 2021 occupies an unusual place in [Samoa]({{ 'what-has-samoa-really-seen-in-the-sky/' | relative_url }})’s small catalogue of sky-related mysteries. Unlike vague reports of lights or distant objects, this case involved a physical rock that local residents said fell from the sky, struck a stone wall, and was recovered immediately afterwards. That made it one of the few Samoan incidents where a tangible object could, in principle, be examined and tested. Yet the central question remains unresolved: was it actually a meteorite, or was it an ordinary terrestrial rock linked to a dramatic event through misunderstanding, coincidence, or local speculation?
 
 <img src="{{ "/assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-1-dark.svg" | relative_url }}" alt="Falling Stone illustration 1" data-theme-src-dark="{{ "/assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The case attracted attention because it sits at the boundary between folklore, eyewitness testimony, geology, and UFO-style interpretation. The witnesses described sounds, impacts, and a strange stone. What has never emerged publicly is the kind of laboratory analysis that would settle the matter. As a result, the Falealupo-Tai stone remains Samoa’s strongest reported falling-object case, but not a confirmed meteorite fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=26222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa...17 Feb 2021 — A meteorite fell in the costal village Falealupo-Tai i...</span></span></span>
+The case attracted attention because it sits at the boundary between folklore, eyewitness testimony, geology, and UFO-style interpretation. The witnesses described sounds, impacts, and a strange stone. What has never emerged publicly is the kind of laboratory analysis that would settle the matter. As a result, the Falealupo-Tai stone remains Samoa’s strongest reported falling-object case, but not a confirmed meteorite fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=26222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa...17 Feb 2021 — A meteorite fell in the costal village Falealupo-Tai i...</span></span></span>
 
 ## What the family reported
 
-According to accounts published by the *Samoa Observer*, the event occurred on 3 February 2021 at Falealupo-Tai, a coastal settlement in the Vaisigano district on western Savaiʻi. Witnesses said they heard a loud rumbling noise resembling thunder, followed by a sharp impact. At first, some reportedly believed an aircraft might have crashed nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[Samoa Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</span></span></span>
+According to accounts published by the *Samoa Observer*, the event occurred on 3 February 2021 at Falealupo-Tai, a coastal settlement in the Vaisigano district on western Savaiʻi. Witnesses said they heard a loud rumbling noise resembling thunder, followed by a sharp impact. At first, some reportedly believed an aircraft might have crashed nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[Samoa Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</span></span></span>
 
-The family's account centred on two men who were working on a vehicle outside the home when the incident occurred. They later claimed that a dark object descended and struck a wall constructed from volcanic rocks. The impact allegedly fractured part of the wall before the object bounced into the road. The recovered stone was described as triangular in shape and unusually dark. One witness reportedly stated that it felt “cold as ice” when picked up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?page_id=14892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite “Hocheppan” – a Forensic StudyMeteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 2021 · MADURA CAVE fall...</span><span class="citation-popover-meta">Published: February 2021</span></span></span>
+The family's account centred on two men who were working on a vehicle outside the home when the incident occurred. They later claimed that a dark object descended and struck a wall constructed from volcanic rocks. The impact allegedly fractured part of the wall before the object bounced into the road. The recovered stone was described as triangular in shape and unusually dark. One witness reportedly stated that it felt “cold as ice” when picked up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?page_id=14892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite “Hocheppan” – a Forensic StudyMeteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 2021 · MADURA CAVE fall...</span><span class="citation-popover-meta">Published: February 2021</span></span></span>
 
-Photographs circulated on social media and were later reproduced in news coverage. The images showed a dark, angular stone with surface markings that some observers thought resembled the thumbprint-like depressions often seen on meteorites. Interest spread quickly across Samoa, partly because the object appeared more unusual than a typical volcanic rock and partly because the witnesses insisted they had directly observed the aftermath of its arrival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
+Photographs circulated on social media and were later reproduced in news coverage. The images showed a dark, angular stone with surface markings that some observers thought resembled the thumbprint-like depressions often seen on meteorites. Interest spread quickly across Samoa, partly because the object appeared more unusual than a typical volcanic rock and partly because the witnesses insisted they had directly observed the aftermath of its arrival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
 
-At the same time, scepticism emerged almost immediately. Samoan social media users questioned whether the stone had genuinely fallen from the sky, and some treated the story as a local curiosity rather than evidence of an extraordinary event. The debate quickly shifted from the impact story itself to the nature of the stone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[Samoa Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</span></span></span>
+At the same time, scepticism emerged almost immediately. Samoan social media users questioned whether the stone had genuinely fallen from the sky, and some treated the story as a local curiosity rather than evidence of an extraordinary event. The debate quickly shifted from the impact story itself to the nature of the stone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[Samoa Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</span></span></span>
 
 ## Why the object attracted meteorite interest
 
 Several features of the report resemble details commonly associated with documented meteorite falls.
 
-First, the witnesses described an audible atmospheric event before the object was recovered. Meteorites frequently produce sonic booms, rumbling sounds, or delayed explosive noises as they travel through the atmosphere. Second, the object was allegedly found immediately after the reported impact rather than being discovered long afterwards. Third, photographs appeared to show a dark fusion-crust-like exterior and a shape suggestive of aerodynamic flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=26222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa...17 Feb 2021 — A meteorite fell in the costal village Falealupo-Tai i...</span></span></span>
+First, the witnesses described an audible atmospheric event before the object was recovered. Meteorites frequently produce sonic booms, rumbling sounds, or delayed explosive noises as they travel through the atmosphere. Second, the object was allegedly found immediately after the reported impact rather than being discovered long afterwards. Third, photographs appeared to show a dark fusion-crust-like exterior and a shape suggestive of aerodynamic flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=26222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa...17 Feb 2021 — A meteorite fell in the costal village Falealupo-Tai i...</span></span></span>
 
-A meteorite researcher who documented the case on a specialist meteorite website argued that the object's appearance was at least consistent with a meteorite and tentatively suggested it could be an ordinary chondrite, the most common class of stony meteorite. However, that assessment was explicitly based on photographs and witness accounts rather than laboratory testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?page_id=14892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite “Hocheppan” – a Forensic StudyMeteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 2021 · MADURA CAVE fall...</span><span class="citation-popover-meta">Published: February 2021</span></span></span>
+A meteorite researcher who documented the case on a specialist meteorite website argued that the object's appearance was at least consistent with a meteorite and tentatively suggested it could be an ordinary chondrite, the most common class of stony meteorite. However, that assessment was explicitly based on photographs and witness accounts rather than laboratory testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?page_id=14892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">Meteorite “Hocheppan” – a Forensic StudyMeteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 2021 · MADURA CAVE fall...</span><span class="citation-popover-meta">Published: February 2021</span></span></span>
 
-The reported damage to the volcanic-rock wall also contributed to public interest. If accurately described, a fresh impact would strengthen the argument that the stone had recently arrived rather than being a pre-existing local rock. Yet photographs and media reports did not provide enough independent documentation to determine exactly how the wall was damaged or whether the damage clearly corresponded to the alleged trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
+The reported damage to the volcanic-rock wall also contributed to public interest. If accurately described, a fresh impact would strengthen the argument that the stone had recently arrived rather than being a pre-existing local rock. Yet photographs and media reports did not provide enough independent documentation to determine exactly how the wall was damaged or whether the damage clearly corresponded to the alleged trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuDfZ2Md5x8" title="Meteors: Crash Course Astronomy #23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer">Meteors: Crash Course Astronomy #23</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 1.1M &middot; Uploaded: July 2015 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuDfZ2Md5x8">Open on YouTube</a></p></div></div></div>
 
@@ -291,18 +291,18 @@ Confirmed meteorite falls are normally established through laboratory examinatio
 
 </div>
 
-None of these results appear to have been published for the Falealupo-Tai specimen. Public reporting focused on photographs, eyewitness testimony, and visual impressions rather than scientific analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
+None of these results appear to have been published for the Falealupo-Tai specimen. Public reporting focused on photographs, eyewitness testimony, and visual impressions rather than scientific analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
 
-This absence matters because Samoa is a volcanic island environment. Savaiʻi in particular contains abundant dark volcanic rocks that can appear unusual to non-specialists. Surface textures, fractures, and weathering patterns may sometimes resemble features that people associate with meteorites. Without petrographic, chemical, or mineralogical testing, visual identification alone is unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/content/pdf/10.1007/978-1-4612-2896-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Geology and Offshore Mineral Resources of the Central</span><span class="citation-popover-snippet">report on CPCEMR- sponsored symposia and workshops, and describe the results of onshore and marine geological and geophysical exploration...</span></span></span>
+This absence matters because Samoa is a volcanic island environment. Savaiʻi in particular contains abundant dark volcanic rocks that can appear unusual to non-specialists. Surface textures, fractures, and weathering patterns may sometimes resemble features that people associate with meteorites. Without petrographic, chemical, or mineralogical testing, visual identification alone is unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/content/pdf/10.1007/978-1-4612-2896-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Geology and Offshore Mineral Resources of the Central</span><span class="citation-popover-snippet">report on CPCEMR- sponsored symposia and workshops, and describe the results of onshore and marine geological and geophysical exploration...</span></span></span>
 
 The gap between “looks like a meteorite” and “is a meteorite” is often much larger than the public assumes. Around the world, many reported meteorites ultimately prove to be industrial slag, volcanic material, iron-rich terrestrial rocks, or objects already present on the ground before a dramatic event focused attention on them.
 
 <img src="{{ "/assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-2-dark.svg" | relative_url }}" alt="Falling Stone illustration 2" data-theme-src-dark="{{ "/assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806_falealupo_tai_meteor_ea48c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did anyone investigate it?
 
-Media reports indicate that geological interest emerged soon after the story became public. Coverage from the *Samoa Observer* noted that a geologist familiar with Savaiʻi's geological history expressed interest in examining the object. Public discussions therefore moved beyond simple social-media speculation and into the possibility of professional evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/samoaobserver/posts/a-rock-expert-who-researched-and-documented-the-geological-history-of-savaii-and/4277670845595029/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A rock expert who researched and documented the...... family claims fell from the sky and onto their property in Falealupo, Sava...</span></span></span>
+Media reports indicate that geological interest emerged soon after the story became public. Coverage from the *Samoa Observer* noted that a geologist familiar with Savaiʻi's geological history expressed interest in examining the object. Public discussions therefore moved beyond simple social-media speculation and into the possibility of professional evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/samoaobserver/posts/a-rock-expert-who-researched-and-documented-the-geological-history-of-savaii-and/4277670845595029/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A rock expert who researched and documented the...... family claims fell from the sky and onto their property in Falealupo, Sava...</span></span></span>
 
-What is far less clear is whether a full scientific examination ever took place or whether any results were released publicly. No widely cited academic paper, meteorite bulletin entry, or recognised classification record appears to have emerged from the incident. Meteorite falls that receive formal confirmation are normally catalogued in international scientific databases after laboratory study. Publicly available reporting on the Falealupo-Tai stone does not show that such a process was completed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
+What is far less clear is whether a full scientific examination ever took place or whether any results were released publicly. No widely cited academic paper, meteorite bulletin entry, or recognised classification record appears to have emerged from the incident. Meteorite falls that receive formal confirmation are normally catalogued in international scientific databases after laboratory study. Publicly available reporting on the Falealupo-Tai stone does not show that such a process was completed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
 
 That does not prove the object was not a meteorite. It simply means the evidence never progressed to the level required for scientific acceptance.
 
@@ -324,7 +324,7 @@ When witnesses hear an unexplained boom, observe a flash, or encounter a strange
 
 </div>
 
-In many cases, the original event may be entirely natural while later retellings gradually shift towards mystery. A loud atmospheric detonation becomes a “strange craft”. An unusual rock becomes “evidence”. Social-media circulation can amplify details that support extraordinary explanations while neglecting the mundane questions that investigators need answered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[Samoa Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</span></span></span>
+In many cases, the original event may be entirely natural while later retellings gradually shift towards mystery. A loud atmospheric detonation becomes a “strange craft”. An unusual rock becomes “evidence”. Social-media circulation can amplify details that support extraordinary explanations while neglecting the mundane questions that investigators need answered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[Samoa Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</span></span></span>
 
 The Falealupo-Tai incident remained relatively restrained compared with classic UFO narratives. Most discussion focused on whether the stone was a meteorite rather than whether it represented extraterrestrial technology. Even so, the case demonstrates how quickly a physical object recovered after an unusual event can attract broader speculation when definitive testing is absent.
 
@@ -334,203 +334,203 @@ The Falealupo-Tai incident remained relatively restrained compared with classic 
 
 The strongest conclusion is also the most cautious one.
 
-A family in Falealupo-Tai reported a loud atmospheric event and recovered an unusual stone that they believed had fallen from the sky on 3 February 2021. The object's appearance led some observers, including meteorite enthusiasts, to consider the possibility that it was a genuine meteorite. Photographs and witness accounts provide enough detail to make the claim worth examining. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
+A family in Falealupo-Tai reported a loud atmospheric event and recovered an unusual stone that they believed had fallen from the sky on 3 February 2021. The object's appearance led some observers, including meteorite enthusiasts, to consider the possibility that it was a genuine meteorite. Photographs and witness accounts provide enough detail to make the claim worth examining.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
 
-However, no publicly available laboratory analysis appears to have confirmed the stone's extraterrestrial origin. Without mineralogical or chemical testing, the object cannot be classified with confidence as a meteorite. The case therefore remains unconfirmed rather than verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
+However, no publicly available laboratory analysis appears to have confirmed the stone's extraterrestrial origin. Without mineralogical or chemical testing, the object cannot be classified with confidence as a meteorite. The case therefore remains unconfirmed rather than verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karmaka.de">[Karmaka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karmaka.de</span><span class="citation-popover-snippet">NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</span></span></span>
 
 Within the broader record of Samoa-related UFO and anomalous-sky reports, the Falealupo-Tai stone stands out precisely because it involved a recoverable object. Yet it also highlights the central lesson of evidence-based investigation: eyewitnesses can establish that something unusual seemed to happen, but only physical analysis can determine what actually fell from the sky.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7W-BeFDtrMM" title="Testing Suspect Meteorites MeteorWRONGs Rocks Irons with XRF XRD ☄️Meteorite 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7W-BeFDtrMM" target="_blank" rel="noopener noreferrer">Testing Suspect Meteorites MeteorWRONGs Rocks Irons with XRF XRD ☄️Meteorite 101</a></p><p class="youtube-embed-meta">Channel: Topherspin Meteorites &middot; Views: 4.3K &middot; Uploaded: January 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7W-BeFDtrMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7W-BeFDtrMM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Falealupo Tai Stone a Meteorite?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Falealupo Tai Stone a Meteorite?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
         
-        <p class="fr-book-desc">Explains the scientific tests needed to confirm a meteorite.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the scientific tests needed to confirm a meteorite.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how unusual events become UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual events become UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Examines the cultural interpretation of unexplained incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the cultural interpretation of unexplained incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-falealupo-tai-stone-a-meteorite-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-falealupo-tai-stone-a-meteorite-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ Within the broader record of Samoa-related UFO and anomalous-sky reports, the Fa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ Within the broader record of Samoa-related UFO and anomalous-sky reports, the Fa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ Within the broader record of Samoa-related UFO and anomalous-sky reports, the Fa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ Within the broader record of Samoa-related UFO and anomalous-sky reports, the Fa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ Within the broader record of Samoa-related UFO and anomalous-sky reports, the Fa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,119 +733,118 @@ Within the broader record of Samoa-related UFO and anomalous-sky reports, the Fa
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: karmaka.de  
-   Link: <a href="https://karmaka.de/?p=26222" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?p=26222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa...17 Feb 2021 — A meteorite fell in the costal village Falealupo-Tai i...</p></details>
+   Link:<a href="https://karmaka.de/?p=26222" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?p=26222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa...17 Feb 2021 — A meteorite fell in the costal village Falealupo-Tai i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
    Title: Geology and Offshore Mineral Resources of the Central  
-   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-1-4612-2896-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-1-4612-2896-7.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report on CPCEMR- sponsored symposia and workshops, and describe the results of onshore and marine geological and geophysical exploration...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1007/978-1-4612-2896-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-1-4612-2896-7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report on CPCEMR- sponsored symposia and workshops, and describe the results of onshore and marine geological and geophysical exploration...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/samoaobserver/posts/a-rock-expert-who-researched-and-documented-the-geological-history-of-savaii-and/4277670845595029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samoaobserver/posts/a-rock-expert-who-researched-and-documented-the-geological-history-of-savaii-and/4277670845595029/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A rock expert who researched and documented the...... family claims fell from the sky and onto their property in Falealupo, Sava...</p></details>
+   Link:<a href="https://www.facebook.com/samoaobserver/posts/a-rock-expert-who-researched-and-documented-the-geological-history-of-savaii-and/4277670845595029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samoaobserver/posts/a-rock-expert-who-researched-and-documented-the-geological-history-of-savaii-and/4277670845595029/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A rock expert who researched and documented the...... family claims fell from the sky and onto their property in Falealupo, Sava...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/samoaobserver/posts/the-family-of-tiapili-gaono-tusani-moeai-and-tapuitea-saeu-from-falealupo-tai-ar/4282835088411938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samoaobserver/posts/the-family-of-tiapili-gaono-tusani-moeai-and-tapuitea-saeu-from-falealupo-tai-ar/4282835088411938/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tai are still fielding questions and seeking answers about a rock they say fell...</p></details>
+   Link:<a href="https://www.facebook.com/samoaobserver/posts/the-family-of-tiapili-gaono-tusani-moeai-and-tapuitea-saeu-from-falealupo-tai-ar/4282835088411938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samoaobserver/posts/the-family-of-tiapili-gaono-tusani-moeai-and-tapuitea-saeu-from-falealupo-tai-ar/4282835088411938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tai are still fielding questions and seeking answers about a rock they say fell...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: falealupo savaii is where the sun says its final goodbye to samoa each daylocat  
-   Link: <a href="https://www.facebook.com/SamoaTourismAuthority/videos/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/547597715010306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SamoaTourismAuthority/videos/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/547597715010306/</a>  
+   Link:<a href="https://www.facebook.com/SamoaTourismAuthority/videos/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/547597715010306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SamoaTourismAuthority/videos/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/547597715010306/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: First meteorite fall in Samoa island, Pacific; last 3 February  
-   Link: <a href="https://www.facebook.com/meteoritebelgium/posts/first-meteorite-fall-in-samoa-island-pacific-last-3-february-i-hope-that-this-st/3773887879314079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/meteoritebelgium/posts/first-meteorite-fall-in-samoa-island-pacific-last-3-february-i-hope-that-this-st/3773887879314079/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today marks 7 years the fall of Nias meteorite (accepted as Botohilitano in Metbull) I found some interesting facebook posts of eyewitnes...</p></details>
+   Link:<a href="https://www.facebook.com/meteoritebelgium/posts/first-meteorite-fall-in-samoa-island-pacific-last-3-february-i-hope-that-this-st/3773887879314079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/meteoritebelgium/posts/first-meteorite-fall-in-samoa-island-pacific-last-3-february-i-hope-that-this-st/3773887879314079/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today marks 7 years the fall of Nias meteorite (accepted as Botohilitano in Metbull) I found some interesting facebook posts of eyewitnes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: falealupo savaii is where the sun says its final goodbye to samoa each daylocat  
-   Link: <a href="https://www.facebook.com/SamoaTourismAuthority/posts/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/1188504073321989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SamoaTourismAuthority/posts/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/1188504073321989/</a>  
+   Link:<a href="https://www.facebook.com/SamoaTourismAuthority/posts/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/1188504073321989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SamoaTourismAuthority/posts/-falealupo-savaii-is-where-the-sun-says-its-final-goodbye-to-samoa-each-daylocat/1188504073321989/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: karmaka.de  
-   Link: <a href="https://karmaka.de/?page_id=14892" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?page_id=14892</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite “Hocheppan” – a Forensic StudyMeteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 2021 · MADURA CAVE fall...</p></details>
+   Link:<a href="https://karmaka.de/?page_id=14892" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?page_id=14892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite “Hocheppan” – a Forensic StudyMeteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 2021 · MADURA CAVE fall...</p></details>
    Published: February 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: karmaka.de  
-   Link: <a href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?p=36528</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</p></details>
+   Link:<a href="https://karmaka.de/?p=36528" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?p=36528</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NQWEBA meteorite fall (~530 g, Howardite) in...26 Aug 2024 — Meteorite fall in Falealupo-Tai, Vaisigano, Savai&#x27;i, Samoa on 3 February 20...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/78888</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</p></details>
+   Link:<a href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/78888</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ObserverInterest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising17 Feb 2021 — The family of Tiapili Gaono Tusani-Moe&#x27;ai and Tapuitea Sa&#x27;eu from...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/samoa/79028" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/79028</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ObserverSavai&#x27;i family&#x27;s astronomical tale12 Feb 2021 — A family in Falealupo, Savai&#x27;i have had a meteoric rise to prominence on social m...</p></details>
+   Link:<a href="https://www.samoaobserver.ws/category/samoa/79028" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/79028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ObserverSavai&#x27;i family&#x27;s astronomical tale12 Feb 2021 — A family in Falealupo, Savai&#x27;i have had a meteoric rise to prominence on social m...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: traveladventures.org  
-   Link: <a href="https://www.traveladventures.org/continents/oceania/falealupo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.traveladventures.org/continents/oceania/falealupo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falealupo, Samoa | Boris KesterPersonal travel impressions both in words and images from Falealupo (Samoa). Clicking on the pictures enla...</p></details>
+   Link:<a href="https://www.traveladventures.org/continents/oceania/falealupo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.traveladventures.org/continents/oceania/falealupo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falealupo, Samoa | Boris KesterPersonal travel impressions both in words and images from Falealupo (Samoa). Clicking on the pictures enla...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E76xZKyaFrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E76xZKyaFrg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=E76xZKyaFrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E76xZKyaFrg</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gutenberg.org  
    Title: the belief in immortality and the worship of the dead  
-   Link: <a href="https://www.gutenberg.org/ebooks/33524.epub.noimages" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/33524.epub.noimages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>question is one that hardly admits of a positive answer. The Maoris are not a pure-blooded Polynesian race. Among them even at the presen...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/33524.epub.noimages" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/33524.epub.noimages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>question is one that hardly admits of a positive answer. The Maoris are not a pure-blooded Polynesian race. Among them even at the presen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMjTsgiz5cB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMjTsgiz5cB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nto a rainforest canyon. One of the island&#x27;s most breathtaking...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMjTsgiz5cB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMjTsgiz5cB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nto a rainforest canyon. One of the island&#x27;s most breathtaking...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchonline.jcu.edu.au  
    Title: JCU 85747 Dziakowska 2024 thesis  
-   Link: <a href="https://researchonline.jcu.edu.au/85747/7/JCU_85747_Dziakowska_2024_thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/85747/7/JCU_85747_Dziakowska_2024_thesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story describes a competition between the Falealupo girl, Sina, and her suitor, Leleisi&#x27;uao from Palauli...Read more...</p></details>
+   Link:<a href="https://researchonline.jcu.edu.au/85747/7/JCU_85747_Dziakowska_2024_thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/85747/7/JCU_85747_Dziakowska_2024_thesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story describes a competition between the Falealupo girl, Sina, and her suitor, Leleisi&#x27;uao from Palauli...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Meteors: Crash Course Astronomy #23  
-   Link: <a href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuDfZ2Md5x8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Suspect Meteorites MeteorWRONGs Rocks Irons with XRF XRD ☄️Meteorite 101...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuDfZ2Md5x8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Suspect Meteorites MeteorWRONGs Rocks Irons with XRF XRD ☄️Meteorite 101...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: House Of Rock  
-   Link: <a href="https://www.youtube.com/watch?v=FnZHZ7g47pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FnZHZ7g47pU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falealupo, Samoa: The Enchanting Sunset Beach Paradise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FnZHZ7g47pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FnZHZ7g47pU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falealupo, Samoa: The Enchanting Sunset Beach Paradise...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7W-BeFDtrMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7W-BeFDtrMM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meteorite Crash Course...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7W-BeFDtrMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7W-BeFDtrMM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meteorite Crash Course...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Falealupo, Samoa: The Enchanting Sunset Beach Paradise  
-   Link: <a href="https://www.youtube.com/watch?v=kJFV7Vqzuck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kJFV7Vqzuck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors: Crash Course Astronomy #23...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kJFV7Vqzuck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kJFV7Vqzuck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors: Crash Course Astronomy #23...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: A Meteorite Crash Course  
-   Link: <a href="https://www.youtube.com/watch?v=GxH2LS1XEsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GxH2LS1XEsw</a>
+   Link:<a href="https://www.youtube.com/watch?v=GxH2LS1XEsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GxH2LS1XEsw</a>

@@ -248,26 +248,26 @@ image: /assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-1-social.jpg
 
 ## Introduction
 
-Khao Kala in Nakhon Sawan province is [Thailand]({{ 'thailand/' | relative_url }})’s most visible UFO belief centre, not because it has produced verified evidence of extraterrestrial visitation, but because it developed into a long-running contact movement that blends meditation, Buddhist ideas, apocalyptic warnings, pilgrimage culture and local tourism. For more than two decades, believers have travelled to the hill to meditate, report telepathic communication with alien beings and watch the sky for unusual lights. The site became nationally known after Thai and international media documented a community claiming regular contact with extraterrestrials from distant worlds, while local authorities and sceptics treated the movement as a mixture of spiritual belief, misidentification, folklore and social enthusiasm rather than proof of alien activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+Khao Kala in Nakhon Sawan province is [Thailand]({{ 'thailand/' | relative_url }})’s most visible UFO belief centre, not because it has produced verified evidence of extraterrestrial visitation, but because it developed into a long-running contact movement that blends meditation, Buddhist ideas, apocalyptic warnings, pilgrimage culture and local tourism. For more than two decades, believers have travelled to the hill to meditate, report telepathic communication with alien beings and watch the sky for unusual lights. The site became nationally known after Thai and international media documented a community claiming regular contact with extraterrestrials from distant worlds, while local authorities and sceptics treated the movement as a mixture of spiritual belief, misidentification, folklore and social enthusiasm rather than proof of alien activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
 <img src="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-1-dark.svg" | relative_url }}" alt="Khao Kala illustration 1" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes Khao Kala important within Thailand’s UFO history is not a single dramatic sighting. Its significance lies in how a physical hill became a gathering point where religious practice, paranormal belief and local identity merged into a sustained subculture. Unlike isolated UFO reports elsewhere in the country, Khao Kala produced an organised community with its own narratives, leaders, rituals and public events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangkokpost.com">[Bangkok Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangkokpost.com</span><span class="citation-popover-title">meditating for aliens</span><span class="citation-popover-snippet">Sep 2, 2562 BE — She and the other UFO Kaokala members believe that there are 5,000 &quot;chosen ones&quot; who the aliens have decided to deliver...</span></span></span>
+What makes Khao Kala important within Thailand’s UFO history is not a single dramatic sighting. Its significance lies in how a physical hill became a gathering point where religious practice, paranormal belief and local identity merged into a sustained subculture. Unlike isolated UFO reports elsewhere in the country, Khao Kala produced an organised community with its own narratives, leaders, rituals and public events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangkokpost.com">[Bangkok Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangkokpost.com</span><span class="citation-popover-title">meditating for aliens</span><span class="citation-popover-snippet">Sep 2, 2562 BE — She and the other UFO Kaokala members believe that there are 5,000 &quot;chosen ones&quot; who the aliens have decided to deliver...</span></span></span>
 
 ## How Khao Kala became famous
 
-The modern Khao Kala movement traces its origins to the late 1990s. Accounts differ in detail, but most versions centre on local believers who claimed that meditation on the hill enabled communication with non-human intelligences. Early figures in the movement included retired military man Cherd Chuensamnaun and later organiser Somjit Raepeth, who became one of the most publicly identified members of the group. Believers said extraterrestrial beings selected the hill as a contact point and communicated through visions, voices and mental impressions received during meditation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Thailand" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of Thailand &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Early history UFO sightings were recorded in the Thailand Chronicles.Read more...</span></span></span>
+The modern Khao Kala movement traces its origins to the late 1990s. Accounts differ in detail, but most versions centre on local believers who claimed that meditation on the hill enabled communication with non-human intelligences. Early figures in the movement included retired military man Cherd Chuensamnaun and later organiser Somjit Raepeth, who became one of the most publicly identified members of the group. Believers said extraterrestrial beings selected the hill as a contact point and communicated through visions, voices and mental impressions received during meditation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Thailand" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien Sightings of Thailand &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Early history UFO sightings were recorded in the Thailand Chronicles.Read more...</span></span></span>
 
-The hill already contained Buddhist imagery and religious structures, which helped shape the movement’s character. Rather than rejecting Buddhism, many participants argued that advanced extraterrestrials possessed superior moral and spiritual development. Contact was therefore framed as something achieved through ethical conduct and meditation rather than technology. Somjit told reporters that communication required practising Buddhist teachings to a high level, presenting alien contact as a spiritual achievement rather than a scientific encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+The hill already contained Buddhist imagery and religious structures, which helped shape the movement’s character. Rather than rejecting Buddhism, many participants argued that advanced extraterrestrials possessed superior moral and spiritual development. Contact was therefore framed as something achieved through ethical conduct and meditation rather than technology. Somjit told reporters that communication required practising Buddhist teachings to a high level, presenting alien contact as a spiritual achievement rather than a scientific encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
-By the 2000s and 2010s, stories about UFO sightings above the hill spread through Thai media, online forums and paranormal communities. Khao Kala acquired a reputation as “Thailand’s Area 51”, although the comparison was largely symbolic. Unlike the American military facility, Khao Kala offered no government secrets or documented aerospace mysteries. The nickname reflected its status as the country's best-known UFO destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+By the 2000s and 2010s, stories about UFO sightings above the hill spread through Thai media, online forums and paranormal communities. Khao Kala acquired a reputation as “Thailand’s Area 51”, although the comparison was largely symbolic. Unlike the American military facility, Khao Kala offered no government secrets or documented aerospace mysteries. The nickname reflected its status as the country's best-known UFO destination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
-International coverage accelerated attention. Reports from CNN, Vice, the Bangkok Post and other outlets introduced foreign audiences to a movement that combined Buddhist symbolism with claims of extraterrestrial communication. What had once been a local belief community became one of the most recognisable UFO-related locations in Southeast Asia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
+International coverage accelerated attention. Reports from CNN, Vice, the Bangkok Post and other outlets introduced foreign audiences to a movement that combined Buddhist symbolism with claims of extraterrestrial communication. What had once been a local belief community became one of the most recognisable UFO-related locations in Southeast Asia.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nz9cQFybB2g" title="Mark Kuntamestha&#x27;s Tsunami Prophecy! | Expedition X | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nz9cQFybB2g" target="_blank" rel="noopener noreferrer">Mark Kuntamestha&#x27;s Tsunami Prophecy! | Expedition X | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 104.2K &middot; Uploaded: November 2024 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nz9cQFybB2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nz9cQFybB2g">Open on YouTube</a></p></div></div></div>
 
 ## Meditation, contact claims and visitors
 
-The core practice at Khao Kala is meditation. Believers typically gather near religious monuments on the hill, especially around Buddhist statues and viewing points where participants claim to receive messages from alien entities. According to movement narratives, extraterrestrials communicate telepathically rather than through visible spacecraft landings or direct physical meetings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
+The core practice at Khao Kala is meditation. Believers typically gather near religious monuments on the hill, especially around Buddhist statues and viewing points where participants claim to receive messages from alien entities. According to movement narratives, extraterrestrials communicate telepathically rather than through visible spacecraft landings or direct physical meetings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
 
 Several recurring themes appear in reported communications:
 
@@ -275,256 +275,256 @@ Several recurring themes appear in reported communications:
 * Predictions of future disasters.
 * Claims that morally advanced extraterrestrials are monitoring Earth.
 * The idea that only spiritually prepared individuals can receive contact.
-* Expectations that a select group of humans may be protected during future crises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+* Expectations that a select group of humans may be protected during future crises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
-Media interviews with believers frequently mention beings from Pluto and another world identified through various spellings such as “Loku Kata Paka Tigong”. Followers describe some entities as energy-based intelligences and others as physical beings possessing advanced technology. These descriptions are notable because they combine elements of global UFO contactee traditions with specifically Thai spiritual language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+Media interviews with believers frequently mention beings from Pluto and another world identified through various spellings such as “Loku Kata Paka Tigong”. Followers describe some entities as energy-based intelligences and others as physical beings possessing advanced technology. These descriptions are notable because they combine elements of global UFO contactee traditions with specifically Thai spiritual language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
-The movement’s worldview often resembles twentieth-century contactee groups more than modern UFO investigation organisations. Rather than collecting radar data or pursuing technical evidence, participants focus on spiritual development, meditation experiences and moral teachings allegedly received from extraterrestrial sources. In this sense, Khao Kala functions less like a research programme and more like a belief community organised around ongoing revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangkokpost.com">[Bangkok Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangkokpost.com</span><span class="citation-popover-title">meditating for aliens</span><span class="citation-popover-snippet">Sep 2, 2562 BE — She and the other UFO Kaokala members believe that there are 5,000 &quot;chosen ones&quot; who the aliens have decided to deliver...</span></span></span>
+The movement’s worldview often resembles twentieth-century contactee groups more than modern UFO investigation organisations. Rather than collecting radar data or pursuing technical evidence, participants focus on spiritual development, meditation experiences and moral teachings allegedly received from extraterrestrial sources. In this sense, Khao Kala functions less like a research programme and more like a belief community organised around ongoing revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangkokpost.com">[Bangkok Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangkokpost.com</span><span class="citation-popover-title">meditating for aliens</span><span class="citation-popover-snippet">Sep 2, 2562 BE — She and the other UFO Kaokala members believe that there are 5,000 &quot;chosen ones&quot; who the aliens have decided to deliver...</span></span></span>
 
-Many visitors arrive not because they are committed believers but because they are curious. Journalists repeatedly observed a mix of dedicated followers, casual tourists, photographers and paranormal enthusiasts sharing the same space. Some came hoping to see lights in the sky. Others treated the hill as a cultural attraction linked to Thailand’s reputation for unusual spiritual movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
+Many visitors arrive not because they are committed believers but because they are curious. Journalists repeatedly observed a mix of dedicated followers, casual tourists, photographers and paranormal enthusiasts sharing the same space. Some came hoping to see lights in the sky. Others treated the hill as a cultural attraction linked to Thailand’s reputation for unusual spiritual movements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
 
 ### Why Buddhism remained central
 
-One reason Khao Kala attracted attention is that its beliefs were not presented as an alternative religion. Participants generally incorporated UFO narratives into existing Buddhist frameworks. Alien beings were often described as morally evolved rather than divine, and meditation remained the primary route to contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+One reason Khao Kala attracted attention is that its beliefs were not presented as an alternative religion. Participants generally incorporated UFO narratives into existing Buddhist frameworks. Alien beings were often described as morally evolved rather than divine, and meditation remained the primary route to contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
-This allowed the movement to appeal to people already familiar with meditation practices. Contact experiences could be interpreted through concepts of consciousness, karma and spiritual development rather than through purely technological ideas about extraterrestrial visitation. The result was a distinctly Thai form of UFO culture in which spaceships, telepathy and Buddhist ethics existed within the same narrative system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
+This allowed the movement to appeal to people already familiar with meditation practices. Contact experiences could be interpreted through concepts of consciousness, karma and spiritual development rather than through purely technological ideas about extraterrestrial visitation. The result was a distinctly Thai form of UFO culture in which spaceships, telepathy and Buddhist ethics existed within the same narrative system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
 
 <img src="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-2-dark.svg" | relative_url }}" alt="Khao Kala illustration 2" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hill as pilgrimage site and tourist attraction
 
-Over time, Khao Kala evolved from a contact location into a destination. Visitors climbed the hill both for its views and for its reputation as a place where unusual experiences might occur. Stories circulated about glowing objects, mysterious lights and encounters during meditation sessions. Most of these accounts remained anecdotal, with little supporting evidence beyond witness testimony and occasional ambiguous photographs or videos. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
+Over time, Khao Kala evolved from a contact location into a destination. Visitors climbed the hill both for its views and for its reputation as a place where unusual experiences might occur. Stories circulated about glowing objects, mysterious lights and encounters during meditation sessions. Most of these accounts remained anecdotal, with little supporting evidence beyond witness testimony and occasional ambiguous photographs or videos.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
 
-The growth of social media amplified the site's reputation. Online videos showing distant lights or alleged UFOs reached audiences far beyond Nakhon Sawan. The hill became part of Thailand’s paranormal tourism landscape, joining other locations associated with spiritual legends, unexplained phenomena and supernatural claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thethaiger.com/news/national/thailands-area-51-where-meditation-and-martians-meet-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thethaiger.com">[Thaiger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thethaiger.com</span><span class="citation-popover-title">thailands area 51 where meditation and martians meet video</span><span class="citation-popover-snippet">ThaigerBangkok creator hunts aliens at Thailand&#x27;s Area 51 (video)19 Mar 2025 — Residents believe that when they meditate in front of a Bu...</span></span></span>
+The growth of social media amplified the site's reputation. Online videos showing distant lights or alleged UFOs reached audiences far beyond Nakhon Sawan. The hill became part of Thailand’s paranormal tourism landscape, joining other locations associated with spiritual legends, unexplained phenomena and supernatural claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thethaiger.com/news/national/thailands-area-51-where-meditation-and-martians-meet-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thethaiger.com">[Thaiger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thethaiger.com</span><span class="citation-popover-title">thailands area 51 where meditation and martians meet video</span><span class="citation-popover-snippet">ThaigerBangkok creator hunts aliens at Thailand&#x27;s Area 51 (video)19 Mar 2025 — Residents believe that when they meditate in front of a Bu...</span></span></span>
 
-By 2024, local authorities and event organisers were experimenting with ways to turn the area's unusual reputation into a cultural attraction. Nakhon Sawan hosted what was promoted as Thailand’s first UFO-themed music festival, reflecting a shift from fringe movement to marketable curiosity. The event blended entertainment, tourism and UFO culture while drawing attention back to the hill that inspired the movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
+By 2024, local authorities and event organisers were experimenting with ways to turn the area's unusual reputation into a cultural attraction. Nakhon Sawan hosted what was promoted as Thailand’s first UFO-themed music festival, reflecting a shift from fringe movement to marketable curiosity. The event blended entertainment, tourism and UFO culture while drawing attention back to the hill that inspired the movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
 
-The festival illustrated an important change. Earlier official reactions often focused on regulating the site and managing concerns about the movement. More recent initiatives showed that some local stakeholders increasingly viewed the UFO reputation as an economic opportunity rather than solely a problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
+The festival illustrated an important change. Earlier official reactions often focused on regulating the site and managing concerns about the movement. More recent initiatives showed that some local stakeholders increasingly viewed the UFO reputation as an economic opportunity rather than solely a problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">thailand hosts ufo music festival city cult claims area 51 asia</span><span class="citation-popover-snippet">South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</span></span></span>
 
 ## The forest-land raid and local skepticism
 
 The most significant public conflict surrounding Khao Kala was not about aliens. It concerned land use.
 
-In 2019, police and forestry officials investigated whether structures associated with the UFO meditation group had encroached on protected forest land. Authorities examined buildings, camping activity and facilities constructed near the hilltop. The operation received widespread media coverage because it targeted Thailand’s most famous UFO gathering place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span>
+In 2019, police and forestry officials investigated whether structures associated with the UFO meditation group had encroached on protected forest land. Authorities examined buildings, camping activity and facilities constructed near the hilltop. The operation received widespread media coverage because it targeted Thailand’s most famous UFO gathering place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span>
 
-Officials treated the issue as a legal and environmental matter. Believers, however, interpreted the investigation through the lens of a movement that already felt misunderstood by outsiders. The raid highlighted a recurring tension: the difference between the community’s spiritual understanding of the site and the government’s practical concerns regarding protected land management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span>
+Officials treated the issue as a legal and environmental matter. Believers, however, interpreted the investigation through the lens of a movement that already felt misunderstood by outsiders. The raid highlighted a recurring tension: the difference between the community’s spiritual understanding of the site and the government’s practical concerns regarding protected land management.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span>
 
-The episode also exposed the scepticism that has always surrounded Khao Kala. Many local residents and outside observers regarded the movement's claims as unproven. Journalists visiting the site typically found that the evidence offered for UFO activity consisted of personal experiences, distant lights, subjective impressions and stories passed between believers. Even sympathetic reports generally noted the absence of independently verified proof that extraterrestrial beings were present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
+The episode also exposed the scepticism that has always surrounded Khao Kala. Many local residents and outside observers regarded the movement's claims as unproven. Journalists visiting the site typically found that the evidence offered for UFO activity consisted of personal experiences, distant lights, subjective impressions and stories passed between believers. Even sympathetic reports generally noted the absence of independently verified proof that extraterrestrial beings were present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
 
-Predictions attributed to members of the movement also drew criticism. Claims about future global catastrophes, including warnings connected to world conflict, attracted attention but did not materialise as forecast. For sceptics, these failed predictions reinforced the view that Khao Kala was a belief system rather than a source of reliable information about extraterrestrial life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span>
+Predictions attributed to members of the movement also drew criticism. Claims about future global catastrophes, including warnings connected to world conflict, attracted attention but did not materialise as forecast. For sceptics, these failed predictions reinforced the view that Khao Kala was a belief system rather than a source of reliable information about extraterrestrial life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dCfMLXtQgXA" title="I visited Thailands Area 51 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dCfMLXtQgXA" target="_blank" rel="noopener noreferrer">I visited Thailands Area 51 🛸</a></p><p class="youtube-embed-meta">Channel: Travis Leon &middot; Views: 11.3K &middot; Uploaded: November 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dCfMLXtQgXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dCfMLXtQgXA">Open on YouTube</a></p></div></div></div>
 
 ### What sceptics think is really happening
 
-Several non-extraterrestrial explanations dominate critical interpretations of Khao Kala: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Khao Kala</span><span class="citation-popover-snippet">Khao KalaJump up to: 1 2 &quot;เรื่องน่ารู้ เขากะลา นครสวรรค์ ภูเขาศักดิ์สิทธิ์ของคนเชื่อเรื่องมนุษย์ต่างดาว&quot; [Things to know Khao Kala Nak...</span></span></span>
+Several non-extraterrestrial explanations dominate critical interpretations of Khao Kala:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Khao Kala</span><span class="citation-popover-snippet">Khao KalaJump up to: 1 2 &quot;เรื่องน่ารู้ เขากะลา นครสวรรค์ ภูเขาศักดิ์สิทธิ์ของคนเชื่อเรื่องมนุษย์ต่างดาว&quot; [Things to know Khao Kala Nak...</span></span></span>
 
 * **Meditation and suggestion:** Group meditation can create powerful subjective experiences, especially when participants already expect contact.
 * **Astronomical and atmospheric phenomena:** Bright planets, satellites, aircraft and atmospheric effects can appear unusual when viewed from elevated locations at night.
 * **Social reinforcement:** Shared narratives encourage participants to interpret ambiguous experiences in similar ways.
-* **Tourism and reputation effects:** Once a location becomes famous for UFO reports, visitors arrive expecting unusual events and may notice ordinary stimuli more intensely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buddhistdoor.net">[Buddhistdoor Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buddhistdoor.net</span><span class="citation-popover-title">buddhist ufo hunters seek contact on a mountain in thailand</span><span class="citation-popover-snippet">Tags: alien, alien civilizations, cosmic being, extraterrestrials, karma, meditation...Read more...</span></span></span>
+* **Tourism and reputation effects:** Once a location becomes famous for UFO reports, visitors arrive expecting unusual events and may notice ordinary stimuli more intensely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buddhistdoor.net">[Buddhistdoor Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buddhistdoor.net</span><span class="citation-popover-title">buddhist ufo hunters seek contact on a mountain in thailand</span><span class="citation-popover-snippet">Tags: alien, alien civilizations, cosmic being, extraterrestrials, karma, meditation...Read more...</span></span></span>
 
 None of these explanations prove that every reported experience has an ordinary cause. They do, however, explain why sceptical investigators view the hill as a cultural phenomenon rather than evidence of alien visitation.
 
 <img src="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-3-dark.svg" | relative_url }}" alt="Khao Kala illustration 3" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1_khao_kala_703c22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Khao Kala matters in Thailand's UFO history
 
-Khao Kala occupies a unique place in Thailand’s UFO landscape because it transformed unidentified lights and contact claims into a durable community. Most Thai UFO reports are isolated incidents that briefly attract attention before fading. Khao Kala instead developed leaders, rituals, recurring narratives and a physical gathering place that persisted across decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
+Khao Kala occupies a unique place in Thailand’s UFO landscape because it transformed unidentified lights and contact claims into a durable community. Most Thai UFO reports are isolated incidents that briefly attract attention before fading. Khao Kala instead developed leaders, rituals, recurring narratives and a physical gathering place that persisted across decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</span></span></span>
 
-The hill also demonstrates how UFO belief adapts to local culture. In many Western contact movements, extraterrestrials are linked to New Age spirituality, secret government programmes or advanced technology. At Khao Kala, the dominant themes became meditation, karma, moral development and Buddhist practice. The result was not simply a Thai version of global UFO culture, but a hybrid movement shaped by local religious traditions and social conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+The hill also demonstrates how UFO belief adapts to local culture. In many Western contact movements, extraterrestrials are linked to New Age spirituality, secret government programmes or advanced technology. At Khao Kala, the dominant themes became meditation, karma, moral development and Buddhist practice. The result was not simply a Thai version of global UFO culture, but a hybrid movement shaped by local religious traditions and social conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
-From an evidence standpoint, Khao Kala remains a site of belief rather than verification. No publicly available data establish that alien craft landed there or that extraterrestrial communication occurred. Its historical importance comes from something different: it became the country's clearest example of how UFO narratives can evolve into a living religious and cultural movement, attracting followers, tourists, media attention and official scrutiny long after the original claims first emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue 2019 10</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
+From an evidence standpoint, Khao Kala remains a site of belief rather than verification. No publicly available data establish that alien craft landed there or that extraterrestrial communication occurred. Its historical importance comes from something different: it became the country's clearest example of how UFO narratives can evolve into a living religious and cultural movement, attracting followers, tourists, media attention and official scrutiny long after the original claims first emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">khao kala thailand ufo sightings aliens buddha statue</span><span class="citation-popover-snippet">Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8WrZLIwwX9o" title="Thailand’s Calkala UFO Cult Revealed | Expedition X | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer">Thailand’s Calkala UFO Cult Revealed | Expedition X | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 43.8K &middot; Uploaded: July 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8WrZLIwwX9o">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Khao Kala Became Thailand&#x27;s UFO Hill. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Khao Kala Became Thailand&#x27;s UFO Hill. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how UFO reports are categorized and investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how UFO reports are categorized and investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO context for readers moving from Thai contact movements to international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context for readers moving from Thai contact movements to international cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly explores links between UFO encounters, folklore, religion and human belief, matching Khao Kala&#x27;s blend of meditation and extrate...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores links between UFO encounters, folklore, religion and human belief, matching Khao Kala&#x27;s blend of meditation and extrate...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">Directly explores links between UFO encounters, folklore, religion and human belief, matching Khao Kala&#x27;s blend of meditation and extrate...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores links between UFO encounters, folklore, religion and human belief, matching Khao Kala&#x27;s blend of meditation and extrate...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-khao-kala-became-thailand-s-ufo-hill-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-khao-kala-became-thailand-s-ufo-hill-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ From an evidence standpoint, Khao Kala remains a site of belief rather than veri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ From an evidence standpoint, Khao Kala remains a site of belief rather than veri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ From an evidence standpoint, Khao Kala remains a site of belief rather than veri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ From an evidence standpoint, Khao Kala remains a site of belief rather than veri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ From an evidence standpoint, Khao Kala remains a site of belief rather than veri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,128 +727,127 @@ From an evidence standpoint, Khao Kala remains a site of belief rather than veri
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vice.com  
    Title: meet the thai ufo group convinced that aliens will save us from armageddon  
-   Link: <a href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</p></details>
+   Link:<a href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet The Thai UFO Group Convinced That Aliens Will...1 Oct 2019 — For the past six years members have been meeting by the Buddhist s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cryptidz.fandom.com  
    Title: Alien Sightings of Thailand | Cryptid Wiki  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Thailand" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Thailand</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early history UFO sightings were recorded in the Thailand Chronicles.Read more...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Thailand" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Thailand</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early history UFO sightings were recorded in the Thailand Chronicles.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: buddhistdoor.net  
    Title: buddhist ufo hunters seek contact on a mountain in thailand  
-   Link: <a href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow">https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tags: alien, alien civilizations, cosmic being, extraterrestrials, karma, meditation...Read more...</p></details>
+   Link:<a href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow">https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tags: alien, alien civilizations, cosmic being, extraterrestrials, karma, meditation...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nz9cQFybB2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nz9cQFybB2g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH | Thailand&#x27;s First &#x27;UFO Days&#x27; Draws Alien Hunters to Nakhon Nayok...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nz9cQFybB2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nz9cQFybB2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH | Thailand&#x27;s First &#x27;UFO Days&#x27; Draws Alien Hunters to Nakhon Nayok...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: WATCH | Thailand's First 'UFO Days' Draws Alien Hunters to Nakhon Nayok  
-   Link: <a href="https://www.youtube.com/watch?v=Xo3X5M7dcDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xo3X5M7dcDI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; Cryptids | Expedition X | Discovery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xo3X5M7dcDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xo3X5M7dcDI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; Cryptids | Expedition X | Discovery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: khaosodenglish.com  
-   Link: <a href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow">https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</p></details>
+   Link:<a href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow">https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khaosod EnglishPolice Raid UFO Sighting Hotspot For Suspected Forest...Aug 16, 2562 BE — UFO Kaokala is a group of UFO believers who mai...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: businessinsider.com  
    Title: khao kala thailand ufo sightings aliens buddha statue 2019 10  
-   Link: <a href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue-2019-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</p></details>
+   Link:<a href="https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/khao-kala-thailand-ufo-sightings-aliens-buddha-statue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderUFO Seekers in Thailand Flock to Giant Buddha Statue8 Oct 2019 — A group of Buddhist worshippers on a remote hilltop in T...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scmp.com  
    Title: thailand hosts ufo music festival city cult claims area 51 asia  
-   Link: <a href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</p></details>
+   Link:<a href="https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/week-asia/lifestyle-culture/article/3249062/thailand-hosts-ufo-music-festival-city-cult-claims-area-51-asia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostThailand hosts UFO music festival in city that sect claims is &#x27;...19 Jan 2024 — A Buddhist UFO sect in central T...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bangkokpost.com  
    Title: meditating for aliens  
-   Link: <a href="https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 2, 2562 BE — She and the other UFO Kaokala members believe that there are 5,000 &quot;chosen ones&quot; who the aliens have decided to deliver...</p></details>
+   Link:<a href="https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.bangkokpost.com/thailand/general/1740774/meditating-for-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 2, 2562 BE — She and the other UFO Kaokala members believe that there are 5,000 &quot;chosen ones&quot; who the aliens have decided to deliver...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Khao Kala  
-   Link: <a href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Khao_Kala</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khao KalaJump up to: 1 2 &quot;เรื่องน่ารู้ เขากะลา นครสวรรค์ ภูเขาศักดิ์สิทธิ์ของคนเชื่อเรื่องมนุษย์ต่างดาว&quot; [Things to know Khao Kala Nak...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Khao_Kala</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khao KalaJump up to: 1 2 &quot;เรื่องน่ารู้ เขากะลา นครสวรรค์ ภูเขาศักดิ์สิทธิ์ของคนเชื่อเรื่องมนุษย์ต่างดาว&quot; [Things to know Khao Kala Nak...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thethaiger.com  
    Title: thailands area 51 where meditation and martians meet video  
-   Link: <a href="https://thethaiger.com/news/national/thailands-area-51-where-meditation-and-martians-meet-video" target="_blank" rel="noopener noreferrer nofollow">https://thethaiger.com/news/national/thailands-area-51-where-meditation-and-martians-meet-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ThaigerBangkok creator hunts aliens at Thailand&#x27;s Area 51 (video)19 Mar 2025 — Residents believe that when they meditate in front of a Bu...</p></details>
+   Link:<a href="https://thethaiger.com/news/national/thailands-area-51-where-meditation-and-martians-meet-video" target="_blank" rel="noopener noreferrer nofollow">https://thethaiger.com/news/national/thailands-area-51-where-meditation-and-martians-meet-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ThaigerBangkok creator hunts aliens at Thailand&#x27;s Area 51 (video)19 Mar 2025 — Residents believe that when they meditate in front of a Bu...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SneakySushii/posts/the-khao-kala-ufo-group-of-thailand/1342660931239938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SneakySushii/posts/the-khao-kala-ufo-group-of-thailand/1342660931239938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Khao Kala UFO Group of ThailandThe Khao Kala UFO Group of Thailand.... Alien Contactee Group in Thailand Encounters Trouble with Aut...</p></details>
+   Link:<a href="https://www.facebook.com/SneakySushii/posts/the-khao-kala-ufo-group-of-thailand/1342660931239938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SneakySushii/posts/the-khao-kala-ufo-group-of-thailand/1342660931239938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Khao Kala UFO Group of ThailandThe Khao Kala UFO Group of Thailand.... Alien Contactee Group in Thailand Encounters Trouble with Aut...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: prestigeonline.com  
    Title: a ufo festival is landing in nakhon nayok this february 2026  
-   Link: <a href="https://www.prestigeonline.com/sg/lifestyle/travel/a-ufo-festival-is-landing-in-nakhon-nayok-this-february-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.prestigeonline.com/sg/lifestyle/travel/a-ufo-festival-is-landing-in-nakhon-nayok-this-february-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO festival is landing in Thailand this February 20267 Jan 2026 — Designed as a sci-fi-leaning event that draws a niche demographic, t...</p></details>
+   Link:<a href="https://www.prestigeonline.com/sg/lifestyle/travel/a-ufo-festival-is-landing-in-nakhon-nayok-this-february-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.prestigeonline.com/sg/lifestyle/travel/a-ufo-festival-is-landing-in-nakhon-nayok-this-february-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO festival is landing in Thailand this February 20267 Jan 2026 — Designed as a sci-fi-leaning event that draws a niche demographic, t...</p></details>
    Published: february 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bangkokpost/posts/the-tourism-authority-of-thailand-tat-is-launching-an-unconventional-tourism-ini/1327176769455083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bangkokpost/posts/the-tourism-authority-of-thailand-tat-is-launching-an-unconventional-tourism-ini/1327176769455083/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1y · Public... The organization &#x27;UFO Khao Kala&#x27; [reportedly](http: //www.khaosodenglish.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/bangkokpost/posts/the-tourism-authority-of-thailand-tat-is-launching-an-unconventional-tourism-ini/1327176769455083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bangkokpost/posts/the-tourism-authority-of-thailand-tat-is-launching-an-unconventional-tourism-ini/1327176769455083/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1y · Public... The organization &#x27;UFO Khao Kala&#x27; [reportedly](http: //www.khaosodenglish.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/followers-believe-that-if-you-meditate-on-khao-kala-hill-in-central-thailand-you/10159976219111509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/followers-believe-that-if-you-meditate-on-khao-kala-hill-in-central-thailand-you/10159976219111509/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd you could hear the talkative silver creatures as voices in your head...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/followers-believe-that-if-you-meditate-on-khao-kala-hill-in-central-thailand-you/10159976219111509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/followers-believe-that-if-you-meditate-on-khao-kala-hill-in-central-thailand-you/10159976219111509/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd you could hear the talkative silver creatures as voices in your head...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.thairath.co.th  
-   Link: <a href="https://en.thairath.co.th/horoscope/belief/2916680" target="_blank" rel="noopener noreferrer nofollow">https://en.thairath.co.th/horoscope/belief/2916680</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khao Kala: Praying to Aliens to Open...Mar 2, 2569 BE — Many know it as the “Star Gate” or dimensional gateway to aliens...</p></details>
+   Link:<a href="https://en.thairath.co.th/horoscope/belief/2916680" target="_blank" rel="noopener noreferrer nofollow">https://en.thairath.co.th/horoscope/belief/2916680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khao Kala: Praying to Aliens to Open...Mar 2, 2569 BE — Many know it as the “Star Gate” or dimensional gateway to aliens...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: johnrunaway.com  
    Title: John Runaway Khao Kala Hill Thailands UFO Hot Spot  
-   Link: <a href="https://www.johnrunaway.com/post/ufothailand" target="_blank" rel="noopener noreferrer nofollow">https://www.johnrunaway.com/post/ufothailand</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only Alien Cafe in Nakhon Sawan (2024). The little Alien-Themed Cafe. ☕️ Alien Cafe. If you...Read more...</p></details>
+   Link:<a href="https://www.johnrunaway.com/post/ufothailand" target="_blank" rel="noopener noreferrer nofollow">https://www.johnrunaway.com/post/ufothailand</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Only Alien Cafe in Nakhon Sawan (2024). The little Alien-Themed Cafe. ☕️ Alien Cafe. If you...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Thailand's Calkala UFO Cult Revealed | Expedition X | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8WrZLIwwX9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Kuntamestha&#x27;s Tsunami Prophecy! | Expedition X | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8WrZLIwwX9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Kuntamestha&#x27;s Tsunami Prophecy! | Expedition X | Full Episode | Discovery Channel...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: downloads.cs.stanford.edu  
    Title: vocab wiki.txt  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... forest 1982 irish fall goals going recently need increased shown 0 stone temple ancient takes th...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... forest 1982 irish fall goals going recently need increased shown 0 stone temple ancient takes th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Khao Kala Hill & the UFO Phenomenon in Thailand  
-   Link: <a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pp4vHZeIDQ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand&#x27;s Calkala UFO Cult Revealed | Expedition X | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pp4vHZeIDQ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand&#x27;s Calkala UFO Cult Revealed | Expedition X | Discovery Channel...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
    Title: DSZMVxqk r X  
-   Link: <a href="https://www.instagram.com/reel/DSZMVxqk-rX/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSZMVxqk-rX/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Khao Kala UFO Group of ThailandFor years the group met quietly until 2019 when authorities stepped in. So many UFO tourists were clim...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSZMVxqk-rX/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSZMVxqk-rX/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Khao Kala UFO Group of ThailandFor years the group met quietly until 2019 when authorities stepped in. So many UFO tourists were clim...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /albania-79b9d2-index/
 description: Focused pages that expand on Albania.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Albania_79b9d2
 parent_title: Albania
@@ -16,7 +16,7 @@ parent_permalink: /albania/
 
 # Explore Topics in Albania
 
-The following pages expand on the main **[Albania]({{ '/albania/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Albania]({{ '/albania/' | relative_url }})** page and cover its key branches in.
 
 - [Communist Era Reports]({{ '/communist-era-reports/' | relative_url }})
 - [Early Reports]({{ '/early-reports/' | relative_url }})

@@ -251,7 +251,7 @@ image: /assets/images/South_Sudan_80ac9c_evidence_standards_a40c69-Illustration-
 Most public UFO claims connected to South Sudan are not strong enough to support firm conclusions. That does not mean every report is false. It means that the available information is usually too limited to distinguish between an unusual event, a misunderstood aircraft, a weather phenomenon, a satellite, a camera artefact, or something genuinely unidentified.
 
 <img src="{{ "/assets/images/South_Sudan_80ac9c_evidence_standards_a40c69-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Check illustration 1" data-theme-src-dark="{{ "/assets/images/South_Sudan_80ac9c_evidence_standards_a40c69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Sudan_80ac9c_evidence_standards_a40c69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because South Sudan presents unusual conditions for evaluating aerial reports. Aviation activity around Juba includes commercial flights, humanitarian operations, United Nations aircraft, military-linked traffic, and charter movements. At the same time, many reports circulate through social media rather than through structured investigation systems. A sighting can therefore appear mysterious at first glance while still lacking the basic evidence needed for serious assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sscaa.gov.ss">[SSCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sscaa.gov.ss</span><span class="citation-popover-title">SSCAASouth Sudan Civil Aviation Authority South Sudan Civil Aviation Authority</span><span class="citation-popover-snippet">South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</span></span></span> Wikipedia The central question is not whether a witness sincerely saw something unusual. The question is whether enough information exists to test alte <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span> rnative explanations. In most publicly visible South Sudan cases, that standard is not met.
+This matters because South Sudan presents unusual conditions for evaluating aerial reports. Aviation activity around Juba includes commercial flights, humanitarian operations, United Nations aircraft, military-linked traffic, and charter movements. At the same time, many reports circulate through social media rather than through structured investigation systems. A sighting can therefore appear mysterious at first glance while still lacking the basic evidence needed for serious assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sscaa.gov.ss">[SSCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sscaa.gov.ss</span><span class="citation-popover-title">SSCAASouth Sudan Civil Aviation Authority South Sudan Civil Aviation Authority</span><span class="citation-popover-snippet">South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</span></span></span> Wikipedia The central question is not whether a witness sincerely saw something unusual. The question is whether enough information exists to test alte<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span> rnative explanations. In most publicly visible South Sudan cases, that standard is not met.
 
 ## What Weak Public Reports Usually Miss
 
@@ -272,7 +272,7 @@ Many South Sudan reports shared online contain only a few details:
 
 </div>
 
-The frequently shared social-media claims about mysterious lights over Juba illustrate the problem. Public posts may attract attention because they describe unusual colours, hovering lights, or unexpected movement. However, without supporting documentation, investigators cannot determine whether the object was an aircraft, a bright planet, a satellite, a drone, a meteor, a camera effect, or something else. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/twicmediareports/posts/a-mysterious-red-light-appeared-in-the-sky-over-juba-leaving-many-residents-puzz/1136488811823818/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A mysterious red light appeared in the sky over Juba...World Events Report ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</span></span></span>
+The frequently shared social-media claims about mysterious lights over Juba illustrate the problem. Public posts may attract attention because they describe unusual colours, hovering lights, or unexpected movement. However, without supporting documentation, investigators cannot determine whether the object was an aircraft, a bright planet, a satellite, a drone, a meteor, a camera effect, or something else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/twicmediareports/posts/a-mysterious-red-light-appeared-in-the-sky-over-juba-leaving-many-residents-puzz/1136488811823818/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A mysterious red light appeared in the sky over Juba...World Events Report ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</span></span></span>
 
 A report that says “a red light appeared over Juba” is not automatically useless. It simply remains an observation rather than verified evidence.
 
@@ -290,7 +290,7 @@ For that reason, investigators treat witness testimony as a starting point rathe
 
 The most important verification step for many South Sudan sightings is determining whether known aircraft were present.
 
-Juba is the country's main aviation hub. Juba International Airport handles domestic traffic, international services, cargo flights, charter operations, and government-related movements. The South Sudan Civil Aviation Authority is responsible for regulating flight operations, licensing, certification, and safety oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span>
+Juba is the country's main aviation hub. Juba International Airport handles domestic traffic, international services, cargo flights, charter operations, and government-related movements. The South Sudan Civil Aviation Authority is responsible for regulating flight operations, licensing, certification, and safety oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span>
 
 Because of that environment, any investigation should begin with questions such as:
 
@@ -304,7 +304,7 @@ Because of that environment, any investigation should begin with questions such 
 
 </div>
 
-The United Nations Mission in South Sudan (UNMISS) operates substantial air services, particularly in regions that are difficult to reach by road. Public UN information shows extensive use of aircraft for transport and humanitarian support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS &#124; UNifeed</span><span class="citation-popover-snippet">ited Nations MediaSOUTH SUDAN / AIR OPERATIONS &#124; UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
+The United Nations Mission in South Sudan (UNMISS) operates substantial air services, particularly in regions that are difficult to reach by road. Public UN information shows extensive use of aircraft for transport and humanitarian support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[United Nations Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">ited Nations Media SOUTH SUDAN / AIR OPERATIONS &#124; UNifeed</span><span class="citation-popover-snippet">ited Nations MediaSOUTH SUDAN / AIR OPERATIONS &#124; UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</span></span></span>
 
 A bright light seen over South Sudan therefore has a higher prior probability of being connected to aviation than many casual observers realise.
 
@@ -314,7 +314,7 @@ A bright light seen over South Sudan therefore has a higher prior probability of
 
 Several South Sudan aviation stories have generated public speculation even though they involved known aircraft.
 
-Disputes involving UN-linked aircraft, allegations of surveillance activity, and government scrutiny of air operations have periodically attracted national attention. These incidents were political and security controversies rather than UFO cases, yet they demonstrate how unusual aircraft activity can become the subject of rumours and speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The government, represented by Foreign Minister Monday Semaya Kumba, reported that a committee was investigating the aircraft based on in...</span></span></span> Business A rigorous investigation asks whether a reported object can be connected to documented aviation activity before considering more exotic expla <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Juba" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Juba &#124; South Sudan, Map, &amp; Facts</span><span class="citation-popover-snippet">May 2, 2026 — Juba, town, capital of South Sudan. It is a river port on the west bank of the Baḥr Al-Jabal (Mountain Nile), about 87 mile...</span><span class="citation-popover-meta">Published: May 2, 2026</span></span></span> nations.
+Disputes involving UN-linked aircraft, allegations of surveillance activity, and government scrutiny of air operations have periodically attracted national attention. These incidents were political and security controversies rather than UFO cases, yet they demonstrate how unusual aircraft activity can become the subject of rumours and speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The government, represented by Foreign Minister Monday Semaya Kumba, reported that a committee was investigating the aircraft based on in...</span></span></span> Business A rigorous investigation asks whether a reported object can be connected to documented aviation activity before considering more exotic expla<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Juba" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Juba &#124; South Sudan, Map, &amp; Facts</span><span class="citation-popover-snippet">May 2, 2026 — Juba, town, capital of South Sudan. It is a river port on the west bank of the Baḥr Al-Jabal (Mountain Nile), about 87 mile...</span><span class="citation-popover-meta">Published: May 2, 2026</span></span></span> nations.
 
 ## How Weather and Sky Conditions Help Investigators
 
@@ -350,7 +350,7 @@ Investigators typically compare the sighting time against:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Planet positions.
-* Bright-star locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thainewsroom.com">[thainewsroom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thainewsroom.com</span><span class="citation-popover-snippet">Bright lights and hot orbs: UFO files shed light on sightings...9 May 2026 — The documents include more than 20 video files showing unid...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Bright-star locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thainewsroom.com">[thainewsroom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thainewsroom.com</span><span class="citation-popover-snippet">Bright lights and hot orbs: UFO files shed light on sightings...9 May 2026 — The documents include more than 20 video files showing unid...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 * Meteor showers.
 * Satellite passes.
 * International Space Station visibility.
@@ -427,7 +427,7 @@ An unidentified object can remain unidentified for many reasons:
 
 In those situations, the correct conclusion is uncertainty.
 
-This distinction has also appeared in broader international UAP discussions. Public reviews by scientific and governmental bodies have repeatedly noted that a lack of identification does not automatically imply extraterrestrial technology or unknown physics. Instead, many cases remain unresolved because the available data is insufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africa-press.net/south-sudan/all-news/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africa-press.net">[Africa Press English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africa-press.net</span><span class="citation-popover-title">nasa study team finds no evidence ufos have extraterrestrial origin</span><span class="citation-popover-snippet">South-Sudan. NASA released a report Thursday that said...Read more...</span></span></span>
+This distinction has also appeared in broader international UAP discussions. Public reviews by scientific and governmental bodies have repeatedly noted that a lack of identification does not automatically imply extraterrestrial technology or unknown physics. Instead, many cases remain unresolved because the available data is insufficient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africa-press.net/south-sudan/all-news/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africa-press.net">[Africa Press English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africa-press.net</span><span class="citation-popover-title">nasa study team finds no evidence ufos have extraterrestrial origin</span><span class="citation-popover-snippet">South-Sudan. NASA released a report Thursday that said...Read more...</span></span></span>
 
 For South Sudan, this principle is especially important because the public record is sparse and many claims emerge through informal channels.
 
@@ -435,199 +435,199 @@ For South Sudan, this principle is especially important because the public recor
 
 The most evidence-based assessment is also the least sensational one.
 
-South Sudan does not currently have a widely documented public UFO case supported by extensive witness interviews, verified imagery, official investigation files, radar data, and successful elimination of conventional explanations. Publicly visible reports are generally fragmented, poorly documented, or tied to environments where ordinary aviation activity provides a plausible starting explanation. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sscaa.gov.ss">[SSCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sscaa.gov.ss</span><span class="citation-popover-title">SSCAASouth Sudan Civil Aviation Authority South Sudan Civil Aviation Authority</span><span class="citation-popover-snippet">South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</span></span></span> Wikipedia That does not mean every observation has been solved. It means that most claims never reach the evidentiary threshold required to move from <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span>“interesting report” to “strong unexplained case”.
+South Sudan does not currently have a widely documented public UFO case supported by extensive witness interviews, verified imagery, official investigation files, radar data, and successful elimination of conventional explanations. Publicly visible reports are generally fragmented, poorly documented, or tied to environments where ordinary aviation activity provides a plausible starting explanation. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sscaa.gov.ss">[SSCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sscaa.gov.ss</span><span class="citation-popover-title">SSCAASouth Sudan Civil Aviation Authority South Sudan Civil Aviation Authority</span><span class="citation-popover-snippet">South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</span></span></span> Wikipedia That does not mean every observation has been solved. It means that most claims never reach the evidentiary threshold required to move from<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span>“interesting report” to “strong unexplained case”.
 
 The key lesson for evaluating South Sudan sightings is therefore straightforward: a report becomes valuable not because it is strange, but because it can be checked. The more precise the timing, location, witness information, weather data, aviation records, and original media, the stronger the case becomes. Without those elements, uncertainty remains the most defensible conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is a South Sudan UFO Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is a South Sudan UFO Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights what stronger UFO evidence looks like.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights what stronger UFO evidence looks like.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Shows how reports are checked and explained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reports are checked and explained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses evidence quality and testing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence quality and testing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains common sky misidentifications and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common sky misidentifications and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-a-south-sudan-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-a-south-sudan-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -792,7 +792,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,209 +830,208 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sscaa.gov.ss  
    Title: SSCAASouth Sudan Civil Aviation Authority South Sudan Civil Aviation Authority  
-   Link: <a href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow">https://sscaa.gov.ss/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</p></details>
+   Link:<a href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow">https://sscaa.gov.ss/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Juba International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Juba_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Juba_International_Airport</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/twicmediareports/posts/a-mysterious-red-light-appeared-in-the-sky-over-juba-leaving-many-residents-puzz/1136488811823818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twicmediareports/posts/a-mysterious-red-light-appeared-in-the-sky-over-juba-leaving-many-residents-puzz/1136488811823818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious red light appeared in the sky over Juba...World Events Report ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</p></details>
+   Link:<a href="https://www.facebook.com/twicmediareports/posts/a-mysterious-red-light-appeared-in-the-sky-over-juba-leaving-many-residents-puzz/1136488811823818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twicmediareports/posts/a-mysterious-red-light-appeared-in-the-sky-over-juba-leaving-many-residents-puzz/1136488811823818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious red light appeared in the sky over Juba...World Events Report ▻ UFO, Aliens, Other Planets and Paranormal Activitie...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: africa-press.net  
    Title: nasa study team finds no evidence ufos have extraterrestrial origin  
-   Link: <a href="https://www.africa-press.net/south-sudan/all-news/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/south-sudan/all-news/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South-Sudan. NASA released a report Thursday that said...Read more...</p></details>
+   Link:<a href="https://www.africa-press.net/south-sudan/all-news/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/south-sudan/all-news/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South-Sudan. NASA released a report Thursday that said...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: africa-press.net  
-   Link: <a href="https://www.africa-press.net/south-sudan/all-news/pentagon-ufo-report-ignites-concerns-over-possible-challenge-to-us-national-security" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/south-sudan/all-news/pentagon-ufo-report-ignites-concerns-over-possible-challenge-to-us-national-security</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the surmise that the craft, displaying...Read more...</p></details>
+   Link:<a href="https://www.africa-press.net/south-sudan/all-news/pentagon-ufo-report-ignites-concerns-over-possible-challenge-to-us-national-security" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/south-sudan/all-news/pentagon-ufo-report-ignites-concerns-over-possible-challenge-to-us-national-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, the surmise that the craft, displaying...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Juba" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Juba</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JubaThe capital and largest city of South Sudan. The city is situated on the White Nile and also serves as the capital of the Central...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Juba" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Juba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JubaThe capital and largest city of South Sudan. The city is situated on the White Nile and also serves as the capital of the Central...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/South" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/South</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SouthSouth is one of the cardinal directions or compass points. The direction is the opposite of north and is perpendicular to both we...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/South" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/South</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SouthSouth is one of the cardinal directions or compass points. The direction is the opposite of north and is perpendicular to both we...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaMarcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12 April 2019 ·...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in AfricaMarcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12 April 2019 ·...</p></details>
    Published: April 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Nizhnevartovskavia Flight 544  
-   Link: <a href="https://en.wikipedia.org/wiki/Nizhnevartovskavia_Flight_544" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nizhnevartovskavia_Flight_544</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nizhnevartovskavia Flight 544Flight 544 was performing a reconnaissance mission for the United Nations Mission in South Sudan (UNMISS)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nizhnevartovskavia_Flight_544" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nizhnevartovskavia_Flight_544</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nizhnevartovskavia Flight 544Flight 544 was performing a reconnaissance mission for the United Nations Mission in South Sudan (UNMISS)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Arizona, 5340; USA - California, 17152; USA - Colorado, 3575; USA - Conne...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Arizona, 5340; USA - California, 17152; USA - Colorado, 3575; USA - Conne...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197906" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197906</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197906NUFORC Reports for Month 197906.; Open, 06/30/1979 19:00, Nile River (Egypt); Open, 06/30/1979 18:00, Di...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197906" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197906</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197906NUFORC Reports for Month 197906.; Open, 06/30/1979 19:00, Nile River (Egypt); Open, 06/30/1979 18:00, Di...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SouthSudan24/posts/juba-international-airport-moves-toward-24-hour-operationsjuba-international-air/122297799464204738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SouthSudan24/posts/juba-international-airport-moves-toward-24-hour-operationsjuba-international-air/122297799464204738/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>smooth coordination between the control tower and newly...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SouthSudan24/posts/juba-international-airport-moves-toward-24-hour-operationsjuba-international-air/122297799464204738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SouthSudan24/posts/juba-international-airport-moves-toward-24-hour-operationsjuba-international-air/122297799464204738/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smooth coordination between the control tower and newly...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/after-receiving-a-distress-call-from-southsudan-authorities-when-a-commercial-pl/1388786353288606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/after-receiving-a-distress-call-from-southsudan-authorities-when-a-commercial-pl/1388786353288606/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations Mission in South Sudan (UNMISS)The plane belonging to CityLink Aviation killed all 14 on board on Monday, April 27, 2026...</p></details>
+   Link:<a href="https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/after-receiving-a-distress-call-from-southsudan-authorities-when-a-commercial-pl/1388786353288606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnitedNationsMissionInSouthSudan/posts/after-receiving-a-distress-call-from-southsudan-authorities-when-a-commercial-pl/1388786353288606/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations Mission in South Sudan (UNMISS)The plane belonging to CityLink Aviation killed all 14 on board on Monday, April 27, 2026...</p></details>
    Published: April 27, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ssbcnews/posts/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1433882688755747/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ssbcnews/posts/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1433882688755747/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r more than a decade of independence South Sudan Civil Aviation...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ssbcnews/posts/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1433882688755747/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ssbcnews/posts/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1433882688755747/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r more than a decade of independence South Sudan Civil Aviation...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ssbcnews/posts/aviation-authority-flags-flight-cost-reduction-jia-terminal-3-under-renovationth/1355613639915986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ssbcnews/posts/aviation-authority-flags-flight-cost-reduction-jia-terminal-3-under-renovationth/1355613639915986/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AVIATION AUTHORITY FLAGS FLIGHT COST...The South Sudan Civil Aviation Authority (SSCAA) is proud to announce the ongoing renovation work...</p></details>
+   Link:<a href="https://www.facebook.com/ssbcnews/posts/aviation-authority-flags-flight-cost-reduction-jia-terminal-3-under-renovationth/1355613639915986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ssbcnews/posts/aviation-authority-flags-flight-cost-reduction-jia-terminal-3-under-renovationth/1355613639915986/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AVIATION AUTHORITY FLAGS FLIGHT COST...The South Sudan Civil Aviation Authority (SSCAA) is proud to announce the ongoing renovation work...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ssbcnews/videos/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1008029621906390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ssbcnews/videos/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1008029621906390/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ol tower at Juba International Airport, marking the operationalization of...</p></details>
+   Link:<a href="https://www.facebook.com/ssbcnews/videos/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1008029621906390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ssbcnews/videos/south-sudan-has-taken-full-control-of-its-air-traffic-management-system-since-in/1008029621906390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ol tower at Juba International Airport, marking the operationalization of...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/526957180739462/posts/24615067118168465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526957180739462/posts/24615067118168465/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>osed equipment, and UNO- 535P and UNO-536P for alleged cross-...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/526957180739462/posts/24615067118168465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526957180739462/posts/24615067118168465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>osed equipment, and UNO- 535P and UNO-536P for alleged cross-...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: South Sudan is poised to embark on a new aviation era as  
-   Link: <a href="https://www.facebook.com/jubaeye02/posts/south-sudan-is-poised-to-embark-on-a-new-aviation-era-as-the-civil-aviation-auth/1350550910457667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jubaeye02/posts/south-sudan-is-poised-to-embark-on-a-new-aviation-era-as-the-civil-aviation-auth/1350550910457667/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Authority (SSCAA) hereby issues an official update regarding flight operations at Juba International Airport on Tuesday, 20th Ma...</p></details>
+   Link:<a href="https://www.facebook.com/jubaeye02/posts/south-sudan-is-poised-to-embark-on-a-new-aviation-era-as-the-civil-aviation-auth/1350550910457667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jubaeye02/posts/south-sudan-is-poised-to-embark-on-a-new-aviation-era-as-the-civil-aviation-auth/1350550910457667/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Authority (SSCAA) hereby issues an official update regarding flight operations at Juba International Airport on Tuesday, 20th Ma...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: media.un.org  
    Title: ited Nations Media SOUTH SUDAN / AIR OPERATIONS | UNifeed  
-   Link: <a href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/unifeed/en/asset/u131/u131231a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ited Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</p></details>
+   Link:<a href="https://media.un.org/unifeed/en/asset/u131/u131231a" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/unifeed/en/asset/u131/u131231a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ited Nations MediaSOUTH SUDAN / AIR OPERATIONS | UNifeed - UN MediaAir Operations in The United Nations Mission in South Sudan (UNMISS)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b7de2244c441f2c373c628b94c331a49</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The government, represented by Foreign Minister Monday Semaya Kumba, reported that a committee was investigating the aircraft based on in...</p></details>
+   Link:<a href="https://apnews.com/article/b7de2244c441f2c373c628b94c331a49" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b7de2244c441f2c373c628b94c331a49</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The government, represented by Foreign Minister Monday Semaya Kumba, reported that a committee was investigating the aircraft based on in...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
    Title: Juba | South Sudan, Map, & Facts  
-   Link: <a href="https://www.britannica.com/place/Juba" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Juba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2026 — Juba, town, capital of South Sudan. It is a river port on the west bank of the Baḥr Al-Jabal (Mountain Nile), about 87 mile...</p></details>
+   Link:<a href="https://www.britannica.com/place/Juba" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Juba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2026 — Juba, town, capital of South Sudan. It is a river port on the west bank of the Baḥr Al-Jabal (Mountain Nile), about 87 mile...</p></details>
    Published: May 2, 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sscaa.gov.ss  
    Title: Senior Management South Sudan Civil Aviation Authority  
-   Link: <a href="https://sscaa.gov.ss/about/management/" target="_blank" rel="noopener noreferrer nofollow">https://sscaa.gov.ss/about/management/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senior ManagementSouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety programs.... 2. Juba In...</p></details>
+   Link:<a href="https://sscaa.gov.ss/about/management/" target="_blank" rel="noopener noreferrer nofollow">https://sscaa.gov.ss/about/management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senior ManagementSouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety programs.... 2. Juba In...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/flights-from/jub/cheap-flights-from-juba-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights-from/jub/cheap-flights-from-juba-airport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap flights from Juba AirportFind cheap tickets from Juba Airport using Skyscanner. Compare major airlines and online travel agents for...</p></details>
+   Link:<a href="https://www.skyscanner.net/flights-from/jub/cheap-flights-from-juba-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights-from/jub/cheap-flights-from-juba-airport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap flights from Juba AirportFind cheap tickets from Juba Airport using Skyscanner. Compare major airlines and online travel agents for...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: journeysbydesign.com  
-   Link: <a href="https://journeysbydesign.com/destinations/south-sudan/juba" target="_blank" rel="noopener noreferrer nofollow">https://journeysbydesign.com/destinations/south-sudan/juba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Juba in South SudanJuba&#x27;s status as South Sudan&#x27;s capital is more an accident of history than a reflection of its strategic importance. L...</p></details>
+   Link:<a href="https://journeysbydesign.com/destinations/south-sudan/juba" target="_blank" rel="noopener noreferrer nofollow">https://journeysbydesign.com/destinations/south-sudan/juba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Juba in South SudanJuba&#x27;s status as South Sudan&#x27;s capital is more an accident of history than a reflection of its strategic importance. L...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ro2f9s/ufos_in_africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ro2f9s/ufos_in_africa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Africa?I&#x27;m researching paranormal events in the pan-African region and I&#x27;m having trouble finding more information about UFOs/UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ro2f9s/ufos_in_africa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ro2f9s/ufos_in_africa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Africa?I&#x27;m researching paranormal events in the pan-African region and I&#x27;m having trouble finding more information about UFOs/UAP...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: unmis.unmissions.org  
-   Link: <a href="https://unmis.unmissions.org/sites/default/files/policy_and_procedures_on_use_of_unmis_flights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unmis.unmissions.org/sites/default/files/policy_and_procedures_on_use_of_unmis_flights.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations Mission in SudanThis AI highlights the procedures necessary to meet the Government of the. Sudan&#x27;s requirements in regards...</p></details>
+   Link:<a href="https://unmis.unmissions.org/sites/default/files/policy_and_procedures_on_use_of_unmis_flights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unmis.unmissions.org/sites/default/files/policy_and_procedures_on_use_of_unmis_flights.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations Mission in SudanThis AI highlights the procedures necessary to meet the Government of the. Sudan&#x27;s requirements in regards...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thainewsroom.com  
-   Link: <a href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...9 May 2026 — The documents include more than 20 video files showing unid...</p></details>
+   Link:<a href="https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://thainewsroom.com/2026/05/09/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...9 May 2026 — The documents include more than 20 video files showing unid...</p></details>
    Published: May 2026  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/juba" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/juba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JUBA Definition &amp; MeaningThe meaning of JUBA is a dance that was accompanied by complex rhythmic hand clapping and slapping of the knees...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/juba" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/juba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JUBA Definition &amp; MeaningThe meaning of JUBA is a dance that was accompanied by complex rhythmic hand clapping and slapping of the knees...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — “It&#x27;s very unlikely there are space aliens that travel throu...</p></details>
+   Link:<a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — “It&#x27;s very unlikely there are space aliens that travel throu...</p></details>
    Published: May 2023  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/africa/news/stories/how-south-sudanese-refugees-fleeing-conflict-sudan-are-reclaiming-their-identity-south" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/africa/news/stories/how-south-sudanese-refugees-fleeing-conflict-sudan-are-reclaiming-their-identity-south</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How South Sudanese refugees fleeing the conflict in...12 Mar 2026 — Ufo&#x27;s story is similar to that of thousands of South Sudanese refuge...</p></details>
+   Link:<a href="https://www.unhcr.org/africa/news/stories/how-south-sudanese-refugees-fleeing-conflict-sudan-are-reclaiming-their-identity-south" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/africa/news/stories/how-south-sudanese-refugees-fleeing-conflict-sudan-are-reclaiming-their-identity-south</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How South Sudanese refugees fleeing the conflict in...12 Mar 2026 — Ufo&#x27;s story is similar to that of thousands of South Sudanese refuge...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: eastleighvoice.co.ke  
    Title: south sudan grounds unmiss aircraft over spy gear and smuggling allegations  
-   Link: <a href="https://eastleighvoice.co.ke/south-sudan/254899/south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow">https://eastleighvoice.co.ke/south-sudan/254899/south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UNMISS aircraft over spy gear and...14 Dec 2025 — South Sudan has grounded four aircraft contracted to UNMISS after...</p></details>
+   Link:<a href="https://eastleighvoice.co.ke/south-sudan/254899/south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations" target="_blank" rel="noopener noreferrer nofollow">https://eastleighvoice.co.ke/south-sudan/254899/south-sudan-grounds-unmiss-aircraft-over-spy-gear-and-smuggling-allegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Sudan grounds UNMISS aircraft over spy gear and...14 Dec 2025 — South Sudan has grounded four aircraft contracted to UNMISS after...</p></details>

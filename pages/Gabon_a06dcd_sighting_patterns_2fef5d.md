@@ -259,9 +259,9 @@ The skies above **Port‑Gentil**, Gabon’s second‑largest city and economic 
 <img src="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Map illustration 1" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Port‑Gentil’s Luminous Sightings in Local Reports
 
-One of the most notable archival mentions tied to Port‑Gentil appears in a **French UAP research catalogue (GEIPAN)** that records individual historical observations from around the world. In this file, a June **1, 1952** incident describes crew members aboard a ship anchored off Port‑Gentil observing a **bright, orange‑glowing luminous phenomenon** in the early morning hours. Witnesses reported the object making abrupt trajectory changes, stopping, turning, and then moving rapidly with a **very intense phosphorescent glow** before disappearing from view. This case was classified with moderate to high strangeness but remains isolated and was never corroborated by additional observers on land. Hypotheses such as a meteor or missile launch were mentioned but not confirmed, and in GEIPAN’s categorisation it sits in an unexplained bracket rather than as credibly verified anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Geipan: France is also interested in UFOs</span><span class="citation-popover-snippet">Meeting France&#x27;s UFO detectives • FRANCE 24 English...</span></span></span>
+One of the most notable archival mentions tied to Port‑Gentil appears in a **French UAP research catalogue (GEIPAN)** that records individual historical observations from around the world. In this file, a June **1, 1952** incident describes crew members aboard a ship anchored off Port‑Gentil observing a **bright, orange‑glowing luminous phenomenon** in the early morning hours. Witnesses reported the object making abrupt trajectory changes, stopping, turning, and then moving rapidly with a **very intense phosphorescent glow** before disappearing from view. This case was classified with moderate to high strangeness but remains isolated and was never corroborated by additional observers on land. Hypotheses such as a meteor or missile launch were mentioned but not confirmed, and in GEIPAN’s categorisation it sits in an unexplained bracket rather than as credibly verified anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Geipan: France is also interested in UFOs</span><span class="citation-popover-snippet">Meeting France&#x27;s UFO detectives • FRANCE 24 English...</span></span></span>
 
-In more recent cultural and informal discourses, accounts circulate of **“strange lights over oil platforms”** and orange spheres in the sky near Port‑Gentil. These come not from scientific surveys but from testimonies collated in a book and exhibition effort aimed at elevating African sighting narratives. Witnesses quoted there describe luminous shapes in the night sky above industrial zones — though the sources emphasise that in Gabon, such events are seldom discussed publicly due to cultural reticence or superstition around reporting anomalous sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">July 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
+In more recent cultural and informal discourses, accounts circulate of **“strange lights over oil platforms”** and orange spheres in the sky near Port‑Gentil. These come not from scientific surveys but from testimonies collated in a book and exhibition effort aimed at elevating African sighting narratives. Witnesses quoted there describe luminous shapes in the night sky above industrial zones — though the sources emphasise that in Gabon, such events are seldom discussed publicly due to cultural reticence or superstition around reporting anomalous sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">July 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
 
 While these narratives reference Port‑Gentil directly, they share a pattern: *isolated, primarily visual observations described long after the fact, with no corroborating photos, videos, institutional investigation, or independent verification available in public records.*
 
@@ -269,9 +269,9 @@ While these narratives reference Port‑Gentil directly, they share a pattern: *
 
 ## How Port‑Gentil Fits into Gabon’s Broader Sighting Patterns
 
-Across Gabon as a whole, anecdotal reports of unusual lights or objects are similarly sparse and fragmented, emerging sporadically in online forums or cultural works rather than in structured incident logs. This mirrors the broader pattern in the country where **Liberian and rural witnesses** likewise recount fleeting lights, spheres, or shapes in the night sky — none of which have been systematically documented by a national scientific body. These reports share certain commonalities: sighting at night, luminescent points or spheres, and rapid movement or disappearance without sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">UF Os at close sight: UFO sightings reports from Africa At sea near Port-Gentil,</span><span class="citation-popover-snippet">Bocaranga, Ubangi Shari, Equator, November 22, 1952: A clergyman reports about a UFO sighting he...Read more...</span><span class="citation-popover-meta">Published: November 22, 1952</span></span></span>
+Across Gabon as a whole, anecdotal reports of unusual lights or objects are similarly sparse and fragmented, emerging sporadically in online forums or cultural works rather than in structured incident logs. This mirrors the broader pattern in the country where **Liberian and rural witnesses** likewise recount fleeting lights, spheres, or shapes in the night sky — none of which have been systematically documented by a national scientific body. These reports share certain commonalities: sighting at night, luminescent points or spheres, and rapid movement or disappearance without sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">UF Os at close sight: UFO sightings reports from Africa At sea near Port-Gentil,</span><span class="citation-popover-snippet">Bocaranga, Ubangi Shari, Equator, November 22, 1952: A clergyman reports about a UFO sighting he...Read more...</span><span class="citation-popover-meta">Published: November 22, 1952</span></span></span>
 
-In comparative terms, Port‑Gentil’s sightings are not more numerous than those in other parts of Gabon but *do stand out due to the city’s size and industrial profile* — meaning more potential observers live and work there. The city’s night sky is also affected by **significant light pollution from urban and industrial sources**, which can make distinguishing celestial phenomena harder and may contribute to misidentifications of atmospheric or satellite reflections as unusual lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nightearth.com/showitem.php?item=port-gentil-ogoou%C3%A9-maritime-gabon&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightearth.com">[nightearth.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightearth.com</span><span class="citation-popover-title">Night Earth</span><span class="citation-popover-snippet">Port-Gentil, Ogooué-Maritime, Gabon...</span></span></span>
+In comparative terms, Port‑Gentil’s sightings are not more numerous than those in other parts of Gabon but *do stand out due to the city’s size and industrial profile* — meaning more potential observers live and work there. The city’s night sky is also affected by **significant light pollution from urban and industrial sources**, which can make distinguishing celestial phenomena harder and may contribute to misidentifications of atmospheric or satellite reflections as unusual lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nightearth.com/showitem.php?item=port-gentil-ogoou%C3%A9-maritime-gabon&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightearth.com">[nightearth.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightearth.com</span><span class="citation-popover-title">Night Earth</span><span class="citation-popover-snippet">Port-Gentil, Ogooué-Maritime, Gabon...</span></span></span>
 
 <img src="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-2-dark.svg" | relative_url }}" alt="Sightings Map illustration 2" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Gabonese Sightings Are Difficult to Map
@@ -279,7 +279,7 @@ In comparative terms, Port‑Gentil’s sightings are not more numerous than tho
 There are several reasons why mapping Port‑Gentil’s reported lights alongside broader Gabonese sky sightings remains speculative rather than systematic:
 
 * **Lack of official investigation mechanisms:** Gabon has no known government or scientific programme dedicated to collecting or analysing aerial anomalies. Most reports live on artistic projects, ufology literature, or online posts rather than in formal registries with investigative follow‑up.
-* **Cultural sharing patterns:** As some Gabonese commentators suggest, discussing strange phenomena publicly can be culturally sensitive or seen as taboo, leading witnesses to keep experiences private or share them among informal networks only. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/port-gentil-lorage-met-a-la-belle-etoile-de-nombreuses-familles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">March 10, 2024 — PORT-GENTIL: L’ORAGE MET À LA BELLE ÉTOILE DE NOMBREUSES FAMILLES poste par Michel Ndong / 10 mars, 2024 La capitale éc...</span><span class="citation-popover-meta">Published: March 10, 2024</span></span></span>
+* **Cultural sharing patterns:** As some Gabonese commentators suggest, discussing strange phenomena publicly can be culturally sensitive or seen as taboo, leading witnesses to keep experiences private or share them among informal networks only.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/port-gentil-lorage-met-a-la-belle-etoile-de-nombreuses-familles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">March 10, 2024 — PORT-GENTIL: L’ORAGE MET À LA BELLE ÉTOILE DE NOMBREUSES FAMILLES poste par Michel Ndong / 10 mars, 2024 La capitale éc...</span><span class="citation-popover-meta">Published: March 10, 2024</span></span></span>
 * **Environmental and observational factors:** Urban centres like Port‑Gentil, with industrial lighting and atmospheric conditions typical of coastal equatorial regions, offer ample *mundane explanations* for perceived lights — from reflections of aircraft or satellites to petrochemical facility flares — obscuring efforts to isolate genuinely unexplained sightings.
 
 Because of these limitations, any cluster map of Gabonese sightings would look like a series of dots without firm temporal, spatial, or observational standards — a pattern common in countries without systematic UAP reporting infrastructure.
@@ -297,194 +297,194 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
 <img src="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-3-dark.svg" | relative_url }}" alt="Sightings Map illustration 3" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd_sighting_patterns_2fef5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Do Gabon&#x27;s UFO Sightings Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Do Gabon&#x27;s UFO Sightings Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers understand how patterns emerge from large collections of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how patterns emerge from large collections of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing clustered reports with documented cases elsewhere.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing clustered reports with documented cases elsewhere.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Known for classification systems and sighting-analysis frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Known for classification systems and sighting-analysis frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring motifs across regions and cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring motifs across regions and cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-gabon-s-ufo-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-gabon-s-ufo-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -500,7 +500,7 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -520,7 +520,7 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -552,7 +552,7 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -604,7 +604,7 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -649,7 +649,7 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -687,113 +687,112 @@ The historical ship‑observation in 1952 remains the strongest discrete record 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2024...</p></details>
+   Link:<a href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2024...</p></details>
    Published: July 8, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
    Title: UF Os at close sight: UFO sightings reports from Africa At sea near Port-Gentil,  
-   Link: <a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bocaranga, Ubangi Shari, Equator, November 22, 1952: A clergyman reports about a UFO sighting he...Read more...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bocaranga, Ubangi Shari, Equator, November 22, 1952: A clergyman reports about a UFO sighting he...Read more...</p></details>
    Published: November 22, 1952  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nightearth.com  
    Title: Night Earth  
-   Link: <a href="https://www.nightearth.com/showitem.php?item=port-gentil-ogoou%C3%A9-maritime-gabon&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nightearth.com/showitem.php?item=port-gentil-ogoou%C3%A9-maritime-gabon&amp;lang=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Port-Gentil, Ogooué-Maritime, Gabon...</p></details>
+   Link:<a href="https://www.nightearth.com/showitem.php?item=port-gentil-ogoou%C3%A9-maritime-gabon&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nightearth.com/showitem.php?item=port-gentil-ogoou%C3%A9-maritime-gabon&amp;lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Port-Gentil, Ogooué-Maritime, Gabon...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/port-gentil-lorage-met-a-la-belle-etoile-de-nombreuses-familles/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/port-gentil-lorage-met-a-la-belle-etoile-de-nombreuses-familles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2024 — PORT-GENTIL: L’ORAGE MET À LA BELLE ÉTOILE DE NOMBREUSES FAMILLES poste par Michel Ndong / 10 mars, 2024 La capitale éc...</p></details>
+   Link:<a href="https://www.gabonreview.com/port-gentil-lorage-met-a-la-belle-etoile-de-nombreuses-familles/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/port-gentil-lorage-met-a-la-belle-etoile-de-nombreuses-familles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2024 — PORT-GENTIL: L’ORAGE MET À LA BELLE ÉTOILE DE NOMBREUSES FAMILLES poste par Michel Ndong / 10 mars, 2024 La capitale éc...</p></details>
    Published: March 10, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/port-gentil-decouverte-du-corps-en-putrefaction-dun-pasteur-mort-en-voyage-astral/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/port-gentil-decouverte-du-corps-en-putrefaction-dun-pasteur-mort-en-voyage-astral/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Si jusqu’ici les circonstances réelles de ce drame ne sont pas connues, les rumeurs distillées ça et l...</p></details>
+   Link:<a href="https://www.gabonreview.com/port-gentil-decouverte-du-corps-en-putrefaction-dun-pasteur-mort-en-voyage-astral/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/port-gentil-decouverte-du-corps-en-putrefaction-dun-pasteur-mort-en-voyage-astral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Si jusqu’ici les circonstances réelles de ce drame ne sont pas connues, les rumeurs distillées ça et l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gabonreview.com  
    Title: Port-Gentil: La grenade dans l’église | Gabonreview.com | Actualité du Gabon  
-   Link: <a href="https://www.gabonreview.com/port-gentil-la-grenade-dans-leglise/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/port-gentil-la-grenade-dans-leglise/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alerté, le procureur de la République, Léandre N’wompahouin, est allé constater les faits. D’abord s...</p></details>
+   Link:<a href="https://www.gabonreview.com/port-gentil-la-grenade-dans-leglise/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/port-gentil-la-grenade-dans-leglise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alerté, le procureur de la République, Léandre N’wompahouin, est allé constater les faits. D’abord s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/fr/cas/1952-06-00004" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/cas/1952-06-00004</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanPORT-GENTIL (GA.8) 01.06.1952 | GEIPANJune 1, 1952...</p></details>
+   Link:<a href="https://cnes-geipan.fr/fr/cas/1952-06-00004" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/cas/1952-06-00004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanPORT-GENTIL (GA.8) 01.06.1952 | GEIPANJune 1, 1952...</p></details>
    Published: June 1, 1952  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1952-06-00004?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=%2C513&amp;select-category-export=nothing&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1952-06-00004?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=%2C513&amp;select-category-export=nothing&amp;video=on</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PORT-GENTIL (GA.8) 01.06.1952 | GEIPANMarch 27, 2015 — PORT-GENTIL (GA.8) 01.06.1952 Date d&#x27;observation 01/06/1952 Région Autre Départeme...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1952-06-00004?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=%2C513&amp;select-category-export=nothing&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1952-06-00004?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=%2C513&amp;select-category-export=nothing&amp;video=on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PORT-GENTIL (GA.8) 01.06.1952 | GEIPANMarch 27, 2015 — PORT-GENTIL (GA.8) 01.06.1952 Date d&#x27;observation 01/06/1952 Région Autre Départeme...</p></details>
    Published: March 27, 2015  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/lighthouse/gab.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/lighthouse/gab.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lighthouses of GabonPort-Gentil, in the lee of Cape Lopez, is the country&#x27;s second international port. Gabon is divided into nine provinc...</p></details>
+   Link:<a href="https://www.ibiblio.org/lighthouse/gab.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/lighthouse/gab.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lighthouses of GabonPort-Gentil, in the lee of Cape Lopez, is the country&#x27;s second international port. Gabon is divided into nine provinc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapafrique.com  
-   Link: <a href="https://uapafrique.com/2024/03/16/book-the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-by-jann-halexander/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2024/03/16/book-the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-by-jann-halexander/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Book ‘THE UFO ISSUE IN CENTRAL AFRICA: (Gabon, Congo, Democratic Republic of Congo) by Jann Halexander – UAP AFRIQUEMarch 16, 2024 — BOOK...</p></details>
+   Link:<a href="https://uapafrique.com/2024/03/16/book-the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-by-jann-halexander/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2024/03/16/book-the-ufo-issue-in-central-africa-gabon-congo-democratic-republic-of-congo-by-jann-halexander/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Book ‘THE UFO ISSUE IN CENTRAL AFRICA: (Gabon, Congo, Democratic Republic of Congo) by Jann Halexander – UAP AFRIQUEMarch 16, 2024 — BOOK...</p></details>
    Published: March 16, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oxben.com.tr  
-   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
+   Link:<a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... ufo sympathies annualized cadre substrate gillian overriding indo freiburg platt tories toms ni...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... ufo sympathies annualized cadre substrate gillian overriding indo freiburg platt tories toms ni...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: s3.us-east-1.amazonaws.com  
-   Link: <a href="https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/7262140/Batch0001/7262140-20060474F-001-010-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/7262140/Batch0001/7262140-20060474F-001-010-2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSE TIa group of American and international.::itizens working to effect a public disclosure on the UFO/extraterrestrial issue, respectfu...</p></details>
+   Link:<a href="https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/7262140/Batch0001/7262140-20060474F-001-010-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/7262140/Batch0001/7262140-20060474F-001-010-2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSE TIa group of American and international.::itizens working to effect a public disclosure on the UFO/extraterrestrial issue, respectfu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: deezer.com  
-   Link: <a href="https://www.deezer.com/en/show/3526827" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/en/show/3526827</a>  
+   Link:<a href="https://www.deezer.com/en/show/3526827" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/en/show/3526827</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: saturdaynightuforia.com  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jun 52 &gt; &gt; * * * &gt; &gt; Luminous Object Seen Over Port Gentil &gt; The master of a cargo ship anchored in front of the wharf of Port Gentil...</p></details>
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jun 52 &gt; &gt; * * * &gt; &gt; Luminous Object Seen Over Port Gentil &gt; The master of a cargo ship anchored in front of the wharf of Port Gentil...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: odla.fr  
-   Link: <a href="https://www.odla.fr/2015/03/16/ovnis-observ%C3%A9s-pr%C3%A8s-d-une-plateforme-p%C3%A9troli%C3%A8re-au-large-de-l-angola-13-mars-2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2015/03/16/ovnis-observ%C3%A9s-pr%C3%A8s-d-une-plateforme-p%C3%A9troli%C3%A8re-au-large-de-l-angola-13-mars-2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mars 2015 OVNIS OBSERVÉS PRÈS D&#x27;UNE PLATEFORME PÉTROLIÈRE AU LARGE DE L&#x27;ANGOLA, 13 MARS 2015 Image Le vendredi 13 mars 2015, plusieurs ou...</p></details>
+   Link:<a href="https://www.odla.fr/2015/03/16/ovnis-observ%C3%A9s-pr%C3%A8s-d-une-plateforme-p%C3%A9troli%C3%A8re-au-large-de-l-angola-13-mars-2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2015/03/16/ovnis-observ%C3%A9s-pr%C3%A8s-d-une-plateforme-p%C3%A9troli%C3%A8re-au-large-de-l-angola-13-mars-2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mars 2015 OVNIS OBSERVÉS PRÈS D&#x27;UNE PLATEFORME PÉTROLIÈRE AU LARGE DE L&#x27;ANGOLA, 13 MARS 2015 Image Le vendredi 13 mars 2015, plusieurs ou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medias241.com  
    Title: Port-Gentil: Un serpent surgit dans une église en pleine veillée de prière  
-   Link: <a href="https://medias241.com/port-gentil-un-serpent-surgit-dans-une-eglise-en-pleine-veillee-de-priere/" target="_blank" rel="noopener noreferrer nofollow">https://medias241.com/port-gentil-un-serpent-surgit-dans-une-eglise-en-pleine-veillee-de-priere/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 3, 2023 — PORT-GENTIL: UN SERPENT SURGIT DANS UNE ÉGLISE EN PLEINE VEILLÉE DE PRIÈRE Par Yves Pasquier 3 juillet 2023 Image: Medias...</p></details>
+   Link:<a href="https://medias241.com/port-gentil-un-serpent-surgit-dans-une-eglise-en-pleine-veillee-de-priere/" target="_blank" rel="noopener noreferrer nofollow">https://medias241.com/port-gentil-un-serpent-surgit-dans-une-eglise-en-pleine-veillee-de-priere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 3, 2023 — PORT-GENTIL: UN SERPENT SURGIT DANS UNE ÉGLISE EN PLEINE VEILLÉE DE PRIÈRE Par Yves Pasquier 3 juillet 2023 Image: Medias...</p></details>
    Published: July 3, 2023

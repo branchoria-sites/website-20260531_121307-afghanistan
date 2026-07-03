@@ -254,26 +254,26 @@ image: /assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1
 
 ## Introduction
 
-The HMAS Hobart incident is one of the most frequently cited Vietnam War cases in which a documented military disaster later became entangled with UFO speculation. In the early hours of 17 June 1968, the Australian guided-missile destroyer HMAS Hobart was struck by missiles fired from a United States aircraft operating near the coast of North Vietnam. Two Australian sailors were killed and seven were wounded. Official investigations concluded that the ship had been hit in a friendly-fire incident during a confused night operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</span><span class="citation-popover-meta">Published: june 1968</span></span></span>
+The HMAS Hobart incident is one of the most frequently cited Vietnam War cases in which a documented military disaster later became entangled with UFO speculation. In the early hours of 17 June 1968, the Australian guided-missile destroyer HMAS Hobart was struck by missiles fired from a United States aircraft operating near the coast of North Vietnam. Two Australian sailors were killed and seven were wounded. Official investigations concluded that the ship had been hit in a friendly-fire incident during a confused night operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</span><span class="citation-popover-meta">Published: june 1968</span></span></span>
 
 <img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-dark.svg" | relative_url }}" alt="HMAS Hobart illustration 1" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the case unusual is that the friendly-fire explanation did not end the story. Over time, accounts involving unidentified aircraft, reports of enemy helicopters, the loss of a US Navy Swift Boat, and rumours of strange aerial targets became woven into a wider UFO narrative. The result is a case where the underlying tragedy is well documented, but the claimed UFO connection remains highly disputed.
 
 ## The confirmed friendly-fire record
 
-The core facts are not controversial. HMAS Hobart was operating off the Vietnamese coast near Tiger Island when it came under attack from missiles launched by a US aircraft. Contemporary Australian naval records, later historical summaries, and Australian War Memorial material all describe the event as an accidental attack by American forces. Two sailors died and seven others were injured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</span><span class="citation-popover-meta">Published: june 1968</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faaaa.asn.au">[Australian War Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faaaa.asn.au</span><span class="citation-popover-snippet">Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</span></span></span>
+The core facts are not controversial. HMAS Hobart was operating off the Vietnamese coast near Tiger Island when it came under attack from missiles launched by a US aircraft. Contemporary Australian naval records, later historical summaries, and Australian War Memorial material all describe the event as an accidental attack by American forces. Two sailors died and seven others were injured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</span><span class="citation-popover-meta">Published: june 1968</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faaaa.asn.au">[Australian War Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faaaa.asn.au</span><span class="citation-popover-snippet">Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</span></span></span>
 
-Photographs preserved by the Australian War Memorial show visible missile damage to the destroyer's superstructure. Official descriptions identify the damage as the result of an accidental missile strike from a USAF F-4 Phantom aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faaaa.asn.au">[Australian War Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faaaa.asn.au</span><span class="citation-popover-snippet">Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faaaa.asn.au">[Australian War Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faaaa.asn.au</span><span class="citation-popover-snippet">Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</span></span></span>
+Photographs preserved by the Australian War Memorial show visible missile damage to the destroyer's superstructure. Official descriptions identify the damage as the result of an accidental missile strike from a USAF F-4 Phantom aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faaaa.asn.au">[Australian War Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faaaa.asn.au</span><span class="citation-popover-snippet">Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faaaa.asn.au">[Australian War Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faaaa.asn.au</span><span class="citation-popover-snippet">Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</span></span></span>
 
-The inquiry that followed concluded that Hobart was not the only vessel mistakenly targeted during the operation. Investigators determined that several friendly ships were attacked after American pilots misinterpreted radar contacts during darkness and confusion. Australian military commemorative accounts state that pilots mistook radar returns from friendly vessels for hostile targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: placesofpride.awm.gov.au">[placesofpride.awm.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">placesofpride.awm.gov.au</span><span class="citation-popover-title">Friendly Fire</span><span class="citation-popover-snippet">Places of Pride - Australian War MemorialAug 1, 2019 — A subsequent enquiry into the incident revealed that HMAS Hobart was one of severa...</span></span></span>
+The inquiry that followed concluded that Hobart was not the only vessel mistakenly targeted during the operation. Investigators determined that several friendly ships were attacked after American pilots misinterpreted radar contacts during darkness and confusion. Australian military commemorative accounts state that pilots mistook radar returns from friendly vessels for hostile targets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: placesofpride.awm.gov.au">[placesofpride.awm.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">placesofpride.awm.gov.au</span><span class="citation-popover-title">Friendly Fire</span><span class="citation-popover-snippet">Places of Pride - Australian War MemorialAug 1, 2019 — A subsequent enquiry into the incident revealed that HMAS Hobart was one of severa...</span></span></span>
 
-Fragments recovered from the missiles were identified as American-made weapons, further reinforcing the friendly-fire conclusion. Accounts from naval historical organisations and veterans' records consistently describe the attack as an operational error involving US aircraft rather than an attack by an unknown object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
+Fragments recovered from the missiles were identified as American-made weapons, further reinforcing the friendly-fire conclusion. Accounts from naval historical organisations and veterans' records consistently describe the attack as an operational error involving US aircraft rather than an attack by an unknown object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
 
 ## Why the incident became linked to UFO stories
 
 The UFO connection emerged because the friendly-fire attack occurred during a larger and highly confusing series of events at sea.
 
-On the same night, US Navy Swift Boats operating near Tiger Island reported being attacked. One vessel, PCF-19, was destroyed in a sudden explosion, while surviving crews described encounters with unidentified airborne threats. Later retellings often emphasised reports of hovering aircraft, unusual lights, or aircraft that did not fit expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">Naval History and Heritage Command H-019-1 Swift Boat Disappearance</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</span></span></span>
+On the same night, US Navy Swift Boats operating near Tiger Island reported being attacked. One vessel, PCF-19, was destroyed in a sudden explosion, while surviving crews described encounters with unidentified airborne threats. Later retellings often emphasised reports of hovering aircraft, unusual lights, or aircraft that did not fit expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">Naval History and Heritage Command H-019-1 Swift Boat Disappearance</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</span></span></span>
 
 In many UFO-oriented versions of the story, the sequence is reconstructed as follows:
 
@@ -284,14 +284,14 @@ In many UFO-oriented versions of the story, the sequence is reconstructed as fol
 1. Naval forces encountered unidentified aerial objects.
 2. Reports of hostile helicopters or strange airborne targets spread through command channels.
 3. US aircraft arrived to intercept the threat.
-4. Confusion led to attacks on friendly vessels, including HMAS Hobart and USS Boston. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buzzsprout.com">[buzzsprout.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buzzsprout.com</span><span class="citation-popover-title">Ep 38 HMAS Hobart</span><span class="citation-popover-snippet">Ep 38 HMAS Hobart - UFO&#x27;s and Aliens PodcastFeb 20, 2024 — In June of 1968 The Australian guided-missile destroyer HMAS Hobart...</span></span></span>
+4. Confusion led to attacks on friendly vessels, including HMAS Hobart and USS Boston.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buzzsprout.com">[buzzsprout.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buzzsprout.com</span><span class="citation-popover-title">Ep 38 HMAS Hobart</span><span class="citation-popover-snippet">Ep 38 HMAS Hobart - UFO&#x27;s and Aliens PodcastFeb 20, 2024 — In June of 1968 The Australian guided-missile destroyer HMAS Hobart...</span></span></span>
 5. Authorities later blamed enemy helicopters to conceal a UFO encounter.
 
 </div>
 
-This interpretation gained traction in UFO literature because it appears to connect several genuine mysteries from the same night: the destruction of PCF-19, conflicting witness reports, radar uncertainty, and the accidental missile strikes on friendly ships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
+This interpretation gained traction in UFO literature because it appears to connect several genuine mysteries from the same night: the destruction of PCF-19, conflicting witness reports, radar uncertainty, and the accidental missile strikes on friendly ships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
 
-The story became especially popular in later UFO books, documentaries, internet forums, and podcasts that treated the Hobart incident as an example of military forces engaging unknown craft during the Vietnam War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/navy-ship-hmas-hobart-hit-during-vietnam-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">navy ship hmas hobart hit during vietnam ufo encounter</span><span class="citation-popover-snippet">Think About It Docs1968: Navy ship HMAS Hobart hit during Vietnam UFO...In June 1968 Australia was dismayed by the news that the guided...</span><span class="citation-popover-meta">Published: June 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://yowiehunters.net/viewtopic.php?t=6428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yowiehunters.net">[2yowiehunters.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yowiehunters.net</span><span class="citation-popover-snippet">UFO attack on USS Boston and HMAS Hobart Vietnam War.Aug 28, 2019 — A video called UFO Conspiracy - In Search Of The Truth it tells of a...</span></span></span>
+The story became especially popular in later UFO books, documentaries, internet forums, and podcasts that treated the Hobart incident as an example of military forces engaging unknown craft during the Vietnam War.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/navy-ship-hmas-hobart-hit-during-vietnam-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">navy ship hmas hobart hit during vietnam ufo encounter</span><span class="citation-popover-snippet">Think About It Docs1968: Navy ship HMAS Hobart hit during Vietnam UFO...In June 1968 Australia was dismayed by the news that the guided...</span><span class="citation-popover-meta">Published: June 1968</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://yowiehunters.net/viewtopic.php?t=6428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yowiehunters.net">[2yowiehunters.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yowiehunters.net</span><span class="citation-popover-snippet">UFO attack on USS Boston and HMAS Hobart Vietnam War.Aug 28, 2019 — A video called UFO Conspiracy - In Search Of The Truth it tells of a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HIJH38kLGVg" title="The Forgotten Navy — Australia&#x27;s War On The Vietnam Gunline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HIJH38kLGVg" target="_blank" rel="noopener noreferrer">The Forgotten Navy — Australia&#x27;s War On The Vietnam Gunline</a></p><p class="youtube-embed-meta">Channel: Clasps of Courage &middot; Views: 9.7K &middot; Uploaded: November 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HIJH38kLGVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HIJH38kLGVg">Open on YouTube</a></p></div></div></div>
 
@@ -299,9 +299,9 @@ The story became especially popular in later UFO books, documentaries, internet 
 
 One reason UFO theories found an audience is that the official helicopter explanation has long been debated.
 
-Some accounts from the period referred to suspected North Vietnamese helicopters operating over coastal waters. Yet historians have noted that evidence for helicopters conducting the reported attacks remains uncertain. The confusion was compounded by darkness, multiple radar contacts, rapid communications between ships and aircraft, and the difficulty of identifying targets at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmashobartassqld.org">[hmashobartassqld.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmashobartassqld.org</span><span class="citation-popover-snippet">2nd Deployment Report of Proceedings PageThursday 27th June 1968. On Thursday the 27th the ship was listed 5... End of extract Hobart Fr...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
+Some accounts from the period referred to suspected North Vietnamese helicopters operating over coastal waters. Yet historians have noted that evidence for helicopters conducting the reported attacks remains uncertain. The confusion was compounded by darkness, multiple radar contacts, rapid communications between ships and aircraft, and the difficulty of identifying targets at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmashobartassqld.org">[hmashobartassqld.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmashobartassqld.org</span><span class="citation-popover-snippet">2nd Deployment Report of Proceedings PageThursday 27th June 1968. On Thursday the 27th the ship was listed 5... End of extract Hobart Fr...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
 
-Supporters of the UFO interpretation often argue that if the helicopter reports were inaccurate, then something else must have been present. They point to witness descriptions of unusual airborne objects and to the uncertainty surrounding the destruction of PCF-19. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">Naval History and Heritage Command H-019-1 Swift Boat Disappearance</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</span></span></span>
+Supporters of the UFO interpretation often argue that if the helicopter reports were inaccurate, then something else must have been present. They point to witness descriptions of unusual airborne objects and to the uncertainty surrounding the destruction of PCF-19.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">Naval History and Heritage Command H-019-1 Swift Boat Disappearance</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</span></span></span>
 
 However, the weakness in that argument is that disproving one explanation does not automatically validate another. Even if reports of enemy helicopters were mistaken, the remaining possibilities still include misidentified aircraft, radar confusion, friendly forces being incorrectly tracked, or incomplete battlefield reporting.
 
@@ -314,7 +314,7 @@ The strongest evidence in the Hobart case concerns the missile strike itself.
 
 The following points are supported by documentary and physical evidence:
 
-* HMAS Hobart was hit by missiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buzzsprout.com">[buzzsprout.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buzzsprout.com</span><span class="citation-popover-title">Ep 38 HMAS Hobart</span><span class="citation-popover-snippet">Ep 38 HMAS Hobart - UFO&#x27;s and Aliens PodcastFeb 20, 2024 — In June of 1968 The Australian guided-missile destroyer HMAS Hobart...</span></span></span>
+* HMAS Hobart was hit by missiles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buzzsprout.com">[buzzsprout.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buzzsprout.com</span><span class="citation-popover-title">Ep 38 HMAS Hobart</span><span class="citation-popover-snippet">Ep 38 HMAS Hobart - UFO&#x27;s and Aliens PodcastFeb 20, 2024 — In June of 1968 The Australian guided-missile destroyer HMAS Hobart...</span></span></span>
 * The missiles were of American origin.
 * Two crew members were killed and seven wounded.
 * The attack occurred during a larger operational incident involving multiple friendly vessels.
@@ -328,11 +328,11 @@ What remains uncertain includes:
 * Whether every witness was describing the same object or objects.
 * The precise cause of the destruction of PCF-19.
 * Whether reported hostile helicopters were genuinely present.
-* How accurately radar tracks reflected the actual situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">Naval History and Heritage Command H-019-1 Swift Boat Disappearance</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</span></span></span>
+* How accurately radar tracks reflected the actual situation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">Naval History and Heritage Command H-019-1 Swift Boat Disappearance</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</span></span></span>
 
 None of these uncertainties, however, provide direct evidence that a non-human craft was involved.
 
-No declassified document has emerged showing that investigators concluded a UFO attacked the ships. No known radar record demonstrates an extraordinary craft performing impossible manoeuvres. No recovered material linked to the attack has been identified as anything other than conventional weaponry. The available evidence shows confusion and misidentification; it does not show extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
+No declassified document has emerged showing that investigators concluded a UFO attacked the ships. No known radar record demonstrates an extraordinary craft performing impossible manoeuvres. No recovered material linked to the attack has been identified as anything other than conventional weaponry. The available evidence shows confusion and misidentification; it does not show extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</span><span class="citation-popover-meta">Published: June 1968</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q57Nej_ugdU" title="TRUE STORY: When The US Airforce Encountered UFO&#x27;s | Our Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q57Nej_ugdU" target="_blank" rel="noopener noreferrer">TRUE STORY: When The US Airforce Encountered UFO&#x27;s | Our Life</a></p><p class="youtube-embed-meta">Channel: True Lives &middot; Views: 334.1K &middot; Uploaded: June 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q57Nej_ugdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q57Nej_ugdU">Open on YouTube</a></p></div></div></div>
 
@@ -357,194 +357,194 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
 <img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-dark.svg" | relative_url }}" alt="HMAS Hobart illustration 3" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did UFO Confusion Shape the Hobart Attack?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did UFO Confusion Shape the Hobart Attack?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing claims versus evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing claims versus evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses military incidents and disputed aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military incidents and disputed aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Examines official military encounters and disputed interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official military encounters and disputed interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for Cold War and military decision-making systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Cold War and military decision-making systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufo-confusion-shape-the-hobart-attack-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-ufo-confusion-shape-the-hobart-attack-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,172 +750,172 @@ As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: placesofpride.awm.gov.au  
    Title: Friendly Fire  
-   Link: <a href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow">https://placesofpride.awm.gov.au/stories/213631/250046</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Places of Pride - Australian War MemorialAug 1, 2019 — A subsequent enquiry into the incident revealed that HMAS Hobart was one of severa...</p></details>
+   Link:<a href="https://placesofpride.awm.gov.au/stories/213631/250046" target="_blank" rel="noopener noreferrer nofollow">https://placesofpride.awm.gov.au/stories/213631/250046</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Places of Pride - Australian War MemorialAug 1, 2019 — A subsequent enquiry into the incident revealed that HMAS Hobart was one of severa...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/C1300446" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/C1300446</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War MemorialOne of a series of photographs taken aboard HMAS Hobart...One of a series of photographs taken aboard HMAS Hobart...</p></details>
+   Link:<a href="https://www.awm.gov.au/collection/C1300446" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/C1300446</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War MemorialOne of a series of photographs taken aboard HMAS Hobart...One of a series of photographs taken aboard HMAS Hobart...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/C1300447" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/C1300447</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War MemorialOne of a series of photographs taken aboard HMAS Hobart...One of a series of photographs taken aboard HMAS Hobart...</p></details>
+   Link:<a href="https://www.awm.gov.au/collection/C1300447" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/C1300447</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War MemorialOne of a series of photographs taken aboard HMAS Hobart...One of a series of photographs taken aboard HMAS Hobart...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/C1300440" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/C1300440</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War MemorialOne of a series of photographs taken aboard HMAS Hobart...A series of photographs taken aboard HMAS Hobart off Vi...</p></details>
+   Link:<a href="https://www.awm.gov.au/collection/C1300440" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/C1300440</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War MemorialOne of a series of photographs taken aboard HMAS Hobart...A series of photographs taken aboard HMAS Hobart off Vi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/hobart.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</p></details>
+   Link:<a href="https://www.project1947.com/articles/hobart.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/hobart.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Navy Ship HMAS Hobart Damaged During UFO...ON 17 June 1968, Hobart was in the vicinity of Tiger Island when she detected an a...</p></details>
    Published: June 1968  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hmashobartassqld.org  
-   Link: <a href="https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html" target="_blank" rel="noopener noreferrer nofollow">https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2nd Deployment Report of Proceedings PageThursday 27th June 1968. On Thursday the 27th the ship was listed 5... End of extract Hobart Fr...</p></details>
+   Link:<a href="https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html" target="_blank" rel="noopener noreferrer nofollow">https://hmashobartassqld.org/ship/ddg/deployment/2nddeploymentrops.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2nd Deployment Report of Proceedings PageThursday 27th June 1968. On Thursday the 27th the ship was listed 5... End of extract Hobart Fr...</p></details>
    Published: June 1968  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.navy.mil  
    Title: Naval History and Heritage Command H-019-1 Swift Boat Disappearance  
-   Link: <a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</p></details>
+   Link:<a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-019/h-019-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandH-019-1 Swift Boat Disappearance - NHHC - NavyJun 16, 2018 — PCF-19 was definitely hit by something sho...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hmashobartassqld.org  
    Title: Destroyer Articles of Interest Page  
-   Link: <a href="https://hmashobartassqld.org/ship/ddg/destroyerarticles.html" target="_blank" rel="noopener noreferrer nofollow">https://hmashobartassqld.org/ship/ddg/destroyerarticles.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>attack by North Vietnamese Helicopters on 16 June 1968. The initially &quot;unidentified hovering aircraft&quot; had sunk PCF-19, and PCF-12 had be...</p></details>
+   Link:<a href="https://hmashobartassqld.org/ship/ddg/destroyerarticles.html" target="_blank" rel="noopener noreferrer nofollow">https://hmashobartassqld.org/ship/ddg/destroyerarticles.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attack by North Vietnamese Helicopters on 16 June 1968. The initially &quot;unidentified hovering aircraft&quot; had sunk PCF-19, and PCF-12 had be...</p></details>
    Published: June 1968  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yowiehunters.net  
-   Link: <a href="https://yowiehunters.net/viewtopic.php?t=6428" target="_blank" rel="noopener noreferrer nofollow">https://yowiehunters.net/viewtopic.php?t=6428</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attack on USS Boston and HMAS Hobart Vietnam War.Aug 28, 2019 — A video called UFO Conspiracy - In Search Of The Truth it tells of a...</p></details>
+   Link:<a href="https://yowiehunters.net/viewtopic.php?t=6428" target="_blank" rel="noopener noreferrer nofollow">https://yowiehunters.net/viewtopic.php?t=6428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attack on USS Boston and HMAS Hobart Vietnam War.Aug 28, 2019 — A video called UFO Conspiracy - In Search Of The Truth it tells of a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: defence-honours-tribunal.gov.au  
-   Link: <a href="https://defence-honours-tribunal.gov.au/wp-content/uploads/2011/05/AF13051933.pdf" target="_blank" rel="noopener noreferrer nofollow">https://defence-honours-tribunal.gov.au/wp-content/uploads/2011/05/AF13051933.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report of the Inquiry into unresolved recognition for...May 31, 2011 — The Terms of Reference for the Inquiry into Unresolved Recogn...</p></details>
+   Link:<a href="https://defence-honours-tribunal.gov.au/wp-content/uploads/2011/05/AF13051933.pdf" target="_blank" rel="noopener noreferrer nofollow">https://defence-honours-tribunal.gov.au/wp-content/uploads/2011/05/AF13051933.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report of the Inquiry into unresolved recognition for...May 31, 2011 — The Terms of Reference for the Inquiry into Unresolved Recogn...</p></details>
    Published: May 31, 2011  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: seapower.navy.gov.au  
    Title: navy.gov.au HMA S Hobart (III)  
-   Link: <a href="https://seapower.navy.gov.au/history/units/hmas-hobart-iii" target="_blank" rel="noopener noreferrer nofollow">https://seapower.navy.gov.au/history/units/hmas-hobart-iii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hobart (III) - Sea Power CentreHobart (III) was the first of three ships of the Hobart class guided missile destroyers. Ships of the same...</p></details>
+   Link:<a href="https://seapower.navy.gov.au/history/units/hmas-hobart-iii" target="_blank" rel="noopener noreferrer nofollow">https://seapower.navy.gov.au/history/units/hmas-hobart-iii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hobart (III) - Sea Power CentreHobart (III) was the first of three ships of the Hobart class guided missile destroyers. Ships of the same...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: seapower.navy.gov.au  
    Title: navy.gov.au Missing Pieces  
-   Link: <a href="https://seapower.navy.gov.au/sites/default/files/2023-02/PIAMA25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://seapower.navy.gov.au/sites/default/files/2023-02/PIAMA25.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces: - Sea Power Centreand HMAS Hobart but this was useful only for detecting aircraft, and the war diaries... association with the A...</p></details>
+   Link:<a href="https://seapower.navy.gov.au/sites/default/files/2023-02/PIAMA25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://seapower.navy.gov.au/sites/default/files/2023-02/PIAMA25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces: - Sea Power Centreand HMAS Hobart but this was useful only for detecting aircraft, and the war diaries... association with the A...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: navyhistory.au  
    Title: 17 june 1968  
-   Link: <a href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/17-june-1968/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</p></details>
+   Link:<a href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/17-june-1968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</p></details>
    Published: june 1968  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: navyhistory.au  
    Title: Naval Historical Society of Australia HMAS Hobart II Archives  
-   Link: <a href="https://navyhistory.au/ranships/hmas-hobart-ii/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/ranships/hmas-hobart-ii/page/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Historical Society of AustraliaHMAS Hobart II Archives - Page 2 of 3HMAS HOBART, (guided missile destroyer), was awarded the US Pre...</p></details>
+   Link:<a href="https://navyhistory.au/ranships/hmas-hobart-ii/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://navyhistory.au/ranships/hmas-hobart-ii/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Historical Society of AustraliaHMAS Hobart II Archives - Page 2 of 3HMAS HOBART, (guided missile destroyer), was awarded the US Pre...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thinkaboutitdocs.com  
    Title: navy ship hmas hobart hit during vietnam ufo encounter  
-   Link: <a href="https://www.thinkaboutitdocs.com/navy-ship-hmas-hobart-hit-during-vietnam-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/navy-ship-hmas-hobart-hit-during-vietnam-ufo-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1968: Navy ship HMAS Hobart hit during Vietnam UFO...In June 1968 Australia was dismayed by the news that the guided...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/navy-ship-hmas-hobart-hit-during-vietnam-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/navy-ship-hmas-hobart-hit-during-vietnam-ufo-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1968: Navy ship HMAS Hobart hit during Vietnam UFO...In June 1968 Australia was dismayed by the news that the guided...</p></details>
    Published: June 1968  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: buzzsprout.com  
    Title: Ep 38 HMAS Hobart  
-   Link: <a href="https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart" target="_blank" rel="noopener noreferrer nofollow">https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 38 HMAS Hobart - UFO&#x27;s and Aliens PodcastFeb 20, 2024 — In June of 1968 The Australian guided-missile destroyer HMAS Hobart...</p></details>
+   Link:<a href="https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart" target="_blank" rel="noopener noreferrer nofollow">https://www.buzzsprout.com/2165359/episodes/14524873-ep-38-hmas-hobart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 38 HMAS Hobart - UFO&#x27;s and Aliens PodcastFeb 20, 2024 — In June of 1968 The Australian guided-missile destroyer HMAS Hobart...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: The Hobart Incident  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/5tw7w2/case_review_the_hobart_incident_to_my_knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/5tw7w2/case_review_the_hobart_incident_to_my_knowledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To my knowledge the only UFO...The official story is that in June 68 during the height of the Vietnam war. A friendly fire incident invo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/5tw7w2/case_review_the_hobart_incident_to_my_knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/5tw7w2/case_review_the_hobart_incident_to_my_knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To my knowledge the only UFO...The official story is that in June 68 during the height of the Vietnam war. A friendly fire incident invo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faaaa.asn.au  
-   Link: <a href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</p></details>
+   Link:<a href="https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faaaa.asn.au/wp-content/uploads/2014/08/We-Envy-No-Man-On-Earth-Because-We-Fly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian War Memorial, &#x27;War in the Air: The Royal Australian Air Force in...Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: 17 june 1968at 0300 the destroyer hmas hobart capt k w shands ran was accidental  
-   Link: <a href="https://www.facebook.com/navalassociationaustraliaqld/posts/17-june-1968at-0300-the-destroyer-hmas-hobart-capt-k-w-shands-ran-was-accidental/1166637032164551/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/navalassociationaustraliaqld/posts/17-june-1968at-0300-the-destroyer-hmas-hobart-capt-k-w-shands-ran-was-accidental/1166637032164551/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 June 1968 At 0300 the destroyer HMAS HOBART...The destroyer HMAS HOBART, (CAPT KW Shands, RAN), was accidentally attacked by a US Air...</p></details>
+   Link:<a href="https://www.facebook.com/navalassociationaustraliaqld/posts/17-june-1968at-0300-the-destroyer-hmas-hobart-capt-k-w-shands-ran-was-accidental/1166637032164551/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/navalassociationaustraliaqld/posts/17-june-1968at-0300-the-destroyer-hmas-hobart-capt-k-w-shands-ran-was-accidental/1166637032164551/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 June 1968 At 0300 the destroyer HMAS HOBART...The destroyer HMAS HOBART, (CAPT KW Shands, RAN), was accidentally attacked by a US Air...</p></details>
    Published: June 1968  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: 18 october 1973upi and ap issued a press release quoting general brown us air fo  
-   Link: <a href="https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Brown, US Air Force Chief-of-StaffIn June 1968 Australia was dismayed by the news that the guided-missile destroyer HMAS Hobart h...</p></details>
+   Link:<a href="https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/navalassociationaustraliaqld/posts/18-october-1973upi-and-ap-issued-a-press-release-quoting-general-brown-us-air-fo/1273360458158874/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Brown, US Air Force Chief-of-StaffIn June 1968 Australia was dismayed by the news that the guided-missile destroyer HMAS Hobart h...</p></details>
    Published: June 1968  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: 27 june 1968 the ran guided missile destroyer hmas hobart ii d39 is on its secon  
-   Link: <a href="https://www.facebook.com/AWMemorial/posts/27-june-1968-the-ran-guided-missile-destroyer-hmas-hobart-ii-d39-is-on-its-secon/1108770081298238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AWMemorial/posts/27-june-1968-the-ran-guided-missile-destroyer-hmas-hobart-ii-d39-is-on-its-secon/1108770081298238/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RAN guided missile destroyer HMAS...The RAN guided missile destroyer HMAS Hobart (II) D39 is on its second deployment in the Vietnam...</p></details>
+   Link:<a href="https://www.facebook.com/AWMemorial/posts/27-june-1968-the-ran-guided-missile-destroyer-hmas-hobart-ii-d39-is-on-its-secon/1108770081298238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AWMemorial/posts/27-june-1968-the-ran-guided-missile-destroyer-hmas-hobart-ii-d39-is-on-its-secon/1108770081298238/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RAN guided missile destroyer HMAS...The RAN guided missile destroyer HMAS Hobart (II) D39 is on its second deployment in the Vietnam...</p></details>
    Published: june 1968  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USNHistory/posts/weirdwednesday-shortly-after-midnight-on-16-june-1968-according-to-witnesses-the/888095753358513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USNHistory/posts/weirdwednesday-shortly-after-midnight-on-16-june-1968-according-to-witnesses-the/888095753358513/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shortly after midnight on 16 June 1968...In June 1968, Australia was shocked to learn that the guided-missile destroyer HMAS Hobart was...</p></details>
+   Link:<a href="https://www.facebook.com/USNHistory/posts/weirdwednesday-shortly-after-midnight-on-16-june-1968-according-to-witnesses-the/888095753358513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USNHistory/posts/weirdwednesday-shortly-after-midnight-on-16-june-1968-according-to-witnesses-the/888095753358513/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shortly after midnight on 16 June 1968...In June 1968, Australia was shocked to learn that the guided-missile destroyer HMAS Hobart was...</p></details>
    Published: june 1968  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: usni.org  
-   Link: <a href="https://www.usni.org/magazines/naval-history-magazine/1998/june/friendly-target" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/1998/june/friendly-target</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friendly Target | Naval History Magazine - June 1998...&quot;Friendly fire, isn&#x27;t&quot; is a maxim used to hide a multitude of human failings...</p></details>
+   Link:<a href="https://www.usni.org/magazines/naval-history-magazine/1998/june/friendly-target" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/1998/june/friendly-target</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friendly Target | Naval History Magazine - June 1998...&quot;Friendly fire, isn&#x27;t&quot; is a maxim used to hide a multitude of human failings...</p></details>
    Published: June 1998  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mpnews.com.au  
    Title: Vietnam tribute to victims of 'friendly-fire' attack  
-   Link: <a href="https://www.mpnews.com.au/2018/08/13/vietnam-tribute-to-victims-of-friendly-fire-attack/" target="_blank" rel="noopener noreferrer nofollow">https://www.mpnews.com.au/2018/08/13/vietnam-tribute-to-victims-of-friendly-fire-attack/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Aug 2018 — The mysterious Sparrow-type, three-missile attack, made in error during the Vietnam war by US Phantom jets on 17 June...</p></details>
+   Link:<a href="https://www.mpnews.com.au/2018/08/13/vietnam-tribute-to-victims-of-friendly-fire-attack/" target="_blank" rel="noopener noreferrer nofollow">https://www.mpnews.com.au/2018/08/13/vietnam-tribute-to-victims-of-friendly-fire-attack/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Aug 2018 — The mysterious Sparrow-type, three-missile attack, made in error during the Vietnam war by US Phantom jets on 17 June...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalinterest.org  
    Title: Friendly fire casualties were common in the Vietnam War.Read more  
-   Link: <a href="https://nationalinterest.org/blog/reboot/why-did-american-fighter-jet-attack-australian-ship-1968-178612/" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/reboot/why-did-american-fighter-jet-attack-australian-ship-1968-178612/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did an American Fighter Jet Attack This Australian...Feb 23, 2021 — Here&#x27;s What You Need to Know: The mistaken attack killed three A...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/reboot/why-did-american-fighter-jet-attack-australian-ship-1968-178612/" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/reboot/why-did-american-fighter-jet-attack-australian-ship-1968-178612/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did an American Fighter Jet Attack This Australian...Feb 23, 2021 — Here&#x27;s What You Need to Know: The mistaken attack killed three A...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AustralianPeacekeepers/posts/fifty-seven-years-ago-today-hmas-hobart-one-of-australias-most-advanced-warships/703379079002877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AustralianPeacekeepers/posts/fifty-seven-years-ago-today-hmas-hobart-one-of-australias-most-advanced-warships/703379079002877/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rther attack run. At 8000 yards the crew of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AustralianPeacekeepers/posts/fifty-seven-years-ago-today-hmas-hobart-one-of-australias-most-advanced-warships/703379079002877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AustralianPeacekeepers/posts/fifty-seven-years-ago-today-hmas-hobart-one-of-australias-most-advanced-warships/703379079002877/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rther attack run. At 8000 yards the crew of...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: monumentaustralia.org  
    Title: 52000 h.m.a.s. hobart  
-   Link: <a href="https://www.monumentaustralia.org/themes/conflict/multiple/display/52000-h.m.a.s.-hobart" target="_blank" rel="noopener noreferrer nofollow">https://www.monumentaustralia.org/themes/conflict/multiple/display/52000-h.m.a.s.-hobart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>H.M.A.S. HobartDuring the 1968 tour, the destroyer was attacked by a United States Air Force aircraft. After the Vietnam War, Hobart saw...</p></details>
+   Link:<a href="https://www.monumentaustralia.org/themes/conflict/multiple/display/52000-h.m.a.s.-hobart" target="_blank" rel="noopener noreferrer nofollow">https://www.monumentaustralia.org/themes/conflict/multiple/display/52000-h.m.a.s.-hobart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>H.M.A.S. HobartDuring the 1968 tour, the destroyer was attacked by a United States Air Force aircraft. After the Vietnam War, Hobart saw...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: HMAS Hobart (D 39)  
-   Link: <a href="https://en.wikipedia.org/wiki/HMAS_Hobart_%28D_39%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMAS_Hobart_%28D_39%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HMAS Hobart (D 39)HMAS Hobart (D 39) was a Perth-class guided missile destroyer of the Royal Australian Navy (RAN). Built in the Unite...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/HMAS_Hobart_%28D_39%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HMAS_Hobart_%28D_39%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HMAS Hobart (D 39)HMAS Hobart (D 39) was a Perth-class guided missile destroyer of the Royal Australian Navy (RAN). Built in the Unite...</p></details>

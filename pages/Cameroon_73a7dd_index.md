@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cameroon-73a7dd-index/
 description: Focused pages that expand on What Do Cameroon's UFO Stories Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Cameroon_73a7dd
 parent_title: What Do Cameroon's UFO Stories Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-cameroons-ufo-stories-really/
 
 # Explore Topics in What Do Cameroon's UFO Stories Really Show?
 
-The following pages expand on the main **[What Do Cameroon's UFO Stories Really Show?]({{ '/what-do-cameroons-ufo-stories-really/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do Cameroon's UFO Stories Really Show?]({{ '/what-do-cameroons-ufo-stories-really/' | relative_url }})** page and cover its key branches in.
 
 - [Evidence Gap]({{ '/evidence-gap/' | relative_url }})
 - [Douala Circle]({{ '/douala-circle/' | relative_url }})

@@ -257,11 +257,11 @@ image: /assets/images/Democratic_People_s_808714_evidence_limitations_4eb133-Ill
 Reliable UFO documentation in North Korea is exceptionally rare, not because unusual aerial reports are impossible, but because the country’s political and military systems suppress nearly every mechanism that normally produces public sighting records. In most countries, UFO claims spread through local newspapers, amateur astronomy groups, civilian aviation logs, social media, police reports or independent investigators. In the [Democratic People]({{ 'democratic-people-s-republic-of-korea/' | relative_url }})’s Republic of Korea, those channels barely exist in any independent form. The result is a record dominated by wartime military observations, foreign intelligence reporting and border incidents rather than open civilian testimony.
 
 <img src="{{ "/assets/images/Democratic_People_s_808714_evidence_limitations_4eb133-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Limitations illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_evidence_limitations_4eb133-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_evidence_limitations_4eb133-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This scarcity matters when evaluating alleged UFO activity connected to North Korea. A lack of reports does not necessarily indicate a lack of sightings. Instead, it reflects a tightly controlled information environment in which unexplained aerial events are usually absorbed into state security structures before they can become public discussion. The same conditions that restrict journalism, foreign observation and civilian movement also make independent UFO research almost impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</span></span></span>
+This scarcity matters when evaluating alleged UFO activity connected to North Korea. A lack of reports does not necessarily indicate a lack of sightings. Instead, it reflects a tightly controlled information environment in which unexplained aerial events are usually absorbed into state security structures before they can become public discussion. The same conditions that restrict journalism, foreign observation and civilian movement also make independent UFO research almost impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</span></span></span>
 
 ## Why North Korea Produces So Few Public UFO Reports
 
-North Korea differs from most countries in one crucial respect: there is effectively no open civilian reporting culture around unexplained events. The state controls newspapers, broadcasting, telecommunications and internet access, while independent journalism is prohibited. Reporters Without Borders describes the Korean Central News Agency as the regime’s central information source and states that independent reporting is strictly banned. Even foreign correspondents allowed inside the country operate under close supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</span></span></span>
+North Korea differs from most countries in one crucial respect: there is effectively no open civilian reporting culture around unexplained events. The state controls newspapers, broadcasting, telecommunications and internet access, while independent journalism is prohibited. Reporters Without Borders describes the Korean Central News Agency as the regime’s central information source and states that independent reporting is strictly banned. Even foreign correspondents allowed inside the country operate under close supervision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Reporters Without Borders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</span></span></span>
 
 That has direct consequences for UFO documentation. In countries with freer media systems, a strange object in the sky might generate:
 
@@ -277,7 +277,7 @@ That has direct consequences for UFO documentation. In countries with freer medi
 
 </div>
 
-In North Korea, almost all of those pathways are blocked. Citizens cannot freely publish claims online, organise independent research groups or contact foreign investigators without severe personal risk. Foreign media access is also highly restricted, making outside verification difficult. Human Rights Watch and other organisations repeatedly describe the state as maintaining “total control” over information and communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span>
+In North Korea, almost all of those pathways are blocked. Citizens cannot freely publish claims online, organise independent research groups or contact foreign investigators without severe personal risk. Foreign media access is also highly restricted, making outside verification difficult. Human Rights Watch and other organisations repeatedly describe the state as maintaining “total control” over information and communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span>
 
 The result is a structural information vacuum. Even if unusual aerial events occur, very few become part of an accessible historical archive.
 
@@ -301,7 +301,7 @@ This matters because UFO reports thrive in environments where uncertainty can be
 
 For that reason, unexplained aerial observations are likely to be absorbed into military or security channels rather than released publicly.
 
-The wider climate of censorship reinforces this pattern. Human Rights Watch, Amnesty International and UN-linked reporting have documented expanding surveillance systems, severe punishment for unauthorised media consumption and intensified monitoring of communications under Kim Jong Un’s government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span>
+The wider climate of censorship reinforces this pattern. Human Rights Watch, Amnesty International and UN-linked reporting have documented expanding surveillance systems, severe punishment for unauthorised media consumption and intensified monitoring of communications under Kim Jong Un’s government.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span>
 
 In such an environment, ordinary citizens have little incentive to publicly discuss strange aerial sightings. Even harmless speculation could attract suspicion if interpreted as rumour-spreading, foreign influence or criticism of state control.
 
@@ -322,7 +322,7 @@ One of the biggest challenges for researchers is the near-total absence of acces
 
 </div>
 
-North Korea offers almost none of these publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/asia/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[hrw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-snippet">North Korea &#124; Country Page &#124; WorldRuled by third-generation totalitarian leader Kim Jong Un, the government maintains control through cru...</span></span></span>
+North Korea offers almost none of these publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/asia/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[hrw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-snippet">North Korea &#124; Country Page &#124; WorldRuled by third-generation totalitarian leader Kim Jong Un, the government maintains control through cru...</span></span></span>
 
 There is no known equivalent to the publicly released UFO files seen in the United States, United Kingdom or France. Nor are there known civilian skywatching organisations operating openly within the country. This means researchers cannot compare witness testimony against local documentation in the normal way.
 
@@ -332,7 +332,7 @@ As a result, many claims associated with North Korean UFOs rely heavily on secon
 
 ### Limited mobility limits witness networks
 
-North Korea’s internal travel restrictions also reduce the formation of large civilian witness communities. Movement inside the country has historically required state permission, particularly near military zones, coastal regions and strategic facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span>
+North Korea’s internal travel restrictions also reduce the formation of large civilian witness communities. Movement inside the country has historically required state permission, particularly near military zones, coastal regions and strategic facilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</span></span></span>
 
 This creates a major difference from countries where UFO waves spread through interconnected civilian observation networks. In North Korea:
 
@@ -351,7 +351,7 @@ The practical consequences are significant. UFO research often depends on compar
 
 ### Smartphone and internet controls reduce photographic evidence
 
-Modern UFO reporting worldwide is heavily shaped by smartphones, social media and rapid digital sharing. North Korea’s digital ecosystem functions very differently. Mobile phones operate on heavily restricted domestic networks, internet access is limited to elites and monitored institutions, and foreign media circulation is criminalised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://monitor.civicus.org/explore/north-korea-severe-punishment-for-watching-foreign-films-or-material-related-to-foreign-culture-and-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monitor.civicus.org">[Civicus Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monitor.civicus.org</span><span class="citation-popover-title">Monitor North Korea: Severe punishment for watching foreign films</span><span class="citation-popover-snippet">Civicus MonitorNorth Korea: Severe punishment for watching foreign films...May 14, 2026 — North Korea is one of the world&#x27;s most repress...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+Modern UFO reporting worldwide is heavily shaped by smartphones, social media and rapid digital sharing. North Korea’s digital ecosystem functions very differently. Mobile phones operate on heavily restricted domestic networks, internet access is limited to elites and monitored institutions, and foreign media circulation is criminalised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://monitor.civicus.org/explore/north-korea-severe-punishment-for-watching-foreign-films-or-material-related-to-foreign-culture-and-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monitor.civicus.org">[Civicus Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monitor.civicus.org</span><span class="citation-popover-title">Monitor North Korea: Severe punishment for watching foreign films</span><span class="citation-popover-snippet">Civicus MonitorNorth Korea: Severe punishment for watching foreign films...May 14, 2026 — North Korea is one of the world&#x27;s most repress...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 Because of these controls, even a genuine unexplained aerial sighting is unlikely to produce the flood of videos and photographs that would appear elsewhere.
 
@@ -378,7 +378,7 @@ The Korean Peninsula already has one of the world’s most militarised borders. 
 
 </div>
 
-Recent aviation and defence reporting has repeatedly highlighted heightened tensions over reconnaissance flights and drones near North Korean airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/north-korea/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Safe AirspaceNorth KoreaJuly 2023: North Korea is threatening to actively shoot down reconnaissance aircraft in their airspace. This may...</span><span class="citation-popover-meta">Published: July 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ospreyflightsolutions.com/casestudy/north-korea-airspace-concerns-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ospreyflightsolutions.com">[Osprey Flight Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ospreyflightsolutions.com</span><span class="citation-popover-title">north korea airspace concerns 2023</span><span class="citation-popover-snippet">North Korea: Airspace concerns in 2022 and 20238 Feb 2023 — In 2022, missile launches and weapons tests increased by 525% compared with 2...</span></span></span>
+Recent aviation and defence reporting has repeatedly highlighted heightened tensions over reconnaissance flights and drones near North Korean airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/north-korea/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">north korea</span><span class="citation-popover-snippet">Safe AirspaceNorth KoreaJuly 2023: North Korea is threatening to actively shoot down reconnaissance aircraft in their airspace. This may...</span><span class="citation-popover-meta">Published: July 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ospreyflightsolutions.com/casestudy/north-korea-airspace-concerns-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ospreyflightsolutions.com">[Osprey Flight Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ospreyflightsolutions.com</span><span class="citation-popover-title">north korea airspace concerns 2023</span><span class="citation-popover-snippet">North Korea: Airspace concerns in 2022 and 20238 Feb 2023 — In 2022, missile launches and weapons tests increased by 525% compared with 2...</span></span></span>
 
 Under these conditions, an “unidentified object” may remain unidentified only briefly before being folded into military analysis. Public disclosure is not the priority.
 
@@ -388,7 +388,7 @@ Under these conditions, an “unidentified object” may remain unidentified onl
 
 Some modern incidents initially described as unidentified objects near Korea later turned out to involve birds, drones or balloons. This pattern complicates attempts to identify genuinely anomalous events.
 
-The Korean Peninsula’s tense security environment encourages rapid military responses to uncertain radar tracks or visual sightings. A notable example occurred when South Korean authorities investigated unidentified objects later attributed to birds or possible civilian drone activity connected to North Korea-related tensions. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsDrones flown into North Korea by civilians are harming...18 Feb 2026 — Chung Dong-young claimed three civilians had sent drones...</span></span></span>
+The Korean Peninsula’s tense security environment encourages rapid military responses to uncertain radar tracks or visual sightings. A notable example occurred when South Korean authorities investigated unidentified objects later attributed to birds or possible civilian drone activity connected to North Korea-related tensions. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsDrones flown into North Korea by civilians are harming...18 Feb 2026 — Chung Dong-young claimed three civilians had sent drones...</span></span></span>
 
 This does not mean all unidentified sightings are easily explained. Instead, it demonstrates why the North Korean UFO record is unusually difficult to interpret. In a highly militarised airspace, ordinary military ambiguity can generate reports that resemble classic UFO encounters.
 
@@ -402,7 +402,7 @@ Researchers therefore face a dual problem:
 Because domestic North Korean documentation is so limited, most surviving reports connected to the country come from outside observers. The strongest historical cases usually involve:
 
 * US military personnel during the Korean War,
-* South Korean military monitoring, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/alarabiya.english/posts/south-korean-authorities-have-launched-an-investigation-focused-on-the-possibili/1312058310959186/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">South Korean authorities have launched an investig&quot;South Korea&#x27;s military says a flock of birds prompted it to alert journalists...</span></span></span>
+* South Korean military monitoring,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/alarabiya.english/posts/south-korean-authorities-have-launched-an-investigation-focused-on-the-possibili/1312058310959186/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">South Korean authorities have launched an investig&quot;South Korea&#x27;s military says a flock of birds prompted it to alert journalists...</span></span></span>
 * foreign intelligence reporting,
 * or international aviation concerns.
 
@@ -452,194 +452,194 @@ This is a common problem in UFO research generally, but it becomes especially se
 That is why the strongest conclusions about North Korean UFO records are usually cautious ones. The available evidence supports the view that the country’s political controls, military secrecy and restricted information environment sharply reduce the visibility of unexplained aerial events. What remains is a fragmented archive shaped more by state repression and border militarisation than by open civilian observation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are UFO Records So Sparse in North Korea?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are UFO Records So Sparse in North Korea?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows what evidence standards are normally available in open societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows what evidence standards are normally available in open societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Highlights how documentation quality shapes UFO research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights how documentation quality shapes UFO research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
+</h4>
+<p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Koreans, Social conditions, Case studies, Economic conditions, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Koreans, Social conditions, Case studies, Economic conditions, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without you, there is no us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7320315-M.jpg" alt="Cover for Without you, there is no us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
-        </h4>
-        <p class="fr-book-author">By Suki Kim</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without you, there is no us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7320315-M.jpg" alt="Cover for Without you, there is no us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
+</h4>
+<p class="fr-book-author">By Suki Kim</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Politics and government, Elite (Social sciences), Social conditions, Education and state, Biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Politics and government, Elite (Social sciences), Social conditions, Education and state, Biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+to+envy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing to envy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+to+envy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing to envy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-ufo-records-so-sparse-in-north-korea-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-ufo-records-so-sparse-in-north-korea-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ That is why the strongest conclusions about North Korean UFO records are usually
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ That is why the strongest conclusions about North Korean UFO records are usually
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ That is why the strongest conclusions about North Korean UFO records are usually
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ That is why the strongest conclusions about North Korean UFO records are usually
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ That is why the strongest conclusions about North Korean UFO records are usually
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -842,205 +842,204 @@ That is why the strongest conclusions about North Korean UFO records are usually
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: monitor.civicus.org  
    Title: Monitor North Korea: Severe punishment for watching foreign films  
-   Link: <a href="https://monitor.civicus.org/explore/north-korea-severe-punishment-for-watching-foreign-films-or-material-related-to-foreign-culture-and-religion/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/north-korea-severe-punishment-for-watching-foreign-films-or-material-related-to-foreign-culture-and-religion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civicus MonitorNorth Korea: Severe punishment for watching foreign films...May 14, 2026 — North Korea is one of the world&#x27;s most repress...</p></details>
+   Link:<a href="https://monitor.civicus.org/explore/north-korea-severe-punishment-for-watching-foreign-films-or-material-related-to-foreign-culture-and-religion/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/north-korea-severe-punishment-for-watching-foreign-films-or-material-related-to-foreign-culture-and-religion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civicus MonitorNorth Korea: Severe punishment for watching foreign films...May 14, 2026 — North Korea is one of the world&#x27;s most repress...</p></details>
    Published: May 14, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/south-korean-authorities-have-launched-an-investigation-focused-on-the-possibili/1312058310959186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/south-korean-authorities-have-launched-an-investigation-focused-on-the-possibili/1312058310959186/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean authorities have launched an investig&quot;South Korea&#x27;s military says a flock of birds prompted it to alert journalists...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/south-korean-authorities-have-launched-an-investigation-focused-on-the-possibili/1312058310959186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/south-korean-authorities-have-launched-an-investigation-focused-on-the-possibili/1312058310959186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean authorities have launched an investig&quot;South Korea&#x27;s military says a flock of birds prompted it to alert journalists...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsDrones flown into North Korea by civilians are harming...18 Feb 2026 — Chung Dong-young claimed three civilians had sent drones...</p></details>
+   Link:<a href="https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/drones-flown-into-north-korea-by-civilians-are-harming-relations-says-south-korea-13508998</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsDrones flown into North Korea by civilians are harming...18 Feb 2026 — Chung Dong-young claimed three civilians had sent drones...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: amnesty.tw  
    Title: POL1003202026ENGLISH 1  
-   Link: <a href="https://www.amnesty.tw/sites/default/files/news/files/POL1003202026ENGLISH-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.tw/sites/default/files/news/files/POL1003202026ENGLISH-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The State of the World&#x27;s Human RightsApr 3, 2026 — It includes entries on countries or territories whose human rights situation Amnesty...</p></details>
+   Link:<a href="https://www.amnesty.tw/sites/default/files/news/files/POL1003202026ENGLISH-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.tw/sites/default/files/news/files/POL1003202026ENGLISH-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The State of the World&#x27;s Human RightsApr 3, 2026 — It includes entries on countries or territories whose human rights situation Amnesty...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: 2021-2025.state.gov  
-   Link: <a href="https://2021-2025.state.gov/report/custom/dca979a2cb/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/dca979a2cb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rights Reports: Custom Report ExcerptsThe Ministry of Commerce and Industry may ban any media organization at the request of the Ministry...</p></details>
+   Link:<a href="https://2021-2025.state.gov/report/custom/dca979a2cb/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/report/custom/dca979a2cb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rights Reports: Custom Report ExcerptsThe Ministry of Commerce and Industry may ban any media organization at the request of the Ministry...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: state.gov  
-   Link: <a href="https://www.state.gov/report/custom/480b27c140" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/report/custom/480b27c140</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Democratic People&#x27;s Republic of KoreaThe constitution provides for freedom of expression, including for the press, but the government pro...</p></details>
+   Link:<a href="https://www.state.gov/report/custom/480b27c140" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/report/custom/480b27c140</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Democratic People&#x27;s Republic of KoreaThe constitution provides for freedom of expression, including for the press, but the government pro...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rapplerdotcom/posts/the-philippines-received-its-highest-ranking-in-21-years-on-the-reporters-withou/1194113512750715/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/the-philippines-received-its-highest-ranking-in-21-years-on-the-reporters-withou/1194113512750715/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ant threats.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/rapplerdotcom/posts/the-philippines-received-its-highest-ranking-in-21-years-on-the-reporters-withou/1194113512750715/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/the-philippines-received-its-highest-ranking-in-21-years-on-the-reporters-withou/1194113512750715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ant threats.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the U.S. military finally coming around to the idea that alien spacecraft are visiting our planet?Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the U.S. military finally coming around to the idea that alien spacecraft are visiting our planet?Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rapplerdotcom/posts/rsf-asia-pacific-advocacy-manager-aleksandra-bielakowska-explains-how-economic-f/1194715236023876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/rsf-asia-pacific-advocacy-manager-aleksandra-bielakowska-explains-how-economic-f/1194715236023876/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ant threats.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/rapplerdotcom/posts/rsf-asia-pacific-advocacy-manager-aleksandra-bielakowska-explains-how-economic-f/1194715236023876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/rsf-asia-pacific-advocacy-manager-aleksandra-bielakowska-explains-how-economic-f/1194715236023876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ant threats.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amnesty.org  
-   Link: <a href="https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/north-korea/report-korea-democratic-peoples-republic-of/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/north-korea/report-korea-democratic-peoples-republic-of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human rights in North KoreaPeople with disabilities faced systemic discrimination, violence and abuse. Background. Under the ongoing rule...</p></details>
+   Link:<a href="https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/north-korea/report-korea-democratic-peoples-republic-of/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/north-korea/report-korea-democratic-peoples-republic-of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human rights in North KoreaPeople with disabilities faced systemic discrimination, violence and abuse. Background. Under the ongoing rule...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: monitor.civicus.org  
-   Link: <a href="https://monitor.civicus.org/explore/north-korea-regime-maintains-its-control-of-society-through-bans-on-foreign-media-and-cross-border-communications-surveillance-and-repressive-laws/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/north-korea-regime-maintains-its-control-of-society-through-bans-on-foreign-media-and-cross-border-communications-surveillance-and-repressive-laws/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea: Regime maintains its control of society...31 Jan 2025 — North Korea is one of the world&#x27;s most repressive states, where civic spa...</p></details>
+   Link:<a href="https://monitor.civicus.org/explore/north-korea-regime-maintains-its-control-of-society-through-bans-on-foreign-media-and-cross-border-communications-surveillance-and-repressive-laws/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/north-korea-regime-maintains-its-control-of-society-through-bans-on-foreign-media-and-cross-border-communications-surveillance-and-repressive-laws/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea: Regime maintains its control of society...31 Jan 2025 — North Korea is one of the world&#x27;s most repressive states, where civic spa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: monitor.civicus.org  
-   Link: <a href="https://monitor.civicus.org/explore/north-korea-laws-used-to-crack-down-on-access-to-foreign-media-and-mobile-phones-with-harsh-punishments/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/north-korea-laws-used-to-crack-down-on-access-to-foreign-media-and-mobile-phones-with-harsh-punishments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea: Laws used to crack down on access to foreign...Sep 26, 2024 — In recent months, individuals have been arrested and punished sever...</p></details>
+   Link:<a href="https://monitor.civicus.org/explore/north-korea-laws-used-to-crack-down-on-access-to-foreign-media-and-mobile-phones-with-harsh-punishments/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.civicus.org/explore/north-korea-laws-used-to-crack-down-on-access-to-foreign-media-and-mobile-phones-with-harsh-punishments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea: Laws used to crack down on access to foreign...Sep 26, 2024 — In recent months, individuals have been arrested and punished sever...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rsf.org  
    Title: 2026 rsf index press freedom 25 year low  
-   Link: <a href="https://rsf.org/en/2026-rsf-index-press-freedom-25-year-low" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/2026-rsf-index-press-freedom-25-year-low</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without Borders2026 RSF Index: press freedom at a 25-year low30 Apr 2026 — This is the case in China (178th), North Korea (179t...</p></details>
+   Link:<a href="https://rsf.org/en/2026-rsf-index-press-freedom-25-year-low" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/2026-rsf-index-press-freedom-25-year-low</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without Borders2026 RSF Index: press freedom at a 25-year low30 Apr 2026 — This is the case in China (178th), North Korea (179t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en/country/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/north-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersNorth KoreaThe regime tightly controls the production and distribution of information and strictly prohibits ind...</p></details>
+   Link:<a href="https://rsf.org/en/country/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/north-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersNorth KoreaThe regime tightly controls the production and distribution of information and strictly prohibits ind...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hrw.org  
    Title: north korea  
-   Link: <a href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2026/country-chapters/north-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</p></details>
+   Link:<a href="https://www.hrw.org/world-report/2026/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2026/country-chapters/north-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchWorld Report 2026: North KoreaA 2025 report from the United Nations Office of the High Commissioner for Human Rights (O...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hrw.org  
    Title: north korea  
-   Link: <a href="https://www.hrw.org/world-report/2025/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2025/country-chapters/north-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchWorld Report 2025: North KoreaNorth Korea maintains fearful obedience through arbitrary punishments, torture, execution...</p></details>
+   Link:<a href="https://www.hrw.org/world-report/2025/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2025/country-chapters/north-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchWorld Report 2025: North KoreaNorth Korea maintains fearful obedience through arbitrary punishments, torture, execution...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hrw.org  
    Title: north korea party congress set to bolster repression  
-   Link: <a href="https://www.hrw.org/news/2026/02/20/north-korea-party-congress-set-to-bolster-repression" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2026/02/20/north-korea-party-congress-set-to-bolster-repression</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchNorth Korea: Party Congress Set to Bolster Repression20 Feb 2026 — North Korea&#x27;s ninth Party Congress started on Februa...</p></details>
+   Link:<a href="https://www.hrw.org/news/2026/02/20/north-korea-party-congress-set-to-bolster-repression" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2026/02/20/north-korea-party-congress-set-to-bolster-repression</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchNorth Korea: Party Congress Set to Bolster Repression20 Feb 2026 — North Korea&#x27;s ninth Party Congress started on Februa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hrw.org  
    Title: north korea lost decade of rights abuses  
-   Link: <a href="https://www.hrw.org/news/2025/09/16/north-korea-lost-decade-of-rights-abuses" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/09/16/north-korea-lost-decade-of-rights-abuses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchNorth Korea: &#x27;Lost Decade&#x27; of Rights Abuses16 Sept 2025 — A new United Nations report finds that the North Korean gover...</p></details>
+   Link:<a href="https://www.hrw.org/news/2025/09/16/north-korea-lost-decade-of-rights-abuses" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/09/16/north-korea-lost-decade-of-rights-abuses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchNorth Korea: &#x27;Lost Decade&#x27; of Rights Abuses16 Sept 2025 — A new United Nations report finds that the North Korean gover...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hrw.org  
    Title: north korea no easing systemic rights abuses  
-   Link: <a href="https://www.hrw.org/news/2025/01/16/north-korea-no-easing-systemic-rights-abuses" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/01/16/north-korea-no-easing-systemic-rights-abuses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchNorth Korea: No Easing of Systemic Rights Abuses16 Jan 2025 — North Korea&#x27;s government under Kim Jong Un in 2024 retain...</p></details>
+   Link:<a href="https://www.hrw.org/news/2025/01/16/north-korea-no-easing-systemic-rights-abuses" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/01/16/north-korea-no-easing-systemic-rights-abuses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Rights WatchNorth Korea: No Easing of Systemic Rights Abuses16 Jan 2025 — North Korea&#x27;s government under Kim Jong Un in 2024 retain...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: safeairspace.net  
    Title: north korea  
-   Link: <a href="https://safeairspace.net/north-korea/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/north-korea/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceNorth KoreaJuly 2023: North Korea is threatening to actively shoot down reconnaissance aircraft in their airspace. This may...</p></details>
+   Link:<a href="https://safeairspace.net/north-korea/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/north-korea/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceNorth KoreaJuly 2023: North Korea is threatening to actively shoot down reconnaissance aircraft in their airspace. This may...</p></details>
    Published: July 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ospreyflightsolutions.com  
    Title: north korea airspace concerns 2023  
-   Link: <a href="https://www.ospreyflightsolutions.com/casestudy/north-korea-airspace-concerns-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ospreyflightsolutions.com/casestudy/north-korea-airspace-concerns-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Korea: Airspace concerns in 2022 and 20238 Feb 2023 — In 2022, missile launches and weapons tests increased by 525% compared with 2...</p></details>
+   Link:<a href="https://www.ospreyflightsolutions.com/casestudy/north-korea-airspace-concerns-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ospreyflightsolutions.com/casestudy/north-korea-airspace-concerns-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Korea: Airspace concerns in 2022 and 20238 Feb 2023 — In 2022, missile launches and weapons tests increased by 525% compared with 2...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en/reporters-without-borders-denounces-ministers-criticism-media-exposing-army-bullying" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/reporters-without-borders-denounces-ministers-criticism-media-exposing-army-bullying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without Borders denounces minister&#x27;s criticism...Feb 17, 2006 — Reporters Without Borders condemns defence minister Sergei Iva...</p></details>
+   Link:<a href="https://rsf.org/en/reporters-without-borders-denounces-ministers-criticism-media-exposing-army-bullying" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/reporters-without-borders-denounces-ministers-criticism-media-exposing-army-bullying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without Borders denounces minister&#x27;s criticism...Feb 17, 2006 — Reporters Without Borders condemns defence minister Sergei Iva...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Human" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Human</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HumanHumans are the most abundant and widespread species of primates, characterized by bipedality, hairlessness, and large, complex br...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Human" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Human</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HumanHumans are the most abundant and widespread species of primates, characterized by bipedality, hairlessness, and large, complex br...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Reporters Without Borders  
-   Link: <a href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reporters_Without_Borders</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reporters_Without_Borders" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reporters_Without_Borders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters Without BordersRSF lobbies governments and international bodies to adopt standards and legislation in support of media freed...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hrw.org  
-   Link: <a href="https://www.hrw.org/asia/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/asia/north-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Korea | Country Page | WorldRuled by third-generation totalitarian leader Kim Jong Un, the government maintains control through cru...</p></details>
+   Link:<a href="https://www.hrw.org/asia/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/asia/north-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Korea | Country Page | WorldRuled by third-generation totalitarian leader Kim Jong Un, the government maintains control through cru...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hrw.org  
    Title: north korea  
-   Link: <a href="https://www.hrw.org/world-report/2024/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2024/country-chapters/north-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Report 2024: North KoreaRuled by third-generation totalitarian leader Kim Jong Un, the government maintains fearful obedience by us...</p></details>
+   Link:<a href="https://www.hrw.org/world-report/2024/country-chapters/north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2024/country-chapters/north-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Report 2024: North KoreaRuled by third-generation totalitarian leader Kim Jong Un, the government maintains fearful obedience by us...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hrw.org  
-   Link: <a href="https://www.hrw.org/sites/default/files/related_material/northkorea_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/sites/default/files/related_material/northkorea_8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North KoreaNorth Koreans who seek to assert their rights are perceived to show insufficient reverence for supreme leader Kim Jong-Un or t...</p></details>
+   Link:<a href="https://www.hrw.org/sites/default/files/related_material/northkorea_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/sites/default/files/related_material/northkorea_8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North KoreaNorth Koreans who seek to assert their rights are perceived to show insufficient reverence for supreme leader Kim Jong-Un or t...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rsfsocialfinance.org  
-   Link: <a href="https://rsfsocialfinance.org/" target="_blank" rel="noopener noreferrer nofollow">https://rsfsocialfinance.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSF | Regenerative Social FinanceRSF is financing Sunwealth solar installations that will provide $5.8 million in lifetime energy savings...</p></details>
+   Link:<a href="https://rsfsocialfinance.org/" target="_blank" rel="noopener noreferrer nofollow">https://rsfsocialfinance.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSF | Regenerative Social FinanceRSF is financing Sunwealth solar installations that will provide $5.8 million in lifetime energy savings...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageReporters Without Borders promotes and defends the freedom to be informed and to inform others throughout the world. Based i...</p></details>
+   Link:<a href="https://rsf.org/en" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageReporters Without Borders promotes and defends the freedom to be informed and to inform others throughout the world. Based i...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: koreatimes.co.kr  
-   Link: <a href="https://www.koreatimes.co.kr/southkorea/20260123/3-civilian-suspects-banned-from-leaving-nation-over-alleged-drone-flights-to-n-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20260123/3-civilian-suspects-banned-from-leaving-nation-over-alleged-drone-flights-to-n-korea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 civilian suspects banned from leaving nation over...23 Jan 2026 — A joint team of police and military investigators has imposed travel...</p></details>
+   Link:<a href="https://www.koreatimes.co.kr/southkorea/20260123/3-civilian-suspects-banned-from-leaving-nation-over-alleged-drone-flights-to-n-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20260123/3-civilian-suspects-banned-from-leaving-nation-over-alleged-drone-flights-to-n-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 civilian suspects banned from leaving nation over...23 Jan 2026 — A joint team of police and military investigators has imposed travel...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nknews.org  
    Title: us extends ban on civilian planes entering north korean airspace for five years  
-   Link: <a href="https://www.nknews.org/2023/09/us-extends-ban-on-civilian-planes-entering-north-korean-airspace-for-five-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.nknews.org/2023/09/us-extends-ban-on-civilian-planes-entering-north-korean-airspace-for-five-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US extends ban on civilian planes entering North Korean...15 Sept 2023 — The US has extended its ban on civilian aircraft entering North...</p></details>
+   Link:<a href="https://www.nknews.org/2023/09/us-extends-ban-on-civilian-planes-entering-north-korean-airspace-for-five-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.nknews.org/2023/09/us-extends-ban-on-civilian-planes-entering-north-korean-airspace-for-five-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US extends ban on civilian planes entering North Korean...15 Sept 2023 — The US has extended its ban on civilian aircraft entering North...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reuters.com  
    Title: south korea probe drones north korea says violated its airspace 2026 01 12  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/south-korea-probe-drones-north-korea-says-violated-its-airspace-2026-01-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/south-korea-probe-drones-north-korea-says-violated-its-airspace-2026-01-12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea to probe drones North Korea says violated its...11 Jan 2026 — South Korean authorities have launched an investigation focuse...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/south-korea-probe-drones-north-korea-says-violated-its-airspace-2026-01-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/south-korea-probe-drones-north-korea-says-violated-its-airspace-2026-01-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea to probe drones North Korea says violated its...11 Jan 2026 — South Korean authorities have launched an investigation focuse...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rapidsupportforce.com  
-   Link: <a href="https://rapidsupportforce.com/en" target="_blank" rel="noopener noreferrer nofollow">https://rapidsupportforce.com/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Rapid Support ForcesThe Rapid Support Forces (RSF) are national military troops working under the command of the Commander in Chie...</p></details>
+   Link:<a href="https://rapidsupportforce.com/en" target="_blank" rel="noopener noreferrer nofollow">https://rapidsupportforce.com/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Rapid Support ForcesThe Rapid Support Forces (RSF) are national military troops working under the command of the Commander in Chie...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: hrw.org  
    Title: stronger than a bullet the closing of north korea 2018 2023  
-   Link: <a href="https://www.hrw.org/report/2024/03/07/a-sense-of-terror/stronger-than-a-bullet-the-closing-of-north-korea-2018-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/report/2024/03/07/a-sense-of-terror/stronger-than-a-bullet-the-closing-of-north-korea-2018-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“A Sense of Terror Stronger than a Bullet”7 Mar 2024 — Ruled by third-generation hereditary totalitarian leader Kim Jong Un, the North Ko...</p></details>
+   Link:<a href="https://www.hrw.org/report/2024/03/07/a-sense-of-terror/stronger-than-a-bullet-the-closing-of-north-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/report/2024/03/07/a-sense-of-terror/stronger-than-a-bullet-the-closing-of-north-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“A Sense of Terror Stronger than a Bullet”7 Mar 2024 — Ruled by third-generation hereditary totalitarian leader Kim Jong Un, the North Ko...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en/rsf-world-press-freedom-index-2025-economic-fragility-leading-threat-press-freedom" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/rsf-world-press-freedom-index-2025-economic-fragility-leading-threat-press-freedom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSF World Press Freedom Index 2025: economic fragility a...The economic indicator on the RSF World Press Freedom Index now stands at an...</p></details>
+   Link:<a href="https://rsf.org/en/rsf-world-press-freedom-index-2025-economic-fragility-leading-threat-press-freedom" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/rsf-world-press-freedom-index-2025-economic-fragility-leading-threat-press-freedom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSF World Press Freedom Index 2025: economic fragility a...The economic indicator on the RSF World Press Freedom Index now stands at an...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hrw.org  
    Title: north korea escapees describe covid linked repression  
-   Link: <a href="https://www.hrw.org/news/2025/03/05/north-korea-escapees-describe-covid-linked-repression" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/03/05/north-korea-escapees-describe-covid-linked-repression</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Korea: Escapees Describe Covid-Linked RepressionMar 5, 2025 — Kim Il Hyuk, who escaped from North Korea, speaks at the 55th session...</p></details>
+   Link:<a href="https://www.hrw.org/news/2025/03/05/north-korea-escapees-describe-covid-linked-repression" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/news/2025/03/05/north-korea-escapees-describe-covid-linked-repression</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Korea: Escapees Describe Covid-Linked RepressionMar 5, 2025 — Kim Il Hyuk, who escaped from North Korea, speaks at the 55th session...</p></details>

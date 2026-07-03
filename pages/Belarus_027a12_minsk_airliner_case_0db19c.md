@@ -254,14 +254,14 @@ image: /assets/images/Belarus_027a12_minsk_airliner_case_0db19c-Illustration-1-s
 
 ## Introduction
 
-The so-called Minsk airliner UFO of 7 September 1984 is one of the best-known aviation-related UFO stories connected to Belarus. It is also one of the strongest examples in the Soviet-era archive of how a dramatic sighting can evolve over time from a puzzling observation into a near-mythical encounter. The case involved an Aeroflot crew flying near Minsk before dawn who reported a bright, shape-changing luminous object apparently travelling alongside their aircraft. Later retellings added radar confirmation, multiple crews and suggestions of intelligent manoeuvring. Yet many researchers, including sceptical aerospace analyst James Oberg, argue that the event closely matches the visual effects of a distant missile or rocket launch viewed under unusual atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">JAMES OBERG. The...</span></span></span>
+The so-called Minsk airliner UFO of 7 September 1984 is one of the best-known aviation-related UFO stories connected to Belarus. It is also one of the strongest examples in the Soviet-era archive of how a dramatic sighting can evolve over time from a puzzling observation into a near-mythical encounter. The case involved an Aeroflot crew flying near Minsk before dawn who reported a bright, shape-changing luminous object apparently travelling alongside their aircraft. Later retellings added radar confirmation, multiple crews and suggestions of intelligent manoeuvring. Yet many researchers, including sceptical aerospace analyst James Oberg, argue that the event closely matches the visual effects of a distant missile or rocket launch viewed under unusual atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">JAMES OBERG. The...</span></span></span>
 
 <img src="{{ "/assets/images/Belarus_027a12_minsk_airliner_case_0db19c-Illustration-1-dark.svg" | relative_url }}" alt="Minsk Case illustration 1" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_minsk_airliner_case_0db19c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_minsk_airliner_case_0db19c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case matters because it sits at the intersection of Cold War secrecy, unreliable retelling, genuine pilot testimony and misunderstood aerospace phenomena. Unlike many Belarus-linked UFO stories, this one involved trained aircrew and entered international UFO literature. At the same time, it demonstrates how incomplete Soviet documentation and repeated retelling can enlarge a case far beyond the original evidence.
 
 ## What the crew reportedly saw
 
-The core incident took place during an Aeroflot flight travelling from the Belarusian Soviet Socialist Republic toward Estonia in the early hours of 7 September 1984. Accounts differ slightly depending on the source, but the central narrative is fairly consistent. Captain Igor Cherkashin and co-pilot Gennadi Lazurin reported seeing a luminous object to the right of the aircraft while approaching or departing the Minsk region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
+The core incident took place during an Aeroflot flight travelling from the Belarusian Soviet Socialist Republic toward Estonia in the early hours of 7 September 1984. Accounts differ slightly depending on the source, but the central narrative is fairly consistent. Captain Igor Cherkashin and co-pilot Gennadi Lazurin reported seeing a luminous object to the right of the aircraft while approaching or departing the Minsk region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
 
 According to later summaries, the object appeared unusually bright and seemed to maintain position relative to the aircraft for several minutes. Witness descriptions said it changed form repeatedly:
 
@@ -270,13 +270,13 @@ According to later summaries, the object appeared unusually bright and seemed to
 * first appearing as beams or rays,
 * then as concentric glowing circles,
 * later as a cloud-like formation,
-* and finally as an irregular luminous mass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
+* and finally as an irregular luminous mass.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
 
 </div>
 
-Some versions of the story claim the crew believed the object was pacing the aircraft. Other retellings state that air traffic controllers detected an unexplained “double” radar return, interpreted as the aircraft plus another nearby object. A further embellishment appearing in later UFO literature claims another Aeroflot crew flying in the opposite direction also observed the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
+Some versions of the story claim the crew believed the object was pacing the aircraft. Other retellings state that air traffic controllers detected an unexplained “double” radar return, interpreted as the aircraft plus another nearby object. A further embellishment appearing in later UFO literature claims another Aeroflot crew flying in the opposite direction also observed the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
 
-The most dramatic retellings transformed the event into a classic “intelligent UFO encounter”, with the object supposedly reacting to the aircraft’s movements. Yet surviving public documentation is thinner than many later accounts imply. The CIA reading-room copy of a Soviet report references the sighting but does not provide the kind of detailed technical evidence often assumed in later UFO summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/0005516658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AIRLINER CREW REPORTS UFO SIGHTINGAIRLINER CREW REPORTS UFO SIGHTING. Document Type: FOIA. Keywords: UFO SPECIAL... &quot; At this time on...</span></span></span>
+The most dramatic retellings transformed the event into a classic “intelligent UFO encounter”, with the object supposedly reacting to the aircraft’s movements. Yet surviving public documentation is thinner than many later accounts imply. The CIA reading-room copy of a Soviet report references the sighting but does not provide the kind of detailed technical evidence often assumed in later UFO summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/0005516658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AIRLINER CREW REPORTS UFO SIGHTINGAIRLINER CREW REPORTS UFO SIGHTING. Document Type: FOIA. Keywords: UFO SPECIAL... &quot; At this time on...</span></span></span>
 
 ## Why the story became famous
 
@@ -296,13 +296,13 @@ By the late Soviet period and especially after the collapse of the USSR, the cas
 
 One important factor was the Soviet information environment itself. Soviet aerospace and missile activity was heavily classified. Ordinary pilots and controllers often had incomplete knowledge of launches occurring elsewhere in the USSR. A strange luminous object in the sky therefore acquired greater mystery because witnesses lacked contextual information that modern civilian observers might immediately recognise.
 
-The Minsk case also fitted a broader pattern seen repeatedly during the Cold War: rocket launches creating spectacular atmospheric effects mistaken for unconventional craft. Soviet launches, American launches and missile tests all produced UFO waves at different times because exhaust plumes at high altitude can create enormous illuminated structures visible hundreds of kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Minsk sighting might have been caused by refracted lights beams striking floating space garbage. As for UFO proponents, they admit that t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">JAMES OBERG. The...</span></span></span>
+The Minsk case also fitted a broader pattern seen repeatedly during the Cold War: rocket launches creating spectacular atmospheric effects mistaken for unconventional craft. Soviet launches, American launches and missile tests all produced UFO waves at different times because exhaust plumes at high altitude can create enormous illuminated structures visible hundreds of kilometres away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Minsk sighting might have been caused by refracted lights beams striking floating space garbage. As for UFO proponents, they admit that t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">JAMES OBERG. The...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_kbLEtvzjHg" title="UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer">UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 27.1K &middot; Uploaded: November 2023 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_kbLEtvzjHg">Open on YouTube</a></p></div></div></div>
 
 ## Why the missile-launch explanation matters
 
-The most influential sceptical analysis came from James Oberg, a former NASA engineer and long-time investigator of spaceflight-related UFO reports. Oberg argued that the Minsk airliner sighting strongly resembled known observations caused by rocket launches viewed at long distance under twilight or pre-dawn lighting conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Minsk sighting might have been caused by refracted lights beams striking floating space garbage. As for UFO proponents, they admit that t...</span></span></span>
+The most influential sceptical analysis came from James Oberg, a former NASA engineer and long-time investigator of spaceflight-related UFO reports. Oberg argued that the Minsk airliner sighting strongly resembled known observations caused by rocket launches viewed at long distance under twilight or pre-dawn lighting conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Minsk sighting might have been caused by refracted lights beams striking floating space garbage. As for UFO proponents, they admit that t...</span></span></span>
 
 The key point is that rocket exhaust illuminated by the Sun while the ground below remains dark can produce extraordinary optical effects:
 
@@ -318,7 +318,7 @@ The key point is that rocket exhaust illuminated by the Sun while the ground bel
 
 These effects are especially dramatic near dawn because observers on the ground or in aircraft are still in darkness while high-altitude exhaust plumes remain sunlit. The result can appear enormous, structured and seemingly impossible.
 
-Oberg and other sceptical analysts suggested that the Minsk sighting may have been linked to a distant Soviet missile or rocket launch rather than to a nearby craft. The exact launch candidate has remained debated, partly because Soviet military records from that period were incomplete or inaccessible. But the visual behaviour described by the crew closely resembles documented launch-induced UFO reports from both Soviet and American aerospace history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">JAMES OBERG. The...</span></span></span>
+Oberg and other sceptical analysts suggested that the Minsk sighting may have been linked to a distant Soviet missile or rocket launch rather than to a nearby craft. The exact launch candidate has remained debated, partly because Soviet military records from that period were incomplete or inaccessible. But the visual behaviour described by the crew closely resembles documented launch-induced UFO reports from both Soviet and American aerospace history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">JAMES OBERG. The...</span></span></span>
 
 This explanation changes the meaning of the case in an important way. It does not require assuming the pilots invented the sighting or were incompetent observers. Instead, it argues that sincere witnesses encountered a rare but real aerospace phenomenon whose scale and geometry were misinterpreted in the moment.
 
@@ -329,7 +329,7 @@ Several details weaken the idea that the object was a structured vehicle flying 
 
 ### The changing geometry
 
-Descriptions of rays, circles, glowing clouds and amorphous forms are more consistent with expanding exhaust illuminated from below the horizon than with a solid craft. Witnesses did not consistently describe windows, surfaces or mechanical structure. The object behaved more like a luminous atmospheric display than a conventional vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
+Descriptions of rays, circles, glowing clouds and amorphous forms are more consistent with expanding exhaust illuminated from below the horizon than with a solid craft. Witnesses did not consistently describe windows, surfaces or mechanical structure. The object behaved more like a luminous atmospheric display than a conventional vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Life Beyond Earth</span><span class="citation-popover-snippet">Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</span></span></span>
 
 ### The apparent pacing effect
 
@@ -343,7 +343,7 @@ Despite dramatic descriptions, there were no confirmed reports of interference w
 
 ### The unstable radar claims
 
-The radar aspect became more dramatic in later retellings. Publicly available documentation does not clearly establish that radar tracked a structured object independently manoeuvring around the aircraft. In Soviet-era UFO reporting, radar references often became simplified or exaggerated through repeated retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/0005516658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AIRLINER CREW REPORTS UFO SIGHTINGAIRLINER CREW REPORTS UFO SIGHTING. Document Type: FOIA. Keywords: UFO SPECIAL... &quot; At this time on...</span></span></span>
+The radar aspect became more dramatic in later retellings. Publicly available documentation does not clearly establish that radar tracked a structured object independently manoeuvring around the aircraft. In Soviet-era UFO reporting, radar references often became simplified or exaggerated through repeated retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/0005516658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AIRLINER CREW REPORTS UFO SIGHTINGAIRLINER CREW REPORTS UFO SIGHTING. Document Type: FOIA. Keywords: UFO SPECIAL... &quot; At this time on...</span></span></span>
 
 ## How Soviet secrecy amplified the mystery
 
@@ -390,194 +390,194 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2o2WIj1yCRU" title="The Launch Abort of Space Shuttle Discovery – Kopernik FNL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2o2WIj1yCRU" target="_blank" rel="noopener noreferrer">The Launch Abort of Space Shuttle Discovery – Kopernik FNL</a></p><p class="youtube-embed-meta">Channel: Kopernik Observatory &middot; Views: 390 &middot; Uploaded: October 2020 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2o2WIj1yCRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2o2WIj1yCRU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Minsk Airliner UFO a Missile?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Minsk Airliner UFO a Missile?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines aviation and radar-related UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines aviation and radar-related UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers investigative tools for assessing pilot reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers investigative tools for assessing pilot reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centres on pilot and aviation witness testimony similar to the Minsk case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on pilot and aviation witness testimony similar to the Minsk case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for military and aerospace explanations of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military and aerospace explanations of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-minsk-airliner-ufo-a-missile-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-minsk-airliner-ufo-a-missile-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,101 +780,100 @@ For researchers of Belarusian UFO history, the Minsk case also highlights a recu
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pbs.org  
    Title: Life Beyond Earth  
-   Link: <a href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/lifebeyondearth/listening/minskpop.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</p></details>
+   Link:<a href="https://www.pbs.org/lifebeyondearth/listening/minskpop.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/lifebeyondearth/listening/minskpop.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life Beyond Earth - Minsk, U.S.S.R.7 Sept 1984 — The pilots of a Soviet Aeroflot airliner were started to see a strange, brightly glow...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516658" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516658</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRLINER CREW REPORTS UFO SIGHTINGAIRLINER CREW REPORTS UFO SIGHTING. Document Type: FOIA. Keywords: UFO SPECIAL... &quot; At this time on...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516658" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516658</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIRLINER CREW REPORTS UFO SIGHTINGAIRLINER CREW REPORTS UFO SIGHTING. Document Type: FOIA. Keywords: UFO SPECIAL... &quot; At this time on...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: go.gale.com  
-   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minsk sighting might have been caused by refracted lights beams striking floating space garbage. As for UFO proponents, they admit that t...</p></details>
+   Link:<a href="https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA15986890&amp;issn=01498711&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minsk sighting might have been caused by refracted lights beams striking floating space garbage. As for UFO proponents, they admit that t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Secret: the Worldwide UFO Cover-UpAbove top secret: the worldwide UFO cover-up / Timothy Good; with a foreword by Lord Hill-Norton...</p></details>
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top Secret: the Worldwide UFO Cover-UpAbove top secret: the worldwide UFO cover-up / Timothy Good; with a foreword by Lord Hill-Norton...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: state.gov  
-   Link: <a href="https://www.state.gov/report/custom/27c0326b35" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/report/custom/27c0326b35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investment Climate Statements: Custom Report ExcerptsThe Belarusian government welcomes portfolio investment and has taken steps to safeg...</p></details>
+   Link:<a href="https://www.state.gov/report/custom/27c0326b35" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/report/custom/27c0326b35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investment Climate Statements: Custom Report ExcerptsThe Belarusian government welcomes portfolio investment and has taken steps to safeg...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JAMES OBERG. The...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p35.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAMES OBERG. The...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 7, 1984....7 Sept 2024 — The UFO starts spinning counterclockwise and jumps over to the next hill. Suddenly, her car is no lon...</p></details>
+   Link:<a href="https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/photos/on-this-day-in-1984-september-7-1984-410-am-while-approaching-minsk-belarus-the-/514562757960711/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 7, 1984....7 Sept 2024 — The UFO starts spinning counterclockwise and jumps over to the next hill. Suddenly, her car is no lon...</p></details>
    Published: September 7, 1984  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: underpop.online.fr  
-   Link: <a href="https://underpop.online.fr/s/secret-technology/fire-from-the-sky-battle-of-harvest-moon-and-the-true-story-of-space-shuttles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://underpop.online.fr/s/secret-technology/fire-from-the-sky-battle-of-harvest-moon-and-the-true-story-of-space-shuttles.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FROM THE SKY&quot;In the U.S. the success of the first flight of the Space Shuttle orbiter was clouded by two catastrophic failures of previou...</p></details>
+   Link:<a href="https://underpop.online.fr/s/secret-technology/fire-from-the-sky-battle-of-harvest-moon-and-the-true-story-of-space-shuttles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://underpop.online.fr/s/secret-technology/fire-from-the-sky-battle-of-harvest-moon-and-the-true-story-of-space-shuttles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FROM THE SKY&quot;In the U.S. the success of the first flight of the Space Shuttle orbiter was clouded by two catastrophic failures of previou...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: april 3rd on this day in 1984 the soviet union launched the soyuz t 11 mission t  
-   Link: <a href="https://www.facebook.com/NASASpaceflight/posts/april-3rd-on-this-day-in-1984-the-soviet-union-launched-the-soyuz-t-11-mission-t/1597209175738447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceflight/posts/april-3rd-on-this-day-in-1984-the-soviet-union-launched-the-soyuz-t-11-mission-t/1597209175738447/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on this day in 1984, the Soviet Union launched the Soyuz T...The spacecraft crashed in Orenburg Oblast at high speed, resulting in a fie...</p></details>
+   Link:<a href="https://www.facebook.com/NASASpaceflight/posts/april-3rd-on-this-day-in-1984-the-soviet-union-launched-the-soyuz-t-11-mission-t/1597209175738447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceflight/posts/april-3rd-on-this-day-in-1984-the-soviet-union-launched-the-soyuz-t-11-mission-t/1597209175738447/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on this day in 1984, the Soviet Union launched the Soyuz T...The spacecraft crashed in Orenburg Oblast at high speed, resulting in a fie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: february 8th on this day in 1984 the soviet union launched the crewed soyuz t 10  
-   Link: <a href="https://www.facebook.com/NASASpaceflight/posts/february-8th-on-this-day-in-1984-the-soviet-union-launched-the-crewed-soyuz-t-10/1546295487496483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceflight/posts/february-8th-on-this-day-in-1984-the-soviet-union-launched-the-crewed-soyuz-t-10/1546295487496483/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on this day in 1984, the Soviet Union launched the crewed...February 8th - on this day in 1984, the Soviet Union launched the crewed Soy...</p></details>
+   Link:<a href="https://www.facebook.com/NASASpaceflight/posts/february-8th-on-this-day-in-1984-the-soviet-union-launched-the-crewed-soyuz-t-10/1546295487496483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceflight/posts/february-8th-on-this-day-in-1984-the-soviet-union-launched-the-crewed-soyuz-t-10/1546295487496483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on this day in 1984, the Soviet Union launched the crewed...February 8th - on this day in 1984, the Soviet Union launched the crewed Soy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of accidents and incidents involving commercial aircraftSeptember 7 – Aeroflot Flight 164, an Ilyushin Il-14P, was struck by...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of accidents and incidents involving commercial aircraftSeptember 7 – Aeroflot Flight 164, an Ilyushin Il-14P, was struck by...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/airandspace/videos/space-shuttle-discovery-first-launched-on-august-30-1984/793306236976424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/videos/space-shuttle-discovery-first-launched-on-august-30-1984/793306236976424/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 1984...Wellbeloved Bennie the Lunar Moduke had an ascent stage and a descent stage. They were connected when landing on the moon...</p></details>
+   Link:<a href="https://www.facebook.com/airandspace/videos/space-shuttle-discovery-first-launched-on-august-30-1984/793306236976424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/videos/space-shuttle-discovery-first-launched-on-august-30-1984/793306236976424/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 1984...Wellbeloved Bennie the Lunar Moduke had an ascent stage and a descent stage. They were connected when landing on the moon...</p></details>
    Published: August 30, 1984  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOAB1rekYMP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOAB1rekYMP/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 1984.Instead of splashing down at sea, the shuttle glided through the atmosphere like a giant aircraft with no engine power du...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DOAB1rekYMP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOAB1rekYMP/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 1984.Instead of splashing down at sea, the shuttle glided through the atmosphere like a giant aircraft with no engine power du...</p></details>
    Published: August 30, 1984  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2o2WIj1yCRU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2o2WIj1yCRU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st mission attempt. You will see how engineers research a problem...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2o2WIj1yCRU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2o2WIj1yCRU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st mission attempt. You will see how engineers research a problem...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incident↑ &quot;Nearly six decades after seminal Montana UFO incidents, air force vets brief Pentagon&quot;. ↑ &quot;Ex-Air Force Perso...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incident↑ &quot;Nearly six decades after seminal Montana UFO incidents, air force vets brief Pentagon&quot;. ↑ &quot;Ex-Air Force Perso...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Ryanair Flight 4978  
-   Link: <a href="https://en.wikipedia.org/wiki/Ryanair_Flight_4978" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ryanair_Flight_4978</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryanair Flight 4978On 23 May 2021, while in Belarusian airspace, it was diverted by the Belarusian government to Minsk National Airpor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ryanair_Flight_4978" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ryanair_Flight_4978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ryanair Flight 4978On 23 May 2021, while in Belarusian airspace, it was diverted by the Belarusian government to Minsk National Airpor...</p></details>
    Published: May 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r Chinese spy balloon.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r Chinese spy balloon.Read more...</p></details>

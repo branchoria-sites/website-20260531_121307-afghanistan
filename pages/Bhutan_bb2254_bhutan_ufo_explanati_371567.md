@@ -252,7 +252,7 @@ image: /assets/images/Bhutan_bb2254_bhutan_ufo_explanati_371567-Illustration-1-s
 
 ## Introduction
 
-Most reported UFO sightings over Bhutan can be explained more plausibly by geography, weather, astronomy, aviation, or human perception than by evidence of extraterrestrial craft. That does not mean every witness invented what they saw. In a Himalayan environment, genuinely unusual lights can appear in ways that are difficult to identify in real time. High-altitude meteor fireballs, atmospheric electrical events, distant aircraft lights, military aviation, satellites, and more recently drones can all produce sightings that seem extraordinary to observers on the ground. The small number of documented Bhutan-related cases, especially the [1968 Thimphu sighting]({{ '1968-thimphu-sighting/' | relative_url }}) preserved in a CIA archive, are important largely because they show how ambiguous aerial events become amplified in remote mountain settings. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">story t KMATr DE37L73Num Bfpxc M</span><span class="citation-popover-snippet">CIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies are part of one...</span></span></span>
+Most reported UFO sightings over Bhutan can be explained more plausibly by geography, weather, astronomy, aviation, or human perception than by evidence of extraterrestrial craft. That does not mean every witness invented what they saw. In a Himalayan environment, genuinely unusual lights can appear in ways that are difficult to identify in real time. High-altitude meteor fireballs, atmospheric electrical events, distant aircraft lights, military aviation, satellites, and more recently drones can all produce sightings that seem extraordinary to observers on the ground. The small number of documented Bhutan-related cases, especially the [1968 Thimphu sighting]({{ '1968-thimphu-sighting/' | relative_url }}) preserved in a CIA archive, are important largely because they show how ambiguous aerial events become amplified in remote mountain settings. CIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">story t KMATr DE37L73Num Bfpxc M</span><span class="citation-popover-snippet">CIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies are part of one...</span></span></span>
 
 <img src="{{ "/assets/images/Bhutan_bb2254_bhutan_ufo_explanati_371567-Illustration-1-dark.svg" | relative_url }}" alt="Explanations &amp; Debunking illustration 1" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_bhutan_ufo_explanati_371567-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_bhutan_ufo_explanati_371567-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Bhutan’s UFO record is also unusually thin. There is no public evidence of a large state investigation programme, radar-confirmed anomaly archive, or long-running national wave of unexplained encounters. That makes explanation and context especially important. In many cases, the key question is not whether observers saw something real, but whether the phenomenon requires an extraordinary explanation at all.
@@ -263,15 +263,15 @@ Bhutan’s terrain creates ideal conditions for visual ambiguity. Much of the co
 
 Mountain environments distort distance perception. A light seen against a dark ridge line may appear stationary when it is moving, or appear low and nearby when it is actually tens of kilometres away. This becomes especially important at night, when observers lack reference points. Aircraft approaching from unusual angles can appear to hover. Meteors descending behind mountain horizons can seem to land nearby.
 
-The Himalayan region also experiences dramatic weather interactions. Strong winds, temperature inversions, ice crystals, and storm systems can create optical effects unfamiliar to observers. Rare high-altitude lightning phenomena above storms have been documented across the broader Himalayan belt, including red sprites and upward electrical discharges that can look highly unusual to people observing them from valleys or mountain slopes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thebetterindia/posts/above-the-stormy-skies-of-the-himalayas-a-lightning-show-unfolds-that-few-have-e/1184362247069043/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Above the stormy skies of the Himalayas, a lightning show...Astrophotographers captured an extraordinary phenomenon over the Him...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thevoiceofsikkim/posts/phenomenal-upward-jet-lightning-spotted-in-the-himalayasa-peculiar-phenomenon-ha/871124945057570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Voice of SikkimA peculiar phenomenon has once again baffled scientists globally, as they seek to understand the science behind gigant...</span></span></span>
+The Himalayan region also experiences dramatic weather interactions. Strong winds, temperature inversions, ice crystals, and storm systems can create optical effects unfamiliar to observers. Rare high-altitude lightning phenomena above storms have been documented across the broader Himalayan belt, including red sprites and upward electrical discharges that can look highly unusual to people observing them from valleys or mountain slopes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thebetterindia/posts/above-the-stormy-skies-of-the-himalayas-a-lightning-show-unfolds-that-few-have-e/1184362247069043/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Above the stormy skies of the Himalayas, a lightning show...Astrophotographers captured an extraordinary phenomenon over the Him...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thevoiceofsikkim/posts/phenomenal-upward-jet-lightning-spotted-in-the-himalayasa-peculiar-phenomenon-ha/871124945057570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Voice of SikkimA peculiar phenomenon has once again baffled scientists globally, as they seek to understand the science behind gigant...</span></span></span>
 
 These environmental conditions do not “solve” every Bhutan sighting, but they substantially raise the probability that ordinary phenomena could appear extraordinary.
 
 ## The 1968 Himalayan Wave and the Meteor Hypothesis
 
-The strongest documented Bhutan-related UFO report comes from the CIA file covering sightings in Ladakh, Nepal, Sikkim, and Bhutan during February and March 1968. The Bhutan entry usually refers to a bluish object observed over Thimphu on 21 February 1968 moving east to west at night. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">story t KMATr DE37L73Num Bfpxc M</span><span class="citation-popover-snippet">CIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies are part of one...</span></span></span>
+The strongest documented Bhutan-related UFO report comes from the CIA file covering sightings in Ladakh, Nepal, Sikkim, and Bhutan during February and March 1968. The Bhutan entry usually refers to a bluish object observed over Thimphu on 21 February 1968 moving east to west at night. CIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">story t KMATr DE37L73Num Bfpxc M</span><span class="citation-popover-snippet">CIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies are part of one...</span></span></span>
 
-One important clue is that the Bhutan report was not isolated. The same regional file described multiple sightings across the Himalayas over a short time period. Several reports involved bright streaks, loud sounds, and rapid movement. Modern interpretations of the CIA document often overlook how closely these descriptions resemble meteor or bolide events rather than controlled craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
+One important clue is that the Bhutan report was not isolated. The same regional file described multiple sightings across the Himalayas over a short time period. Several reports involved bright streaks, loud sounds, and rapid movement. Modern interpretations of the CIA document often overlook how closely these descriptions resemble meteor or bolide events rather than controlled craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
 
 ### Why bolides fit many details
 
@@ -288,7 +288,7 @@ A bolide is an exceptionally bright meteor that explodes or fragments in the atm
 
 </div>
 
-Those characteristics match several features described in the 1968 Himalayan reports. The Nepal-related entries in the same cluster reportedly involved crater claims and metallic object stories, but such reports often emerge after meteor fireballs because witnesses assume an impact occurred nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
+Those characteristics match several features described in the 1968 Himalayan reports. The Nepal-related entries in the same cluster reportedly involved crater claims and metallic object stories, but such reports often emerge after meteor fireballs because witnesses assume an impact occurred nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
 
 The Himalayan setting strengthens the meteor explanation. Thin mountain air and dark skies make fireballs appear especially vivid. Sound reflections in valleys can also distort where observers think an object travelled or landed.
 
@@ -318,7 +318,7 @@ Several visual effects commonly produce UFO reports:
 
 This matters because many Himalayan UFO descriptions emphasise silent movement, hovering lights, or sudden disappearances. Those traits are not unique to unidentified craft.
 
-The 1968 reports themselves emerged during a politically tense period in the Himalayas only a few years after the 1962 Sino-Indian War. Military monitoring and unusual aerial activity in border regions would have attracted attention from both civilians and intelligence agencies. That does not prove the objects were military aircraft, but it provides a more grounded context than extraterrestrial interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP81R00560R000100070007 8</span><span class="citation-popover-snippet">CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</span></span></span>
+The 1968 reports themselves emerged during a politically tense period in the Himalayas only a few years after the 1962 Sino-Indian War. Military monitoring and unusual aerial activity in border regions would have attracted attention from both civilians and intelligence agencies. That does not prove the objects were military aircraft, but it provides a more grounded context than extraterrestrial interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP81R00560R000100070007 8</span><span class="citation-popover-snippet">CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</span></span></span>
 
 ## Drones and Modern Technological Sources
 
@@ -343,7 +343,7 @@ Some of the most visually striking natural explanations involve atmospheric elec
 
 ### Ball lightning and luminous plasma
 
-Ball lightning remains rare and scientifically debated, but it is a recognised atmospheric phenomenon involving glowing spherical lights associated with storms. Witnesses often describe floating blue, orange, or white luminous objects moving unpredictably before fading or disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/metmatters/ball-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">ball lightning</span><span class="citation-popover-snippet">Ball Lightning1 Aug 2013 — Ball lightning is rarely observed and much less well understood. It is estimated that only one in a milli...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightningBall lightning is a rare and unexplained phenomenon described as luminescent spherical objects that vary from pea-sized...</span></span></span> Although there is no direct evidence linking Bhutan’s best-known sightings to ball lightning, the Himalayan environment includes intense thunderstorms and strong electrical activity that could produce unusual luminous effects.
+Ball lightning remains rare and scientifically debated, but it is a recognised atmospheric phenomenon involving glowing spherical lights associated with storms. Witnesses often describe floating blue, orange, or white luminous objects moving unpredictably before fading or disappearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/metmatters/ball-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">ball lightning</span><span class="citation-popover-snippet">Ball Lightning1 Aug 2013 — Ball lightning is rarely observed and much less well understood. It is estimated that only one in a milli...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightningBall lightning is a rare and unexplained phenomenon described as luminescent spherical objects that vary from pea-sized...</span></span></span> Although there is no direct evidence linking Bhutan’s best-known sightings to ball lightning, the Himalayan environment includes intense thunderstorms and strong electrical activity that could produce unusual luminous effects.
 
 Importantly, many historical UFO reports around the world share features with ball lightning accounts:
 
@@ -363,7 +363,7 @@ The challenge is that ball lightning itself is poorly documented and difficult t
 
 ### Sprites and upper-atmosphere lightning
 
-Modern photography has confirmed the existence of transient luminous events such as red sprites, blue jets, and gigantic upward lightning discharges above thunderstorms. These can extend high into the upper atmosphere and appear highly unfamiliar to observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/111684952250172/posts/1262794913805831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Ufo sighting in Bhutan on February 21, 1968UFO spotted over the Himalayas in November 2014. David Garrison ▻ Area51 - AIC - Alien Investi...</span><span class="citation-popover-meta">Published: November 2014</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/in-2017-military-sensors-captured-unusual-aerial-phenomena-over-the-himalayas-fo/961655833520505/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in 2017 military sensors captured unusual aerial phenomena over the himalayas fo</span><span class="citation-popover-snippet">In 2017, military sensors captured unusual aerial...Its movements defy conventional aerodynamics, drawing attention from aviation expert...</span></span></span>
+Modern photography has confirmed the existence of transient luminous events such as red sprites, blue jets, and gigantic upward lightning discharges above thunderstorms. These can extend high into the upper atmosphere and appear highly unfamiliar to observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/111684952250172/posts/1262794913805831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Ufo sighting in Bhutan on February 21, 1968UFO spotted over the Himalayas in November 2014. David Garrison ▻ Area51 - AIC - Alien Investi...</span><span class="citation-popover-meta">Published: November 2014</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/in-2017-military-sensors-captured-unusual-aerial-phenomena-over-the-himalayas-fo/961655833520505/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in 2017 military sensors captured unusual aerial phenomena over the himalayas fo</span><span class="citation-popover-snippet">In 2017, military sensors captured unusual aerial...Its movements defy conventional aerodynamics, drawing attention from aviation expert...</span></span></span>
 
 Before widespread scientific imaging, witnesses encountering these phenomena could easily have interpreted them as unexplained aerial objects. In remote Himalayan conditions with wide storm visibility across valleys, such events may appear especially dramatic.
 
@@ -383,7 +383,7 @@ Space debris re-entry can produce:
 
 </div>
 
-These characteristics overlap strongly with descriptions found in some Himalayan UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
+These characteristics overlap strongly with descriptions found in some Himalayan UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
 
 Because Bhutan has exceptionally dark skies in many areas, satellites are also more visible than in heavily urbanised countries. A bright satellite catching sunlight near dawn or dusk can appear startlingly luminous. Starlink satellite trains have produced numerous UFO reports globally because observers interpret the linear lights as coordinated craft.
 
@@ -406,7 +406,7 @@ Several psychological and perceptual factors matter in Bhutan’s context:
 
 </div>
 
-Once a sighting is labelled a “UFO”, later retellings often become more detailed and more extraordinary. This process can be seen in online discussions of the 1968 Himalayan sightings, where later summaries sometimes add implications or certainty not present in the original CIA material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+Once a sighting is labelled a “UFO”, later retellings often become more detailed and more extraordinary. This process can be seen in online discussions of the 1968 Himalayan sightings, where later summaries sometimes add implications or certainty not present in the original CIA material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 The existence of an archived intelligence report also tends to inflate perceptions of credibility. Intelligence agencies routinely collected unusual reports during the Cold War, including events later explained by ordinary causes. Archiving a report did not mean officials concluded extraterrestrial technology was involved.
 
@@ -433,194 +433,194 @@ Because the evidence base is weak, certainty in either direction is difficult. H
 In that sense, Bhutan’s UFO history is less a story about hidden extraterrestrial visitation and more a case study in how dramatic landscapes, limited observational data, and human interpretation can transform ordinary aerial events into enduring mysteries.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Possible Explanations for UFO Sightings in Bhutan. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Possible Explanations for UFO Sightings in Bhutan. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses witness interpretation and classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses witness interpretation and classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for identifying celestial objects mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for identifying celestial objects mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Covers many ordinary sources of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many ordinary sources of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strong fit for a page focused on explanations rather than mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page focused on explanations rather than mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="possible-explanations-for-ufo-sightings-in-bhutan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ In that sense, Bhutan’s UFO history is less a story about hidden extraterrestr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ In that sense, Bhutan’s UFO history is less a story about hidden extraterrestr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ In that sense, Bhutan’s UFO history is less a story about hidden extraterrestr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ In that sense, Bhutan’s UFO history is less a story about hidden extraterrestr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -785,7 +785,7 @@ In that sense, Bhutan’s UFO history is less a story about hidden extraterrestr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,155 +826,155 @@ In that sense, Bhutan’s UFO history is less a story about hidden extraterrestr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100070007 8  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thebetterindia/posts/above-the-stormy-skies-of-the-himalayas-a-lightning-show-unfolds-that-few-have-e/1184362247069043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebetterindia/posts/above-the-stormy-skies-of-the-himalayas-a-lightning-show-unfolds-that-few-have-e/1184362247069043/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Above the stormy skies of the Himalayas, a lightning show...Astrophotographers captured an extraordinary phenomenon over the Him...</p></details>
+   Link:<a href="https://www.facebook.com/thebetterindia/posts/above-the-stormy-skies-of-the-himalayas-a-lightning-show-unfolds-that-few-have-e/1184362247069043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebetterindia/posts/above-the-stormy-skies-of-the-himalayas-a-lightning-show-unfolds-that-few-have-e/1184362247069043/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Above the stormy skies of the Himalayas, a lightning show...Astrophotographers captured an extraordinary phenomenon over the Him...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thevoiceofsikkim/posts/phenomenal-upward-jet-lightning-spotted-in-the-himalayasa-peculiar-phenomenon-ha/871124945057570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/phenomenal-upward-jet-lightning-spotted-in-the-himalayasa-peculiar-phenomenon-ha/871124945057570/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Voice of SikkimA peculiar phenomenon has once again baffled scientists globally, as they seek to understand the science behind gigant...</p></details>
+   Link:<a href="https://www.facebook.com/thevoiceofsikkim/posts/phenomenal-upward-jet-lightning-spotted-in-the-himalayasa-peculiar-phenomenon-ha/871124945057570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/phenomenal-upward-jet-lightning-spotted-in-the-himalayasa-peculiar-phenomenon-ha/871124945057570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Voice of SikkimA peculiar phenomenon has once again baffled scientists globally, as they seek to understand the science behind gigant...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rmets.org  
    Title: ball lightning  
-   Link: <a href="https://www.rmets.org/metmatters/ball-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/ball-lightning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ball Lightning1 Aug 2013 — Ball lightning is rarely observed and much less well understood. It is estimated that only one in a milli...</p></details>
+   Link:<a href="https://www.rmets.org/metmatters/ball-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/ball-lightning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ball Lightning1 Aug 2013 — Ball lightning is rarely observed and much less well understood. It is estimated that only one in a milli...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Ball lightning  
-   Link: <a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ball lightningBall lightning is a rare and unexplained phenomenon described as luminescent spherical objects that vary from pea-sized...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ball lightningBall lightning is a rare and unexplained phenomenon described as luminescent spherical objects that vary from pea-sized...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/111684952250172/posts/1262794913805831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/111684952250172/posts/1262794913805831/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo sighting in Bhutan on February 21, 1968UFO spotted over the Himalayas in November 2014. David Garrison ▻ Area51 - AIC - Alien Investi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/111684952250172/posts/1262794913805831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/111684952250172/posts/1262794913805831/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo sighting in Bhutan on February 21, 1968UFO spotted over the Himalayas in November 2014. David Garrison ▻ Area51 - AIC - Alien Investi...</p></details>
    Published: November 2014  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: in 2017 military sensors captured unusual aerial phenomena over the himalayas fo  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/in-2017-military-sensors-captured-unusual-aerial-phenomena-over-the-himalayas-fo/961655833520505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-2017-military-sensors-captured-unusual-aerial-phenomena-over-the-himalayas-fo/961655833520505/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2017, military sensors captured unusual aerial...Its movements defy conventional aerodynamics, drawing attention from aviation expert...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/in-2017-military-sensors-captured-unusual-aerial-phenomena-over-the-himalayas-fo/961655833520505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-2017-military-sensors-captured-unusual-aerial-phenomena-over-the-himalayas-fo/961655833520505/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2017, military sensors captured unusual aerial...Its movements defy conventional aerodynamics, drawing attention from aviation expert...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: Nobody on that plane expected to see this out the window  
-   Link: <a href="https://www.facebook.com/GoHappiest/posts/nobody-on-that-plane-expected-to-see-this-out-the-window-a-passenger-looked-out-/1494214749169967/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GoHappiest/posts/nobody-on-that-plane-expected-to-see-this-out-the-window-a-passenger-looked-out-/1494214749169967/?locale=en_GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object spotted near Himalayas. World News Update ▻ UFO, Aliens, Unexplained Phenomena. 31w · Public · Captured near the himala...</p></details>
+   Link:<a href="https://www.facebook.com/GoHappiest/posts/nobody-on-that-plane-expected-to-see-this-out-the-window-a-passenger-looked-out-/1494214749169967/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GoHappiest/posts/nobody-on-that-plane-expected-to-see-this-out-the-window-a-passenger-looked-out-/1494214749169967/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object spotted near Himalayas. World News Update ▻ UFO, Aliens, Unexplained Phenomena. 31w · Public · Captured near the himala...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports unusual aerial encounterMysterious object spotted during paramotor flight. Worldside Stories ▻ UFO, Aliens, Other Planets a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports unusual aerial encounterMysterious object spotted during paramotor flight. Worldside Stories ▻ UFO, Aliens, Other Planets a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/reports-from-trekkers-and-remote-villagers-in-the-himalayan-region-describe-a-st/829659343386822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/reports-from-trekkers-and-remote-villagers-in-the-himalayan-region-describe-a-st/829659343386822/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Whispers&#x27;s postUFO sighting on mountain peak explained. Mysterious Aliens And UFO Disclosure ▻ Mysteries &amp; Discovery Science. 36w...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/reports-from-trekkers-and-remote-villagers-in-the-himalayan-region-describe-a-st/829659343386822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/reports-from-trekkers-and-remote-villagers-in-the-himalayan-region-describe-a-st/829659343386822/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Whispers&#x27;s postUFO sighting on mountain peak explained. Mysterious Aliens And UFO Disclosure ▻ Mysteries &amp; Discovery Science. 36w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ens or extra dimensional beings. I always ask for them to...</p></details>
+   Link:<a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ens or extra dimensional beings. I always ask for them to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hindustantimes.com  
    Title: story t KMATr DE37L73Num Bfpxc M  
-   Link: <a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies are part of one...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies are part of one...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: <a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</p></details>
+   Link:<a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: britannica.com  
    Title: ball lightning  
-   Link: <a href="https://www.britannica.com/science/ball-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/ball-lightning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaBall lightning | Electric Discharge, Plasma &amp; Atmospheric...3 Apr 2026 — Ball lightning, a rare aerial phenomenon...</p></details>
+   Link:<a href="https://www.britannica.com/science/ball-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/ball-lightning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaBall lightning | Electric Discharge, Plasma &amp; Atmospheric...3 Apr 2026 — Ball lightning, a rare aerial phenomenon...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsbytesapp.com  
-   Link: <a href="https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story" target="_blank" rel="noopener noreferrer nofollow">https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recently released CIA documents reveal UFO sightings...28 Jan 2017 — A recently released 1968 CIA report detailed six UFO sightings over...</p></details>
+   Link:<a href="https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story" target="_blank" rel="noopener noreferrer nofollow">https://www.newsbytesapp.com/news/world/cia-documents-detail-ufo-sightings-over-india/story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recently released CIA documents reveal UFO sightings...28 Jan 2017 — A recently released 1968 CIA report detailed six UFO sightings over...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ibtimes.co.in  
    Title: declassified cia documents reveal 6 ufo sightings india nepal bhutan 713983  
-   Link: <a href="https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaDeclassified CIA documents reveal 6 UFO sightings in...29 Jan 2017 — CIA filed a report in the April of 1968 detailing at l...</p></details>
+   Link:<a href="https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaDeclassified CIA documents reveal 6 UFO sightings in...29 Jan 2017 — CIA filed a report in the April of 1968 detailing at l...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: itechpost.com  
    Title: released declassified cia documents revealed 6 ufo sightings india bhutan  
-   Link: <a href="https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Released Declassified CIA documents reveals 6 UFO...30 Jan 2017 — The report claims that a bright and fast-moving, mysterious aircraft w...</p></details>
+   Link:<a href="https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Released Declassified CIA documents reveals 6 UFO...30 Jan 2017 — The report claims that a bright and fast-moving, mysterious aircraft w...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalgeographic.com  
    Title: lightning sprites transient luminous events thunderstorms  
-   Link: <a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the curious phenomena of...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the curious phenomena of...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...Blackvault CIA file: C05527990. · Declassified CIA file reveals aliens committed &#x27;r...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...Blackvault CIA file: C05527990. · Declassified CIA file reveals aliens committed &#x27;r...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: glenallenweather.com  
-   Link: <a href="https://glenallenweather.com/alink/20thunder/BallLightning3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glenallenweather.com/alink/20thunder/BallLightning3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is not uncommon that they appear inside structures.Read more...</p></details>
+   Link:<a href="https://glenallenweather.com/alink/20thunder/BallLightning3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glenallenweather.com/alink/20thunder/BallLightning3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is not uncommon that they appear inside structures.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sikhim.blogspot.com  
-   Link: <a href="https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html" target="_blank" rel="noopener noreferrer nofollow">https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>196825 Jun 2018 — The report mentions the UFO activity of February-March 1968 in India/Nepal/Bhutan/China. The sightings at Sikkim were...</p></details>
+   Link:<a href="https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html" target="_blank" rel="noopener noreferrer nofollow">https://sikhim.blogspot.com/2018/06/cia-reports-ufo-activity-in-sikkim-in.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>196825 Jun 2018 — The report mentions the UFO activity of February-March 1968 in India/Nepal/Bhutan/China. The sightings at Sikkim were...</p></details>
    Published: March 1968  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: deccanchronicle.com  
    Title: Deccan Chronicle UFOs in India?  
-   Link: <a href="https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA report lists not 1 but 3 sightings28 Jan 2017 — The CIA documented a total of six UFO sightings over “south Ladakh, north east Nepal...</p></details>
+   Link:<a href="https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deccanchronicle.com/nation/current-affairs/280117/ufos-in-india-cia-report-lists-not-1-but-3-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA report lists not 1 but 3 sightings28 Jan 2017 — The CIA documented a total of six UFO sightings over “south Ladakh, north east Nepal...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: I Honestly Felt Bad Debunking This  
-   Link: <a href="http://www.youtube.com/watch?v=64zlyzojpPM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=64zlyzojpPM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo sightings natural explanations atmospheric optics How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=64zlyzojpPM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=64zlyzojpPM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo sightings natural explanations atmospheric optics How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: What is ball lightning?  
-   Link: <a href="https://www.youtube.com/watch?v=dMsGHmGxyxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dMsGHmGxyxo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare weather phenomenon caught on...This glowing blue ball of light is called ball lightning and it appeared behind their home just mome...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dMsGHmGxyxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dMsGHmGxyxo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare weather phenomenon caught on...This glowing blue ball of light is called ball lightning and it appeared behind their home just mome...</p></details>

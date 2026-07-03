@@ -1199,28 +1199,28 @@ That makes Ethiopia a useful country page for a wider UFO project because the ev
 <img src="{{ "/assets/images/Ethiopia_3d91f7-overview.webp" | relative_url }}" alt="Overview image for What Really Counts as Ethiopia&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as an Ethiopian UFO case?
 
-For this page, “UFO” means an unidentified flying object or sky phenomenon reported from Ethiopia, not proof of extraterrestrial visitation. That distinction matters because the best-substantiated Ethiopian material points towards ordinary but impressive causes: meteors, satellite debris, aircraft-like misperceptions, and distant lights. NASA defines meteors as the visible paths made when meteoroids enter the atmosphere, and fireballs as unusually bright meteors; space-debris re-entries can also resemble meteors, often appearing as a bright body with a long tail that breaks into fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
+For this page, “UFO” means an unidentified flying object or sky phenomenon reported from Ethiopia, not proof of extraterrestrial visitation. That distinction matters because the best-substantiated Ethiopian material points towards ordinary but impressive causes: meteors, satellite debris, aircraft-like misperceptions, and distant lights. NASA defines meteors as the visible paths made when meteoroids enter the atmosphere, and fireballs as unusually bright meteors; space-debris re-entries can also resemble meteors, often appearing as a bright body with a long tail that breaks into fragments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
 
-The Ethiopian record is also shaped by geography and archive access. Reports cluster around Addis Ababa, Oromia, Amhara and southern Ethiopia in modern online databases, while the most discussed historical case, Saladare, was near Asmara at a time when Eritrea was still within Ethiopia’s political orbit. Eritrea became independent from Ethiopia in 1993, so Saladare sits awkwardly across today’s Ethiopia and Eritrea branches: historically Ethiopian for a 1970 chronology, but geographically relevant to an Eritrea sibling page in any modern country-by-country project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
+The Ethiopian record is also shaped by geography and archive access. Reports cluster around Addis Ababa, Oromia, Amhara and southern Ethiopia in modern online databases, while the most discussed historical case, Saladare, was near Asmara at a time when Eritrea was still within Ethiopia’s political orbit. Eritrea became independent from Ethiopia in 1993, so Saladare sits awkwardly across today’s Ethiopia and Eritrea branches: historically Ethiopian for a 1970 chronology, but geographically relevant to an Eritrea sibling page in any modern country-by-country project.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
 
 ## The 1970 Saladare incident: Ethiopia’s most dramatic contested case
 
-The Saladare case is the one Ethiopian UFO story that regularly appears in specialist UFO discussions. In J. Allen Hynek and Jacques Vallée’s 1975 book *The Edge of Reality*, Hynek reads a letter said to have come from a medical doctor working for the United Nations in Ethiopia. The letter describes an event on 7 August 1970 at Saladare, about 14 kilometres from Asmara: villagers reportedly heard a loud aircraft-like noise, saw a red glowing object, and later described damage to houses, trees, grass, asphalt and a bridge wall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">Hynek and Vallee</span><span class="citation-popover-snippet">Hynek and Vallee</span></span></span>
+The Saladare case is the one Ethiopian UFO story that regularly appears in specialist UFO discussions. In J. Allen Hynek and Jacques Vallée’s 1975 book *The Edge of Reality*, Hynek reads a letter said to have come from a medical doctor working for the United Nations in Ethiopia. The letter describes an event on 7 August 1970 at Saladare, about 14 kilometres from Asmara: villagers reportedly heard a loud aircraft-like noise, saw a red glowing object, and later described damage to houses, trees, grass, asphalt and a bridge wall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">Hynek and Vallee</span><span class="citation-popover-snippet">Hynek and Vallee</span></span></span>
 
-The case is compelling as folklore and as a historical puzzle, but weak as a confirmed incident. The published account is second-hand: Hynek is presenting a correspondent’s letter, not a complete field investigation with preserved samples, meteorological records, police reports, medical files, or a chain of custody for photographs. The same passage says a local Addis Ababa paper reportedly treated the event briefly as a thunderstorm, while an Italian-language local paper gave it much more space, but those newspaper items are not easily available in the open sources most readers can inspect today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">Hynek and Vallee</span><span class="citation-popover-snippet">Hynek and Vallee</span></span></span>
+The case is compelling as folklore and as a historical puzzle, but weak as a confirmed incident. The published account is second-hand: Hynek is presenting a correspondent’s letter, not a complete field investigation with preserved samples, meteorological records, police reports, medical files, or a chain of custody for photographs. The same passage says a local Addis Ababa paper reportedly treated the event briefly as a thunderstorm, while an Italian-language local paper gave it much more space, but those newspaper items are not easily available in the open sources most readers can inspect today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">Hynek and Vallee</span><span class="citation-popover-snippet">Hynek and Vallee</span></span></span>
 
-Later internet retellings often sharpen the story into a “UFO destroyed a village” claim, adding numbers such as dozens of buildings damaged, injuries, or a child’s death. Those claims circulate through blogs, Reddit posts and reposted images said to show letters and photographs sent to Hynek. They are not worthless, because they may preserve traces of a real local report, but they are not equivalent to a contemporaneous official Ethiopian case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">the shocking destruction of an ethiopian village</span></span></span>
+Later internet retellings often sharpen the story into a “UFO destroyed a village” claim, adding numbers such as dozens of buildings damaged, injuries, or a child’s death. Those claims circulate through blogs, Reddit posts and reposted images said to show letters and photographs sent to Hynek. They are not worthless, because they may preserve traces of a real local report, but they are not equivalent to a contemporaneous official Ethiopian case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">the shocking destruction of an ethiopian village</span></span></span>
 
 The most cautious reading is that Saladare is a contested physical-trace claim: something may have happened, and later UFO researchers considered it notable, but the public evidence does not currently allow a firm judgement. Possible [explanations]({{ 'explanations-5fe3ff/' | relative_url }}) include a severe local weather event, a meteor or bolide, a misunderstood military or industrial incident, or an embellished account of damage after the fact. The extraordinary elements — an object reversing course, hovering, damaging infrastructure, and producing heat without ordinary fire — are exactly the parts that need the strongest documentation and currently have the weakest public support.
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7-Illustration-1-dark.svg" | relative_url }}" alt="What Really Counts as Ethiopia&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## January 2025: the clearest modern Ethiopian sky event
 
-On 10 January 2025, people in southern and south-western Ethiopia reported fast-moving objects in the evening sky. The Space Science and Geospatial Institute of Ethiopia said the public had observed objects around 7:30 pm and that the possibilities included meteors or space debris; officials asked people to remain calm while the event was investigated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span></span></span>
+On 10 January 2025, people in southern and south-western Ethiopia reported fast-moving objects in the evening sky. The Space Science and Geospatial Institute of Ethiopia said the public had observed objects around 7:30 pm and that the possibilities included meteors or space debris; officials asked people to remain calm while the event was investigated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span></span></span>
 
-This case is important because it shows what a better Ethiopian UAP response looks like. The Ethiopian Space Science Society gathered videos and location information, mapped the reported path, and discussed a scientific hypothesis involving debris from China’s ShiJian-19 satellite, while noting that some of the analysis used third-party tracking databases and still required confirmation from the satellite’s owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This case is important because it shows what a better Ethiopian UAP response looks like. The Ethiopian Space Science Society gathered videos and location information, mapped the reported path, and discussed a scientific hypothesis involving debris from China’s ShiJian-19 satellite, while noting that some of the analysis used third-party tracking databases and still required confirmation from the satellite’s owner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Unlike Saladare, the 2025 event does not need an exotic explanation to remain interesting. A satellite re-entry or meteor can look astonishing: bright, fast, silent or delayed in sound, fragmenting, and visible over a wide area. That is exactly the kind of event that often becomes a UFO report before technical analysis catches up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Unlike Saladare, the 2025 event does not need an exotic explanation to remain interesting. A satellite re-entry or meteor can look astonishing: bright, fast, silent or delayed in sound, fragmenting, and visible over a wide area. That is exactly the kind of event that often becomes a UFO report before technical analysis catches up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The evidence status is therefore “initially unidentified, plausibly explained”. The public saw something real; the available technical discussion points towards space debris or a meteor; and the claim does not require an alien craft, secret weapon, or unexplained vehicle to make sense.
 
@@ -1228,9 +1228,9 @@ The evidence status is therefore “initially unidentified, plausibly explained�
 
 ## What the online sighting databases show
 
-The National UFO Reporting Center lists a small number of Ethiopia reports from 2010 onwards, including Addis Ababa, Dire Dawa, Holeta, Amhara and Nekemte entries. The reports describe red glows, circles, flashes, cylinders, spheres, disks, V-shaped objects and triangular formations, with several entries submitted years after the alleged sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
+The National UFO Reporting Center lists a small number of Ethiopia reports from 2010 onwards, including Addis Ababa, Dire Dawa, Holeta, Amhara and Nekemte entries. The reports describe red glows, circles, flashes, cylinders, spheres, disks, V-shaped objects and triangular formations, with several entries submitted years after the alleged sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
 
-These entries are useful as a public index, not as verified evidence. They show where English-language UFO witnesses or internet users have chosen to report experiences, but they do not prove that the events were investigated, photographed, triangulated, or compared with aircraft, satellites, planets, drones, balloons, birds, weather, or military activity. The same database line can tell a reader the date, place, shape and witness summary, but the evidential weight remains low unless independent corroboration exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
+These entries are useful as a public index, not as verified evidence. They show where English-language UFO witnesses or internet users have chosen to report experiences, but they do not prove that the events were investigated, photographed, triangulated, or compared with aircraft, satellites, planets, drones, balloons, birds, weather, or military activity. The same database line can tell a reader the date, place, shape and witness summary, but the evidential weight remains low unless independent corroboration exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
 
 The pattern is still worth noting. Addis Ababa appears repeatedly, which is unsurprising because it is the capital, has a large population, more internet access, and more observers likely to submit reports in English. Reports from Oromia, Amhara and Dire Dawa broaden the geography, but the sample is too small to claim a true regional “hotspot”. It is safer to say that Ethiopia has scattered modern sightings, with reporting bias probably stronger than any proven physical clustering.
 
@@ -1239,11 +1239,11 @@ The pattern is still worth noting. Addis Ababa appears repeatedly, which is unsu
 
 A practical way to read Ethiopia’s UFO material is to separate it by evidence quality rather than by how dramatic the story sounds.
 
-**Confirmed as a real public sky event:** the January 2025 southern Ethiopia incident. Multiple public reports led Ethiopian space bodies and media to discuss meteors or space debris, with ESSS analysis pointing towards a possible ShiJian-19 debris link. The object was “unidentified” at first, but the best available explanation is prosaic and aerospace-related. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtafrika.com/english/article/18252483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtafrika.com">[TRT Afrika]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtafrika.com</span><span class="citation-popover-title">TRT Afrika Mysterious objects seen moving in skies over Ethiopia</span><span class="citation-popover-snippet">TRT Afrika Mysterious objects seen moving in skies over Ethiopia</span></span></span>
+**Confirmed as a real public sky event:** the January 2025 southern Ethiopia incident. Multiple public reports led Ethiopian space bodies and media to discuss meteors or space debris, with ESSS analysis pointing towards a possible ShiJian-19 debris link. The object was “unidentified” at first, but the best available explanation is prosaic and aerospace-related.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtafrika.com/english/article/18252483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtafrika.com">[TRT Afrika]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtafrika.com</span><span class="citation-popover-title">TRT Afrika Mysterious objects seen moving in skies over Ethiopia</span><span class="citation-popover-snippet">TRT Afrika Mysterious objects seen moving in skies over Ethiopia</span></span></span>
 
-**Contested physical-trace claim:** the 1970 Saladare incident. It is anchored in Hynek and Vallée’s published discussion of a doctor’s letter, which gives it more historical weight than a modern anonymous post, but the lack of an accessible official investigation, original local press file, laboratory analysis or full witness dossier keeps it unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">Hynek and Vallee</span><span class="citation-popover-snippet">Hynek and Vallee</span></span></span>
+**Contested physical-trace claim:** the 1970 Saladare incident. It is anchored in Hynek and Vallée’s published discussion of a doctor’s letter, which gives it more historical weight than a modern anonymous post, but the lack of an accessible official investigation, original local press file, laboratory analysis or full witness dossier keeps it unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">Hynek and Vallee</span><span class="citation-popover-snippet">Hynek and Vallee</span></span></span>
 
-**Low-weight anecdotal reports:** the NUFORC Ethiopia entries. They are useful leads for chronology and geography, but they are mostly short witness narratives without enough supporting data to classify the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
+**Low-weight anecdotal reports:** the NUFORC Ethiopia entries. They are useful leads for chronology and geography, but they are mostly short witness narratives without enough supporting data to classify the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Ethiopia</span><span class="citation-popover-snippet">Reports for Country Ethiopia</span></span></span>
 
 **Speculative or culturally driven claims:** “ancient alien” interpretations of Ethiopian religious texts or historic sites such as Lalibela sit outside the evidential core of Ethiopia’s UFO record. They are better treated as popular-culture or belief-system claims unless supported by archaeological, astronomical or documentary evidence, not as national sighting incidents.
 
@@ -1251,7 +1251,7 @@ A practical way to read Ethiopia’s UFO material is to separate it by evidence 
 
 ## Why Ethiopia’s UFO archive is thin
 
-Ethiopia does not appear to have a widely accessible, centralised public UAP archive comparable to the US National Archives’ UAP-related collections. NARA now describes a dedicated US Unidentified Anomalous Phenomena Records Collection and related UFO/UAP holdings, but that is a US institutional framework, not a source for Ethiopian national cases unless a specific Ethiopia-related record is identified inside it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ethiopia does not appear to have a widely accessible, centralised public UAP archive comparable to the US National Archives’ UAP-related collections. NARA now describes a dedicated US Unidentified Anomalous Phenomena Records Collection and related UFO/UAP holdings, but that is a US institutional framework, not a source for Ethiopian national cases unless a specific Ethiopia-related record is identified inside it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The thinness of the Ethiopian record has several likely causes. Older reports may sit in local newspapers, police files, aviation logs, military records, university archives, private letters, or foreign-language press that has not been digitised. Some incidents may have been reported under natural-disaster language rather than “UFO” language, especially if witnesses described thunder, fireballs, storms, explosions or falling objects. In modern cases, social media creates the opposite problem: many videos and claims appear quickly, but they can be reposted without location, timestamp, original file metadata or witness contact details.
 
@@ -1260,203 +1260,203 @@ That is why Ethiopia’s UFO page should not be judged by the number of spectacu
 <img src="{{ "/assets/images/Ethiopia_3d91f7-Illustration-3-dark.svg" | relative_url }}" alt="What Really Counts as Ethiopia&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to verify a future Ethiopian UFO report
 
-A strong Ethiopian UFO investigation would begin with ordinary checks before exotic ones. The most useful evidence would be original video files, exact time and location, direction of travel, duration, sound timing, weather, aircraft and satellite checks, and independent witnesses separated by distance. For bright streaking objects, investigators should compare the sighting with meteor and re-entry behaviour, because both can create dramatic trails, fragmentation and wide-area witness reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
+A strong Ethiopian UFO investigation would begin with ordinary checks before exotic ones. The most useful evidence would be original video files, exact time and location, direction of travel, duration, sound timing, weather, aircraft and satellite checks, and independent witnesses separated by distance. For bright streaking objects, investigators should compare the sighting with meteor and re-entry behaviour, because both can create dramatic trails, fragmentation and wide-area witness reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
 
-The January 2025 response offers a good template: gather videos, map witness locations, compare the path with space-object databases, and state uncertainty clearly while analysis is ongoing. That approach is more useful than forcing a sighting into either “alien craft” or “nothing happened”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The January 2025 response offers a good template: gather videos, map witness locations, compare the path with space-object databases, and state uncertainty clearly while analysis is ongoing. That approach is more useful than forcing a sighting into either “alien craft” or “nothing happened”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t.me">[Telegram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t.me</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For older cases such as Saladare, the highest-value next evidence would be archival rather than speculative: the alleged Addis Ababa newspaper clipping, the Italian-language local article, original photographs with provenance, the doctor’s full identity and correspondence, any UN staff records, and local administrative or medical records from August 1970. Without those, Saladare remains one of Ethiopia’s most intriguing UFO stories, but not one of its most securely established facts.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B75xmeeKH0c" title="Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer">Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?</a></p><p class="youtube-embed-meta">Channel: NASA&#x27;s Marshall Space Flight Center &middot; Views: 4.3K &middot; Uploaded: March 2014 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B75xmeeKH0c">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Counts as Ethiopia&#x27;s UFO Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Counts as Ethiopia&#x27;s UFO Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing contested cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing contested cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page evaluating the strength of UFO evidence and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page evaluating the strength of UFO evidence and official reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how folklore and reports evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how folklore and reports evolve over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how modern societies interpret anomalous aerial claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how modern societies interpret anomalous aerial claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-ethiopia-s-ufo-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1472,7 +1472,7 @@ For older cases such as Saladare, the highest-value next evidence would be archi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1492,7 +1492,7 @@ For older cases such as Saladare, the highest-value next evidence would be archi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1524,7 +1524,7 @@ For older cases such as Saladare, the highest-value next evidence would be archi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1576,7 +1576,7 @@ For older cases such as Saladare, the highest-value next evidence would be archi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1621,7 +1621,7 @@ For older cases such as Saladare, the highest-value next evidence would be archi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1659,164 +1659,163 @@ For older cases such as Saladare, the highest-value next evidence would be archi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pdfcoffee.com  
    Title: Hynek and Vallee  
-   Link: <a href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html</a>  
+   Link:<a href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
    Title: CNEOSFireballs and bolides  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for Country Ethiopia  
-   Link: <a href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cEthiopia</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cEthiopia" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cEthiopia</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/</a>  
+   Link:<a href="https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/chmcva/destruction_from_a_reported_ufo_incident_1970_in/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: the shocking destruction of an ethiopian village  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/user/throwaway16830261/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/user/throwaway16830261/</a>  
+   Link:<a href="https://www.reddit.com/user/throwaway16830261/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/user/throwaway16830261/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/</a>  
+   Link:<a href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/</a>  
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/11x5fbg/what_are_the_odds_of_seeing_space_junk_reenter/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/eritrea/47451.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/eritrea/137302.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: 2001-2009.state.gov  
-   Link: <a href="https://2001-2009.state.gov/t/pm/64656.htm" target="_blank" rel="noopener noreferrer nofollow">https://2001-2009.state.gov/t/pm/64656.htm</a>  
+   Link:<a href="https://2001-2009.state.gov/t/pm/64656.htm" target="_blank" rel="noopener noreferrer nofollow">https://2001-2009.state.gov/t/pm/64656.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spaceinafrica.com  
    Title: Space in Africa Falling Space Debris Incident Reported in Ethiopia  
-   Link: <a href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/</a>  
+   Link:<a href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: trtafrika.com  
    Title: TRT Afrika Mysterious objects seen moving in skies over Ethiopia  
-   Link: <a href="https://www.trtafrika.com/english/article/18252483" target="_blank" rel="noopener noreferrer nofollow">https://www.trtafrika.com/english/article/18252483</a>  
+   Link:<a href="https://www.trtafrika.com/english/article/18252483" target="_blank" rel="noopener noreferrer nofollow">https://www.trtafrika.com/english/article/18252483</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: t.me  
-   Link: <a href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss?before=1857</a>  
+   Link:<a href="https://t.me/s/officialesss?before=1857" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss?before=1857</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: t.me  
-   Link: <a href="https://t.me/s/officialesss?after=1844" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss?after=1844</a>  
+   Link:<a href="https://t.me/s/officialesss?after=1844" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss?after=1844</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea</a>  
+   Link:<a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Eritrea</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
+   Link:<a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: fpif.org  
-   Link: <a href="https://fpif.org/eritrea/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/eritrea/</a>  
+   Link:<a href="https://fpif.org/eritrea/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/eritrea/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Kenya probes mysterious metallic object from space  
-   Link: <a href="https://www.youtube.com/watch?v=LBGenhIQ5EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LBGenhIQ5EQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 &quot;One in a million&quot; piece of space debris crashes on remote village in Kenya...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LBGenhIQ5EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LBGenhIQ5EQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 &quot;One in a million&quot; piece of space debris crashes on remote village in Kenya...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር  
-   Link: <a href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ks_k1bt2uhU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Kenya probes mysterious metallic object from space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ks_k1bt2uhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ks_k1bt2uhU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Kenya probes mysterious metallic object from space...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Ethiopian Space Science and Technology Institute  
-   Link: <a href="https://www.youtube.com/watch?v=ZgFaVXQIvTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgFaVXQIvTM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZgFaVXQIvTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgFaVXQIvTM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 part 22 | Comets, Meteoroids and Meteor | ኮሜትስ፣ ሜትሮይድ እና ሜቶር...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/</a>  
+   Link:<a href="https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EthioEmbassyUK/posts/ethiopia-is-set-to-launch-its-second-satellite-into-space-next-month-from-china-/3144095915625563/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/</a>  
+   Link:<a href="https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kulayo/posts/a-mysterious-object-was-spotted-this-evening-at-around-730pm-in-north-horrsaku-m/9661940180502488/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/</a>  
+   Link:<a href="https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/angaafradio/posts/just-inthe-ethiopian-space-science-society-says-that-the-material-objects-seen-i/1250957559837534/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/</a>  
+   Link:<a href="https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/</a>  
+   Link:<a href="https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESATimPeake/posts/did-anyone-else-in-the-east-midlands-and-the-ne-of-the-uk-spot-this-most-likely-/1159914572169692/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/eritrea-secedes-ethiopia</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: t.me  
-   Link: <a href="https://t.me/s/officialesss/1823" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss/1823</a>
+   Link:<a href="https://t.me/s/officialesss/1823" target="_blank" rel="noopener noreferrer nofollow">https://t.me/s/officialesss/1823</a>

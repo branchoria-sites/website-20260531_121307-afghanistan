@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bhutan-bb2254-index/
 description: Focused pages that expand on What Do UFO Sightings in Bhutan Really....
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Bhutan_bb2254
 parent_title: What Do UFO Sightings in Bhutan Really...
@@ -16,7 +16,7 @@ parent_permalink: /what-do-ufo-sightings-in-bhutan-really/
 
 # Explore Topics in What Do UFO Sightings in Bhutan Really...
 
-The following pages expand on the main **[What Do UFO Sightings in Bhutan Really...]({{ '/what-do-ufo-sightings-in-bhutan-really/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do UFO Sightings in Bhutan Really...]({{ '/what-do-ufo-sightings-in-bhutan-really/' | relative_url }})** page and cover its key branches in.
 
 - [Astronomy Infrastructure]({{ '/astronomy-infrastructure/' | relative_url }})
 - [Official Records]({{ '/official-records-ffaabe/' | relative_url }})

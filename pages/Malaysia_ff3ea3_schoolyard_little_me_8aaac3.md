@@ -257,7 +257,7 @@ image: /assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1
 Malaysia’s earliest UFO folklore did not begin with radar operators, military pilots, or leaked government files. It began in schoolyards. During the late 1960s and 1970s, a cluster of stories emerged in which children reported miniature flying saucers, tiny humanoid occupants, and brief encounters on or near school grounds. These reports became some of the most distinctive episodes in Malaysian UFO history because they combined two unusual elements: child witnesses and extremely small “little men” figures, sometimes described as only a few inches tall.
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-dark.svg" | relative_url }}" alt="Schoolyard Tales illustration 1" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The stories remain culturally memorable because they were reported in newspapers at the time and spread across different parts of Peninsular Malaysia. Yet they also illustrate one of the central problems in Malaysian UFO research: the strongest evidence is often the existence of the report itself rather than independent confirmation of the event. The schoolyard cases therefore occupy an unusual position. They are among the country's most famous UFO stories, but they are also among its most difficult cases to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+The stories remain culturally memorable because they were reported in newspapers at the time and spread across different parts of Peninsular Malaysia. Yet they also illustrate one of the central problems in Malaysian UFO research: the strongest evidence is often the existence of the report itself rather than independent confirmation of the event. The schoolyard cases therefore occupy an unusual position. They are among the country's most famous UFO stories, but they are also among its most difficult cases to verify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 ## Why Malaysian UFO Tales Became School Stories
 
@@ -274,40 +274,40 @@ Several factors help explain why these accounts attracted attention:
 
 </div>
 
-The result was a specifically Malaysian strand of UFO folklore in which the mystery was not a giant spacecraft in the sky but tiny visitors apparently landing almost at ground level. Later retellings often exaggerated details, but the original reports already contained the basic pattern: schoolchildren, miniature craft, small humanoids, and brief encounters that vanished before adults could properly investigate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+The result was a specifically Malaysian strand of UFO folklore in which the mystery was not a giant spacecraft in the sky but tiny visitors apparently landing almost at ground level. Later retellings often exaggerated details, but the original reports already contained the basic pattern: schoolchildren, miniature craft, small humanoids, and brief encounters that vanished before adults could properly investigate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 725.8K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
 
 ## Bukit Mertajam and the Press Footprint
 
-The most famous example emerged in Bukit Mertajam, Penang, in August 1970. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zulheimymaamor.blogspot.com">[zulheimymaamor.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zulheimymaamor.blogspot.com</span><span class="citation-popover-title">ufo di malaysia</span><span class="citation-popover-snippet">UFO IN MALAYSIA10 Jan 2024 — August 1970 - six young boys at Stowell Primary School in Bukit Mertajam, Penang claimed to see a tiny flyin...</span><span class="citation-popover-meta">Published: August 1970</span></span></span>
+The most famous example emerged in Bukit Mertajam, Penang, in August 1970.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zulheimymaamor.blogspot.com">[zulheimymaamor.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zulheimymaamor.blogspot.com</span><span class="citation-popover-title">ufo di malaysia</span><span class="citation-popover-snippet">UFO IN MALAYSIA10 Jan 2024 — August 1970 - six young boys at Stowell Primary School in Bukit Mertajam, Penang claimed to see a tiny flyin...</span><span class="citation-popover-meta">Published: August 1970</span></span></span>
 
-According to a contemporary report later preserved in archives and reproductions, six boys from Stowell English Primary School claimed they saw a flying saucer about the size of a soup plate land near them while they were playing beside the school. They described several tiny beings emerging from the craft. One account stated that the figures were around three inches tall and wore coloured outfits, while another claimed one of the boys was struck by a miniature weapon after attempting to approach the beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+According to a contemporary report later preserved in archives and reproductions, six boys from Stowell English Primary School claimed they saw a flying saucer about the size of a soup plate land near them while they were playing beside the school. They described several tiny beings emerging from the craft. One account stated that the figures were around three inches tall and wore coloured outfits, while another claimed one of the boys was struck by a miniature weapon after attempting to approach the beings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
-What makes the Bukit Mertajam story important is not the quality of the evidence but the existence of a traceable newspaper record. The Straits Times report described crowds gathering around the school after the story spread, creating what amounted to a local UFO craze. The article also recorded scepticism from adults, including school authorities who reportedly regarded the episode as imagination or mass excitement rather than proof of anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+What makes the Bukit Mertajam story important is not the quality of the evidence but the existence of a traceable newspaper record. The Straits Times report described crowds gathering around the school after the story spread, creating what amounted to a local UFO craze. The article also recorded scepticism from adults, including school authorities who reportedly regarded the episode as imagination or mass excitement rather than proof of anything extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
-This combination of publicity and doubt is significant. Unlike many later internet-age UFO stories, the Bukit Mertajam case can be linked to contemporary reporting rather than solely to decades-later retellings. At the same time, no physical evidence, photographs, recovered objects, or independent technical observations emerged to support the children's claims. The surviving value of the case is therefore historical and cultural rather than evidential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+This combination of publicity and doubt is significant. Unlike many later internet-age UFO stories, the Bukit Mertajam case can be linked to contemporary reporting rather than solely to decades-later retellings. At the same time, no physical evidence, photographs, recovered objects, or independent technical observations emerged to support the children's claims. The surviving value of the case is therefore historical and cultural rather than evidential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 ### How the Story Expanded
 
 As the tale circulated, additional details appeared in later summaries.
 
-Some versions described blue-suited occupants carrying equipment. Others mentioned a yellow-clad figure with antenna-like projections. Still others added claims of burns, marks, or temporary unconsciousness after contact with the miniature beings. These details became increasingly elaborate as the story moved from newspaper coverage into UFO literature and paranormal collections. Journal Online 2CILISOS - Current Issues Tambah Pedas! <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[cilisos.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span>
+Some versions described blue-suited occupants carrying equipment. Others mentioned a yellow-clad figure with antenna-like projections. Still others added claims of burns, marks, or temporary unconsciousness after contact with the miniature beings. These details became increasingly elaborate as the story moved from newspaper coverage into UFO literature and paranormal collections. Journal Online 2CILISOS - Current Issues Tambah Pedas!<span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[cilisos.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span>
 
-The growth of the narrative demonstrates a common pattern in UFO folklore. A relatively simple original report acquires new elements as it is repeated across books, magazines, websites, and discussion groups. Researchers attempting to evaluate the Bukit Mertajam incident therefore face two separate tasks: determining what was actually reported in 1970 and separating that from later embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+The growth of the narrative demonstrates a common pattern in UFO folklore. A relatively simple original report acquires new elements as it is repeated across books, magazines, websites, and discussion groups. Researchers attempting to evaluate the Bukit Mertajam incident therefore face two separate tasks: determining what was actually reported in 1970 and separating that from later embellishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-2-dark.svg" | relative_url }}" alt="Schoolyard Tales illustration 2" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Other School-Linked Little Men Stories
 
 Bukit Mertajam was not presented as an isolated incident. Contemporary and later accounts repeatedly referred to other Malaysian school encounters involving miniature beings.
 
-One report mentioned a similar episode near Johor Bahru in which boys allegedly saw a small UFO and tiny occupants on school grounds. According to later retellings, a scorched patch of earth was reportedly found after the sighting, although documentation is sparse and surviving evidence is limited to secondary summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene &#124; &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
+One report mentioned a similar episode near Johor Bahru in which boys allegedly saw a small UFO and tiny occupants on school grounds. According to later retellings, a scorched patch of earth was reportedly found after the sighting, although documentation is sparse and surviving evidence is limited to secondary summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene &#124; &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
 
-Another frequently cited case is linked to the Kuantan area. Later UFO catalogues claim that schoolboys encountered tiny humanoids at a school compound and that one creature was briefly captured before escaping. The story has circulated widely in paranormal databases but lacks the strong contemporary press footprint that makes Bukit Mertajam comparatively easier to trace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene &#124; &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
+Another frequently cited case is linked to the Kuantan area. Later UFO catalogues claim that schoolboys encountered tiny humanoids at a school compound and that one creature was briefly captured before escaping. The story has circulated widely in paranormal databases but lacks the strong contemporary press footprint that makes Bukit Mertajam comparatively easier to trace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tall-white-aliens.com">[tall-white-aliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tall-white-aliens.com</span><span class="citation-popover-title">The Malaysian UFO Scene &#124; &quot;Tall-White&quot; aliens CASE 1</span><span class="citation-popover-snippet">Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</span></span></span>
 
-The motif also appears in references to further Bukit Mertajam incidents during the 1970s. Some accounts describe repeated appearances of miniature craft around schools and nearby settlements. Because many of these reports survive mainly through UFO enthusiasts' archives rather than original newspaper collections, it is difficult to establish how many represent separate events and how many are retellings of the same core story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
+The motif also appears in references to further Bukit Mertajam incidents during the 1970s. Some accounts describe repeated appearances of miniature craft around schools and nearby settlements. Because many of these reports survive mainly through UFO enthusiasts' archives rather than original newspaper collections, it is difficult to establish how many represent separate events and how many are retellings of the same core story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
 
-This uncertainty is one reason Malaysian UFO researchers often treat the little-men reports as a case family rather than a collection of fully documented incidents. The stories share recurring themes, witnesses, locations, and imagery, even when the underlying documentation differs in quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
+This uncertainty is one reason Malaysian UFO researchers often treat the little-men reports as a case family rather than a collection of fully documented incidents. The stories share recurring themes, witnesses, locations, and imagery, even when the underlying documentation differs in quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KhLc07CEZuE" title="Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KhLc07CEZuE" target="_blank" rel="noopener noreferrer">Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 10.7K &middot; Uploaded: February 2025 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KhLc07CEZuE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KhLc07CEZuE">Open on YouTube</a></p></div></div></div>
 
@@ -315,11 +315,11 @@ This uncertainty is one reason Malaysian UFO researchers often treat the little-
 
 The most unusual feature of these stories is the size of the alleged visitors.
 
-Many global UFO narratives describe human-sized occupants. Malaysian schoolyard accounts often described beings only a few inches tall and spacecraft no larger than household objects. The miniature scale became so central that later writers sometimes referred to the occupants as “micro-humanoids” or “miniature aliens.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.com.ph">[Journal Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.com.ph</span><span class="citation-popover-title">the weird invasion of miniature aliens in malaysia</span><span class="citation-popover-snippet">Journal OnlineThe Weird Invasion Of Miniature Aliens In Malaysia28 Oct 2020 — On August 19, 1970, a miniature UFO was seen by schoolkids...</span><span class="citation-popover-meta">Published: August 19, 1970</span></span></span>
+Many global UFO narratives describe human-sized occupants. Malaysian schoolyard accounts often described beings only a few inches tall and spacecraft no larger than household objects. The miniature scale became so central that later writers sometimes referred to the occupants as “micro-humanoids” or “miniature aliens.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.com.ph">[Journal Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.com.ph</span><span class="citation-popover-title">the weird invasion of miniature aliens in malaysia</span><span class="citation-popover-snippet">Journal OnlineThe Weird Invasion Of Miniature Aliens In Malaysia28 Oct 2020 — On August 19, 1970, a miniature UFO was seen by schoolkids...</span><span class="citation-popover-meta">Published: August 19, 1970</span></span></span>
 
-That detail raises interesting cultural questions. Tiny supernatural beings already existed in many folklore traditions around the world long before the modern UFO era. During the twentieth century, global popular culture also spread images of “little green men” through newspapers, comics, films, and science-fiction stories. By the late 1960s, the phrase had become a familiar shorthand for extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Little_green_men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Little green men</span><span class="citation-popover-snippet">Little green men</span></span></span>
+That detail raises interesting cultural questions. Tiny supernatural beings already existed in many folklore traditions around the world long before the modern UFO era. During the twentieth century, global popular culture also spread images of “little green men” through newspapers, comics, films, and science-fiction stories. By the late 1960s, the phrase had become a familiar shorthand for extraterrestrials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Little_green_men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Little green men</span><span class="citation-popover-snippet">Little green men</span></span></span>
 
-The Malaysian reports seem to sit at an intersection between those influences. The alleged beings were not described as traditional spirits, yet neither did they resemble the taller, more standardised alien figures that became common in later UFO culture. Their appearance instead reflected a distinctly miniature form that helped make the stories memorable and unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
+The Malaysian reports seem to sit at an intersection between those influences. The alleged beings were not described as traditional spirits, yet neither did they resemble the taller, more standardised alien figures that became common in later UFO culture. Their appearance instead reflected a distinctly miniature form that helped make the stories memorable and unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZY-xj_b-c7c" title="Westall 66 | Official Trailer | DocPlay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer">Westall 66 | Official Trailer | DocPlay</a></p><p class="youtube-embed-meta">Channel: DocPlay &middot; Views: 813 &middot; Uploaded: July 2024 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZY-xj_b-c7c">Open on YouTube</a></p></div></div></div>
 
@@ -327,212 +327,212 @@ The Malaysian reports seem to sit at an intersection between those influences. T
 
 The role of children affects how these cases are interpreted.
 
-Believers sometimes argue that children are less likely to fabricate complex UFO stories and may describe unusual events more directly than adults. Sceptics counter that children are also more susceptible to suggestion, group reinforcement, rumours, and imaginative play. School environments can amplify these effects because stories spread rapidly among classmates. Once one child reports something extraordinary, others may reinterpret ordinary experiences through the same framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+Believers sometimes argue that children are less likely to fabricate complex UFO stories and may describe unusual events more directly than adults. Sceptics counter that children are also more susceptible to suggestion, group reinforcement, rumours, and imaginative play. School environments can amplify these effects because stories spread rapidly among classmates. Once one child reports something extraordinary, others may reinterpret ordinary experiences through the same framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
-The Bukit Mertajam report itself reflected this tension. Newspaper coverage recorded the children's claims while also noting adult scepticism and concerns about imagination or collective excitement. That dual response has remained characteristic of discussion surrounding Malaysian schoolyard UFO cases ever since. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+The Bukit Mertajam report itself reflected this tension. Newspaper coverage recorded the children's claims while also noting adult scepticism and concerns about imagination or collective excitement. That dual response has remained characteristic of discussion surrounding Malaysian schoolyard UFO cases ever since.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
-Importantly, the surviving public record rarely includes detailed witness interviews conducted years later, psychological assessments, photographs, or independent investigations. Modern readers therefore encounter these cases primarily through the lens of media reporting rather than through extensive evidential files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+Importantly, the surviving public record rarely includes detailed witness interviews conducted years later, psychological assessments, photographs, or independent investigations. Modern readers therefore encounter these cases primarily through the lens of media reporting rather than through extensive evidential files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-3-dark.svg" | relative_url }}" alt="Schoolyard Tales illustration 3" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_schoolyard_little_me_8aaac3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Folklore Value Versus Evidential Strength
 
 The little-men stories occupy an important place in Malaysian UFO history even though their evidential value remains weak.
 
-From a folklore perspective, they reveal how Malaysian communities absorbed global UFO ideas and reshaped them into local narratives. The stories spread through schools, newspapers, and public discussion rather than through official investigations. Their persistence across decades shows how memorable the image of tiny visitors became within Malaysia's UFO tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
+From a folklore perspective, they reveal how Malaysian communities absorbed global UFO ideas and reshaped them into local narratives. The stories spread through schools, newspapers, and public discussion rather than through official investigations. Their persistence across decades shows how memorable the image of tiny visitors became within Malaysia's UFO tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…</span><span class="citation-popover-snippet">ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</span></span></span> - Current Issues Tambah Pedas!
 
-From an evidential perspective, the picture is much less impressive. The cases depend heavily on eyewitness testimony from children, often filtered through newspapers and later retellings. Physical evidence is absent or poorly documented. Independent corroboration is scarce. Many surviving accounts come from paranormal archives that repeat earlier reports rather than providing new documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc1038.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">Humanoid Encounters In MalaysiaOne small burnt patch on the ground was found. The UFO was gone.... Two schoolboys claimed to have seen t...</span></span></span>
+From an evidential perspective, the picture is much less impressive. The cases depend heavily on eyewitness testimony from children, often filtered through newspapers and later retellings. Physical evidence is absent or poorly documented. Independent corroboration is scarce. Many surviving accounts come from paranormal archives that repeat earlier reports rather than providing new documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc1038.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">Humanoid Encounters In MalaysiaOne small burnt patch on the ground was found. The UFO was gone.... Two schoolboys claimed to have seen t...</span></span></span>
 
-That does not make the stories worthless. Instead, it changes their significance. They are best understood as a distinctive chapter in Malaysia's UFO folklore: a period when schoolyards rather than airports became the stage for extraordinary claims, and when the country's most famous extraterrestrial visitors were not towering beings from giant spacecraft but tiny figures said to have stepped from miniature flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
+That does not make the stories worthless. Instead, it changes their significance. They are best understood as a distinctive chapter in Malaysia's UFO folklore: a period when schoolyards rather than airports became the stage for extraordinary claims, and when the country's most famous extraterrestrial visitors were not towering beings from giant spacecraft but tiny figures said to have stepped from miniature flying saucers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lingthemerciless.blogspot.com">[lingthemerciless.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lingthemerciless.blogspot.com</span><span class="citation-popover-title">Aliens and UFOs</span><span class="citation-popover-snippet">Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Malaysian UFO Tales Began in Schoolyards. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Malaysian UFO Tales Began in Schoolyards. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Explores historical anomalous sightings and cultural interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores historical anomalous sightings and cultural interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides broader UFO context around witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context around witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains many historical humanoid and schoolyard-style reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains many historical humanoid and schoolyard-style reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Strong fit for child-witness stories, folklore, and humanoid encounter traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for child-witness stories, folklore, and humanoid encounter traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-malaysian-ufo-tales-began-in-schoolyards-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ That does not make the stories worthless. Instead, it changes their significance
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ That does not make the stories worthless. Instead, it changes their significance
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ That does not make the stories worthless. Instead, it changes their significance
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ That does not make the stories worthless. Instead, it changes their significance
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ That does not make the stories worthless. Instead, it changes their significance
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,130 +735,129 @@ That does not make the stories worthless. Instead, it changes their significance
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lingthemerciless.blogspot.com  
    Title: Aliens and UFOs  
-   Link: <a href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow">https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</p></details>
+   Link:<a href="https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html" target="_blank" rel="noopener noreferrer nofollow">https://lingthemerciless.blogspot.com/2005/11/aliens-and-ufos-frontpage-news-of.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bukit Mertajam schoolboys. The boys, all students of Stowell English Primary School, claimed that a soup-plate sized flying saucer landed...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cilisos.my  
    Title: Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…  
-   Link: <a href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</p></details>
+   Link:<a href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS FROM...30 Oct 2015 — Throughout the 1970s, Bukit Mertajam appeared to be a hot spot for UFO... schoolyard, out of which marched...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tall-white-aliens.com  
    Title: The Malaysian UFO Scene | "Tall-White" aliens CASE 1  
-   Link: <a href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.tall-white-aliens.com/the-malaysian-ufo-scene/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</p></details>
+   Link:<a href="https://www.tall-white-aliens.com/the-malaysian-ufo-scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.tall-white-aliens.com/the-malaysian-ufo-scene/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johore Bahru, 1970 · CASE 2: Gambang near Kuantan, 1973. Two schoolboys claimed to have seen tiny humanoids only 3-inches tall in the sch...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/documents/doc1038.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1038.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanoid Encounters In MalaysiaOne small burnt patch on the ground was found. The UFO was gone.... Two schoolboys claimed to have seen t...</p></details>
+   Link:<a href="https://www.ufoevidence.org/documents/doc1038.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1038.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Humanoid Encounters In MalaysiaOne small burnt patch on the ground was found. The UFO was gone.... Two schoolboys claimed to have seen t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: zulheimymaamor.blogspot.com  
    Title: ufo di malaysia  
-   Link: <a href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow">https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IN MALAYSIA10 Jan 2024 — August 1970 - six young boys at Stowell Primary School in Bukit Mertajam, Penang claimed to see a tiny flyin...</p></details>
+   Link:<a href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow">https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IN MALAYSIA10 Jan 2024 — August 1970 - six young boys at Stowell Primary School in Bukit Mertajam, Penang claimed to see a tiny flyin...</p></details>
    Published: August 1970  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Little green men  
-   Link: <a href="https://en.wikipedia.org/wiki/Little_green_men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Little_green_men</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Little_green_men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Little_green_men</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThe creatures have been variously described as goblins, aliens, &quot;little green men&quot;, owls, and circus mon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThe creatures have been variously described as goblins, aliens, &quot;little green men&quot;, owls, and circus mon...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journal.com.ph  
    Title: the weird invasion of miniature aliens in malaysia  
-   Link: <a href="https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal OnlineThe Weird Invasion Of Miniature Aliens In Malaysia28 Oct 2020 — On August 19, 1970, a miniature UFO was seen by schoolkids...</p></details>
+   Link:<a href="https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://journal.com.ph/the-weird-invasion-of-miniature-aliens-in-malaysia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal OnlineThe Weird Invasion Of Miniature Aliens In Malaysia28 Oct 2020 — On August 19, 1970, a miniature UFO was seen by schoolkids...</p></details>
    Published: August 19, 1970  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/787673700445545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/787673700445545/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny humanoid sightings in Malaysian schools during 1970sThe earliest accounts trace back to 1970, when students in Johor Bahru reported...</p></details>
+   Link:<a href="https://www.facebook.com/groups/617328327480084/posts/787673700445545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/787673700445545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny humanoid sightings in Malaysian schools during 1970sThe earliest accounts trace back to 1970, when students in Johor Bahru reported...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10162086467932172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10162086467932172/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia&#x27;s 1970 Bukit Mertajam incident with 15cm tall...25 Apr 2026 — In the yard of an elementary school, a group of children were not...</p></details>
+   Link:<a href="https://www.facebook.com/groups/43941612171/posts/10162086467932172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10162086467932172/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia&#x27;s 1970 Bukit Mertajam incident with 15cm tall...25 Apr 2026 — In the yard of an elementary school, a group of children were not...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/561953866646271/posts/736586449183011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/561953866646271/posts/736586449183011/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1970, six children were playing in a densely forested...# Will Trump disclose UFOs this year 2026? #alien #ufo #area51 #aliens #ufos...</p></details>
+   Link:<a href="https://www.facebook.com/groups/561953866646271/posts/736586449183011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/561953866646271/posts/736586449183011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1970, six children were playing in a densely forested...# Will Trump disclose UFOs this year 2026? #alien #ufo #area51 #aliens #ufos...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: a group of 60 kids saw a ufo land in their school  
-   Link: <a href="https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A group of 60+ kids saw a ufo land in their school yard in 1994...There ARE a few dozen cases of UFO sightings by credible witnesses...</p></details>
+   Link:<a href="https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/bukcej/a_group_of_60_kids_saw_a_ufo_land_in_their_school/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A group of 60+ kids saw a ufo land in their school yard in 1994...There ARE a few dozen cases of UFO sightings by credible witnesses...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>students times son central original division men water near even women different french “ form just ” center 6 late london top court isla...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>students times son central original division men water near even women different french “ form just ” center 6 late london top court isla...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l Stories, UFOs, Cryptids &amp; Mysteries. 4y · Public...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SneakySushii/posts/true-stories-of-malaysias-hidden-elves/1259696886203010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l Stories, UFOs, Cryptids &amp; Mysteries. 4y · Public...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Tebedu, a district in Serian Division  
-   Link: <a href="https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Border entrance...Looi Kia Yeow tebedu are the first area being attacked by indonesia before sarawak merdeka and join malaysia. There wa...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1913354052274443/posts/4128726227403870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Border entrance...Looi Kia Yeow tebedu are the first area being attacked by indonesia before sarawak merdeka and join malaysia. There wa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: paranormal-world.fandom.com  
    Title: Microterrestrials of Malaysia  
-   Link: <a href="https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal World Wiki - FandomOn the 20th of August 1970, two boys in the Bukit Mertajam, Pulau Pinang, Malaysia, went to the spot where...</p></details>
+   Link:<a href="https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/Microterrestrials_of_Malaysia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal World Wiki - FandomOn the 20th of August 1970, two boys in the Bukit Mertajam, Pulau Pinang, Malaysia, went to the spot where...</p></details>
    Published: August 1970  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: Miniature Aliens and UFO's  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia 1970&#x27;s (This has...So I found out (by researching the 2016 Malaysia school shadow creature craze) that in the 70&#x27;s in Malaysia...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b0on5l/miniature_aliens_and_ufos_malaysia_1970s_this_has/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malaysia 1970&#x27;s (This has...So I found out (by researching the 2016 Malaysia school shadow creature craze) that in the 70&#x27;s in Malaysia...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Ariel School UFO Incident  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>all 71 known drawings by the...TIL In 1994, 60 children at Ariel school in Ruwa, Zimbabwe said they&#x27;d seen a &#x27;UFO&#x27; and &#x27;aliens with big...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>all 71 known drawings by the...TIL In 1994, 60 children at Ariel school in Ruwa, Zimbabwe said they&#x27;d seen a &#x27;UFO&#x27; and &#x27;aliens with big...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blog.britishnewspaperarchive.co.uk  
    Title: incredible ufo sightings  
-   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>britishnewspaperarchive.co.uk10 Incredible UFO Sightings As Reported in Our Archive13 Jul 2022 — These ten accounts of UFO sightings are...</p></details>
+   Link:<a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>britishnewspaperarchive.co.uk10 Incredible UFO Sightings As Reported in Our Archive13 Jul 2022 — These ten accounts of UFO sightings are...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Westall 66 | Official Trailer | Doc Play  
-   Link: <a href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZY-xj_b-c7c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video from Australian Story provides a deep dive into the 1966 Westall mass sighting, documenting how a schoolyard setting and a lar...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZY-xj_b-c7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZY-xj_b-c7c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video from Australian Story provides a deep dive into the 1966 Westall mass sighting, documenting how a schoolyard setting and a lar...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter...</p></details>

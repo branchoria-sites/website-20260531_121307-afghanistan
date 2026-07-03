@@ -1236,7 +1236,7 @@ Statements referenced in international forums suggest that at least one Dominica
 
 Public interest in UFOs and extraterrestrial encounters occasionally spikes due to energetic claims from self‑styled ufologists and online communities:
 
-* **Ufologist activities:** Visiting figures have promoted ideas such as establishing “UFOports” or identifying mystical regions allegedly rich in UFO activity. These proposals draw more on belief systems than on empirical data.http <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amodominicana.com/ufologo-propone-ovnipuerto-en-la-republica-dominicana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amodominicana.com">[www.amodominicana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amodominicana.com</span><span class="citation-popover-snippet">July 7, 2014...</span><span class="citation-popover-meta">Published: July 7, 2014</span></span></span>
+* **Ufologist activities:** Visiting figures have promoted ideas such as establishing “UFOports” or identifying mystical regions allegedly rich in UFO activity. These proposals draw more on belief systems than on empirical data.http<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amodominicana.com/ufologo-propone-ovnipuerto-en-la-republica-dominicana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amodominicana.com">[www.amodominicana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amodominicana.com</span><span class="citation-popover-snippet">July 7, 2014...</span><span class="citation-popover-meta">Published: July 7, 2014</span></span></span>
 * **Online and social media:** Numerous internet posts and videos circulate purported sightings, including fast‑moving objects captured on smartphones or videos of lights in the sky during local events. These are shared widely but often lack verification, context, or analysis that would differentiate misidentified ordinary phenomena from truly anomalous events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/tyj61d/ufo_sighting_in_dajabon_dominican_republic_local/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO sighting in Dajabon, Dominican Republic (Local news</span><span class="citation-popover-snippet">There is a youtube video of what I saw. I saw it on a Monday, bright sun, so phone camera wouldn&#x27;t show anything.Read more...</span></span></span>
 
 While compelling to some audiences, such fringe claims do not constitute reliable evidence of extraterrestrial visitation.
@@ -1286,194 +1286,194 @@ Scientific organisations within the Dominican Republic emphasise skepticism: uni
 In essence, while interest in UFOs remains vibrant among segments of the Dominican public, the quality of evidence falls into the categories of unverified witness reports and misidentified phenomena rather than substantiated encounters with non‑earthly craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen in Dominican Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Seen in Dominican Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for analysing varied sighting reports from a national context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for analysing varied sighting reports from a national context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits pages covering reported sightings and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits pages covering reported sightings and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers modern claims, investigations, and government interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern claims, investigations, and government interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds cultural and historical context to recurring sighting stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds cultural and historical context to recurring sighting stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-in-dominican-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-in-dominican-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1489,7 +1489,7 @@ In essence, while interest in UFOs remains vibrant among segments of the Dominic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1509,7 +1509,7 @@ In essence, while interest in UFOs remains vibrant among segments of the Dominic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1541,7 +1541,7 @@ In essence, while interest in UFOs remains vibrant among segments of the Dominic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1593,7 +1593,7 @@ In essence, while interest in UFOs remains vibrant among segments of the Dominic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1638,7 +1638,7 @@ In essence, while interest in UFOs remains vibrant among segments of the Dominic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1676,229 +1676,228 @@ In essence, while interest in UFOs remains vibrant among segments of the Dominic
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=51925" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51925</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 51925October 30, 2006...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=51925" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51925</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 51925October 30, 2006...</p></details>
    Published: October 30, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=108049</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 108049March 27, 2014...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=108049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 108049March 27, 2014...</p></details>
    Published: March 27, 2014  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=137587" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137587</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137587December 8, 2017...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=137587" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137587</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137587December 8, 2017...</p></details>
    Published: December 8, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vallenuevotv.com  
    Title: Valle Nuevo TV  
-   Link: <a href="https://vallenuevotv.com/ovnis-en-republica-dominicana-avistamientos-y-testimonios-que-generan-debate/" target="_blank" rel="noopener noreferrer nofollow">https://vallenuevotv.com/ovnis-en-republica-dominicana-avistamientos-y-testimonios-que-generan-debate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Constancero como túOvnis en República Dominicana: Avistamientos y testimonios que generan debate&quot; | Valle Nuevo TVMarch 12, 2025...</p></details>
+   Link:<a href="https://vallenuevotv.com/ovnis-en-republica-dominicana-avistamientos-y-testimonios-que-generan-debate/" target="_blank" rel="noopener noreferrer nofollow">https://vallenuevotv.com/ovnis-en-republica-dominicana-avistamientos-y-testimonios-que-generan-debate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constancero como túOvnis en República Dominicana: Avistamientos y testimonios que generan debate&quot; | Valle Nuevo TVMarch 12, 2025...</p></details>
    Published: March 12, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amodominicana.com  
-   Link: <a href="https://www.amodominicana.com/ufologo-propone-ovnipuerto-en-la-republica-dominicana/" target="_blank" rel="noopener noreferrer nofollow">https://www.amodominicana.com/ufologo-propone-ovnipuerto-en-la-republica-dominicana/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2014...</p></details>
+   Link:<a href="https://www.amodominicana.com/ufologo-propone-ovnipuerto-en-la-republica-dominicana/" target="_blank" rel="noopener noreferrer nofollow">https://www.amodominicana.com/ufologo-propone-ovnipuerto-en-la-republica-dominicana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2014...</p></details>
    Published: July 7, 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: UFO sighting in Dajabon, Dominican Republic (Local news  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/tyj61d/ufo_sighting_in_dajabon_dominican_republic_local/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tyj61d/ufo_sighting_in_dajabon_dominican_republic_local/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There is a youtube video of what I saw. I saw it on a Monday, bright sun, so phone camera wouldn&#x27;t show anything.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/tyj61d/ufo_sighting_in_dajabon_dominican_republic_local/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tyj61d/ufo_sighting_in_dajabon_dominican_republic_local/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There is a youtube video of what I saw. I saw it on a Monday, bright sun, so phone camera wouldn&#x27;t show anything.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DGPF40Ztd1o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGPF40Ztd1o/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING: UFO Sighting in DR! I filmed this myself while...Reports from the National UFO Reporting Center show that the island...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DGPF40Ztd1o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGPF40Ztd1o/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING: UFO Sighting in DR! I filmed this myself while...Reports from the National UFO Reporting Center show that the island...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=137133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137133</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137133November 9, 2017 — NUFORC UFO SIGHTING 137133 Occurred: 2000-12-31 21:00 Local Reported: 2017-11-06 09:13 Pacif...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=137133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137133November 9, 2017 — NUFORC UFO SIGHTING 137133 Occurred: 2000-12-31 21:00 Local Reported: 2017-11-06 09:13 Pacif...</p></details>
    Published: December 31, 2000  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=84316" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=84316</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 84316October 10, 2011 — NUFORC UFO SIGHTING 84316 Occurred: 2011-10-02 21:50 Local Reported: 2011-10-03 23:28 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=84316" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=84316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 84316October 10, 2011 — NUFORC UFO SIGHTING 84316 Occurred: 2011-10-02 21:50 Local Reported: 2011-10-03 23:28 Pacific...</p></details>
    Published: October 2, 2011  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=15727" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=15727</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 15727January 3, 2001 — NUFORC UFO SIGHTING 15727 Occurred: 2000-12-31 21:40 Local Reported: 2001-01-02 00:00 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=15727" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=15727</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 15727January 3, 2001 — NUFORC UFO SIGHTING 15727 Occurred: 2000-12-31 21:40 Local Reported: 2001-01-02 00:00 Pacific...</p></details>
    Published: December 31, 2000  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQP3TpdkQSv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQP3TpdkQSv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lidera los avistamientos en el Caribe con 39 casos documentados...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQP3TpdkQSv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQP3TpdkQSv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lidera los avistamientos en el Caribe con 39 casos documentados...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYqJnOZOkkz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqJnOZOkkz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>era los avistamientos en el Caribe con 39 casos documentados...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYqJnOZOkkz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqJnOZOkkz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>era los avistamientos en el Caribe con 39 casos documentados...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Caribbean is drawing attention online after data...JAMAICA AMONG CARIBBEAN COUNTRIES WITH HIGHEST REPORTED UFO SIGHTINGS Dominican R...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Caribbean is drawing attention online after data...JAMAICA AMONG CARIBBEAN COUNTRIES WITH HIGHEST REPORTED UFO SIGHTINGS Dominican R...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CxoehpJtl5M/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxoehpJtl5M/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>el Senado de EE. UU., los avistamientos se multiplican. ¿...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CxoehpJtl5M/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxoehpJtl5M/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>el Senado de EE. UU., los avistamientos se multiplican. ¿...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CtfQPBCszsB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtfQPBCszsB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>se puede apreciar si es un avión por lo rápido que iba ¿crees...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CtfQPBCszsB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtfQPBCszsB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>se puede apreciar si es un avión por lo rápido que iba ¿crees...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Sosua's Bizarre Art Museum "Castillo Mundo King" | Dominican Republic  
-   Link: <a href="https://www.youtube.com/watch?v=y7uKqUSdqwM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y7uKqUSdqwM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The WEIRDEST Place In The World | Castillo Mundo King in Dominican Republic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=y7uKqUSdqwM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y7uKqUSdqwM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WEIRDEST Place In The World | Castillo Mundo King in Dominican Republic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The WEIRDEST Place In The World | Castillo Mundo King in Dominican Republic  
-   Link: <a href="https://www.youtube.com/watch?v=d1q4ZcnrdQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1q4ZcnrdQE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hattian Voodoo Zombies and Aliens - The Mundo King Museum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d1q4ZcnrdQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1q4ZcnrdQE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hattian Voodoo Zombies and Aliens - The Mundo King Museum...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Hattian Voodoo Zombies and Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=UsJLAPU8VbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UsJLAPU8VbQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Castillo Mundo King - the most trippy place in Sosua, Dominican Republic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UsJLAPU8VbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UsJLAPU8VbQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Castillo Mundo King - the most trippy place in Sosua, Dominican Republic...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Castillo Mundo King  
-   Link: <a href="https://www.youtube.com/watch?v=E22X92OLgos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E22X92OLgos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and the Virgins...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E22X92OLgos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E22X92OLgos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and the Virgins...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFO and the Virgins  
-   Link: <a href="https://www.youtube.com/watch?v=6NPKL4E-ZSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6NPKL4E-ZSw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=6NPKL4E-ZSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6NPKL4E-ZSw</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: diariolibre.com  
    Title: Diario Libre La Sociedad Astronómica con postura “escéptica” sobre los ovnis  
-   Link: <a href="https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diario LibreLa Sociedad Astronómica con postura “escéptica” sobre los ovnis - Diario LibreFebruary 12, 2024...</p></details>
+   Link:<a href="https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/planeta/ciencia/2024/02/11/la-sociedad-astronomica-con-postura-esceptica-sobre-los-ovnis/2608976</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diario LibreLa Sociedad Astronómica con postura “escéptica” sobre los ovnis - Diario LibreFebruary 12, 2024...</p></details>
    Published: February 12, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: elcaribe.com.do  
    Title: Periódico el Caribe La verdad sobre el misterioso objeto en el cielo dominicano  
-   Link: <a href="https://www.elcaribe.com.do/clima/misterioso-objeto-visible-cielo-rd/" target="_blank" rel="noopener noreferrer nofollow">https://www.elcaribe.com.do/clima/misterioso-objeto-visible-cielo-rd/</a>  
+   Link:<a href="https://www.elcaribe.com.do/clima/misterioso-objeto-visible-cielo-rd/" target="_blank" rel="noopener noreferrer nofollow">https://www.elcaribe.com.do/clima/misterioso-objeto-visible-cielo-rd/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: diariolibre.com  
    Title: Diario Libre Análisis de fenómenos anómalos no identificados en el Caribe  
-   Link: <a href="https://www.diariolibre.com/mundo/estados-unidos/2026/05/10/analisis-de-fenomenos-anomalos-no-identificados-en-el-caribe/3528889" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/mundo/estados-unidos/2026/05/10/analisis-de-fenomenos-anomalos-no-identificados-en-el-caribe/3528889</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diario LibreAnálisis de fenómenos anómalos no identificados en el Caribe - Diario LibreMay 10, 2026...</p></details>
+   Link:<a href="https://www.diariolibre.com/mundo/estados-unidos/2026/05/10/analisis-de-fenomenos-anomalos-no-identificados-en-el-caribe/3528889" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/mundo/estados-unidos/2026/05/10/analisis-de-fenomenos-anomalos-no-identificados-en-el-caribe/3528889</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diario LibreAnálisis de fenómenos anómalos no identificados en el Caribe - Diario LibreMay 10, 2026...</p></details>
    Published: May 10, 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: diariolibre.com  
    Title: ¡Ovnis y extraterrestres a la vista!  
-   Link: <a href="https://www.diariolibre.com/opinion/lecturas/ovnis-y-extraterrestres-a-la-vista-avistamientos-y-experiencias-dominicanas-2-de-2-EY1067372" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/opinion/lecturas/ovnis-y-extraterrestres-a-la-vista-avistamientos-y-experiencias-dominicanas-2-de-2-EY1067372</a>  
+   Link:<a href="https://www.diariolibre.com/opinion/lecturas/ovnis-y-extraterrestres-a-la-vista-avistamientos-y-experiencias-dominicanas-2-de-2-EY1067372" target="_blank" rel="noopener noreferrer nofollow">https://www.diariolibre.com/opinion/lecturas/ovnis-y-extraterrestres-a-la-vista-avistamientos-y-experiencias-dominicanas-2-de-2-EY1067372</a>  
    Published: August 29, 2015  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/zFOU6nnLTF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/zFOU6nnLTF8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Dominican Republic: Evidence and Mysteries...LOS ALIENS CONTROLAN EL PAIS? Ángel Luís Fernández y REVELA EXTRATERRESTRES CON...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/zFOU6nnLTF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/zFOU6nnLTF8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Dominican Republic: Evidence and Mysteries...LOS ALIENS CONTROLAN EL PAIS? Ángel Luís Fernández y REVELA EXTRATERRESTRES CON...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZF1m-Wg8Bc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZF1m-Wg8Bc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there UFOs in the Dominican Republic? | The Midday Showhay Ovnis en República Dominicana?| El Show del Mediodía #ElShowdelmediodía #O...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZF1m-Wg8Bc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZF1m-Wg8Bc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are there UFOs in the Dominican Republic? | The Midday Showhay Ovnis en República Dominicana?| El Show del Mediodía #ElShowdelmediodía #O...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=--toiNGAMQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=--toiNGAMQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Mexico: Sightings, encounters, and experiences that...Exploramos algunos de los casos más impactantes y misteriosos de avistamie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=--toiNGAMQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=--toiNGAMQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Mexico: Sightings, encounters, and experiences that...Exploramos algunos de los casos más impactantes y misteriosos de avistamie...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thephenomenon.app  
    Title: dominican republic  
-   Link: <a href="https://thephenomenon.app/dominican-republic/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/dominican-republic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Dominican Republic04.19.2025 NUFORC_189048 Image: Image from report NUFORC_189048 Stopped mid air and made a 90 degree r...</p></details>
+   Link:<a href="https://thephenomenon.app/dominican-republic/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/dominican-republic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Dominican Republic04.19.2025 NUFORC_189048 Image: Image from report NUFORC_189048 Stopped mid air and made a 90 degree r...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: novauruguay.com  
-   Link: <a href="https://www.novauruguay.com/nota.asp?id=22308&amp;id_tiponota=8&amp;t=Revuelo-en-Republica-Dominicana-por-profecia-y-video-de-extraterrestres-que-revelo-Reinaldo-Rios" target="_blank" rel="noopener noreferrer nofollow">https://www.novauruguay.com/nota.asp?id=22308&amp;id_tiponota=8&amp;t=Revuelo-en-Republica-Dominicana-por-profecia-y-video-de-extraterrestres-que-revelo-Reinaldo-Rios</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2015 — 15 de abril de 2026 Última actualización: 4:41 9 de febrero de 2015 Última actualización: 4:41 El ufólogo certificó el...</p></details>
+   Link:<a href="https://www.novauruguay.com/nota.asp?id=22308&amp;id_tiponota=8&amp;t=Revuelo-en-Republica-Dominicana-por-profecia-y-video-de-extraterrestres-que-revelo-Reinaldo-Rios" target="_blank" rel="noopener noreferrer nofollow">https://www.novauruguay.com/nota.asp?id=22308&amp;id_tiponota=8&amp;t=Revuelo-en-Republica-Dominicana-por-profecia-y-video-de-extraterrestres-que-revelo-Reinaldo-Rios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2015 — 15 de abril de 2026 Última actualización: 4:41 9 de febrero de 2015 Última actualización: 4:41 El ufólogo certificó el...</p></details>
    Published: February 9, 2015  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Caribbean?! Yeah... this morning&#x27;s...UFO sightings in the Caribbean?! Yeah... this morning&#x27;s convo got REAL interes...</p></details>
+   Link:<a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Caribbean?! Yeah... this morning&#x27;s...UFO sightings in the Caribbean?! Yeah... this morning&#x27;s convo got REAL interes...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ensegundos.do  
-   Link: <a href="https://ensegundos.do/2015/02/03/ufologo-extraterrestres-estan-en-republica-dominicana-para-impedir-sismo/" target="_blank" rel="noopener noreferrer nofollow">https://ensegundos.do/2015/02/03/ufologo-extraterrestres-estan-en-republica-dominicana-para-impedir-sismo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2015 — UFÓLOGO: EXTRATERRESTRES ESTÁN EN REPÚBLICA DOMINICANA PARA IMPEDIR SISMO * Image: Aldo Peguero Aldo Peguero * 2015-02...</p></details>
+   Link:<a href="https://ensegundos.do/2015/02/03/ufologo-extraterrestres-estan-en-republica-dominicana-para-impedir-sismo/" target="_blank" rel="noopener noreferrer nofollow">https://ensegundos.do/2015/02/03/ufologo-extraterrestres-estan-en-republica-dominicana-para-impedir-sismo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2015 — UFÓLOGO: EXTRATERRESTRES ESTÁN EN REPÚBLICA DOMINICANA PARA IMPEDIR SISMO * Image: Aldo Peguero Aldo Peguero * 2015-02...</p></details>
    Published: February 3, 2015  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: listindiario.com  
    Title: Listín Diario Para astrónomos dominicanos, faltan pruebas de vida extraterrestre  
-   Link: <a href="https://listindiario.com/la-republica/educacion/20230728/astronomos-dominicanos-faltan-pruebas-vida-extraterrestre_765492.html" target="_blank" rel="noopener noreferrer nofollow">https://listindiario.com/la-republica/educacion/20230728/astronomos-dominicanos-faltan-pruebas-vida-extraterrestre_765492.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Para astrónomos dominicanos, faltan pruebas de vida extraterrestreJuly 28, 2023 — OVNIS PARA ASTRÓNOMOS DOMINICANOS, FALTAN PRUEBAS DE VI...</p></details>
+   Link:<a href="https://listindiario.com/la-republica/educacion/20230728/astronomos-dominicanos-faltan-pruebas-vida-extraterrestre_765492.html" target="_blank" rel="noopener noreferrer nofollow">https://listindiario.com/la-republica/educacion/20230728/astronomos-dominicanos-faltan-pruebas-vida-extraterrestre_765492.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Para astrónomos dominicanos, faltan pruebas de vida extraterrestreJuly 28, 2023 — OVNIS PARA ASTRÓNOMOS DOMINICANOS, FALTAN PRUEBAS DE VI...</p></details>
    Published: July 28, 2023  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ufodigest.com  
    Title: UF O in the sky Over Las Terrenas in the Dominican Republic  
-   Link: <a href="https://www.ufodigest.com/article/ufo-in-the-sky-over-las-terrenas-in-the-dominican-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/ufo-in-the-sky-over-las-terrenas-in-the-dominican-republic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in the sky Over Las Terrenas in the Dominican Republic - UFO DigestJanuary 8, 2011 — UFO IN THE SKY OVER LAS TERRENAS IN THE DOMINICA...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/ufo-in-the-sky-over-las-terrenas-in-the-dominican-republic/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/ufo-in-the-sky-over-las-terrenas-in-the-dominican-republic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in the sky Over Las Terrenas in the Dominican Republic - UFO DigestJanuary 8, 2011 — UFO IN THE SKY OVER LAS TERRENAS IN THE DOMINICA...</p></details>
    Published: January 8, 2011  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Dominican Republic UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominican-republic-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominican-republic-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — DOMINICAN REPUBLIC UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT DOMINICAN REPUBLIC UFO UAP USO SIGHTINGS &amp; CLOSE E...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominican-republic-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominican-republic-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — DOMINICAN REPUBLIC UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT DOMINICAN REPUBLIC UFO UAP USO SIGHTINGS &amp; CLOSE E...</p></details>
    Published: March 22, 2025  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: mundooculto.es  
    Title: Algunos encuentros muy extraños con OVNInautas humanos  
-   Link: <a href="https://mundooculto.es/algunos-encuentros-muy-extranos-con-ovninautas-humanos/" target="_blank" rel="noopener noreferrer nofollow">https://mundooculto.es/algunos-encuentros-muy-extranos-con-ovninautas-humanos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 2023 — ALGUNOS ENCUENTROS MUY EXTRAÑOS CON OVNINAUTAS HUMANOS 22 junio, 2023 Ha habido varios casos de encuentros que parecen se...</p></details>
+   Link:<a href="https://mundooculto.es/algunos-encuentros-muy-extranos-con-ovninautas-humanos/" target="_blank" rel="noopener noreferrer nofollow">https://mundooculto.es/algunos-encuentros-muy-extranos-con-ovninautas-humanos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 2023 — ALGUNOS ENCUENTROS MUY EXTRAÑOS CON OVNINAUTAS HUMANOS 22 junio, 2023 Ha habido varios casos de encuentros que parecen se...</p></details>
    Published: June 22, 2023  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: tylervigen.com  
-   Link: <a href="https://tylervigen.com/spurious/research-papers/2063_connecting-colorado-ufos-and-dominican-republics-dinosaurs-a-quirky-correlation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tylervigen.com/spurious/research-papers/2063_connecting-colorado-ufos-and-dominican-republics-dinosaurs-a-quirky-correlation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an Republic has long perplexed researchers in the fields of ufology.Read more...</p></details>
+   Link:<a href="https://tylervigen.com/spurious/research-papers/2063_connecting-colorado-ufos-and-dominican-republics-dinosaurs-a-quirky-correlation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tylervigen.com/spurious/research-papers/2063_connecting-colorado-ufos-and-dominican-republics-dinosaurs-a-quirky-correlation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an Republic has long perplexed researchers in the fields of ufology.Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: novaparaguay.com  
    Title: El profesor Reinaldo Ríos en su más reciente gir  
-   Link: <a href="https://www.novaparaguay.com/nota.asp?id=14143&amp;id_tiponota=8&amp;t=Se-avistaron-ovnis-sobre-cielos-de-la-Republica-Dominicana-tras-visita-de-Reinaldo-Rios" target="_blank" rel="noopener noreferrer nofollow">https://www.novaparaguay.com/nota.asp?id=14143&amp;id_tiponota=8&amp;t=Se-avistaron-ovnis-sobre-cielos-de-la-Republica-Dominicana-tras-visita-de-Reinaldo-Rios</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Se avistaron ovnis sobre cielos de la República Dominicana tras visita de Reinaldo RíosJuly 28, 2010 — SE AVISTARON OVNIS SOBRE CIELOS DE...</p></details>
+   Link:<a href="https://www.novaparaguay.com/nota.asp?id=14143&amp;id_tiponota=8&amp;t=Se-avistaron-ovnis-sobre-cielos-de-la-Republica-Dominicana-tras-visita-de-Reinaldo-Rios" target="_blank" rel="noopener noreferrer nofollow">https://www.novaparaguay.com/nota.asp?id=14143&amp;id_tiponota=8&amp;t=Se-avistaron-ovnis-sobre-cielos-de-la-Republica-Dominicana-tras-visita-de-Reinaldo-Rios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Se avistaron ovnis sobre cielos de la República Dominicana tras visita de Reinaldo RíosJuly 28, 2010 — SE AVISTARON OVNIS SOBRE CIELOS DE...</p></details>
    Published: July 28, 2010  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/reports-have-emerged-claiming-a-ufo-crash-in-the-dominican-republic-drawing-atte/894836046869151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/reports-have-emerged-claiming-a-ufo-crash-in-the-dominican-republic-drawing-atte/894836046869151/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ject lit up the sky before crashing toward the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/reports-have-emerged-claiming-a-ufo-crash-in-the-dominican-republic-drawing-atte/894836046869151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/reports-have-emerged-claiming-a-ufo-crash-in-the-dominican-republic-drawing-atte/894836046869151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ject lit up the sky before crashing toward the...Read more...</p></details>

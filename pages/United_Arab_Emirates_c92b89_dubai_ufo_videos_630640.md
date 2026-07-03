@@ -248,7 +248,7 @@ image: /assets/images/United_Arab_Emirates_c92b89_dubai_ufo_videos_630640-Illust
 
 ## Introduction
 
-Dubai generates an unusually large number of viral “UFO” videos, but most do not remain unexplained for long. The city combines a dramatic skyline, constant tourism, major aviation activity, frequent drone and light shows, world-famous skydiving events, and millions of residents carrying smartphones. The result is a steady stream of clips showing strange lights, glowing formations, or apparently impossible movements in the sky. In many cases, the mystery fades once local events, aircraft activity, skydiving displays, laser projections, satellites, or weather conditions are checked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span>
+Dubai generates an unusually large number of viral “UFO” videos, but most do not remain unexplained for long. The city combines a dramatic skyline, constant tourism, major aviation activity, frequent drone and light shows, world-famous skydiving events, and millions of residents carrying smartphones. The result is a steady stream of clips showing strange lights, glowing formations, or apparently impossible movements in the sky. In many cases, the mystery fades once local events, aircraft activity, skydiving displays, laser projections, satellites, or weather conditions are checked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span>
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89_dubai_ufo_videos_630640-Illustration-1-dark.svg" | relative_url }}" alt="Dubai Videos illustration 1" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89_dubai_ufo_videos_630640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89_dubai_ufo_videos_630640-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader [United Arab Emirates]({{ 'united-arab-emirates/' | relative_url }}) UFO landscape, Dubai is less notable for strong unexplained cases than for highly visible videos that spread rapidly online. The city is an instructive example of how short clips, dramatic urban lighting, and missing context can turn ordinary events into apparent UFO sightings.
@@ -265,9 +265,9 @@ A further complication is that many viral clips are reposted without precise dat
 
 The single most common explanation for dramatic “falling UFO” videos in Dubai is professional skydiving activity.
 
-A widely shared December 2022 video showed multiple bright objects descending through the night sky. Social-media users claimed they were meteors, asteroids, or unidentified craft. Fact-checking later established that the lights were skydivers carrying pyrotechnic flares as part of a planned stunt over Dubai. Reuters traced the footage to local media coverage and confirmed that the objects were not astronomical phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</span></span></span>
+A widely shared December 2022 video showed multiple bright objects descending through the night sky. Social-media users claimed they were meteors, asteroids, or unidentified craft. Fact-checking later established that the lights were skydivers carrying pyrotechnic flares as part of a planned stunt over Dubai. Reuters traced the footage to local media coverage and confirmed that the objects were not astronomical phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</span></span></span>
 
-The explanation was especially plausible because Dubai hosts some of the world's most visible professional skydiving operations and publicity stunts. The city regularly stages aerial performances that would look highly unusual if viewed without context. Recent XDubai wingsuit demonstrations near Dubai Marina illustrate how professional athletes can create striking visual effects that appear extraordinary on video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-european.eu/story-55804/wingsuit-skydivers-blast-through-worlds-tallest-hotel-at-124mph-in-dubai-stunt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-european.eu">[The European Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-european.eu</span><span class="citation-popover-title">wingsuit skydivers blast through worlds tallest hotel at 124mph in dubai stunt</span><span class="citation-popover-snippet">The European MagazineWingsuit stunt Dubai hotel – Skydivers Blast Through...28 Jan 2026 — Witness the Wingsuit stunt Dubai hotel feat: a...</span></span></span>
+The explanation was especially plausible because Dubai hosts some of the world's most visible professional skydiving operations and publicity stunts. The city regularly stages aerial performances that would look highly unusual if viewed without context. Recent XDubai wingsuit demonstrations near Dubai Marina illustrate how professional athletes can create striking visual effects that appear extraordinary on video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://the-european.eu/story-55804/wingsuit-skydivers-blast-through-worlds-tallest-hotel-at-124mph-in-dubai-stunt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-european.eu">[The European Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-european.eu</span><span class="citation-popover-title">wingsuit skydivers blast through worlds tallest hotel at 124mph in dubai stunt</span><span class="citation-popover-snippet">The European MagazineWingsuit stunt Dubai hotel – Skydivers Blast Through...28 Jan 2026 — Witness the Wingsuit stunt Dubai hotel feat: a...</span></span></span>
 
 Other recurring sources of confusion include:
 
@@ -289,7 +289,7 @@ In isolation, each can resemble a classic UFO report: bright lights, unusual mov
 
 A useful recent example occurred in January 2026, when videos of mysterious green lights above Dubai spread rapidly online. Social-media users suggested everything from alien activity to secret aerial technology.
 
-Subsequent reporting found a far more ordinary explanation. The effect was produced by powerful green laser beams projected upward and interacting with low cloud cover. Viewed from different parts of the city, the reflected light created glowing shapes and diffuse illumination that looked unfamiliar and difficult to identify from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span>
+Subsequent reporting found a far more ordinary explanation. The effect was produced by powerful green laser beams projected upward and interacting with low cloud cover. Viewed from different parts of the city, the reflected light created glowing shapes and diffuse illumination that looked unfamiliar and difficult to identify from the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span>
 
 This case highlights a recurring pattern in Dubai UFO videos:
 
@@ -330,7 +330,7 @@ These limitations explain why brief social-media clips rarely provide enough inf
 
 A newer challenge is the increasing circulation of manipulated imagery. As generative AI tools become more capable, fabricated images and videos can be mistaken for genuine UFO evidence.
 
-Dubai's globally recognisable skyline makes it a frequent target for altered content. Fact-checkers have already documented viral AI-generated imagery falsely depicting major events involving iconic Dubai landmarks. The same techniques can easily be applied to UFO-themed content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/world/burj-khalifa-ai-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">burj khalifa ai iran</span><span class="citation-popover-snippet">An image showing the Burj Khalifa on fire is fake and was generated using Artificial...Read more...</span></span></span>
+Dubai's globally recognisable skyline makes it a frequent target for altered content. Fact-checkers have already documented viral AI-generated imagery falsely depicting major events involving iconic Dubai landmarks. The same techniques can easily be applied to UFO-themed content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/world/burj-khalifa-ai-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">burj khalifa ai iran</span><span class="citation-popover-snippet">An image showing the Burj Khalifa on fire is fake and was generated using Artificial...Read more...</span></span></span>
 
 For investigators and sceptics alike, the first question is no longer merely “What is the object?” but also “Is the footage authentic?”
 
@@ -342,7 +342,7 @@ Before treating a Dubai sky video as an unexplained phenomenon, several routine 
 
 **Check local events.** Dubai frequently hosts drone shows, fireworks displays, laser projections, and aviation demonstrations.
 
-**Look for skydiving activity.** Bright descending lights are often linked to flare-equipped skydivers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</span></span></span>
+**Look for skydiving activity.** Bright descending lights are often linked to flare-equipped skydivers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</span></span></span>
 
 **Confirm the time and location.** Exact timing allows comparison with aviation data, astronomical events, and scheduled displays.
 
@@ -359,199 +359,199 @@ Before treating a Dubai sky video as an unexplained phenomenon, several routine 
 
 The most important lesson from Dubai's viral UFO clips is not that unusual objects never appear. Rather, it is that an environment rich in aerial activity produces many opportunities for misidentification.
 
-Unlike the small number of officially documented unresolved military observations linked to UAE waters, most Dubai social-media sightings have eventually pointed toward familiar causes: skydivers with flares, laser displays, aircraft, drones, atmospheric effects, or other ordinary sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span>
+Unlike the small number of officially documented unresolved military observations linked to UAE waters, most Dubai social-media sightings have eventually pointed toward familiar causes: skydivers with flares, laser displays, aircraft, drones, atmospheric effects, or other ordinary sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-snippet">Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</span></span></span>
 
 For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a useful reminder that the first stage of investigation is often the simplest: check what was happening in the sky before assuming the sky contained something unknown.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Dubai UFO Videos Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Dubai UFO Videos Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores modern UAP discussions that readers of UFO-video content often seek.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern UAP discussions that readers of UFO-video content often seek.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observation quality, and identification methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, observation quality, and identification methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers separate credible cases from viral claims and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers separate credible cases from viral claims and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for evaluating viral videos, perception errors, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating viral videos, perception errors, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dubai-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-dubai-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,86 +754,85 @@ For readers exploring UAE UFO reports more broadly, Dubai therefore serves as a 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</p></details>
+   Link:<a href="https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/meteor-like-flares-seen-over-dubai-night-sky-were-skydivers-not-meteoroids-or-a-idUSL1N3350SN/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 were skydivers performing a stunt with flares attached to them, not meteoroids or...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: the-european.eu  
    Title: wingsuit skydivers blast through worlds tallest hotel at 124mph in dubai stunt  
-   Link: <a href="https://the-european.eu/story-55804/wingsuit-skydivers-blast-through-worlds-tallest-hotel-at-124mph-in-dubai-stunt.html" target="_blank" rel="noopener noreferrer nofollow">https://the-european.eu/story-55804/wingsuit-skydivers-blast-through-worlds-tallest-hotel-at-124mph-in-dubai-stunt.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The European MagazineWingsuit stunt Dubai hotel – Skydivers Blast Through...28 Jan 2026 — Witness the Wingsuit stunt Dubai hotel feat: a...</p></details>
+   Link:<a href="https://the-european.eu/story-55804/wingsuit-skydivers-blast-through-worlds-tallest-hotel-at-124mph-in-dubai-stunt.html" target="_blank" rel="noopener noreferrer nofollow">https://the-european.eu/story-55804/wingsuit-skydivers-blast-through-worlds-tallest-hotel-at-124mph-in-dubai-stunt.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The European MagazineWingsuit stunt Dubai hotel – Skydivers Blast Through...28 Jan 2026 — Witness the Wingsuit stunt Dubai hotel feat: a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gulfnews.com  
-   Link: <a href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</p></details>
+   Link:<a href="https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/people/dubai-residents-spot-aliens-no-it-was-not-from-burj-khalifa-laser-show-1.500420378</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsDubai residents spot “aliens.” No, it was not from Burj...26 Jan 2026 — Here&#x27;s the truth behind the mysterious green lights spo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gulfnews.com  
-   Link: <a href="https://gulfnews.com/uae/people/40-jumps-230kmh-dubai-skydiver-reveals-how-he-flew-through-worlds-tallest-hotel-1.500425143" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/people/40-jumps-230kmh-dubai-skydiver-reveals-how-he-flew-through-worlds-tallest-hotel-1.500425143</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsDubai skydiver reveals how he flew &#x27;through&#x27; world&#x27;s tallest...30 Jan 2026 — Meet XDubai&#x27;s daredevil wingsuit flying team and l...</p></details>
+   Link:<a href="https://gulfnews.com/uae/people/40-jumps-230kmh-dubai-skydiver-reveals-how-he-flew-through-worlds-tallest-hotel-1.500425143" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/people/40-jumps-230kmh-dubai-skydiver-reveals-how-he-flew-through-worlds-tallest-hotel-1.500425143</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsDubai skydiver reveals how he flew &#x27;through&#x27; world&#x27;s tallest...30 Jan 2026 — Meet XDubai&#x27;s daredevil wingsuit flying team and l...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fullfact.org  
    Title: burj khalifa ai iran  
-   Link: <a href="https://fullfact.org/world/burj-khalifa-ai-iran/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/world/burj-khalifa-ai-iran/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An image showing the Burj Khalifa on fire is fake and was generated using Artificial...Read more...</p></details>
+   Link:<a href="https://fullfact.org/world/burj-khalifa-ai-iran/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/world/burj-khalifa-ai-iran/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An image showing the Burj Khalifa on fire is fake and was generated using Artificial...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esquireme.com  
-   Link: <a href="https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky</a>  
+   Link:<a href="https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: people.com  
-   Link: <a href="https://people.com/skydivers-fly-through-worlds-tallest-building-speeds-over-124-mph-11893222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/skydivers-fly-through-worlds-tallest-building-speeds-over-124-mph-11893222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This extraordinary aerial display, shared via the hotel&#x27;s Instagram, showcased the divers jumping from an aircraft and creating vapor tra...</p></details>
+   Link:<a href="https://people.com/skydivers-fly-through-worlds-tallest-building-speeds-over-124-mph-11893222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/skydivers-fly-through-worlds-tallest-building-speeds-over-124-mph-11893222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This extraordinary aerial display, shared via the hotel&#x27;s Instagram, showcased the divers jumping from an aircraft and creating vapor tra...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1q0xucs/ufo_at_the_burj_khalifa_new_years_eve_show/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1q0xucs/ufo_at_the_burj_khalifa_new_years_eve_show/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO at the Burj Khalifa New Year&#x27;s Eve Show: r/aliensConsidering the sheer number of drone shots on the one fireworks display, the most...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1q0xucs/ufo_at_the_burj_khalifa_new_years_eve_show/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1q0xucs/ufo_at_the_burj_khalifa_new_years_eve_show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO at the Burj Khalifa New Year&#x27;s Eve Show: r/aliensConsidering the sheer number of drone shots on the one fireworks display, the most...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FullFact.org/posts/were-fact-checking-misleading-images-and-videos-relating-to-the-conflict-in-the-/1346251957547886/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/posts/were-fact-checking-misleading-images-and-videos-relating-to-the-conflict-in-the-/1346251957547886/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re fact checking misleading images and videos relating...An image supposedly showing Dubai&#x27;s Burj Khalifa engulfed in flames...</p></details>
+   Link:<a href="https://www.facebook.com/FullFact.org/posts/were-fact-checking-misleading-images-and-videos-relating-to-the-conflict-in-the-/1346251957547886/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FullFact.org/posts/were-fact-checking-misleading-images-and-videos-relating-to-the-conflict-in-the-/1346251957547886/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re fact checking misleading images and videos relating...An image supposedly showing Dubai&#x27;s Burj Khalifa engulfed in flames...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ciVn2pqggh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ciVn2pqggh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daring skydivers fly through hole in world&#x27;s tallest hotel in DubaiA group of skilled skydivers shot through the so-called &#x27;keyhole&#x27; of t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ciVn2pqggh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ciVn2pqggh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daring skydivers fly through hole in world&#x27;s tallest hotel in DubaiA group of skilled skydivers shot through the so-called &#x27;keyhole&#x27; of t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
    Title: and social media exploded with alien theories  
-   Link: <a href="https://www.instagram.com/reel/DUZuIgWkT8u/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUZuIgWkT8u/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lights...Mysterious light in the Dubai sky sparks alien claims but lasers from Burj Khalifa are not to blame. OCR. COSMICVERSE Dubai...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUZuIgWkT8u/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUZuIgWkT8u/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The lights...Mysterious light in the Dubai sky sparks alien claims but lasers from Burj Khalifa are not to blame. OCR. COSMICVERSE Dubai...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: channel4fm.com  
    Title: what caused the mysterious lights over dubai  
-   Link: <a href="https://www.channel4fm.com/what-caused-the-mysterious-lights-over-dubai/" target="_blank" rel="noopener noreferrer nofollow">https://www.channel4fm.com/what-caused-the-mysterious-lights-over-dubai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Channel 4 FM 104.8What Caused the Mysterious Lights Over Dubai26 Jan 2026 — The glowing green effect was caused by powerful laser beams u...</p></details>
+   Link:<a href="https://www.channel4fm.com/what-caused-the-mysterious-lights-over-dubai/" target="_blank" rel="noopener noreferrer nofollow">https://www.channel4fm.com/what-caused-the-mysterious-lights-over-dubai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Channel 4 FM 104.8What Caused the Mysterious Lights Over Dubai26 Jan 2026 — The glowing green effect was caused by powerful laser beams u...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dxbnewsnetwork/videos/a-mysterious-formation-of-lights-appeared-in-the-skies-above-dubai-captured-on-c/2842384942760906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dxbnewsnetwork/videos/a-mysterious-formation-of-lights-appeared-in-the-skies-above-dubai-captured-on-c/2842384942760906/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>red on camera by stunned onlookers. At first glance, it looks like...</p></details>
+   Link:<a href="https://www.facebook.com/dxbnewsnetwork/videos/a-mysterious-formation-of-lights-appeared-in-the-skies-above-dubai-captured-on-c/2842384942760906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dxbnewsnetwork/videos/a-mysterious-formation-of-lights-appeared-in-the-skies-above-dubai-captured-on-c/2842384942760906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>red on camera by stunned onlookers. At first glance, it looks like...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MyLifeInTheChi/posts/did-you-see-that-a-ufo-was-caught-on-live-tv-in-dubai-during-a-broadcast-in-2026/1445718193776615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyLifeInTheChi/posts/did-you-see-that-a-ufo-was-caught-on-live-tv-in-dubai-during-a-broadcast-in-2026/1445718193776615/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n the sky in ways that seem impossible for conventional aircraft...</p></details>
+   Link:<a href="https://www.facebook.com/MyLifeInTheChi/posts/did-you-see-that-a-ufo-was-caught-on-live-tv-in-dubai-during-a-broadcast-in-2026/1445718193776615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyLifeInTheChi/posts/did-you-see-that-a-ufo-was-caught-on-live-tv-in-dubai-during-a-broadcast-in-2026/1445718193776615/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the sky in ways that seem impossible for conventional aircraft...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
    Title: Sidestep the rumours, focus on the facts  
-   Link: <a href="https://www.instagram.com/reel/DWUO5syDbu1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWUO5syDbu1/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dubai is operating as...... Dubai Was the Burj Khalifa bombed? FAKE the on ground reality is very different. Life is very normal. Cafes...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWUO5syDbu1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWUO5syDbu1/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dubai is operating as...... Dubai Was the Burj Khalifa bombed? FAKE the on ground reality is very different. Life is very normal. Cafes...</p></details>

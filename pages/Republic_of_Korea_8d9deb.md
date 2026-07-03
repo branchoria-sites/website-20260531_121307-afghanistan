@@ -1199,9 +1199,9 @@ The clearest pattern is that South Korean UFO stories cluster around three setti
 <img src="{{ "/assets/images/Republic_of_Korea_8d9deb-overview.webp" | relative_url }}" alt="Overview image for Republic of Korea" loading="eager" decoding="sync" fetchpriority="high">
 ## Why South Korean UFO reports are hard to assess
 
-The Republic of Korea is not a country with a large, transparent official UFO archive comparable to the declassified United States Air Force Project Blue Book files. The available record is fragmented across local journalism, private research groups, television investigations, UFO databases, social media, foreign archives and occasional government statements when an event intersects with defence or public safety. The United States National Archives notes that Project Blue Book records were declassified and transferred for public review, but those files concern the American programme that ended in 1969, not a continuing South Korean state archive. Project Blue Book collected 12,618 reports, with 701 remaining “unidentified”, and concluded that it found no evidence that unidentified cases represented extraterrestrial vehicles or technology beyond contemporary science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The Republic of Korea is not a country with a large, transparent official UFO archive comparable to the declassified United States Air Force Project Blue Book files. The available record is fragmented across local journalism, private research groups, television investigations, UFO databases, social media, foreign archives and occasional government statements when an event intersects with defence or public safety. The United States National Archives notes that Project Blue Book records were declassified and transferred for public review, but those files concern the American programme that ended in 1969, not a continuing South Korean state archive. Project Blue Book collected 12,618 reports, with 701 remaining “unidentified”, and concluded that it found no evidence that unidentified cases represented extraterrestrial vehicles or technology beyond contemporary science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-That distinction matters. A case can remain unidentified in a report without becoming evidence of alien craft. In the South Korean context, the best public sources often show that a claim passed through a familiar sequence: first, witnesses describe a light, object or formation; then local media label it a UFO; then private [investigators]({{ 'investigators-e18dbd/' | relative_url }}) or sceptics offer competing interpretations; and finally the case either fades, is explained, or survives as folklore because the original material was incomplete. The Korea Times’ 2011 Daejeon report, for example, quoted witnesses, local UFO researchers and an Air Force statement that there were no recorded flights or radar detections in the area, but it did not publish a final official identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span>
+That distinction matters. A case can remain unidentified in a report without becoming evidence of alien craft. In the South Korean context, the best public sources often show that a claim passed through a familiar sequence: first, witnesses describe a light, object or formation; then local media label it a UFO; then private [investigators]({{ 'investigators-e18dbd/' | relative_url }}) or sceptics offer competing interpretations; and finally the case either fades, is explained, or survives as folklore because the original material was incomplete. The Korea Times’ 2011 Daejeon report, for example, quoted witnesses, local UFO researchers and an Air Force statement that there were no recorded flights or radar detections in the area, but it did not publish a final official identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span>
 
 Private Korean UFO research has also played an unusually visible role. South Korean coverage has repeatedly named Maeng Seong-ryeol, a Woosuk University professor associated with Korean UFO research, and Seo Jong-han, director of a UFO analysis centre, as prominent investigators. Asia Economy described them as representative figures in a field with little formal government or academic support, while also showing how much of the Korean UFO record depends on private testimony, image analysis and investigator reputation rather than open state files. [아시아경제]
 
@@ -1209,7 +1209,7 @@ Private Korean UFO research has also played an unusually visible role. South Kor
 
 Some of the best-known “Korea UFO” reports come from the Korean War, especially United States military sightings in 1951 and 1952. They belong near a Republic of Korea page because they shaped UFO reporting over Korean airspace and later international discussion, but they should not be confused with a post-war South Korean civilian archive.
 
-The most cited case is the January 1952 Wonsan-Sunchon report. Contemporary newspaper material preserved by Project 1947 says the United States Air Force disclosed that B-29 crew members had reported bright orange, globe-shaped objects, sometimes with bluish flashes, seen over Korea by crews from two bombers. One report described objects flying parallel to a B-29 over Wonsan for five minutes; another crew, from a different squadron, reported a similar sighting over Sunchon for about a minute. The report said senior officials had ordered a full investigation through military intelligence channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most cited case is the January 1952 Wonsan-Sunchon report. Contemporary newspaper material preserved by Project 1947 says the United States Air Force disclosed that B-29 crew members had reported bright orange, globe-shaped objects, sometimes with bluish flashes, seen over Korea by crews from two bombers. One report described objects flying parallel to a B-29 over Wonsan for five minutes; another crew, from a different squadron, reported a similar sighting over Sunchon for about a minute. The report said senior officials had ordered a full investigation through military intelligence channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The evidence is intriguing because it involves trained military witnesses, wartime aircraft and an official Air Force acknowledgement that an investigation was under way. It is also limited: the locations were in the northern half of the peninsula during war, the reports are mediated through press accounts and later UFO literature, and the available public material does not provide a settled physical explanation. Its value for the Republic of Korea page is therefore contextual. It shows that Korean airspace entered the international UFO record early, but it does not establish a South Korean institutional pattern of UFO investigation after the war.
 
@@ -1240,36 +1240,36 @@ The Gapyeong case also reveals a distinctive South Korean dynamic: private UFO r
 
 Modern South Korean UFO reports are often urban reports: lights above apartment blocks, small objects caught in skyline photographs, formations seen above regional cities, or videos taken from aircraft. These cases are attractive because they occur in populated places, but they are also vulnerable to misidentification. Dense cities contain drones, aircraft, advertising balloons, lanterns, reflective debris, camera artefacts and weather balloons; the evidence is usually compressed, zoomed or taken at night.
 
-The 2011 Daejeon case shows both sides of the problem. Witnesses reported around 20 bright objects travelling northeast in apparent formation, with pictures and clips circulating in local media. Korean UFO investigators described the sighting as unusual, and The Korea Times quoted an Air Force official saying there were no recorded flights or radar detections in the area at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span> That makes the incident more interesting than a lone blurry clip, but not decisive. The absence of recorded flights is not the same as proof of an exotic object; it simply narrows some conventional explanations.
+The 2011 Daejeon case shows both sides of the problem. Witnesses reported around 20 bright objects travelling northeast in apparent formation, with pictures and clips circulating in local media. Korean UFO investigators described the sighting as unusual, and The Korea Times quoted an Air Force official saying there were no recorded flights or radar detections in the area at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span> That makes the incident more interesting than a lone blurry clip, but not decisive. The absence of recorded flights is not the same as proof of an exotic object; it simply narrows some conventional explanations.
 
-A separate Korea Times report from September 2011 described a tiny object photographed above downtown Seoul near Jongno. The witness sent the image to a UFO analysis centre, and Seo Jong-han argued that the object appeared distant rather than a nearby bird or insect, based on focus and blur comparisons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span> Again, the case is unresolved in public rather than confirmed. It illustrates the limits of single-image analysis: focus, blur and apparent shape can help reject some explanations, but without distance, speed, independent witnesses or raw imaging data, they rarely settle the matter.
+A separate Korea Times report from September 2011 described a tiny object photographed above downtown Seoul near Jongno. The witness sent the image to a UFO analysis centre, and Seo Jong-han argued that the object appeared distant rather than a nearby bird or insect, based on focus and blur comparisons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span> Again, the case is unresolved in public rather than confirmed. It illustrates the limits of single-image analysis: focus, blur and apparent shape can help reject some explanations, but without distance, speed, independent witnesses or raw imaging data, they rarely settle the matter.
 
-The 2012 aircraft-window video over South Korea is a useful counterexample because sceptical analysis was more direct. Live Science reported that a video of a white oval object filmed near Seoul showed signs that a visual-effects analyst considered suspicious, including amateur-looking motion blur and image “ghosting” inconsistent with a real three-dimensional object moving through the scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not prove that every South Korean video is fake; it shows why video evidence must be examined technically rather than accepted because it “looks strange”.
+The 2012 aircraft-window video over South Korea is a useful counterexample because sceptical analysis was more direct. Live Science reported that a video of a white oval object filmed near Seoul showed signs that a visual-effects analyst considered suspicious, including amateur-looking motion blur and image “ghosting” inconsistent with a real three-dimensional object moving through the scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not prove that every South Korean video is fake; it shows why video evidence must be examined technically rather than accepted because it “looks strange”.
 
 ## Confirmed explanations: rockets, meteors, balloons and digital noise
 
-The strongest South Korean UFO evidence may actually be the debunked cases, because they show how quickly plausible public fear can form around real but misunderstood sky events. The best recent example is the unannounced solid-fuel rocket test of 30 December 2022. AP reported that South Korea’s military confirmed a solid-fuel rocket test after the launch caused a brief scare, with people suspecting a UFO, a North Korean missile, a drone light show or a supernatural event. The Defence Ministry said it had not warned the public in advance because the launch involved sensitive military-security issues; emergency offices and police reportedly received hundreds of citizen reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
+The strongest South Korean UFO evidence may actually be the debunked cases, because they show how quickly plausible public fear can form around real but misunderstood sky events. The best recent example is the unannounced solid-fuel rocket test of 30 December 2022. AP reported that South Korea’s military confirmed a solid-fuel rocket test after the launch caused a brief scare, with people suspecting a UFO, a North Korean missile, a drone light show or a supernatural event. The Defence Ministry said it had not warned the public in advance because the launch involved sensitive military-security issues; emergency offices and police reportedly received hundreds of citizen reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
 
-This case is valuable because it has all the ingredients of a classic UFO flap: dramatic lights over a wide area, social-media amplification, a security-sensitive country, and no public warning. Yet the explanation was conventional and official. It also connects South Korean UFO perception to real defence developments: the same AP report notes that the launch was part of efforts to build space-based surveillance capability, with solid-fuel rockets seen as quicker and cheaper than liquid-fuel systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
+This case is valuable because it has all the ingredients of a classic UFO flap: dramatic lights over a wide area, social-media amplification, a security-sensitive country, and no public warning. Yet the explanation was conventional and official. It also connects South Korean UFO perception to real defence developments: the same AP report notes that the launch was part of efforts to build space-based surveillance capability, with solid-fuel rockets seen as quicker and cheaper than liquid-fuel systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
 
-Meteors produce a similar pattern. In April 2026, Korea JoongAng Daily reported witness accounts from multiple areas of Korea of a large oval-shaped object burning as it fell from the sky, with dashcam footage showing a fiery trail and apparent fragmentation. The Korea Astronomy and Space Science Institute said the object was likely a meteor and explained that larger meteoroids can appear as bright fireballs as they burn in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Witnesses report &#x27;fireball&#x27; falling from sky over Korea</span><span class="citation-popover-snippet">Korea Joongang Daily Witnesses report &#x27;fireball&#x27; falling from sky over Korea</span></span></span> A comparable scientific pathway followed the 2014 Jinju meteorite: Dong-A Science reported that KASI and a Yonsei University team estimated a single fireball exploded over the Hamyang-Sancheong area, with fragments falling in Jinju, based on video footage gathered from across the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Meteors produce a similar pattern. In April 2026, Korea JoongAng Daily reported witness accounts from multiple areas of Korea of a large oval-shaped object burning as it fell from the sky, with dashcam footage showing a fiery trail and apparent fragmentation. The Korea Astronomy and Space Science Institute said the object was likely a meteor and explained that larger meteoroids can appear as bright fireballs as they burn in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Witnesses report &#x27;fireball&#x27; falling from sky over Korea</span><span class="citation-popover-snippet">Korea Joongang Daily Witnesses report &#x27;fireball&#x27; falling from sky over Korea</span></span></span> A comparable scientific pathway followed the 2014 Jinju meteorite: Dong-A Science reported that KASI and a Yonsei University team estimated a single fireball exploded over the Hamyang-Sancheong area, with fragments falling in Jinju, based on video footage gathered from across the country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Balloon explanations also matter in Seoul. Weekly Kyunghyang discussed a 2020 controversy over a video above Gwanaksan, noting that a similar earlier case had been connected by reporting to a fine-dust observation balloon launched near Nakseongdae Park, while the UFO analysis centre initially leaned toward a UFO interpretation. The same article says a later broadcast reached a balloon conclusion for the disputed sighting. [주간경향] This is an important caution: in a country with heavy environmental monitoring, dense air traffic and frequent public events, ordinary airborne devices can look anomalous when filmed without context.
 
 <img src="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-2-dark.svg" | relative_url }}" alt="Republic of Korea illustration 2" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Region-level variation: why Seoul dominates, but not because it is uniquely strange
 
-Seoul and the surrounding capital region dominate South Korean UFO reporting for obvious reasons: population density, media concentration, security sensitivity and constant camera coverage. A light over Seoul is more likely to be noticed, filmed, reported and politically interpreted than the same light over a rural mountain. The 1976 Blue House incident, the 2008 Gwanghwamun reference in later Korea Times coverage, the 2011 Jongno photo and the 2020 Gwanaksan balloon dispute all reinforce the same pattern: Seoul turns aerial ambiguity into public meaning faster than other regions. 아시아경제 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span>
+Seoul and the surrounding capital region dominate South Korean UFO reporting for obvious reasons: population density, media concentration, security sensitivity and constant camera coverage. A light over Seoul is more likely to be noticed, filmed, reported and politically interpreted than the same light over a rural mountain. The 1976 Blue House incident, the 2008 Gwanghwamun reference in later Korea Times coverage, the 2011 Jongno photo and the 2020 Gwanaksan balloon dispute all reinforce the same pattern: Seoul turns aerial ambiguity into public meaning faster than other regions. 아시아경제<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span>
 
-Daejeon matters for a different reason. It is inland, scientifically and administratively significant, and less saturated by global media than Seoul. The 2011 Daejeon sighting gained attention because it involved multiple bright objects, photographs, video and an Air Force comment that no flights or radar contacts were recorded. That combination made it a stronger regional case than a casual internet post, even though it remained unresolved in public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span>
+Daejeon matters for a different reason. It is inland, scientifically and administratively significant, and less saturated by global media than Seoul. The 2011 Daejeon sighting gained attention because it involved multiple bright objects, photographs, video and an Air Force comment that no flights or radar contacts were recorded. That combination made it a stronger regional case than a casual internet post, even though it remained unresolved in public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times UFOs allegedly spotted in Daejeon</span><span class="citation-popover-snippet">The Korea Times UFOs allegedly spotted in Daejeon</span></span></span>
 
 Gyeonggi Province supplies the most famous still-photo case through Gapyeong and also benefits from proximity to Seoul’s media ecosystem. The 1995 Gapyeong photograph became nationally memorable partly because it was not just a rural witness story; it passed through a major newspaper, private analysis and later documentary discussion. [아시아경제]
 
-The southern regions are more prominent in meteor and fireball evidence than in famous craft claims. Jinju became scientifically important because meteorite fragments were recovered after a widely observed 2014 fireball, while later fireball reports show how quickly natural atmospheric entries can be perceived as unidentified objects before astronomy institutions weigh in. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The southern regions are more prominent in meteor and fireball evidence than in famous craft claims. Jinju became scientifically important because meteorite fragments were recovered after a widely observed 2014 fireball, while later fireball reports show how quickly natural atmospheric entries can be perceived as unidentified objects before astronomy institutions weigh in.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Archives and databases: useful leads, not final verdicts
 
-International UFO databases contain South Korea entries, but they must be used carefully. The National UFO Reporting Center describes its databank as a large, independently collected set of public UFO and UAP witness reports, available for browsing by researchers and the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> Its country index for Korea includes only a small number of entries in the visible table, including older reports and a 1999 guard-duty sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Korea</span><span class="citation-popover-snippet">Reports for Country Korea</span></span></span> That is useful as a lead-finding tool, but it is not a verified national archive.
+International UFO databases contain South Korea entries, but they must be used carefully. The National UFO Reporting Center describes its databank as a large, independently collected set of public UFO and UAP witness reports, available for browsing by researchers and the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> Its country index for Korea includes only a small number of entries in the visible table, including older reports and a 1999 guard-duty sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Korea</span><span class="citation-popover-snippet">Reports for Country Korea</span></span></span> That is useful as a lead-finding tool, but it is not a verified national archive.
 
 The same caution applies to online lists that claim many recent South Korean sightings. A report with no raw data, no named witnesses, no independent media corroboration and no official or technical follow-up should be treated as low-grade evidence, even if it is detailed. Conversely, a modest report with a named date, local media coverage, official comment and a plausible conventional explanation may be more valuable to researchers because it teaches how unidentified reports are generated and resolved.
 
@@ -1281,11 +1281,11 @@ For declassified material, United States sources are stronger for the Korean War
 
 A practical way to read South Korea’s UFO record is to sort cases by evidence quality rather than by strangeness.
 
-**Confirmed or well-explained events** include the 30 December 2022 rocket scare and the 2014 and 2026 meteor or fireball reports. In each case, the public initially encountered a dramatic aerial display, but official or scientific explanation followed: a solid-fuel rocket test in 2022, a meteorite-producing fireball in 2014, and a likely meteor in 2026. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Open source on dongascience.com.</span></span></span>
+**Confirmed or well-explained events** include the 30 December 2022 rocket scare and the 2014 and 2026 meteor or fireball reports. In each case, the public initially encountered a dramatic aerial display, but official or scientific explanation followed: a solid-fuel rocket test in 2022, a meteorite-producing fireball in 2014, and a likely meteor in 2026.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Open source on dongascience.com.</span></span></span>
 
 **Contested but historically important cases** include the 1976 Seoul incident, the 1995 Gapyeong photograph and the 2011 Daejeon formation. These have stronger public profiles than ordinary sightings, but none has a fully open, independently reproducible evidence package that would settle the identification. Their importance lies in witness volume, media attention, official response or private analysis, not in proof of exotic origin. [아시아경제+2아시아경제]
 
-**Likely debunked or weak claims** include the 2012 aircraft video analysed by Live Science and many later internet claims about enormous hidden craft or anonymous underground facilities. The 2012 video attracted attention because it was visually dramatic, but technical analysis identified signs consistent with digital fakery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Claims about a huge immovable craft hidden in Korea have circulated online in recent years, but public versions generally rest on unnamed sources, speculative map interpretation and repetition through UFO media rather than verifiable documents, named witnesses, physical evidence or official acknowledgement.
+**Likely debunked or weak claims** include the 2012 aircraft video analysed by Live Science and many later internet claims about enormous hidden craft or anonymous underground facilities. The 2012 video attracted attention because it was visually dramatic, but technical analysis identified signs consistent with digital fakery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Claims about a huge immovable craft hidden in Korea have circulated online in recent years, but public versions generally rest on unnamed sources, speculative map interpretation and repetition through UFO media rather than verifiable documents, named witnesses, physical evidence or official acknowledgement.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s3Zmm1uKchg" title="South Korea: UFO Was Military Rocket Test | VOA News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer">South Korea: UFO Was Military Rocket Test | VOA News</a></p><p class="youtube-embed-meta">Channel: Voice of America &middot; Views: 18.1K &middot; Uploaded: December 2022 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s3Zmm1uKchg">Open on YouTube</a></p></div></div></div>
 
@@ -1293,9 +1293,9 @@ A practical way to read South Korea’s UFO record is to sort cases by evidence 
 
 The Republic of Korea has the institutions needed to clarify many future cases: advanced air-defence monitoring, dense CCTV and dashcam coverage, professional astronomy, space-launch tracking and a technologically literate public. The weakness is not capability; it is public access. Most civilian UFO claims remain trapped between private enthusiasm and official silence unless an event becomes impossible to ignore.
 
-A strong South Korean case would need more than a striking clip. The most useful evidence would include raw image or video files with metadata, multiple independent viewpoints, precise time and location, weather and astronomical checks, aircraft and drone exclusion, radar or air-traffic correlation, and a clear record of who handled the material. For fireballs, meteor-camera networks and astronomical institutes can often resolve the question. A 2017 South Korean meteor-detection project, initiated after the Jinju fireball, described a double-station optical-video system designed to determine three-dimensional meteor orbits, showing that the technical model for resolving some “UFO-like” events already exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A strong South Korean case would need more than a striking clip. The most useful evidence would include raw image or video files with metadata, multiple independent viewpoints, precise time and location, weather and astronomical checks, aircraft and drone exclusion, radar or air-traffic correlation, and a clear record of who handled the material. For fireballs, meteor-camera networks and astronomical institutes can often resolve the question. A 2017 South Korean meteor-detection project, initiated after the Jinju fireball, described a double-station optical-video system designed to determine three-dimensional meteor orbits, showing that the technical model for resolving some “UFO-like” events already exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2022 rocket scare also suggests a policy lesson. Defence secrecy may be justified for some launches, but unexplained public sky events in South Korea can quickly become interpreted through fears of North Korean missiles, drones or UFOs. Where security permits, delayed public explanation, clearer launch windows or post-event official notices can reduce misinformation without exposing sensitive details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
+The 2022 rocket scare also suggests a policy lesson. Defence secrecy may be justified for some launches, but unexplained public sky events in South Korea can quickly become interpreted through fears of North Korean missiles, drones or UFOs. Where security permits, delayed public explanation, clearer launch windows or post-event official notices can reduce misinformation without exposing sensitive details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span><span class="citation-popover-snippet">AP News South Korea&#x27;s unannounced rocket launch causes UFO scare &#124; AP News</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-3-dark.svg" | relative_url }}" alt="Republic of Korea illustration 3" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for the Republic of Korea record
@@ -1305,194 +1305,194 @@ South Korea’s UFO history is not empty, but it is uneven. The country has a sm
 The most defensible reading is neither blanket dismissal nor sensational belief. The Republic of Korea record shows that unidentified aerial reports can arise from genuine witness confusion, military secrecy, natural fireballs, aerospace tests, balloons, camera artefacts and, occasionally, cases that remain unresolved in public because the evidence is incomplete. For a country-level UFO project, South Korea is therefore most useful as a case study in evidence sorting: what looks mysterious at first sight may become mundane after official or scientific context, while a few historically significant incidents remain open mainly because the public record is too thin to close them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Korea&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Korea&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for evaluating mixed-quality sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for evaluating mixed-quality sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains how UFO traditions develop in different societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO traditions develop in different societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers government, military and international UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government, military and international UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national overview of significant UFO cases and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national overview of significant UFO cases and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-korea-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-korea-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1508,7 +1508,7 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1528,7 +1528,7 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1560,7 +1560,7 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1612,7 +1612,7 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1657,7 +1657,7 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1695,168 +1695,167 @@ The most defensible reading is neither blanket dismissal nor sensational belief.
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
+   Link:<a href="https://www.project1947.com/fig/korea52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/korea52a.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for Country Korea  
-   Link: <a href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cKorea</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cKorea" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cKorea</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08196</a>  
+   Link:<a href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08196</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: When Dozens of Korean War GIs Claimed a UFO Made Them Sick  
-   Link: <a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
+   Link:<a href="https://www.history.com/articles/korean-war-us-army-ufo-attack-illness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/korean-war-us-army-ufo-attack-illness</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=196376" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196376</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=196376" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196376</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: shindonga.donga.com  
-   Link: <a href="https://shindonga.donga.com/3/all/13/100794/1" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/3/all/13/100794/1</a>  
+   Link:<a href="https://shindonga.donga.com/3/all/13/100794/1" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/3/all/13/100794/1</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: shindonga.donga.com  
-   Link: <a href="https://shindonga.donga.com/3/06/13/109422/2" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/3/06/13/109422/2</a>  
+   Link:<a href="https://shindonga.donga.com/3/06/13/109422/2" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/3/06/13/109422/2</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: shindonga.donga.com  
-   Link: <a href="https://shindonga.donga.com/Library/3/22/13/100794/1" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/Library/3/22/13/100794/1</a>  
+   Link:<a href="https://shindonga.donga.com/Library/3/22/13/100794/1" target="_blank" rel="noopener noreferrer nofollow">https://shindonga.donga.com/Library/3/22/13/100794/1</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: koreatimes.co.kr  
    Title: The Korea Times UFOs allegedly spotted in Daejeon  
-   Link: <a href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon</a>  
+   Link:<a href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: koreatimes.co.kr  
    Title: The Korea Times 'UFO spotted in the sky above downtown Seoul'  
-   Link: <a href="https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul</a>  
+   Link:<a href="https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/business/tech-science/20110905/ufo-spotted-in-the-sky-above-downtown-seoul</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/19613-ufo-south-korea.html</a>  
+   Link:<a href="https://www.livescience.com/19613-ufo-south-korea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/19613-ufo-south-korea.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apnews.com  
    Title: AP News South Korea's unannounced rocket launch causes UFO scare | AP News  
-   Link: <a href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367</a>  
+   Link:<a href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: koreajoongangdaily.joins.com  
    Title: Korea Joongang Daily Witnesses report 'fireball' falling from sky over Korea  
-   Link: <a href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821</a>  
+   Link:<a href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dongascience.com  
-   Link: <a href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4122</a>  
+   Link:<a href="https://www.dongascience.com/en/news/4122" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4122</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/</a>  
+   Link:<a href="https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1535003850420580/posts/1983817122205915/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dongascience.com  
-   Link: <a href="https://www.dongascience.com/en/news/4134" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4134</a>  
+   Link:<a href="https://www.dongascience.com/en/news/4134" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4134</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dongascience.com  
-   Link: <a href="https://www.dongascience.com/en/news/4077" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4077</a>  
+   Link:<a href="https://www.dongascience.com/en/news/4077" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/4077</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uapkorea.com  
-   Link: <a href="https://uapkorea.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://uapkorea.com/about/</a>  
+   Link:<a href="https://uapkorea.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://uapkorea.com/about/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A1708.08196</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/13515a718347c1e390056e592820e17f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/13515a718347c1e390056e592820e17f</a>  
+   Link:<a href="https://apnews.com/article/13515a718347c1e390056e592820e17f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/13515a718347c1e390056e592820e17f</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: koreajoongangdaily.joins.com  
-   Link: <a href="https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html</a>  
+   Link:<a href="https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/2022/12/30/national/socialAffairs/Space-luanch-alien/20221230192508623.html</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Secret 'immovable' UFO is 'hiding in plain sight' in purpose-built structure  
-   Link: <a href="https://www.youtube.com/watch?v=VwG32hyp170" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VwG32hyp170</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video Goes Viral... Unidentified Objects Flying Over the Battlefield? [News Now] / YTN...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VwG32hyp170" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VwG32hyp170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video Goes Viral... Unidentified Objects Flying Over the Battlefield? [News Now] / YTN...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q38c4_DxURk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q38c4_DxURk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans spooked as secret rocket launch mistaken for UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q38c4_DxURk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q38c4_DxURk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans spooked as secret rocket launch mistaken for UFO...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: South Korea: UFO Was Military Rocket Test | VOA News  
-   Link: <a href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s3Zmm1uKchg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes a &#x27;UFO Scare&#x27; | Oneindia News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s3Zmm1uKchg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes a &#x27;UFO Scare&#x27; | Oneindia News...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070026-7.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/2D/2DE334239CCF768F6A9E0CFD1974455D_Crossing_The_Rubicon_Part_2.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: South Koreans spooked as secret rocket launch mistaken for UFO  
-   Link: <a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFXvtcVIQTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea: UFO Was Military Rocket Test | VOA News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFXvtcVIQTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea: UFO Was Military Rocket Test | VOA News...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nextspaceflight.com  
-   Link: <a href="https://nextspaceflight.com/launches/details/8222/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/details/8222/</a>
+   Link:<a href="https://nextspaceflight.com/launches/details/8222/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/launches/details/8222/</a>

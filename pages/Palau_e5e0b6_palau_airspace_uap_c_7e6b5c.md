@@ -248,14 +248,14 @@ image: /assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-1-so
 
 ## Introduction
 
-Palau has only a small public record of reported UFO or UAP sightings, but its airspace matters for reasons that have little to do with extraordinary claims. The country sits in a strategically important part of the western Pacific, hosts the republic’s main international airport, and operates under a Compact of Free Association that gives the United States responsibility for defence and security matters. In practice, that means unusual aerial reports in Palau can intersect with civilian aviation, military activity, satellite traffic, weather monitoring, and regional surveillance systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://2021-2025.state.gov/u-s-relations-with-palau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-title">u s relations with palau</span><span class="citation-popover-snippet">U.S. Department of StateU.S. Relations With Palau6 Dec 2024 — Under the COFA, Palau and the United States agreed that the United States h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://edit.doi.gov/ocl/cofa-amendments-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edit.doi.gov">[2U.S. Department of the Interior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edit.doi.gov</span><span class="citation-popover-title">cofa amendments act</span><span class="citation-popover-snippet">U.S. Department of the InteriorCOFA Amendments Act14 Jan 2026 — Under the COFA agreements, the U.S. has full authority and responsibility...</span></span></span>
+Palau has only a small public record of reported UFO or UAP sightings, but its airspace matters for reasons that have little to do with extraordinary claims. The country sits in a strategically important part of the western Pacific, hosts the republic’s main international airport, and operates under a Compact of Free Association that gives the United States responsibility for defence and security matters. In practice, that means unusual aerial reports in Palau can intersect with civilian aviation, military activity, satellite traffic, weather monitoring, and regional surveillance systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://2021-2025.state.gov/u-s-relations-with-palau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-title">u s relations with palau</span><span class="citation-popover-snippet">U.S. Department of StateU.S. Relations With Palau6 Dec 2024 — Under the COFA, Palau and the United States agreed that the United States h...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://edit.doi.gov/ocl/cofa-amendments-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edit.doi.gov">[2U.S. Department of the Interior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edit.doi.gov</span><span class="citation-popover-title">cofa amendments act</span><span class="citation-popover-snippet">U.S. Department of the InteriorCOFA Amendments Act14 Jan 2026 — Under the COFA agreements, the U.S. has full authority and responsibility...</span></span></span>
 
 <img src="{{ "/assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-1-dark.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For that reason, future UAP investigations in Palau are most useful when treated as airspace-management and evidence-quality questions rather than as proof of exotic technology. The country’s location creates genuine reasons to document unusual observations carefully, while also increasing the number of conventional [explanations]({{ 'explanations-103383/' | relative_url }}) that investigators should eliminate before reaching stronger conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipdefenseforum.com">[ipdefenseforum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipdefenseforum.com</span><span class="citation-popover-snippet">defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ustda.gov/business_opp_oversea/palau-airport-master-plan-update-and-airport-system-review-technical-assistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ustda.gov">[2ustda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ustda.gov</span><span class="citation-popover-snippet">further economic development, allow more and larger airplanes to land, and...Read more...</span></span></span>
+For that reason, future UAP investigations in Palau are most useful when treated as airspace-management and evidence-quality questions rather than as proof of exotic technology. The country’s location creates genuine reasons to document unusual observations carefully, while also increasing the number of conventional [explanations]({{ 'explanations-103383/' | relative_url }}) that investigators should eliminate before reaching stronger conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipdefenseforum.com">[ipdefenseforum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipdefenseforum.com</span><span class="citation-popover-snippet">defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ustda.gov/business_opp_oversea/palau-airport-master-plan-update-and-airport-system-review-technical-assistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ustda.gov">[2ustda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ustda.gov</span><span class="citation-popover-snippet">further economic development, allow more and larger airplanes to land, and...Read more...</span></span></span>
 
 ## Why Palau's Airport Environment Matters
 
-Palau's primary aviation gateway is the Roman Tmetuchl International Airport, located on Babeldaob Island near Koror. It is the country's main international airfield and effectively concentrates most scheduled air traffic into a single aviation corridor. The airport's runway and infrastructure have also been the focus of expansion and planning efforts intended to accommodate larger aircraft and strengthen connectivity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Compact of Free Association</span><span class="citation-popover-snippet">Compact of Free AssociationThe Compacts of Free Association (COFA) are international agreements establishing and governing the relatio...</span></span></span>
+Palau's primary aviation gateway is the Roman Tmetuchl International Airport, located on Babeldaob Island near Koror. It is the country's main international airfield and effectively concentrates most scheduled air traffic into a single aviation corridor. The airport's runway and infrastructure have also been the focus of expansion and planning efforts intended to accommodate larger aircraft and strengthen connectivity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Compact of Free Association</span><span class="citation-popover-snippet">Compact of Free AssociationThe Compacts of Free Association (COFA) are international agreements establishing and governing the relatio...</span></span></span>
 
 That concentration matters when assessing unusual aerial reports. In larger countries, an isolated sighting may occur far from organised aviation activity. In Palau, many observations naturally occur near routes used by commercial aircraft, charter operations, government flights, military visitors, helicopters, and airport-related lighting systems. Any future UAP report near Koror or Airai therefore needs immediate comparison against:
 
@@ -279,7 +279,7 @@ Palau's geography reinforces this problem. Most populated areas are coastal, man
 
 ## The U.S. Defence Relationship Changes the Context
 
-The most important strategic fact about Palau is that it does not maintain a conventional military force of its own. Under the Compact of Free Association, the United States has authority and responsibility for Palau's defence and security. American forces are granted access rights, and the agreements restrict military access by third countries without U.S. approval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://2021-2025.state.gov/u-s-relations-with-palau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-title">u s relations with palau</span><span class="citation-popover-snippet">U.S. Department of StateU.S. Relations With Palau6 Dec 2024 — Under the COFA, Palau and the United States agreed that the United States h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roman_Tmetuchl_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roman Tmetuchl International Airport</span><span class="citation-popover-snippet">Roman Tmetuchl International Airport</span></span></span>
+The most important strategic fact about Palau is that it does not maintain a conventional military force of its own. Under the Compact of Free Association, the United States has authority and responsibility for Palau's defence and security. American forces are granted access rights, and the agreements restrict military access by third countries without U.S. approval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://2021-2025.state.gov/u-s-relations-with-palau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-title">u s relations with palau</span><span class="citation-popover-snippet">U.S. Department of StateU.S. Relations With Palau6 Dec 2024 — Under the COFA, Palau and the United States agreed that the United States h...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roman_Tmetuchl_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roman Tmetuchl International Airport</span><span class="citation-popover-snippet">Roman Tmetuchl International Airport</span></span></span>
 
 For UAP analysis, this creates a different investigative environment from that of a fully independent military state.
 
@@ -298,7 +298,7 @@ When unusual objects are reported in Palauan skies, investigators must consider 
 
 None of these possibilities automatically explain a specific sighting. However, they significantly affect the baseline probability of what an unidentified object might be.
 
-Recent reporting has highlighted growing American investment in Pacific infrastructure and defence-related projects in Palau. These include runway-access exercises, airfield operations, and efforts to improve air-domain awareness through radar and monitoring systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipdefenseforum.com">[ipdefenseforum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipdefenseforum.com</span><span class="citation-popover-snippet">defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post U.S</span><span class="citation-popover-snippet">military expands in Palau amid China&#x27;s growing...29 Jul 2025 — In October, six U.S. C-17 transport planes swept down on Palau&#x27;s Roman Tm...</span></span></span>
+Recent reporting has highlighted growing American investment in Pacific infrastructure and defence-related projects in Palau. These include runway-access exercises, airfield operations, and efforts to improve air-domain awareness through radar and monitoring systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipdefenseforum.com">[ipdefenseforum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipdefenseforum.com</span><span class="citation-popover-snippet">defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post U.S</span><span class="citation-popover-snippet">military expands in Palau amid China&#x27;s growing...29 Jul 2025 — In October, six U.S. C-17 transport planes swept down on Palau&#x27;s Roman Tm...</span></span></span>
 
 As a result, future reports from Palau should be evaluated against a broader set of known activities than would have been necessary twenty years ago.
 
@@ -308,7 +308,7 @@ As a result, future reports from Palau should be evaluated against a broader set
 
 One of the most significant developments for future investigations is the push toward improved monitoring of Pacific airspace.
 
-Recent defence-related projects in Palau have included plans for enhanced radar coverage and air-domain awareness capabilities. Public reporting has described work on over-the-horizon and tactical surveillance systems intended to improve detection of aircraft and other airborne activity across large areas of ocean. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipdefenseforum.com">[ipdefenseforum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipdefenseforum.com</span><span class="citation-popover-snippet">defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</span></span></span>
+Recent defence-related projects in Palau have included plans for enhanced radar coverage and air-domain awareness capabilities. Public reporting has described work on over-the-horizon and tactical surveillance systems intended to improve detection of aircraft and other airborne activity across large areas of ocean.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipdefenseforum.com">[ipdefenseforum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipdefenseforum.com</span><span class="citation-popover-snippet">defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</span></span></span>
 
 This has two implications.
 
@@ -323,7 +323,7 @@ That does not guarantee every report will be solved. It does mean that the evide
 
 A common mistake in older UFO investigations was assuming that anything unusual in the sky must be atmospheric or aircraft-related.
 
-Today, low-Earth-orbit satellite constellations have added a new source of confusion. Research examining pilot reports has shown that recently launched satellite formations, including Starlink trains, can generate convincing UAP reports when viewed under unusual lighting conditions. Multiple pilots have independently reported such objects before later analysis identified satellite explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Today, low-Earth-orbit satellite constellations have added a new source of confusion. Research examining pilot reports has shown that recently launched satellite formations, including Starlink trains, can generate convincing UAP reports when viewed under unusual lighting conditions. Multiple pilots have independently reported such objects before later analysis identified satellite explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Palau's location gives it exceptionally dark skies compared with heavily urbanised regions. That makes satellites easier to observe and increases the likelihood that unfamiliar orbital objects will attract attention.
 
@@ -382,7 +382,7 @@ These practical checks are more useful than speculation because they allow later
 <img src="{{ "/assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-3-dark.svg" | relative_url }}" alt="Airspace illustration 3" data-theme-src-dark="{{ "/assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Palau_e5e0b6_palau_airspace_uap_c_7e6b5c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Palau's Strategic Position Makes Documentation More Important
 
-Palau occupies a position that has become increasingly important in Pacific security planning. American and regional attention to the island nation has grown because of its location along major strategic routes and its role within broader defence arrangements. U.S. Department of State <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/inside-us-battle-with-china-over-an-island-paradise-deep-pacific-2025-04-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Inside the U.S</span><span class="citation-popover-snippet">battle with China over an island paradise deep in the PacificPalau, a small Pacific island nation, has become a focal point in the growin...</span></span></span> That reality cuts both ways for UAP discussions.
+Palau occupies a position that has become increasingly important in Pacific security planning. American and regional attention to the island nation has grown because of its location along major strategic routes and its role within broader defence arrangements. U.S. Department of State<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/inside-us-battle-with-china-over-an-island-paradise-deep-pacific-2025-04-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Inside the U.S</span><span class="citation-popover-snippet">battle with China over an island paradise deep in the PacificPalau, a small Pacific island nation, has become a focal point in the growin...</span></span></span> That reality cuts both ways for UAP discussions.
 
 On one hand, strategic airspace provides legitimate reasons to document unusual observations carefully. An unidentified object near aviation routes or sensitive infrastructure deserves attention from a safety and monitoring perspective.
 
@@ -391,194 +391,194 @@ On the other hand, the same strategic environment increases the number of ordina
 For Palau, the most credible approach is therefore neither automatic belief nor automatic dismissal. The practical question is whether a reported object can survive increasingly rigorous checks against known aviation, defence and aerospace activity. As monitoring systems improve, future reports may become easier to resolve—or, in the rare cases that remain unexplained, far more significant than the sparse historical sightings currently available.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Palau Airspace Makes UAP Checks Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Palau Airspace Makes UAP Checks Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects UAP reports to aviation, military observations, and airspace concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UAP reports to aviation, military observations, and airspace concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for assessing aerial reports systematically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for assessing aerial reports systematically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official case evaluation intersects with airspace monitoring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official case evaluation intersects with airspace monitoring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses modern military, intelligence, and aviation-linked UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses modern military, intelligence, and aviation-linked UAP cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-palau-airspace-makes-uap-checks-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-palau-airspace-makes-uap-checks-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ For Palau, the most credible approach is therefore neither automatic belief nor 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ For Palau, the most credible approach is therefore neither automatic belief nor 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ For Palau, the most credible approach is therefore neither automatic belief nor 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ For Palau, the most credible approach is therefore neither automatic belief nor 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ For Palau, the most credible approach is therefore neither automatic belief nor 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,137 +781,136 @@ For Palau, the most credible approach is therefore neither automatic belief nor 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: 2021-2025.state.gov  
    Title: u s relations with palau  
-   Link: <a href="https://2021-2025.state.gov/u-s-relations-with-palau/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/u-s-relations-with-palau/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of StateU.S. Relations With Palau6 Dec 2024 — Under the COFA, Palau and the United States agreed that the United States h...</p></details>
+   Link:<a href="https://2021-2025.state.gov/u-s-relations-with-palau/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/u-s-relations-with-palau/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of StateU.S. Relations With Palau6 Dec 2024 — Under the COFA, Palau and the United States agreed that the United States h...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Compact of Free Association  
-   Link: <a href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compact_of_Free_Association</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compact of Free AssociationThe Compacts of Free Association (COFA) are international agreements establishing and governing the relatio...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compact_of_Free_Association</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compact of Free AssociationThe Compacts of Free Association (COFA) are international agreements establishing and governing the relatio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ipdefenseforum.com  
-   Link: <a href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow">https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</p></details>
+   Link:<a href="https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/" target="_blank" rel="noopener noreferrer nofollow">https://ipdefenseforum.com/2024/08/palau-u-s-defense-projects-boost-air-domain-awareness-operational-flexibility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>defense projects boost air domain awareness...7 Aug 2024 — Collaborative defense infrastructure projects in Palau include construction o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ustda.gov  
-   Link: <a href="https://www.ustda.gov/business_opp_oversea/palau-airport-master-plan-update-and-airport-system-review-technical-assistance/" target="_blank" rel="noopener noreferrer nofollow">https://www.ustda.gov/business_opp_oversea/palau-airport-master-plan-update-and-airport-system-review-technical-assistance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>further economic development, allow more and larger airplanes to land, and...Read more...</p></details>
+   Link:<a href="https://www.ustda.gov/business_opp_oversea/palau-airport-master-plan-update-and-airport-system-review-technical-assistance/" target="_blank" rel="noopener noreferrer nofollow">https://www.ustda.gov/business_opp_oversea/palau-airport-master-plan-update-and-airport-system-review-technical-assistance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>further economic development, allow more and larger airplanes to land, and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roman Tmetuchl International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Roman_Tmetuchl_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roman_Tmetuchl_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roman_Tmetuchl_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roman_Tmetuchl_International_Airport</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?req=%28title%3A48+section%3A1931+edition%3Aprelim%29" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?req=%28title%3A48+section%3A1931+edition%3Aprelim%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>house.gov48 USC 1931: Approval of Compact of Free Association&quot;FURTHER AGREE that the relationships of free association derives from and i...</p></details>
+   Link:<a href="https://uscode.house.gov/view.xhtml?req=%28title%3A48+section%3A1931+edition%3Aprelim%29" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?req=%28title%3A48+section%3A1931+edition%3Aprelim%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.gov48 USC 1931: Approval of Compact of Free Association&quot;FURTHER AGREE that the relationships of free association derives from and i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Inside the U.S  
-   Link: <a href="https://www.reuters.com/investigations/inside-us-battle-with-china-over-an-island-paradise-deep-pacific-2025-04-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/inside-us-battle-with-china-over-an-island-paradise-deep-pacific-2025-04-30/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>battle with China over an island paradise deep in the PacificPalau, a small Pacific island nation, has become a focal point in the growin...</p></details>
+   Link:<a href="https://www.reuters.com/investigations/inside-us-battle-with-china-over-an-island-paradise-deep-pacific-2025-04-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/inside-us-battle-with-china-over-an-island-paradise-deep-pacific-2025-04-30/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>battle with China over an island paradise deep in the PacificPalau, a small Pacific island nation, has become a focal point in the growin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Palau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Palau</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PalauThe Republic of Palau consists of approximately 340 islands and is the western part of the Caroline Islands, while the eastern an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Palau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Palau</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PalauThe Republic of Palau consists of approximately 340 islands and is the western part of the Caroline Islands, while the eastern an...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aph.gov.au  
    Title: Preliminary Assessment UAP 20210625  
-   Link: <a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — This report provides an overview for policymakers of the challenges associated wi...</p></details>
+   Link:<a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — This report provides an overview for policymakers of the challenges associated wi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: edit.doi.gov  
    Title: cofa amendments act  
-   Link: <a href="https://edit.doi.gov/ocl/cofa-amendments-act" target="_blank" rel="noopener noreferrer nofollow">https://edit.doi.gov/ocl/cofa-amendments-act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of the InteriorCOFA Amendments Act14 Jan 2026 — Under the COFA agreements, the U.S. has full authority and responsibility...</p></details>
+   Link:<a href="https://edit.doi.gov/ocl/cofa-amendments-act" target="_blank" rel="noopener noreferrer nofollow">https://edit.doi.gov/ocl/cofa-amendments-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of the InteriorCOFA Amendments Act14 Jan 2026 — Under the COFA agreements, the U.S. has full authority and responsibility...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: washingtonpost.com  
    Title: The Washington Post U.S  
-   Link: <a href="https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military expands in Palau amid China&#x27;s growing...29 Jul 2025 — In October, six U.S. C-17 transport planes swept down on Palau&#x27;s Roman Tm...</p></details>
+   Link:<a href="https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/2025/07/29/palau-pacific-island-us-military-china/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military expands in Palau amid China&#x27;s growing...29 Jul 2025 — In October, six U.S. C-17 transport planes swept down on Palau&#x27;s Roman Tm...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fpif.org  
    Title: The U.S  
-   Link: <a href="https://fpif.org/the-u-s-neocolonial-binge-in-the-compact-states/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/the-u-s-neocolonial-binge-in-the-compact-states/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neocolonial Binge in the Compact StatesFeb 5, 2026 — “Through the compacts, the U.S. military secures exclusive access across the Pacific...</p></details>
+   Link:<a href="https://fpif.org/the-u-s-neocolonial-binge-in-the-compact-states/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/the-u-s-neocolonial-binge-in-the-compact-states/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neocolonial Binge in the Compact StatesFeb 5, 2026 — “Through the compacts, the U.S. military secures exclusive access across the Pacific...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uni-wuerzburg.de  
    Title: uap reports  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting: University and Federal Aviation Office...14 Jul 2025 — There are many reports from pilots who have sighted unknown flying...</p></details>
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting: University and Federal Aviation Office...14 Jul 2025 — There are many reports from pilots who have sighted unknown flying...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reaganlibrary.gov  
-   Link: <a href="https://www.reaganlibrary.gov/archives/speech/executive-order-12569-compact-free-association-republic-marshall-islands-federated" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/archives/speech/executive-order-12569-compact-free-association-republic-marshall-islands-federated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive Order 12569 -- Compact of Free Association...The Secretary of the Interior shall be responsible for seeking the appropriation...</p></details>
+   Link:<a href="https://www.reaganlibrary.gov/archives/speech/executive-order-12569-compact-free-association-republic-marshall-islands-federated" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/archives/speech/executive-order-12569-compact-free-association-republic-marshall-islands-federated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Executive Order 12569 -- Compact of Free Association...The Secretary of the Interior shall be responsible for seeking the appropriation...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPalau already receives extensive funding from the U.S. through an economic and defense agreement called the Compact of Free Assoc...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPalau already receives extensive funding from the U.S. through an economic and defense agreement called the Compact of Free Assoc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fsmlaw.org  
-   Link: <a href="https://www.fsmlaw.org/compact/" target="_blank" rel="noopener noreferrer nofollow">https://www.fsmlaw.org/compact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compact of Free AssociationThe Compact of Free Association between the Federated States of Micronesia and the United States provide for U...</p></details>
+   Link:<a href="https://www.fsmlaw.org/compact/" target="_blank" rel="noopener noreferrer nofollow">https://www.fsmlaw.org/compact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compact of Free AssociationThe Compact of Free Association between the Federated States of Micronesia and the United States provide for U...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/airports/ptro" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/airports/ptro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Palau International | SKYbrary Aviation SafetyRoman Tmetuchl International Airport is the only international airport in the small Pacific...</p></details>
+   Link:<a href="https://skybrary.aero/airports/ptro" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/airports/ptro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Palau International | SKYbrary Aviation SafetyRoman Tmetuchl International Airport is the only international airport in the small Pacific...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports unusual aerial encounterAdvanced radar systems recorded the event, ruling out optical illusion or sensor malfunction. Weath...</p></details>
+   Link:<a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports unusual aerial encounterAdvanced radar systems recorded the event, ruling out optical illusion or sensor malfunction. Weath...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: palauan president austin discuss indo pacific security concerns  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/2721578/palauan-president-austin-discuss-indo-pacific-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/2721578/palauan-president-austin-discuss-indo-pacific-security-concerns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Palauan President, Austin Discuss Indo-Pacific Security...5 Aug 2021 — &quot;I want to underscore that the Department of Defense is deeply co...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/2721578/palauan-president-austin-discuss-indo-pacific-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/2721578/palauan-president-austin-discuss-indo-pacific-security-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Palauan President, Austin Discuss Indo-Pacific Security...5 Aug 2021 — &quot;I want to underscore that the Department of Defense is deeply co...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eapmediahub/posts/the-compact-of-free-association-cofa-is-an-essential-agreement-for-preserving-am/1120470830266556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eapmediahub/posts/the-compact-of-free-association-cofa-is-an-essential-agreement-for-preserving-am/1120470830266556/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>federal government provides guaranteed financial assistance over an option of 15-25 year period administered through...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/eapmediahub/posts/the-compact-of-free-association-cofa-is-an-essential-agreement-for-preserving-am/1120470830266556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eapmediahub/posts/the-compact-of-free-association-cofa-is-an-essential-agreement-for-preserving-am/1120470830266556/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>federal government provides guaranteed financial assistance over an option of 15-25 year period administered through...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fpif.org  
    Title: u s claims to central pacific flout international law  
-   Link: <a href="https://fpif.org/u-s-claims-to-central-pacific-flout-international-law/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/u-s-claims-to-central-pacific-flout-international-law/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims to Central Pacific Flout International Law18 Sept 2023 — For decades, the United States has overseen compacts of free association...</p></details>
+   Link:<a href="https://fpif.org/u-s-claims-to-central-pacific-flout-international-law/" target="_blank" rel="noopener noreferrer nofollow">https://fpif.org/u-s-claims-to-central-pacific-flout-international-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claims to Central Pacific Flout International Law18 Sept 2023 — For decades, the United States has overseen compacts of free association...</p></details>

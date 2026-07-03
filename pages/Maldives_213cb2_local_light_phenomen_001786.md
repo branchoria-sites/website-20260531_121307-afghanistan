@@ -251,7 +251,7 @@ image: /assets/images/Maldives_213cb2_local_light_phenomen_001786-Illustration-1
 Reports of unusual lights over Maldivian waters occupy a curious place in the country's folklore and modern anecdotal history. Unlike nations with extensive UFO archives, the [Maldives]({{ 'maldives/' | relative_url }}) has produced very few documented cases, and most accounts remain informal stories passed between fishermen, island residents, divers, sailors and travellers. The recurring theme is not the appearance of structured craft, but mysterious lights: glowing patches on the sea, moving points of light in remote channels between atolls, or luminous objects seen far from inhabited islands.
 
 <img src="{{ "/assets/images/Maldives_213cb2_local_light_phenomen_001786-Illustration-1-dark.svg" | relative_url }}" alt="Local Light Phenomena illustration 1" data-theme-src-dark="{{ "/assets/images/Maldives_213cb2_local_light_phenomen_001786-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maldives_213cb2_local_light_phenomen_001786-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The challenge in assessing these stories is that the Maldives is an environment where natural and human-made light phenomena are unusually prominent. The country consists of more than a thousand coral islands spread across vast stretches of ocean, with deep channels, exceptionally dark skies away from resorts, heavy maritime traffic and well-known bioluminescent marine activity. As a result, many local stories sit at the boundary between folklore, environmental observation and unexplained anecdote rather than forming a body of strong UFO evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atollsofmaldives.gov.mv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atollsofmaldives.gov.mv">[Atolls of Maldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atollsofmaldives.gov.mv</span><span class="citation-popover-snippet">Atolls of MaldivesAtolls of MaldivesThe Capital of Maldives is Malé. The Maldives consists of atolls, coral reefs and low-lying coral isl...</span></span></span>
+The challenge in assessing these stories is that the Maldives is an environment where natural and human-made light phenomena are unusually prominent. The country consists of more than a thousand coral islands spread across vast stretches of ocean, with deep channels, exceptionally dark skies away from resorts, heavy maritime traffic and well-known bioluminescent marine activity. As a result, many local stories sit at the boundary between folklore, environmental observation and unexplained anecdote rather than forming a body of strong UFO evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atollsofmaldives.gov.mv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atollsofmaldives.gov.mv">[Atolls of Maldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atollsofmaldives.gov.mv</span><span class="citation-popover-snippet">Atolls of MaldivesAtolls of MaldivesThe Capital of Maldives is Malé. The Maldives consists of atolls, coral reefs and low-lying coral isl...</span></span></span>
 
 ## Fishermen and Resident Reports from the Atolls
 
@@ -269,19 +269,19 @@ Descriptions vary considerably, but several recurring motifs appear in oral acco
 
 </div>
 
-Because many islands were without electricity until relatively recent decades, older generations experienced some of the darkest skies in the Indian Ocean. Anthropological work on Maldivian culture notes that traditional island life was conducted in conditions where moonlight, starlight and occasional marine illumination were highly visible and culturally significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/wp-content/uploads/2022/03/Xavier-Romero-Frias-The-Maldive-Islanders-Book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritimeasiaheritage.cseas.kyoto-u.ac.jp">[Maritime Asia Heritage Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritimeasiaheritage.cseas.kyoto-u.ac.jp</span><span class="citation-popover-title">Maritime Asia Heritage Survey Xavier-Romero-Frias-The-Maldive-Islanders-Book</span><span class="citation-popover-snippet">March 14, 2022 — We met in the night at the light of an oil lamp. There was no electricity, no running water and no modern amenities on t...</span><span class="citation-popover-meta">Published: March 14, 2022</span></span></span>
+Because many islands were without electricity until relatively recent decades, older generations experienced some of the darkest skies in the Indian Ocean. Anthropological work on Maldivian culture notes that traditional island life was conducted in conditions where moonlight, starlight and occasional marine illumination were highly visible and culturally significant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/wp-content/uploads/2022/03/Xavier-Romero-Frias-The-Maldive-Islanders-Book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritimeasiaheritage.cseas.kyoto-u.ac.jp">[Maritime Asia Heritage Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritimeasiaheritage.cseas.kyoto-u.ac.jp</span><span class="citation-popover-title">Maritime Asia Heritage Survey Xavier-Romero-Frias-The-Maldive-Islanders-Book</span><span class="citation-popover-snippet">March 14, 2022 — We met in the night at the light of an oil lamp. There was no electricity, no running water and no modern amenities on t...</span><span class="citation-popover-meta">Published: March 14, 2022</span></span></span>
 
 These reports rarely include dates, photographs or independent corroboration. Instead, they survive as local stories repeated within fishing communities. The lack of systematic recording makes it difficult to determine whether multiple islands were describing the same events or entirely separate experiences.
 
-A further complication is geography. The Maldives is formed by long chains of atolls separated by deep ocean channels known locally as kandu. Light from distant vessels can appear isolated against a dark horizon, and atmospheric conditions over warm tropical waters can create unusual visual effects that make ordinary lights appear elevated, distorted or mobile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atolls_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atolls of the Maldives</span><span class="citation-popover-snippet">Atolls of the Maldives</span></span></span>
+A further complication is geography. The Maldives is formed by long chains of atolls separated by deep ocean channels known locally as kandu. Light from distant vessels can appear isolated against a dark horizon, and atmospheric conditions over warm tropical waters can create unusual visual effects that make ordinary lights appear elevated, distorted or mobile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atolls_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atolls of the Maldives</span><span class="citation-popover-snippet">Atolls of the Maldives</span></span></span>
 
 ## Why Glowing Seas Became Part of Local Storytelling
 
 One reason unusual lights occupy such a visible place in Maldivian storytelling is the country's famous bioluminescent waters.
 
-Several islands, particularly those that periodically experience blooms of luminous plankton, are known for beaches that glow blue at night. Modern tourism markets this as the "Sea of Stars" phenomenon, but local traditions surrounding glowing water predate contemporary tourism by generations. Official tourism material notes that Maldivians historically associated these glowing waters with stories, omens and the power of the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitmaldives.com">[visitmaldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitmaldives.com</span><span class="citation-popover-title">the sea of stars in the sunny side of life</span><span class="citation-popover-snippet">The Sea of Stars in the Sunny Side of Life31 Jan 2023 — The Maldivians call this phenomenon &quot;Redhan lun,&quot; and there are many...</span></span></span>
+Several islands, particularly those that periodically experience blooms of luminous plankton, are known for beaches that glow blue at night. Modern tourism markets this as the "Sea of Stars" phenomenon, but local traditions surrounding glowing water predate contemporary tourism by generations. Official tourism material notes that Maldivians historically associated these glowing waters with stories, omens and the power of the sea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitmaldives.com">[visitmaldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitmaldives.com</span><span class="citation-popover-title">the sea of stars in the sunny side of life</span><span class="citation-popover-snippet">The Sea of Stars in the Sunny Side of Life31 Jan 2023 — The Maldivians call this phenomenon &quot;Redhan lun,&quot; and there are many...</span></span></span>
 
-Bioluminescence occurs when microscopic marine organisms emit light after being disturbed by waves, fish or boats. Under favourable conditions, entire shorelines can appear illuminated. Observers unfamiliar with the phenomenon may interpret the effect as something extraordinary, particularly when seen unexpectedly in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barcelo.com">[Barceló Hotel Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barcelo.com</span><span class="citation-popover-snippet">Barceló Hotel GroupBioluminescence in the Maldives: where and when to see...Bioluminescent beaches are usually seen at night, produced b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuoni.co.uk/inspiration/bioluminescence-in-the-maldives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuoni.co.uk">[kuoni]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuoni.co.uk</span><span class="citation-popover-title">bioluminescence in the maldives</span><span class="citation-popover-snippet">As waves break on the sandy shore, or bare feet step into wet sand, a...Read more...</span></span></span> In practical terms, this means that some historical reports of glowing objects or lights in the water may have originated from genuine natural events. A moving school of fish travelling through bioluminescent plankton, for example, can create the impression of a luminous object moving beneath the surface. Likewise, breaking waves around reefs may appear as bright bands of shifting light.
+Bioluminescence occurs when microscopic marine organisms emit light after being disturbed by waves, fish or boats. Under favourable conditions, entire shorelines can appear illuminated. Observers unfamiliar with the phenomenon may interpret the effect as something extraordinary, particularly when seen unexpectedly in darkness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barcelo.com">[Barceló Hotel Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barcelo.com</span><span class="citation-popover-snippet">Barceló Hotel GroupBioluminescence in the Maldives: where and when to see...Bioluminescent beaches are usually seen at night, produced b...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuoni.co.uk/inspiration/bioluminescence-in-the-maldives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuoni.co.uk">[kuoni]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuoni.co.uk</span><span class="citation-popover-title">bioluminescence in the maldives</span><span class="citation-popover-snippet">As waves break on the sandy shore, or bare feet step into wet sand, a...Read more...</span></span></span> In practical terms, this means that some historical reports of glowing objects or lights in the water may have originated from genuine natural events. A moving school of fish travelling through bioluminescent plankton, for example, can create the impression of a luminous object moving beneath the surface. Likewise, breaking waves around reefs may appear as bright bands of shifting light.
 
 The importance of this explanation is not that it automatically resolves every anecdote, but that it demonstrates how the Maldivian marine environment naturally produces visual phenomena that are uncommon in many other parts of the world.
 
@@ -291,7 +291,7 @@ The importance of this explanation is not that it automatically resolves every a
 
 Traditional Maldivian folklore contains numerous stories involving supernatural presences associated with reefs, lagoons and remote parts of islands. Although these tales are not UFO reports in the modern sense, they provide cultural context for how unexplained lights and unusual sightings were historically interpreted.
 
-Collections of Maldivian folklore documented by researchers such as Xavier Romero-Frias describe stories involving spirits, reef monsters and mysterious entities emerging from the sea. Many narratives warn against travelling alone at night, approaching certain reefs, or venturing into isolated areas after dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Folklore_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Folklore of the Maldives</span><span class="citation-popover-snippet">Folklore of the Maldives</span></span></span>
+Collections of Maldivian folklore documented by researchers such as Xavier Romero-Frias describe stories involving spirits, reef monsters and mysterious entities emerging from the sea. Many narratives warn against travelling alone at night, approaching certain reefs, or venturing into isolated areas after dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Folklore_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Folklore of the Maldives</span><span class="citation-popover-snippet">Folklore of the Maldives</span></span></span>
 
 In these traditions, strange lights were not usually framed as visitors from elsewhere. Instead, they were understood through spiritual or mythological frameworks. The ocean was viewed as both a provider of life and a source of danger, and unexplained nocturnal events naturally became woven into local storytelling.
 
@@ -337,7 +337,7 @@ Several conventional explanations fit a large proportion of reported lights over
 
 ### Bioluminescence
 
-The most distinctive local factor is marine bioluminescence. The glowing beaches and luminous wave effects regularly observed in the Maldives demonstrate that naturally occurring light sources are present throughout the marine environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitmaldives.com">[visitmaldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitmaldives.com</span><span class="citation-popover-title">the sea of stars in the sunny side of life</span><span class="citation-popover-snippet">The Sea of Stars in the Sunny Side of Life31 Jan 2023 — The Maldivians call this phenomenon &quot;Redhan lun,&quot; and there are many...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barcelo.com">[2Barceló Hotel Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barcelo.com</span><span class="citation-popover-snippet">Barceló Hotel GroupBioluminescence in the Maldives: where and when to see...Bioluminescent beaches are usually seen at night, produced b...</span></span></span>
+The most distinctive local factor is marine bioluminescence. The glowing beaches and luminous wave effects regularly observed in the Maldives demonstrate that naturally occurring light sources are present throughout the marine environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitmaldives.com">[visitmaldives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitmaldives.com</span><span class="citation-popover-title">the sea of stars in the sunny side of life</span><span class="citation-popover-snippet">The Sea of Stars in the Sunny Side of Life31 Jan 2023 — The Maldivians call this phenomenon &quot;Redhan lun,&quot; and there are many...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barcelo.com">[2Barceló Hotel Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barcelo.com</span><span class="citation-popover-snippet">Barceló Hotel GroupBioluminescence in the Maldives: where and when to see...Bioluminescent beaches are usually seen at night, produced b...</span></span></span>
 
 ### Fishing and Maritime Traffic
 
@@ -369,194 +369,194 @@ For that reason, the historical record of strange lights over Maldivian waters i
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oLU2N-SnaC8" title="Episode 150: A Color Contradiction in the Maldives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oLU2N-SnaC8" target="_blank" rel="noopener noreferrer">Episode 150: A Color Contradiction in the Maldives</a></p><p class="youtube-embed-meta">Channel: Roadtrips of Unusual Size &middot; Views: 2.2K &middot; Uploaded: April 2025 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oLU2N-SnaC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oLU2N-SnaC8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Historical Anecdotes and Strange Lights Across Maldives Atolls. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Historical Anecdotes and Strange Lights Across Maldives Atolls. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly explores links between folklore traditions and unusual light phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores links between folklore traditions and unusual light phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Relevant to anecdotal reports of strange lights across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to anecdotal reports of strange lights across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Discusses recurring reports of mysterious lights and aerial anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses recurring reports of mysterious lights and aerial anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for understanding perception and interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding perception and interpretation of unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="historical-anecdotes-and-strange-lights-across-maldives-atolls-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ For that reason, the historical record of strange lights over Maldivian waters i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ For that reason, the historical record of strange lights over Maldivian waters i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ For that reason, the historical record of strange lights over Maldivian waters i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ For that reason, the historical record of strange lights over Maldivian waters i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ For that reason, the historical record of strange lights over Maldivian waters i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,109 +762,109 @@ For that reason, the historical record of strange lights over Maldivian waters i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Atolls of the Maldives  
-   Link: <a href="https://en.wikipedia.org/wiki/Atolls_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atolls_of_the_Maldives</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atolls_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atolls_of_the_Maldives</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Folklore of the Maldives  
-   Link: <a href="https://en.wikipedia.org/wiki/Folklore_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Folklore_of_the_Maldives</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Folklore_of_the_Maldives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Folklore_of_the_Maldives</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: visitmaldives.com  
    Title: the sea of stars in the sunny side of life  
-   Link: <a href="https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life" target="_blank" rel="noopener noreferrer nofollow">https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sea of Stars in the Sunny Side of Life31 Jan 2023 — The Maldivians call this phenomenon &quot;Redhan lun,&quot; and there are many...</p></details>
+   Link:<a href="https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life" target="_blank" rel="noopener noreferrer nofollow">https://visitmaldives.com/en/experience/the-sea-of-stars-in-the-sunny-side-of-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sea of Stars in the Sunny Side of Life31 Jan 2023 — The Maldivians call this phenomenon &quot;Redhan lun,&quot; and there are many...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rannamaari" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rannamaari</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rannamaari" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rannamaari</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Sea of Stars  
-   Link: <a href="https://www.youtube.com/watch?v=oc_V0aBLYW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oc_V0aBLYW8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Does This Sea Glow in the Dark?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oc_V0aBLYW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oc_V0aBLYW8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Does This Sea Glow in the Dark?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: atollsofmaldives.gov.mv  
-   Link: <a href="https://www.atollsofmaldives.gov.mv/" target="_blank" rel="noopener noreferrer nofollow">https://www.atollsofmaldives.gov.mv/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atolls of MaldivesAtolls of MaldivesThe Capital of Maldives is Malé. The Maldives consists of atolls, coral reefs and low-lying coral isl...</p></details>
+   Link:<a href="https://www.atollsofmaldives.gov.mv/" target="_blank" rel="noopener noreferrer nofollow">https://www.atollsofmaldives.gov.mv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atolls of MaldivesAtolls of MaldivesThe Capital of Maldives is Malé. The Maldives consists of atolls, coral reefs and low-lying coral isl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: maritimeasiaheritage.cseas.kyoto-u.ac.jp  
    Title: Maritime Asia Heritage Survey Xavier-Romero-Frias-The-Maldive-Islanders-Book  
-   Link: <a href="https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/wp-content/uploads/2022/03/Xavier-Romero-Frias-The-Maldive-Islanders-Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/wp-content/uploads/2022/03/Xavier-Romero-Frias-The-Maldive-Islanders-Book.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2022 — We met in the night at the light of an oil lamp. There was no electricity, no running water and no modern amenities on t...</p></details>
+   Link:<a href="https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/wp-content/uploads/2022/03/Xavier-Romero-Frias-The-Maldive-Islanders-Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/wp-content/uploads/2022/03/Xavier-Romero-Frias-The-Maldive-Islanders-Book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2022 — We met in the night at the light of an oil lamp. There was no electricity, no running water and no modern amenities on t...</p></details>
    Published: March 14, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/visitmaldives/posts/experience-the-magical-phenomenon-of-the-bioluminescent-plankton-as-the-waves-br/4383029571768025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitmaldives/posts/experience-the-magical-phenomenon-of-the-bioluminescent-plankton-as-the-waves-br/4383029571768025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Maldives&#x27;s postOn Vaadhoo Island in the Maldives, the waves glow at night with a magical blue light thanks to bioluminescent plankt...</p></details>
+   Link:<a href="https://www.facebook.com/visitmaldives/posts/experience-the-magical-phenomenon-of-the-bioluminescent-plankton-as-the-waves-br/4383029571768025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitmaldives/posts/experience-the-magical-phenomenon-of-the-bioluminescent-plankton-as-the-waves-br/4383029571768025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Maldives&#x27;s postOn Vaadhoo Island in the Maldives, the waves glow at night with a magical blue light thanks to bioluminescent plankt...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: barcelo.com  
-   Link: <a href="https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/" target="_blank" rel="noopener noreferrer nofollow">https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barceló Hotel GroupBioluminescence in the Maldives: where and when to see...Bioluminescent beaches are usually seen at night, produced b...</p></details>
+   Link:<a href="https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/" target="_blank" rel="noopener noreferrer nofollow">https://www.barcelo.com/guia-turismo/en/maldives/maldives/things-to-do/bioluminescence-maldivas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barceló Hotel GroupBioluminescence in the Maldives: where and when to see...Bioluminescent beaches are usually seen at night, produced b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kuoni.co.uk  
    Title: bioluminescence in the maldives  
-   Link: <a href="https://www.kuoni.co.uk/inspiration/bioluminescence-in-the-maldives/" target="_blank" rel="noopener noreferrer nofollow">https://www.kuoni.co.uk/inspiration/bioluminescence-in-the-maldives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As waves break on the sandy shore, or bare feet step into wet sand, a...Read more...</p></details>
+   Link:<a href="https://www.kuoni.co.uk/inspiration/bioluminescence-in-the-maldives/" target="_blank" rel="noopener noreferrer nofollow">https://www.kuoni.co.uk/inspiration/bioluminescence-in-the-maldives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As waves break on the sandy shore, or bare feet step into wet sand, a...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/324440528165875/posts/1219394665337119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324440528165875/posts/1219394665337119/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience the magic of Maldives by nightBecause of the islands&#x27; remote location away from light pollution, the nights in the Maldives ar...</p></details>
+   Link:<a href="https://www.facebook.com/groups/324440528165875/posts/1219394665337119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324440528165875/posts/1219394665337119/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experience the magic of Maldives by nightBecause of the islands&#x27; remote location away from light pollution, the nights in the Maldives ar...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalgeographic.org  
-   Link: <a href="https://www.nationalgeographic.org/society/our-programs/pristine-seas/maldives/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.org/society/our-programs/pristine-seas/maldives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MaldivesSituated in the Indian Ocean, the Republic of Maldives is an independent island nation renowned for their clear emerald waters an...</p></details>
+   Link:<a href="https://www.nationalgeographic.org/society/our-programs/pristine-seas/maldives/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.org/society/our-programs/pristine-seas/maldives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MaldivesSituated in the Indian Ocean, the Republic of Maldives is an independent island nation renowned for their clear emerald waters an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oLU2N-SnaC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oLU2N-SnaC8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 150: A Color Contradiction in the MaldivesThe ROUS Channel begins a new series this week and it documents what we just found divi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oLU2N-SnaC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oLU2N-SnaC8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 150: A Color Contradiction in the MaldivesThe ROUS Channel begins a new series this week and it documents what we just found divi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: icsf.net  
-   Link: <a href="https://icsf.net/newss/maldives-protests-to-continue-until-govt-green-lights-fishermens-demands/" target="_blank" rel="noopener noreferrer nofollow">https://icsf.net/newss/maldives-protests-to-continue-until-govt-green-lights-fishermens-demands/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ting at Jetty Number 1 until their demands are green lighted by the government...Read more...</p></details>
+   Link:<a href="https://icsf.net/newss/maldives-protests-to-continue-until-govt-green-lights-fishermens-demands/" target="_blank" rel="noopener noreferrer nofollow">https://icsf.net/newss/maldives-protests-to-continue-until-govt-green-lights-fishermens-demands/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ting at Jetty Number 1 until their demands are green lighted by the government...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DStEiHhDRzT/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DStEiHhDRzT/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e in the water, creating what&#x27;s often called the “Sea of Stars.” When...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DStEiHhDRzT/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DStEiHhDRzT/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e in the water, creating what&#x27;s often called the “Sea of Stars.” When...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Bioluminescence in the deep sea: How and why do animals create their own light?  
-   Link: <a href="https://www.youtube.com/watch?v=aPUF40j47-o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aPUF40j47-o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maldives glowing beach sea of stars bioluminescence Bioluminescent Plankton Glow on Beach in the Maldives || ViralHog ViralHog...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aPUF40j47-o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aPUF40j47-o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maldives glowing beach sea of stars bioluminescence Bioluminescent Plankton Glow on Beach in the Maldives || ViralHog ViralHog...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/36476626805/posts/10161099051061806/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/36476626805/posts/10161099051061806/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>een it 10x:0 i wont get into what i&#x27;m pretty sure it...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/36476626805/posts/10161099051061806/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/36476626805/posts/10161099051061806/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>een it 10x:0 i wont get into what i&#x27;m pretty sure it...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theadriangee/posts/imagine-this-you-wake-up-in-paradise-the-ocean-is-glass-the-air-still-sunlight-d/1370093181144115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadriangee/posts/imagine-this-you-wake-up-in-paradise-the-ocean-is-glass-the-air-still-sunlight-d/1370093181144115/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hattered by something that didn&#x27;t belong to this world.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/theadriangee/posts/imagine-this-you-wake-up-in-paradise-the-ocean-is-glass-the-air-still-sunlight-d/1370093181144115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadriangee/posts/imagine-this-you-wake-up-in-paradise-the-ocean-is-glass-the-air-still-sunlight-d/1370093181144115/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hattered by something that didn&#x27;t belong to this world.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCTravel/posts/once-a-destination-for-the-ultra-rich-the-maldives-is-now-embracing-a-new-model-/1274497001374608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCTravel/posts/once-a-destination-for-the-ultra-rich-the-maldives-is-now-embracing-a-new-model-/1274497001374608/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>model of tourism that&#x27;s changing who gets to experience paradise...</p></details>
+   Link:<a href="https://www.facebook.com/BBCTravel/posts/once-a-destination-for-the-ultra-rich-the-maldives-is-now-embracing-a-new-model-/1274497001374608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCTravel/posts/once-a-destination-for-the-ultra-rich-the-maldives-is-now-embracing-a-new-model-/1274497001374608/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>model of tourism that&#x27;s changing who gets to experience paradise...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/placestosee/posts/the-truth-about-maldives-glowing-beach-/1267046798784975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/placestosee/posts/the-truth-about-maldives-glowing-beach-/1267046798784975/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ct. This phenomenon is caused by bioluminescent...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/placestosee/posts/the-truth-about-maldives-glowing-beach-/1267046798784975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/placestosee/posts/the-truth-about-maldives-glowing-beach-/1267046798784975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ct. This phenomenon is caused by bioluminescent...Read more...</p></details>

@@ -254,24 +254,24 @@ image: /assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustrat
 
 ## Introduction
 
-In September 2010, villagers on the northeast coast of Malaita reported what sounded like a straightforward aviation disaster: a small aircraft trailing smoke appeared to crash into the sea near Leli Island. Within hours, police, aviation officials and Regional Assistance Mission to Solomon Islands (RAMSI) personnel began treating the report as a possible emergency. Helicopters were deployed, boats searched coastal waters and the Solomon Islands Civil Aviation Authority opened an investigation. Yet after several days of coordinated searching, officials found no wreckage, no oil slick, no bodies and no missing aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+In September 2010, villagers on the northeast coast of Malaita reported what sounded like a straightforward aviation disaster: a small aircraft trailing smoke appeared to crash into the sea near Leli Island. Within hours, police, aviation officials and Regional Assistance Mission to Solomon Islands (RAMSI) personnel began treating the report as a possible emergency. Helicopters were deployed, boats searched coastal waters and the Solomon Islands Civil Aviation Authority opened an investigation. Yet after several days of coordinated searching, officials found no wreckage, no oil slick, no bodies and no missing aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-1-dark.svg" | relative_url }}" alt="Malaita Crash illustration 1" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That absence of evidence transformed the event from a presumed crash into one of the most discussed unexplained incidents in Solomon Islands UFO-related folklore. Unlike many local UFO stories that rest largely on anecdote, the East Malaita case generated an official search record. The central mystery is therefore unusually clear: numerous witnesses reported seeing something fall from the sky, but every formal investigation failed to locate physical proof that an aircraft had crashed at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+That absence of evidence transformed the event from a presumed crash into one of the most discussed unexplained incidents in Solomon Islands UFO-related folklore. Unlike many local UFO stories that rest largely on anecdote, the East Malaita case generated an official search record. The central mystery is therefore unusually clear: numerous witnesses reported seeing something fall from the sky, but every formal investigation failed to locate physical proof that an aircraft had crashed at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
 ## What Witnesses Said They Saw Near Ogou and Leli Island
 
-The incident unfolded on 7 September 2010 along the East Malaita coast near Atoifi. Reports emerged from Ogou village and neighbouring communities overlooking the sea toward Leli Island. Witnesses stated that they saw a small aircraft-like object travelling south while emitting smoke from its rear section. According to multiple accounts, the object then appeared to descend and crash into the ocean several kilometres offshore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+The incident unfolded on 7 September 2010 along the East Malaita coast near Atoifi. Reports emerged from Ogou village and neighbouring communities overlooking the sea toward Leli Island. Witnesses stated that they saw a small aircraft-like object travelling south while emitting smoke from its rear section. According to multiple accounts, the object then appeared to descend and crash into the ocean several kilometres offshore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
-The reports were not limited to a single observer. Parliamentary [records]({{ 'records-599eb0/' | relative_url }}) later stated that people from Ogou, Canaan Village and other nearby locations independently described a similar event. Some villagers were sufficiently convinced that a crash had occurred that a canoe reportedly attempted to approach the suspected impact area before turning back because of rough weather and poor sea conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+The reports were not limited to a single observer. Parliamentary [records]({{ 'records-599eb0/' | relative_url }}) later stated that people from Ogou, Canaan Village and other nearby locations independently described a similar event. Some villagers were sufficiently convinced that a crash had occurred that a canoe reportedly attempted to approach the suspected impact area before turning back because of rough weather and poor sea conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
-What made the story immediately credible to authorities was not the UFO angle that emerged later, but the apparent consistency of the eyewitness descriptions. To local observers, the object looked enough like a conventional aircraft in distress that the first assumption was a genuine aviation emergency rather than anything anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+What made the story immediately credible to authorities was not the UFO angle that emerged later, but the apparent consistency of the eyewitness descriptions. To local observers, the object looked enough like a conventional aircraft in distress that the first assumption was a genuine aviation emergency rather than anything anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 ## How the Official Search Began
 
 Once reports reached police in Atoifi, the response followed the procedures expected for a possible aircraft accident.
 
-Local police contacted headquarters in Honiara, which quickly checked whether any known aircraft were missing. Initial checks suggested that all aircraft operating from Honiara were accounted for, but authorities still treated the reports seriously because eyewitnesses continued insisting that something had fallen into the sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+Local police contacted headquarters in Honiara, which quickly checked whether any known aircraft were missing. Initial checks suggested that all aircraft operating from Honiara were accounted for, but authorities still treated the reports seriously because eyewitnesses continued insisting that something had fallen into the sea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 The response rapidly expanded across several agencies:
 
@@ -281,21 +281,21 @@ The response rapidly expanded across several agencies:
 * RAMSI's Participating Police Force became involved.
 * Aviation authorities were notified.
 * Search-and-rescue resources were mobilised.
-* Maritime teams prepared for a sea search. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+* Maritime teams prepared for a sea search.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 </div>
 
-The speed of the reaction is important because it undercuts later claims that officials ignored the reports. Available records indicate that the incident triggered a genuine multi-agency search effort rather than a symbolic investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+The speed of the reaction is important because it undercuts later claims that officials ignored the reports. Available records indicate that the incident triggered a genuine multi-agency search effort rather than a symbolic investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
 ## Helicopter Searches and the First Signs of a Problem
 
 The first major search operation involved a helicopter equipped with aerial search capability. RAMSI personnel flew over the suspected crash area soon after the reports emerged.
 
-Weather quickly became a major obstacle. Contemporary reporting noted that bad conditions limited visibility and prevented crews from obtaining a clear view of the sea surface. Early aerial sweeps failed to identify debris or an obvious impact site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+Weather quickly became a major obstacle. Contemporary reporting noted that bad conditions limited visibility and prevented crews from obtaining a clear view of the sea surface. Early aerial sweeps failed to identify debris or an obvious impact site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
-Parliamentary testimony later provided a more detailed timeline. The helicopter searched the designated area but found no visible wreckage. No floating debris field was identified, and there was no sign of an aircraft breaking apart on impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+Parliamentary testimony later provided a more detailed timeline. The helicopter searched the designated area but found no visible wreckage. No floating debris field was identified, and there was no sign of an aircraft breaking apart on impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
-At that stage, investigators still had reason to continue. Aircraft wreckage can sink quickly, and rough seas can disperse lighter debris. The absence of immediate evidence did not yet rule out a crash. What mattered was whether follow-up searches would uncover anything that the helicopter had missed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+At that stage, investigators still had reason to continue. Aircraft wreckage can sink quickly, and rough seas can disperse lighter debris. The absence of immediate evidence did not yet rule out a crash. What mattered was whether follow-up searches would uncover anything that the helicopter had missed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AXLtvpsBg9Q" title="Solomon Islands Explained inn 10 Minutes (History, Geography, And Culture)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AXLtvpsBg9Q" target="_blank" rel="noopener noreferrer">Solomon Islands Explained inn 10 Minutes (History, Geography, And Culture)</a></p><p class="youtube-embed-meta">Channel: Opentiera &middot; Views: 43.4K &middot; Uploaded: May 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AXLtvpsBg9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AXLtvpsBg9Q">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ At that stage, investigators still had reason to continue. Aircraft wreckage can
 
 Authorities escalated the operation by moving search teams directly into the suspected impact zone.
 
-Police boats, RAMSI vessels and local banana boats conducted daylight searches across the waters identified by witnesses. Searchers attempted to match witness descriptions with a probable crash location and systematically inspected the surrounding area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+Police boats, RAMSI vessels and local banana boats conducted daylight searches across the waters identified by witnesses. Searchers attempted to match witness descriptions with a probable crash location and systematically inspected the surrounding area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 According to official accounts, investigators looked for several expected indicators of an aviation accident:
 
@@ -313,20 +313,20 @@ According to official accounts, investigators looked for several expected indica
 * Fuel or oil slicks.
 * Human remains.
 * Signs of a recent impact on the sea surface.
-* Reports of missing passengers or crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+* Reports of missing passengers or crew.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
 </div>
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalpasifik.org/items/548459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalpasifik.org">[Nothing was found.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalpasifik.org</span><span class="citation-popover-snippet">According to the Solomon...</span></span></span>
 
-The search teams reported no debris, no bodies and no oil trails. As the operation continued, the discrepancy between the eyewitness reports and the physical evidence became increasingly difficult to explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+The search teams reported no debris, no bodies and no oil trails. As the operation continued, the discrepancy between the eyewitness reports and the physical evidence became increasingly difficult to explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-2-dark.svg" | relative_url }}" alt="Malaita Crash illustration 2" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation Authorities Enter the Investigation
 
 The case moved beyond a simple police search when the Solomon Islands Civil Aviation Authority became formally involved.
 
-Meetings were held between police, aviation officials, air-traffic personnel and search-and-rescue authorities. Under the Civil Aviation Act framework, aviation investigators assumed responsibility for determining whether an aircraft accident had actually occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+Meetings were held between police, aviation officials, air-traffic personnel and search-and-rescue authorities. Under the Civil Aviation Act framework, aviation investigators assumed responsibility for determining whether an aircraft accident had actually occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 Investigators examined several key questions:
 
@@ -335,15 +335,15 @@ Investigators examined several key questions:
 1. Was any domestic aircraft missing?
 2. Had any international aircraft filed a flight plan through the area?
 3. Did air-traffic records show an unidentified aircraft operating in East Malaita?
-4. Could the witness reports be matched to a known flight? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+4. Could the witness reports be matched to a known flight?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 </div>
 
 The answers created a second layer of mystery.
 
-Police Commissioner Peter Marshall stated that consultations with relevant agencies revealed no scheduled flight matching the reported aircraft. Officials also reported that no overseas operator had filed a flight plan indicating passage through Solomon Islands airspace in that area. Solomon Airlines publicly confirmed that none of its aircraft was involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+Police Commissioner Peter Marshall stated that consultations with relevant agencies revealed no scheduled flight matching the reported aircraft. Officials also reported that no overseas operator had filed a flight plan indicating passage through Solomon Islands airspace in that area. Solomon Airlines publicly confirmed that none of its aircraft was involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
-The investigation was no longer dealing with a missing plane whose wreckage had not yet been found. It was dealing with a reported crash for which no aircraft could be identified in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+The investigation was no longer dealing with a missing plane whose wreckage had not yet been found. It was dealing with a reported crash for which no aircraft could be identified in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2gWJrH4YeP4" title="Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2gWJrH4YeP4" target="_blank" rel="noopener noreferrer">Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.2K &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2gWJrH4YeP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2gWJrH4YeP4">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +351,7 @@ The investigation was no longer dealing with a missing plane whose wreckage had 
 
 Most aviation mysteries eventually narrow into one of two categories: a confirmed crash with incomplete information, or a mistaken report that can be linked to a known event. The East Malaita incident resisted both explanations.
 
-The official findings were unusually blunt. After extensive searches on land and sea, investigators reported that there was no evidence of a crash and no evidence of aircraft debris. Operations were eventually terminated, although local police were instructed to continue monitoring the area for a further period in case new evidence surfaced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+The official findings were unusually blunt. After extensive searches on land and sea, investigators reported that there was no evidence of a crash and no evidence of aircraft debris. Operations were eventually terminated, although local police were instructed to continue monitoring the area for a further period in case new evidence surfaced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomongiants.wordpress.com">[Solomon Giants UFO Update]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomongiants.wordpress.com</span><span class="citation-popover-snippet">Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 Several possibilities remained open:
 
@@ -359,9 +359,9 @@ Several possibilities remained open:
 * A distant object could have appeared closer than it actually was.
 * An aircraft might have been seen manoeuvring rather than crashing.
 * Atmospheric conditions and poor weather may have distorted perceptions.
-* An unknown object could have been observed without leaving recoverable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+* An unknown object could have been observed without leaving recoverable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
-What investigators did not have was a conventional accident trail. There was no missing aircraft report, no radar record released publicly, no wreckage recovery and no confirmed impact site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+What investigators did not have was a conventional accident trail. There was no missing aircraft report, no radar record released publicly, no wreckage recovery and no confirmed impact site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 That combination is precisely why the incident remained memorable long after the search ended.
 
@@ -370,16 +370,16 @@ That combination is precisely why the incident remained memorable long after the
 
 The UFO interpretation emerged after the official search failed.
 
-Some commentators argued that if witnesses genuinely saw something descend into the sea and authorities could not identify it, then the object technically remained an unidentified flying object. Local letters and alternative-UFO discussions quickly adopted that framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
+Some commentators argued that if witnesses genuinely saw something descend into the sea and authorities could not identify it, then the object technically remained an unidentified flying object. Local letters and alternative-UFO discussions quickly adopted that framing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[Solomon Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">ministry of aviation investigates mystery crash</span><span class="citation-popover-snippet">Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</span></span></span>
 
 This interpretation gained traction because the East Malaita case differed from many folklore-based claims. It involved:
 
 * Multiple reported witnesses.
 * A documented government response.
 * Aviation authority involvement.
-* A formally acknowledged lack of explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+* A formally acknowledged lack of explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
-However, the same evidence that attracts UFO interest also limits stronger conclusions. The official search did not uncover material suggesting an extraterrestrial craft, secret aircraft or recovered technology. The investigation merely established that witnesses reported a crash and that no supporting physical evidence could be found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+However, the same evidence that attracts UFO interest also limits stronger conclusions. The official search did not uncover material suggesting an extraterrestrial craft, secret aircraft or recovered technology. The investigation merely established that witnesses reported a crash and that no supporting physical evidence could be found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
 For that reason, the East Malaita event sits in a middle category that is uncommon in Solomon Islands UFO history: neither a verified aircraft accident nor a verified UFO case.
 
@@ -389,199 +389,199 @@ For that reason, the East Malaita event sits in a middle category that is uncomm
 
 The strongest lesson from the East Malaita mystery crash is not that an unknown craft entered Solomon Islands waters. It is that a well-documented witness event can survive an intensive search without producing a clear explanation.
 
-Unlike later retellings that connect the incident to underwater bases, [Dragon Snake]({{ 'dragon-snake/' | relative_url }}) traditions or extraterrestrial visitation, the official record remains narrow. Authorities responded as though an aircraft had crashed, deployed significant resources, checked aviation records and searched the area repeatedly. Their final conclusion was simply that no evidence supported the reported crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+Unlike later retellings that connect the incident to underwater bases, [Dragon Snake]({{ 'dragon-snake/' | relative_url }}) traditions or extraterrestrial visitation, the official record remains narrow. Authorities responded as though an aircraft had crashed, deployed significant resources, checked aviation records and searched the area repeatedly. Their final conclusion was simply that no evidence supported the reported crash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[National Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</span><span class="citation-popover-meta">Published: October 2010</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Solomon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
-Within the broader chronology of Solomon Islands UFO claims, that makes East Malaita one of the most useful evidence-based cases. The mystery does not come from recovered artefacts or extraordinary proof. It comes from the tension between numerous eyewitness reports and a search operation that found absolutely nothing. National Parliament <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalpasifik.org/items/548459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalpasifik.org">[2digitalpasifik.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalpasifik.org</span><span class="citation-popover-snippet">According to the Solomon...</span></span></span>
+Within the broader chronology of Solomon Islands UFO claims, that makes East Malaita one of the most useful evidence-based cases. The mystery does not come from recovered artefacts or extraordinary proof. It comes from the tension between numerous eyewitness reports and a search operation that found absolutely nothing. National Parliament<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalpasifik.org/items/548459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalpasifik.org">[2digitalpasifik.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalpasifik.org</span><span class="citation-popover-snippet">According to the Solomon...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a Plane Really Crash off East Malaita?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a Plane Really Crash off East Malaita?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes documented investigations and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documented investigations and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and unexplained aerial events using evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and unexplained aerial events using evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for how unexplained aerial incidents are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how unexplained aerial incidents are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Examines a case where official responses became part of the story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines a case where official responses became part of the story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-plane-really-crash-off-east-malaita-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-plane-really-crash-off-east-malaita-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ Within the broader chronology of Solomon Islands UFO claims, that makes East Mal
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ Within the broader chronology of Solomon Islands UFO claims, that makes East Mal
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ Within the broader chronology of Solomon Islands UFO claims, that makes East Mal
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ Within the broader chronology of Solomon Islands UFO claims, that makes East Mal
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ Within the broader chronology of Solomon Islands UFO claims, that makes East Mal
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,109 +784,108 @@ Within the broader chronology of Solomon Islands UFO claims, that makes East Mal
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: solomontimes.com  
    Title: ministry of aviation investigates mystery crash  
-   Link: <a href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</p></details>
+   Link:<a href="https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/ministry-of-aviation-investigates-mystery-crash/5531</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesMinistry of Aviation Investigates Mystery Crash9 Sept 2010 — Eyewitnesses reported late yesterday afternoon that a light pla...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: solomontimes.com  
    Title: no plane crash says police  
-   Link: <a href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/no-plane-crash-says-police/5532</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesNo Plane Crash, Says Police10 Sept 2010 — The mystery plane crash, reported by villagers in Ogou Village and people living o...</p></details>
+   Link:<a href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/no-plane-crash-says-police/5532</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesNo Plane Crash, Says Police10 Sept 2010 — The mystery plane crash, reported by villagers in Ogou Village and people living o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: solomongiants.wordpress.com  
-   Link: <a href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</p></details>
+   Link:<a href="https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/?ak_action=reject_mobile&amp;archives-list=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Giants UFO UpdateSomething is really going on there…4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a nu...</p></details>
    Published: September 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: parliament.gov.sb  
    Title: 4th October 2010  
-   Link: <a href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</p></details>
+   Link:<a href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ParliamentMystery plane crash: East Malaita4 Oct 2010 — There was no sighting of any plane debris, oil trails or bodies in the s...</p></details>
    Published: October 2010  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: solomontimes.com  
-   Link: <a href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3469</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesPlane Crash?? UFO CRASH!Since no debris have been recovered of the plane that crashed into the ocean off Malaita, and no ide...</p></details>
+   Link:<a href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3469</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon TimesPlane Crash?? UFO CRASH!Since no debris have been recovered of the plane that crashed into the ocean off Malaita, and no ide...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalpasifik.org  
-   Link: <a href="https://digitalpasifik.org/items/548459" target="_blank" rel="noopener noreferrer nofollow">https://digitalpasifik.org/items/548459</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the Solomon...</p></details>
+   Link:<a href="https://digitalpasifik.org/items/548459" target="_blank" rel="noopener noreferrer nofollow">https://digitalpasifik.org/items/548459</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to the Solomon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</p></details>
+   Link:<a href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact File #38: MYSTERIOUS PLANE CRASH...Fact File #38: MYSTERIOUS PLANE CRASH &quot;On Tuesday 7th September 2010 around 17.45 and 18.15 hour...</p></details>
    Published: September 2010  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: solomongiants.wordpress.com  
-   Link: <a href="https://solomongiants.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/tag/ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>with UFO - Solomon Giants UFO Update4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a number of persons from the...</p></details>
+   Link:<a href="https://solomongiants.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/tag/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with UFO - Solomon Giants UFO Update4 Dec 2010 — On Tuesday 7th September 2010 around 17.45 and 18.15 hours, a number of persons from the...</p></details>
    Published: September 2010  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: solomontimes.com  
-   Link: <a href="https://www.solomontimes.com/news/latest/2010/9" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/latest/2010/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News Archive September 2010No Plane Crash, Says Police. The mystery plane crash, reported by... airplane had crashed into the jungles of...</p></details>
+   Link:<a href="https://www.solomontimes.com/news/latest/2010/9" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/latest/2010/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Archive September 2010No Plane Crash, Says Police. The mystery plane crash, reported by... airplane had crashed into the jungles of...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-i-the-landing-in-the-solomons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-i-the-landing-in-the-solomons.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Islands Campaign: I The Landing in the SolomonsOn July 22d Admiral McCain reported to Admiral Ghormley that his planes would begin a sear...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-i-the-landing-in-the-solomons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-i-the-landing-in-the-solomons.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Islands Campaign: I The Landing in the SolomonsOn July 22d Admiral McCain reported to Admiral Ghormley that his planes would begin a sear...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Solomon Islands Explained in 10 Minutes (History, Geography, And Culture)  
-   Link: <a href="https://www.youtube.com/watch?v=AXLtvpsBg9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AXLtvpsBg9Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video Cosmic Giants Who Terrorized the Solomon Islands (S21) highlights local accounts and folkloric background regarding plane crash...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AXLtvpsBg9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AXLtvpsBg9Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video Cosmic Giants Who Terrorized the Solomon Islands (S21) highlights local accounts and folkloric background regarding plane crash...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Proof of Secret Underwater Alien Base | Ancient Aliens | The Un Xplained Zone  
-   Link: <a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROOF OF UNDERWATER ALIEN BASE REVEALED (Season 6) | Ancient Aliens | The UnXplained Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROOF OF UNDERWATER ALIEN BASE REVEALED (Season 6) | Ancient Aliens | The UnXplained Zone...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: m.facebook.com  
-   Link: <a href="https://m.facebook.com/Solfafile/photos/a.4574548112574521/1264007126961986/?type=3" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/Solfafile/photos/a.4574548112574521/1264007126961986/?type=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact File #38: MYSTERIOUS PLANE CRASH...A small aircraft emitting smoke from the rear and was travelling south. The plane was then seen...</p></details>
+   Link:<a href="https://m.facebook.com/Solfafile/photos/a.4574548112574521/1264007126961986/?type=3" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/Solfafile/photos/a.4574548112574521/1264007126961986/?type=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact File #38: MYSTERIOUS PLANE CRASH...A small aircraft emitting smoke from the rear and was travelling south. The plane was then seen...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=2gWJrH4YeP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2gWJrH4YeP4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Secret Underwater Alien Base | Ancient Aliens | The UnXplained Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2gWJrH4YeP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2gWJrH4YeP4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Secret Underwater Alien Base | Ancient Aliens | The UnXplained Zone...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: solomongiants.wordpress.com  
    Title: si government seriously considers ufos  
-   Link: <a href="https://solomongiants.wordpress.com/2011/02/05/si-government-seriously-considers-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/2011/02/05/si-government-seriously-considers-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The PPF Coordinator in Auki and SICAA investigation team left...Read more...</p></details>
+   Link:<a href="https://solomongiants.wordpress.com/2011/02/05/si-government-seriously-considers-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/2011/02/05/si-government-seriously-considers-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The PPF Coordinator in Auki and SICAA investigation team left...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IyXw-R6WZd4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IyXw-R6WZd4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Unsolved Mysteries in the Ocean...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IyXw-R6WZd4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IyXw-R6WZd4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Unsolved Mysteries in the Ocean...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: 15 Unsolved Mysteries in the Ocean  
-   Link: <a href="https://www.youtube.com/watch?v=1iWkAt1S6zo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1iWkAt1S6zo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Explained in 10 Minutes (History, Geography, And Culture)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1iWkAt1S6zo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1iWkAt1S6zo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands Explained in 10 Minutes (History, Geography, And Culture)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapedia.ai  
-   Link: <a href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands UAP Waters: [Dragon Snakes](&amp;#123;&amp;#123; &#x27;dragon-snake/&#x27; | relative_url &amp;#125;&amp;#125;), Iron Bottom...The 2010 Malaita incident remains a “missing crash” with no wreckage and no ide...</p></details>
+   Link:<a href="https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/solomon-islands-uap-waters-dragon-snakes-iron-bottom-sound-and-the-2010-malaita-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Islands UAP Waters: [Dragon Snakes](&amp;#123;&amp;#123; &#x27;dragon-snake/&#x27; | relative_url &amp;#125;&amp;#125;), Iron Bottom...The 2010 Malaita incident remains a “missing crash” with no wreckage and no ide...</p></details>

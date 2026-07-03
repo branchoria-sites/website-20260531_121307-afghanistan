@@ -1194,287 +1194,287 @@ image: /assets/images/China_d2eaf2-overview-social.jpg
 
 ## Introduction
 
-The most defensible reading is therefore cautious. China has had genuine unidentified-airspace incidents, including airport disruptions and military-interest cases, but public documentation is patchy, official explanations are often incomplete, and the strongest available analyses usually point towards aircraft, rockets, atmospheric effects, drones, misidentified astronomy, or unreliable witness narratives rather than extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+The most defensible reading is therefore cautious. China has had genuine unidentified-airspace incidents, including airport disruptions and military-interest cases, but public documentation is patchy, official explanations are often incomplete, and the strongest available analyses usually point towards aircraft, rockets, atmospheric effects, drones, misidentified astronomy, or unreliable witness narratives rather than extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
 <img src="{{ "/assets/images/China_d2eaf2-overview.webp" | relative_url }}" alt="Overview image for What China&#x27;s UFO Cases Really Show" loading="eager" decoding="sync" fetchpriority="high">
 ## China’s UFO wave began as a science-and-society story
 
-Modern Chinese UFO culture grew rapidly after a People’s Daily article in November 1978 helped ignite interest in extraterrestrial objects. In the following years, the China UFO Research Association emerged from student and enthusiast networks, and about 50 UFO organisations reportedly appeared nationwide. This timing matters: China was opening socially and intellectually, and UFOs became one way for the public to discuss science, modernity, secrecy, and the unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+Modern Chinese UFO culture grew rapidly after a People’s Daily article in November 1978 helped ignite interest in extraterrestrial objects. In the following years, the China UFO Research Association emerged from student and enthusiast networks, and about 50 UFO organisations reportedly appeared nationwide. This timing matters: China was opening socially and intellectually, and UFOs became one way for the public to discuss science, modernity, secrecy, and the unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
-The early wave was not simply fringe entertainment. Astronomers at the Purple Mountain Observatory, including Wang Sichao and Liu Yan, received letters from across the country and sometimes applied astronomical and physical analysis to large sightings. Wang argued that some events deserved quantitative treatment, especially when the same phenomenon was reported from different locations, because multiple angles could help estimate height, direction, and possible mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span>
+The early wave was not simply fringe entertainment. Astronomers at the Purple Mountain Observatory, including Wang Sichao and Liu Yan, received letters from across the country and sometimes applied astronomical and physical analysis to large sightings. Wang argued that some events deserved quantitative treatment, especially when the same phenomenon was reported from different locations, because multiple angles could help estimate height, direction, and possible mechanisms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span>
 
-That scientific thread sat beside a more credulous public current. By the late 1980s and 1990s, parts of Chinese UFO culture overlapped with paranormal claims and other movements that astronomers later regarded as damaging to serious inquiry. Liu Yan recalled that some meetings included claims about psychic powers and “cosmic” practices, and he argued that UFO analysis should start with ordinary natural or artificial explanations, while leaving poorly documented cases unresolved rather than forcing a dramatic answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+That scientific thread sat beside a more credulous public current. By the late 1980s and 1990s, parts of Chinese UFO culture overlapped with paranormal claims and other movements that astronomers later regarded as damaging to serious inquiry. Liu Yan recalled that some meetings included claims about psychic powers and “cosmic” practices, and he argued that UFO analysis should start with ordinary natural or artificial explanations, while leaving poorly documented cases unresolved rather than forcing a dramatic answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
 ## The national chronology is strongest where many people saw the same sky
 
-Several of China’s most important UFO reports involve large-area light displays, not close encounters. The July 24, 1981 incident is a good example: millions of people across western provinces including Gansu, Sichuan, and Yunnan reportedly saw a bright spiral moving across the night sky. Contemporary explanations varied, but later Chinese astronomical discussion treated such spiral, halo, arc, or spring-shaped displays as often consistent with high-altitude man-made spacecraft activity, including rocket-related fuel or exhaust phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+Several of China’s most important UFO reports involve large-area light displays, not close encounters. The July 24, 1981 incident is a good example: millions of people across western provinces including Gansu, Sichuan, and Yunnan reportedly saw a bright spiral moving across the night sky. Contemporary explanations varied, but later Chinese astronomical discussion treated such spiral, halo, arc, or spring-shaped displays as often consistent with high-altitude man-made spacecraft activity, including rocket-related fuel or exhaust phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
-That pattern recurs in later reports. Liu Yan’s work on the August 20, 2011 Shanghai-area sighting suggested that lights seen by flight crews and witnesses over several northern and eastern regions resembled earlier high-altitude events and could be classified with phenomena caused by man-made spacecraft. The key point is not that every spiral or cluster is automatically “solved”, but that China’s geography and launch activity make wide-area, high-altitude explanations especially important before treating a report as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+That pattern recurs in later reports. Liu Yan’s work on the August 20, 2011 Shanghai-area sighting suggested that lights seen by flight crews and witnesses over several northern and eastern regions resembled earlier high-altitude events and could be classified with phenomena caused by man-made spacecraft. The key point is not that every spiral or cluster is automatically “solved”, but that China’s geography and launch activity make wide-area, high-altitude explanations especially important before treating a report as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
-The same caution applies to local media “top sightings” lists. China Daily’s 2010 roundup included reports from Zhejiang, Sichuan, Chongqing, Hong Kong, Guangxi, Shanxi, Inner Mongolia, and Xinjiang, but several entries were immediately linked by astronomers or amateur observers to refraction, lightning, meteors, or missile/rocket activity. These reports are valuable as a cultural and chronological map, but not all are equal as evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+The same caution applies to local media “top sightings” lists. China Daily’s 2010 roundup included reports from Zhejiang, Sichuan, Chongqing, Hong Kong, Guangxi, Shanxi, Inner Mongolia, and Xinjiang, but several entries were immediately linked by astronomers or amateur observers to refraction, lightning, meteors, or missile/rocket activity. These reports are valuable as a cultural and chronological map, but not all are equal as evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
 <img src="{{ "/assets/images/China_d2eaf2-Illustration-1-dark.svg" | relative_url }}" alt="What China&#x27;s UFO Cases Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/China_d2eaf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Xiaoshan airport is China’s signature modern UFO case
 
-The July 7, 2010 Xiaoshan incident near Hangzhou remains China’s best-known modern UFO case because it affected civil aviation. China Daily reported that Xiaoshan Airport closed from 8:45 pm to 9:41 pm after a twinkling object was first noticed around 8:30 pm; a dozen inbound flights were diverted, six outbound flights were delayed for several hours, and more than 2,000 passengers were estimated to have been affected. The head of air traffic control for the Zhejiang branch of the Civil Aviation Administration of China was quoted at the time as saying no conclusion had yet been drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+The July 7, 2010 Xiaoshan incident near Hangzhou remains China’s best-known modern UFO case because it affected civil aviation. China Daily reported that Xiaoshan Airport closed from 8:45 pm to 9:41 pm after a twinkling object was first noticed around 8:30 pm; a dozen inbound flights were diverted, six outbound flights were delayed for several hours, and more than 2,000 passengers were estimated to have been affected. The head of air traffic control for the Zhejiang branch of the Civil Aviation Administration of China was quoted at the time as saying no conclusion had yet been drawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
-What makes Xiaoshan important is also what makes it frustrating. A real operational decision happened, but the public evidence trail was confused. China Daily reported that the object did not appear on airport radar, while one source told the paper it had a “military connection”; other commentators suggested a private aircraft, a high-flying aircraft reflecting light, or a military aircraft, but no fully public official dossier settled the matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+What makes Xiaoshan important is also what makes it frustrating. A real operational decision happened, but the public evidence trail was confused. China Daily reported that the object did not appear on airport radar, while one source told the paper it had a “military connection”; other commentators suggested a private aircraft, a high-flying aircraft reflecting light, or a military aircraft, but no fully public official dossier settled the matter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
-Sceptical analysis later found that much of the imagery circulated as “the Xiaoshan UFO” did not reliably depict the airport incident. Robert Sheaffer’s Skeptical Inquirer article argued that one widely reproduced dramatic image looked like a long-exposure helicopter photo and had been online before the event, while other images appeared to show a rocket launch or contrail rather than the reported airport object. This does not prove what air-traffic staff responded to, but it sharply weakens the case built from viral photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sceptical analysis later found that much of the imagery circulated as “the Xiaoshan UFO” did not reliably depict the airport incident. Robert Sheaffer’s Skeptical Inquirer article argued that one widely reproduced dramatic image looked like a long-exposure helicopter photo and had been online before the event, while other images appeared to show a rocket launch or contrail rather than the reported airport object. This does not prove what air-traffic staff responded to, but it sharply weakens the case built from viral photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The fairest classification is therefore “confirmed disruption, contested object”. The airport closure and flight delays are well reported; the identity of the object was not publicly resolved in a transparent way; and much of the famous visual evidence attached to the story is unreliable or unrelated. For readers comparing China with other country-level UFO branches, Xiaoshan is closer to an aviation-safety case than a clean evidential case for exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+The fairest classification is therefore “confirmed disruption, contested object”. The airport closure and flight delays are well reported; the identity of the object was not publicly resolved in a transparent way; and much of the famous visual evidence attached to the story is unreliable or unrelated. For readers comparing China with other country-level UFO branches, Xiaoshan is closer to an aviation-safety case than a clean evidential case for exotic technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w8Tc1nIxxFg" title="Ancient Aliens: Chinese Interest in Otherworldly Phenomenon (Season 11) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w8Tc1nIxxFg" target="_blank" rel="noopener noreferrer">Ancient Aliens: Chinese Interest in Otherworldly Phenomenon (Season 11) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 523.8K &middot; Uploaded: February 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w8Tc1nIxxFg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w8Tc1nIxxFg">Open on YouTube</a></p></div></div></div>
 
 ## The 2010 cluster shows why region-level variation matters
 
-The Xiaoshan case was not isolated in the 2010 media cycle. China Daily’s year-end list placed reports across coastal Zhejiang, inland Sichuan and Chongqing, Hong Kong, Guangxi, Shanxi, Inner Mongolia, and Xinjiang. That spread shows how quickly a national “UFO wave” can form when local sightings, online discussion boards, aviation disruption, amateur videos, and news aggregation reinforce one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+The Xiaoshan case was not isolated in the 2010 media cycle. China Daily’s year-end list placed reports across coastal Zhejiang, inland Sichuan and Chongqing, Hong Kong, Guangxi, Shanxi, Inner Mongolia, and Xinjiang. That spread shows how quickly a national “UFO wave” can form when local sightings, online discussion boards, aviation disruption, amateur videos, and news aggregation reinforce one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
-Region also shaped likely explanations. Coastal and airport cases raised aircraft, military, and air-traffic questions; western and northern sightings were more likely to invite rocket, missile, or high-altitude explanations; southern storm-related reports were linked by astronomers to lightning or refraction. The same label — UFO — covered very different observation conditions and evidence types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span>
+Region also shaped likely explanations. Coastal and airport cases raised aircraft, military, and air-traffic questions; western and northern sightings were more likely to invite rocket, missile, or high-altitude explanations; southern storm-related reports were linked by astronomers to lightning or refraction. The same label — UFO — covered very different observation conditions and evidence types.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span>
 
-Baotou in Inner Mongolia illustrates the mixed quality of the 2010 wave. China Daily reported that a local air traffic management bureau saw a UFO through monitoring equipment about 40 kilometres east of Baotou around 8 pm on September 11, told the airport to rearrange flights, and saw operations return to normal around 10 pm. ABC News, relying on reports from China, described the incident as another airport disruption and said it was the eighth Chinese UFO report since June. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+Baotou in Inner Mongolia illustrates the mixed quality of the 2010 wave. China Daily reported that a local air traffic management bureau saw a UFO through monitoring equipment about 40 kilometres east of Baotou around 8 pm on September 11, told the airport to rearrange flights, and saw operations return to normal around 10 pm. ABC News, relying on reports from China, described the incident as another airport disruption and said it was the eighth Chinese UFO report since June.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
 The regional lesson is simple: China’s UFO history cannot be read as a single national mystery. It is a collection of different local airspace problems, astronomical misreadings, rocket-related sky displays, drone events, rumours, and a smaller number of genuinely unclear incidents.
 
 <img src="{{ "/assets/images/China_d2eaf2-Illustration-2-dark.svg" | relative_url }}" alt="What China&#x27;s UFO Cases Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/China_d2eaf2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Phoenix Mountain shows the weakness of sensational close-encounter claims
 
-The 1994 Phoenix Mountain story in Heilongjiang is one of China’s most famous alleged close encounters. A forest worker, Meng Zhaoguo, claimed that a flying saucer landed and that he encountered aliens. The story became famous inside and outside China, and later retrospectives describe it as one of the country’s most discussed UFO narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+The 1994 Phoenix Mountain story in Heilongjiang is one of China’s most famous alleged close encounters. A forest worker, Meng Zhaoguo, claimed that a flying saucer landed and that he encountered aliens. The story became famous inside and outside China, and later retrospectives describe it as one of the country’s most discussed UFO narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
-Its evidential value is much weaker than its cultural value. Liu Yan, then associated with the Purple Mountain Observatory’s sceptical tradition, gathered reports for two months and published a critical analysis in Science and Technology Daily in January 1995. His conclusion was blunt: if the incident was not exaggerated or fabricated, it could only be a hallucination or delusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+Its evidential value is much weaker than its cultural value. Liu Yan, then associated with the Purple Mountain Observatory’s sceptical tradition, gathered reports for two months and published a critical analysis in Science and Technology Daily in January 1995. His conclusion was blunt: if the incident was not exaggerated or fabricated, it could only be a hallucination or delusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
-Phoenix Mountain matters because it shows a recurring split in Chinese UFO material. Cases with many distant witnesses, time-location constraints, and possible astronomical reconstruction can be meaningfully analysed. Highly detailed close-encounter stories, by contrast, often depend on a single narrator, sensational details, and weak corroboration. They may be important to folklore and media history, but they should not be placed in the same evidence category as aviation or multi-location sky events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+Phoenix Mountain matters because it shows a recurring split in Chinese UFO material. Cases with many distant witnesses, time-location constraints, and possible astronomical reconstruction can be meaningfully analysed. Highly detailed close-encounter stories, by contrast, often depend on a single narrator, sensational details, and weak corroboration. They may be important to folklore and media history, but they should not be placed in the same evidence category as aviation or multi-location sky events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
 ## Official records exist, but the public archive is thin
 
-China does not have a public UFO archive comparable to the most visible US or British declassified collections. Publicly accessible Chinese material is scattered across state media reports, local newspapers, science popularisation writing, interviews with astronomers, and occasional references to military or air-traffic handling. That makes the evidential landscape uneven: important incidents are often described through news articles rather than complete official files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+China does not have a public UFO archive comparable to the most visible US or British declassified collections. Publicly accessible Chinese material is scattered across state media reports, local newspapers, science popularisation writing, interviews with astronomers, and occasional references to military or air-traffic handling. That makes the evidential landscape uneven: important incidents are often described through news articles rather than complete official files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
-One reported military-linked case often cited in English-language discussions is the 1998 Cangzhou incident in Hebei province. South China Morning Post reported in 2021 that Chinese military researchers regarded the People’s Liberation Army’s term as “unidentified air conditions” and that a dedicated process used artificial intelligence to handle rising reports. The same report described the 1998 Cangzhou event as China’s only officially confirmed UFO sighting, involving military jets intercepting a low-flying object above an airbase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">South China Morning Post China military uses AI to track rapidly increasing UFOs</span><span class="citation-popover-snippet">South China Morning Post China military uses AI to track rapidly increasing UFOs</span></span></span>
+One reported military-linked case often cited in English-language discussions is the 1998 Cangzhou incident in Hebei province. South China Morning Post reported in 2021 that Chinese military researchers regarded the People’s Liberation Army’s term as “unidentified air conditions” and that a dedicated process used artificial intelligence to handle rising reports. The same report described the 1998 Cangzhou event as China’s only officially confirmed UFO sighting, involving military jets intercepting a low-flying object above an airbase.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">South China Morning Post China military uses AI to track rapidly increasing UFOs</span><span class="citation-popover-snippet">South China Morning Post China military uses AI to track rapidly increasing UFOs</span></span></span>
 
-That claim should be handled carefully. It is significant that a reputable regional newspaper reported military interest and AI-based tracking, but the underlying PLA or Hebei Daily documentation is not easily available to mainstream English readers in a complete archival form. For a country page on China, the right conclusion is not to dismiss the case, but to mark it as a potentially important official-airspace incident whose public evidential record remains limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">South China Morning Post China military uses AI to track rapidly increasing UFOs</span><span class="citation-popover-snippet">South China Morning Post China military uses AI to track rapidly increasing UFOs</span></span></span>
+That claim should be handled carefully. It is significant that a reputable regional newspaper reported military interest and AI-based tracking, but the underlying PLA or Hebei Daily documentation is not easily available to mainstream English readers in a complete archival form. For a country page on China, the right conclusion is not to dismiss the case, but to mark it as a potentially important official-airspace incident whose public evidential record remains limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">South China Morning Post China military uses AI to track rapidly increasing UFOs</span><span class="citation-popover-snippet">South China Morning Post China military uses AI to track rapidly increasing UFOs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EWHNS3mSIy8" title="Aliens Over Asia Insane Video Proof | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer">Aliens Over Asia Insane Video Proof | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 487.1K &middot; Uploaded: June 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EWHNS3mSIy8">Open on YouTube</a></p></div></div></div>
 
 ## Drones have changed what “UFO” means in Chinese airspace
 
-Recent Chinese airspace incidents increasingly point towards drones rather than classic flying-saucer narratives. In September 2024, Tianjin Binhai International Airport announced that flights were affected from 7:33 pm because of public-safety concerns caused by drone activity, and CCTV reported that the airport activated a yellow-level large-scale flight delay emergency response. Global Times reported that 29 flights were delayed, eight cancelled, and more than 3,000 passengers affected before normal operations resumed the next morning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cctv.com">[CCTV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cctv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent Chinese airspace incidents increasingly point towards drones rather than classic flying-saucer narratives. In September 2024, Tianjin Binhai International Airport announced that flights were affected from 7:33 pm because of public-safety concerns caused by drone activity, and CCTV reported that the airport activated a yellow-level large-scale flight delay emergency response. Global Times reported that 29 flights were delayed, eight cancelled, and more than 3,000 passengers affected before normal operations resumed the next morning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cctv.com">[CCTV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cctv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters for UFO analysis because drones can create exactly the kind of ambiguity that once fed classic sightings: small objects, lights, erratic movement, poor night visibility, uneven witness estimates, and operational secrecy during an investigation. In Tianjin, however, the official framing was not “unidentified craft” but drone-related public safety. That makes it a useful modern contrast with Xiaoshan: both involved aviation disruption, but the newer case sits inside a clearer low-altitude drone-security framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chinadailyhk.com/hk/article/592903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadailyhk.com">[chinadailyhk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadailyhk.com</span><span class="citation-popover-snippet">Open source on chinadailyhk.com.</span></span></span>
+This matters for UFO analysis because drones can create exactly the kind of ambiguity that once fed classic sightings: small objects, lights, erratic movement, poor night visibility, uneven witness estimates, and operational secrecy during an investigation. In Tianjin, however, the official framing was not “unidentified craft” but drone-related public safety. That makes it a useful modern contrast with Xiaoshan: both involved aviation disruption, but the newer case sits inside a clearer low-altitude drone-security framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chinadailyhk.com/hk/article/592903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadailyhk.com">[chinadailyhk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadailyhk.com</span><span class="citation-popover-snippet">Open source on chinadailyhk.com.</span></span></span>
 
-China’s regulatory response also shows that many future “UFO” reports will be treated as unmanned-aircraft management problems. The State Council announced provisional regulations for unmanned aerial vehicles in 2023, effective from January 1, 2024, including no-fly zones, open drone airspaces, application processes, and stronger emergency and supervision systems. CAAC later described these interim rules as part of the supporting framework for a more orderly civil UAV sector. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.www.gov.cn/policies/latestreleases/202306/28/content_WS649c3653c6d0868f4e8dd4f8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.gov.cn">[State Council of China]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.gov.cn</span><span class="citation-popover-title">content WS649c3653c6d0868f4e8dd4f8</span><span class="citation-popover-snippet">content WS649c3653c6d0868f4e8dd4f8</span></span></span>
+China’s regulatory response also shows that many future “UFO” reports will be treated as unmanned-aircraft management problems. The State Council announced provisional regulations for unmanned aerial vehicles in 2023, effective from January 1, 2024, including no-fly zones, open drone airspaces, application processes, and stronger emergency and supervision systems. CAAC later described these interim rules as part of the supporting framework for a more orderly civil UAV sector.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.www.gov.cn/policies/latestreleases/202306/28/content_WS649c3653c6d0868f4e8dd4f8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.gov.cn">[State Council of China]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.gov.cn</span><span class="citation-popover-title">content WS649c3653c6d0868f4e8dd4f8</span><span class="citation-popover-snippet">content WS649c3653c6d0868f4e8dd4f8</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__9s5chdV7c" title="UFO shuts down Hangzhou Xiaoshan airport, China, July 7, 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__9s5chdV7c" target="_blank" rel="noopener noreferrer">UFO shuts down Hangzhou Xiaoshan airport, China, July 7, 2010</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 97.2K &middot; Uploaded: April 2023 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__9s5chdV7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__9s5chdV7c">Open on YouTube</a></p></div></div></div>
 
 ## How to separate confirmed, contested, and debunked Chinese cases
 
-A useful China-specific evidence split begins with whether the event itself is confirmed. Xiaoshan and Tianjin are confirmed as aviation-disruption events; Baotou appears in state-media chronology as an air-traffic-management event; Phoenix Mountain is confirmed mainly as a reported claim and media phenomenon, not as a verified anomalous object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[3China Daily 3China]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
+A useful China-specific evidence split begins with whether the event itself is confirmed. Xiaoshan and Tianjin are confirmed as aviation-disruption events; Baotou appears in state-media chronology as an air-traffic-management event; Phoenix Mountain is confirmed mainly as a reported claim and media phenomenon, not as a verified anomalous object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[3China Daily 3China]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span>
 
-The second question is whether the evidence attached to the event is actually from the event. Xiaoshan is the warning case: the operational disruption was real, but key viral images were later argued to be older, unrelated, or consistent with ordinary objects. A photograph or video labelled as “China UFO” is weak unless its time, location, chain of publication, and relation to the reported sighting are clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The second question is whether the evidence attached to the event is actually from the event. Xiaoshan is the warning case: the operational disruption was real, but key viral images were later argued to be older, unrelated, or consistent with ordinary objects. A photograph or video labelled as “China UFO” is weak unless its time, location, chain of publication, and relation to the reported sighting are clear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The third question is whether Chinese astronomers or technical observers offered a plausible ordinary mechanism. Many China reports have been linked to rockets, satellites, meteors, refraction, lightning, balloons, kites, aircraft, or drones. Purple Mountain Observatory researchers repeatedly stressed that high-altitude spiral or arc-shaped events above 100 kilometres often fit man-made spacecraft explanations, while more ordinary lights may disappear as mysteries once better public data becomes available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+The third question is whether Chinese astronomers or technical observers offered a plausible ordinary mechanism. Many China reports have been linked to rockets, satellites, meteors, refraction, lightning, balloons, kites, aircraft, or drones. Purple Mountain Observatory researchers repeatedly stressed that high-altitude spiral or arc-shaped events above 100 kilometres often fit man-made spacecraft explanations, while more ordinary lights may disappear as mysteries once better public data becomes available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
 A practical classification for the main cases looks like this:
 
-CaseBest classificationWhy it fitsJuly 24, 1981 western China spiralPlausibly explained, historically importantLarge multi-province sighting later treated by astronomers as likely high-altitude man-made spacecraft activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span> 1994 Phoenix MountainCulturally famous, evidentially weakClose-encounter claim criticised by Liu Yan as likely exaggerated, fabricated, hallucinated, or delusional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span> 1998 Cangzhou airbasePotentially important, public archive limitedReported as an officially confirmed military-interest case, but full public primary documentation is hard to access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">South China Morning Post China military uses AI to track rapidly increasing UFOs</span><span class="citation-popover-snippet">South China Morning Post China military uses AI to track rapidly increasing UFOs</span></span></span> 2010 Xiaoshan airportConfirmed disruption, contested objectAirport closure and delays are documented; public imagery and explanations remain confused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span> 2010 BaotouConfirmed airspace disruption in media chronologyMonitoring equipment reportedly triggered flight rearrangements; public detail remains limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span> 2024 Tianjin airportOfficially drone-relatedAirport and state-media reports attributed disruption to drone-related public safety concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cctv.com">[CCTV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cctv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+CaseBest classificationWhy it fitsJuly 24, 1981 western China spiralPlausibly explained, historically importantLarge multi-province sighting later treated by astronomers as likely high-altitude man-made spacecraft activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span> 1994 Phoenix MountainCulturally famous, evidentially weakClose-encounter claim criticised by Liu Yan as likely exaggerated, fabricated, hallucinated, or delusional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span> 1998 Cangzhou airbasePotentially important, public archive limitedReported as an officially confirmed military-interest case, but full public primary documentation is hard to access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">South China Morning Post China military uses AI to track rapidly increasing UFOs</span><span class="citation-popover-snippet">South China Morning Post China military uses AI to track rapidly increasing UFOs</span></span></span> 2010 Xiaoshan airportConfirmed disruption, contested objectAirport closure and delays are documented; public imagery and explanations remain confused.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span> 2010 BaotouConfirmed airspace disruption in media chronologyMonitoring equipment reportedly triggered flight rearrangements; public detail remains limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">China Daily UFO remains a mystery</span><span class="citation-popover-snippet">China Daily UFO remains a mystery</span></span></span> 2024 Tianjin airportOfficially drone-relatedAirport and state-media reports attributed disruption to drone-related public safety concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cctv.com">[CCTV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cctv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/China_d2eaf2-Illustration-3-dark.svg" | relative_url }}" alt="What China&#x27;s UFO Cases Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/China_d2eaf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why China’s UFO record is valuable even without exotic conclusions
 
-China’s UFO history is valuable because it shows how national airspace mysteries are produced. A single label gathers together military secrecy, civil aviation caution, amateur astronomy, rocket launches, smartphone imagery, drone proliferation, local rumour, and media incentives. The result is not one mystery but a stack of different problems that only look similar after they are called UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span>
+China’s UFO history is valuable because it shows how national airspace mysteries are produced. A single label gathers together military secrecy, civil aviation caution, amateur astronomy, rocket launches, smartphone imagery, drone proliferation, local rumour, and media incentives. The result is not one mystery but a stack of different problems that only look similar after they are called UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjreview.com">[BJD Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjreview.com</span><span class="citation-popover-title">BJD Review Tracking UFOs -- Beijing Review</span><span class="citation-popover-snippet">BJD Review Tracking UFOs -- Beijing Review</span></span></span>
 
-It is also valuable because Chinese cases often expose the gap between “unidentified at the moment” and “extraordinary in nature”. Xiaoshan was unidentified enough to stop flights, but not well evidenced enough to support alien claims. Phoenix Mountain was famous enough to become folklore, but weak when tested against consistency and corroboration. Tianjin was dramatic enough to generate speculation, but official reporting placed it in the drone-safety category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[China Daily#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+It is also valuable because Chinese cases often expose the gap between “unidentified at the moment” and “extraordinary in nature”. Xiaoshan was unidentified enough to stop flights, but not well evidenced enough to support alien claims. Phoenix Mountain was famous enough to become folklore, but weak when tested against consistency and corroboration. Tianjin was dramatic enough to generate speculation, but official reporting placed it in the drone-safety category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[China Daily#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
-For the wider root-country project, China sits naturally beside pages on countries where official declassification dominates the story, countries where military pilot testimony is central, and countries where folklore or mass media drive the record. China’s distinctive contribution is the combination of state-controlled information, strong astronomical debunking traditions, rapid aviation and drone growth, and a public UFO culture that peaked in the 1980s and 1990s before becoming quieter in the smartphone era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
+For the wider root-country project, China sits naturally beside pages on countries where official declassification dominates the story, countries where military pilot testimony is central, and countries where folklore or mass media drive the record. China’s distinctive contribution is the combination of state-controlled information, strong astronomical debunking traditions, rapid aviation and drone growth, and a public UFO culture that peaked in the 1980s and 1990s before becoming quieter in the smartphone era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span><span class="citation-popover-snippet">#Sixth Tone The Astronomer Who Calmed China’s UFO Craze</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What China&#x27;s UFO Cases Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What China&#x27;s UFO Cases Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing Chinese cases with international reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing Chinese cases with international reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits China&#x27;s mix of sightings, explanations, and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits China&#x27;s mix of sightings, explanations, and unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances major UFO incidents with discussion of official investigations and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances major UFO incidents with discussion of official investigations and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Helps explain how UFO culture develops within changing societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how UFO culture develops within changing societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-china-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-china-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1490,7 +1490,7 @@ For the wider root-country project, China sits naturally beside pages on countri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1510,7 +1510,7 @@ For the wider root-country project, China sits naturally beside pages on countri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1542,7 +1542,7 @@ For the wider root-country project, China sits naturally beside pages on countri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1594,7 +1594,7 @@ For the wider root-country project, China sits naturally beside pages on countri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1639,7 +1639,7 @@ For the wider root-country project, China sits naturally beside pages on countri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1677,119 +1677,118 @@ For the wider root-country project, China sits naturally beside pages on countri
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2010/11/22164353/p27.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sixthtone.com  
    Title: #Sixth Tone The Astronomer Who Calmed China’s UFO Craze  
-   Link: <a href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow">https://www.sixthtone.com/news/1012934</a>  
+   Link:<a href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow">https://www.sixthtone.com/news/1012934</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.cctv.com  
-   Link: <a href="https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml" target="_blank" rel="noopener noreferrer nofollow">https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml</a>  
+   Link:<a href="https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml" target="_blank" rel="noopener noreferrer nofollow">https://news.cctv.com/2024/09/12/ARTIuf566famown5rIcmvsaP240912.shtml</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: chinadailyhk.com  
-   Link: <a href="https://www.chinadailyhk.com/hk/article/592903" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadailyhk.com/hk/article/592903</a>  
+   Link:<a href="https://www.chinadailyhk.com/hk/article/592903" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadailyhk.com/hk/article/592903</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: chinadailyhk.com  
-   Link: <a href="https://www.chinadailyhk.com/hk/article/625213" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadailyhk.com/hk/article/625213</a>  
+   Link:<a href="https://www.chinadailyhk.com/hk/article/625213" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadailyhk.com/hk/article/625213</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: chinadaily.com.cn  
    Title: China Daily UFO remains a mystery  
-   Link: <a href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm</a>  
+   Link:<a href="https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010-07/10/content_10089831.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bjreview.com  
    Title: BJD Review Tracking UFOs -- Beijing Review  
-   Link: <a href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm</a>  
+   Link:<a href="https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bjreview.com/Cover_Story_Series/2010-09/28/content_307574.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: chinadaily.com.cn  
    Title: China Daily Top 10 UFO sightings  
-   Link: <a href="https://www.chinadaily.com.cn/china/2010topten/2010-12/10/content_11685401.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010topten/2010-12/10/content_11685401.htm</a>  
+   Link:<a href="https://www.chinadaily.com.cn/china/2010topten/2010-12/10/content_11685401.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2010topten/2010-12/10/content_11685401.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scmp.com  
    Title: South China Morning Post China military uses AI to track rapidly increasing UFOs  
-   Link: <a href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos</a>  
+   Link:<a href="https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: english.gov.cn  
    Title: content WS649c3653c6d0868f4e8dd4f8  
-   Link: <a href="https://english.www.gov.cn/policies/latestreleases/202306/28/content_WS649c3653c6d0868f4e8dd4f8.html" target="_blank" rel="noopener noreferrer nofollow">https://english.www.gov.cn/policies/latestreleases/202306/28/content_WS649c3653c6d0868f4e8dd4f8.html</a>  
+   Link:<a href="https://english.www.gov.cn/policies/latestreleases/202306/28/content_WS649c3653c6d0868f4e8dd4f8.html" target="_blank" rel="noopener noreferrer nofollow">https://english.www.gov.cn/policies/latestreleases/202306/28/content_WS649c3653c6d0868f4e8dd4f8.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/ufo-china-closes-airport-prompts-investigation/story?id=11159531" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/ufo-china-closes-airport-prompts-investigation/story?id=11159531</a>  
+   Link:<a href="https://abcnews.com/International/ufo-china-closes-airport-prompts-investigation/story?id=11159531" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/ufo-china-closes-airport-prompts-investigation/story?id=11159531</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: zhihu.com  
-   Link: <a href="https://www.zhihu.com/question/666891549/answer/3623878574" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/question/666891549/answer/3623878574</a>  
+   Link:<a href="https://www.zhihu.com/question/666891549/answer/3623878574" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/question/666891549/answer/3623878574</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: chinadaily.com.cn  
    Title: content 15699713  
-   Link: <a href="https://www.chinadaily.com.cn/kindle/2012-08/23/content_15699713.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/kindle/2012-08/23/content_15699713.htm</a>  
+   Link:<a href="https://www.chinadaily.com.cn/kindle/2012-08/23/content_15699713.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/kindle/2012-08/23/content_15699713.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: chinadaily.com.cn  
-   Link: <a href="https://www.chinadaily.com.cn/a/202512/11/WS693a1a32a310d6866eb2e045.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/a/202512/11/WS693a1a32a310d6866eb2e045.html</a>  
+   Link:<a href="https://www.chinadaily.com.cn/a/202512/11/WS693a1a32a310d6866eb2e045.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/a/202512/11/WS693a1a32a310d6866eb2e045.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: i.carnoc.com  
-   Link: <a href="https://i.carnoc.com/detail/626734" target="_blank" rel="noopener noreferrer nofollow">https://i.carnoc.com/detail/626734</a>  
+   Link:<a href="https://i.carnoc.com/detail/626734" target="_blank" rel="noopener noreferrer nofollow">https://i.carnoc.com/detail/626734</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w8Tc1nIxxFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8Tc1nIxxFg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Over Asia Insane Video Proof | Ancient Aliens | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w8Tc1nIxxFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8Tc1nIxxFg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Over Asia Insane Video Proof | Ancient Aliens | History...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Aliens Over Asia Insane Video Proof | Ancient Aliens | History  
-   Link: <a href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EWHNS3mSIy8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China unveils UFO-shaped eVTOL vehicle capable of urban takeoffs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EWHNS3mSIy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EWHNS3mSIy8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China unveils UFO-shaped eVTOL vehicle capable of urban takeoffs...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Unexplained Encounters: UFO Sightings in China  
-   Link: <a href="https://www.youtube.com/watch?v=uAqQjm0B5qs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uAqQjm0B5qs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Chinese Interest in Otherworldly Phenomenon (Season 11) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uAqQjm0B5qs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uAqQjm0B5qs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Chinese Interest in Otherworldly Phenomenon (Season 11) | History...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/140-witnesses-a-fighter-jet-and-a-ufo-that-disappeared-without-a-trace-the-1998-/481919661308366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/140-witnesses-a-fighter-jet-and-a-ufo-that-disappeared-without-a-trace-the-1998-/481919661308366/</a>  
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/140-witnesses-a-fighter-jet-and-a-ufo-that-disappeared-without-a-trace-the-1998-/481919661308366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/140-witnesses-a-fighter-jet-and-a-ufo-that-disappeared-without-a-trace-the-1998-/481919661308366/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cybernewscom/posts/a-giant-airship-launched-in-the-sichuan-province-of-china-has-started-trending-h/1476388724496814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cybernewscom/posts/a-giant-airship-launched-in-the-sichuan-province-of-china-has-started-trending-h/1476388724496814/</a>  
+   Link:<a href="https://www.facebook.com/cybernewscom/posts/a-giant-airship-launched-in-the-sichuan-province-of-china-has-started-trending-h/1476388724496814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cybernewscom/posts/a-giant-airship-launched-in-the-sichuan-province-of-china-has-started-trending-h/1476388724496814/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100</a>  
+   Link:<a href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/world-news/airport-shuts-down-after-ufo-sparks-emergency/a/119253582.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/world-news/airport-shuts-down-after-ufo-sparks-emergency/a/119253582.html</a>  
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/world-news/airport-shuts-down-after-ufo-sparks-emergency/a/119253582.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/world-news/airport-shuts-down-after-ufo-sparks-emergency/a/119253582.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Extra.ie/posts/apparent-ufo-shot-down-in-china/1371093755025449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Extra.ie/posts/apparent-ufo-shot-down-in-china/1371093755025449/</a>  
+   Link:<a href="https://www.facebook.com/Extra.ie/posts/apparent-ufo-shot-down-in-china/1371093755025449/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Extra.ie/posts/apparent-ufo-shot-down-in-china/1371093755025449/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/China/comments/19c04ph/are_foreigners_allowed_to_fly_drone_in_china/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/China/comments/19c04ph/are_foreigners_allowed_to_fly_drone_in_china/</a>
+   Link:<a href="https://www.reddit.com/r/China/comments/19c04ph/are_foreigners_allowed_to_fly_drone_in_china/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/China/comments/19c04ph/are_foreigners_allowed_to_fly_drone_in_china/</a>

@@ -248,33 +248,33 @@ image: /assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-1-socia
 
 ## Introduction
 
-In early 1989 Guatemala experienced an extraordinary **nationwide surge in reported UFO sightings** that briefly captured public attention and local media coverage. During February and March of that year, hundreds of sightings of unexplained lights in the night sky were reported across large parts of the country, especially near Guatemala City and El Progreso, stimulating debates, public excitement and a mix of imaginative and sceptical interpretations from residents, officials and journalists alike. This episode is significant in Guatemala’s UFO record because of its scale — involving everyday citizens, professionals and local press — and because the intense public engagement highlights how cultural narratives and media can shape national waves of aerial anomaly reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+In early 1989 Guatemala experienced an extraordinary **nationwide surge in reported UFO sightings** that briefly captured public attention and local media coverage. During February and March of that year, hundreds of sightings of unexplained lights in the night sky were reported across large parts of the country, especially near Guatemala City and El Progreso, stimulating debates, public excitement and a mix of imaginative and sceptical interpretations from residents, officials and journalists alike. This episode is significant in Guatemala’s UFO record because of its scale — involving everyday citizens, professionals and local press — and because the intense public engagement highlights how cultural narratives and media can shape national waves of aerial anomaly reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
 <img src="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-1-dark.svg" | relative_url }}" alt="1989 UFO Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Media Reported: UPI and International Coverage
 
-International wire services such as **United Press International (UPI)** reported on the wave in early March 1989, portraying it as a phenomenon sweeping the Central American nation. UPI described “UFO mania” spreading among thousands of Guatemalans who gathered nightly in dark hills and highways, setting up telescopes, binoculars and even festive activities to observe mysterious flying objects. Reports emphasised that sightings were coming from professionals such as doctors, lawyers, students and even government officials, suggesting that the phenomenon cut across social strata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+International wire services such as **United Press International (UPI)** reported on the wave in early March 1989, portraying it as a phenomenon sweeping the Central American nation. UPI described “UFO mania” spreading among thousands of Guatemalans who gathered nightly in dark hills and highways, setting up telescopes, binoculars and even festive activities to observe mysterious flying objects. Reports emphasised that sightings were coming from professionals such as doctors, lawyers, students and even government officials, suggesting that the phenomenon cut across social strata.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
-The coverage quoted locals claiming objects with **red and amber lights** moving silently in the sky, sometimes appearing large, circular and moving unpredictably. One witness in a UPI article described how two red lights in the night sky remained in view before one moved rapidly overhead without sound, likening its size to a “jumbo jet.” This narrative helped shape an image of a widespread and unusual event, regardless of the underlying cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+The coverage quoted locals claiming objects with **red and amber lights** moving silently in the sky, sometimes appearing large, circular and moving unpredictably. One witness in a UPI article described how two red lights in the night sky remained in view before one moved rapidly overhead without sound, likening its size to a “jumbo jet.” This narrative helped shape an image of a widespread and unusual event, regardless of the underlying cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.5K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
 
 ## Public Reactions and Local Myths
 
-Guatemalan citizens adopted a range of interpretations during the wave. Some saw the aerial lights as **extraterrestrial visitors** — speculating wildly that they were returning to contact ancient Mayan civilizations — a theme that resonated with national cultural touchpoints like the archaeological site of Tikal. Others attributed sightings to mundane explanations such as drug traffickers and clandestine aircraft operating at night to evade law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+Guatemalan citizens adopted a range of interpretations during the wave. Some saw the aerial lights as **extraterrestrial visitors** — speculating wildly that they were returning to contact ancient Mayan civilizations — a theme that resonated with national cultural touchpoints like the archaeological site of Tikal. Others attributed sightings to mundane explanations such as drug traffickers and clandestine aircraft operating at night to evade law enforcement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
-Media stories from the period depict **crowded highways, parked cars, families and enthusiasts** with viewing equipment hoping for repeated sightings, turning the phenomenon into a kind of social event. Street conversations, radio adverts, T-shirts and banners reflected a lively public engagement that at times blurred the line between serious observation and social spectacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+Media stories from the period depict **crowded highways, parked cars, families and enthusiasts** with viewing equipment hoping for repeated sightings, turning the phenomenon into a kind of social event. Street conversations, radio adverts, T-shirts and banners reflected a lively public engagement that at times blurred the line between serious observation and social spectacle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
 <img src="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-2-dark.svg" | relative_url }}" alt="1989 UFO Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reported Sightings: Patterns and Descriptions
 
 According to historical UFO archives and secondary sources, **multiple sightings** were reported throughout February and early March 1989, featuring objects described with coloured lights and unusual movements:
 
-* A **police commissioner in El Progreso** reportedly confirmed red and white lights observed over the Sierra de las Minas mountains, moving toward Guatemala City, with claimed electrical effects like disturbances in power systems. These sightings allegedly occurred against a backdrop of local radar systems registering nothing unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-title">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span><span class="citation-popover-snippet">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span></span></span>
-* On **4 February 1989**, reports described two mysterious objects over the Sierra de las Minas with red and white lights that allegedly coincided with electrical disturbances — a pattern that echoes classic UFO narrative elements involving lighted craft and unexplained power anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-title">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span><span class="citation-popover-snippet">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span></span></span>
-* A **17 February report** from the same region told of a glowing orange‑red light that was interpreted by some as a craft landing and emitting a strong glow, though these accounts lack firm official corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-title">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span><span class="citation-popover-snippet">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span></span></span>
+* A **police commissioner in El Progreso** reportedly confirmed red and white lights observed over the Sierra de las Minas mountains, moving toward Guatemala City, with claimed electrical effects like disturbances in power systems. These sightings allegedly occurred against a backdrop of local radar systems registering nothing unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-title">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span><span class="citation-popover-snippet">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span></span></span>
+* On **4 February 1989**, reports described two mysterious objects over the Sierra de las Minas with red and white lights that allegedly coincided with electrical disturbances — a pattern that echoes classic UFO narrative elements involving lighted craft and unexplained power anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-title">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span><span class="citation-popover-snippet">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span></span></span>
+* A **17 February report** from the same region told of a glowing orange‑red light that was interpreted by some as a craft landing and emitting a strong glow, though these accounts lack firm official corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-title">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span><span class="citation-popover-snippet">UFO Magazine Archive BÚSQUEDA — Busqueda Boletin &#124; UFO Magazine Archive</span></span></span>
 
-Other archive entries note **photographs and visual accounts** from El Progreso in March 1989 showing multiple witnesses observing unidentified aerial forms, though details about those photos and their source quality are disputed and hard to verify within public records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/elprogresso89.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: El Progresso, Guatemala, 1989...</span></span></span>
+Other archive entries note **photographs and visual accounts** from El Progreso in March 1989 showing multiple witnesses observing unidentified aerial forms, though details about those photos and their source quality are disputed and hard to verify within public records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/elprogresso89.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: El Progresso, Guatemala, 1989...</span></span></span>
 
 Collectively, the patterns described during this period — repeated sightings clustered across nights, multiple witnesses, lighted objects performing ambiguous behaviours — fit the broader UFO “wave” phenomena seen in other countries at various times, though the **evidence in Guatemala remains primarily testimonial and journalistic rather than scientifically documented**.
 
@@ -282,210 +282,210 @@ Collectively, the patterns described during this period — repeated sightings c
 
 ## Scepticism and Official Interpretations
 
-Even amid widespread reports, sceptical voices emerged. Some individuals downplayed sightings as misidentified aircraft, atmospheric effects, or other conventional explanations such as private or illicit flights. A businessman quoted in contemporary press dismissed the phenomena as small craft operated by drug traffickers trying to avoid detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+Even amid widespread reports, sceptical voices emerged. Some individuals downplayed sightings as misidentified aircraft, atmospheric effects, or other conventional explanations such as private or illicit flights. A businessman quoted in contemporary press dismissed the phenomena as small craft operated by drug traffickers trying to avoid detection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
-Official responses at the time seemed cautious rather than confirmatory. Reports indicated that **government and defence officials noted concern** about the public response, but asserted there was “no proof of anything” related to extraterrestrial craft, and some agencies reportedly monitored skies without detecting extraordinary radar data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+Official responses at the time seemed cautious rather than confirmatory. Reports indicated that **government and defence officials noted concern** about the public response, but asserted there was “no proof of anything” related to extraterrestrial craft, and some agencies reportedly monitored skies without detecting extraordinary radar data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
-Unlike some internationally noted UFO waves — such as the better‑documented 1989–1990 Belgian UFO wave, where military radar and intercepts became part of the record — Guatemala’s experience lacks publicly available official logs or declassified investigations. As a result, its historical footprint rests largely on journalistic accounts, civilian reports, and post‑hoc archival mentionings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Unlike some internationally noted UFO waves — such as the better‑documented 1989–1990 Belgian UFO wave, where military radar and intercepts became part of the record — Guatemala’s experience lacks publicly available official logs or declassified investigations. As a result, its historical footprint rests largely on journalistic accounts, civilian reports, and post‑hoc archival mentionings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 <img src="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-3-dark.svg" | relative_url }}" alt="1989 UFO Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_ufo_wave_1989_968862-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 1989 Wave Matters in Guatemala’s UFO Record
 
 The 1989 nationwide UFO observation wave remains a notable episode in Guatemala’s aerial phenomena chronology because it illustrates **how collective attention and local media narratives can amplify widespread reports of unexplained sky events**. It is not considered a scientifically validated encounter with non‑terrestrial craft, but rather a significant sociocultural moment when UFO reporting captured national imagination and triggered intense public discussion. The wave also serves as a useful comparison point for later sighting clusters in Guatemala’s UFO reporting history, including more recent sightings in the age of smartphones and social media.
 
-In the broader context of Guatemala’s UFO documentation, the 1989 wave highlights the **interplay of witness testimony, media influence, local myth‑making and sceptical interpretation**, a dynamic that continues to shape how aerial anomalies are reported and understood in the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
+In the broader context of Guatemala’s UFO documentation, the 1989 wave highlights the **interplay of witness testimony, media influence, local myth‑making and sceptical interpretation**, a dynamic that continues to shape how aerial anomalies are reported and understood in the country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Inside Guatemala’s 1989 UFO Fever Wave. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Inside Guatemala’s 1989 UFO Fever Wave. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing large waves of public sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing large waves of public sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast with better-documented modern cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast with better-documented modern cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Especially relevant to national UFO waves and mass-reporting episodes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially relevant to national UFO waves and mass-reporting episodes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Examines social and recurring dimensions of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines social and recurring dimensions of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-guatemala-s-1989-ufo-fever-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-guatemala-s-1989-ufo-fever-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -501,7 +501,7 @@ In the broader context of Guatemala’s UFO documentation, the 1989 wave highlig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -521,7 +521,7 @@ In the broader context of Guatemala’s UFO documentation, the 1989 wave highlig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -553,7 +553,7 @@ In the broader context of Guatemala’s UFO documentation, the 1989 wave highlig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -605,7 +605,7 @@ In the broader context of Guatemala’s UFO documentation, the 1989 wave highlig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -650,7 +650,7 @@ In the broader context of Guatemala’s UFO documentation, the 1989 wave highlig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -688,108 +688,107 @@ In the broader context of Guatemala’s UFO documentation, the 1989 wave highlig
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
    Title: The White Hand terror group resurfaces in Guatemala  
-   Link: <a href="https://www.upi.com/Archives/1989/09/28/The-White-Hand-terror-group-resurfaces-in-Guatemala/3538622958400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/09/28/The-White-Hand-terror-group-resurfaces-in-Guatemala/3538622958400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 1989 THE WHITE HAND TERROR GROUP RESURFACES IN GUATEMALA GUATEMALA CITY -- The underground terrorist organization The White Hand has...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1989/09/28/The-White-Hand-terror-group-resurfaces-in-Guatemala/3538622958400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/09/28/The-White-Hand-terror-group-resurfaces-in-Guatemala/3538622958400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28, 1989 THE WHITE HAND TERROR GROUP RESURFACES IN GUATEMALA GUATEMALA CITY -- The underground terrorist organization The White Hand has...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: upi.com  
    Title: Bomb kills one, causes severe material damages  
-   Link: <a href="https://www.upi.com/Archives/1989/07/20/Bomb-kills-one-causes-severe-material-damages/3232616910400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/07/20/Bomb-kills-one-causes-severe-material-damages/3232616910400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI ArchivesJuly 20, 1989 — July 20, 1989 BOMB KILLS ONE, CAUSES SEVERE MATERIAL DAMAGES GUATEMALA CITY -- Unidentified gunmen stormed a...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1989/07/20/Bomb-kills-one-causes-severe-material-damages/3232616910400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/07/20/Bomb-kills-one-causes-severe-material-damages/3232616910400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPI ArchivesJuly 20, 1989 — July 20, 1989 BOMB KILLS ONE, CAUSES SEVERE MATERIAL DAMAGES GUATEMALA CITY -- Unidentified gunmen stormed a...</p></details>
    Published: July 20, 1989  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upi.com  
    Title: Gulf Breeze sightings divide UFO experts  
-   Link: <a href="https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29, 1989 GULF BREEZE SIGHTINGS DIVIDE UFO EXPERTS GULF BREEZE, Fla. -- Photographs of an eerily lit cylindrical object drifting through t...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29, 1989 GULF BREEZE SIGHTINGS DIVIDE UFO EXPERTS GULF BREEZE, Fla. -- Photographs of an eerily lit cylindrical object drifting through t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesExtraterrestrials &#x27;Coming Back to Look for Ancient Mayans&#x27;: UFO Mania Sweeps Guatemala, Keeping Eyes Fixed on the Night...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufomagazines.com  
    Title: UFO Magazine Archive BÚSQUEDA — Busqueda Boletin | UFO Magazine Archive  
-   Link: <a href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/</a>  
+   Link:<a href="https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/busqueda-boletin-busqueda-boletin-no-12/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/elprogresso89.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/elprogresso89.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: El Progresso, Guatemala, 1989...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/elprogresso89.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/elprogresso89.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: El Progresso, Guatemala, 1989...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Secret records show there were almost 1,200 mysterious sightings between 1987 and 1993 | The Independent | The IndependentMarch 22...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Secret records show there were almost 1,200 mysterious sightings between 1987 and 1993 | The Independent | The IndependentMarch 22...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoac.com  
-   Link: <a href="https://ufoac.com/the-ability-of-ufos-to-become-invisible.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/the-ability-of-ufos-to-become-invisible.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Chita UFO 1976 In 1979, the crew members of two planes flying in the Barnaul area observed a glowing object for 6...</p></details>
+   Link:<a href="https://ufoac.com/the-ability-of-ufos-to-become-invisible.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/the-ability-of-ufos-to-become-invisible.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Chita UFO 1976 In 1979, the crew members of two planes flying in the Barnaul area observed a glowing object for 6...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufoinsight.com  
    Title: The Belgian UFO Wave – A Truly Unique Display Of The Unknown  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 12, 2018 — THE BELGIAN UFO WAVE – A TRULY UNIQUE DISPLAY OF THE UNKNOWN By Marcus Lowth Image: Published Date March 12...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 12, 2018 — THE BELGIAN UFO WAVE – A TRULY UNIQUE DISPLAY OF THE UNKNOWN By Marcus Lowth Image: Published Date March 12...</p></details>
    Published: March 12, 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufouap.com  
    Title: Belgium Scrambled F-16s to Chase a UFO  
-   Link: <a href="https://www.ufouap.com/articles/belgian-ufo-wave-1989-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/belgian-ufo-wave-1989-1990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Held a Press Conference About It. — UFOUAPMarch 31, 1990 — March 31, 1990 · UFOUAP BELGIUM SCRAMBLED F-16S TO CHASE A UFO...</p></details>
+   Link:<a href="https://www.ufouap.com/articles/belgian-ufo-wave-1989-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/belgian-ufo-wave-1989-1990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Held a Press Conference About It. — UFOUAPMarch 31, 1990 — March 31, 1990 · UFOUAP BELGIUM SCRAMBLED F-16S TO CHASE A UFO...</p></details>
    Published: March 31, 1990  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: latimes.com  
    Title: Rightists Blamed for Wave of Violence in Guatemala  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1989-09-26-mn-219-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-09-26-mn-219-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26, 1989 12 AM PT * Share via Close extra sharing options * Email * Facebook * X * LinkedIn * Threads * Reddit * WhatsA...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1989-09-26-mn-219-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-09-26-mn-219-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26, 1989 12 AM PT * Share via Close extra sharing options * Email * Facebook * X * LinkedIn * Threads * Reddit * WhatsA...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ikapiarevista.com  
    Title: ucanca 1989 el anio del contacto  
-   Link: <a href="https://www.ikapiarevista.com/en/ucanca-1989-el-anio-del-contacto/" target="_blank" rel="noopener noreferrer nofollow">https://www.ikapiarevista.com/en/ucanca-1989-el-anio-del-contacto/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ucanca 1989, the year of contact • By Iván López • IKAPIA revista • Cultura, Arte y CienciaJune 24, 2024 — Image: TEIDE VEINTE AÑOS ATRAS...</p></details>
+   Link:<a href="https://www.ikapiarevista.com/en/ucanca-1989-el-anio-del-contacto/" target="_blank" rel="noopener noreferrer nofollow">https://www.ikapiarevista.com/en/ucanca-1989-el-anio-del-contacto/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ucanca 1989, the year of contact • By Iván López • IKAPIA revista • Cultura, Arte y CienciaJune 24, 2024 — Image: TEIDE VEINTE AÑOS ATRAS...</p></details>
    Published: June 24, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
    Title: Over 140 sightings of a large  
-   Link: <a href="https://www.scribd.com/doc/50119301/general-de-brouwer-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/50119301/general-de-brouwer-statement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave: 1989-1990 Report | PDFBelgian UFO Wave: 1989-1990 Report Wilfried De Brouwer was the Chief Operations of the Belgian Ai...</p></details>
+   Link:<a href="https://www.scribd.com/doc/50119301/general-de-brouwer-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/50119301/general-de-brouwer-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave: 1989-1990 Report | PDFBelgian UFO Wave: 1989-1990 Report Wilfried De Brouwer was the Chief Operations of the Belgian Ai...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: * Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Guatemala" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Guatemala</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Guatemala - Wikimedia CommonsApril 5, 2026 — CATEGORY:UFO SIGHTINGS IN GUATEMALA MEDIA IN CATEGORY...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Guatemala" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Guatemala</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Guatemala - Wikimedia CommonsApril 5, 2026 — CATEGORY:UFO SIGHTINGS IN GUATEMALA MEDIA IN CATEGORY...</p></details>
    Published: April 5, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aWbo0x1lJAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police officers confront the unexplained - UFOs, the fascinating story (8/9)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aWbo0x1lJAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police officers confront the unexplained - UFOs, the fascinating story (8/9)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kbmorgan.com  
    Title: KB Morgan PAST HISTORIES #13  
-   Link: <a href="https://kbmorgan.com/ufos/ufofiles/db713.htm" target="_blank" rel="noopener noreferrer nofollow">https://kbmorgan.com/ufos/ufofiles/db713.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a retired air force man, awakened by his barking dog, observed three oval-shaped objects fifty yards away. He woke his...</p></details>
+   Link:<a href="https://kbmorgan.com/ufos/ufofiles/db713.htm" target="_blank" rel="noopener noreferrer nofollow">https://kbmorgan.com/ufos/ufofiles/db713.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a retired air force man, awakened by his barking dog, observed three oval-shaped objects fifty yards away. He woke his...</p></details>

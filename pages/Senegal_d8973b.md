@@ -1197,26 +1197,26 @@ image: /assets/images/Senegal_d8973b-overview-social.jpg
 For this page, “UFO” means an unidentified aerial or near-ground phenomenon reported in Senegal, not proof of extraterrestrial technology. That distinction matters because the Senegal record mixes three very different kinds of material: newspaper-era “flying saucer” stories, village-level damage reports, and internet-age witness forms. Each has a different reliability profile.
 
 <img src="{{ "/assets/images/Senegal_d8973b-overview.webp" | relative_url }}" alt="Overview image for What Survives in Senegal&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
-The country does not appear, from publicly accessible material, to have a dedicated national UFO office comparable to France’s GEIPAN. Relevant institutional records would more likely sit indirectly in aviation, meteorology, police, gendarmerie, local administration, or press archives. Senegal’s civil aviation and meteorology functions are handled by ANACIM, while ASECNA provides air traffic services for Senegal and wider regional flight information regions, including Dakar terrestrial and oceanic airspace. Those bodies are relevant for checking aircraft, weather, airspace, and flight-safety context, but they are not public UFO catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The country does not appear, from publicly accessible material, to have a dedicated national UFO office comparable to France’s GEIPAN. Relevant institutional records would more likely sit indirectly in aviation, meteorology, police, gendarmerie, local administration, or press archives. Senegal’s civil aviation and meteorology functions are handled by ANACIM, while ASECNA provides air traffic services for Senegal and wider regional flight information regions, including Dakar terrestrial and oceanic airspace. Those bodies are relevant for checking aircraft, weather, airspace, and flight-safety context, but they are not public UFO catalogues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senegel.org">[Senegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senegel.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The 1952 Dakar saucer report: a single-witness Cold War archive
 
-The earliest clearly traceable Senegal case is the Dakar sighting of 3 July 1952. A CIA foreign-document translation, preserved in UFO archive reproductions, cites a 12 July 1952 report from the weekly France-Afrique Dakar. It says an eyewitness claimed to see a “flying saucer” over Dakar at 06:08. The object was described as flat and tapered, with long bluish and reddish flames, moving south at high speed at an estimated altitude of about 1,500 metres. The same notice says stars were no longer visible and that no aircraft were in flight over Dakar at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span>
+The earliest clearly traceable Senegal case is the Dakar sighting of 3 July 1952. A CIA foreign-document translation, preserved in UFO archive reproductions, cites a 12 July 1952 report from the weekly France-Afrique Dakar. It says an eyewitness claimed to see a “flying saucer” over Dakar at 06:08. The object was described as flat and tapered, with long bluish and reddish flames, moving south at high speed at an estimated altitude of about 1,500 metres. The same notice says stars were no longer visible and that no aircraft were in flight over Dakar at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
-This is a useful archival lead, but not a solved case. Its strengths are that it has a specific date, time, place, direction of travel and original press provenance. Its weaknesses are just as important: it is a single-witness newspaper claim relayed through foreign press monitoring, marked as “unevaluated information”, with no available radar data, photographs, meteorological reconstruction, or follow-up witness file in the public record. The language of flames and high speed could fit a spectacular misperception, a meteor-like event, an aircraft or rocket-associated phenomenon, or something else, but the surviving record is too short to discriminate confidently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-title">Project Blue Book Archive CIAUFO</span><span class="citation-popover-snippet">Project Blue Book Archive CIAUFO</span></span></span>
+This is a useful archival lead, but not a solved case. Its strengths are that it has a specific date, time, place, direction of travel and original press provenance. Its weaknesses are just as important: it is a single-witness newspaper claim relayed through foreign press monitoring, marked as “unevaluated information”, with no available radar data, photographs, meteorological reconstruction, or follow-up witness file in the public record. The language of flames and high speed could fit a spectacular misperception, a meteor-like event, an aircraft or rocket-associated phenomenon, or something else, but the surviving record is too short to discriminate confidently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-title">Project Blue Book Archive CIAUFO</span><span class="citation-popover-snippet">Project Blue Book Archive CIAUFO</span></span></span>
 
-The Dakar report also belongs to a wider 1952 wave of “flying saucer” stories across French North and West African press channels. The same CIA-translated document groups Dakar with Moroccan reports from Had Kourt, Fedala, Chichaoua, Casablanca and other locations. That does not make the Dakar case stronger by itself; it shows that the “saucer” frame was circulating in regional newspapers at the time, shaping how unusual lights were described and understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span>
+The Dakar report also belongs to a wider 1952 wave of “flying saucer” stories across French North and West African press channels. The same CIA-translated document groups Dakar with Moroccan reports from Had Kourt, Fedala, Chichaoua, Casablanca and other locations. That does not make the Dakar case stronger by itself; it shows that the “saucer” frame was circulating in regional newspapers at the time, shaping how unusual lights were described and understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
 <img src="{{ "/assets/images/Senegal_d8973b-Illustration-1-dark.svg" | relative_url }}" alt="What Survives in Senegal&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Baridiame 1980: Senegal’s most consequential UFO story
 
-The most important Senegal case is the 9 September 1980 incident at [Baridiame]({{ 'baridiame/' | relative_url }}), a village in the Kébémer area. A 2016 retrospective in the Senegalese newspaper Le Soleil, reproduced in a Calaméo archive, says the event occurred around 18:40 as villagers were preparing for evening prayer. The account places Baridiame about 30 km from Darou-Mousty and about 9 km from the Ndoyène turn-off, and says an unidentified object came from the north, causing panic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important Senegal case is the 9 September 1980 incident at [Baridiame]({{ 'baridiame/' | relative_url }}), a village in the Kébémer area. A 2016 retrospective in the Senegalese newspaper Le Soleil, reproduced in a Calaméo archive, says the event occurred around 18:40 as villagers were preparing for evening prayer. The account places Baridiame about 30 km from Darou-Mousty and about 9 km from the Ndoyène turn-off, and says an unidentified object came from the north, causing panic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The reported effects make Baridiame stand out from ordinary “light in the sky” reports. Le Soleil’s retrospective says early coverage described a violent storm-like phenomenon with a deafening noise, and one victim compared the sound to more than ten lorries running at once. It also says a commission led by the director of the École Polytechnique de Thiès visited the site, and that most damaged houses or huts lay on a north-south axis, although the damage pattern was irregular. Witnesses reportedly described a long, blue, fast and noisy object with a bright crown-like head. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The reported effects make Baridiame stand out from ordinary “light in the sky” reports. Le Soleil’s retrospective says early coverage described a violent storm-like phenomenon with a deafening noise, and one victim compared the sound to more than ten lorries running at once. It also says a commission led by the director of the École Polytechnique de Thiès visited the site, and that most damaged houses or huts lay on a north-south axis, although the damage pattern was irregular. Witnesses reportedly described a long, blue, fast and noisy object with a bright crown-like head.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same retrospective says nearby Keur Amadou Moctar, about 2 km north, suffered similar effects. Witnesses there reportedly described an elongated white form with a bluish head and intermittent red light, flying low, producing intense heat for a few seconds and making an overwhelming noise. The reported duration was only about two minutes, but the account says there were injuries and significant damage. A gendarmerie detachment, the deputy-mayor of Kébémer, scientific figures and social-assistance officials were later associated with visits or responses; the government reportedly provided ten tonnes of maize to affected residents after initial help from the prefect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same retrospective says nearby Keur Amadou Moctar, about 2 km north, suffered similar effects. Witnesses there reportedly described an elongated white form with a bluish head and intermittent red light, flying low, producing intense heat for a few seconds and making an overwhelming noise. The reported duration was only about two minutes, but the account says there were injuries and significant damage. A gendarmerie detachment, the deputy-mayor of Kébémer, scientific figures and social-assistance officials were later associated with visits or responses; the government reportedly provided ten tonnes of maize to affected residents after initial help from the prefect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The article’s most striking claim is that, after military and scientific visits and witness statements, three points were treated as clear in the local official narrative: an unidentified object passed over the village for less than three minutes and destroyed some houses and trees; it was not an ordinary storm because there was no proper rainfall; and it was not lightning because there were no burn or carbonisation traces. That is an important piece of local-source history, but it should not be mistaken for a fully published technical conclusion. The underlying commission report, if it exists in an accessible archive, is not readily available in the open sources checked here. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The article’s most striking claim is that, after military and scientific visits and witness statements, three points were treated as clear in the local official narrative: an unidentified object passed over the village for less than three minutes and destroyed some houses and trees; it was not an ordinary storm because there was no proper rainfall; and it was not lightning because there were no burn or carbonisation traces. That is an important piece of local-source history, but it should not be mistaken for a fully published technical conclusion. The underlying commission report, if it exists in an accessible archive, is not readily available in the open sources checked here.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dIMZlylmw5o" title="Senegal Marks Milestone With Launch of First Satellite GAINDESAT-1A | Firstpost Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dIMZlylmw5o" target="_blank" rel="noopener noreferrer">Senegal Marks Milestone With Launch of First Satellite GAINDESAT-1A | Firstpost Africa</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 9.8K &middot; Uploaded: August 2024 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dIMZlylmw5o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dIMZlylmw5o">Open on YouTube</a></p></div></div></div>
 
@@ -1226,32 +1226,32 @@ Baridiame is stronger than many UFO anecdotes because it involves multiple witne
 
 A cautious reading separates the case into layers:
 
-**Well-supported in the public record:** a serious local incident was remembered in Senegalese press coverage; Baridiame and Keur Amadou Moctar were named; authorities and specialists were said to have visited; damage and assistance to victims were reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Well-supported in the public record:** a serious local incident was remembered in Senegalese press coverage; Baridiame and Keur Amadou Moctar were named; authorities and specialists were said to have visited; damage and assistance to victims were reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Reported but not independently verified in the available sources:** the exact flight path, altitude, object shape, colour sequence, sound level, heat effects, number of injuries and distribution of damage.
 
 **Unproven:** that the cause was a “flying saucer” in the extraterrestrial sense. The term “UFO” is justified only in the limited sense that the reported cause remained unidentified in the public narrative.
 
-Natural and technical explanations cannot be ruled out from the surviving material. A severe localised downburst, rare vortex, meteor-related shock, aircraft or rocket-associated event, electrical phenomenon, or combined weather-and-perception episode would all require testing against the original evidence. The retrospective itself says some writers rejected ordinary storm and lightning explanations, but that is not the same as publishing a positive identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Natural and technical explanations cannot be ruled out from the surviving material. A severe localised downburst, rare vortex, meteor-related shock, aircraft or rocket-associated event, electrical phenomenon, or combined weather-and-perception episode would all require testing against the original evidence. The retrospective itself says some writers rejected ordinary storm and lightning explanations, but that is not the same as publishing a positive identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Senegal_d8973b-Illustration-2-dark.svg" | relative_url }}" alt="What Survives in Senegal&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern database reports: Dakar and Mbour in NUFORC
 
-The National UFO Reporting Center, a US-based civilian database, lists only two Senegal reports in its country index. That low number is important: it suggests Senegal is not heavily represented in English-language international UFO reporting systems, whether because of low reporting, language barriers, limited internet submissions, scepticism, lack of publicity, or because sightings are handled locally rather than through foreign databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cSenegal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Senegal</span><span class="citation-popover-snippet">NUFOR C Reports for Country Senegal</span></span></span>
+The National UFO Reporting Center, a US-based civilian database, lists only two Senegal reports in its country index. That low number is important: it suggests Senegal is not heavily represented in English-language international UFO reporting systems, whether because of low reporting, language barriers, limited internet submissions, scepticism, lack of publicity, or because sightings are handled locally rather than through foreign databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cSenegal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Senegal</span><span class="citation-popover-snippet">NUFOR C Reports for Country Senegal</span></span></span>
 
-The first NUFORC entry is from Dakar on 25 April 2003 at 04:30 local time. It lists five observers, a five-minute duration, a “light” shape, lights on the object, a trail and sound. The witness summary is vivid but extremely brief, saying the light was powerful and the sound incredible. NUFORC’s own note says the witness provided no additional information, which sharply limits evidential value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+The first NUFORC entry is from Dakar on 25 April 2003 at 04:30 local time. It lists five observers, a five-minute duration, a “light” shape, lights on the object, a trail and sound. The witness summary is vivid but extremely brief, saying the light was powerful and the sound incredible. NUFORC’s own note says the witness provided no additional information, which sharply limits evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
-The second is an approximate-date report from Mbour on 6 September 2002, submitted in 2005. The observer described a point of light over the Atlantic, initially assumed to be a satellite, then stopping, moving erratically and accelerating southwest. The witness claimed amateur astronomy experience and clear viewing conditions, but the listing shows “0” observers and depends entirely on a single retrospective account. It is interesting as a coast-facing observation, but it has no corroborating track, image, radar record or independent witness chain in the public entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=28544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The second is an approximate-date report from Mbour on 6 September 2002, submitted in 2005. The observer described a point of light over the Atlantic, initially assumed to be a satellite, then stopping, moving erratically and accelerating southwest. The witness claimed amateur astronomy experience and clear viewing conditions, but the listing shows “0” observers and depends entirely on a single retrospective account. It is interesting as a coast-facing observation, but it has no corroborating track, image, radar record or independent witness chain in the public entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=28544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## Region-level pattern: Dakar coast, Mbour coast, Cayor interior
 
 The surviving Senegal cases cluster around three different environments, which changes how they should be interpreted.
 
-Dakar is an aviation, coastal and administrative hub. The 1952 report came from Dakar press channels and described an object above the city; the 2003 NUFORC report is also from Dakar. In such a setting, any serious reconstruction would need aircraft movements, airport data, meteorological records, maritime activity, satellite and rocket re-entry checks, and early-morning astronomical context. Dakar’s role in regional air navigation makes aviation context especially relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span>
+Dakar is an aviation, coastal and administrative hub. The 1952 report came from Dakar press channels and described an object above the city; the 2003 NUFORC report is also from Dakar. In such a setting, any serious reconstruction would need aircraft movements, airport data, meteorological records, maritime activity, satellite and rocket re-entry checks, and early-morning astronomical context. Dakar’s role in regional air navigation makes aviation context especially relevant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
-Mbour is different. The NUFORC report was explicitly an ocean-facing observation from Senegal’s west coast, looking over the Atlantic. That raises a different menu of possible checks: satellites, aircraft on oceanic routes, ships, flares, fishing lights, atmospheric refraction and celestial objects. The observer’s claim that the light stopped and moved erratically is the unusual feature, but the report remains a single-person account submitted years after the approximate event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=43333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Mbour is different. The NUFORC report was explicitly an ocean-facing observation from Senegal’s west coast, looking over the Atlantic. That raises a different menu of possible checks: satellites, aircraft on oceanic routes, ships, flares, fishing lights, atmospheric refraction and celestial objects. The observer’s claim that the light stopped and moved erratically is the unusual feature, but the report remains a single-person account submitted years after the approximate event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=43333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Baridiame and Keur Amadou Moctar are rural interior cases, framed around damage and local trauma rather than distant lights. The places appear in Senegal locality datasets, confirming that these are real named settlements rather than invented UFO lore locations. The case therefore sits closer to a disaster-investigation problem than a simple skywatching report: what physical force could damage selected structures and trees along a path, create heat and noise reports, and leave limited burn evidence? <span class="citation-chip-wrap"><a class="citation-chip" href="https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: demostaf.web.ined.fr">[Demostaf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">demostaf.web.ined.fr</span><span class="citation-popover-title">Demostaf Sénégal</span><span class="citation-popover-snippet">Demostaf Sénégal</span></span></span>
+Baridiame and Keur Amadou Moctar are rural interior cases, framed around damage and local trauma rather than distant lights. The places appear in Senegal locality datasets, confirming that these are real named settlements rather than invented UFO lore locations. The case therefore sits closer to a disaster-investigation problem than a simple skywatching report: what physical force could damage selected structures and trees along a path, create heat and noise reports, and leave limited burn evidence?<span class="citation-chip-wrap"><a class="citation-chip" href="https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: demostaf.web.ined.fr">[Demostaf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">demostaf.web.ined.fr</span><span class="citation-popover-title">Demostaf Sénégal</span><span class="citation-popover-snippet">Demostaf Sénégal</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/matMjA76xf4" title="Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now | Jesse Hamel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=matMjA76xf4" target="_blank" rel="noopener noreferrer">Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now | Jesse Hamel</a></p><p class="youtube-embed-meta">Channel: Julian Dorey Daily &middot; Views: 133.2K &middot; Uploaded: March 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=matMjA76xf4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=matMjA76xf4">Open on YouTube</a></p></div></div></div>
 
@@ -1259,7 +1259,7 @@ Baridiame and Keur Amadou Moctar are rural interior cases, framed around damage 
 
 A practical way to read the Senegal record is to sort claims by evidential status rather than by how dramatic they sound.
 
-**Confirmed as documented reports:** Dakar 1952 exists as a translated press item in a CIA-related archival compilation; Baridiame 1980 exists as a Senegalese press-retrospective case with named locations and official-response claims; NUFORC lists Dakar 2003 and Mbour 2002/2005 as submitted reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-title">Project Blue Book Archive CIAUFO</span><span class="citation-popover-snippet">Project Blue Book Archive CIAUFO</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[3cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span>
+**Confirmed as documented reports:** Dakar 1952 exists as a translated press item in a CIA-related archival compilation; Baridiame 1980 exists as a Senegalese press-retrospective case with named locations and official-response claims; NUFORC lists Dakar 2003 and Mbour 2002/2005 as submitted reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-title">Project Blue Book Archive CIAUFO</span><span class="citation-popover-snippet">Project Blue Book Archive CIAUFO</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[3cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
 **Contested or unresolved:** the actual causes of the Dakar 1952 and Baridiame 1980 events. Dakar lacks enough information for a strong conclusion. Baridiame has richer witness and damage claims, but the public material does not provide the underlying technical file needed to exclude natural or human causes.
 
@@ -1268,211 +1268,211 @@ A practical way to read the Senegal record is to sort claims by evidential statu
 <img src="{{ "/assets/images/Senegal_d8973b-Illustration-3-dark.svg" | relative_url }}" alt="What Survives in Senegal&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Senegal’s UFO archive is thin
 
-Senegal’s sparse public UFO record is not necessarily evidence that unusual aerial reports rarely happen there. It may reflect how reports are captured. English-language UFO databases are culturally and linguistically skewed; NUFORC’s country index shows huge concentrations in the United States and United Kingdom, while Senegal has only two entries. That imbalance says as much about reporting infrastructure as about the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e200304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Senegal’s sparse public UFO record is not necessarily evidence that unusual aerial reports rarely happen there. It may reflect how reports are captured. English-language UFO databases are culturally and linguistically skewed; NUFORC’s country index shows huge concentrations in the United States and United Kingdom, while Senegal has only two entries. That imbalance says as much about reporting infrastructure as about the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e200304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-There is also an archival problem. The strongest Senegal cases are embedded in newspapers and institutional memory rather than in a searchable national UFO repository. The 1952 Dakar case survived because Cold War intelligence monitoring translated foreign newspapers. Baridiame survived because Le Soleil revisited the story decades later. If the original gendarmerie, scientific commission, prefectural or ministerial records exist, they would be the key to improving the case, but they are not surfaced in the easily accessible public web record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span>
+There is also an archival problem. The strongest Senegal cases are embedded in newspapers and institutional memory rather than in a searchable national UFO repository. The 1952 Dakar case survived because Cold War intelligence monitoring translated foreign newspapers. Baridiame survived because Le Soleil revisited the story decades later. If the original gendarmerie, scientific commission, prefectural or ministerial records exist, they would be the key to improving the case, but they are not surfaced in the easily accessible public web record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
-Modern Senegal also complicates the picture because the country is increasingly space-aware rather than simply a passive observer of the sky. Senegal launched its first satellite, Gaindesat-1A, on 16 August 2024; UN-SPIDER describes it as an Earth-observation nanosatellite launched from Vandenberg Space Force Base. That matters for future UFO interpretation because more satellites, rocket launches and re-entries mean more visible sky events that can be mistaken for anomalies if timing and trajectory are not checked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-spider.org">[UN-SPIDER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-spider.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Modern Senegal also complicates the picture because the country is increasingly space-aware rather than simply a passive observer of the sky. Senegal launched its first satellite, Gaindesat-1A, on 16 August 2024; UN-SPIDER describes it as an Earth-observation nanosatellite launched from Vandenberg Space Force Base. That matters for future UFO interpretation because more satellites, rocket launches and re-entries mean more visible sky events that can be mistaken for anomalies if timing and trajectory are not checked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-spider.org">[UN-SPIDER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-spider.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## How to assess a new Senegal UFO report
 
 A serious Senegal sighting should be checked through local context before being treated as anomalous. The most useful first questions are simple: exact time, location, direction, duration, witness number, photos or video metadata, weather, aircraft routes, satellite passes, rocket launches or re-entries, and whether police, gendarmerie, airport or meteorological services received related calls.
 
-For Dakar and coastal reports, aviation and oceanic airspace checks are central because ASECNA provides air traffic services over Dakar terrestrial and oceanic regions. For rural damage cases like Baridiame, the priority shifts to physical inspection: mapped damage path, weather reconstruction, burn marks or absence of them, structural vulnerability, injuries, debris, tree damage and independent witness separation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aim.asecna.aero">[aim.asecna.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aim.asecna.aero</span><span class="citation-popover-title">GE N 3.3</span><span class="citation-popover-snippet">GE N 3.3</span></span></span>
+For Dakar and coastal reports, aviation and oceanic airspace checks are central because ASECNA provides air traffic services over Dakar terrestrial and oceanic regions. For rural damage cases like Baridiame, the priority shifts to physical inspection: mapped damage path, weather reconstruction, burn marks or absence of them, structural vulnerability, injuries, debris, tree damage and independent witness separation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aim.asecna.aero">[aim.asecna.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aim.asecna.aero</span><span class="citation-popover-title">GE N 3.3</span><span class="citation-popover-snippet">GE N 3.3</span></span></span>
 
 The best Senegal cases are therefore not the most dramatic stories, but the ones that can be tied to records. Dakar 1952 is valuable because it is date-stamped and archived. Baridiame 1980 is valuable because it involved named villages, material effects and reported official visits. The NUFORC reports are useful as leads, but much weaker as evidence. Until more primary records surface, Senegal’s UFO history is best understood as a small set of unresolved reports rather than a large national mystery.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1UNMVAdYnCc" title="L&#x27;invité de la rédaction - Ovnis : lumière sur les dossiers déclassifiés du Pentagone - 18/12/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1UNMVAdYnCc" target="_blank" rel="noopener noreferrer">L&#x27;invité de la rédaction - Ovnis : lumière sur les dossiers déclassifiés du Pentagone - 18/12/2023</a></p><p class="youtube-embed-meta">Channel: Radio Notre Dame &middot; Views: 9.7K &middot; Uploaded: December 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1UNMVAdYnCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1UNMVAdYnCc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Survives in Senegal&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Survives in Senegal&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for understanding sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding sparse national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a benchmark for assessing evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for assessing evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Shows how UFO records survive through institutions and archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how UFO records survive through institutions and archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national overview of UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national overview of UFO reports and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-survives-in-senegal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-survives-in-senegal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1488,7 +1488,7 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1508,7 +1508,7 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1540,7 +1540,7 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1592,7 +1592,7 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1637,7 +1637,7 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1675,296 +1675,295 @@ The best Senegal cases are therefore not the most dramatic stories, but the ones
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: cia 52 2  
-   Link: <a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: calameo.com  
-   Link: <a href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0002753477eb30922f403</a>  
+   Link:<a href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0002753477eb30922f403</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Senegal  
-   Link: <a href="https://nuforc.org/subndx/?id=cSenegal" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSenegal</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cSenegal" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSenegal</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: senegel.org  
-   Link: <a href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow">https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338</a>  
+   Link:<a href="https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338" target="_blank" rel="noopener noreferrer nofollow">https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/338</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aim.asecna.aero  
    Title: GE N 3.3  
-   Link: <a href="https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html</a>  
+   Link:<a href="https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_00GEN-3.3-01-fr-FR.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=28544" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28544</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=28544" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28544</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=43333" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43333</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=43333" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43333</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: un-spider.org  
-   Link: <a href="https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a" target="_blank" rel="noopener noreferrer nofollow">https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a</a>  
+   Link:<a href="https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a" target="_blank" rel="noopener noreferrer nofollow">https://www.un-spider.org/news-and-events/news/senegal-successfully-launches-first-satellite-gaindesat-1a</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/</a>  
+   Link:<a href="https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: the school kids who said they saw aliens  
-   Link: <a href="https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/</a>  
+   Link:<a href="https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/videos/the-school-kids-who-said-they-saw-aliens/521494639191878/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/275114380263865/posts/1065805904528038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/275114380263865/posts/1065805904528038/</a>  
+   Link:<a href="https://www.facebook.com/groups/275114380263865/posts/1065805904528038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/275114380263865/posts/1065805904528038/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/</a>  
+   Link:<a href="https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61575725741495/posts/information-from-foreign-documents-or-radio-broadcasts-cd-40-how-date-dist4st-19/122103866960857524/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2054487078322268/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/977704395576978/posts/27046193501634711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/27046193501634711/</a>  
+   Link:<a href="https://www.facebook.com/groups/977704395576978/posts/27046193501634711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977704395576978/posts/27046193501634711/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/245590643150036/posts/1395891304786625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/245590643150036/posts/1395891304786625/</a>  
+   Link:<a href="https://www.facebook.com/groups/245590643150036/posts/1395891304786625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/245590643150036/posts/1395891304786625/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/643570297038875/posts/1724169008978993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/1724169008978993/</a>  
+   Link:<a href="https://www.facebook.com/groups/643570297038875/posts/1724169008978993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/1724169008978993/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: avez vous cru à cette histoire dovni qui circule depuis hier soir en ce qui nous  
-   Link: <a href="https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/</a>  
+   Link:<a href="https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yulaeroport/posts/avez-vous-cru-%C3%A0-cette-histoire-dovni-qui-circule-depuis-hier-soir-en-ce-qui-nous/4215874301758637/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/</a>  
+   Link:<a href="https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/</a>  
+   Link:<a href="https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PrendsunBreak/videos/me%CC%82me-les-policiers-ont-vu-lovni-de-la-place-bonaventure-%EF%B8%8F/1336830817758619/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/</a>  
+   Link:<a href="https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/reunionla1ere/videos/luce-fontaine-a-t-il-vraiment-vu-un-ovni-dans-le-brouillard-de-la-plaine-des-caf/3619666438276338/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: ufo sightings over barbados september 1987  
-   Link: <a href="https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/</a>  
+   Link:<a href="https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/factsbarbados.246/posts/ufo-sightings-over-barbados-september-1987/1383442762496094/</a>  
    Published: september 1987  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/</a>  
+   Link:<a href="https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100069749293583/posts/ufo-destroyed-the-village-vsk-burned-down/611303927871245/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/</a>  
+   Link:<a href="https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LastSafeLocationToLive/posts/diver-finds-a-sleeping-drone-in-the-darkphotooftheday-thriller/122112345710849087/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/</a>  
+   Link:<a href="https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpectatorOz/posts/donald-trump-declassified-many-files-relating-to-ufos-which-countries-are-aliens/1660714876059092/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY</a>  
+   Link:<a href="https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kerrfatou/photos/senegal-successfully-launches-its-first-satellite-gaindesatstory-by-rts-info-sen/921294443358667/?locale=be_BY</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: on wednesday senegals national agency for civil aviation and meteorology anacim  
-   Link: <a href="https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/</a>  
+   Link:<a href="https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FL360aero/posts/on-wednesday-senegals-national-agency-for-civil-aviation-and-meteorology-anacim-/1048864993962901/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AsecnaOfficiel/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AsecnaOfficiel/</a>  
+   Link:<a href="https://www.facebook.com/AsecnaOfficiel/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AsecnaOfficiel/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/</a>  
+   Link:<a href="https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/africanvibes/posts/senegal-launches-first-satellite-a-milestone-in-african-space-exploration/1391866402954332/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/</a>  
+   Link:<a href="https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dw.africa/posts/senegal-successfully-launched-its-first-satellite-gaindesat-1a-into-orbit-markin/893289246168302/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/</a>  
+   Link:<a href="https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EmekaGiftOfficial/posts/-senegal-enters-the-space-age-with-the-launch-of-its-first-satellite-the-gaindes/1064316498643247/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e200304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200304</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e200304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200304</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: observer.ug  
    Title: Are aliens racist?  
-   Link: <a href="https://observer.ug/lifestyle-entertainment/are-aliens-racist/" target="_blank" rel="noopener noreferrer nofollow">https://observer.ug/lifestyle-entertainment/are-aliens-racist/</a>  
+   Link:<a href="https://observer.ug/lifestyle-entertainment/are-aliens-racist/" target="_blank" rel="noopener noreferrer nofollow">https://observer.ug/lifestyle-entertainment/are-aliens-racist/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Incroyable OVNI filmé par un pêcheur à Dakar  
-   Link: <a href="https://www.youtube.com/watch?v=zvhC7KaENF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zvhC7KaENF0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=zvhC7KaENF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zvhC7KaENF0</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Iob6ESlDSDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iob6ESlDSDs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Iob6ESlDSDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iob6ESlDSDs</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7FHjGZ_CNz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7FHjGZ_CNz4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7FHjGZ_CNz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7FHjGZ_CNz4</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: You Tube Share your videos with friends, family, and the world  
-   Link: <a href="https://www.youtube.com/watch?v=1UNMVAdYnCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1UNMVAdYnCc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=1UNMVAdYnCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1UNMVAdYnCc</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dIMZlylmw5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dIMZlylmw5o</a>  
+   Link:<a href="https://www.youtube.com/watch?v=dIMZlylmw5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dIMZlylmw5o</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cGuI1C1Bqx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGuI1C1Bqx4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cGuI1C1Bqx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGuI1C1Bqx4</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: asecna.aero  
-   Link: <a href="https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar</a>  
+   Link:<a href="https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/fr/publications-media/actualite/a-la-une/194-coordination-de-la-fir-dakar</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: asecna.org  
-   Link: <a href="https://www.asecna.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.org/</a>  
+   Link:<a href="https://www.asecna.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.org/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516149" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516149</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516149" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516149</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: anacim.sn  
-   Link: <a href="https://www.anacim.sn/spip.php?debut_articles=10&amp;rubrique2=" target="_blank" rel="noopener noreferrer nofollow">https://www.anacim.sn/spip.php?debut_articles=10&amp;rubrique2=</a>  
+   Link:<a href="https://www.anacim.sn/spip.php?debut_articles=10&amp;rubrique2=" target="_blank" rel="noopener noreferrer nofollow">https://www.anacim.sn/spip.php?debut_articles=10&amp;rubrique2=</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best UFO Sighting of the 1990s with Randall Nickerson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best UFO Sighting of the 1990s with Randall Nickerson...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_-KpDsPxs5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_-KpDsPxs5k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_-KpDsPxs5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_-KpDsPxs5k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: The Ariel School UFO Incident: 60 Students Saw Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Air Force Pilot Reveals the Spiritual Phenomenon Happening Right Now  
-   Link: <a href="https://www.youtube.com/watch?v=matMjA76xf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=matMjA76xf4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=matMjA76xf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=matMjA76xf4</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: bluebookfiles.org  
    Title: Project Blue Book Archive CIAUFO  
-   Link: <a href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/14072</a>  
+   Link:<a href="https://bluebookfiles.org/doc/14072" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/14072</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: demostaf.web.ined.fr  
    Title: Demostaf Sénégal  
-   Link: <a href="https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35" target="_blank" rel="noopener noreferrer nofollow">https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35</a>  
+   Link:<a href="https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35" target="_blank" rel="noopener noreferrer nofollow">https://demostaf.web.ined.fr/index.php/catalog/50/datafile/F1/V35</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: senegaldirect.com  
-   Link: <a href="https://senegaldirect.com/0000/page/315/" target="_blank" rel="noopener noreferrer nofollow">https://senegaldirect.com/0000/page/315/</a>  
+   Link:<a href="https://senegaldirect.com/0000/page/315/" target="_blank" rel="noopener noreferrer nofollow">https://senegaldirect.com/0000/page/315/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: demostaf.web.ined.fr  
-   Link: <a href="https://demostaf.web.ined.fr/index.php/catalog/ddi/50" target="_blank" rel="noopener noreferrer nofollow">https://demostaf.web.ined.fr/index.php/catalog/ddi/50</a>  
+   Link:<a href="https://demostaf.web.ined.fr/index.php/catalog/ddi/50" target="_blank" rel="noopener noreferrer nofollow">https://demostaf.web.ined.fr/index.php/catalog/ddi/50</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: x.com  
-   Link: <a href="https://x.com/UAPAfrique/status/1737097110976180312" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UAPAfrique/status/1737097110976180312</a>  
+   Link:<a href="https://x.com/UAPAfrique/status/1737097110976180312" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UAPAfrique/status/1737097110976180312</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: nanosats.eu  
-   Link: <a href="https://www.nanosats.eu/sat/gaindesat.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nanosats.eu/sat/gaindesat.html</a>  
+   Link:<a href="https://www.nanosats.eu/sat/gaindesat.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nanosats.eu/sat/gaindesat.html</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: fr.linkedin.com  
-   Link: <a href="https://fr.linkedin.com/company/asecna" target="_blank" rel="noopener noreferrer nofollow">https://fr.linkedin.com/company/asecna</a>  
+   Link:<a href="https://fr.linkedin.com/company/asecna" target="_blank" rel="noopener noreferrer nofollow">https://fr.linkedin.com/company/asecna</a>  
 
 ### Additional References
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/senegal-southern-casamance-region" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/senegal-southern-casamance-region</a>  
+   Link:<a href="https://www.gettyimages.com/photos/senegal-southern-casamance-region" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/senegal-southern-casamance-region</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: climahealth.info  
-   Link: <a href="https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/" target="_blank" rel="noopener noreferrer nofollow">https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/</a>  
+   Link:<a href="https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/" target="_blank" rel="noopener noreferrer nofollow">https://climahealth.info/service-providers/agence-nationale-de-laviation-civile-et-de-la-meteorologie-anacim/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: centreforaviation.com  
-   Link: <a href="https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna</a>  
+   Link:<a href="https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/air-traffic-management/agency-for-aerial-navigation-safety-in-africa-and-madagascar-asecna</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: eucass.eu  
-   Link: <a href="https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download</a>  
+   Link:<a href="https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=7435&amp;task=download</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
+   Link:<a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: saturdaynightuforia.com  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html</a>  
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itn52hiding.html</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: outerspaceinstitute.ca  
-   Link: <a href="https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf</a>  
+   Link:<a href="https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://outerspaceinstitute.ca/osisite/wp-content/uploads/Montreal-Recommendations-on-Aviation-Safety-and-Uncontrolled-Space-Object-Reentries.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: ubuy.sn  
-   Link: <a href="https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm" target="_blank" rel="noopener noreferrer nofollow">https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm</a>  
+   Link:<a href="https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm" target="_blank" rel="noopener noreferrer nofollow">https://www.ubuy.sn/en/product/4XINJS56O-mufon-the-ufo-hotspot-compendium-all-the-places-to-visit-before-you-die-or-are-abducted-paperback?srsltid=AfmBOorm2ufWzEurmdlonepWkcfCBM9QFV_tB7SAPmWlF5vx_ad0HJBm</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXy07Cak67B/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXy07Cak67B/</a>
+   Link:<a href="https://www.instagram.com/p/DXy07Cak67B/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXy07Cak67B/</a>

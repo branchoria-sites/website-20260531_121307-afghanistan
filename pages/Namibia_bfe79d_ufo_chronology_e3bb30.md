@@ -257,9 +257,9 @@ The most useful question is not whether a sighting was unidentified when reporte
 
 ### 1976 Walvis Bay: famous locally, weakly documented today
 
-The best-known historical Namibian UFO account is the August 1976 Walvis Bay sighting. According to later summaries derived from a report in the coastal newspaper *Namib Times*, multiple witnesses described a bright object over the wilderness near Walvis Bay. Accounts mentioned a luminous upper section, a rounded feature beneath it, bright extensions, and spark-like effects. Some observers reportedly nicknamed it a “Space Monster”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
+The best-known historical Namibian UFO account is the August 1976 Walvis Bay sighting. According to later summaries derived from a report in the coastal newspaper *Namib Times*, multiple witnesses described a bright object over the wilderness near Walvis Bay. Accounts mentioned a luminous upper section, a rounded feature beneath it, bright extensions, and spark-like effects. Some observers reportedly nicknamed it a “Space Monster”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
 
-What makes the case memorable is the number of reported witnesses and the claim that photographs may have been taken. What weakens it is the absence of widely available original documentation. Modern discussions rely largely on secondary reproductions and later retellings rather than accessible primary photographs, official reports, or preserved investigative files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
+What makes the case memorable is the number of reported witnesses and the claim that photographs may have been taken. What weakens it is the absence of widely available original documentation. Modern discussions rely largely on secondary reproductions and later retellings rather than accessible primary photographs, official reports, or preserved investigative files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
 
 **Evidence ranking:** Contested historical report.
 
@@ -288,9 +288,9 @@ The case remains part of Namibia's UFO chronology but does not meet modern stand
 
 ### 2008 Usakos–Swakopmund coastal sighting: dramatic but probably conventional
 
-In May 2008, residents near Usakos reported a bright object travelling towards the coast. Witnesses described a round object with a long tail moving rapidly across the sky. Local coverage openly discussed possibilities ranging from meteors to more unusual interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo sightings at coast</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+In May 2008, residents near Usakos reported a bright object travelling towards the coast. Witnesses described a round object with a long tail moving rapidly across the sky. Local coverage openly discussed possibilities ranging from meteors to more unusual interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo sightings at coast</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
-Unlike the 1976 case, this incident is documented in contemporary journalism rather than reconstructed decades later. The descriptions, however, strongly resemble known atmospheric phenomena such as a meteor, bolide fireball, or re-entering space debris. The reported tail, motion, brightness, and apparent trajectory fit those explanations more naturally than a controlled craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo sightings at coast</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+Unlike the 1976 case, this incident is documented in contemporary journalism rather than reconstructed decades later. The descriptions, however, strongly resemble known atmospheric phenomena such as a meteor, bolide fireball, or re-entering space debris. The reported tail, motion, brightness, and apparent trajectory fit those explanations more naturally than a controlled craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo sightings at coast</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 No supporting radar records, photographs, recovered material, or official aerospace findings appear to have emerged publicly.
 
@@ -302,9 +302,9 @@ The case is valuable because it shows how a genuinely startling sky event can be
 
 The most tangible object associated with a Namibian UFO story is not really a UFO case at all.
 
-In 2011, a metallic sphere roughly 35 centimetres across was found in northern Namibia after reports of a loud detonation. The object created a small impact crater and attracted international attention. Namibian authorities reportedly contacted international aerospace agencies for assistance. Investigators described the sphere as a manufactured metal object rather than something unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</span></span></span>
+In 2011, a metallic sphere roughly 35 centimetres across was found in northern Namibia after reports of a loud detonation. The object created a small impact crater and attracted international attention. Namibian authorities reportedly contacted international aerospace agencies for assistance. Investigators described the sphere as a manufactured metal object rather than something unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</span></span></span>
 
-This incident is often misremembered as evidence supporting UFO claims because there was a physical object. In reality, the physical evidence pushes the case in the opposite direction. The sphere closely matched pressure vessels and components known to separate from spacecraft or rocket systems during re-entry. Reports repeatedly described it as consisting of familiar human-made alloys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</span></span></span>
+This incident is often misremembered as evidence supporting UFO claims because there was a physical object. In reality, the physical evidence pushes the case in the opposite direction. The sphere closely matched pressure vessels and components known to separate from spacecraft or rocket systems during re-entry. Reports repeatedly described it as consisting of familiar human-made alloys.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</span></span></span>
 
 **Evidence ranking:** Confirmed event, conventional explanation strongly favoured.
 
@@ -365,7 +365,7 @@ Characteristics include:
 
 </div>
 
-The 1976 Walvis Bay report belongs here. Multiple people may genuinely have seen something unusual, but the surviving record cannot establish what it was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
+The 1976 Walvis Bay report belongs here. Multiple people may genuinely have seen something unusual, but the surviving record cannot establish what it was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
 
 Such reports deserve to remain in the historical record but cannot easily be elevated into evidence for extraordinary technology.
 
@@ -386,17 +386,17 @@ Here investigators possessed:
 
 </div>
 
-Yet the stronger the evidence became, the less mysterious the explanation appeared. Physical inspection pointed towards space debris rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span>
+Yet the stronger the evidence became, the less mysterious the explanation appeared. Physical inspection pointed towards space debris rather than an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span>
 
 This pattern appears frequently in UFO research internationally: extraordinary stories often lack hard evidence, while cases with hard evidence frequently acquire conventional explanations.
 
 ### Database reports and their limitations
 
-International civilian archives such as the National UFO Reporting Center (NUFORC) contain only a handful of Namibia-linked reports. NUFORC itself is a witness-report repository rather than a governmental investigative body. Reports vary widely in quality because they are self-submitted and not all receive detailed verification. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[Manifold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchabl...</span></span></span>
+International civilian archives such as the National UFO Reporting Center (NUFORC) contain only a handful of Namibia-linked reports. NUFORC itself is a witness-report repository rather than a governmental investigative body. Reports vary widely in quality because they are self-submitted and not all receive detailed verification. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[Manifold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchabl...</span></span></span>
 
 For Namibia, this means the database is useful as a record of claimed sightings but not as proof that those sightings represented unusual technology.
 
-A modern example from Walvis Bay reported in 2025 was explicitly flagged within the report itself as possibly being a Chinese lantern. The value of such entries lies in documenting perceptions, not establishing conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Namibia, 6; Nederland, 3; Nepal, 11; Netherlands, 193.Read more...</span></span></span>
+A modern example from Walvis Bay reported in 2025 was explicitly flagged within the report itself as possibly being a Chinese lantern. The value of such entries lies in documenting perceptions, not establishing conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Namibia, 6; Nederland, 3; Nepal, 11; Netherlands, 193.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Namibia_bfe79d_ufo_chronology_e3bb30-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_ufo_chronology_e3bb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_ufo_chronology_e3bb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Rank Claims Without Overclaiming
@@ -409,7 +409,7 @@ These are the strongest factual cases because the event itself is confirmed and 
 
 Example:
 
-* 2011 Namibian space sphere, likely space debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span>
+* 2011 Namibian space sphere, likely space debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span>
 
 The event happened. The object existed. The likely explanation is conventional.
 
@@ -419,7 +419,7 @@ These reports involve genuine observations but fit known phenomena.
 
 Example:
 
-* 2008 coastal fireball-style sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo sightings at coast</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+* 2008 coastal fireball-style sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo sightings at coast</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 The observation appears real, but available descriptions align closely with meteor or re-entry behaviour.
 
@@ -429,7 +429,7 @@ The observation appears real, but available descriptions align closely with mete
 
 Example:
 
-* 1976 Walvis Bay “Space Monster”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
+* 1976 Walvis Bay “Space Monster”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span>
 
 Interesting, memorable, and potentially sincere, but lacking enough surviving evidence for strong conclusions.
 
@@ -455,199 +455,199 @@ Finally, Namibia's most common UFO environments — deserts, coastlines, and dar
 
 Viewed across five decades, Namibia's UFO chronology is less a story of accumulating proof than a story of uneven evidence quality.
 
-The strongest-documented incident is the 2011 metallic sphere, yet that case points towards human-made space debris rather than unknown technology. The most famous historical sighting, the 1976 Walvis Bay event, remains intriguing but suffers from missing primary evidence. The 2008 coastal report is well documented by local journalism but closely resembles known atmospheric or astronomical phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</span></span></span>
+The strongest-documented incident is the 2011 metallic sphere, yet that case points towards human-made space debris rather than unknown technology. The most famous historical sighting, the 1976 Walvis Bay event, remains intriguing but suffers from missing primary evidence. The 2008 coastal report is well documented by local journalism but closely resembles known atmospheric or astronomical phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mysterious &#x27;Space Ball&#x27; Crashes in Namibia</span><span class="citation-popover-snippet">Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</span><span class="citation-popover-meta">Published: December 22, 2011</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</span></span></span>
 
 For readers trying to identify which Namibian UFO cases hold up best, the answer is somewhat paradoxical: the cases with the best evidence are generally the ones that become less mysterious under investigation, while the most mysterious stories are usually the ones supported mainly by memory, testimony, and incomplete records.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Namibia UFO Cases Hold Up Best?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Namibia UFO Cases Hold Up Best?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces a structured framework for ranking and classifying reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces a structured framework for ranking and classifying reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains how UFO narratives evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO narratives evolve over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence quality and comparative case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence quality and comparative case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical context and chronology across many cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context and chronology across many cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-namibia-ufo-cases-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-namibia-ufo-cases-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -663,7 +663,7 @@ For readers trying to identify which Namibian UFO cases hold up best, the answer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -683,7 +683,7 @@ For readers trying to identify which Namibian UFO cases hold up best, the answer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -715,7 +715,7 @@ For readers trying to identify which Namibian UFO cases hold up best, the answer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -767,7 +767,7 @@ For readers trying to identify which Namibian UFO cases hold up best, the answer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -812,7 +812,7 @@ For readers trying to identify which Namibian UFO cases hold up best, the answer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -850,137 +850,136 @@ For readers trying to identify which Namibian UFO cases hold up best, the answer
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Mysterious '[Space Ball](&#123;&#123; 'space-ball/' | relative_url &#125;&#125;)' Crashes in Namibia  
-   Link: <a href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14028-namibia-space-ball-orbital-debris.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</p></details>
+   Link:<a href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14028-namibia-space-ball-orbital-debris.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;Space Ball&#x27; Crashes in NamibiaDecember 22, 2011 — 22 Dec 2011 — A strange metal ball dropped out of the sky and slammed...</p></details>
    Published: December 22, 2011  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Namibia, 6; Nederland, 3; Nepal, 11; Netherlands, 193.Read more...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Namibia, 6; Nederland, 3; Nepal, 11; Netherlands, 193.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189590" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189590</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18959015 May 2025 — NUFORC UFO Sighting 189590. Occurred: 2025-05-13 21:00 Local Reported: 2025-05-13 14:07 Pac...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=189590" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189590</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18959015 May 2025 — NUFORC UFO Sighting 189590. Occurred: 2025-05-13 21:00 Local Reported: 2025-05-13 14:07 Pac...</p></details>
    Published: May 13, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=194936" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194936</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1949361 Jan 2026 — NUFORC UFO Sighting 194936. Occurred: 2025-12-24 20:00 Local Reported: 2025-12-26 08:46 Pacific Du...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=194936" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1949361 Jan 2026 — NUFORC UFO Sighting 194936. Occurred: 2025-12-24 20:00 Local Reported: 2025-12-26 08:46 Pacific Du...</p></details>
    Published: December 24, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</p></details>
    Published: April 12, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
    Title: world walvis bay odd enclave  
-   Link: <a href="https://time.com/archive/6880073/world-walvis-bay-odd-enclave/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6880073/world-walvis-bay-odd-enclave/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World: Walvis Bay: Odd Enclave13 Aug 1978 — Discovered by Portuguese seafarers in the 15th century, Walvis Bay was used as a staging base...</p></details>
+   Link:<a href="https://time.com/archive/6880073/world-walvis-bay-odd-enclave/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6880073/world-walvis-bay-odd-enclave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World: Walvis Bay: Odd Enclave13 Aug 1978 — Discovered by Portuguese seafarers in the 15th century, Walvis Bay was used as a staging base...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thinkaboutitdocs.com  
-   Link: <a href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1976-ufo-seen-by-many-in-namibia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1976: UFO seen by many in Walvis Bay, NamibiaNamibia Sightings · 1976: UFO seen by many in Walvis Bay, Namibia · Namib...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: namibian.com.na  
    Title: ufo sightings at coast  
-   Link: <a href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibian.com.na/ufo-sightings-at-coast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</p></details>
+   Link:<a href="https://www.namibian.com.na/ufo-sightings-at-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibian.com.na/ufo-sightings-at-coast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Namibian&#x27;UFO&#x27; sightings at coast21 May 2008 — &#x27;UFO&#x27; sightings at coast... A SHOOTING star? Ball of lightning? Visiting aliens from o...</p></details>
    Published: May 2008  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: universetoday.com  
    Title: spherical object drops from the sky in namibia  
-   Link: <a href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Ludik described it as made of a &quot;metal alloy known to man&quot; (so...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cuny.manifoldapp.org  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchabl...</p></details>
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchabl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Walvis Bay  
-   Link: <a href="https://en.wikipedia.org/wiki/Walvis_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walvis_Bay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walvis BayIt is the second largest city in Namibia and the largest coastal city in the country. The city covers an area of 29 square k...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Walvis_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walvis_Bay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walvis BayIt is the second largest city in Namibia and the largest coastal city in the country. The city covers an area of 29 square k...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/1205624" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/1205624</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-reports22 Mar 2018 — NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports.Read more...</p></details>
+   Link:<a href="https://zenodo.org/records/1205624" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/1205624</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-reports22 Mar 2018 — NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports.Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding: r/ForgottenLanguagesIn this context, the controlled variable in UFO sightings is the observer&#x27;s perception, which is infl...</p></details>
+   Link:<a href="https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding: r/ForgottenLanguagesIn this context, the controlled variable in UFO sightings is the observer&#x27;s perception, which is infl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/namibia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/namibia-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/namibia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/namibia-ufo-sightings.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260</a>  
+   Link:<a href="https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/UFO-sightings-as-a-function-of-year-in-NUFORC-data-set_fig1_369655260</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theworld.org  
    Title: alien space ball drops namibian grassland nasa alerted video  
-   Link: <a href="https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World from PRX&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Spa...</p></details>
+   Link:<a href="https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World from PRX&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Spa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rossing.com  
-   Link: <a href="https://www.rossing.com/files/z20_seia/Z20_SEIA_Draft_Scoping_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossing.com/files/z20_seia/Z20_SEIA_Draft_Scoping_Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEIA for Proposed Mining of the Z20 Uranium Deposit2 Mar 2017 — Omaruru, Usakos, Swakopmund and Walvis Bay each have a state hospital...</p></details>
+   Link:<a href="https://www.rossing.com/files/z20_seia/Z20_SEIA_Draft_Scoping_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rossing.com/files/z20_seia/Z20_SEIA_Draft_Scoping_Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEIA for Proposed Mining of the Z20 Uranium Deposit2 Mar 2017 — Omaruru, Usakos, Swakopmund and Walvis Bay each have a state hospital...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>100,000 UFO sightings including city, shape, and a text description.Read more...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>100,000 UFO sightings including city, shape, and a text description.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f strange things in the sky, I also saw UFOs in Windhoek and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f strange things in the sky, I also saw UFOs in Windhoek and...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2008 Date Time Town / Village Area...8 Jan 2008 — The object was flat and round, with a blue rippled underside...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2008 Date Time Town / Village Area...8 Jan 2008 — The object was flat and round, with a blue rippled underside...</p></details>

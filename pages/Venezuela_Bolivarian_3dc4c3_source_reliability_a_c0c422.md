@@ -257,9 +257,9 @@ For anyone trying to understand Venezuelan UFO claims, source reliability matter
 
 Unlike countries where military investigations later became public, Venezuela's UFO material remained largely decentralised. No widely accessible national database of sightings, photographs, radar reports, military investigations, or witness interviews emerged during the twentieth century.
 
-One of the most frequently cited references is Horacio Gonzales Ganteaume's 1961 book *Platillos voladores sobre Venezuela*. The book became important partly because later bibliographies described it as a compilation of authenticated Venezuelan UFO reports based on both published and unpublished official material. A 1969 bibliography prepared for the Library of Congress by Lynn E. Catoe specifically noted the work as an account of Venezuelan sightings from 1959 onward that drew on official reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
+One of the most frequently cited references is Horacio Gonzales Ganteaume's 1961 book *Platillos voladores sobre Venezuela*. The book became important partly because later bibliographies described it as a compilation of authenticated Venezuelan UFO reports based on both published and unpublished official material. A 1969 bibliography prepared for the Library of Congress by Lynn E. Catoe specifically noted the work as an account of Venezuelan sightings from 1959 onward that drew on official reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
 
-That description is valuable, but it also reveals a limitation. Researchers today often know the bibliography entry better than the underlying documents. The citation demonstrates that official material once circulated among investigators, yet much of that material is not easily searchable or independently verified today. In practical terms, the bibliography functions as evidence that sources existed, not as proof that every later claim derived from those sources is accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
+That description is valuable, but it also reveals a limitation. Researchers today often know the bibliography entry better than the underlying documents. The citation demonstrates that official material once circulated among investigators, yet much of that material is not easily searchable or independently verified today. In practical terms, the bibliography functions as evidence that sources existed, not as proof that every later claim derived from those sources is accurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
 
 This gap has encouraged a pattern common in Venezuelan UFO research: later authors frequently cite earlier ufologists rather than primary records.
 
@@ -269,15 +269,15 @@ Because Venezuela lacks a single archive, researchers depend on a handful of rec
 
 ### The strongest documentary layer: aviation catalogues
 
-The most useful catalogues are generally those focused on aviation reports. Dominique Weinstein's *Eighty Years of Pilot Sightings* compiled hundreds of pilot and crew encounters from around the world, including several Venezuelan cases from the early 1950s. These reports are significant not because pilots cannot make mistakes, but because aviation incidents often contain dates, routes, aircraft types, crew identities, and sometimes corroborating witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</span></span></span>
+The most useful catalogues are generally those focused on aviation reports. Dominique Weinstein's *Eighty Years of Pilot Sightings* compiled hundreds of pilot and crew encounters from around the world, including several Venezuelan cases from the early 1950s. These reports are significant not because pilots cannot make mistakes, but because aviation incidents often contain dates, routes, aircraft types, crew identities, and sometimes corroborating witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</span></span></span>
 
 The Venezuelan entries in aviation-focused catalogues are therefore easier to place within a historical framework than stories involving alleged landings or humanoid encounters. Even when the explanations remain uncertain, the source chain is usually clearer.
 
-Aviation catalogues still require caution. Critics of UFO databases have noted that many catalogues recycle reports from earlier compilations and may inherit errors from previous authors. The existence of a catalogue entry should not be confused with independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyOne of the UFO lists often cited by UFO proponents is compiled by Dominique Weinstein, wh...</span></span></span>
+Aviation catalogues still require caution. Critics of UFO databases have noted that many catalogues recycle reports from earlier compilations and may inherit errors from previous authors. The existence of a catalogue entry should not be confused with independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyOne of the UFO lists often cited by UFO proponents is compiled by Dominique Weinstein, wh...</span></span></span>
 
 ### Bibliographies as maps rather than evidence
 
-Bibliographies provide a different kind of value. The Catoe bibliography and later indexes of Latin American UFO literature help researchers identify what was published and when. They reveal the growth of Venezuelan ufology during the 1950s and 1960s and show which cases attracted international attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
+Bibliographies provide a different kind of value. The Catoe bibliography and later indexes of Latin American UFO literature help researchers identify what was published and when. They reveal the growth of Venezuelan ufology during the 1950s and 1960s and show which cases attracted international attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">Government Attic An Annotated Bibliography, Lynn E</span><span class="citation-popover-snippet">Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</span></span></span>
 
 However, bibliographies are not investigative findings. They document the existence of claims, books, and reports. A case that appears repeatedly across bibliographies may simply reflect repeated citation rather than stronger evidence.
 
@@ -329,11 +329,11 @@ Many of Venezuela's most sensational stories fall into this category.
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_source_reliability_a_c0c422-Illustration-2-dark.svg" | relative_url }}" alt="Source Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_source_reliability_a_c0c422-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_source_reliability_a_c0c422-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem of the 1954–1955 Humanoid Wave
 
-The most famous Venezuelan UFO stories involve reports of small, hairy humanoids during the 1954 wave. These accounts became internationally known and continue to circulate in documentaries, books, podcasts, and online communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Venezuelan UFO Wave of 1954: Invasion of the Hairy...This wave involved virtually the entire range of UFO encounters including...</span></span></span>
+The most famous Venezuelan UFO stories involve reports of small, hairy humanoids during the 1954 wave. These accounts became internationally known and continue to circulate in documentaries, books, podcasts, and online communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Venezuelan UFO Wave of 1954: Invasion of the Hairy...This wave involved virtually the entire range of UFO encounters including...</span></span></span>
 
-The challenge is not that the reports never existed. Contemporary UFO organisations such as APRO and later catalogues clearly discussed them. The problem is that many surviving versions differ in important details. Witness counts change. Object descriptions vary. Distances and timelines shift. Some narratives become more dramatic with each retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</span><span class="citation-popover-meta">Published: June 10, 1955</span></span></span>
+The challenge is not that the reports never existed. Contemporary UFO organisations such as APRO and later catalogues clearly discussed them. The problem is that many surviving versions differ in important details. Witness counts change. Object descriptions vary. Distances and timelines shift. Some narratives become more dramatic with each retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</span><span class="citation-popover-meta">Published: June 10, 1955</span></span></span>
 
-The well-known Petare encounter illustrates the difficulty. Modern summaries frequently describe landed craft, beams of light, multiple entities, and frightened witnesses. Yet many researchers encounter the story through layers of secondary reporting rather than through a complete primary investigation file. The event may have originated in genuine witness testimony, but the surviving documentary trail is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</span><span class="citation-popover-meta">Published: June 10, 1955</span></span></span>
+The well-known Petare encounter illustrates the difficulty. Modern summaries frequently describe landed craft, beams of light, multiple entities, and frightened witnesses. Yet many researchers encounter the story through layers of secondary reporting rather than through a complete primary investigation file. The event may have originated in genuine witness testimony, but the surviving documentary trail is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</span><span class="citation-popover-meta">Published: June 10, 1955</span></span></span>
 
 That does not automatically make the case false. It does mean that confidence should be lower than for aviation reports supported by identifiable records.
 
@@ -341,7 +341,7 @@ That does not automatically make the case false. It does mean that confidence sh
 
 The weakness of official archiving created a space filled by private investigators and UFO organisations. Throughout the twentieth century, many Venezuelan cases entered international circulation through networks such as APRO, NICAP, and later independent researchers.
 
-This preserved material that might otherwise have disappeared. At the same time, it introduced a structural problem: the investigators collecting reports were often advocates for the reality of UFO phenomena. Their publications frequently aimed to document unexplained events rather than to eliminate conventional explanations first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1954fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1954 Chronology29 Jan 2006 — (Sources: Dominique Weinstein, Aircraft UFO Encounters, p. 22; Loren E. Gross, UFOs: A History. 1954: Januar...</span></span></span>
+This preserved material that might otherwise have disappeared. At the same time, it introduced a structural problem: the investigators collecting reports were often advocates for the reality of UFO phenomena. Their publications frequently aimed to document unexplained events rather than to eliminate conventional explanations first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1954fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1954 Chronology29 Jan 2006 — (Sources: Dominique Weinstein, Aircraft UFO Encounters, p. 22; Loren E. Gross, UFOs: A History. 1954: Januar...</span></span></span>
 
 As a result, Venezuelan cases often travelled through a chain that looked like this:
 
@@ -368,14 +368,14 @@ The most useful approach is not to divide cases into "real" and "fake". Instead,
 
 A confirmed event is not necessarily a confirmed extraterrestrial event.
 
-In Venezuelan UFO history, "confirmed" usually means the sighting itself is well documented. [Pilot reports]({{ 'pilot-reports-9654fc/' | relative_url }}) from the early 1950s often fall into this category because there is reasonable evidence that trained observers reported something unusual. What remains unresolved is the object's identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</span></span></span>
+In Venezuelan UFO history, "confirmed" usually means the sighting itself is well documented. [Pilot reports]({{ 'pilot-reports-9654fc/' | relative_url }}) from the early 1950s often fall into this category because there is reasonable evidence that trained observers reported something unusual. What remains unresolved is the object's identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Eighty Years of Pilot Sightings A Catalog of Military, Airliner</span><span class="citation-popover-snippet">Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_source_reliability_a_c0c422-Illustration-3-dark.svg" | relative_url }}" alt="Source Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_source_reliability_a_c0c422-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_source_reliability_a_c0c422-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Contested cases
 
 Many of the classic Venezuelan encounters belong here.
 
-These reports have witnesses, dates, and publication histories, but the underlying documentation is incomplete. Researchers can establish that a story circulated, yet cannot confidently reconstruct every detail or eliminate ordinary explanations. The Petare narratives and several humanoid encounters from the 1954 wave are examples of this middle category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</span><span class="citation-popover-meta">Published: June 10, 1955</span></span></span>
+These reports have witnesses, dates, and publication histories, but the underlying documentation is incomplete. Researchers can establish that a story circulated, yet cannot confidently reconstruct every detail or eliminate ordinary explanations. The Petare narratives and several humanoid encounters from the 1954 wave are examples of this middle category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</span><span class="citation-popover-meta">Published: June 10, 1955</span></span></span>
 
 ### Debunked or weakly supported claims
 
@@ -391,7 +391,7 @@ Some Venezuelan UFO stories fit broader patterns seen worldwide:
 
 </div>
 
-The growth of digital editing and artificial-intelligence-generated imagery has made modern verification even more difficult. Analysts studying contemporary misinformation have repeatedly noted how synthetic media can create convincing but unreliable visual evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenews.com.pk/latest/1050987-venezuela-china-biden-and-extraterrestrials-the-disinformation-of-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenews.com.pk">[The News International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenews.com.pk</span><span class="citation-popover-title">1050987 venezuela china biden and extraterrestrials the disinformation of ai</span><span class="citation-popover-snippet">Mosqueira says it is not difficult to identify a fake video, but much tougher to...Read more...</span></span></span>
+The growth of digital editing and artificial-intelligence-generated imagery has made modern verification even more difficult. Analysts studying contemporary misinformation have repeatedly noted how synthetic media can create convincing but unreliable visual evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenews.com.pk/latest/1050987-venezuela-china-biden-and-extraterrestrials-the-disinformation-of-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenews.com.pk">[The News International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenews.com.pk</span><span class="citation-popover-title">1050987 venezuela china biden and extraterrestrials the disinformation of ai</span><span class="citation-popover-snippet">Mosqueira says it is not difficult to identify a fake video, but much tougher to...Read more...</span></span></span>
 
 For Venezuelan cases circulating primarily through social media, the source chain is often dramatically weaker than for mid-century reports documented in print.
 
@@ -416,194 +416,194 @@ When the answer to all three is yes, the case deserves serious historical attent
 In that sense, the Venezuelan record is less an organised collection of mysteries than a fragmented documentary landscape. Its value lies not in a hidden government archive waiting to be opened, but in the careful comparison of books, catalogues, newspapers, and sceptical re-evaluations that reveal how UFO stories were created, preserved, and transformed over time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Venezuelan UFO Sources Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Venezuelan UFO Sources Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes evidence standards and investigative rigor.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence standards and investigative rigor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding archival and investigative sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding archival and investigative sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Built around documented testimony and source evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around documented testimony and source evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Ideal for comparing source quality, cases and historical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for comparing source quality, cases and historical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-venezuelan-ufo-sources-hold-up-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-venezuelan-ufo-sources-hold-up-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ In that sense, the Venezuelan record is less an organised collection of mysterie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ In that sense, the Venezuelan record is less an organised collection of mysterie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ In that sense, the Venezuelan record is less an organised collection of mysterie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ In that sense, the Venezuelan record is less an organised collection of mysterie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ In that sense, the Venezuelan record is less an organised collection of mysterie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,139 +806,138 @@ In that sense, the Venezuelan record is less an organised collection of mysterie
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO problem, they gave Gan- teaume permission to make the report public. One 1961 UFO incident to come to the attention of APRO and which...</p></details>
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO problem, they gave Gan- teaume permission to make the report public. One 1961 UFO incident to come to the attention of APRO and which...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: static1.squarespace.com  
    Title: Eighty Years of Pilot Sightings A Catalog of Military, Airliner  
-   Link: <a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</p></details>
+   Link:<a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyOne of the UFO lists often cited by UFO proponents is compiled by Dominique Weinstein, wh...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyOne of the UFO lists often cited by UFO proponents is compiled by Dominique Weinstein, wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dominique Weinstein&#x27;s Aircraft/UFO Encounters (Nov. 1997; and rev. 5th ed. June. 2001, Aircraft UAP Encounters). (m). H. B. Darrach and...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dominique Weinstein&#x27;s Aircraft/UFO Encounters (Nov. 1997; and rev. 5th ed. June. 2001, Aircraft UAP Encounters). (m). H. B. Darrach and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Venezuelan UFO Wave of 1954: Invasion of the Hairy...This wave involved virtually the entire range of UFO encounters including...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Venezuelan UFO Wave of 1954: Invasion of the Hairy...This wave involved virtually the entire range of UFO encounters including...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/ce3/1955-06-10-venezuela-petare.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - June 10, 1955, Petare, Miranda, Venezuela, a familyufo - UFOS at close sight: URECAT-000498 - June 10, 1955, Petare, Miranda...</p></details>
    Published: June 10, 1955  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1954fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1954fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1954 Chronology29 Jan 2006 — (Sources: Dominique Weinstein, Aircraft UFO Encounters, p. 22; Loren E. Gross, UFOs: A History. 1954: Januar...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1954fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1954fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954 Chronology29 Jan 2006 — (Sources: Dominique Weinstein, Aircraft UFO Encounters, p. 22; Loren E. Gross, UFOs: A History. 1954: Januar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: UFO Evidence 1964  
-   Link: <a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence, 1964Evidence is presented in support of the hypothesis that UFOs are under intelligent control, making plausible the no...</p></details>
+   Link:<a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence, 1964Evidence is presented in support of the hypothesis that UFOs are under intelligent control, making plausible the no...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: Guarico, Venezuela  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/s8b0pn/guarico_venezuela_ufo_allegedly_photographed_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/s8b0pn/guarico_venezuela_ufo_allegedly_photographed_from/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government disclosures on UFO investigations. Most credible UFO encounters in history. Impact of UFOs...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/s8b0pn/guarico_venezuela_ufo_allegedly_photographed_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/s8b0pn/guarico_venezuela_ufo_allegedly_photographed_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government disclosures on UFO investigations. Most credible UFO encounters in history. Impact of UFOs...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/iqtopr/about_that_tictac_one_recorded_near_lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/iqtopr/about_that_tictac_one_recorded_near_lake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO Isn&#x27;t Lockheed Martin tech? David Fravor.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/iqtopr/about_that_tictac_one_recorded_near_lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/iqtopr/about_that_tictac_one_recorded_near_lake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO Isn&#x27;t Lockheed Martin tech? David Fravor.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ia600600.us.archive.org  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialSome individuals became consumed with UFOs, and by the early 1950s the first UFO organizat...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialSome individuals became consumed with UFOs, and by the early 1950s the first UFO organizat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
    Title: 9704 ten alien encounters debunked  
-   Link: <a href="https://www.space.com/9704-ten-alien-encounters-debunked.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/9704-ten-alien-encounters-debunked.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten Alien Encounters Debunked1 May 2006 — here are 10 alleged alien encounters—those brushes with aliens (or supposed aliens) that have b...</p></details>
+   Link:<a href="https://www.space.com/9704-ten-alien-encounters-debunked.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/9704-ten-alien-encounters-debunked.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ten Alien Encounters Debunked1 May 2006 — here are 10 alleged alien encounters—those brushes with aliens (or supposed aliens) that have b...</p></details>
    Published: May 2006  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: governmentattic.org  
    Title: Government Attic An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byGonzales Ganteaume, Horacio. Platillos voladores sobt&#x27;e Venezuela. Caracas. 1961. 250 p. Account of authenticated UFO...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thenews.com.pk  
    Title: 1050987 venezuela china biden and extraterrestrials the disinformation of ai  
-   Link: <a href="https://www.thenews.com.pk/latest/1050987-venezuela-china-biden-and-extraterrestrials-the-disinformation-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1050987-venezuela-china-biden-and-extraterrestrials-the-disinformation-of-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mosqueira says it is not difficult to identify a fake video, but much tougher to...Read more...</p></details>
+   Link:<a href="https://www.thenews.com.pk/latest/1050987-venezuela-china-biden-and-extraterrestrials-the-disinformation-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1050987-venezuela-china-biden-and-extraterrestrials-the-disinformation-of-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mosqueira says it is not difficult to identify a fake video, but much tougher to...Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/904534244258187/posts/1467901064588166/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/904534244258187/posts/1467901064588166/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 unexplained ufo shapes reported worldwideCigar-shaped ufos spotted over europe and north america. World News Coverage ▻ UFO, Aliens, O...</p></details>
+   Link:<a href="https://www.facebook.com/groups/904534244258187/posts/1467901064588166/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/904534244258187/posts/1467901064588166/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 unexplained ufo shapes reported worldwideCigar-shaped ufos spotted over europe and north america. World News Coverage ▻ UFO, Aliens, O...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
+   Link:<a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dyatlovpass.codedcolor.com  
-   Link: <a href="https://dyatlovpass.codedcolor.com/files/Aviation%20Safety%20and%20UAPs%20%28NARCAP%202021%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dyatlovpass.codedcolor.com/files/Aviation%20Safety%20and%20UAPs%20%28NARCAP%202021%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Unidentified Aerial Phenomenaby DF Weinstein · 2012 · Cited by 6 — Smith, W., “On Pilots and UFOs”, UNICAT Project, Privately...</p></details>
+   Link:<a href="https://dyatlovpass.codedcolor.com/files/Aviation%20Safety%20and%20UAPs%20%28NARCAP%202021%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dyatlovpass.codedcolor.com/files/Aviation%20Safety%20and%20UAPs%20%28NARCAP%202021%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Unidentified Aerial Phenomenaby DF Weinstein · 2012 · Cited by 6 — Smith, W., “On Pilots and UFOs”, UNICAT Project, Privately...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: on december 22nd 1954 gustavo gonzales and jose ponce claimed to have witnessed  
-   Link: <a href="https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On December 22nd, 1954, Gustavo Gonzales and Jose...In Venezuela, at the time, the UFO subject was almost nonexistent. SOURCES Fantastic...</p></details>
+   Link:<a href="https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On December 22nd, 1954, Gustavo Gonzales and Jose...In Venezuela, at the time, the UFO subject was almost nonexistent. SOURCES Fantastic...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: toppodcast.com  
-   Link: <a href="https://toppodcast.com/podcast_feeds/our-strange-skies-ufos-throughout-history/" target="_blank" rel="noopener noreferrer nofollow">https://toppodcast.com/podcast_feeds/our-strange-skies-ufos-throughout-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Strange Skies explores the nooks and crannies of UFO history and lore, diving deep into UFO sightings, alien...Read more...</p></details>
+   Link:<a href="https://toppodcast.com/podcast_feeds/our-strange-skies-ufos-throughout-history/" target="_blank" rel="noopener noreferrer nofollow">https://toppodcast.com/podcast_feeds/our-strange-skies-ufos-throughout-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Strange Skies explores the nooks and crannies of UFO history and lore, diving deep into UFO sightings, alien...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: narcap.org  
    Title: unidentified aerial phenomena uap and international air safety reports  
-   Link: <a href="https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO” report to contact civilian UFO research groups and private businesses.... NARCAP International Technical Specialist Dominique Weins...</p></details>
+   Link:<a href="https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/unidentified-aerial-phenomena-uap-and-international-air-safety-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO” report to contact civilian UFO research groups and private businesses.... NARCAP International Technical Specialist Dominique Weins...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: i study ufos and i dont believe the alien hype heres why  
-   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I study UFOs – and I don&#x27;t believe the alien hype. Here&#x27;s why11 Jun 2021 — I study UFOs – and I don&#x27;t believe the alien hype. Here&#x27;s why...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I study UFOs – and I don&#x27;t believe the alien hype. Here&#x27;s why11 Jun 2021 — I study UFOs – and I don&#x27;t believe the alien hype. Here&#x27;s why...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs were real, but nothing could have prepared her for the events of...</p></details>
+   Link:<a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs were real, but nothing could have prepared her for the events of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iheart.com  
    Title: from curiosity to chaos the perils 311305251  
-   Link: <a href="https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Perils of Alien Abduction Attempts in 1954 Venezuela6 Dec 2025 — In this episode, we revisit the wild 1954 wave in Venezuela, where a...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Perils of Alien Abduction Attempts in 1954 Venezuela6 Dec 2025 — In this episode, we revisit the wild 1954 wave in Venezuela, where a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/creepyacres/posts/south-america-is-rife-with-tales-of-otherworldly-beings-and-strange-inhuman-visi/932868738231352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/creepyacres/posts/south-america-is-rife-with-tales-of-otherworldly-beings-and-strange-inhuman-visi/932868738231352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories of small hairy humanoids aren&#x27;t relegated solely to South...</p></details>
+   Link:<a href="https://www.facebook.com/creepyacres/posts/south-america-is-rife-with-tales-of-otherworldly-beings-and-strange-inhuman-visi/932868738231352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/creepyacres/posts/south-america-is-rife-with-tales-of-otherworldly-beings-and-strange-inhuman-visi/932868738231352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories of small hairy humanoids aren&#x27;t relegated solely to South...</p></details>

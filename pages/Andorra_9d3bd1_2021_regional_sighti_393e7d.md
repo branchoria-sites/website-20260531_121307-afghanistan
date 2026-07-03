@@ -248,14 +248,14 @@ image: /assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-1-
 
 ## Introduction
 
-The clearest recent UFO-linked event involving Andorra was not really an “Andorran case” at all. It was a wider regional sighting reported across southern France in November 2021, with observers in Andorra describing the same bright object seen from multiple points around the eastern Pyrenees and Mediterranean coast. That distinction matters because it reflects how Andorra usually enters the UFO record: as one observation point within larger cross-border sky events rather than as the centre of a standalone investigation. Reports from Montpellier, Sète, Narbonne, Perpignan and Andorra all appeared within the same short time window, creating a rare modern example where Andorra was explicitly included in a broader regional sighting map. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">UFO spotted repeatedly in the sky above southern France</span><span class="citation-popover-snippet">UFO spotted repeatedly in the sky above southern FranceNovember 12, 2021 — 12 Nov 2021 — A UFO (objet volant non identifié...</span><span class="citation-popover-meta">Published: November 12, 2021</span></span></span>
+The clearest recent UFO-linked event involving Andorra was not really an “Andorran case” at all. It was a wider regional sighting reported across southern France in November 2021, with observers in Andorra describing the same bright object seen from multiple points around the eastern Pyrenees and Mediterranean coast. That distinction matters because it reflects how Andorra usually enters the UFO record: as one observation point within larger cross-border sky events rather than as the centre of a standalone investigation. Reports from Montpellier, Sète, Narbonne, Perpignan and Andorra all appeared within the same short time window, creating a rare modern example where Andorra was explicitly included in a broader regional sighting map.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">UFO spotted repeatedly in the sky above southern France</span><span class="citation-popover-snippet">UFO spotted repeatedly in the sky above southern FranceNovember 12, 2021 — 12 Nov 2021 — A UFO (objet volant non identifié...</span><span class="citation-popover-meta">Published: November 12, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-1-dark.svg" | relative_url }}" alt="2021 Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The event also became a useful case study in how modern UFO stories evolve. Initial reports treated the object as unexplained. Videos spread rapidly through local social media and weather-monitoring accounts. Within days, however, the incident shifted from “mystery object” to probable staged spectacle after French prankster Rémi Gaillard claimed responsibility for the effect. Even so, the Andorra angle remains important because it demonstrates the geographical problem investigators face in the Pyrenees: a luminous object seen at altitude over southern France can easily appear visible from Andorra, Catalonia and multiple French departments at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">ufo spotted above occitanie is the work of french prankster</span><span class="citation-popover-snippet">Read more:UFO...Read more...</span></span></span>
+The event also became a useful case study in how modern UFO stories evolve. Initial reports treated the object as unexplained. Videos spread rapidly through local social media and weather-monitoring accounts. Within days, however, the incident shifted from “mystery object” to probable staged spectacle after French prankster Rémi Gaillard claimed responsibility for the effect. Even so, the Andorra angle remains important because it demonstrates the geographical problem investigators face in the Pyrenees: a luminous object seen at altitude over southern France can easily appear visible from Andorra, Catalonia and multiple French departments at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">ufo spotted above occitanie is the work of french prankster</span><span class="citation-popover-snippet">Read more:UFO...Read more...</span></span></span>
 
 ## What Witnesses Reported Across the Region
 
-The main wave of reports began on the evening of 9 November 2021. Witnesses described a bright elongated object, sometimes compared to a glowing rectangle or “tic-tac”, moving silently through the sky above Occitanie in southern France. Some videos appeared to show the object rotating or tilting while maintaining a strong white glow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
+The main wave of reports began on the evening of 9 November 2021. Witnesses described a bright elongated object, sometimes compared to a glowing rectangle or “tic-tac”, moving silently through the sky above Occitanie in southern France. Some videos appeared to show the object rotating or tilting while maintaining a strong white glow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
 
 The most repeated viewing locations included:
 
@@ -267,13 +267,13 @@ The most repeated viewing locations included:
 * Cournonterral
 * Narbonne
 * Perpignan
-* Andorra <span class="citation-chip-wrap"><a class="citation-chip" href="https://heinonline.org/kbart2/HEINONLINE_intyb.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heinonline.org">[heinonline.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heinonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Andorra<span class="citation-chip-wrap"><a class="citation-chip" href="https://heinonline.org/kbart2/HEINONLINE_intyb.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heinonline.org">[heinonline.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heinonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
-Local weather-focused social media accounts helped amplify the reports by reposting footage and collecting eyewitness claims from different towns. One widely shared message stated that similar observations had also been reported from Andorra, placing the principality inside the same observation corridor as the French Mediterranean coast and the eastern Pyrenees. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">UFO spotted repeatedly in the sky above southern France</span><span class="citation-popover-snippet">UFO spotted repeatedly in the sky above southern FranceNovember 12, 2021 — 12 Nov 2021 — A UFO (objet volant non identifié...</span><span class="citation-popover-meta">Published: November 12, 2021</span></span></span>
+Local weather-focused social media accounts helped amplify the reports by reposting footage and collecting eyewitness claims from different towns. One widely shared message stated that similar observations had also been reported from Andorra, placing the principality inside the same observation corridor as the French Mediterranean coast and the eastern Pyrenees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">UFO spotted repeatedly in the sky above southern France</span><span class="citation-popover-snippet">UFO spotted repeatedly in the sky above southern FranceNovember 12, 2021 — 12 Nov 2021 — A UFO (objet volant non identifié...</span><span class="citation-popover-meta">Published: November 12, 2021</span></span></span>
 
-That regional spread was the most unusual feature of the case. Many UFO reports are isolated to a single observer or small area. Here, however, the narrative quickly became multinational in a limited Pyrenean sense: French witnesses and at least some Andorra-linked reports appeared to describe the same luminous object within a comparable timeframe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">ufo spotted above occitanie is the work of french prankster</span><span class="citation-popover-snippet">Read more:UFO...Read more...</span></span></span>
+That regional spread was the most unusual feature of the case. Many UFO reports are isolated to a single observer or small area. Here, however, the narrative quickly became multinational in a limited Pyrenean sense: French witnesses and at least some Andorra-linked reports appeared to describe the same luminous object within a comparable timeframe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">ufo spotted above occitanie is the work of french prankster</span><span class="citation-popover-snippet">Read more:UFO...Read more...</span></span></span>
 
 The videos themselves were visually striking but evidentially weak. Most clips were short, filmed at night, and lacked reliable metadata such as exact compass direction, elevation angle or stable timestamps. This made triangulation difficult. Without synchronised observational data, investigators could not easily determine altitude, speed or distance.
 
@@ -283,7 +283,7 @@ That uncertainty is common in regional UFO episodes. A bright nearby drone can a
 
 The 2021 event fits a broader pattern in Andorra-related UFO reporting: the principality functions more as a peripheral observation site than as an investigative centre.
 
-Unlike France, Andorra does not maintain a dedicated public UFO investigation body. France’s GEIPAN, operated within the national space agency CNES, collects and analyses reports of unidentified aerospace phenomena and publishes investigation files online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span>
+Unlike France, Andorra does not maintain a dedicated public UFO investigation body. France’s GEIPAN, operated within the national space agency CNES, collects and analyses reports of unidentified aerospace phenomena and publishes investigation files online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span>
 
 Because Andorra lacks a comparable infrastructure, unusual aerial reports connected to the country usually enter the record indirectly through:
 
@@ -297,7 +297,7 @@ Because Andorra lacks a comparable infrastructure, unusual aerial reports connec
 
 </div>
 
-The November 2021 sighting illustrates this perfectly. The core reporting ecosystem was French. The strongest surviving documentation came from French-language local accounts and French press coverage, not from Andorran authorities or institutions. Andorra appeared mainly as an additional witness location extending the object’s reported visibility range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
+The November 2021 sighting illustrates this perfectly. The core reporting ecosystem was French. The strongest surviving documentation came from French-language local accounts and French press coverage, not from Andorran authorities or institutions. Andorra appeared mainly as an additional witness location extending the object’s reported visibility range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
 
 That geographical role is important for understanding UFO claims in the Pyrenees more generally. The region naturally produces cross-border sightings because:
 
@@ -317,7 +317,7 @@ The 2021 case therefore tells researchers less about a uniquely Andorran mystery
 <img src="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-2-dark.svg" | relative_url }}" alt="2021 Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Story Shifted From Mystery to Probable Hoax
 
-The most dramatic development came several days after the first reports. French media later reported that the sightings were linked to a prank organised by entertainer Rémi Gaillard in collaboration with the weather account Météo Gard-Hérault. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
+The most dramatic development came several days after the first reports. French media later reported that the sightings were linked to a prank organised by entertainer Rémi Gaillard in collaboration with the weather account Météo Gard-Hérault.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
 
 According to follow-up reporting, the glowing object was part of a staged operation intended to generate viral attention. This substantially changed how investigators and sceptical observers interpreted the earlier footage.
 
@@ -333,7 +333,7 @@ Several aspects of the original reports already pointed toward a conventional ex
 
 </div>
 
-Online sceptical forums rapidly focused on the drone possibility. Some analysts argued that the object’s apparent shape and movement were consistent with LED-equipped drones filmed out of focus at night. Others noted that claims of sightings over very large distances, including Andorra, were difficult to verify independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/hoax-glowing-tic-tac-ufo-in-southern-france-possibly-a-drone.12125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">There are 4 videos from 11/9, one from last night, 11/11.Read more</span><span class="citation-popover-snippet">Metabunk[HOAX] &quot;Glowing Tic-TaC&quot; UFO in southern France...12 Nov 2021 — A UFO has been reported by several witnesses in the region of Mo...</span></span></span>
+Online sceptical forums rapidly focused on the drone possibility. Some analysts argued that the object’s apparent shape and movement were consistent with LED-equipped drones filmed out of focus at night. Others noted that claims of sightings over very large distances, including Andorra, were difficult to verify independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/hoax-glowing-tic-tac-ufo-in-southern-france-possibly-a-drone.12125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">There are 4 videos from 11/9, one from last night, 11/11.Read more</span><span class="citation-popover-snippet">Metabunk[HOAX] &quot;Glowing Tic-TaC&quot; UFO in southern France...12 Nov 2021 — A UFO has been reported by several witnesses in the region of Mo...</span></span></span>
 
 Even after the prank explanation emerged, however, uncertainty remained around whether every reported sighting belonged to the same staged event. In fast-moving UFO stories, later witnesses sometimes reinterpret unrelated lights or aircraft as part of the original phenomenon once media attention grows. This contamination effect is common in mass-sighting episodes.
 
@@ -349,7 +349,7 @@ That means the final explanation may involve several layers:
 
 </div>
 
-From an evidence perspective, the strongest conclusion is therefore narrower than many UFO discussions suggest. The available reporting supports the existence of a widely discussed luminous object event in southern France with Andorra included among reported viewing locations. It does not support strong claims about extraordinary craft or unexplained aerospace technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
+From an evidence perspective, the strongest conclusion is therefore narrower than many UFO discussions suggest. The available reporting supports the existence of a widely discussed luminous object event in southern France with Andorra included among reported viewing locations. It does not support strong claims about extraordinary craft or unexplained aerospace technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
 
 ## Why the Case Still Matters for Andorra’s UFO Record
 
@@ -357,7 +357,7 @@ Even as a probable hoax or misidentification episode, the 2021 sighting remains 
 
 Its importance comes from three factors.
 
-First, the case generated identifiable geography. Many Andorra UFO references online are vague, recycled or impossible to trace. The 2021 event, by contrast, tied Andorra to a dated and regionally documented observation wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
+First, the case generated identifiable geography. Many Andorra UFO references online are vague, recycled or impossible to trace. The 2021 event, by contrast, tied Andorra to a dated and regionally documented observation wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-snippet">UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</span></span></span>
 
 Second, it demonstrated how quickly modern UFO claims spread through hybrid networks of local media, weather accounts, social platforms and amateur investigators. Traditional UFO organisations were not driving the story at first; social circulation was.
 
@@ -373,201 +373,201 @@ Third, the case exposed the evidential weaknesses common to many contemporary si
 
 </div>
 
-These weaknesses explain why official bodies such as GEIPAN emphasise methodical classification rather than sensational conclusions. GEIPAN states that only a small minority of French cases remain unidentified after investigation, and even those unresolved cases are not treated as proof of extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span>
+These weaknesses explain why official bodies such as GEIPAN emphasise methodical classification rather than sensational conclusions. GEIPAN states that only a small minority of French cases remain unidentified after investigation, and even those unresolved cases are not treated as proof of extraterrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span>
 
 For Andorra specifically, the 2021 incident reinforces a recurring pattern. The principality’s UFO role is usually regional and observational rather than institutional. When unusual aerial events occur over the Pyrenees, Andorra can become part of the witness map because of geography, dark skies and cross-border visibility — not necessarily because the phenomenon originated there.
 
 <img src="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-3-dark.svg" | relative_url }}" alt="2021 Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_2021_regional_sighti_393e7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Andorra Part of a Wider 2021 UFO Event?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Andorra Part of a Wider 2021 UFO Event?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding witness reports and case classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness reports and case classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page about evaluating a modern regional sighting with multiple witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about evaluating a modern regional sighting with multiple witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines evidence assessment for unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence assessment for unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how unusual aerial reports spread across regions and cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual aerial reports spread across regions and cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andorra National Country Different Sizes Flags Iron On Patch Embroidered Badge"><img src="https://i.ebayimg.com/images/g/JUkAAeSwdh5oiKu-/s-l225.jpg" alt="Listing image for Andorra National Country Different Sizes Flags Iron On Patch Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">Andorra National Country Different Sizes Flags Iron On Patch Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andorra National Country Different Sizes Flags Iron On Patch Embroidered Badge"><img src="https://i.ebayimg.com/images/g/JUkAAeSwdh5oiKu-/s-l225.jpg" alt="Listing image for Andorra National Country Different Sizes Flags Iron On Patch Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">Andorra National Country Different Sizes Flags Iron On Patch Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Capital Cities Shield Embroidered Patches By Country"><img src="https://i.ebayimg.com/images/g/AIYAAOSwZcxdprbk/s-l225.jpg" alt="Listing image for World Capital Cities Shield Embroidered Patches By Country" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">World Capital Cities Shield Embroidered Patches By Country</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Capital Cities Shield Embroidered Patches By Country"><img src="https://i.ebayimg.com/images/g/AIYAAOSwZcxdprbk/s-l225.jpg" alt="Listing image for World Capital Cities Shield Embroidered Patches By Country" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">World Capital Cities Shield Embroidered Patches By Country</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andorra Flag Embroidered Patch Iron/Sew On Patch For Clothes"><img src="https://i.ebayimg.com/images/g/yYoAAOSwJeBmn2ls/s-l225.jpg" alt="Listing image for Andorra Flag Embroidered Patch Iron/Sew On Patch For Clothes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">Andorra Flag Embroidered Patch Iron/Sew On Patch For Clothes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andorra Flag Embroidered Patch Iron/Sew On Patch For Clothes"><img src="https://i.ebayimg.com/images/g/yYoAAOSwJeBmn2ls/s-l225.jpg" alt="Listing image for Andorra Flag Embroidered Patch Iron/Sew On Patch For Clothes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">Andorra Flag Embroidered Patch Iron/Sew On Patch For Clothes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andorra Embroidered Patch"><img src="https://i.ebayimg.com/images/g/vp4AAOSwL9pelsl7/s-l225.jpg" alt="Listing image for Andorra Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">Andorra Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andorra Embroidered Patch"><img src="https://i.ebayimg.com/images/g/vp4AAOSwL9pelsl7/s-l225.jpg" alt="Listing image for Andorra Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">Andorra Embroidered Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Actually Known About Andorra patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Actually Known About Andorra patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Actually+Known+About+Andorra+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Actually Known About Andorra patch" data-ebay-reference="was-andorra-part-of-a-wider-2021-ufo-event-actually-known-about-andorra-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ For Andorra specifically, the 2021 incident reinforces a recurring pattern. The 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ For Andorra specifically, the 2021 incident reinforces a recurring pattern. The 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ For Andorra specifically, the 2021 incident reinforces a recurring pattern. The 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ For Andorra specifically, the 2021 incident reinforces a recurring pattern. The 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ For Andorra specifically, the 2021 incident reinforces a recurring pattern. The 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,103 +773,103 @@ For Andorra specifically, the 2021 incident reinforces a recurring pattern. The 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: connexionfrance.com  
    Title: UFO spotted repeatedly in the sky above southern France  
-   Link: <a href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted repeatedly in the sky above southern FranceNovember 12, 2021 — 12 Nov 2021 — A UFO (objet volant non identifié...</p></details>
+   Link:<a href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted repeatedly in the sky above southern FranceNovember 12, 2021 — 12 Nov 2021 — A UFO (objet volant non identifié...</p></details>
    Published: November 12, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: There are 4 videos from 11/9, one from last night, 11/11.Read more  
-   Link: <a href="https://www.metabunk.org/threads/hoax-glowing-tic-tac-ufo-in-southern-france-possibly-a-drone.12125/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hoax-glowing-tic-tac-ufo-in-southern-france-possibly-a-drone.12125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metabunk[HOAX] &quot;Glowing Tic-TaC&quot; UFO in southern France...12 Nov 2021 — A UFO has been reported by several witnesses in the region of Mo...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/hoax-glowing-tic-tac-ufo-in-southern-france-possibly-a-drone.12125/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hoax-glowing-tic-tac-ufo-in-southern-france-possibly-a-drone.12125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metabunk[HOAX] &quot;Glowing Tic-TaC&quot; UFO in southern France...12 Nov 2021 — A UFO has been reported by several witnesses in the region of Mo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: connexionfrance.com  
    Title: ufo spotted above occitanie is the work of french prankster  
-   Link: <a href="https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Read more:UFO...Read more...</p></details>
+   Link:<a href="https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/ufo-spotted-above-occitanie-is-the-work-of-french-prankster/420321</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read more:UFO...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</p></details>
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: connexionfrance.com  
-   Link: <a href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/tag/ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</p></details>
+   Link:<a href="https://www.connexionfrance.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/tag/ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UfoInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people have seen&#x27; · What was the mysterious glowing object spotted over French skies?Re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission &amp; Geipan | GEIPANSighting reports and investigation conclusions are published on the GEIPAN website (www.geipan.fr) while maintai...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mission &amp; Geipan | GEIPANSighting reports and investigation conclusions are published on the GEIPAN website (www.geipan.fr) while maintai...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: heinonline.org  
-   Link: <a href="https://heinonline.org/kbart2/HEINONLINE_intyb.csv" target="_blank" rel="noopener noreferrer nofollow">https://heinonline.org/kbart2/HEINONLINE_intyb.csv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and... Aliens in Foreign Countries&quot;,,,,,,,,,[https://heinonline.org/HOL/P...&quot;](https://heinonline.org/HOL/P...&quot;)...</p></details>
+   Link:<a href="https://heinonline.org/kbart2/HEINONLINE_intyb.csv" target="_blank" rel="noopener noreferrer nofollow">https://heinonline.org/kbart2/HEINONLINE_intyb.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and... Aliens in Foreign Countries&quot;,,,,,,,,,[https://heinonline.org/HOL/P...&quot;](https://heinonline.org/HOL/P...&quot;)...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/1345679132143633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/1345679132143633/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO warning sign in France, Remulak townNikola Henry ▻ ALL ABOUT ALIENS. 11y · Public · UFO sightings over southern France seems to be go...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/1345679132143633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/1345679132143633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO warning sign in France, Remulak townNikola Henry ▻ ALL ABOUT ALIENS. 11y · Public · UFO sightings over southern France seems to be go...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: this scientist revealed to joe rogan that a project stargate remote viewer found  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-scientist-revealed-to-joe-rogan-that-a-project-stargate-remote-viewer-found/1269887915142633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-scientist-revealed-to-joe-rogan-that-a-project-stargate-remote-viewer-found/1269887915142633/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This scientist revealed to Joe Rogan that a Project Stargate...Answer: GEIPAN is a unit of the French National Centre for Space Studies...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-scientist-revealed-to-joe-rogan-that-a-project-stargate-remote-viewer-found/1269887915142633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-scientist-revealed-to-joe-rogan-that-a-project-stargate-remote-viewer-found/1269887915142633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This scientist revealed to Joe Rogan that a Project Stargate...Answer: GEIPAN is a unit of the French National Centre for Space Studies...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/713598225/2023-01-The-Connexion" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/713598225/2023-01-The-Connexion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Once he has returned to reintroduced in the Pyrenees to preserve the tradition, but February 26 in Saint-...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/713598225/2023-01-The-Connexion" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/713598225/2023-01-The-Connexion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Once he has returned to reintroduced in the Pyrenees to preserve the tradition, but February 26 in Saint-...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t1KQQB2GDLU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hoax fools several French media • FRANCE 24 English... sightings of UFOs in several locations in the south of the country... UFO hoa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t1KQQB2GDLU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hoax fools several French media • FRANCE 24 English... sightings of UFOs in several locations in the south of the country... UFO hoa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/capturemovieslive/posts/675406007167575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/675406007167575/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disturbing UFO Activity! 3 UFOs Landing in Forest, July 2014 This...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/capturemovieslive/posts/675406007167575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/675406007167575/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disturbing UFO Activity! 3 UFOs Landing in Forest, July 2014 This...Read more...</p></details>
    Published: July 2014  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena“Flying saucers in France: A history of UFO sightings” (Gauldie, 2021)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena“Flying saucers in France: A history of UFO sightings” (Gauldie, 2021)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ilo.org  
    Title: Temporary labour migration towards social justice  
-   Link: <a href="https://www.ilo.org/sites/default/files/2025-02/Temporary%20labour%20migration%20-%20towards%20social%20justice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/sites/default/files/2025-02/Temporary%20labour%20migration%20-%20towards%20social%20justice.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>▶ Temporary labour migration: Towards social justice?allocations, as was the case between 2021 and 2023 with France vis-à-vis...</p></details>
+   Link:<a href="https://www.ilo.org/sites/default/files/2025-02/Temporary%20labour%20migration%20-%20towards%20social%20justice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/sites/default/files/2025-02/Temporary%20labour%20migration%20-%20towards%20social%20justice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>▶ Temporary labour migration: Towards social justice?allocations, as was the case between 2021 and 2023 with France vis-à-vis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: econstor.eu  
    Title: Taylor Francis 9781003288138  
-   Link: <a href="https://www.econstor.eu/bitstream/10419/281328/1/Taylor-Francis_9781003288138.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/281328/1/Taylor-Francis_9781003288138.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;. This landmark exhibition anticipated the current curatorial interest in participatory and critical education strategies. For Marcha...</p></details>
+   Link:<a href="https://www.econstor.eu/bitstream/10419/281328/1/Taylor-Francis_9781003288138.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/281328/1/Taylor-Francis_9781003288138.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;. This landmark exhibition anticipated the current curatorial interest in participatory and critical education strategies. For Marcha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The role of social media in spreading skywatching reports  
-   Link: <a href="https://www.youtube.com/watch?v=B4-sK7nKq5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B4-sK7nKq5o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying atmospheric and man-made objects in the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B4-sK7nKq5o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B4-sK7nKq5o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying atmospheric and man-made objects in the sky...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Analyzing light phenomena and night sky observations  
-   Link: <a href="https://www.youtube.com/watch?v=4p1F6W2nB98" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4p1F6W2nB98</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of social media in spreading skywatching reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4p1F6W2nB98" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4p1F6W2nB98</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of social media in spreading skywatching reports...</p></details>

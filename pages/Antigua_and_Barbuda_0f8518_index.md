@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /antigua-and-barbuda-0f8518-index/
 description: Focused pages that expand on Antigua and Barbuda.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Antigua_and_Barbuda_0f8518
 parent_title: Antigua and Barbuda
@@ -16,7 +16,7 @@ parent_permalink: /antigua-and-barbuda/
 
 # Explore Topics in Antigua and Barbuda
 
-The following pages expand on the main **[Antigua and Barbuda]({{ '/antigua-and-barbuda/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Antigua and Barbuda]({{ '/antigua-and-barbuda/' | relative_url }})** page and cover its key branches in.
 
 - [Air Station]({{ '/air-station/' | relative_url }})
 - [Sky Lights]({{ '/sky-lights/' | relative_url }})

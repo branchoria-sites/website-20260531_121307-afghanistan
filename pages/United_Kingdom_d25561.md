@@ -1199,19 +1199,19 @@ For readers trying to understand British UFO history, the key is not to ask whet
 <img src="{{ "/assets/images/United_Kingdom_d25561-overview.webp" | relative_url }}" alt="Overview image for United Kingdom" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Britain’s UFO record is unusually useful
 
-The UK’s UFO history is unusually accessible because official reporting began in the early Cold War, when unidentified aerial objects could plausibly mean foreign aircraft, secret technology, radar anomalies or public panic as much as anything extraterrestrial. The National Archives states that official reporting, analysis and recording of UFO sightings began in the early 1950s, although files up to 1967 were often destroyed under records policy. Surviving material sits across Air Ministry, Ministry of Defence and intelligence-related files, alongside later public correspondence and sighting logs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
+The UK’s UFO history is unusually accessible because official reporting began in the early Cold War, when unidentified aerial objects could plausibly mean foreign aircraft, secret technology, radar anomalies or public panic as much as anything extraterrestrial. The National Archives states that official reporting, analysis and recording of UFO sightings began in the early 1950s, although files up to 1967 were often destroyed under records policy. Surviving material sits across Air Ministry, Ministry of Defence and intelligence-related files, alongside later public correspondence and sighting logs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
 
-That archive matters because it shifts the UK subject away from pure anecdote. Many famous British cases can be checked against memos, parliamentary exchanges, technical reports and release notes. The National Archives’ UFO research guide points readers towards files on radar-visual cases, Air Ministry reporting procedures and later MoD sighting material, while the government’s own publication page lists UFO reports from 1997 to 2009 with dates, times, locations and short descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
+That archive matters because it shifts the UK subject away from pure anecdote. Many famous British cases can be checked against memos, parliamentary exchanges, technical reports and release notes. The National Archives’ UFO research guide points readers towards files on radar-visual cases, Air Ministry reporting procedures and later MoD sighting material, while the government’s own publication page lists UFO reports from 1997 to 2009 with dates, times, locations and short descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
 
-The archive also shows the limits of official interest. The MoD did not operate as a paranormal research body; it treated UFO reports as possible air-defence data. That distinction is crucial. A case could remain unexplained without becoming evidence of alien technology. Conversely, a report could be vivid and sincere but still be outside the MoD’s defence remit. In 2024, a parliamentary answer restated the current position clearly: the MoD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and says all files created up to 2009 have been released to The National Archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</span></span></span>
+The archive also shows the limits of official interest. The MoD did not operate as a paranormal research body; it treated UFO reports as possible air-defence data. That distinction is crucial. A case could remain unexplained without becoming evidence of alien technology. Conversely, a report could be vivid and sincere but still be outside the MoD’s defence remit. In 2024, a parliamentary answer restated the current position clearly: the MoD ceased investigating UFO or UAP reports in 2009, has not classified new material on the subject since, and says all files created up to 2009 have been released to The National Archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</span></span></span>
 
 ## The official arc: from Cold War vigilance to closure
 
-Britain’s official UFO interest rose from Cold War air-defence concerns. Early cases were often framed around radar, aircraft recognition and the possibility of Soviet technology rather than aliens. A National Archives research guide notes that the Joint Intelligence Committee looked at “aerial phenomena” during the 1950s, including after press reports of objects tracked by radars at RAF West Freugh in Scotland in April 1957. In that case, the Air Ministry told the JIC it could not explain four recent incidents, making West Freugh one of the more serious early British radar cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
+Britain’s official UFO interest rose from Cold War air-defence concerns. Early cases were often framed around radar, aircraft recognition and the possibility of Soviet technology rather than aliens. A National Archives research guide notes that the Joint Intelligence Committee looked at “aerial phenomena” during the 1950s, including after press reports of objects tracked by radars at RAF West Freugh in Scotland in April 1957. In that case, the Air Ministry told the JIC it could not explain four recent incidents, making West Freugh one of the more serious early British radar cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
 
-The later MoD “UFO desk” collected public and military reports, replied to correspondence, handled parliamentary interest and assessed whether sightings had defence significance. The released files contain not just sighting forms but also policy arguments, media handling and internal debate. David Clarke, a researcher closely associated with the National Archives releases, has described the files as containing around 11,000 sighting reports plus correspondence, parliamentary business and policy documents from MoD branches including the Directorate Air Staff and Defence Intelligence Staff. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">top 10 ufo documents at the national archives</span><span class="citation-popover-snippet">top 10 ufo documents at the national archives</span></span></span>
+The later MoD “UFO desk” collected public and military reports, replied to correspondence, handled parliamentary interest and assessed whether sightings had defence significance. The released files contain not just sighting forms but also policy arguments, media handling and internal debate. David Clarke, a researcher closely associated with the National Archives releases, has described the files as containing around 11,000 sighting reports plus correspondence, parliamentary business and policy documents from MoD branches including the Directorate Air Staff and Defence Intelligence Staff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">top 10 ufo documents at the national archives</span><span class="citation-popover-snippet">top 10 ufo documents at the national archives</span></span></span>
 
-The turning point came in 2009. The MoD shut its UFO desk and hotline after concluding the work served “no defence purpose” and diverted staff from more valuable defence activity. Sky News, reporting on the 2013 release of declassified files, quoted the rationale that the operation was taking staff away from other defence tasks; The National Archives’ final release material likewise records that UFO reports were no longer copied to DI55 from 2000 and that the UFO desk closed in November 2009. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
+The turning point came in 2009. The MoD shut its UFO desk and hotline after concluding the work served “no defence purpose” and diverted staff from more valuable defence activity. Sky News, reporting on the 2013 release of declassified files, quoted the rationale that the operation was taking staff away from other defence tasks; The National Archives’ final release material likewise records that UFO reports were no longer copied to DI55 from 2000 and that the UFO desk closed in November 2009.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">ufo desk why mod shut real life x files 10442364</span></span></span>
 
 This does not mean Britain “solved” every UFO case. It means the government judged that unresolved cases had not demonstrated a national-security threat requiring a dedicated reporting system. That distinction explains why many enthusiasts read the same files as evidence of official concern, while sceptics read them as evidence of bureaucratic triage.
 
@@ -1226,9 +1226,9 @@ PeriodCaseLocationWhy it mattersBest current assessment1957West Freugh radar inc
 <img src="{{ "/assets/images/United_Kingdom_d25561-Illustration-1-dark.svg" | relative_url }}" alt="United Kingdom illustration 1" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rendlesham Forest: Britain’s most durable contested case
 
-[Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest remains the UK’s flagship UFO incident because it combines military witnesses, official paperwork and a long afterlife of disputed details. The basic setting is well established: in December 1980, US Air Force personnel based at RAF Woodbridge and RAF Bentwaters in Suffolk reported strange lights near the forest. Lieutenant Colonel Charles Halt later wrote a memo to the British Ministry of Defence describing “unexplained lights” and related events; The National Archives highlights this as one of its key UFO documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
+[Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest remains the UK’s flagship UFO incident because it combines military witnesses, official paperwork and a long afterlife of disputed details. The basic setting is well established: in December 1980, US Air Force personnel based at RAF Woodbridge and RAF Bentwaters in Suffolk reported strange lights near the forest. Lieutenant Colonel Charles Halt later wrote a memo to the British Ministry of Defence describing “unexplained lights” and related events; The National Archives highlights this as one of its key UFO documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
 
-The case is powerful because it did not begin as a tabloid rumour. Servicemen investigated, Halt recorded audio, and the incident generated official correspondence. Recent reporting continues to stress why it endures: multiple military witnesses, claims of physical traces, radiation readings and sharply differing witness accounts have kept it alive for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
+The case is powerful because it did not begin as a tabloid rumour. Servicemen investigated, Halt recorded audio, and the incident generated official correspondence. Recent reporting continues to stress why it endures: multiple military witnesses, claims of physical traces, radiation readings and sharply differing witness accounts have kept it alive for decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
 
 The problem is that Rendlesham also illustrates how UFO cases grow. Later accounts added details not present in earlier statements, including more elaborate claims of contact with a craft. Sceptical explanations have focused on misidentified lights, the nearby Orfordness lighthouse, stars, aircraft, patrol confusion and memory distortion. The strongest version of the case is therefore narrower than the most dramatic version: something unusual was reported by military personnel and documented, but the evidence does not establish extraterrestrial origin.
 
@@ -1236,11 +1236,11 @@ Rendlesham is best classified as **contested and partly documented**. It is not 
 
 ## Calvine: the photograph that sharpened the evidence problem
 
-The [Calvine]({{ 'calvine/' | relative_url }}) case is different from Rendlesham because it turns on an image. In August 1990, two people near Calvine in Perthshire reportedly saw a diamond-shaped object, photographed it and passed the material through press and military channels. The story became famous because the alleged photographs disappeared from public view and because one surviving print, held by former RAF press officer Craig Lindsay, later emerged through the work of David Clarke and Sheffield Hallam researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
+The [Calvine]({{ 'calvine/' | relative_url }}) case is different from Rendlesham because it turns on an image. In August 1990, two people near Calvine in Perthshire reportedly saw a diamond-shaped object, photographed it and passed the material through press and military channels. The story became famous because the alleged photographs disappeared from public view and because one surviving print, held by former RAF press officer Craig Lindsay, later emerged through the work of David Clarke and Sheffield Hallam researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
 
-The surviving image is intriguing because it is not merely a verbal report. Photographic analysis by Andrew Robinson at Sheffield Hallam examined the 10-by-8 inch print donated by Lindsay. The analysis treated the print as a real photograph of a scene before the camera, while not ruling out staging or other explanations. That is an important distinction: a genuine photograph is not automatically a genuine unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Robinson Photographic Analysis Version5(Vo R</span><span class="citation-popover-snippet">Robinson Photographic Analysis Version5(Vo R</span></span></span>
+The surviving image is intriguing because it is not merely a verbal report. Photographic analysis by Andrew Robinson at Sheffield Hallam examined the 10-by-8 inch print donated by Lindsay. The analysis treated the print as a real photograph of a scene before the camera, while not ruling out staging or other explanations. That is an important distinction: a genuine photograph is not automatically a genuine unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">Robinson Photographic Analysis Version5(Vo R</span><span class="citation-popover-snippet">Robinson Photographic Analysis Version5(Vo R</span></span></span>
 
-Calvine now has three broad interpretations. One is the extraordinary reading: that the image shows an unknown craft, possibly non-human. Another is the defence-technology reading: that it might have captured a classified aircraft or platform. A third is the sceptical reading: that the apparent object may be a hoax, reflection, suspended model or staged scene. The Guardian’s detailed 2025 account reported that the original witnesses have still not come forward publicly, leaving a major evidential gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
+Calvine now has three broad interpretations. One is the extraordinary reading: that the image shows an unknown craft, possibly non-human. Another is the defence-technology reading: that it might have captured a classified aircraft or platform. A third is the sceptical reading: that the apparent object may be a hoax, reflection, suspended model or staged scene. The Guardian’s detailed 2025 account reported that the original witnesses have still not come forward publicly, leaving a major evidential gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</span></span></span>
 
 Calvine is best classified as **unresolved but not self-proving**. It is one of the UK’s most interesting photographic cases precisely because it resists easy dismissal while also lacking the witness access and original negative chain that would be needed for a much stronger conclusion.
 
@@ -1250,9 +1250,9 @@ Calvine is best classified as **unresolved but not self-proving**. It is one of 
 
 Welsh UFO history has two of Britain’s most memorable regional clusters: Berwyn Mountain in 1974 and the Broad Haven or “Welsh Triangle” reports of 1977. Together they show how the UK record varies by region. Wales has produced not just isolated sightings, but community-level stories in which schools, hotels, police, MPs, local press and folklore all become part of the case.
 
-Berwyn Mountain is the cleaner case evidentially because the main “crash” narrative has a strong conventional explanation. On 23 January 1974, people in North Wales reported a loud noise and lights. Later accounts turned the episode into the “Welsh Roswell”, with claims of a crashed craft and military retrieval. But the strongest scientific explanation combines an earthquake with a bright meteor seen over Wales and northern England. The incident is now a good example of how two real events can merge into a UFO legend: a ground tremor supplies the “impact”, while a meteor supplies the “object”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Berwyn Mountain UFO incident</span><span class="citation-popover-snippet">Berwyn Mountain UFO incident</span></span></span>
+Berwyn Mountain is the cleaner case evidentially because the main “crash” narrative has a strong conventional explanation. On 23 January 1974, people in North Wales reported a loud noise and lights. Later accounts turned the episode into the “Welsh Roswell”, with claims of a crashed craft and military retrieval. But the strongest scientific explanation combines an earthquake with a bright meteor seen over Wales and northern England. The incident is now a good example of how two real events can merge into a UFO legend: a ground tremor supplies the “impact”, while a meteor supplies the “object”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Berwyn Mountain UFO incident</span><span class="citation-popover-snippet">Berwyn Mountain UFO incident</span></span></span>
 
-Broad Haven is harder to reduce to one physical explanation because it was a wave of reports rather than a single event. In 1977, children at Broad Haven Primary School in Pembrokeshire reported seeing a craft; local adults also reported strange objects and figures during the wider West Wales flap. One reason the case remains memorable is that the headteacher reportedly asked children to draw what they saw separately, producing similar drawings. But the case also developed in a high-media environment, and later analysis has emphasised peer influence, press attention and the contagious nature of school and community sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Broad Haven is harder to reduce to one physical explanation because it was a wave of reports rather than a single event. In 1977, children at Broad Haven Primary School in Pembrokeshire reported seeing a craft; local adults also reported strange objects and figures during the wider West Wales flap. One reason the case remains memorable is that the headteacher reportedly asked children to draw what they saw separately, producing similar drawings. But the case also developed in a high-media environment, and later analysis has emphasised peer influence, press attention and the contagious nature of school and community sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fourcornersbooks.co.uk">[Four Corners Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fourcornersbooks.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a UK-wide reader, the [Welsh cases]({{ 'welsh-cases/' | relative_url }}) matter because they show two different evidence pathways. Berwyn demonstrates how later UFO claims can harden around a misread natural event. Broad Haven demonstrates how sincere witness testimony can become culturally powerful even when physical evidence remains weak.
 
@@ -1260,7 +1260,7 @@ For a UK-wide reader, the [Welsh cases]({{ 'welsh-cases/' | relative_url }}) mat
 
 Scotland’s role in the UK UFO record is unusually varied. West Freugh gives Scotland one of Britain’s strongest early radar cases. Calvine gives it perhaps the most discussed British UFO photograph. Bonnybridge, meanwhile, has become a popular-culture “hotspot” often reported as having unusually high sighting claims, although such hotspot claims are difficult to compare because reporting habits, publicity and population patterns strongly affect the numbers.
 
-West Freugh is especially important because it belongs to the Cold War technical record rather than the later celebrity UFO circuit. The case involved unusual radar observations near an RAF bombing range in April 1957 and was serious enough to be noted in Air Ministry and Joint Intelligence Committee contexts. David Clarke’s National Archives guide lists the West Freugh Air Intelligence report among the top archival UFO documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
+West Freugh is especially important because it belongs to the Cold War technical record rather than the later celebrity UFO circuit. The case involved unusual radar observations near an RAF bombing range in April 1957 and was serious enough to be noted in Air Ministry and Joint Intelligence Committee contexts. David Clarke’s National Archives guide lists the West Freugh Air Intelligence report among the top archival UFO documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
 
 Calvine represents the opposite end of the evidence spectrum: not radar plots but a single famous image and a missing-witness problem. It is valuable because it forces a higher standard of analysis. A photograph may be more impressive than a memory, but without original negatives, full provenance and accessible witnesses, it still cannot carry the full weight of proof.
 
@@ -1270,7 +1270,7 @@ The broader lesson from Scotland is that “hotspot” language should be used c
 
 England’s UFO record is shaped by two overlapping factors: population density and military infrastructure. London, the Midlands, East Anglia and western Britain naturally generate many reports because more people are watching the sky, driving at night, using phones and living near airports or flight paths. But England also contains many RAF-related locations, US-used Cold War bases and low-flying military areas, which complicate witness interpretation.
 
-Rendlesham is the best-known example because it occurred near RAF Woodbridge and RAF Bentwaters, both used by US forces. The Cosford/Shawbury reports of March 1993 are another major English case. Witnesses across western Britain reported large triangular objects or lights, with some accounts involving police or military personnel. Nick Pope, who worked on the MoD UFO desk in the early 1990s, has repeatedly described Cosford as one of the most significant cases from his tenure, although journalistic retellings vary in quality and sceptical explanations have been proposed for parts of the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whatdotheyknow.com/request/the_1993_cosford_ufo_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">the 1993 cosford ufo incident</span><span class="citation-popover-snippet">the 1993 cosford ufo incident</span></span></span>
+Rendlesham is the best-known example because it occurred near RAF Woodbridge and RAF Bentwaters, both used by US forces. The Cosford/Shawbury reports of March 1993 are another major English case. Witnesses across western Britain reported large triangular objects or lights, with some accounts involving police or military personnel. Nick Pope, who worked on the MoD UFO desk in the early 1990s, has repeatedly described Cosford as one of the most significant cases from his tenure, although journalistic retellings vary in quality and sceptical explanations have been proposed for parts of the wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whatdotheyknow.com/request/the_1993_cosford_ufo_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">the 1993 cosford ufo incident</span><span class="citation-popover-snippet">the 1993 cosford ufo incident</span></span></span>
 
 The “black triangle” pattern matters because it appears in many late 20th-century UFO reports, not only in the UK. It sits between several plausible categories: aircraft formations, re-entering space debris, secret aircraft speculation, misperceived lights and genuine unknowns. In Britain, triangle cases are especially difficult because the country has busy controlled airspace, many military flight corridors and a public imagination already shaped by stealth aircraft and science-fiction imagery.
 
@@ -1287,7 +1287,7 @@ This matters for cross-branch comparison within a UK project. A page on England,
 
 The UK record falls into three practical categories: confirmed ordinary causes, contested unresolved cases and claims that remain too weak to assess.
 
-**Confirmed or strongly explained cases** include many reports of meteors, aircraft, lanterns, satellites and astronomical objects. Berwyn Mountain is the best-known case where a spectacular UFO narrative can be strongly reinterpreted through natural events. Modern reporting also shows how new technology creates new UFO waves: BUFORA noted that 2019 produced over 1,000 sightings, with Starlink satellite launches responsible for many reports of lights moving across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed or strongly explained cases** include many reports of meteors, aircraft, lanterns, satellites and astronomical objects. Berwyn Mountain is the best-known case where a spectacular UFO narrative can be strongly reinterpreted through natural events. Modern reporting also shows how new technology creates new UFO waves: BUFORA noted that 2019 produced over 1,000 sightings, with Starlink satellite launches responsible for many reports of lights moving across the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Contested cases** include Rendlesham, Calvine, West Freugh and parts of Cosford. These are not all equal. West Freugh’s strength lies in radar context; Rendlesham’s in military witnesses and documents; Calvine’s in photographic analysis; Cosford’s in multiple witness reports over a wide area. None provides public proof of alien visitation, but each has enough structure to deserve more careful treatment than a casual “probably nothing”.
 
@@ -1297,7 +1297,7 @@ The UK record falls into three practical categories: confirmed ordinary causes, 
 
 ## Project Condign and the MoD’s technical interpretation
 
-Project Condign is central to any serious UK UFO page because it was the MoD’s most substantial internal study of unidentified aerial phenomena in the UK Air Defence Region. Conducted between 1997 and 2000 and later released after Freedom of Information requests, it reviewed a large body of reports and argued that many unexplained sightings could involve misidentifications or poorly understood atmospheric plasma phenomena rather than structured craft under intelligent control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Condign is central to any serious UK UFO page because it was the MoD’s most substantial internal study of unidentified aerial phenomena in the UK Air Defence Region. Conducted between 1997 and 2000 and later released after Freedom of Information requests, it reviewed a large body of reports and argued that many unexplained sightings could involve misidentifications or poorly understood atmospheric plasma phenomena rather than structured craft under intelligent control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The report is important but not definitive. It shows that parts of the defence establishment took UAP data seriously enough to commission technical analysis. It also shows how an official study can be controversial without being a cover-up. Its plasma hypothesis has been criticised as speculative, and the report was not a normal open scientific study with full peer review. Still, it undermines two simplistic claims at once: that the UK government never looked seriously at UFOs, and that serious official interest automatically implies extraterrestrial proof.
 
@@ -1309,7 +1309,7 @@ Regional variation in UK UFO reports does not necessarily mean some areas are be
 
 Urban areas produce more reports because more people are present. Airports, flight paths and drone activity increase the number of ambiguous lights. Rural and coastal areas may produce fewer witnesses but better dark-sky viewing, making meteors, satellites and military aircraft more striking. Military zones can create both real unusual observations and fertile ground for secret-aircraft speculation.
 
-Civilian databases also shape the map. BUFORA continues to receive reports and train investigators, while newer projects such as UFO Identified collate UK sightings from multiple sources after 2021. These are useful for modern pattern-spotting, but they are not the same as official defence files and must be read with caution because reporting sources, duplicate entries and public awareness affect the data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Civilian databases also shape the map. BUFORA continues to receive reports and train investigators, while newer projects such as UFO Identified collate UK sightings from multiple sources after 2021. These are useful for modern pattern-spotting, but they are not the same as official defence files and must be read with caution because reporting sources, duplicate entries and public awareness affect the data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A good UK regional reading therefore avoids simple “top hotspot” claims. London, Manchester or Birmingham may appear often because of population and air traffic. Bonnybridge or Warminster may loom large because of local reputation. Rendlesham and Calvine matter not because they represent statistical hotspots, but because they left unusually durable case records.
 
@@ -1334,17 +1334,17 @@ The least reliable material tends to be late, anonymous, over-dramatised or deta
 
 A fair UK assessment needs three separate boxes.
 
-**Confirmed:** Britain has confirmed records of UFO reports, official investigation, internal defence discussion and later declassification. It is also confirmed that the MoD operated reporting channels, closed them in 2009 and currently has no dedicated UFO/UAP investigation team. These are institutional facts, not claims about alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
+**Confirmed:** Britain has confirmed records of UFO reports, official investigation, internal defence discussion and later declassification. It is also confirmed that the MoD operated reporting channels, closed them in 2009 and currently has no dedicated UFO/UAP investigation team. These are institutional facts, not claims about alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</span></span></span>
 
 **Contested:** Rendlesham, Calvine, West Freugh and Cosford remain the main high-value contested cases. They have enough documentation or witness structure to stay interesting, but not enough public evidence to establish a definitive extraordinary explanation. They are best treated as unresolved case studies rather than proof-texts.
 
-**Debunked or strongly explained:** Berwyn Mountain is the leading example of a dramatic UK UFO legend that can be substantially explained through an earthquake and meteor combination. Many modern light trains are explained by Starlink satellites, and older orange-light waves often involved Chinese lanterns, aircraft or sky lanterns, depending on date and location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The UFO Files</span><span class="citation-popover-snippet">The UFO Files</span></span></span>
+**Debunked or strongly explained:** Berwyn Mountain is the leading example of a dramatic UK UFO legend that can be substantially explained through an earthquake and meteor combination. Many modern light trains are explained by Starlink satellites, and older orange-light waves often involved Chinese lanterns, aircraft or sky lanterns, depending on date and location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The UFO Files</span><span class="citation-popover-snippet">The UFO Files</span></span></span>
 
 This evidence split is more useful than asking whether one “believes” in UFOs. The UK record contains real reports, real documents, real misidentifications, real mysteries and real folklore. They do not all point in the same direction.
 
 ## The current UK position
 
-The UK government’s current stance is restrained: it does not run a dedicated UFO desk, does not say it is investigating new UAP cases, and says pre-2009 files have been released to The National Archives. That does not prevent pilots, police forces, civilian groups or members of the public from recording unusual observations, but it means modern UK sightings no longer flow into the same central MoD channel that shaped the historical archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</span></span></span>
+The UK government’s current stance is restrained: it does not run a dedicated UFO desk, does not say it is investigating new UAP cases, and says pre-2009 files have been released to The National Archives. That does not prevent pilots, police forces, civilian groups or members of the public from recording unusual observations, but it means modern UK sightings no longer flow into the same central MoD channel that shaped the historical archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</span></span></span>
 
 This has two consequences. First, the post-2009 record is more scattered. Researchers must look at civilian organisations, local police FOI releases, aviation data, satellite trackers, local press and social media rather than one official series. Second, modern cases are easier to misread because the sky has changed. Drones, satellite constellations, LED-lit aircraft, private aviation tracking gaps and re-entering space debris all create sightings that older investigators did not have to handle at the same scale.
 
@@ -1357,194 +1357,194 @@ The UK’s UFO record rewards careful reading. The strongest cases are not the l
 The most defensible conclusion is balanced: the United Kingdom has a serious, unusually well-preserved UFO history, but the public record does not confirm extraterrestrial visitation. It confirms something more grounded and, in some ways, more interesting: decades of people encountering ambiguous aerial phenomena, officials trying to decide whether any of it mattered for defence, researchers fighting for records, sceptics testing explanations, and local communities turning uncertainty into enduring national folklore.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Britain&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Britain&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Covers major British cases and government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major British cases and government investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explains how government and military UFO debates evolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how government and military UFO debates evolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides international context for official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides international context for official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Excellent overview of UK UFO history and official files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent overview of UK UFO history and official files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-britain-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-britain-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1560,7 +1560,7 @@ The most defensible conclusion is balanced: the United Kingdom has a serious, un
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1580,7 +1580,7 @@ The most defensible conclusion is balanced: the United Kingdom has a serious, un
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1612,7 +1612,7 @@ The most defensible conclusion is balanced: the United Kingdom has a serious, un
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1664,7 +1664,7 @@ The most defensible conclusion is balanced: the United Kingdom has a serious, un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1709,7 +1709,7 @@ The most defensible conclusion is balanced: the United Kingdom has a serious, un
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1747,239 +1747,238 @@ The most defensible conclusion is balanced: the United Kingdom has a serious, un
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</p></details>
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shura.shu.ac.uk  
    Title: Robinson Photographic Analysis Version5(Vo R)  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Berwyn Mountain UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berwyn_Mountain_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: whatdotheyknow.com  
    Title: the 1993 cosford ufo incident  
-   Link: <a href="https://www.whatdotheyknow.com/request/the_1993_cosford_ufo_incident" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/the_1993_cosford_ufo_incident</a>  
+   Link:<a href="https://www.whatdotheyknow.com/request/the_1993_cosford_ufo_incident" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/the_1993_cosford_ufo_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bufora.org.uk  
-   Link: <a href="https://www.bufora.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/</a>  
+   Link:<a href="https://www.bufora.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: British UFO Research Association  
-   Link: <a href="https://en.wikipedia.org/wiki/British_UFO_Research_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_UFO_Research_Association</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/British_UFO_Research_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/British_UFO_Research_Association</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shura.shu.ac.uk  
    Title: Clarke National Archives Research(AM)  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/16394/</a>  
+   Link:<a href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/16394/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
+   Link:<a href="https://archive.org/details/condign-vol" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsOfficial reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Def...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Flying Objects (UFOs)Following press reports of UFOs tracked by radars at. RAF West Freugh, Scotland, in Ap...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Flying Objects (UFOs)Following press reports of UFOs tracked by radars at. RAF West Freugh, Scotland, in Ap...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former UK Ministry of Defence employee who investigated UFOs, called Rendlesham “the perfect storm” of a case due to its mul...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/close-encounters-of-the-playground-kind/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bufora.org.uk  
-   Link: <a href="https://www.bufora.org.uk/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings</a>  
+   Link:<a href="https://www.bufora.org.uk/sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: bufora.org.uk  
    Title: ufo reports  
-   Link: <a href="https://www.bufora.org.uk/ufo-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/ufo-reports</a>  
+   Link:<a href="https://www.bufora.org.uk/ufo-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/ufo-reports</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: bufora.org.uk  
-   Link: <a href="https://www.bufora.org.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/research</a>  
+   Link:<a href="https://www.bufora.org.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/research</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: bufora.org.uk  
-   Link: <a href="https://www.bufora.org.uk/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/about</a>  
+   Link:<a href="https://www.bufora.org.uk/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/about</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/</a>  
+   Link:<a href="https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1394990547319969/posts/2959187267566948/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: last release mod ufo files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   Link:<a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: drdavidclarke.co.uk  
    Title: Seeing Sprites  
-   Link: <a href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: thesun.co.uk  
    Title: The Sun I tracked UFOs for govt for YEARS and I have 1st hand proof they're real  
-   Link: <a href="https://www.thesun.co.uk/news/37718387/ufo-expert-nick-pope/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37718387/ufo-expert-nick-pope/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pope also investigated other notable events like the 1990 Calvine incident—featuring clear photographs of a diamond-shaped UFO near a mil...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/37718387/ufo-expert-nick-pope/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37718387/ufo-expert-nick-pope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pope also investigated other notable events like the 1990 Calvine incident—featuring clear photographs of a diamond-shaped UFO near a mil...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2007 — UFO Reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting. Updates to t...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2007 — UFO Reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting. Updates to t...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files National Archives UFO file release August 2011 The National Archives UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files National Archives UFO file release August 2011 The National Archives UK...</p></details>
    Published: May 2008  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g46kdq/16_schoolchildren_witness_a_cigar_shaped_ufo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g46kdq/16_schoolchildren_witness_a_cigar_shaped_ufo_and/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g46kdq/16_schoolchildren_witness_a_cigar_shaped_ufo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g46kdq/16_schoolchildren_witness_a_cigar_shaped_ufo_and/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
+   Link:<a href="https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-nocturnal-report/exploring-the-berwyn-mountain-incident-c67bd81a2a3b</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2006/05/its-official-ufos-are-just-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/05/its-official-ufos-are-just-uaps</a>  
+   Link:<a href="https://www.wired.com/2006/05/its-official-ufos-are-just-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/05/its-official-ufos-are-just-uaps</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>
+   Link:<a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>

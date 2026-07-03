@@ -257,7 +257,7 @@ image: /assets/images/Portugal_a49519_modern_reports_misid_4e17a7-Illustration-1
 Modern Portuguese UFO reports are less a story about secret aircraft or extraterrestrial visitors than a story about how people interpret unusual things in increasingly crowded skies. Smartphones, social media, commercial drones, satellite megaconstellations and high-quality consumer cameras have dramatically increased the number of reported aerial anomalies across [Portugal]({{ 'portugals-ufo-files-mystery-memory-and/' | relative_url }}). At the same time, they have made it easier to identify many of them.
 
 <img src="{{ "/assets/images/Portugal_a49519_modern_reports_misid_4e17a7-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Portugal_a49519_modern_reports_misid_4e17a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519_modern_reports_misid_4e17a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every report is frivolous. Some Portuguese sightings still involve multiple witnesses, unusual apparent movements or observations that remain unresolved. But a striking pattern has emerged: many reports that initially circulate online as mysterious objects are eventually traced to satellites, rocket activity, aircraft lighting, atmospheric effects, astronomical objects or drones. The modern Portuguese UFO landscape is therefore best understood as a process of investigation and elimination rather than a growing catalogue of confirmed mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugalresident.com/ru/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[portugalresident.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-snippet">It was not a bird nor a plane. The unidentified flying object was a row of 60 Starlink...</span></span></span>
+This does not mean every report is frivolous. Some Portuguese sightings still involve multiple witnesses, unusual apparent movements or observations that remain unresolved. But a striking pattern has emerged: many reports that initially circulate online as mysterious objects are eventually traced to satellites, rocket activity, aircraft lighting, atmospheric effects, astronomical objects or drones. The modern Portuguese UFO landscape is therefore best understood as a process of investigation and elimination rather than a growing catalogue of confirmed mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugalresident.com/ru/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[portugalresident.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-snippet">It was not a bird nor a plane. The unidentified flying object was a row of 60 Starlink...</span></span></span>
 
 ## Smartphones, social media and the explosion of reports
 
@@ -265,7 +265,7 @@ Portugal's earlier UFO history depended on newspapers, local investigators and o
 
 That shift has changed both the volume and character of sightings. A bright object seen over Porto, Lisbon or the Algarve can generate hundreds of photographs before anyone checks satellite tracking data, flight paths or astronomical conditions. Social media also creates a feedback loop: once a sighting is framed as a UFO, witnesses often begin comparing experiences and reinforcing the idea that something extraordinary was present.
 
-Recent Portuguese cases show this pattern repeatedly. Reports emerge online, local media publish witness accounts, and only later do investigators attempt to match the observation against known objects. Organisations such as CIFA, the Centre for the Investigation of Aerospace Phenomena, frequently collect testimony before reaching conclusions. In many cases the event remains unidentified only briefly, not permanently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugalresident.com/ufo-sighted-over-porto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[portugalresident.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-title">ufo sighted over porto</span><span class="citation-popover-snippet">?11 Mar 2026 — An unidentified flying object (UFO) was sighted over Porto in the early hours of Wednesday morning. CIFA – the centre for...</span></span></span>
+Recent Portuguese cases show this pattern repeatedly. Reports emerge online, local media publish witness accounts, and only later do investigators attempt to match the observation against known objects. Organisations such as CIFA, the Centre for the Investigation of Aerospace Phenomena, frequently collect testimony before reaching conclusions. In many cases the event remains unidentified only briefly, not permanently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugalresident.com/ufo-sighted-over-porto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[portugalresident.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-title">ufo sighted over porto</span><span class="citation-popover-snippet">?11 Mar 2026 — An unidentified flying object (UFO) was sighted over Porto in the early hours of Wednesday morning. CIFA – the centre for...</span></span></span>
 
 The result is a modern reporting environment where apparent UFO waves can sometimes reflect communication speed more than unusual aerial activity. A phenomenon visible for a few minutes may produce dozens of independent uploads, creating the impression of a major incident even when the source is ultimately ordinary.
 
@@ -275,13 +275,13 @@ No single technology has generated more modern UFO confusion than SpaceX's Starl
 
 Shortly after launch, Starlink satellites travel in visible trains that can appear as lines of bright lights crossing the sky. To observers unfamiliar with satellite constellations, the formation can look artificial, coordinated and unlike conventional aircraft. Portugal has repeatedly experienced such reports.
 
-In April 2020, observers across the Lisbon region reported a chain of lights moving through the night sky. Social networks quickly filled with photographs and speculation. The explanation turned out to be a Starlink satellite train. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lisbob.net">[Lisbob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lisbob.net</span><span class="citation-popover-snippet">A strange streak of bright spots spotted in the Lisbon skyApril 22, 2020 — 22 Apr 2020 — Several witnesses took pictures of what ap...</span><span class="citation-popover-meta">Published: April 22, 2020</span></span></span>
+In April 2020, observers across the Lisbon region reported a chain of lights moving through the night sky. Social networks quickly filled with photographs and speculation. The explanation turned out to be a Starlink satellite train.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lisbob.net">[Lisbob]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lisbob.net</span><span class="citation-popover-snippet">A strange streak of bright spots spotted in the Lisbon skyApril 22, 2020 — 22 Apr 2020 — Several witnesses took pictures of what ap...</span><span class="citation-popover-meta">Published: April 22, 2020</span></span></span>
 
-More recently, reports from southern Portugal and the Algarve again generated UFO discussion before observers identified the objects as Starlink satellites. One Portuguese news report described a line of approximately sixty satellites moving across the sky, initially mistaken for an unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[portugalresident.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-snippet">Air Force alert for &#x27;UFO&#x27; – Portugal ResidentA strange object passed over the Portuguese night skies last week, causing many who saw it t...</span></span></span>
+More recently, reports from southern Portugal and the Algarve again generated UFO discussion before observers identified the objects as Starlink satellites. One Portuguese news report described a line of approximately sixty satellites moving across the sky, initially mistaken for an unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[portugalresident.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-snippet">Air Force alert for &#x27;UFO&#x27; – Portugal ResidentA strange object passed over the Portuguese night skies last week, causing many who saw it t...</span></span></span>
 
 The confusion is understandable because satellite visibility has changed rapidly during the last decade. People who spent years observing aircraft patterns may suddenly encounter long chains of moving lights that simply did not exist in previous eras.
 
-Research into aviation-related UFO reports has shown how convincing these observations can be. A 2024 study examining pilot reports demonstrated that newly launched Starlink formations were capable of producing sightings initially interpreted as anomalous aerial phenomena before orbital data reconstructed the true source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Research into aviation-related UFO reports has shown how convincing these observations can be. A 2024 study examining pilot reports demonstrated that newly launched Starlink formations were capable of producing sightings initially interpreted as anomalous aerial phenomena before orbital data reconstructed the true source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 ## Drones and the problem of distance estimation
 
@@ -315,7 +315,7 @@ These events often attract credibility because many witnesses see them simultane
 
 Meteor fireballs are a recurring example. Large meteors can produce intense brightness, fragmentation, colour changes and apparent manoeuvres caused by perspective effects. Witnesses frequently report that such objects slowed down, changed direction or hovered briefly before disappearing.
 
-Rocket launches and spacecraft-related events create another category of confusion. Fuel dumps, upper-stage activity and illuminated exhaust plumes can produce enormous glowing structures in the sky. International examples have repeatedly generated UFO reports before being identified as spaceflight-related phenomena. The same mechanisms can be visible from parts of Portugal depending on viewing conditions and orbital geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.ie/news/16030843/aliens-meteorologists-confirm-bright-light-ufo-onlookers-spooked/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-title">The Sun Exact moment &#x27;strange light&#x27; spotted flying across Irish sky</span><span class="citation-popover-snippet">The object, seen in locations such as Wexford, Donegal, Cork, Carlow, and Athlone, appeared to move slowly, with no noise, and was visibl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-snippet">The unusual light, described as a slow-moving object with no noise and distinctive illumination, was reported in multiple counties includ...</span></span></span>
+Rocket launches and spacecraft-related events create another category of confusion. Fuel dumps, upper-stage activity and illuminated exhaust plumes can produce enormous glowing structures in the sky. International examples have repeatedly generated UFO reports before being identified as spaceflight-related phenomena. The same mechanisms can be visible from parts of Portugal depending on viewing conditions and orbital geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.ie/news/16030843/aliens-meteorologists-confirm-bright-light-ufo-onlookers-spooked/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-title">The Sun Exact moment &#x27;strange light&#x27; spotted flying across Irish sky</span><span class="citation-popover-snippet">The object, seen in locations such as Wexford, Donegal, Cork, Carlow, and Athlone, appeared to move slowly, with no noise, and was visibl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-snippet">The unusual light, described as a slow-moving object with no noise and distinctive illumination, was reported in multiple counties includ...</span></span></span>
 
 The key point is that unusual appearance does not necessarily imply unusual origin. Modern aerospace activity produces visual effects that many people have never encountered before.
 
@@ -366,7 +366,7 @@ Investigators compare:
 
 </div>
 
-Many cases end at this stage because a plausible match appears quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Many cases end at this stage because a plausible match appears quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W1oWNPgipck" title="Meteor streaks across the sky over Spain and Portugal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W1oWNPgipck" target="_blank" rel="noopener noreferrer">Meteor streaks across the sky over Spain and Portugal</a></p><p class="youtube-embed-meta">Channel: CGTN &middot; Views: 2.1K &middot; Uploaded: May 2024 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W1oWNPgipck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W1oWNPgipck">Open on YouTube</a></p></div></div></div>
 
@@ -425,197 +425,197 @@ That framework helps explain why Portugal continues to generate UFO reports with
 
 The most revealing aspect of Portugal's modern UFO record is not that unexplained lights continue to appear. It is that many sightings demonstrate how difficult aerial identification can be under real-world conditions.
 
-A line of Starlink satellites can resemble a formation of unknown craft. A drone can appear enormous. A meteor can seem intelligent. A distant aircraft can appear stationary. A rocket fuel plume can look unlike anything most observers have ever seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lisbob.net">[Lisbob For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lisbob.net</span><span class="citation-popover-snippet">A strange streak of bright spots spotted in the Lisbon skyApril 22, 2020 — 22 Apr 2020 — Several witnesses took pictures of what ap...</span><span class="citation-popover-meta">Published: April 22, 2020</span></span></span>, modern Portuguese UFO investigations increasingly focus on verification rather than speculation. The central question is no longer whether people are seeing unusual things. They clearly are. The challenge is determining which reports reveal genuinely unexplained phenomena and which are products of a sky that has become more technologically crowded, more heavily photographed and more rapidly discussed than at any previous point in Portuguese history.
+A line of Starlink satellites can resemble a formation of unknown craft. A drone can appear enormous. A meteor can seem intelligent. A distant aircraft can appear stationary. A rocket fuel plume can look unlike anything most observers have ever seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lisbob.net">[Lisbob For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lisbob.net</span><span class="citation-popover-snippet">A strange streak of bright spots spotted in the Lisbon skyApril 22, 2020 — 22 Apr 2020 — Several witnesses took pictures of what ap...</span><span class="citation-popover-meta">Published: April 22, 2020</span></span></span>, modern Portuguese UFO investigations increasingly focus on verification rather than speculation. The central question is no longer whether people are seeing unusual things. They clearly are. The challenge is determining which reports reveal genuinely unexplained phenomena and which are products of a sky that has become more technologically crowded, more heavily photographed and more rapidly discussed than at any previous point in Portuguese history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Modern UFO Reports Often Collapse. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Modern UFO Reports Often Collapse. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how to separate genuine unknowns from ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to separate genuine unknowns from ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Demonstrates the challenge of identifying aerial anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the challenge of identifying aerial anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of higher-quality reports amid many weak cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of higher-quality reports amid many weak cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores cultural influences that shape UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cultural influences that shape UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-modern-ufo-reports-often-collapse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-modern-ufo-reports-often-collapse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ A line of Starlink satellites can resemble a formation of unknown craft. A drone
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ A line of Starlink satellites can resemble a formation of unknown craft. A drone
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ A line of Starlink satellites can resemble a formation of unknown craft. A drone
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -735,7 +735,7 @@ A line of Starlink satellites can resemble a formation of unknown craft. A drone
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -780,7 +780,7 @@ A line of Starlink satellites can resemble a formation of unknown craft. A drone
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -821,133 +821,133 @@ A line of Starlink satellites can resemble a formation of unknown craft. A drone
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/ru/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/ru/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It was not a bird nor a plane. The unidentified flying object was a row of 60 Starlink...</p></details>
+   Link:<a href="https://www.portugalresident.com/ru/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/ru/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was not a bird nor a plane. The unidentified flying object was a row of 60 Starlink...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: portugalresident.com  
    Title: ufo sighted over porto  
-   Link: <a href="https://www.portugalresident.com/ufo-sighted-over-porto/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/ufo-sighted-over-porto/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?11 Mar 2026 — An unidentified flying object (UFO) was sighted over Porto in the early hours of Wednesday morning. CIFA – the centre for...</p></details>
+   Link:<a href="https://www.portugalresident.com/ufo-sighted-over-porto/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/ufo-sighted-over-porto/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?11 Mar 2026 — An unidentified flying object (UFO) was sighted over Porto in the early hours of Wednesday morning. CIFA – the centre for...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lisbob.net  
-   Link: <a href="https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange streak of bright spots spotted in the Lisbon skyApril 22, 2020 — 22 Apr 2020 — Several witnesses took pictures of what ap...</p></details>
+   Link:<a href="https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.lisbob.net/en/blog/a-strange-streak-of-bright-spots-spotted-in-the-lisbon-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A strange streak of bright spots spotted in the Lisbon skyApril 22, 2020 — 22 Apr 2020 — Several witnesses took pictures of what ap...</p></details>
    Published: April 22, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force alert for &#x27;UFO&#x27; – Portugal ResidentA strange object passed over the Portuguese night skies last week, causing many who saw it t...</p></details>
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force alert for &#x27;UFO&#x27; – Portugal ResidentA strange object passed over the Portuguese night skies last week, causing many who saw it t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/residents-in-portugal-reported-seeing-a-ufo-hovering-silently-in-the-sky-at-firs/1610571974402769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/residents-in-portugal-reported-seeing-a-ufo-hovering-silently-in-the-sky-at-firs/1610571974402769/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>drones, or satellites typically seen in Portuguese airspace.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/residents-in-portugal-reported-seeing-a-ufo-hovering-silently-in-the-sky-at-firs/1610571974402769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/residents-in-portugal-reported-seeing-a-ufo-hovering-silently-in-the-sky-at-firs/1610571974402769/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drones, or satellites typically seen in Portuguese airspace.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Alleged UFO sighted in Portugal  
-   Link: <a href="https://www.facebook.com/PortugalNews/posts/alleged-ufo-sighted-in-portugal-for-the-full-article-click-the-link-in-comments-/1726744752046625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PortugalNews/posts/alleged-ufo-sighted-in-portugal-for-the-full-article-click-the-link-in-comments-/1726744752046625/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For the full article, click...On December 26, 2025, at approximately 19:00, an unidentified object was captured on camera over Portugal...</p></details>
+   Link:<a href="https://www.facebook.com/PortugalNews/posts/alleged-ufo-sighted-in-portugal-for-the-full-article-click-the-link-in-comments-/1726744752046625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PortugalNews/posts/alleged-ufo-sighted-in-portugal-for-the-full-article-click-the-link-in-comments-/1726744752046625/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For the full article, click...On December 26, 2025, at approximately 19:00, an unidentified object was captured on camera over Portugal...</p></details>
    Published: December 26, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1189359286044156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1189359286044156/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ipality of Esposende, on Sunday, and is being...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1189359286044156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1189359286044156/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ipality of Esposende, on Sunday, and is being...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mopays/posts/hello-i-just-caught-these-videos-on-camera-in-the-clear-sky-of-flic-en-flac-defi/1104035008427163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mopays/posts/hello-i-just-caught-these-videos-on-camera-in-the-clear-sky-of-flic-en-flac-defi/1104035008427163/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>es in the sky can sometimes be attributed to satellite flares or the ISS...</p></details>
+   Link:<a href="https://www.facebook.com/mopays/posts/hello-i-just-caught-these-videos-on-camera-in-the-clear-sky-of-flic-en-flac-defi/1104035008427163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mopays/posts/hello-i-just-caught-these-videos-on-camera-in-the-clear-sky-of-flic-en-flac-defi/1104035008427163/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es in the sky can sometimes be attributed to satellite flares or the ISS...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/madeiranewsblog/posts/unidentified-object-observed-in-the-skies-over-madeira-sparks-curiosityan-uniden/1442012804595974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/madeiranewsblog/posts/unidentified-object-observed-in-the-skies-over-madeira-sparks-curiosityan-uniden/1442012804595974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2025, at approximately 19:00, an unidentified object was captured on camera over Portugal, sparking curiosity after the foot...</p></details>
+   Link:<a href="https://www.facebook.com/madeiranewsblog/posts/unidentified-object-observed-in-the-skies-over-madeira-sparks-curiosityan-uniden/1442012804595974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/madeiranewsblog/posts/unidentified-object-observed-in-the-skies-over-madeira-sparks-curiosityan-uniden/1442012804595974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2025, at approximately 19:00, an unidentified object was captured on camera over Portugal, sparking curiosity after the foot...</p></details>
    Published: December 26, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A recent UFO sighting near Montijo, Portugal, has sparked...Authorities confirmed unusual radar signatures but offered no explanations...</p></details>
+   Link:<a href="https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A recent UFO sighting near Montijo, Portugal, has sparked...Authorities confirmed unusual radar signatures but offered no explanations...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thesun.ie  
    Title: The Sun Exact moment 'strange light' spotted flying across Irish sky  
-   Link: <a href="https://www.thesun.ie/news/16030843/aliens-meteorologists-confirm-bright-light-ufo-onlookers-spooked/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16030843/aliens-meteorologists-confirm-bright-light-ufo-onlookers-spooked/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object, seen in locations such as Wexford, Donegal, Cork, Carlow, and Athlone, appeared to move slowly, with no noise, and was visibl...</p></details>
+   Link:<a href="https://www.thesun.ie/news/16030843/aliens-meteorologists-confirm-bright-light-ufo-onlookers-spooked/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16030843/aliens-meteorologists-confirm-bright-light-ufo-onlookers-spooked/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object, seen in locations such as Wexford, Donegal, Cork, Carlow, and Athlone, appeared to move slowly, with no noise, and was visibl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thesun.ie  
-   Link: <a href="https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual light, described as a slow-moving object with no noise and distinctive illumination, was reported in multiple counties includ...</p></details>
+   Link:<a href="https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16032477/bright-light-in-sky-ireland-ufo-falcon9-spacex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual light, described as a slow-moving object with no noise and distinctive illumination, was reported in multiple counties includ...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.iheart.com  
    Title: 2026 03 16 puzzling ufo photographed in portugal  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2026-03-16-puzzling-ufo-photographed-in-portugal/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2026-03-16-puzzling-ufo-photographed-in-portugal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed in Portugal | iHeartRadio16 Mar 2026 — A peculiar picture from Portugal shows a puzzling UFO that left a group of witnes...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2026-03-16-puzzling-ufo-photographed-in-portugal/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2026-03-16-puzzling-ufo-photographed-in-portugal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed in Portugal | iHeartRadio16 Mar 2026 — A peculiar picture from Portugal shows a puzzling UFO that left a group of witnes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: poddtoppen.se  
-   Link: <a href="https://poddtoppen.se/podcast/1675743253/anomalous-podcast/12-ufo-sightings-in-45-minutes-unbelievable-uap-activity-in-portugal-full-analysis-raw-footage" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1675743253/anomalous-podcast/12-ufo-sightings-in-45-minutes-unbelievable-uap-activity-in-portugal-full-analysis-raw-footage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Analysis &amp; Raw Footage. Anomalous Podcast. Spela.Read more...</p></details>
+   Link:<a href="https://poddtoppen.se/podcast/1675743253/anomalous-podcast/12-ufo-sightings-in-45-minutes-unbelievable-uap-activity-in-portugal-full-analysis-raw-footage" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1675743253/anomalous-podcast/12-ufo-sightings-in-45-minutes-unbelievable-uap-activity-in-portugal-full-analysis-raw-footage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full Analysis &amp; Raw Footage. Anomalous Podcast. Spela.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theportugalnews.com  
    Title: alleged ufo sighted in portugal  
-   Link: <a href="https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2026 — According to Correio da Manhã (CM), the UFO was seen in Porto, attracting the attention of several witnesses who reported s...</p></details>
+   Link:<a href="https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2026 — According to Correio da Manhã (CM), the UFO was seen in Porto, attracting the attention of several witnesses who reported s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: decur.org  
    Title: Research Data  
-   Link: <a href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore UAP/NHI research data including historical events, key figures, documented cases, declassified documents, and primary source...</p></details>
+   Link:<a href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore UAP/NHI research data including historical events, key figures, documented cases, declassified documents, and primary source...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: around 6.30pm  
-   Link: <a href="https://www.instagram.com/p/DQbpyZTjp8p/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQbpyZTjp8p/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses described a “strange light” that...A triangular craft was reportedly seen flying between Kilbirnie and Lochwinnoch last Saturd...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQbpyZTjp8p/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQbpyZTjp8p/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses described a “strange light” that...A triangular craft was reportedly seen flying between Kilbirnie and Lochwinnoch last Saturd...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Not a UFO: Starlink satellite chain over North Carolina  
-   Link: <a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hd1OiBbMygY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters In Europe | Never-Seen-Before Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hd1OiBbMygY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters In Europe | Never-Seen-Before Evidence...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1pyxk4a/object_in_portugal_serious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pyxk4a/object_in_portugal_serious/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Object in Portugal (serious)An object seen today in Portugal, in the Montijo area, was stationary in the sky and, despite being very high...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1pyxk4a/object_in_portugal_serious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pyxk4a/object_in_portugal_serious/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Object in Portugal (serious)An object seen today in Portugal, in the Montijo area, was stationary in the sky and, despite being very high...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Meteor streaks across the sky over Spain and Portugal  
-   Link: <a href="https://www.youtube.com/watch?v=W1oWNPgipck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W1oWNPgipck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Episode 1 - Alfena Dossier...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W1oWNPgipck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W1oWNPgipck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters - Episode 1 - Alfena Dossier...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=L5kRB2MW6Vk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5kRB2MW6Vk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO: Starlink satellite chain over North Carolina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L5kRB2MW6Vk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5kRB2MW6Vk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO: Starlink satellite chain over North Carolina...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Meteor flies over Spain and Portugal  
-   Link: <a href="https://www.youtube.com/watch?v=pf4sTSxS5co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pf4sTSxS5co</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor streaks across the sky over Spain and Portugal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pf4sTSxS5co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pf4sTSxS5co</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor streaks across the sky over Spain and Portugal...</p></details>

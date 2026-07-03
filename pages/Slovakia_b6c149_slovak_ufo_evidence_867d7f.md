@@ -257,13 +257,13 @@ image: /assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-1-
 Many of the most dramatic UFO reports in Slovakia become less mysterious when investigators compare them with meteor-camera records, astronomical data, aircraft information and precise timing. That does not mean every report is solved, but it does mean that the strongest evidence often comes from ruling out ordinary explanations rather than collecting more witness stories.
 
 <img src="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Check illustration 1" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Slovak UFO record sits in an unusual position. On one side are civilian archives such as UFO Klub Trnava, which preserve decades of reports. On the other side is a surprisingly sophisticated regional astronomy infrastructure, including Slovak participation in meteor-observation networks that can reconstruct the paths of bright fireballs across Central Europe. When those two worlds overlap, some apparent UFO cases turn into identifiable meteors, bolides, satellite re-entries or misinterpreted visual events. The most reliable conclusions usually emerge not from the witness account alone, but from whether independent instruments recorded the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
+The Slovak UFO record sits in an unusual position. On one side are civilian archives such as UFO Klub Trnava, which preserve decades of reports. On the other side is a surprisingly sophisticated regional astronomy infrastructure, including Slovak participation in meteor-observation networks that can reconstruct the paths of bright fireballs across Central Europe. When those two worlds overlap, some apparent UFO cases turn into identifiable meteors, bolides, satellite re-entries or misinterpreted visual events. The most reliable conclusions usually emerge not from the witness account alone, but from whether independent instruments recorded the same event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
 
 ## Confirmed records versus unexplained reports
 
 A useful way to assess Slovak UFO claims is to separate reports into three broad categories.
 
-**Instrumentally confirmed natural events.** These include bright meteors and bolides recorded by dedicated camera networks. Their trajectories, brightness and timing can often be reconstructed with high precision. In these cases, investigators are not guessing. They can compare observations from multiple stations and calculate what actually crossed the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
+**Instrumentally confirmed natural events.** These include bright meteors and bolides recorded by dedicated camera networks. Their trajectories, brightness and timing can often be reconstructed with high precision. In these cases, investigators are not guessing. They can compare observations from multiple stations and calculate what actually crossed the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
 
 **Witness reports with partial supporting evidence.** Some Slovak cases include photographs, multiple observers or newspaper coverage but lack enough technical data for a definitive conclusion. These incidents remain unidentified in the literal sense, yet they are not necessarily evidence of something extraordinary. Missing information often prevents resolution.
 
@@ -275,9 +275,9 @@ This distinction matters because Slovak UFO discussions sometimes mix all three 
 
 One of the strongest reality checks available in Slovakia is the network of meteor-observation systems operating across Central Europe.
 
-Slovakia participates in regional meteor-monitoring projects through observatories and astronomy departments. The Slovak video meteor network, including systems at Modra Observatory and Arboretum Mlyňany, continuously records the sky and contributes data used to analyse meteor trajectories and atmospheric entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmph.uniba.sk">[fmph.uniba.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmph.uniba.sk</span><span class="citation-popover-title">slovak video meteor network</span><span class="citation-popover-snippet">8 Aug 2018 — The Slovak video meteor network currently consists of two installed semi-autonomous, remotely controlled systems based at th...</span></span></span>
+Slovakia participates in regional meteor-monitoring projects through observatories and astronomy departments. The Slovak video meteor network, including systems at Modra Observatory and Arboretum Mlyňany, continuously records the sky and contributes data used to analyse meteor trajectories and atmospheric entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmph.uniba.sk">[fmph.uniba.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmph.uniba.sk</span><span class="citation-popover-title">slovak video meteor network</span><span class="citation-popover-snippet">8 Aug 2018 — The Slovak video meteor network currently consists of two installed semi-autonomous, remotely controlled systems based at th...</span></span></span>
 
-At a larger scale, Slovakia is part of the wider European Fireball Network. Cameras distributed across several countries record bright meteors simultaneously, allowing researchers to reconstruct three-dimensional flight paths. Because multiple stations observe the same object, investigators can determine speed, altitude, direction and fragmentation behaviour rather than relying on witness estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">European Fireball Network</span><span class="citation-popover-snippet">European Fireball Network</span></span></span>
+At a larger scale, Slovakia is part of the wider European Fireball Network. Cameras distributed across several countries record bright meteors simultaneously, allowing researchers to reconstruct three-dimensional flight paths. Because multiple stations observe the same object, investigators can determine speed, altitude, direction and fragmentation behaviour rather than relying on witness estimates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">European Fireball Network</span><span class="citation-popover-snippet">European Fireball Network</span></span></span>
 
 This is important for UFO evaluation because witnesses frequently overestimate the distance, size and manoeuvrability of bright objects. A meteor entering the atmosphere can appear to hover, change direction or split into multiple lights when viewed from certain angles. Without instrument data, those impressions can sound extraordinary. With camera records, the event may become a straightforward atmospheric entry.
 
@@ -291,17 +291,17 @@ Several well-documented fireball events illustrate how apparently mysterious sky
 
 The 2010 Košice meteorite fall became one of the best-studied atmospheric-entry events associated with Slovakia. The object fragmented over eastern Slovakia and produced meteorites later recovered on the ground.
 
-Unlike a typical UFO sighting, this event generated measurable physical evidence. Researchers reconstructed its trajectory and analysed its atmospheric behaviour. The case demonstrated how a spectacular object crossing the sky can initially appear unusual to witnesses yet ultimately be explained through observation, modelling and recovered material. The Košice fall became part of broader scientific work comparing the behaviour of different incoming objects in Earth's atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.11186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network...</span></span></span>
+Unlike a typical UFO sighting, this event generated measurable physical evidence. Researchers reconstructed its trajectory and analysed its atmospheric behaviour. The case demonstrated how a spectacular object crossing the sky can initially appear unusual to witnesses yet ultimately be explained through observation, modelling and recovered material. The Košice fall became part of broader scientific work comparing the behaviour of different incoming objects in Earth's atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.11186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network...</span></span></span>
 
 ### Bright bolides over Central Europe
 
-The European Fireball Network regularly documents exceptionally bright meteors visible across multiple countries, including Slovakia. Records from Slovak stations have contributed to analyses of major fireballs and meteorite falls. These events are often visible over hundreds of kilometres and can trigger UFO reports because of their brightness, colour changes and fragmentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
+The European Fireball Network regularly documents exceptionally bright meteors visible across multiple countries, including Slovakia. Records from Slovak stations have contributed to analyses of major fireballs and meteorite falls. These events are often visible over hundreds of kilometres and can trigger UFO reports because of their brightness, colour changes and fragmentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
 
-A bright bolide may briefly outshine the Moon, leave a glowing trail and appear to break apart. To a witness unfamiliar with atmospheric-entry phenomena, those characteristics can resemble descriptions commonly associated with UFO reports. Instrument measurements, however, often reveal a natural object travelling at tens of kilometres per second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.cas.cz">[Czech Academy of Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.cas.cz</span><span class="citation-popover-snippet">European Fireball Network. What exactly happened on Tuesday, July 10...Read more...</span></span></span>
+A bright bolide may briefly outshine the Moon, leave a glowing trail and appear to break apart. To a witness unfamiliar with atmospheric-entry phenomena, those characteristics can resemble descriptions commonly associated with UFO reports. Instrument measurements, however, often reveal a natural object travelling at tens of kilometres per second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.cas.cz">[Czech Academy of Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.cas.cz</span><span class="citation-popover-snippet">European Fireball Network. What exactly happened on Tuesday, July 10...Read more...</span></span></span>
 
 ### Cross-border fireball reconstruction
 
-The strength of the Central European monitoring system is that events do not need to occur directly above Slovakia to be identified. Fireballs over neighbouring regions can still be recorded from Slovak stations and correlated with data from Czech, German and other observatories. Researchers have repeatedly reconstructed trajectories using observations from multiple countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.cas.cz">[Czech Academy of Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.cas.cz</span><span class="citation-popover-snippet">European Fireball Network. What exactly happened on Tuesday, July 10...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">European Fireball Network</span><span class="citation-popover-snippet">European Fireball Network</span></span></span> This reduces the space for speculation. If a dramatic light seen from western Slovakia matches a trajectory independently recorded by several cameras, the mystery largely disappears.
+The strength of the Central European monitoring system is that events do not need to occur directly above Slovakia to be identified. Fireballs over neighbouring regions can still be recorded from Slovak stations and correlated with data from Czech, German and other observatories. Researchers have repeatedly reconstructed trajectories using observations from multiple countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.cas.cz">[Czech Academy of Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.cas.cz</span><span class="citation-popover-snippet">European Fireball Network. What exactly happened on Tuesday, July 10...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">European Fireball Network</span><span class="citation-popover-snippet">European Fireball Network</span></span></span> This reduces the space for speculation. If a dramatic light seen from western Slovakia matches a trajectory independently recorded by several cameras, the mystery largely disappears.
 
 <img src="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Check illustration 2" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why social clips and weak sightings fall apart
@@ -340,12 +340,12 @@ A large meteor can create effects that sound remarkably exotic in witness descri
 
 </div>
 
-All of these can occur during natural atmospheric entry. Dedicated fireball networks exist precisely because eyewitness impressions alone are unreliable for estimating such events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
+All of these can occur during natural atmospheric entry. Dedicated fireball networks exist precisely because eyewitness impressions alone are unreliable for estimating such events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.ta3.sk">[ftp.ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.ta3.sk</span><span class="citation-popover-title">Slovakian part of the European fireball network</span><span class="citation-popover-snippet">October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</span><span class="citation-popover-meta">Published: October 26, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ta3.sk">[2ta3.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ta3.sk</span><span class="citation-popover-title">pp101 108</span><span class="citation-popover-snippet">Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</span></span></span>
 
 <img src="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Check illustration 3" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Satellite and rocket re-entries
 
-Large re-entering space debris can produce slow-moving trains of glowing fragments crossing wide sections of sky. Historically, some of the most dramatic UFO waves internationally have later been connected to re-entry events. These objects may remain visible for longer than ordinary meteors and can look structured or coordinated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites AboveObserved re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Fowler, &quot;UFOs of March 30th/31st 1993 Explained!&quot;, Nov 2006...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
+Large re-entering space debris can produce slow-moving trains of glowing fragments crossing wide sections of sky. Historically, some of the most dramatic UFO waves internationally have later been connected to re-entry events. These objects may remain visible for longer than ordinary meteors and can look structured or coordinated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites AboveObserved re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Fowler, &quot;UFOs of March 30th/31st 1993 Explained!&quot;, Nov 2006...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
 
 ### Aircraft seen under unusual conditions
 
@@ -363,199 +363,199 @@ That is different from claiming an extraordinary explanation. An unresolved case
 
 This is where Slovak UFO archives become most useful. Their value is not that they prove extraordinary phenomena. Their value is that they preserve reports that can later be compared against new information, astronomical databases and historical records.
 
-The strongest lesson from Slovak UFO evidence is therefore methodological rather than sensational. The more precisely an event can be matched against meteor-network data, observatory records and independently recorded observations, the less room there is for speculation. Conversely, the reports that remain mysterious are usually those with the least evidence, not those with the most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmph.uniba.sk">[fmph.uniba.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmph.uniba.sk</span><span class="citation-popover-title">slovak video meteor network</span><span class="citation-popover-snippet">8 Aug 2018 — The Slovak video meteor network currently consists of two installed semi-autonomous, remotely controlled systems based at th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">European Fireball Network</span><span class="citation-popover-snippet">European Fireball Network</span></span></span>
+The strongest lesson from Slovak UFO evidence is therefore methodological rather than sensational. The more precisely an event can be matched against meteor-network data, observatory records and independently recorded observations, the less room there is for speculation. Conversely, the reports that remain mysterious are usually those with the least evidence, not those with the most.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmph.uniba.sk">[fmph.uniba.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmph.uniba.sk</span><span class="citation-popover-title">slovak video meteor network</span><span class="citation-popover-snippet">8 Aug 2018 — The Slovak video meteor network currently consists of two installed semi-autonomous, remotely controlled systems based at th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">European Fireball Network</span><span class="citation-popover-snippet">European Fireball Network</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lvn_RoJN_Q0" title="Are These UFO Sightings Real Evidence? | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer">Are These UFO Sightings Real Evidence? | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 192.0K &middot; Uploaded: April 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lvn_RoJN_Q0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Do Slovak UFO Reports Get Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Do Slovak UFO Reports Get Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Illustrates how official investigations approached reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how official investigations approached reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Centers on evaluating evidence and separating unexplained cases from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on evaluating evidence and separating unexplained cases from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on cases with stronger documentation and investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on cases with stronger documentation and investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores competing interpretations of evidence and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores competing interpretations of evidence and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-slovak-ufo-reports-get-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-slovak-ufo-reports-get-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The strongest lesson from Slovak UFO evidence is therefore methodological rather
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The strongest lesson from Slovak UFO evidence is therefore methodological rather
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The strongest lesson from Slovak UFO evidence is therefore methodological rather
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The strongest lesson from Slovak UFO evidence is therefore methodological rather
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The strongest lesson from Slovak UFO evidence is therefore methodological rather
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,112 +758,111 @@ The strongest lesson from Slovak UFO evidence is therefore methodological rather
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftp.ta3.sk  
    Title: Slovakian part of the European fireball network  
-   Link: <a href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</p></details>
+   Link:<a href="https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 2009 — by V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slovakia of −11 maximum photogra...</p></details>
    Published: October 26, 2009  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ta3.sk  
    Title: pp101 108  
-   Link: <a href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</p></details>
+   Link:<a href="https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ta3.sk/caosp/Eedition/FullTexts/vol39no2/pp101-108.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slovakian part of the European fireball networkby V Porubcan · 2009 · Cited by 3 — Another successful record of a bright bolide over Slov...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fmph.uniba.sk  
    Title: slovak video meteor network  
-   Link: <a href="https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/" target="_blank" rel="noopener noreferrer nofollow">https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aug 2018 — The Slovak video meteor network currently consists of two installed semi-autonomous, remotely controlled systems based at th...</p></details>
+   Link:<a href="https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/" target="_blank" rel="noopener noreferrer nofollow">https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-astrophysics/research/amos/meteors/slovak-video-meteor-network/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aug 2018 — The Slovak video meteor network currently consists of two installed semi-autonomous, remotely controlled systems based at th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2209.11186" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.11186</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network...</p></details>
+   Link:<a href="https://arxiv.org/abs/2209.11186" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.11186</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: European Fireball Network  
-   Link: <a href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Fireball_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Fireball_Network</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1702.03968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03968</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The January 7, 2015, superbolide over Romania and structural diversity of meter-sized asteroidsFebruary 13, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1702.03968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03968</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The January 7, 2015, superbolide over Romania and structural diversity of meter-sized asteroidsFebruary 13, 2017...</p></details>
    Published: January 7, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1912.11784" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.11784</a>  
+   Link:<a href="https://arxiv.org/abs/1912.11784" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.11784</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: asu.cas.cz  
-   Link: <a href="https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network" target="_blank" rel="noopener noreferrer nofollow">https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Fireball Network. What exactly happened on Tuesday, July 10...Read more...</p></details>
+   Link:<a href="https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network" target="_blank" rel="noopener noreferrer nofollow">https://www.asu.cas.cz/en/departments/interplanetary-matter-department/another-meteorite-with-a-pedigree-found-on-the-basis-of-data-taken-by-the-european-fireball-network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Fireball Network. What exactly happened on Tuesday, July 10...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: satobs.org  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites AboveObserved re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Fowler, &quot;UFOs of March 30th/31st 1993 Explained!&quot;, Nov 2006...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites AboveObserved re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Fowler, &quot;UFOs of March 30th/31st 1993 Explained!&quot;, Nov 2006...</p></details>
    Published: September 7, 2025  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OfficialUADA/posts/ufos-over-bratislava-after-a-full-day-of-deep-conversations-about-past-experienc/1026442808839234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUADA/posts/ufos-over-bratislava-after-a-full-day-of-deep-conversations-about-past-experienc/1026442808839234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER BRATISLAVA: After a full day of deep...UFOs OVER BRATISLAVA: After a full day of deep conversations about past experiences inc...</p></details>
+   Link:<a href="https://www.facebook.com/OfficialUADA/posts/ufos-over-bratislava-after-a-full-day-of-deep-conversations-about-past-experienc/1026442808839234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUADA/posts/ufos-over-bratislava-after-a-full-day-of-deep-conversations-about-past-experienc/1026442808839234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER BRATISLAVA: After a full day of deep...UFOs OVER BRATISLAVA: After a full day of deep conversations about past experiences inc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/popular/triangle-ufo-in-slovakia/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/triangle-ufo-in-slovakia/</a>  
+   Link:<a href="https://www.instagram.com/popular/triangle-ufo-in-slovakia/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/triangle-ufo-in-slovakia/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/272888746_First_meteorite_recovery_based_on_observations_by_the_Finnish_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272888746_First_meteorite_recovery_based_on_observations_by_the_Finnish_Fireball_Network</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) First meteorite recovery based on observations by...1 Mar 2015 — FN20140419 fireball track reconstructed from the 4 main sites of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/272888746_First_meteorite_recovery_based_on_observations_by_the_Finnish_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272888746_First_meteorite_recovery_based_on_observations_by_the_Finnish_Fireball_Network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) First meteorite recovery based on observations by...1 Mar 2015 — FN20140419 fireball track reconstructed from the 4 main sites of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: esa.int  
    Title: ESA analysing fireball over Europe on 8 March 2026  
-   Link: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The event was recorded by many dedicated meteor cameras, such as those of the European AllSky7 fireball network, as well as mobile phones...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event was recorded by many dedicated meteor cameras, such as those of the European AllSky7 fireball network, as well as mobile phones...</p></details>
    Published: March 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EuropeanSpaceAgency/posts/%EF%B8%8F-esas-fireball-camera-in-c%C3%A1ceres-spain-spotted-this-stunning-meteor-last-nighto/836638008498287/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EuropeanSpaceAgency/posts/%EF%B8%8F-esas-fireball-camera-in-c%C3%A1ceres-spain-spotted-this-stunning-meteor-last-nighto/836638008498287/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ican Meteor Society has reports of a fireball at 12:24...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/EuropeanSpaceAgency/posts/%EF%B8%8F-esas-fireball-camera-in-c%C3%A1ceres-spain-spotted-this-stunning-meteor-last-nighto/836638008498287/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EuropeanSpaceAgency/posts/%EF%B8%8F-esas-fireball-camera-in-c%C3%A1ceres-spain-spotted-this-stunning-meteor-last-nighto/836638008498287/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ican Meteor Society has reports of a fireball at 12:24...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Meteoroids, Meteorites, Fireballs  
-   Link: <a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B75xmeeKH0c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Fireball Scientific Investigation helps explain how multi-national meteor camera networks track and resolve bright fireballs acr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B75xmeeKH0c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Fireball Scientific Investigation helps explain how multi-national meteor camera networks track and resolve bright fireballs acr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: michaelshermer.substack.com  
    Title: meteors spherules and aliens  
-   Link: <a href="https://michaelshermer.substack.com/p/meteors-spherules-and-aliens" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.substack.com/p/meteors-spherules-and-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comMeteors, Spherules, and AliensMeteors, Spherules, and Aliens. Did Harvard astronomer Avi Loeb discover the remnants of an int...</p></details>
+   Link:<a href="https://michaelshermer.substack.com/p/meteors-spherules-and-aliens" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.substack.com/p/meteors-spherules-and-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comMeteors, Spherules, and AliensMeteors, Spherules, and Aliens. Did Harvard astronomer Avi Loeb discover the remnants of an int...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Ask Ellen: What things are most commonly confused with UFOs?  
-   Link: <a href="https://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PUhOc-K7Ycw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are These UFO Sightings Real Evidence? | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PUhOc-K7Ycw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are These UFO Sightings Real Evidence? | The Proof Is Out There...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Are These UFO Sightings Real Evidence? | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10164055089896620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10164055089896620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous flight appears...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10164055089896620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10164055089896620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous flight appears...</p></details>

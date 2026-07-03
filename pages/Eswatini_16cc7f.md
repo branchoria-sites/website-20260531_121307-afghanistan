@@ -1194,18 +1194,18 @@ image: /assets/images/Eswatini_16cc7f-overview-social.jpg
 
 ## What counts as a UFO claim in Eswatini?
 
-A UFO, in the strict sense, is simply an airborne object or optical phenomenon that an observer cannot readily identify; it is not automatically evidence of extraterrestrial craft. Britannica’s current explainer makes the same distinction, noting that many reports arise from natural phenomena, visual misjudgement, aircraft, bright planets, camera effects or other ordinary causes, while some remain unidentified because the available evidence is too weak to resolve them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A UFO, in the strict sense, is simply an airborne object or optical phenomenon that an observer cannot readily identify; it is not automatically evidence of extraterrestrial craft. Britannica’s current explainer makes the same distinction, noting that many reports arise from natural phenomena, visual misjudgement, aircraft, bright planets, camera effects or other ordinary causes, while some remain unidentified because the available evidence is too weak to resolve them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Eswatini_16cc7f-overview.webp" | relative_url }}" alt="Overview image for What Is Really in Eswatini&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
-That distinction is especially important in Eswatini because the national record is not built around military radar cases, official UAP inquiries or large public waves. The country is small, mountainous and sparsely covered in the international UFO literature. Its best-known public UFO entry is a retrospective civilian report submitted to the National UFO Reporting Center, not a contemporaneous police, aviation or defence investigation. NUFORC describes itself as a centre for collecting and disseminating UFO/UAP reports, but its database entries are witness submissions rather than independently verified official findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span></span></span>
+That distinction is especially important in Eswatini because the national record is not built around military radar cases, official UAP inquiries or large public waves. The country is small, mountainous and sparsely covered in the international UFO literature. Its best-known public UFO entry is a retrospective civilian report submitted to the National UFO Reporting Center, not a contemporaneous police, aviation or defence investigation. NUFORC describes itself as a centre for collecting and disseminating UFO/UAP reports, but its database entries are witness submissions rather than independently verified official findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span></span></span>
 
-The country-name issue also matters for research. Eswatini was internationally known as Swaziland until 2018, when King Mswati III announced the change to the Kingdom of Eswatini. Older sightings, meteorite records and archive references therefore usually appear under “Swaziland”, while recent internet material may use “Eswatini”. The Commonwealth profile gives the modern state context: Eswatini has about 1.16 million people, covers roughly 17,400 square kilometres, and has Mbabane as its administrative and judicial capital and Lobamba as its legislative capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5247743/swaziland-king-renames-country-eswatini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecommonwealth.org/our-member-countries/kingdom-eswatini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommonwealth.org">[Commonwealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommonwealth.org</span><span class="citation-popover-title">Commonwealth Kingdom of Eswatini &#124; Commonwealth</span><span class="citation-popover-snippet">Commonwealth Kingdom of Eswatini &#124; Commonwealth</span></span></span>
+The country-name issue also matters for research. Eswatini was internationally known as Swaziland until 2018, when King Mswati III announced the change to the Kingdom of Eswatini. Older sightings, meteorite records and archive references therefore usually appear under “Swaziland”, while recent internet material may use “Eswatini”. The Commonwealth profile gives the modern state context: Eswatini has about 1.16 million people, covers roughly 17,400 square kilometres, and has Mbabane as its administrative and judicial capital and Lobamba as its legislative capital.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5247743/swaziland-king-renames-country-eswatini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thecommonwealth.org/our-member-countries/kingdom-eswatini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommonwealth.org">[Commonwealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommonwealth.org</span><span class="citation-popover-title">Commonwealth Kingdom of Eswatini &#124; Commonwealth</span><span class="citation-popover-snippet">Commonwealth Kingdom of Eswatini &#124; Commonwealth</span></span></span>
 
 ## The Nhlangano sphere report is the main contested case
 
-The most substantial UFO report publicly indexed for Eswatini is NUFORC case 34020, described as occurring near Nhlangano, then listed as Swaziland, on 15 October 1992 at about 22:30 local time. The report was not filed until 20 December 2003 and was posted in January 2004, which means it rests on memory more than a decade after the claimed event. NUFORC records four observers, a duration of about ten minutes, a spherical shape, colour change, an aura or haze, and alleged electrical or magnetic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The most substantial UFO report publicly indexed for Eswatini is NUFORC case 34020, described as occurring near Nhlangano, then listed as Swaziland, on 15 October 1992 at about 22:30 local time. The report was not filed until 20 December 2003 and was posted in January 2004, which means it rests on memory more than a decade after the claimed event. NUFORC records four observers, a duration of about ten minutes, a spherical shape, colour change, an aura or haze, and alleged electrical or magnetic effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The witness account is vivid. The reporter says four Mormon missionaries had walked to a village and were returning through a valley after dark when they saw a large glowing sphere over a broader grassland area, roughly in the direction of another mountain range. The account describes a translucent orange object with a hint of blue, no sound, sudden bright white flashes that illuminated the valley, and a sensation of static electricity in the air. The witness rejects the moon as an explanation because the moon was said to be in the opposite direction, and also expresses doubt that the object was a helicopter or aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The witness account is vivid. The reporter says four Mormon missionaries had walked to a village and were returning through a valley after dark when they saw a large glowing sphere over a broader grassland area, roughly in the direction of another mountain range. The account describes a translucent orange object with a hint of blue, no sound, sudden bright white flashes that illuminated the valley, and a sensation of static electricity in the air. The witness rejects the moon as an explanation because the moon was said to be in the opposite direction, and also expresses doubt that the object was a helicopter or aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 As evidence, the case has some strengths: it names a place, time, claimed number of witnesses, duration, environmental setting and sensory details. It is also geographically specific enough to place it in the southern Shiselweni/Nhlangano region rather than treating “Swaziland” as a vague label. But it has major weaknesses. There is no photograph, no radar record, no named witnesses, no local newspaper corroboration in the public source set, no official incident report, and a long delay between the claimed observation and the report. Those weaknesses do not prove the event did not happen; they mean the case cannot be upgraded beyond “contested unexplained witness report” on the evidence available.
 
@@ -1214,25 +1214,25 @@ The most cautious reading is that the Nhlangano report describes something the w
 <img src="{{ "/assets/images/Eswatini_16cc7f-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really in Eswatini&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dwaleni shows why southern Eswatini sky events need careful sorting
 
-The most important confirmed sky event in Eswatini’s public record is not a UFO case at all. It is the [Dwaleni]({{ 'dwaleni/' | relative_url }}) meteorite fall of 12 October 1970 near Nhlangano, in what is now the same broad southern region associated with the later NUFORC report. The Meteoritical Bulletin lists Dwaleni as an official meteorite name, an observed fall in Swaziland in 1970, with a recovered mass of about 3.23 kg and a recommended H4-6 ordinary chondrite classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
+The most important confirmed sky event in Eswatini’s public record is not a UFO case at all. It is the [Dwaleni]({{ 'dwaleni/' | relative_url }}) meteorite fall of 12 October 1970 near Nhlangano, in what is now the same broad southern region associated with the later NUFORC report. The Meteoritical Bulletin lists Dwaleni as an official meteorite name, an observed fall in Swaziland in 1970, with a recovered mass of about 3.23 kg and a recommended H4-6 ordinary chondrite classification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
 
-The event’s description is striking enough to show how easily a real natural event could enter local “mystery in the sky” memory. The Meteoritical Bulletin write-up places the fall 6 km southeast of Dwaleni, near Nhlangano, at 10:30 South African time. It describes explosions over southwest Swaziland, a high-pitched whine during the descent of fragments, three recovered magnetic stony fragments, black-brown crusting, impact burial in soil, and a near-vertical descent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
+The event’s description is striking enough to show how easily a real natural event could enter local “mystery in the sky” memory. The Meteoritical Bulletin write-up places the fall 6 km southeast of Dwaleni, near Nhlangano, at 10:30 South African time. It describes explosions over southwest Swaziland, a high-pitched whine during the descent of fragments, three recovered magnetic stony fragments, black-brown crusting, impact burial in soil, and a near-vertical descent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
 
-Arizona State University’s Buseck Center for Meteorite Studies summarises the same event, noting that Dwaleni fell near Nhlangano on 12 October 1970 and that more than 3 kg were recovered. It also states that Dwaleni is the only classified meteorite from Swaziland in that collection summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteorites.asu.edu/meteorites/dwaleni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteorites.asu.edu">[meteorites.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteorites.asu.edu</span><span class="citation-popover-title">Dwaleni – Buseck Center for Meteorite Studies</span><span class="citation-popover-snippet">Dwaleni – Buseck Center for Meteorite Studies</span></span></span>
+Arizona State University’s Buseck Center for Meteorite Studies summarises the same event, noting that Dwaleni fell near Nhlangano on 12 October 1970 and that more than 3 kg were recovered. It also states that Dwaleni is the only classified meteorite from Swaziland in that collection summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteorites.asu.edu/meteorites/dwaleni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteorites.asu.edu">[meteorites.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteorites.asu.edu</span><span class="citation-popover-title">Dwaleni – Buseck Center for Meteorite Studies</span><span class="citation-popover-snippet">Dwaleni – Buseck Center for Meteorite Studies</span></span></span>
 
 Dwaleni is not an explanation for the 1992 Nhlangano report; the dates are twenty-two years apart. Its importance is methodological. It proves that dramatic, noisy, physically recovered aerial phenomena have occurred in Eswatini, and that the southern region can produce [sky events]({{ 'sky-events/' | relative_url }}) that would sound extraordinary in oral retelling. It also shows the difference between a confirmed case and a contested one: Dwaleni has coordinates, recovered material, classification, published catalogue treatment and a geological source trail; the 1992 sphere report has only a retrospective witness narrative.
 
-Meteor science also helps interpret some UFO-like features without dismissing witnesses. The International Meteor Organization notes that only a few fireballs are connected with recovered meteorites, that fragmentation is common during atmospheric entry, and that meteorite falls can involve dark flight after the luminous phase. NASA’s technical report server also records Colin Keay’s work on electrophonic meteor sounds, including evidence that large fireballs can produce extra-low and very-low-frequency electromagnetic effects capable of generating simultaneous audible sensations near observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/meteorites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">International Meteor Organization Fireballs and Meteorite Falls &#124; IMO</span><span class="citation-popover-snippet">International Meteor Organization Fireballs and Meteorite Falls &#124; IMO</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/19930009995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Meteor fireball sounds identified</span><span class="citation-popover-snippet">Technical Reports Server Meteor fireball sounds identified</span></span></span>
+Meteor science also helps interpret some UFO-like features without dismissing witnesses. The International Meteor Organization notes that only a few fireballs are connected with recovered meteorites, that fragmentation is common during atmospheric entry, and that meteorite falls can involve dark flight after the luminous phase. NASA’s technical report server also records Colin Keay’s work on electrophonic meteor sounds, including evidence that large fireballs can produce extra-low and very-low-frequency electromagnetic effects capable of generating simultaneous audible sensations near observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/meteorites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">International Meteor Organization Fireballs and Meteorite Falls &#124; IMO</span><span class="citation-popover-snippet">International Meteor Organization Fireballs and Meteorite Falls &#124; IMO</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/19930009995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Meteor fireball sounds identified</span><span class="citation-popover-snippet">Technical Reports Server Meteor fireball sounds identified</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JUNO7qqSJ9o" title="The Ariel School UFO Incident: 60 Students Saw Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer">The Ariel School UFO Incident: 60 Students Saw Aliens</a></p><p class="youtube-embed-meta">Channel: The Official Channel &middot; Views: 51.3K &middot; Uploaded: September 2025 &middot; Length: 1 hour 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JUNO7qqSJ9o">Open on YouTube</a></p></div></div></div>
 
 ## Official records are quiet, but the aviation pathway is clear
 
-There is no public evidence of a dedicated Eswatini government UFO or UAP investigation programme comparable to better-known US, UK or French efforts. The relevant official route for unusual aerial events involving aircraft would be aviation safety reporting, not a UFO bureau. The Eswatini Civil Aviation Authority states that its Aircraft Accident and Incident Investigation Department is responsible for investigating aircraft accidents and incidents in Eswatini under the Chicago Convention framework, and that the purpose of such investigations is prevention rather than blame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
+There is no public evidence of a dedicated Eswatini government UFO or UAP investigation programme comparable to better-known US, UK or French efforts. The relevant official route for unusual aerial events involving aircraft would be aviation safety reporting, not a UFO bureau. The Eswatini Civil Aviation Authority states that its Aircraft Accident and Incident Investigation Department is responsible for investigating aircraft accidents and incidents in Eswatini under the Chicago Convention framework, and that the purpose of such investigations is prevention rather than blame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
 
-The same authority sets out a practical reporting chain: after receiving an occurrence notification, the department decides whether an investigation is warranted, may record details for future trend analysis, and may publish a final report. It also says notifications may come from air traffic controllers, aircraft owners or operators, pilots, maintenance organisations, police, local authorities or eyewitnesses. That is relevant because a truly hazardous unidentified object near aircraft would most plausibly appear in this kind of aviation safety channel rather than in a paranormal archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
+The same authority sets out a practical reporting chain: after receiving an occurrence notification, the department decides whether an investigation is warranted, may record details for future trend analysis, and may publish a final report. It also says notifications may come from air traffic controllers, aircraft owners or operators, pilots, maintenance organisations, police, local authorities or eyewitnesses. That is relevant because a truly hazardous unidentified object near aircraft would most plausibly appear in this kind of aviation safety channel rather than in a paranormal archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
 
-The public accident-and-incident report table on the Eswatini Civil Aviation Authority page lists specific aircraft accident entries for 2017, 2021 and 2023, with no visible UFO/UAP category in that table. The International Civil Aviation Organization’s accident-investigation directory separately lists Eswatini’s AAIID contact details, reinforcing that Eswatini has a recognised aviation-incident reporting and investigation contact point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span> Civil Aviation Authority <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Safety AIA</span><span class="citation-popover-snippet">Safety AIA</span></span></span>
+The public accident-and-incident report table on the Eswatini Civil Aviation Authority page lists specific aircraft accident entries for 2017, 2021 and 2023, with no visible UFO/UAP category in that table. The International Civil Aviation Organization’s accident-investigation directory separately lists Eswatini’s AAIID contact details, reinforcing that Eswatini has a recognised aviation-incident reporting and investigation contact point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span> Civil Aviation Authority<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Safety AIA</span><span class="citation-popover-snippet">Safety AIA</span></span></span>
 
 This official silence should be read carefully. It does not prove no unusual aerial observations have ever been reported informally to police, pilots or local authorities. It means that, in publicly accessible official aviation materials, there is no surfaced Eswatini UFO case with the evidential status of an investigated aviation occurrence.
 
@@ -1241,27 +1241,27 @@ This official silence should be read carefully. It does not prove no unusual aer
 
 The strongest named locations in the Eswatini-specific record point south: Dwaleni and Nhlangano in Shiselweni. That is more likely a product of the surviving evidence than proof that southern Eswatini is uniquely prone to anomalous aerial phenomena. Dwaleni is present because meteorite fragments were physically recovered and catalogued. The 1992 Nhlangano report is present because a witness later submitted it to an international UFO database. Other regions may simply lack comparable reporting pathways, searchable archives or English-language indexing.
 
-Anecdotal material broadens the geography but weakens the evidence. A 2022 Mail & Guardian opinion column recounts a family story of seeing a disc somewhere between Ladysmith in KwaZulu-Natal and Mbabane, during trips connected with Waterford Kamhlaba in the Eswatini capital. The writer treats the memory as family lore and explicitly lists ordinary possibilities such as a weather balloon, military test or light aircraft. It is culturally interesting because it shows how UFO stories circulated around travel to and from Swaziland, but it is not a strong Eswatini case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Anecdotal material broadens the geography but weakens the evidence. A 2022 Mail & Guardian opinion column recounts a family story of seeing a disc somewhere between Ladysmith in KwaZulu-Natal and Mbabane, during trips connected with Waterford Kamhlaba in the Eswatini capital. The writer treats the memory as family lore and explicitly lists ordinary possibilities such as a weather balloon, military test or light aircraft. It is culturally interesting because it shows how UFO stories circulated around travel to and from Swaziland, but it is not a strong Eswatini case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Internet-era claims are weaker still. A Reddit post about an “unidentified flying object in Eswatini / Google Maps” appears in search results, but such material is not equivalent to a witnessed incident, physical evidence or an official report. At best, it belongs in the “unverified online curiosity” category unless supported by original imagery metadata, location checks, independent witnesses and a plausible exclusion of mundane explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Unexplained/comments/1j7nplu/ufo_unidentified_flying_object_in_eswatini_google/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO) Unidentified flying object in Eswatini / Google Maps</span><span class="citation-popover-snippet">UFO) Unidentified flying object in Eswatini / Google Maps</span></span></span>
+Internet-era claims are weaker still. A Reddit post about an “unidentified flying object in Eswatini / Google Maps” appears in search results, but such material is not equivalent to a witnessed incident, physical evidence or an official report. At best, it belongs in the “unverified online curiosity” category unless supported by original imagery metadata, location checks, independent witnesses and a plausible exclusion of mundane explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Unexplained/comments/1j7nplu/ufo_unidentified_flying_object_in_eswatini_google/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO) Unidentified flying object in Eswatini / Google Maps</span><span class="citation-popover-snippet">UFO) Unidentified flying object in Eswatini / Google Maps</span></span></span>
 
 ## Evidence quality: confirmed, contested and weak
 
 The Eswatini record is best understood by separating claims into evidence tiers rather than treating every unusual sky story as the same kind of case.
 
-**Confirmed natural event:** Dwaleni is the strongest documented aerial phenomenon connected to Eswatini. It was an observed meteorite fall near Nhlangano in 1970, with recovered material, coordinates, mass, classification and publication in the Meteoritical Bulletin. It is not a UFO in the unresolved sense; it is an identified meteorite fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
+**Confirmed natural event:** Dwaleni is the strongest documented aerial phenomenon connected to Eswatini. It was an observed meteorite fall near Nhlangano in 1970, with recovered material, coordinates, mass, classification and publication in the Meteoritical Bulletin. It is not a UFO in the unresolved sense; it is an identified meteorite fall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
 
-**Contested unexplained report:** The 1992 [Nhlangano sphere]({{ 'nhlangano/' | relative_url }}) is the strongest UFO-style witness account, but it remains unresolved only because the evidence is insufficient. The story contains multiple observers and detailed description, but it lacks contemporaneous documentation, instrument data, named corroboration or official follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested unexplained report:** The 1992 [Nhlangano sphere]({{ 'nhlangano/' | relative_url }}) is the strongest UFO-style witness account, but it remains unresolved only because the evidence is insufficient. The story contains multiple observers and detailed description, but it lacks contemporaneous documentation, instrument data, named corroboration or official follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Anecdotal cultural memory:** The Mbabane-linked Mail & Guardian family story is useful as evidence that UFO talk forms part of some regional memory around travel to Swaziland/Eswatini, but the author herself frames it through memory, humour and uncertainty, and gives ordinary candidate explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Anecdotal cultural memory:** The Mbabane-linked Mail & Guardian family story is useful as evidence that UFO talk forms part of some regional memory around travel to Swaziland/Eswatini, but the author herself frames it through memory, humour and uncertainty, and gives ordinary candidate explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Weak or unverified online claims:** Social-media and map-anomaly items may be “unidentified” in the everyday sense, but without field observation, chain of custody, metadata or independent confirmation they should not be treated as substantive Eswatini UFO incidents. This is especially important for satellite or map images, where artefacts, balloons, aircraft, birds, stitching errors and perspective effects can be mistaken for anomalous objects.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zCooecg-z5s" title="What is the Meteoritical Bulletin Database? Meteorite Hangout COMPLETE 10-20-2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zCooecg-z5s" target="_blank" rel="noopener noreferrer">What is the Meteoritical Bulletin Database? Meteorite Hangout COMPLETE 10-20-2021</a></p><p class="youtube-embed-meta">Channel: Topherspin Meteorites &middot; Views: 2.7K &middot; Uploaded: October 2021 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zCooecg-z5s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zCooecg-z5s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zCooecg-z5s" title="What is the Meteoritical Bulletin Database? Meteorite Hangout COMPLETE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zCooecg-z5s" target="_blank" rel="noopener noreferrer">What is the Meteoritical Bulletin Database? Meteorite Hangout COMPLETE</a></p><p class="youtube-embed-meta">Channel: Topherspin Meteorites &middot; Views: 2.7K &middot; Uploaded: October 2021 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zCooecg-z5s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zCooecg-z5s">Open on YouTube</a></p></div></div></div>
 
 ## What a stronger Eswatini case would need
 
-A stronger Eswatini UFO case would need more than a striking story. The minimum useful evidence would include an exact location, date and time; independent witness statements gathered close to the event; photographs or video with original metadata; direction of view and elevation; weather data; astronomy checks for the Moon, planets and meteors; aircraft and drone activity checks; and, if relevant, aviation or police incident numbers. The Eswatini aviation reporting structure already shows what robust occurrence documentation looks like: time, position, description, aircraft involvement if any, reporting authority and follow-up decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
+A stronger Eswatini UFO case would need more than a striking story. The minimum useful evidence would include an exact location, date and time; independent witness statements gathered close to the event; photographs or video with original metadata; direction of view and elevation; weather data; astronomy checks for the Moon, planets and meteors; aircraft and drone activity checks; and, if relevant, aviation or police incident numbers. The Eswatini aviation reporting structure already shows what robust occurrence documentation looks like: time, position, description, aircraft involvement if any, reporting authority and follow-up decision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
 
 For the Nhlangano sphere, the most useful missing checks would be local weather and lightning records for 15 October 1992, astronomical conditions, any missionary journal entries or letters from the time, and any local accounts from the nearby village. Without that, the case remains interesting but underdetermined. It can be included in an Eswatini UFO chronology, but only with a clear label: reported, not confirmed.
 
@@ -1269,15 +1269,15 @@ For the Nhlangano sphere, the most useful missing checks would be local weather 
 
 ## Chronology of the useful record
 
-**12 October 1970 — Dwaleni meteorite fall, near Nhlangano:** A confirmed meteorite fall occurs 6 km southeast of Dwaleni, with explosions over southwest Swaziland and recovered magnetic stony fragments. This is the strongest documented aerial event in the Eswatini record, but it is explained as a meteorite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
+**12 October 1970 — Dwaleni meteorite fall, near Nhlangano:** A confirmed meteorite fall occurs 6 km southeast of Dwaleni, with explosions over southwest Swaziland and recovered magnetic stony fragments. This is the strongest documented aerial event in the Eswatini record, but it is explained as a meteorite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Dwaleni</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Dwaleni</span></span></span>
 
-**15 October 1992 — reported glowing sphere near Nhlangano:** Four witnesses later report seeing a silent luminous sphere with bright flashes and a static-electricity sensation while walking through a valley at night. The report is detailed but retrospective and uncorroborated in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**15 October 1992 — reported glowing sphere near Nhlangano:** Four witnesses later report seeing a silent luminous sphere with bright flashes and a static-electricity sensation while walking through a valley at night. The report is detailed but retrospective and uncorroborated in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2003–2004 — NUFORC submission and posting:** The 1992 Nhlangano report is submitted to NUFORC in December 2003 and posted in January 2004, making it a public database case but not an official Eswatini investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**2003–2004 — NUFORC submission and posting:** The 1992 Nhlangano report is submitted to NUFORC in December 2003 and posted in January 2004, making it a public database case but not an official Eswatini investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2022 — Mbabane-linked family-lore account:** A Mail & Guardian column recounts a family memory of a disc seen on a route associated with Swaziland travel and Mbabane, while also acknowledging ordinary explanations. This belongs to cultural memory rather than case evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2022 — Mbabane-linked family-lore account:** A Mail & Guardian column recounts a family memory of a disc seen on a route associated with Swaziland travel and Mbabane, while also acknowledging ordinary explanations. This belongs to cultural memory rather than case evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Current public record — no surfaced official UFO archive:** Eswatini’s civil aviation investigation materials show accident and incident reporting structures and selected aircraft accident reports, but no public UFO/UAP programme or clearly labelled UFO occurrence in the visible official aviation table. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
+**Current public record — no surfaced official UFO archive:** Eswatini’s civil aviation investigation materials show accident and incident reporting structures and selected aircraft accident reports, but no public UFO/UAP programme or clearly labelled UFO occurrence in the visible official aviation table.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eswacaa.co.sz">[Eswatini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eswacaa.co.sz</span><span class="citation-popover-title">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span><span class="citation-popover-snippet">Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority</span></span></span>
 
 <img src="{{ "/assets/images/Eswatini_16cc7f-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really in Eswatini&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for Eswatini
@@ -1287,194 +1287,194 @@ Eswatini’s UFO file is small but not empty. Its most credible sky mystery is a
 For a country-level UFO page, the honest conclusion is that Eswatini has no strong public evidence of confirmed anomalous craft, no visible official UAP archive, and no well-corroborated national sighting wave. What it does have is a useful case study in evidence sorting: a confirmed meteorite, a contested witness report from the same southern region, and a reminder that “unidentified” should remain a careful evidence category rather than a shortcut to extraordinary claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really in Eswatini&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really in Eswatini&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unidentified reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unidentified reports are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page assessing the quality and credibility of sparse UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page assessing the quality and credibility of sparse UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding folklore and witness traditions around unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding folklore and witness traditions around unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives persist even when evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives persist even when evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-eswatini-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-eswatini-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1490,7 +1490,7 @@ For a country-level UFO page, the honest conclusion is that Eswatini has no stro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1510,7 +1510,7 @@ For a country-level UFO page, the honest conclusion is that Eswatini has no stro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1542,7 +1542,7 @@ For a country-level UFO page, the honest conclusion is that Eswatini has no stro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1594,7 +1594,7 @@ For a country-level UFO page, the honest conclusion is that Eswatini has no stro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1639,7 +1639,7 @@ For a country-level UFO page, the honest conclusion is that Eswatini has no stro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1677,232 +1677,231 @@ For a country-level UFO page, the honest conclusion is that Eswatini has no stro
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: National UFO Reporting Center | Report a UFO | Report a UAP  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5247743/swaziland-king-renames-country-eswatini/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5247743/swaziland-king-renames-country-eswatini/</a>  
+   Link:<a href="https://time.com/5247743/swaziland-king-renames-country-eswatini/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5247743/swaziland-king-renames-country-eswatini/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=34020</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=34020</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lpi.usra.edu  
    Title: LPIMeteoritical Bulletin: Entry for Dwaleni  
-   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=7755</a>  
+   Link:<a href="https://www.lpi.usra.edu/meteor/metbull.php?code=7755" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=7755</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: meteorites.asu.edu  
    Title: Dwaleni – Buseck Center for Meteorite Studies  
-   Link: <a href="https://meteorites.asu.edu/meteorites/dwaleni" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/dwaleni</a>  
+   Link:<a href="https://meteorites.asu.edu/meteorites/dwaleni" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/dwaleni</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Meteor fireball sounds identified  
-   Link: <a href="https://ntrs.nasa.gov/citations/19930009995" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19930009995</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/19930009995" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19930009995</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: icao.int  
    Title: Safety AIA  
-   Link: <a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
+   Link:<a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: (UFO) Unidentified flying object in Eswatini / Google Maps  
-   Link: <a href="https://www.reddit.com/r/Unexplained/comments/1j7nplu/ufo_unidentified_flying_object_in_eswatini_google/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/1j7nplu/ufo_unidentified_flying_object_in_eswatini_google/</a>  
+   Link:<a href="https://www.reddit.com/r/Unexplained/comments/1j7nplu/ufo_unidentified_flying_object_in_eswatini_google/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/1j7nplu/ufo_unidentified_flying_object_in_eswatini_google/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200511</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200511</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: meteoritical.org  
-   Link: <a href="https://meteoritical.org/publications/meteoritical-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://meteoritical.org/publications/meteoritical-bulletin</a>  
+   Link:<a href="https://meteoritical.org/publications/meteoritical-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://meteoritical.org/publications/meteoritical-bulletin</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: meteorites.asu.edu  
-   Link: <a href="https://meteorites.asu.edu/category/meteorites/page/19" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/category/meteorites/page/19</a>  
+   Link:<a href="https://meteorites.asu.edu/category/meteorites/page/19" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/category/meteorites/page/19</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/r0zhbh/til_swaziland_changed_its_name_to_eswatini_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/r0zhbh/til_swaziland_changed_its_name_to_eswatini_in/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/r0zhbh/til_swaziland_changed_its_name_to_eswatini_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/r0zhbh/til_swaziland_changed_its_name_to_eswatini_in/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: icao.int  
    Title: ICAO SR 2025  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/national-investigations-committee-aerial-phenomena-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/national-investigations-committee-aerial-phenomena-nicap</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/national-investigations-committee-aerial-phenomena-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/national-investigations-committee-aerial-phenomena-nicap</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Eswatini" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Eswatini</a>  
+   Link:<a href="https://www.britannica.com/place/Eswatini" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Eswatini</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/investigation/" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/</a>  
+   Link:<a href="https://aviation-safety.net/investigation/" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thecommonwealth.org  
    Title: Commonwealth Kingdom of Eswatini | Commonwealth  
-   Link: <a href="https://thecommonwealth.org/our-member-countries/kingdom-eswatini" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/kingdom-eswatini</a>  
+   Link:<a href="https://thecommonwealth.org/our-member-countries/kingdom-eswatini" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/kingdom-eswatini</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: imo.net  
    Title: International Meteor Organization Fireballs and Meteorite Falls | IMO  
-   Link: <a href="https://www.imo.net/observations/fireballs/meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/meteorites/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/meteorites/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: eswacaa.co.sz  
    Title: Eswatini Civil Aviation Authority AAIID – Eswatini Civil Aviation Authority  
-   Link: <a href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow">https://www.eswacaa.co.sz/aaiid/</a>  
+   Link:<a href="https://www.eswacaa.co.sz/aaiid/" target="_blank" rel="noopener noreferrer nofollow">https://www.eswacaa.co.sz/aaiid/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mg.co.za  
-   Link: <a href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/</a>  
+   Link:<a href="https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/thought-leader/opinion/2022-07-08-when-real-life-stories-are-stranger-than-the-apparition-of-a-ufo/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: eswacaa.co.sz  
-   Link: <a href="https://www.eswacaa.co.sz/airports/" target="_blank" rel="noopener noreferrer nofollow">https://www.eswacaa.co.sz/airports/</a>  
+   Link:<a href="https://www.eswacaa.co.sz/airports/" target="_blank" rel="noopener noreferrer nofollow">https://www.eswacaa.co.sz/airports/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Meteorite fall  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eswatini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eswatini</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eswatini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eswatini</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Nhlangano" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nhlangano</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nhlangano" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nhlangano</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: relief.unboundmedicine.com  
-   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563253/all/Eswatini?q=world" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563253/all/Eswatini?q=world</a>  
+   Link:<a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563253/all/Eswatini?q=world" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563253/all/Eswatini?q=world</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: caa.co.uk  
    Title: Incident Investigation  
-   Link: <a href="https://www.caa.co.uk/media/drmoa1cp/gcaa-aircraft-damage-b737-06-04-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/drmoa1cp/gcaa-aircraft-damage-b737-06-04-13.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/drmoa1cp/gcaa-aircraft-damage-b737-06-04-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/drmoa1cp/gcaa-aircraft-damage-b737-06-04-13.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: openfactbook.org  
-   Link: <a href="https://openfactbook.org/countries/eswatini/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/eswatini/</a>  
+   Link:<a href="https://openfactbook.org/countries/eswatini/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/eswatini/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: events.crasa.org  
    Title: ESWATINI COUNTRY PROFILE  
-   Link: <a href="https://events.crasa.org/wp-content/uploads/2025/05/ESWATINI-COUNTRY-PROFILE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://events.crasa.org/wp-content/uploads/2025/05/ESWATINI-COUNTRY-PROFILE.pdf</a>  
+   Link:<a href="https://events.crasa.org/wp-content/uploads/2025/05/ESWATINI-COUNTRY-PROFILE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://events.crasa.org/wp-content/uploads/2025/05/ESWATINI-COUNTRY-PROFILE.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theodora.com  
    Title: eswatini people  
-   Link: <a href="https://theodora.com/wfbcurrent/eswatini/eswatini_people.html" target="_blank" rel="noopener noreferrer nofollow">https://theodora.com/wfbcurrent/eswatini/eswatini_people.html</a>  
+   Link:<a href="https://theodora.com/wfbcurrent/eswatini/eswatini_people.html" target="_blank" rel="noopener noreferrer nofollow">https://theodora.com/wfbcurrent/eswatini/eswatini_people.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: swaziland-info.co.za  
-   Link: <a href="https://www.swaziland-info.co.za/country/province/62/shiselweni" target="_blank" rel="noopener noreferrer nofollow">https://www.swaziland-info.co.za/country/province/62/shiselweni</a>  
+   Link:<a href="https://www.swaziland-info.co.za/country/province/62/shiselweni" target="_blank" rel="noopener noreferrer nofollow">https://www.swaziland-info.co.za/country/province/62/shiselweni</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: afri-res.uneca.org  
-   Link: <a href="https://afri-res.uneca.org/country-profile/sz/eswatini" target="_blank" rel="noopener noreferrer nofollow">https://afri-res.uneca.org/country-profile/sz/eswatini</a>  
+   Link:<a href="https://afri-res.uneca.org/country-profile/sz/eswatini" target="_blank" rel="noopener noreferrer nofollow">https://afri-res.uneca.org/country-profile/sz/eswatini</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: geofactbook.com  
-   Link: <a href="https://geofactbook.com/countries/eswatini" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/eswatini</a>  
+   Link:<a href="https://geofactbook.com/countries/eswatini" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/eswatini</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Mystery of the South African UFO Phenomenon: The Truth Behind the Reports of UFO S...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Mystery of the South African UFO Phenomenon: The Truth Behind the Reports of UFO S...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: UFO Crash Retrieval  
-   Link: <a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CBKYNwC-bjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CBKYNwC-bjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: The Ariel School UFO Incident: 60 Students Saw Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81s00991r000300140001-5</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-LPS116058/pdf/GOVPUB-SI-PURL-LPS116058.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-LPS116058/pdf/GOVPUB-SI-PURL-LPS116058.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-LPS116058/pdf/GOVPUB-SI-PURL-LPS116058.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-LPS116058/pdf/GOVPUB-SI-PURL-LPS116058.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CLePM3WjuVJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CLePM3WjuVJ/</a>  
+   Link:<a href="https://www.instagram.com/p/CLePM3WjuVJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CLePM3WjuVJ/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10164080779461620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10164080779461620/</a>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10164080779461620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10164080779461620/</a>

@@ -1194,31 +1194,31 @@ image: /assets/images/Paraguay_71a452-overview-social.jpg
 
 ## What makes Paraguay’s UFO record distinctive?
 
-Paraguay’s UFO history is not dominated by a single Roswell-like national myth. Instead, it has three overlapping strands: older reports recovered from newspapers and religious-era chronicles, mid-20th-century “flying saucer” cases that entered the orbit of US interest, and contemporary sightings circulated through television, social platforms and civilian report databases. Paraguayan researcher Ronald Maidana Torres became a key modern compiler of this material with his 2016 book on UFOs in Paraguay, described by local outlets as a 358-page work covering more than 50 cases, testimonies, photographs and documents across different periods of national history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adndigital.com.py/lanzaron-libro-sobre-ovnis-en-paraguay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adndigital.com.py">[adndigital.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adndigital.com.py</span><span class="citation-popover-title">Lanzaron libro sobre ovnis en Paraguay</span><span class="citation-popover-snippet">Lanzaron libro sobre ovnis en Paraguay</span></span></span>
+Paraguay’s UFO history is not dominated by a single Roswell-like national myth. Instead, it has three overlapping strands: older reports recovered from newspapers and religious-era chronicles, mid-20th-century “flying saucer” cases that entered the orbit of US interest, and contemporary sightings circulated through television, social platforms and civilian report databases. Paraguayan researcher Ronald Maidana Torres became a key modern compiler of this material with his 2016 book on UFOs in Paraguay, described by local outlets as a 358-page work covering more than 50 cases, testimonies, photographs and documents across different periods of national history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adndigital.com.py/lanzaron-libro-sobre-ovnis-en-paraguay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adndigital.com.py">[adndigital.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adndigital.com.py</span><span class="citation-popover-title">Lanzaron libro sobre ovnis en Paraguay</span><span class="citation-popover-snippet">Lanzaron libro sobre ovnis en Paraguay</span></span></span>
 
 <img src="{{ "/assets/images/Paraguay_71a452-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Paraguay&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-That matters because Paraguay’s record is archive-fragile. Many cases are known through newspaper retellings, commemorative local reports or ufology compilations rather than through a stable official national catalogue. The National Archives in the United States confirms that Project Blue Book records were declassified and transferred for public examination, but that archive is a US Air Force collection and not a Paraguayan government repository. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> For Paraguay, therefore, a serious reader has to separate “documented as a report” from “verified as an extraordinary object”.
+That matters because Paraguay’s record is archive-fragile. Many cases are known through newspaper retellings, commemorative local reports or ufology compilations rather than through a stable official national catalogue. The National Archives in the United States confirms that Project Blue Book records were declassified and transferred for public examination, but that archive is a US Air Force collection and not a Paraguayan government repository.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> For Paraguay, therefore, a serious reader has to separate “documented as a report” from “verified as an extraordinary object”.
 
 A second distinctive feature is geography. The best-known reports cluster around Asunción and the Central Department, but notable stories also involve Areguá, Cordillera, the Chaco and Misiones. That spread gives the subject a national flavour, yet the available evidence is uneven: urban sightings are more likely to leave press or database traces, while rural cases often survive as oral memory, anniversary journalism or local folklore.
 
 ## A compact chronology of Paraguay’s main UFO waves
 
-Paraguay’s reported UFO chronology begins, in local ufology accounts, far before the modern UFO era. Local press coverage of Maidana’s research says he traced reported aerial phenomena back to 1651 in the Jesuit reductions, although such early material should be treated as historical narrative rather than modern incident evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> Reports from the colonial period rarely contain the measurement, timing, direction, astronomical checks or witness controls needed to evaluate them as UFO cases in the modern sense.
+Paraguay’s reported UFO chronology begins, in local ufology accounts, far before the modern UFO era. Local press coverage of Maidana’s research says he traced reported aerial phenomena back to 1651 in the Jesuit reductions, although such early material should be treated as historical narrative rather than modern incident evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> Reports from the colonial period rarely contain the measurement, timing, direction, astronomical checks or witness controls needed to evaluate them as UFO cases in the modern sense.
 
-The modern phase begins more concretely in the late 1940s, when the phrase “flying saucer” had spread after the 1947 Kenneth Arnold sighting in the United States and similar reports began appearing across the world. In Paraguay, the standout archival episode is the 20 February 1948 Asunción case, later described in local coverage as Project Blue Book incident number 119, “Flying saucers over Asunción”. The reported witnesses included Agustina viuda de Paula in Barrio Obrero, an unnamed Bank of Paraguay employee observing from Areguá, people in Cordillera, and a rancher with workers at Estancia Santa Felicia in the Chaco. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
+The modern phase begins more concretely in the late 1940s, when the phrase “flying saucer” had spread after the 1947 Kenneth Arnold sighting in the United States and similar reports began appearing across the world. In Paraguay, the standout archival episode is the 20 February 1948 Asunción case, later described in local coverage as Project Blue Book incident number 119, “Flying saucers over Asunción”. The reported witnesses included Agustina viuda de Paula in Barrio Obrero, an unnamed Bank of Paraguay employee observing from Areguá, people in Cordillera, and a rancher with workers at Estancia Santa Felicia in the Chaco.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
 
-The 1960s and 1970s appear in Paraguayan coverage as a period of stronger popular “extraterrestrial fever”, but the public online record is thinner than for the [1948 case]({{ '1948-case/' | relative_url }}) and later local commemorations. ABC’s coverage of Maidana’s work frames the 1960s and 1970s as the true high point of Paraguayan flying-saucer culture, while also noting that the earliest reported sighting in his compilation was much older. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/142978767/Ovnis_en_el_Paraguay_El_retorno_de_la_fantas%C3%ADa_ABC_Revista_2016_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) Ovnis en el Paraguay: El retorno de la fantasía</span><span class="citation-popover-snippet">PDF) Ovnis en el Paraguay: El retorno de la fantasía</span></span></span>
+The 1960s and 1970s appear in Paraguayan coverage as a period of stronger popular “extraterrestrial fever”, but the public online record is thinner than for the [1948 case]({{ '1948-case/' | relative_url }}) and later local commemorations. ABC’s coverage of Maidana’s work frames the 1960s and 1970s as the true high point of Paraguayan flying-saucer culture, while also noting that the earliest reported sighting in his compilation was much older.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/142978767/Ovnis_en_el_Paraguay_El_retorno_de_la_fantas%C3%ADa_ABC_Revista_2016_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) Ovnis en el Paraguay: El retorno de la fantasía</span><span class="citation-popover-snippet">PDF) Ovnis en el Paraguay: El retorno de la fantasía</span></span></span>
 
-The best-known late-20th-century local memory is Tañarandy, in Misiones. On 28 July 1998, according to ABC Color’s later reporting, the family of Fidelina Genes reportedly saw an object descend in a field; local memory says human-like figures emerged, and the story became part of the community’s identity through an artwork by Cecilio Thompson. ABC’s 2025 anniversary piece explicitly describes the event as disputed: for some residents it was fantasy, for others evidence that humanity is not alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/tag/ronald-maidana-torres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-snippet">Open source on com.py.</span></span></span>
+The best-known late-20th-century local memory is Tañarandy, in Misiones. On 28 July 1998, according to ABC Color’s later reporting, the family of Fidelina Genes reportedly saw an object descend in a field; local memory says human-like figures emerged, and the story became part of the community’s identity through an artwork by Cecilio Thompson. ABC’s 2025 anniversary piece explicitly describes the event as disputed: for some residents it was fantasy, for others evidence that humanity is not alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/tag/ronald-maidana-torres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-snippet">Open source on com.py.</span></span></span>
 
-In the 2000s and 2020s, Paraguay’s public record shifts towards civilian databases and social media. The National UFO Reporting Center lists eight Paraguay reports, including Asunción sightings in 2006, 2008, 2021, 2023 and 2024, a triangular-object report from Mariano Roque Alonso in 2022, and a 2025 Villeta entry whose own summary says it may have been “more of an asteroid” than a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Paraguay</span><span class="citation-popover-snippet">NUFOR C Reports for Country Paraguay</span></span></span> This modern record is useful for trend spotting, but weak as proof: entries are self-reported, unevenly detailed and not equivalent to official investigation.
+In the 2000s and 2020s, Paraguay’s public record shifts towards civilian databases and social media. The National UFO Reporting Center lists eight Paraguay reports, including Asunción sightings in 2006, 2008, 2021, 2023 and 2024, a triangular-object report from Mariano Roque Alonso in 2022, and a 2025 Villeta entry whose own summary says it may have been “more of an asteroid” than a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Paraguay</span><span class="citation-popover-snippet">NUFOR C Reports for Country Paraguay</span></span></span> This modern record is useful for trend spotting, but weak as proof: entries are self-reported, unevenly detailed and not equivalent to official investigation.
 
 <img src="{{ "/assets/images/Paraguay_71a452-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1948 Asunción case is the archival anchor
 
-The 20 February 1948 Asunción case is the most important Paraguayan UFO episode because it combines newspaper visibility, multiple reported locations and later appearance in the orbit of Project Blue Book documentation. According to Última Hora’s account of Maidana’s findings, the incident was discussed in a 13-page report by Major Samuel J. Skousen and described an oval or disc-like object seen from Asunción, Areguá, Cordillera and the Chaco. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
+The 20 February 1948 Asunción case is the most important Paraguayan UFO episode because it combines newspaper visibility, multiple reported locations and later appearance in the orbit of Project Blue Book documentation. According to Última Hora’s account of Maidana’s findings, the incident was discussed in a 13-page report by Major Samuel J. Skousen and described an oval or disc-like object seen from Asunción, Areguá, Cordillera and the Chaco.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
 
-The reported details are unusually colourful for an early case. Agustina viuda de Paula reportedly saw an attractive oval object at about 07:00 from Barrio Obrero. An anonymous Bank of Paraguay employee allegedly saw the same object from Areguá at the same time, describing changing colours. In the Chaco, a rancher and workers reportedly described a green disc with halos, moving more slowly than an aircraft and estimated at roughly 300 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
+The reported details are unusually colourful for an early case. Agustina viuda de Paula reportedly saw an attractive oval object at about 07:00 from Barrio Obrero. An anonymous Bank of Paraguay employee allegedly saw the same object from Areguá at the same time, describing changing colours. In the Chaco, a rancher and workers reportedly described a green disc with halos, moving more slowly than an aircraft and estimated at roughly 300 feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
 
 Those details make the case interesting, but not conclusive. The strengths are the reported regional spread and the survival of a named witness plus press references. The weaknesses are equally important: the account available to most readers today is mediated through later newspaper reporting and ufological compilation, not a fully reproduced primary case file with all measurements, weather records, astronomical checks and original witness interviews. The event sits in the “contested but documented” category: a genuine historical UFO report, not a verified extraordinary craft.
 
@@ -1226,7 +1226,7 @@ The case also shows why Paraguay’s UFO history should not be isolated from the
 
 ## Tañarandy shows how a sighting becomes local memory
 
-The Tañarandy story is less valuable as technical evidence than as a case study in how a UFO incident becomes part of a place. ABC Color reported that residents of Tañarandy, a community in San Ignacio, Misiones, continued to commemorate the 28 July 1998 sighting decades later. The 2025 report says the family of Fidelina Genes saw an object descend after milking and while releasing calves; the story was later represented in a painting by Cecilio Thompson, with a welcoming inscription addressed to extraterrestrial visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">Pobladores de Tañarandy recuerdan 27 años del</span><span class="citation-popover-snippet">Pobladores de Tañarandy recuerdan 27 años del</span></span></span>
+The Tañarandy story is less valuable as technical evidence than as a case study in how a UFO incident becomes part of a place. ABC Color reported that residents of Tañarandy, a community in San Ignacio, Misiones, continued to commemorate the 28 July 1998 sighting decades later. The 2025 report says the family of Fidelina Genes saw an object descend after milking and while releasing calves; the story was later represented in a painting by Cecilio Thompson, with a welcoming inscription addressed to extraterrestrial visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">Pobladores de Tañarandy recuerdan 27 años del</span><span class="citation-popover-snippet">Pobladores de Tañarandy recuerdan 27 años del</span></span></span>
 
 That transformation matters. Once a sighting is commemorated through art, anniversary gatherings and local storytelling, it becomes more than a claim about the sky. It becomes community folklore. That does not make it false, but it changes the evidence environment. Later retellings can preserve witness memory, but they can also smooth contradictions, add symbolic meaning and make sceptical reconstruction harder.
 
@@ -1236,50 +1236,50 @@ The reported physical trace — burned grass or altered ground — would be impo
 
 ## Official records: what exists, and what does not
 
-The strongest official record relevant to Paraguay is not Paraguayan; it is the US Project Blue Book system and its archival afterlife. The US National Archives states that Project Blue Book records were declassified, that the project closed in 1969, and that the records include case files, project files and Office of Special Investigations material accessible through microfilm and finding aids. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The US Air Force fact sheet says Project Blue Book collected 12,618 sightings from 1947 to 1969, with 701 remaining “unidentified” at closure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The strongest official record relevant to Paraguay is not Paraguayan; it is the US Project Blue Book system and its archival afterlife. The US National Archives states that Project Blue Book records were declassified, that the project closed in 1969, and that the records include case files, project files and Office of Special Investigations material accessible through microfilm and finding aids.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The US Air Force fact sheet says Project Blue Book collected 12,618 sightings from 1947 to 1969, with 701 remaining “unidentified” at closure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-But the same official sources are clear about limits. The Air Force concluded that no investigated UFO indicated a national security threat, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> That conclusion does not mean every Paraguayan sighting has a known explanation. It means the official US programme did not validate the extraordinary interpretation.
+But the same official sources are clear about limits. The Air Force concluded that no investigated UFO indicated a national security threat, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> That conclusion does not mean every Paraguayan sighting has a known explanation. It means the official US programme did not validate the extraordinary interpretation.
 
 There is also no strong public evidence of a dedicated Paraguayan state UFO office comparable to Uruguay’s former air force commission or recent US UAP structures. For Paraguay, the available record is mostly local journalism, private research, civilian databases and foreign archival references. That makes Paraguay an important page in a country-by-country UFO project precisely because it shows the difference between a “national UFO tradition” and a formal national investigation system.
 
-Modern official UAP discussion reinforces the same evidentiary caution. NASA states that the limited number of high-quality UAP observations makes it impossible to draw firm scientific conclusions about many events, and that most sightings contain too little data to verify or explain confidently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> The US All-domain Anomaly Resolution Office has also said it found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government or private industry had access to extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-10 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War") These are US conclusions, not Paraguayan investigations, but they provide a useful standard for judging what the Paraguayan evidence does and does not show.
+Modern official UAP discussion reinforces the same evidentiary caution. NASA states that the limited number of high-quality UAP observations makes it impossible to draw firm scientific conclusions about many events, and that most sightings contain too little data to verify or explain confidently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> The US All-domain Anomaly Resolution Office has also said it found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government or private industry had access to extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-10 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War") These are US conclusions, not Paraguayan investigations, but they provide a useful standard for judging what the Paraguayan evidence does and does not show.
 
 ## Evidence quality: confirmed, contested and likely explained
 
 A Paraguay UFO page is most useful when it grades claims instead of treating every sighting alike. The available record supports three broad categories.
 
-**Confirmed as reports:** These are events that can be shown to have been reported, published or catalogued. The 1948 Asunción case qualifies because it appears in Paraguayan press coverage connected to Project Blue Book documentation and Maidana’s archival work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> The NUFORC Paraguay entries also qualify as self-reported civilian records, because the database lists dates, places, shapes and summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> “Confirmed as a report” does not mean confirmed as anomalous technology.
+**Confirmed as reports:** These are events that can be shown to have been reported, published or catalogued. The 1948 Asunción case qualifies because it appears in Paraguayan press coverage connected to Project Blue Book documentation and Maidana’s archival work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> The NUFORC Paraguay entries also qualify as self-reported civilian records, because the database lists dates, places, shapes and summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> “Confirmed as a report” does not mean confirmed as anomalous technology.
 
-**Contested local cases:** Tañarandy is the clearest example. It has named local memory, anniversary reporting and a community artwork, but the public evidence is testimonial and retrospective. ABC’s own framing preserves the split between residents who view it as fantasy and those who treat it as a sign of extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/tag/ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">ovnis. Últimas noticias de ovnis en ABC Color</span><span class="citation-popover-snippet">ovnis. Últimas noticias de ovnis en ABC Color</span></span></span>
+**Contested local cases:** Tañarandy is the clearest example. It has named local memory, anniversary reporting and a community artwork, but the public evidence is testimonial and retrospective. ABC’s own framing preserves the split between residents who view it as fantasy and those who treat it as a sign of extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/tag/ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">ovnis. Últimas noticias de ovnis en ABC Color</span><span class="citation-popover-snippet">ovnis. Últimas noticias de ovnis en ABC Color</span></span></span>
 
-**Likely explained or weak cases:** Modern light formations require special caution because satellite constellations can look unfamiliar, especially shortly after deployment. One NUFORC Paraguay entry from 16 February 2021 describes a line of about 40 objects across the sky and includes the database note “Starlink satellites?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Paraguay</span><span class="citation-popover-snippet">NUFOR C Reports for Country Paraguay</span></span></span> This is not a formal debunking, but it is a strong prompt for mundane checking. Scientific work on Starlink misidentification has found that satellite trains and unusual illumination can generate UAP reports from pilots and lay observers, and that better space-situational awareness could reduce confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ABC also reported a regional example in Uruguay where lights initially reported as UFOs were clarified by the Uruguayan Air Force as Starlink satellites after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/tv/ensiestados/2024/12/27/ovnis-en-paraguay-reportan-avistamientos-en-varias-zonas-del-pais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">ovnis en paraguay reportan avistamientos en varias zonas del pais</span><span class="citation-popover-snippet">ovnis en paraguay reportan avistamientos en varias zonas del pais</span></span></span>
+**Likely explained or weak cases:** Modern light formations require special caution because satellite constellations can look unfamiliar, especially shortly after deployment. One NUFORC Paraguay entry from 16 February 2021 describes a line of about 40 objects across the sky and includes the database note “Starlink satellites?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Paraguay</span><span class="citation-popover-snippet">NUFOR C Reports for Country Paraguay</span></span></span> This is not a formal debunking, but it is a strong prompt for mundane checking. Scientific work on Starlink misidentification has found that satellite trains and unusual illumination can generate UAP reports from pilots and lay observers, and that better space-situational awareness could reduce confusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ABC also reported a regional example in Uruguay where lights initially reported as UFOs were clarified by the Uruguayan Air Force as Starlink satellites after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/tv/ensiestados/2024/12/27/ovnis-en-paraguay-reportan-avistamientos-en-varias-zonas-del-pais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">ovnis en paraguay reportan avistamientos en varias zonas del pais</span><span class="citation-popover-snippet">ovnis en paraguay reportan avistamientos en varias zonas del pais</span></span></span>
 
 This split keeps the Paraguay record honest. There are genuine reports, some with historical interest. There are also cases where the best explanation is probably ordinary: satellites, meteors, aircraft, atmospheric effects, camera artefacts or incomplete witness information.
 
 <img src="{{ "/assets/images/Paraguay_71a452-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Asunción and the Central region dominate recent reports
 
-The modern public record is biased towards places with more people, more cameras and more internet access. NUFORC’s Paraguay list is heavily weighted towards Asunción and the Central Department, including Asunción reports from 2006, 2008, 2021, 2023 and 2024, plus Mariano Roque Alonso in 2022 and Villeta in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> This does not prove that the capital region has more anomalous activity. It more likely shows where reporting pathways are easier.
+The modern public record is biased towards places with more people, more cameras and more internet access. NUFORC’s Paraguay list is heavily weighted towards Asunción and the Central Department, including Asunción reports from 2006, 2008, 2021, 2023 and 2024, plus Mariano Roque Alonso in 2022 and Villeta in 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> This does not prove that the capital region has more anomalous activity. It more likely shows where reporting pathways are easier.
 
-The Chaco appears in the 1948 material as a striking contrast: a rural sighting from Estancia Santa Felicia reportedly formed part of the same broader event as Asunción and Areguá. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> That is valuable because it prevents an entirely capital-centred reading of Paraguay’s UFO record. Still, rural reports are less likely to be documented with exact time stamps, photos, astronomical checks or independent follow-up.
+The Chaco appears in the 1948 material as a striking contrast: a rural sighting from Estancia Santa Felicia reportedly formed part of the same broader event as Asunción and Areguá.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> That is valuable because it prevents an entirely capital-centred reading of Paraguay’s UFO record. Still, rural reports are less likely to be documented with exact time stamps, photos, astronomical checks or independent follow-up.
 
-Misiones, through Tañarandy, represents a third pattern: not a high-volume reporting hub, but a place where one alleged landing narrative became locally memorable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/nacionales/2023/07/29/recordaron-25-anos-de-avistamiento-de-un-ovni-en-tanarandy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">recordaron 25 anos de avistamiento de un ovni en tanarandy</span><span class="citation-popover-snippet">recordaron 25 anos de avistamiento de un ovni en tanarandy</span></span></span> In a region-level reading, Paraguay’s UFO map is therefore not just “where sightings happened”; it is a map of documentation conditions — newspapers in Asunción, oral memory in rural communities, online databases in the smartphone era, and foreign archives where early reports crossed international attention.
+Misiones, through Tañarandy, represents a third pattern: not a high-volume reporting hub, but a place where one alleged landing narrative became locally memorable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.com.py/nacionales/2023/07/29/recordaron-25-anos-de-avistamiento-de-un-ovni-en-tanarandy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com.py">[abc.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com.py</span><span class="citation-popover-title">recordaron 25 anos de avistamiento de un ovni en tanarandy</span><span class="citation-popover-snippet">recordaron 25 anos de avistamiento de un ovni en tanarandy</span></span></span> In a region-level reading, Paraguay’s UFO map is therefore not just “where sightings happened”; it is a map of documentation conditions — newspapers in Asunción, oral memory in rural communities, online databases in the smartphone era, and foreign archives where early reports crossed international attention.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ulQ1skxtkk" title="¿Ovnis en Paraguay? Existen avistamientos registrados.#TeleShow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ulQ1skxtkk" target="_blank" rel="noopener noreferrer">¿Ovnis en Paraguay? Existen avistamientos registrados.#TeleShow</a></p><p class="youtube-embed-meta">Channel: Teleshow PY &middot; Views: 8.5K &middot; Uploaded: November 2022 &middot; Length: 3 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ulQ1skxtkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ulQ1skxtkk">Open on YouTube</a></p></div></div></div>
 
 ## How reliable are Paraguay’s UFO sources?
 
-The best sources for Paraguay are useful but limited in different ways. Local newspapers such as Última Hora and ABC Color provide names, dates, places and social context, but they often report ufological claims rather than independently reconstructing the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> Maidana’s compilation is important because it gathered scattered material, yet it remains a private ufology work rather than an official state investigation. Portal Guaraní’s bibliographic entry confirms publication details — title, author, ISBN, page count, editor and year — but not the truth of each case inside the book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://portalguarani.com/3448_libros_paraguayos/41564_ovnis_en_el_paraguay__autor_ronald_r_maidana_torres__ano_2016.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portalguarani.com">[portalguarani.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portalguarani.com</span><span class="citation-popover-title">OVNI S EN EL PARAGUAY</span><span class="citation-popover-snippet">OVNI S EN EL PARAGUAY</span></span></span>
+The best sources for Paraguay are useful but limited in different ways. Local newspapers such as Última Hora and ABC Color provide names, dates, places and social context, but they often report ufological claims rather than independently reconstructing the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span> Maidana’s compilation is important because it gathered scattered material, yet it remains a private ufology work rather than an official state investigation. Portal Guaraní’s bibliographic entry confirms publication details — title, author, ISBN, page count, editor and year — but not the truth of each case inside the book.<span class="citation-chip-wrap"><a class="citation-chip" href="https://portalguarani.com/3448_libros_paraguayos/41564_ovnis_en_el_paraguay__autor_ronald_r_maidana_torres__ano_2016.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portalguarani.com">[portalguarani.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portalguarani.com</span><span class="citation-popover-title">OVNI S EN EL PARAGUAY</span><span class="citation-popover-snippet">OVNI S EN EL PARAGUAY</span></span></span>
 
-Project Blue Book and National Archives material are stronger as institutional sources, but they have a different limitation: they reflect US military procedures, priorities and classifications, not Paraguayan civil investigation. NARA confirms the existence and availability of Blue Book records, while the Air Force fact sheet gives the programme’s overall conclusion and statistics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> These sources are excellent for establishing that a US programme existed and what it concluded; they are not automatic proof that every foreign case was deeply investigated.
+Project Blue Book and National Archives material are stronger as institutional sources, but they have a different limitation: they reflect US military procedures, priorities and classifications, not Paraguayan civil investigation. NARA confirms the existence and availability of Blue Book records, while the Air Force fact sheet gives the programme’s overall conclusion and statistics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> These sources are excellent for establishing that a US programme existed and what it concluded; they are not automatic proof that every foreign case was deeply investigated.
 
-Civilian databases such as NUFORC are helpful for locating [modern reports]({{ 'modern-reports-1ef3a8/' | relative_url }}), but their entries vary sharply in quality. A one-line light report, a video upload, a witness narrative and a self-sceptical “maybe asteroid” entry should not be weighed equally. NUFORC’s Paraguay page is best used as a signpost for further verification, not as a final evidentiary authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Civilian databases such as NUFORC are helpful for locating [modern reports]({{ 'modern-reports-1ef3a8/' | relative_url }}), but their entries vary sharply in quality. A one-line light report, a video upload, a witness narrative and a self-sceptical “maybe asteroid” entry should not be weighed equally. NUFORC’s Paraguay page is best used as a signpost for further verification, not as a final evidentiary authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yq6tmrRiq0U" title="Debate sobre fenómenos OVNI gana espacio en Paraguay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yq6tmrRiq0U" target="_blank" rel="noopener noreferrer">Debate sobre fenómenos OVNI gana espacio en Paraguay</a></p><p class="youtube-embed-meta">Channel: SNT Paraguay &middot; Views: 15.2K &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yq6tmrRiq0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yq6tmrRiq0U">Open on YouTube</a></p></div></div></div>
 
 ## What a strong Paraguay UFO case would need
 
-The main weakness in Paraguay’s record is not that witnesses are necessarily unreliable. It is that many reports lack the data needed to choose between competing explanations. NASA’s UAP guidance is useful here: without extensive, high-quality data, it is nearly impossible to verify or explain an observation scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+The main weakness in Paraguay’s record is not that witnesses are necessarily unreliable. It is that many reports lack the data needed to choose between competing explanations. NASA’s UAP guidance is useful here: without extensive, high-quality data, it is nearly impossible to verify or explain an observation scientifically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 For Paraguay, a strong modern case would need exact time and location, multiple independent witnesses, original unedited images or video, weather data, aircraft and satellite checks, astronomical reconstruction, camera metadata, and prompt site examination if physical traces are alleged. A rural landing claim such as Tañarandy would need soil, vegetation and radiation testing performed quickly and independently. A moving-light case in Asunción would need satellite pass checks, aircraft tracking and comparison with Starlink deployment visibility.
 
@@ -1294,194 +1294,194 @@ The fairest classification is mixed: confirmed reports, contested interpretation
 <img src="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Paraguay&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Paraguay&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Broad survey relevant to Paraguay&#x27;s place in wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad survey relevant to Paraguay&#x27;s place in wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Fits a national UFO-history overview covering folklore, archives, and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national UFO-history overview covering folklore, archives, and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative tools for evaluating national sighting histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative tools for evaluating national sighting histories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relevant to discussions of documented reports and official interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions of documented reports and official interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguay-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-paraguay-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1497,7 +1497,7 @@ The fairest classification is mixed: confirmed reports, contested interpretation
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1517,7 +1517,7 @@ The fairest classification is mixed: confirmed reports, contested interpretation
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1549,7 +1549,7 @@ The fairest classification is mixed: confirmed reports, contested interpretation
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1601,7 +1601,7 @@ The fairest classification is mixed: confirmed reports, contested interpretation
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1646,7 +1646,7 @@ The fairest classification is mixed: confirmed reports, contested interpretation
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1684,244 +1684,243 @@ The fairest classification is mixed: confirmed reports, contested interpretation
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: adndigital.com.py  
    Title: Lanzaron libro sobre ovnis en Paraguay  
-   Link: <a href="https://www.adndigital.com.py/lanzaron-libro-sobre-ovnis-en-paraguay/" target="_blank" rel="noopener noreferrer nofollow">https://www.adndigital.com.py/lanzaron-libro-sobre-ovnis-en-paraguay/</a>  
+   Link:<a href="https://www.adndigital.com.py/lanzaron-libro-sobre-ovnis-en-paraguay/" target="_blank" rel="noopener noreferrer nofollow">https://www.adndigital.com.py/lanzaron-libro-sobre-ovnis-en-paraguay/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: portalguarani.com  
    Title: OVNI S EN EL PARAGUAY  
-   Link: <a href="https://portalguarani.com/3448_libros_paraguayos/41564_ovnis_en_el_paraguay__autor_ronald_r_maidana_torres__ano_2016.html" target="_blank" rel="noopener noreferrer nofollow">https://portalguarani.com/3448_libros_paraguayos/41564_ovnis_en_el_paraguay__autor_ronald_r_maidana_torres__ano_2016.html</a>  
+   Link:<a href="https://portalguarani.com/3448_libros_paraguayos/41564_ovnis_en_el_paraguay__autor_ronald_r_maidana_torres__ano_2016.html" target="_blank" rel="noopener noreferrer nofollow">https://portalguarani.com/3448_libros_paraguayos/41564_ovnis_en_el_paraguay__autor_ronald_r_maidana_torres__ano_2016.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
    Title: (PDF) Ovnis en el Paraguay: El retorno de la fantasía  
-   Link: <a href="https://www.academia.edu/142978767/Ovnis_en_el_Paraguay_El_retorno_de_la_fantas%C3%ADa_ABC_Revista_2016_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/142978767/Ovnis_en_el_Paraguay_El_retorno_de_la_fantas%C3%ADa_ABC_Revista_2016_</a>  
+   Link:<a href="https://www.academia.edu/142978767/Ovnis_en_el_Paraguay_El_retorno_de_la_fantas%C3%ADa_ABC_Revista_2016_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/142978767/Ovnis_en_el_Paraguay_El_retorno_de_la_fantas%C3%ADa_ABC_Revista_2016_</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abc.com.py  
-   Link: <a href="https://www.abc.com.py/tag/ronald-maidana-torres/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/tag/ronald-maidana-torres/</a>  
+   Link:<a href="https://www.abc.com.py/tag/ronald-maidana-torres/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/tag/ronald-maidana-torres/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc.com.py  
    Title: Pobladores de Tañarandy recuerdan 27 años del  
-   Link: <a href="https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy</a>  
+   Link:<a href="https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/nacionales/2025/07/28/pobladores-de-[tanarandy</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Paraguay  
-   Link: <a href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cParaguay</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cParaguay</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc.com.py  
    Title: ovnis. Últimas noticias de ovnis en ABC Color  
-   Link: <a href="https://www.abc.com.py/tag/ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/tag/ovnis/</a>  
+   Link:<a href="https://www.abc.com.py/tag/ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/tag/ovnis/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ia601409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+   Link:<a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: THE+CASE+FOR+THE+UFO+ +Varo+Edition+ M.+K.+Jessup djvu.txt  
-   Link: <a href="https://archive.org/stream/THECASEFORTHEUFOVaroEditionM.K.Jessup/THE%2BCASE%2BFOR%2BTHE%2BUFO%2B-%2BVaro%2BEdition%2B-M.%2BK.%2BJessup_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/THECASEFORTHEUFOVaroEditionM.K.Jessup/THE%2BCASE%2BFOR%2BTHE%2BUFO%2B-%2BVaro%2BEdition%2B-M.%2BK.%2BJessup_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/THECASEFORTHEUFOVaroEditionM.K.Jessup/THE%2BCASE%2BFOR%2BTHE%2BUFO%2B-%2BVaro%2BEdition%2B-M.%2BK.%2BJessup_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/THECASEFORTHEUFOVaroEditionM.K.Jessup/THE%2BCASE%2BFOR%2BTHE%2BUFO%2B-%2BVaro%2BEdition%2B-M.%2BK.%2BJessup_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: hatch manual djvu.txt  
-   Link: <a href="https://archive.org/stream/u_full_version/hatch_manual_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/u_full_version/hatch_manual_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/u_full_version/hatch_manual_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/u_full_version/hatch_manual_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
    Title: Full text of "Underground Alien Bases"  
-   Link: <a href="https://archive.org/stream/UndergroundAlienBases/underground%20alien%20Bases_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UndergroundAlienBases/underground%20alien%20Bases_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UndergroundAlienBases/underground%20alien%20Bases_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UndergroundAlienBases/underground%20alien%20Bases_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abc.com.py  
    Title: ovnis en paraguay reportan avistamientos en varias zonas del pais  
-   Link: <a href="https://www.abc.com.py/tv/ensiestados/2024/12/27/ovnis-en-paraguay-reportan-avistamientos-en-varias-zonas-del-pais/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/tv/ensiestados/2024/12/27/ovnis-en-paraguay-reportan-avistamientos-en-varias-zonas-del-pais/</a>  
+   Link:<a href="https://www.abc.com.py/tv/ensiestados/2024/12/27/ovnis-en-paraguay-reportan-avistamientos-en-varias-zonas-del-pais/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/tv/ensiestados/2024/12/27/ovnis-en-paraguay-reportan-avistamientos-en-varias-zonas-del-pais/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abc.com.py  
    Title: recordaron 25 anos de avistamiento de un ovni en tanarandy  
-   Link: <a href="https://www.abc.com.py/nacionales/2023/07/29/recordaron-25-anos-de-avistamiento-de-un-ovni-en-tanarandy/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/nacionales/2023/07/29/recordaron-25-anos-de-avistamiento-de-un-ovni-en-tanarandy/</a>  
+   Link:<a href="https://www.abc.com.py/nacionales/2023/07/29/recordaron-25-anos-de-avistamiento-de-un-ovni-en-tanarandy/" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.com.py/nacionales/2023/07/29/recordaron-25-anos-de-avistamiento-de-un-ovni-en-tanarandy/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1945v09/d208" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1945v09/d208</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1945v09/d208" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1945v09/d208</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_</a>  
+   Link:<a href="https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40001558/Transcript_of_the_UFO_Magazine_Interview_Conducted_by_Toni_Inajar_Kurowski_to_Ronald_Maidana_English_version_</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/33501956/Neguentrop%C3%ADa_ufol%C3%B3gica_Creando_un_nuevo_sistema_de_clasificaci%C3%B3n_a_partir_del_caos" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33501956/Neguentrop%C3%ADa_ufol%C3%B3gica_Creando_un_nuevo_sistema_de_clasificaci%C3%B3n_a_partir_del_caos</a>  
+   Link:<a href="https://www.academia.edu/33501956/Neguentrop%C3%ADa_ufol%C3%B3gica_Creando_un_nuevo_sistema_de_clasificaci%C3%B3n_a_partir_del_caos" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33501956/Neguentrop%C3%ADa_ufol%C3%B3gica_Creando_un_nuevo_sistema_de_clasificaci%C3%B3n_a_partir_del_caos</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ultimahora.com  
    Title: Última Hora EEUU investigó avistamientos de ovnis en Paraguay  
-   Link: <a href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow">https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022</a>  
+   Link:<a href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow">https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
+   Link:<a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
+   Link:<a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: UFOs in Paraguay: sightings reported in several areas of the country  
-   Link: <a href="https://www.youtube.com/watch?v=wPRi0bRO1xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPRi0bRO1xw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debate on UFO phenomena gains ground in Paraguay...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wPRi0bRO1xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPRi0bRO1xw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debate on UFO phenomena gains ground in Paraguay...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: ¿Ovnis en Paraguay? Existen avistamientos registrados  
-   Link: <a href="https://www.youtube.com/watch?v=9ulQ1skxtkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ulQ1skxtkk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed UFO Incident in History | Operation Prato...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9ulQ1skxtkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ulQ1skxtkk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed UFO Incident in History | Operation Prato...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Paraguay appears in declassified Pentagon files  
-   Link: <a href="https://www.youtube.com/watch?v=yEq4G9CcwWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEq4G9CcwWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Paraguay: sightings reported in several areas of the country...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yEq4G9CcwWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEq4G9CcwWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Paraguay: sightings reported in several areas of the country...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Debate on UFO phenomena gains ground in Paraguay  
-   Link: <a href="https://www.youtube.com/watch?v=yq6tmrRiq0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yq6tmrRiq0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>¿Ovnis en Paraguay? Existen avistamientos registrados...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yq6tmrRiq0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yq6tmrRiq0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>¿Ovnis en Paraguay? Existen avistamientos registrados...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOGA0dMDvEa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOGA0dMDvEa/</a>  
+   Link:<a href="https://www.instagram.com/reel/DOGA0dMDvEa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOGA0dMDvEa/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMqE4JsSGqJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMqE4JsSGqJ/</a>  
+   Link:<a href="https://www.instagram.com/reel/DMqE4JsSGqJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMqE4JsSGqJ/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCTVpy/videos/alagran730pobladores-de-la-comunidad-de-ta%C3%B1arandy-recuerdan-el-27-aniversario-de/1411187609930350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCTVpy/videos/alagran730pobladores-de-la-comunidad-de-ta%C3%B1arandy-recuerdan-el-27-aniversario-de/1411187609930350/</a>  
+   Link:<a href="https://www.facebook.com/ABCTVpy/videos/alagran730pobladores-de-la-comunidad-de-ta%C3%B1arandy-recuerdan-el-27-aniversario-de/1411187609930350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCTVpy/videos/alagran730pobladores-de-la-comunidad-de-ta%C3%B1arandy-recuerdan-el-27-aniversario-de/1411187609930350/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMp9S4NPgQU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMp9S4NPgQU/</a>
+   Link:<a href="https://www.instagram.com/reel/DMp9S4NPgQU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMp9S4NPgQU/</a>

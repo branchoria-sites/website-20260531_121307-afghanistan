@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /equatorial-guinea-ae2c01-index/
 description: Focused pages that expand on Equatorial Guinea.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Equatorial_Guinea_ae2c01
 parent_title: Equatorial Guinea
@@ -16,7 +16,7 @@ parent_permalink: /equatorial-guinea/
 
 # Explore Topics in Equatorial Guinea
 
-The following pages expand on the main **[Equatorial Guinea]({{ '/equatorial-guinea/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Equatorial Guinea]({{ '/equatorial-guinea/' | relative_url }})** page and cover its key branches in.
 
 - [Aviation Context]({{ '/aviation-context/' | relative_url }})
 - [Media Limitations]({{ '/media-limitations/' | relative_url }})

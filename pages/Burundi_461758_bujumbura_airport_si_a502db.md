@@ -248,7 +248,7 @@ image: /assets/images/Burundi_461758_bujumbura_airport_si_a502db-Illustration-1-
 
 ## Introduction
 
-Any serious discussion of UFO or UAP claims in [Burundi]({{ 'what-is-really-known-about-burundi-ufos/' | relative_url }}) almost inevitably leads back to Bujumbura. The city is the country’s main urban centre, its media hub, and the location of Burundi’s only major international airport, Melchior Ndadaye International Airport. That combination matters because it creates two opposite effects at the same time: Bujumbura is the place where unusual lights are most likely to be noticed and reported, but it is also the place where ordinary aviation activity is most likely to explain them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centreforaviation.com">[Centre for Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centreforaviation.com</span><span class="citation-popover-snippet">Bujumbura International Airport ProfileBujumbura International Airport (also known as Melchior Ndadaye International Airport) serves Buju...</span></span></span>
+Any serious discussion of UFO or UAP claims in [Burundi]({{ 'what-is-really-known-about-burundi-ufos/' | relative_url }}) almost inevitably leads back to Bujumbura. The city is the country’s main urban centre, its media hub, and the location of Burundi’s only major international airport, Melchior Ndadaye International Airport. That combination matters because it creates two opposite effects at the same time: Bujumbura is the place where unusual lights are most likely to be noticed and reported, but it is also the place where ordinary aviation activity is most likely to explain them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centreforaviation.com">[Centre for Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centreforaviation.com</span><span class="citation-popover-snippet">Bujumbura International Airport ProfileBujumbura International Airport (also known as Melchior Ndadaye International Airport) serves Buju...</span></span></span>
 
 <img src="{{ "/assets/images/Burundi_461758_bujumbura_airport_si_a502db-Illustration-1-dark.svg" | relative_url }}" alt="Bujumbura illustration 1" data-theme-src-dark="{{ "/assets/images/Burundi_461758_bujumbura_airport_si_a502db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Burundi_461758_bujumbura_airport_si_a502db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The available public record does not show a strong, documented Bujumbura UFO case with independently verified evidence. Instead, the city functions more as a test case for how future Burundi sightings would need to be assessed. A light over Lake Tanganyika, a bright object approaching from the north at night, or an apparently hovering source near the airport perimeter may sound mysterious in isolation. In practice, investigators would first need to rule out commercial traffic, approach lighting, navigation beacons, helicopters, construction activity, atmospheric reflection, drones, and misidentified stars or planets before treating the claim as genuinely anomalous.
@@ -257,25 +257,25 @@ The available public record does not show a strong, documented Bujumbura UFO cas
 
 Bujumbura has structural advantages over the rest of Burundi when it comes to producing UFO reports. The city has denser population, more mobile-phone usage, more media activity, and better internet connectivity than most rural areas. A sighting there is more likely to be photographed, posted online, or discussed publicly within hours.
 
-The geography also encourages visual misinterpretation. Bujumbura sits on the north-eastern shore of Lake Tanganyika, with mountains, water reflections, haze layers, and changing weather conditions affecting visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Melchior Ndadaye International Airport</span><span class="citation-popover-snippet">Melchior Ndadaye International Airport</span></span></span> At dusk or at night, aircraft lights reflected across the lake or viewed through humid air can appear stationary, distorted, or unusually bright. A distant aircraft descending toward the runway may seem to hover because its forward motion is directed toward the observer rather than across their field of view.
+The geography also encourages visual misinterpretation. Bujumbura sits on the north-eastern shore of Lake Tanganyika, with mountains, water reflections, haze layers, and changing weather conditions affecting visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Melchior Ndadaye International Airport</span><span class="citation-popover-snippet">Melchior Ndadaye International Airport</span></span></span> At dusk or at night, aircraft lights reflected across the lake or viewed through humid air can appear stationary, distorted, or unusually bright. A distant aircraft descending toward the runway may seem to hover because its forward motion is directed toward the observer rather than across their field of view.
 
 Unlike countries with extensive radar transparency or publicly accessible civilian flight archives, Burundi has relatively limited open aviation data. That lack of publicly visible information can encourage speculation. A witness may genuinely be unable to identify an aircraft because local flight information is harder to verify in real time, not because the object is extraordinary.
 
-Another factor is concentration. Burundi’s aviation infrastructure is heavily centralised around Bujumbura. The airport identified by IATA code BJM and ICAO code HBBA is effectively the country’s primary international aviation gateway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centreforaviation.com">[Centre for Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centreforaviation.com</span><span class="citation-popover-snippet">Bujumbura International Airport ProfileBujumbura International Airport (also known as Melchior Ndadaye International Airport) serves Buju...</span></span></span> If unusual aerial observations are going to occur anywhere repeatedly, the air corridor around Bujumbura is the statistically most likely location.
+Another factor is concentration. Burundi’s aviation infrastructure is heavily centralised around Bujumbura. The airport identified by IATA code BJM and ICAO code HBBA is effectively the country’s primary international aviation gateway.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centreforaviation.com">[Centre for Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centreforaviation.com</span><span class="citation-popover-snippet">Bujumbura International Airport ProfileBujumbura International Airport (also known as Melchior Ndadaye International Airport) serves Buju...</span></span></span> If unusual aerial observations are going to occur anywhere repeatedly, the air corridor around Bujumbura is the statistically most likely location.
 
 ## Airport lights, flight paths, and night operations
 
 The strongest ordinary explanation for most future Bujumbura UFO claims would probably involve airport operations.
 
-Melchior Ndadaye International Airport operates as Burundi’s principal aviation hub and supports international passenger and cargo traffic. Airlines serving the airport connect Bujumbura with regional centres including Kigali, Nairobi, Entebbe, Addis Ababa and other African routes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.trip.com/flights/airport-bjm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.trip.com">[Trip.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.trip.com</span><span class="citation-popover-title">airport bjm</span><span class="citation-popover-snippet">Ndadaye International Airport (BJM) Arrivals and...Popular flight routes from Melchior Ndadaye International Airport(BJM) include Bujumb...</span></span></span> Even moderate traffic can create recurring visual patterns that inexperienced observers interpret incorrectly.
+Melchior Ndadaye International Airport operates as Burundi’s principal aviation hub and supports international passenger and cargo traffic. Airlines serving the airport connect Bujumbura with regional centres including Kigali, Nairobi, Entebbe, Addis Ababa and other African routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.trip.com/flights/airport-bjm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.trip.com">[Trip.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.trip.com</span><span class="citation-popover-title">airport bjm</span><span class="citation-popover-snippet">Ndadaye International Airport (BJM) Arrivals and...Popular flight routes from Melchior Ndadaye International Airport(BJM) include Bujumb...</span></span></span> Even moderate traffic can create recurring visual patterns that inexperienced observers interpret incorrectly.
 
 Several airport-related mechanisms are especially important when assessing sightings:
 
 * **Approach and departure lighting:** Aircraft approaching a runway head-on can appear almost motionless while their landing lights become progressively brighter. This is one of the most common worldwide sources of “hovering UFO” reports near airports.
-* **Navigation beacons and VOR systems:** Bujumbura airport uses radio-navigation infrastructure including the Bujumbura VOR-DME beacon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourairports.com">[OurAirports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourairports.com</span><span class="citation-popover-snippet">Bujumbura VOR-DME (BJA)VOR-DME data; High- and low-level enroute navigation (high power) · Burundi · Bujumbura Melchior Ndada...</span></span></span> Aircraft aligning with navigation routes can repeatedly appear in the same section of sky, creating the impression of a fixed patrol or recurring unidentified object.
-* **Night operations:** Burundi’s aviation authority publicly notes 24-hour operational structures and airport services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/rb2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-snippet">ndi Civil Aviation Authority.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-snippet">NCE REQUEST FORM 562.7 KBRead more...</span></span></span> Even where scheduled traffic is limited, maintenance, cargo handling, military movements, or delayed arrivals can generate lights visible over the city after dark.
-* **Construction and infrastructure works:** The airport has undergone expansion and modernisation projects in recent years, including runway work, rehabilitation, and a new control tower project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burundi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Burundia landlocked country in East Africa. It is located in the Great Rift Valley at the junction between the African Great Lakes reg...</span></span></span> Construction lighting, mobile cranes, temporary lighting rigs, and altered traffic procedures can all produce unfamiliar visual effects.
-* **Temporary operational changes:** During airport expansion activity, reports emerged that night flights were temporarily suspended or altered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unisco.com/international-airports/melchior-ndadaye-intl-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unisco.com">[UNIS - Smarter Supply Chain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unisco.com</span><span class="citation-popover-snippet">Burundi has temporarily suspended night flights at Melchior Ndadaye International Airport due to ongoing...Read more...</span></span></span> Sudden changes to normal traffic patterns can create confusion among regular observers who expect aircraft to appear at certain times or from certain directions.
+* **Navigation beacons and VOR systems:** Bujumbura airport uses radio-navigation infrastructure including the Bujumbura VOR-DME beacon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourairports.com">[OurAirports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourairports.com</span><span class="citation-popover-snippet">Bujumbura VOR-DME (BJA)VOR-DME data; High- and low-level enroute navigation (high power) · Burundi · Bujumbura Melchior Ndada...</span></span></span> Aircraft aligning with navigation routes can repeatedly appear in the same section of sky, creating the impression of a fixed patrol or recurring unidentified object.
+* **Night operations:** Burundi’s aviation authority publicly notes 24-hour operational structures and airport services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/rb2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-snippet">ndi Civil Aviation Authority.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-snippet">NCE REQUEST FORM 562.7 KBRead more...</span></span></span> Even where scheduled traffic is limited, maintenance, cargo handling, military movements, or delayed arrivals can generate lights visible over the city after dark.
+* **Construction and infrastructure works:** The airport has undergone expansion and modernisation projects in recent years, including runway work, rehabilitation, and a new control tower project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burundi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Burundia landlocked country in East Africa. It is located in the Great Rift Valley at the junction between the African Great Lakes reg...</span></span></span> Construction lighting, mobile cranes, temporary lighting rigs, and altered traffic procedures can all produce unfamiliar visual effects.
+* **Temporary operational changes:** During airport expansion activity, reports emerged that night flights were temporarily suspended or altered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unisco.com/international-airports/melchior-ndadaye-intl-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unisco.com">[UNIS - Smarter Supply Chain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unisco.com</span><span class="citation-popover-snippet">Burundi has temporarily suspended night flights at Melchior Ndadaye International Airport due to ongoing...Read more...</span></span></span> Sudden changes to normal traffic patterns can create confusion among regular observers who expect aircraft to appear at certain times or from certain directions.
 
 The airport’s position near water also matters. Reflections from Lake Tanganyika can exaggerate brightness or produce mirrored visual effects, especially during humid conditions or thermal inversions. A bright aircraft descending toward the runway can reflect off the lake surface and appear doubled or strangely positioned.
 
@@ -306,7 +306,7 @@ That matters especially in Bujumbura because the airport explanation is so stron
 * duration
 * independent witnesses
 * original photo or video files
-* confirmation that known flights were checked <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk Safety and security</span><span class="citation-popover-snippet">In the event that flights were not available at the airport, there are currently...Read more...</span></span></span>
+* confirmation that known flights were checked<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk Safety and security</span><span class="citation-popover-snippet">In the event that flights were not available at the airport, there are currently...Read more...</span></span></span>
 * evidence ruling out airport lighting or approach traffic
 
 </div>
@@ -330,7 +330,7 @@ Single-observer reports are much weaker because perspective errors are common ne
 
 ### Timing outside known aviation patterns
 
-A report becomes more interesting if it occurs when verified airport traffic was absent or incompatible with the observed behaviour. Investigators would need to compare the timing against airport schedules, authorised operations, and any temporary restrictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/xb17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-title">OP S: BCAAOPS: BCAA. Burundi Civil Aviation Authority</span><span class="citation-popover-snippet">OPS: BCAAOPS: BCAA. Burundi Civil Aviation Authority - BCAA. Français · English. Home... Airport Services · COVID-19 · Charges · PARKI...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/at15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-snippet">Melchior Ndadaye International Airport rehabilitation...Dec 4, 2023 — In the process of implementing the Melchior Ndadaye International...</span></span></span>
+A report becomes more interesting if it occurs when verified airport traffic was absent or incompatible with the observed behaviour. Investigators would need to compare the timing against airport schedules, authorised operations, and any temporary restrictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/xb17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-title">OP S: BCAAOPS: BCAA. Burundi Civil Aviation Authority</span><span class="citation-popover-snippet">OPS: BCAAOPS: BCAA. Burundi Civil Aviation Authority - BCAA. Français · English. Home... Airport Services · COVID-19 · Charges · PARKI...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://aacb.gov.bi/en/at15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[aacb.gov.bi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-snippet">Melchior Ndadaye International Airport rehabilitation...Dec 4, 2023 — In the process of implementing the Melchior Ndadaye International...</span></span></span>
 
 Even then, military, diplomatic, charter, or emergency flights would still need consideration before treating the object as unexplained.
 
@@ -364,199 +364,199 @@ In Bujumbura specifically, investigators would also need to check whether the si
 
 The absence of a famous Burundi UFO incident does not mean unusual reports will never emerge. If they do, Bujumbura is still the place most likely to produce them because it combines visibility, population density, aviation activity, and rapid information spread.
 
-At the same time, that same environment makes airport [explanations]({{ 'explanations-97105f/' | relative_url }}) the first and strongest line of analysis. The city’s skies are shaped by approach lighting, navigation systems, commercial flights, airport renovations, weather effects, and reflections from Lake Tanganyika far more than by any documented anomalous phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourairports.com">[OurAirports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourairports.com</span><span class="citation-popover-snippet">Bujumbura VOR-DME (BJA)VOR-DME data; High- and low-level enroute navigation (high power) · Burundi · Bujumbura Melchior Ndada...</span></span></span> [3Wikipedia 3aacb.gov.bi]
+At the same time, that same environment makes airport [explanations]({{ 'explanations-97105f/' | relative_url }}) the first and strongest line of analysis. The city’s skies are shaped by approach lighting, navigation systems, commercial flights, airport renovations, weather effects, and reflections from Lake Tanganyika far more than by any documented anomalous phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourairports.com">[OurAirports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourairports.com</span><span class="citation-popover-snippet">Bujumbura VOR-DME (BJA)VOR-DME data; High- and low-level enroute navigation (high power) · Burundi · Bujumbura Melchior Ndada...</span></span></span> [3Wikipedia 3aacb.gov.bi]
 
 That does not make every future report false. It simply means that in Bujumbura, the evidential bar has to be unusually high before a sighting can move from “probably aviation-related” into the category of a genuinely unexplained aerial event.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bujumbura Would Shape Burundi UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bujumbura Would Shape Burundi UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing airport-area sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing airport-area sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong focus on pilot and aviation testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong focus on pilot and aviation testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps explain how aviation activity can appear mysterious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how aviation activity can appear mysterious.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Provides insight into real-world flight operations and perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into real-world flight operations and perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bujumbura-would-shape-burundi-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ That does not make every future report false. It simply means that in Bujumbura,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ That does not make every future report false. It simply means that in Bujumbura,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ That does not make every future report false. It simply means that in Bujumbura,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ That does not make every future report false. It simply means that in Bujumbura,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ That does not make every future report false. It simply means that in Bujumbura,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,138 +759,137 @@ That does not make every future report false. It simply means that in Bujumbura,
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Melchior Ndadaye International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Burundi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burundi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burundia landlocked country in East Africa. It is located in the Great Rift Valley at the junction between the African Great Lakes reg...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Burundi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burundi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burundia landlocked country in East Africa. It is located in the Great Rift Valley at the junction between the African Great Lakes reg...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uk.trip.com  
    Title: airport bjm  
-   Link: <a href="https://uk.trip.com/flights/airport-bjm/" target="_blank" rel="noopener noreferrer nofollow">https://uk.trip.com/flights/airport-bjm/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ndadaye International Airport (BJM) Arrivals and...Popular flight routes from Melchior Ndadaye International Airport(BJM) include Bujumb...</p></details>
+   Link:<a href="https://uk.trip.com/flights/airport-bjm/" target="_blank" rel="noopener noreferrer nofollow">https://uk.trip.com/flights/airport-bjm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ndadaye International Airport (BJM) Arrivals and...Popular flight routes from Melchior Ndadaye International Airport(BJM) include Bujumb...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ourairports.com  
-   Link: <a href="https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura VOR-DME (BJA)VOR-DME data; High- and low-level enroute navigation (high power) · Burundi · Bujumbura Melchior Ndada...</p></details>
+   Link:<a href="https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/navaids/BJA/Bujumbura_VOR-DME_BI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura VOR-DME (BJA)VOR-DME data; High- and low-level enroute navigation (high power) · Burundi · Bujumbura Melchior Ndada...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aacb.gov.bi  
-   Link: <a href="https://aacb.gov.bi/en/rb2/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/rb2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ndi Civil Aviation Authority.Read more...</p></details>
+   Link:<a href="https://aacb.gov.bi/en/rb2/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/rb2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndi Civil Aviation Authority.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aacb.gov.bi  
-   Link: <a href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCE REQUEST FORM 562.7 KBRead more...</p></details>
+   Link:<a href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCE REQUEST FORM 562.7 KBRead more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aacb.gov.bi  
    Title: OP S: BCAAOPS: BCAA. Burundi Civil Aviation Authority  
-   Link: <a href="https://aacb.gov.bi/en/xb17/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/xb17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OPS: BCAAOPS: BCAA. Burundi Civil Aviation Authority - BCAA. Français · English. Home... Airport Services · COVID-19 · Charges · PARKI...</p></details>
+   Link:<a href="https://aacb.gov.bi/en/xb17/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/xb17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OPS: BCAAOPS: BCAA. Burundi Civil Aviation Authority - BCAA. Français · English. Home... Airport Services · COVID-19 · Charges · PARKI...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aacb.gov.bi  
-   Link: <a href="https://aacb.gov.bi/en/at15/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/at15/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Melchior Ndadaye International Airport rehabilitation...Dec 4, 2023 — In the process of implementing the Melchior Ndadaye International...</p></details>
+   Link:<a href="https://aacb.gov.bi/en/at15/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/at15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melchior Ndadaye International Airport rehabilitation...Dec 4, 2023 — In the process of implementing the Melchior Ndadaye International...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unisco.com  
-   Link: <a href="https://www.unisco.com/international-airports/melchior-ndadaye-intl-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.unisco.com/international-airports/melchior-ndadaye-intl-airport</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi has temporarily suspended night flights at Melchior Ndadaye International Airport due to ongoing...Read more...</p></details>
+   Link:<a href="https://www.unisco.com/international-airports/melchior-ndadaye-intl-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.unisco.com/international-airports/melchior-ndadaye-intl-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi has temporarily suspended night flights at Melchior Ndadaye International Airport due to ongoing...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aacb.gov.bi  
    Title: bi AAC B: Accueil Autorité de l'Aviation Civile du Burundi  
-   Link: <a href="https://www.aacb.gov.bi/" target="_blank" rel="noopener noreferrer nofollow">https://www.aacb.gov.bi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gov.biAACB: AccueilAutorité de l&#x27;Aviation Civile du Burundi - AACB. 22 20 31 02 22 20 31 00. aacbburundi@gmail.com/aacb@aacb.gov.bi Ouver...</p></details>
+   Link:<a href="https://www.aacb.gov.bi/" target="_blank" rel="noopener noreferrer nofollow">https://www.aacb.gov.bi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gov.biAACB: AccueilAutorité de l&#x27;Aviation Civile du Burundi - AACB. 22 20 31 02 22 20 31 00. aacbburundi@gmail.com/aacb@aacb.gov.bi Ouver...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aacb.gov.bi  
    Title: bi About Us: BCAABurundi Civil Aviation Authority  
-   Link: <a href="https://aacb.gov.bi/en/rb7/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/rb7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Us: BCAABurundi Civil Aviation Authority - BCAA 22 20 31 02 22 20 31 00 aacbburundi@gmail.com/aacb@aacb.gov.bi Open 24/24h...</p></details>
+   Link:<a href="https://aacb.gov.bi/en/rb7/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/rb7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Us: BCAABurundi Civil Aviation Authority - BCAA 22 20 31 02 22 20 31 00 aacbburundi@gmail.com/aacb@aacb.gov.bi Open 24/24h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: www.gov.uk Safety and security  
-   Link: <a href="https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the event that flights were not available at the airport, there are currently...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the event that flights were not available at the airport, there are currently...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/afiplan-contractingstates" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/afiplan-contractingstates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFIPlan-ContractingStatesCarlos Manuel David General Director National Institute of Civil Aviation... Iswarduth Pokhun. Director of Civi...</p></details>
+   Link:<a href="https://www.icao.int/afiplan-contractingstates" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/afiplan-contractingstates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFIPlan-ContractingStatesCarlos Manuel David General Director National Institute of Civil Aviation... Iswarduth Pokhun. Director of Civi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: centreforaviation.com  
-   Link: <a href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International Airport ProfileBujumbura International Airport (also known as Melchior Ndadaye International Airport) serves Buju...</p></details>
+   Link:<a href="https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/bujumbura-international-airport-bjm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International Airport ProfileBujumbura International Airport (also known as Melchior Ndadaye International Airport) serves Buju...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/airports/hbba" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/airports/hbba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International | SKYbrary Aviation SafetyBujumbura International Airport (IATA: BJM, ICAO: HBBA) is an airport in Bujumbura, the...</p></details>
+   Link:<a href="https://skybrary.aero/airports/hbba" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/airports/hbba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International | SKYbrary Aviation SafetyBujumbura International Airport (IATA: BJM, ICAO: HBBA) is an airport in Bujumbura, the...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: breakingburundi.com  
-   Link: <a href="https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/" target="_blank" rel="noopener noreferrer nofollow">https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi Halts Night Flights at Melchior Ndadaye Airport...“Currently, no night flights are allowed at Melchior Ndadaye International Air...</p></details>
+   Link:<a href="https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/" target="_blank" rel="noopener noreferrer nofollow">https://breakingburundi.com/burundi-halts-night-flights-at-melchior-ndadaye-airport-amid-expansion-works/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi Halts Night Flights at Melchior Ndadaye Airport...“Currently, no night flights are allowed at Melchior Ndadaye International Air...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) guide – Melchior Ndadaye infoComplete guide to Melchior Ndadaye International Airport in Burundi. Find terminal d...</p></details>
+   Link:<a href="https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) guide – Melchior Ndadaye infoComplete guide to Melchior Ndadaye International Airport in Burundi. Find terminal d...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jetmate.aero  
-   Link: <a href="https://jetmate.aero/airport/bujumbura-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://jetmate.aero/airport/bujumbura-international-airport/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International AirportJetMate Aviation delivers top-tier Ground Handling services at Bujumbura International Airport in Bujumbur...</p></details>
+   Link:<a href="https://jetmate.aero/airport/bujumbura-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://jetmate.aero/airport/bujumbura-international-airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International AirportJetMate Aviation delivers top-tier Ground Handling services at Bujumbura International Airport in Bujumbur...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aeroport-bujumbura.com  
-   Link: <a href="https://www.aeroport-bujumbura.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroport-bujumbura.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura airportBujumbura International Airport is the largest airport of the country. Discover our airport facilities, destinations pro...</p></details>
+   Link:<a href="https://www.aeroport-bujumbura.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeroport-bujumbura.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura airportBujumbura International Airport is the largest airport of the country. Discover our airport facilities, destinations pro...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ucas.com.sa  
-   Link: <a href="https://www.ucas.com.sa/en/overflight-permits/13" target="_blank" rel="noopener noreferrer nofollow">https://www.ucas.com.sa/en/overflight-permits/13</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi Overflight PermitWho Will Issue Burundi Overflight Permits: Burundi Civil Aviation Authority; Postal Address: BP 694. Bujumbura...</p></details>
+   Link:<a href="https://www.ucas.com.sa/en/overflight-permits/13" target="_blank" rel="noopener noreferrer nofollow">https://www.ucas.com.sa/en/overflight-permits/13</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi Overflight PermitWho Will Issue Burundi Overflight Permits: Burundi Civil Aviation Authority; Postal Address: BP 694. Bujumbura...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: flytag.co  
-   Link: <a href="https://flytag.co/region/africa/hbba-bjm-landing-permits-ground-handling-burundi.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/region/africa/hbba-bjm-landing-permits-ground-handling-burundi.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HBBA/BJM Bujumbura Airport Ground Handling &amp; PermitsBurundi HBBA/BJM landing permits, ground handling &amp; overflight. 24/7 support with fas...</p></details>
+   Link:<a href="https://flytag.co/region/africa/hbba-bjm-landing-permits-ground-handling-burundi.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/region/africa/hbba-bjm-landing-permits-ground-handling-burundi.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HBBA/BJM Bujumbura Airport Ground Handling &amp; PermitsBurundi HBBA/BJM landing permits, ground handling &amp; overflight. 24/7 support with fas...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: acukwik.com  
-   Link: <a href="https://acukwik.com/Airport-Info/HBBA" target="_blank" rel="noopener noreferrer nofollow">https://acukwik.com/Airport-Info/HBBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HBBA/Bujumbura Melchior Ndadaye Intl General Airport...Located in Bujumbura, BURUNDI. ICAO - HBBA, IATA - BJM. Weather Clearance Visa...</p></details>
+   Link:<a href="https://acukwik.com/Airport-Info/HBBA" target="_blank" rel="noopener noreferrer nofollow">https://acukwik.com/Airport-Info/HBBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HBBA/Bujumbura Melchior Ndadaye Intl General Airport...Located in Bujumbura, BURUNDI. ICAO - HBBA, IATA - BJM. Weather Clearance Visa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ruzave.com  
-   Link: <a href="https://ruzave.com/wafa/burundi/bujumbura-airport-burundi" target="_blank" rel="noopener noreferrer nofollow">https://ruzave.com/wafa/burundi/bujumbura-airport-burundi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Air Freight Alliance | Bujumbura International Airport...WAFA provides list of Best Verified &amp; Trusted Air Freight Companies at Bu...</p></details>
+   Link:<a href="https://ruzave.com/wafa/burundi/bujumbura-airport-burundi" target="_blank" rel="noopener noreferrer nofollow">https://ruzave.com/wafa/burundi/bujumbura-airport-burundi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Air Freight Alliance | Bujumbura International Airport...WAFA provides list of Best Verified &amp; Trusted Air Freight Companies at Bu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/burundivoitures/posts/3489276841380027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/burundivoitures/posts/3489276841380027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ibuvuzi | BIF35 | BujumburaHe framed the move as a response to “tremendous demand for transparency” and long- standing public interest in...</p></details>
+   Link:<a href="https://www.facebook.com/groups/burundivoitures/posts/3489276841380027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/burundivoitures/posts/3489276841380027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ibuvuzi | BIF35 | BujumburaHe framed the move as a response to “tremendous demand for transparency” and long- standing public interest in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cetri.be  
    Title: Alternatives Sud Agroécologie: enjeux et perspectives  
-   Link: <a href="https://www.cetri.be/IMG/pdf/as_agroecologie_pdf_final_2014_-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cetri.be/IMG/pdf/as_agroecologie_pdf_final_2014_-3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi (2011), Plan national d&#x27;investissement agricole (PNIA). WEF (2013), Achieving the New Vision for Agriculture: New Models for Act...</p></details>
+   Link:<a href="https://www.cetri.be/IMG/pdf/as_agroecologie_pdf_final_2014_-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cetri.be/IMG/pdf/as_agroecologie_pdf_final_2014_-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burundi (2011), Plan national d&#x27;investissement agricole (PNIA). WEF (2013), Achieving the New Vision for Agriculture: New Models for Act...</p></details>

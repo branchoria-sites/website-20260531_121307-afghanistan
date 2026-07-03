@@ -253,26 +253,26 @@ Informal civilian reports and anecdotal sightings of unidentified flying objects
 <img src="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Online Anecdotes and Forum Mentions
 
-Civilian‑oriented UFO reporting forums and privately maintained UFO databases include generic listings purporting to host reports from Djibouti. For example, an online page on the United States UFO Information and Research Center’s worldwide listings section states that there have been “a number of UFO reports received from Djibouti” and invites residents to submit their experiences and photos via an online form. However, this page is essentially a placeholder soliciting user input rather than a structured archive of verified acknowledgements, and it does not currently list detailed individual cases with independent corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Djibouti UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+Civilian‑oriented UFO reporting forums and privately maintained UFO databases include generic listings purporting to host reports from Djibouti. For example, an online page on the United States UFO Information and Research Center’s worldwide listings section states that there have been “a number of UFO reports received from Djibouti” and invites residents to submit their experiences and photos via an online form. However, this page is essentially a placeholder soliciting user input rather than a structured archive of verified acknowledgements, and it does not currently list detailed individual cases with independent corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Djibouti UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
-A few social media posts and user videos claim that individuals who have been stationed in Djibouti reported seeing unusual objects in the sky — one such Instagram post refers to an “egg‑shaped white UFO” observed on a military airfield during a deployment. These posts are anecdotal and lack supporting detail, witness identity, or verification by third parties, so they stay within the realm of online hearsay rather than documented civilian sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DYFN61SDf0s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Veteran who was deployed to Djibouti confirmed seen a...In 2015 I deployed to Djibouti Africa at Camp Lemonnier and on the airf...</span></span></span>
+A few social media posts and user videos claim that individuals who have been stationed in Djibouti reported seeing unusual objects in the sky — one such Instagram post refers to an “egg‑shaped white UFO” observed on a military airfield during a deployment. These posts are anecdotal and lack supporting detail, witness identity, or verification by third parties, so they stay within the realm of online hearsay rather than documented civilian sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DYFN61SDf0s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Veteran who was deployed to Djibouti confirmed seen a...In 2015 I deployed to Djibouti Africa at Camp Lemonnier and on the airf...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WAKmePJ5i98" title="UFO Sightings That Changed Everything! | UFO’s Over Earth S1 E2 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WAKmePJ5i98" target="_blank" rel="noopener noreferrer">UFO Sightings That Changed Everything! | UFO’s Over Earth S1 E2 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 21.7K &middot; Uploaded: October 2025 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WAKmePJ5i98" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WAKmePJ5i98">Open on YouTube</a></p></div></div></div>
 
 ## Informal Log Entries and Submission Portals
 
-Independent UFO tracking platforms like UAP Monitor and UAP Nexus compile global sighting reports from many countries, but when filtered for location, they do **not** show a cluster of substantive reports originating in Djibouti as of the latest public data. These platforms are primarily aggregators of entries submitted to civilian reporting agencies such as the National UFO Reporting Center (NUFORC) and similar organisations; researchers have noted that many parts of Africa, including Djibouti, are under‑represented in global UFO databases, likely reflecting both sparse civilian submissions and limited media coverage rather than an absence of sky phenomena per se. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmonitor.org">[UAP Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmonitor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Independent UFO tracking platforms like UAP Monitor and UAP Nexus compile global sighting reports from many countries, but when filtered for location, they do **not** show a cluster of substantive reports originating in Djibouti as of the latest public data. These platforms are primarily aggregators of entries submitted to civilian reporting agencies such as the National UFO Reporting Center (NUFORC) and similar organisations; researchers have noted that many parts of Africa, including Djibouti, are under‑represented in global UFO databases, likely reflecting both sparse civilian submissions and limited media coverage rather than an absence of sky phenomena per se.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmonitor.org">[UAP Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmonitor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Standard civilian sighting repositories like the **NUFORC databank** allow browsing by geographic region, but as of the most recent accessible records, Djibouti does not figure as a distinct location category with its own confirmed entries. This contrasts with countries that have demonstrably larger archives of civilian reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+Standard civilian sighting repositories like the **NUFORC databank** allow browsing by geographic region, but as of the most recent accessible records, Djibouti does not figure as a distinct location category with its own confirmed entries. This contrasts with countries that have demonstrably larger archives of civilian reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-2-dark.svg" | relative_url }}" alt="Civilian Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility and Verification Issues
 
-Even where “Djibouti UFO sightings” are referenced online, the **quality and verifiability of these accounts are extremely low**. Many such entries on UFO‑related sites consist only of broad encouragement for local witnesses to submit photographs and descriptions, without any chronological details, witness contact information, or investigatory follow‑up. This makes it impossible to assess the authenticity or anomalous nature of the claimed observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Djibouti UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+Even where “Djibouti UFO sightings” are referenced online, the **quality and verifiability of these accounts are extremely low**. Many such entries on UFO‑related sites consist only of broad encouragement for local witnesses to submit photographs and descriptions, without any chronological details, witness contact information, or investigatory follow‑up. This makes it impossible to assess the authenticity or anomalous nature of the claimed observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Djibouti UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
-Academic and enthusiast writers who address UFO phenomena in Africa have observed that reports from less digitised or less interconnected regions tend to remain unrecorded in mainstream civilian sighting databases. Low reporting rates in parts of Africa are often attributed to limited communications infrastructure, fewer local researchers dedicated to ufology, and scant media attention — factors that compound the dearth of formally catalogued civilian sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from Africa...</span></span></span>
+Academic and enthusiast writers who address UFO phenomena in Africa have observed that reports from less digitised or less interconnected regions tend to remain unrecorded in mainstream civilian sighting databases. Low reporting rates in parts of Africa are often attributed to limited communications infrastructure, fewer local researchers dedicated to ufology, and scant media attention — factors that compound the dearth of formally catalogued civilian sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from Africa...</span></span></span>
 
-In addition, some social media claims purporting to show specific sightings over Djibouti (for example, alleged January 2025 clips or commentary on “alien leaks” over the region) circulate without verification and cannot be substantiated against independent evidence or location metadata. These should be treated as unconfirmed online posts rather than verifiable civilian reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DYH2kCyMYcw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">Well since the UFO files have been unclassified, I might as</span><span class="citation-popover-snippet">UFO SIGHTINGS Dominican Republic — 39 sightings... IT VANISHES FASTER THAN YOU CAN PROCESS IT DJIBOUTI, AFRICA - 2025.01.01 ALIEN LEAKS...</span></span></span>
+In addition, some social media claims purporting to show specific sightings over Djibouti (for example, alleged January 2025 clips or commentary on “alien leaks” over the region) circulate without verification and cannot be substantiated against independent evidence or location metadata. These should be treated as unconfirmed online posts rather than verifiable civilian reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DYH2kCyMYcw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">Well since the UFO files have been unclassified, I might as</span><span class="citation-popover-snippet">UFO SIGHTINGS Dominican Republic — 39 sightings... IT VANISHES FASTER THAN YOU CAN PROCESS IT DJIBOUTI, AFRICA - 2025.01.01 ALIEN LEAKS...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o_4Il-Jt8jI" title="UFO Encounters &amp; Witness Testimony | Preston Dennett (MUFON) – 40 Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o_4Il-Jt8jI" target="_blank" rel="noopener noreferrer">UFO Encounters &amp; Witness Testimony | Preston Dennett (MUFON) – 40 Years</a></p><p class="youtube-embed-meta">Channel: The Ryan Files &middot; Views: 8.0K &middot; Uploaded: January 2026 &middot; Length: 1 hour 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o_4Il-Jt8jI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o_4Il-Jt8jI">Open on YouTube</a></p></div></div></div>
 
@@ -290,199 +290,199 @@ Taken together, the anecdotal civilian mentions associated with Djibouti reveal 
 
 </div>
 
-In short, while online community spaces may generate occasional narrative accounts claiming unusual aerial observations in Djibouti, these **remain anecdote‑level at best and are not part of a systematically documented civilian sighting record**. None have been established as sufficiently credible to feature in major UFO/UAP sighting catalogues or attract independent investigation to date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Djibouti UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+In short, while online community spaces may generate occasional narrative accounts claiming unusual aerial observations in Djibouti, these **remain anecdote‑level at best and are not part of a systematically documented civilian sighting record**. None have been established as sufficiently credible to feature in major UFO/UAP sighting catalogues or attract independent investigation to date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Djibouti UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-3-dark.svg" | relative_url }}" alt="Civilian Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_civilian_ufo_reports_ba7480-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Civilian Accounts Reveal About UFO Activity in Djibouti?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Civilian Accounts Reveal About UFO Activity in Djibouti?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides context for how folklore, testimony, and reports evolve into UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how folklore, testimony, and reports evolve into UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Examines reported encounters and interpretations of unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reported encounters and interpretations of unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony, reporting quality, and evidence standards relevant to sparse civilian accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony, reporting quality, and evidence standards relevant to sparse civilian accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness classifications, case evaluation, and limits of anecdotal evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness classifications, case evaluation, and limits of anecdotal evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-civilian-accounts-reveal-about-ufo-activity-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -498,7 +498,7 @@ In short, while online community spaces may generate occasional narrative accoun
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -518,7 +518,7 @@ In short, while online community spaces may generate occasional narrative accoun
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -550,7 +550,7 @@ In short, while online community spaces may generate occasional narrative accoun
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -602,7 +602,7 @@ In short, while online community spaces may generate occasional narrative accoun
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -647,7 +647,7 @@ In short, while online community spaces may generate occasional narrative accoun
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -685,130 +685,129 @@ In short, while online community spaces may generate occasional narrative accoun
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYFN61SDf0s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFN61SDf0s/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Veteran who was deployed to Djibouti confirmed seen a...In 2015 I deployed to Djibouti Africa at Camp Lemonnier and on the airf...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYFN61SDf0s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFN61SDf0s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Veteran who was deployed to Djibouti confirmed seen a...In 2015 I deployed to Djibouti Africa at Camp Lemonnier and on the airf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: uap.nexus  
    Title: NEXUSUAP NEXUS | Global Sighting Aggregator  
-   Link: <a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting Aggregator...</p></details>
+   Link:<a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting Aggregator...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
    Title: Well since the UFO files have been unclassified, I might as  
-   Link: <a href="https://www.instagram.com/p/DYH2kCyMYcw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYH2kCyMYcw/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS Dominican Republic — 39 sightings... IT VANISHES FASTER THAN YOU CAN PROCESS IT DJIBOUTI, AFRICA - 2025.01.01 ALIEN LEAKS...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYH2kCyMYcw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYH2kCyMYcw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS Dominican Republic — 39 sightings... IT VANISHES FASTER THAN YOU CAN PROCESS IT DJIBOUTI, AFRICA - 2025.01.01 ALIEN LEAKS...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191148" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191148</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191148July 24, 2025 — NUFORC UFO SIGHTING 191148 Occurred: 2017-10-19 17:13 Local Reported: 2025-07-22 07:23 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=191148" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191148</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191148July 24, 2025 — NUFORC UFO SIGHTING 191148 Occurred: 2017-10-19 17:13 Local Reported: 2025-07-22 07:23 Pacific...</p></details>
    Published: October 19, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 177531September 10, 2023 — NUFORC UFO SIGHTING 177531 Occurred: 2023-08-08 02:00 Local Reported: 2023-08-14 07:16 Pac...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 177531September 10, 2023 — NUFORC UFO SIGHTING 177531 Occurred: 2023-08-08 02:00 Local Reported: 2023-08-14 07:16 Pac...</p></details>
    Published: August 8, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWEIaJUBPrX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWEIaJUBPrX/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do u know aliens👽hillIT VANISHES FASTER THAN YOU CAN PROCESS IT DJIBOUTI, AFRICA - 2025.01.01 ALIEN LEAKS... Pentagon release UFO sighti...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWEIaJUBPrX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWEIaJUBPrX/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do u know aliens👽hillIT VANISHES FASTER THAN YOU CAN PROCESS IT DJIBOUTI, AFRICA - 2025.01.01 ALIEN LEAKS... Pentagon release UFO sighti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usufocenter.com  
    Title: UFO Research Center Global UFOs: Djibouti UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
    Published: March 22, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/faqafrica.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: UFO sightings reports from Africa...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/faqafrica.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: UFO sightings reports from Africa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoscans.com  
    Title: SIGHTING S OF UNIDENTIFIED FLYING OBJECTS | UFOScans.com  
-   Link: <a href="https://www.ufoscans.com/sightings-of-unidentified-flying-objects-doc-0005516168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/sightings-of-unidentified-flying-objects-doc-0005516168/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS | UFOScans.comApril 20, 1954 — SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS 🏛 CIA 📄 intelligence rep...</p></details>
+   Link:<a href="https://www.ufoscans.com/sightings-of-unidentified-flying-objects-doc-0005516168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/sightings-of-unidentified-flying-objects-doc-0005516168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS | UFOScans.comApril 20, 1954 — SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS 🏛 CIA 📄 intelligence rep...</p></details>
    Published: April 20, 1954  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesDjibouti, Gabon, Georgia, Gambia, Germany, Ghana, Greenland, Guadeloupe, Guerns...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesDjibouti, Gabon, Georgia, Gambia, Germany, Ghana, Greenland, Guadeloupe, Guerns...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufofinders.com  
-   Link: <a href="https://ufofinders.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinders.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finders — Live UFO Tracker Map, Daily Sightings &amp; UAP News🛸 UFO FINDERS * Sightings * News * Topics * Archive * Contact LIVE LATEST U...</p></details>
+   Link:<a href="https://ufofinders.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinders.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finders — Live UFO Tracker Map, Daily Sightings &amp; UAP News🛸 UFO FINDERS * Sightings * News * Topics * Archive * Contact LIVE LATEST U...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oxben.com.tr  
-   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
+   Link:<a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontier.watch  
-   Link: <a href="https://frontier.watch/ufo/release-1/doc/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://frontier.watch/ufo/release-1/doc/dow-uap-d8-mission-report-djibouti-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MENT OF WAR RELEASE 01: WAR.GOV UFO DISCLOSURE 162 catalogued documents spanning FBI investigative files (1944–1977), NASA Apollo...</p></details>
+   Link:<a href="https://frontier.watch/ufo/release-1/doc/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://frontier.watch/ufo/release-1/doc/dow-uap-d8-mission-report-djibouti-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MENT OF WAR RELEASE 01: WAR.GOV UFO DISCLOSURE 162 catalogued documents spanning FBI investigative files (1944–1977), NASA Apollo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: paranormalarabia.com  
    Title: UF O Sightings Across the Arab World: Firsthand Encounters | Paranormal Arabia  
-   Link: <a href="https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Across the Arab World: Firsthand Encounters | Paranormal ArabiaApril 29, 2025 — 2025-04-29 UFO SIGHTINGS ACROSS THE ARAB WO...</p></details>
+   Link:<a href="https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Across the Arab World: Firsthand Encounters | Paranormal ArabiaApril 29, 2025 — 2025-04-29 UFO SIGHTINGS ACROSS THE ARAB WO...</p></details>
    Published: April 29, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: they-are-here.com  
    Title: Department of War VID DOW UAP PR43 Unresolved UAP Report Africa 2025  
-   Link: <a href="https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/" target="_blank" rel="noopener noreferrer nofollow">https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025May 8, 2026 — DOW-UAP-PR43, UNRESOLVED UAP REPORT, AFRICA, 2025 Department of War VID Fi...</p></details>
+   Link:<a href="https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/" target="_blank" rel="noopener noreferrer nofollow">https://they-are-here.com/items/Department_of_War--VID--DOW-UAP-PR43_Unresolved_UAP_Report_Africa_2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025May 8, 2026 — DOW-UAP-PR43, UNRESOLVED UAP REPORT, AFRICA, 2025 Department of War VID Fi...</p></details>
    Published: May 8, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thetrinigee.com  
-   Link: <a href="https://thetrinigee.com/blogs/straight-from-the-gee/uncovering-the-hidden-history-of-ufo-sightings-in-the-african-american-community?srsltid=AfmBOoqav-1SFB8EqXLEQN0pvJ6uzhJPMABZHHkl0-4BwwTTPiCZc6nm" target="_blank" rel="noopener noreferrer nofollow">https://thetrinigee.com/blogs/straight-from-the-gee/uncovering-the-hidden-history-of-ufo-sightings-in-the-african-american-community?srsltid=AfmBOoqav-1SFB8EqXLEQN0pvJ6uzhJPMABZHHkl0-4BwwTTPiCZc6nm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Djibouti DJF Fdj; Dominica XCD $; Dominican Republic DOP... However, there is a long-standing history of UFO sightings and encounters wi...</p></details>
+   Link:<a href="https://thetrinigee.com/blogs/straight-from-the-gee/uncovering-the-hidden-history-of-ufo-sightings-in-the-african-american-community?srsltid=AfmBOoqav-1SFB8EqXLEQN0pvJ6uzhJPMABZHHkl0-4BwwTTPiCZc6nm" target="_blank" rel="noopener noreferrer nofollow">https://thetrinigee.com/blogs/straight-from-the-gee/uncovering-the-hidden-history-of-ufo-sightings-in-the-african-american-community?srsltid=AfmBOoqav-1SFB8EqXLEQN0pvJ6uzhJPMABZHHkl0-4BwwTTPiCZc6nm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Djibouti DJF Fdj; Dominica XCD $; Dominican Republic DOP... However, there is a long-standing history of UFO sightings and encounters wi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufotransparency.com  
    Title: Two Round White-Hot UAPs at 240 Knots, Department of War · UFO Transparency  
-   Link: <a href="https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military MISREP documenting a 1653Z observation of two round, white-hot UAPs traveling south at approximately...</p></details>
+   Link:<a href="https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military MISREP documenting a 1653Z observation of two round, white-hot UAPs traveling south at approximately...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pursueufotracker.com  
    Title: dow uap d8 mission report djibouti 2025  
-   Link: <a href="https://pursueufotracker.com/files/dow-uap-d8-mission-report-djibouti-2025.html" target="_blank" rel="noopener noreferrer nofollow">https://pursueufotracker.com/files/dow-uap-d8-mission-report-djibouti-2025.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-D8, Mission Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026 — DOW-UAP-D8, MISSION REPORT, DJIBOUTI, 2025 53 DOW-UAP-D8, Mi...</p></details>
+   Link:<a href="https://pursueufotracker.com/files/dow-uap-d8-mission-report-djibouti-2025.html" target="_blank" rel="noopener noreferrer nofollow">https://pursueufotracker.com/files/dow-uap-d8-mission-report-djibouti-2025.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-D8, Mission Report, Djibouti, 2025 | PURSUE UFO TrackerMay 8, 2026 — DOW-UAP-D8, MISSION REPORT, DJIBOUTI, 2025 53 DOW-UAP-D8, Mi...</p></details>
    Published: May 8, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: uapfilewatch.com  
    Title: dow uap d8 mission report djibouti 2025  
-   Link: <a href="https://uapfilewatch.com/document/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://uapfilewatch.com/document/dow-uap-d8-mission-report-djibouti-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· UAP Disclosure HubJuly 1, 2025 — Declassified Department of War pdf 2025-07-01 Mediterranean Sea MISSION REPORT DETAILING UAP OBSERVATI...</p></details>
+   Link:<a href="https://uapfilewatch.com/document/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow">https://uapfilewatch.com/document/dow-uap-d8-mission-report-djibouti-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· UAP Disclosure HubJuly 1, 2025 — Declassified Department of War pdf 2025-07-01 Mediterranean Sea MISSION REPORT DETAILING UAP OBSERVATI...</p></details>
    Published: July 1, 2025

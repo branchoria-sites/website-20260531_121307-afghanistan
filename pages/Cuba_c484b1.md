@@ -1197,40 +1197,40 @@ image: /assets/images/Cuba_c484b1-overview-social.jpg
 Cuba does not have a public national UFO archive comparable to the former U.S. Air Force Project Blue Book files. The most accessible record is scattered across local Cuban ufology sites, press-derived chronologies, foreign intelligence translations, private researchers’ catalogues, and U.S. archival holdings. That matters because the same incident can look very different depending on whether it is presented as a newspaper curiosity, a formal cable, a witness interview, or a later enthusiast retelling.
 
 <img src="{{ "/assets/images/Cuba_c484b1-overview.webp" | relative_url }}" alt="Overview image for What Do Cuba&#x27;s UFO Sightings Reveal About..." loading="eager" decoding="sync" fetchpriority="high">
-The U.S. National Archives notes that Project Blue Book records were declassified and transferred for public examination, but also that the project closed in 1969 and contains no post-1969 sighting information. Its Air Force fact sheet gives the broader baseline: 12,618 sightings were reported from 1947 to 1969, 701 remained “Unidentified”, and the Air Force concluded that no investigated UFO showed evidence of a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. That does not settle Cuban cases by itself, but it gives a useful standard: an “unidentified” label is not the same as proof of extraordinary origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The U.S. National Archives notes that Project Blue Book records were declassified and transferred for public examination, but also that the project closed in 1969 and contains no post-1969 sighting information. Its Air Force fact sheet gives the broader baseline: 12,618 sightings were reported from 1947 to 1969, 701 remained “Unidentified”, and the Air Force concluded that no investigated UFO showed evidence of a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. That does not settle Cuban cases by itself, but it gives a useful standard: an “unidentified” label is not the same as proof of extraordinary origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Cuban material also has a distinctive local texture. The archived “Ovnis Cubanos” site, maintained by Carlos Alberto Heredero Gracia, described itself as a Cuban ufology site and listed articles, Cuban cases, local groups, publications and events. It also recorded an effort to formalise the Cuban Ufology Association, with Orestes Girbau Collado named as president of the organising committee and activities including scientific ufology meetings and public presentations. This is useful evidence that Cuban UFO research existed as an organised amateur network, even if it does not make the underlying sightings scientifically verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/grupcomi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
+Cuban material also has a distinctive local texture. The archived “Ovnis Cubanos” site, maintained by Carlos Alberto Heredero Gracia, described itself as a Cuban ufology site and listed articles, Cuban cases, local groups, publications and events. It also recorded an effort to formalise the Cuban Ufology Association, with Orestes Girbau Collado named as president of the organising committee and activities including scientific ufology meetings and public presentations. This is useful evidence that Cuban UFO research existed as an organised amateur network, even if it does not make the underlying sightings scientifically verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/grupcomi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
 
 ## A compact chronology of the stronger Cuban case trail
 
 The Cuban UFO chronology is not a continuous official record. It is better understood as a set of episodes that became durable because they were reported in newspapers, radio, intelligence summaries, or later local investigations.
 
-**1958, Guantánamo Bay and USS Franklin D. Roosevelt.** Chester C. Grusinski, a U.S. Navy sailor, later reported seeing a UFO while serving aboard the USS Franklin D. Roosevelt near Guantánamo Bay. East Carolina University’s finding aid for the Chester C. Grusinski Papers states that he served on the carrier from 1958 to 1960, saw a UFO while in Guantánamo Bay in 1958, and later corresponded with other crew members, UFO researchers and government agencies; the collection also includes interviews, articles, drawings and claims by some witnesses alongside denials by others. This makes the case archival and traceable, but still not confirmed in the evidential sense: it is a personal and correspondence-based case file, not an official finding that an anomalous craft was present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ecu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**1958, Guantánamo Bay and USS Franklin D. Roosevelt.** Chester C. Grusinski, a U.S. Navy sailor, later reported seeing a UFO while serving aboard the USS Franklin D. Roosevelt near Guantánamo Bay. East Carolina University’s finding aid for the Chester C. Grusinski Papers states that he served on the carrier from 1958 to 1960, saw a UFO while in Guantánamo Bay in 1958, and later corresponded with other crew members, UFO researchers and government agencies; the collection also includes interviews, articles, drawings and claims by some witnesses alongside denials by others. This makes the case archival and traceable, but still not confirmed in the evidential sense: it is a personal and correspondence-based case file, not an official finding that an anomalous craft was present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ecu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**1959, Matanzas Bay.** One of the best-known Cuban local cases concerns an object allegedly emerging from the water near Matanzas Bay on 5 July 1959. Orestes Girbau’s archived account says more than 30 scouts and guides were near the coast when some witnesses saw an ovoid or disc-like metallic object rise from the sea, hover briefly, then ascend rapidly. The same account cites contemporary local press coverage in newspapers including *Adelante*, *El Republicano* and *El Imparcial*, which is important because it places the story in the local news environment of the time rather than only in a much later retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
+**1959, Matanzas Bay.** One of the best-known Cuban local cases concerns an object allegedly emerging from the water near Matanzas Bay on 5 July 1959. Orestes Girbau’s archived account says more than 30 scouts and guides were near the coast when some witnesses saw an ovoid or disc-like metallic object rise from the sea, hover briefly, then ascend rapidly. The same account cites contemporary local press coverage in newspapers including *Adelante*, *El Republicano* and *El Imparcial*, which is important because it places the story in the local news environment of the time rather than only in a much later retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
 
-**1968, U.S. Navy report near Cuba.** A declassified U.S. Navy document dated August 1968, held in NSA-linked declassification material, reports a UFO sighting in the Cuba area and explicitly raises the possibility that the object may have been a satellite. The report says the object was sighted by personnel aboard a ship and by others near the naval base, moving on a course at about 40 degrees above the horizon, changing position rapidly, and emitting what appeared to be smoke or vapour. This is one of the more valuable Cuba-linked records because it is an official military document, but its own wording points toward a conventional explanation rather than a solved anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-5 "Endnote 5")
+**1968, U.S. Navy report near Cuba.** A declassified U.S. Navy document dated August 1968, held in NSA-linked declassification material, reports a UFO sighting in the Cuba area and explicitly raises the possibility that the object may have been a satellite. The report says the object was sighted by personnel aboard a ship and by others near the naval base, moving on a course at about 40 degrees above the horizon, changing position rapidly, and emitting what appeared to be smoke or vapour. This is one of the more valuable Cuba-linked records because it is an official military document, but its own wording points toward a conventional explanation rather than a solved anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-5 "Endnote 5")
 
-**1993, Matanzas skies.** A CIA-release item indexed through the Project Blue Book Archive preserves an FBIS translation from Havana Radio Progreso dated 23 December 1993, headed “Unidentified Flying Objects Sighted in Matanzas Skies”. The item identifies Cuba as the country, Matanzas as the location, and a radio report by Cándido Domínguez as the source. This is evidence that the event entered U.S. open-source intelligence reporting, not that the object was independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/10227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**1993, Matanzas skies.** A CIA-release item indexed through the Project Blue Book Archive preserves an FBIS translation from Havana Radio Progreso dated 23 December 1993, headed “Unidentified Flying Objects Sighted in Matanzas Skies”. The item identifies Cuba as the country, Matanzas as the location, and a radio report by Cándido Domínguez as the source. This is evidence that the event entered U.S. open-source intelligence reporting, not that the object was independently verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/10227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**1995, Torriente and Sancti Spíritus.** A Clinton Presidential Records cable reproduces an FBIS translation of Cuban radio and Prensa Latina reports. It says local police reported a UFO near Torriente, south of Jagüey Grande in Matanzas Province, on 15 October 1995, where 74-year-old farmhand Adolfo Zárate described an oval object descending near him, lifting off with sparks, and leaving “frosted” grass but no scorching. The same cable then carries a Prensa Latina report from Sancti Spíritus, where witnesses described three round objects moving quickly in triangular formation on 19 October. The cable also says the Cuban Academy of Sciences was looking into the Torriente sighting, making this one of the most institutionally interesting Cuban cases, though the available extract does not provide a final scientific conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**1995, Torriente and Sancti Spíritus.** A Clinton Presidential Records cable reproduces an FBIS translation of Cuban radio and Prensa Latina reports. It says local police reported a UFO near Torriente, south of Jagüey Grande in Matanzas Province, on 15 October 1995, where 74-year-old farmhand Adolfo Zárate described an oval object descending near him, lifting off with sparks, and leaving “frosted” grass but no scorching. The same cable then carries a Prensa Latina report from Sancti Spíritus, where witnesses described three round objects moving quickly in triangular formation on 19 October. The cable also says the Cuban Academy of Sciences was looking into the Torriente sighting, making this one of the most institutionally interesting Cuban cases, though the available extract does not provide a final scientific conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Cuba_c484b1-Illustration-1-dark.svg" | relative_url }}" alt="What Do Cuba&#x27;s UFO Sightings Reveal About... illustration 1" data-theme-src-dark="{{ "/assets/images/Cuba_c484b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cuba_c484b1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Matanzas is the centre of gravity
 
 If one Cuban region stands out, it is Matanzas. The province appears in the 1959 bay case, the 1993 sky reports, the 1995 Torriente landing claim, and later discussion of Cuban ufology. That pattern may reflect genuine reporting density, but it may also reflect the presence of active local investigators and newspapers willing to cover such stories.
 
-The Matanzas Bay case is a good example of why the region matters. Its appeal is obvious: multiple people, daylight conditions, a coastal setting, and a dramatic “object from the sea” narrative. Yet the evidence remains mostly testimonial. The available account describes a striking event and cites local press headlines, but it does not provide recoverable photographs, measurements, radar data, physical samples, or independent technical records. Its strongest feature is cultural and historical traceability; its weakest feature is the lack of hard evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geocities.ws/ovniscubanos/pages/articulo8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
+The Matanzas Bay case is a good example of why the region matters. Its appeal is obvious: multiple people, daylight conditions, a coastal setting, and a dramatic “object from the sea” narrative. Yet the evidence remains mostly testimonial. The available account describes a striking event and cites local press headlines, but it does not provide recoverable photographs, measurements, radar data, physical samples, or independent technical records. Its strongest feature is cultural and historical traceability; its weakest feature is the lack of hard evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geocities.ws/ovniscubanos/pages/articulo8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
 
-Torriente in 1995 is stronger in one respect and weaker in another. It is stronger because it appears in a U.S. presidential-records cable as an FBIS translation of Cuban broadcast material, with named people, date, location, witness age, police comment and a reference to the Cuban Academy of Sciences. It is weaker because the claimed traces were ambiguous: the police chief reportedly said there were small traces that could not be detected and that the grass looked frosted, but not scorched. That leaves the case suspended between “locally investigated report” and “unresolved anecdote”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Torriente in 1995 is stronger in one respect and weaker in another. It is stronger because it appears in a U.S. presidential-records cable as an FBIS translation of Cuban broadcast material, with named people, date, location, witness age, police comment and a reference to the Cuban Academy of Sciences. It is weaker because the claimed traces were ambiguous: the police chief reportedly said there were small traces that could not be detected and that the grass looked frosted, but not scorched. That leaves the case suspended between “locally investigated report” and “unresolved anecdote”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Havana, Guantánamo and central Cuba show different kinds of reports
 
-Havana-linked cases tend to be urban, photographic, cultural or media-adjacent. One useful counterexample is not a classic sighting but a debunking: Carlos Alberto Heredero described filming polluted Havana skies from the University of Havana observatory in September 1999 and later noticing what looked like a UFO in the footage. He concluded that the object was the camera iris reflected in the lens system by sunlight, moving with the image and appearing to “fly” over the city. This is one of the most valuable Cuban UFO texts because it models local scepticism from inside the ufology community itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/articulo1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
+Havana-linked cases tend to be urban, photographic, cultural or media-adjacent. One useful counterexample is not a classic sighting but a debunking: Carlos Alberto Heredero described filming polluted Havana skies from the University of Havana observatory in September 1999 and later noticing what looked like a UFO in the footage. He concluded that the object was the camera iris reflected in the lens system by sunlight, moving with the image and appearing to “fly” over the city. This is one of the most valuable Cuban UFO texts because it models local scepticism from inside the ufology community itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/articulo1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
 
-Guantánamo-related claims have a different character because they are tied to U.S. naval presence. The Grusinski papers are less about Cuban civil society than about military witnesses, later correspondence and attempts to recover corroboration. The East Carolina finding aid explicitly notes that some correspondents related experiences while others denied knowledge of the incidents, a detail that should prevent overconfident retellings. The case is valuable as a research file, not as a confirmed event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ecu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Guantánamo-related claims have a different character because they are tied to U.S. naval presence. The Grusinski papers are less about Cuban civil society than about military witnesses, later correspondence and attempts to recover corroboration. The East Carolina finding aid explicitly notes that some correspondents related experiences while others denied knowledge of the incidents, a detail that should prevent overconfident retellings. The case is valuable as a research file, not as a confirmed event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ecu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Central Cuba appears most clearly in the 1995 Sancti Spíritus report carried in the same cable as Torriente. There the claim was not a landing but a short aerial observation: three round objects in triangular formation, moving quickly, turning and disappearing. As with many night-watch reports, the description is vivid but sparse, and the available source does not include instrumental confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Central Cuba appears most clearly in the 1995 Sancti Spíritus report carried in the same cable as Torriente. There the claim was not a landing but a short aerial observation: three round objects in triangular formation, moving quickly, turning and disappearing. As with many night-watch reports, the description is vivid but sparse, and the available source does not include instrumental confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
@@ -1238,22 +1238,22 @@ Central Cuba appears most clearly in the 1995 Sancti Spíritus report carried in
 
 Official or semi-official records are often misunderstood in UFO research. A CIA, NSA, Navy, FBIS or presidential-library source can prove that a report was collected, translated or circulated. It does not automatically prove that the reported object was extraordinary.
 
-The 1968 Navy Cuba report is a good example. It is official, declassified and directly linked to Cuba, but it contains its own mundane hypothesis: the object might have been a satellite. That makes it more credible as a record of observation and less useful as evidence for a non-human craft. The report’s details — shipboard observers, a naval-base context, apparent smoke or vapour, rapid change of position — are worth preserving, but the document itself does not resolve the case in favour of a UFO interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-5 "Endnote 5")
+The 1968 Navy Cuba report is a good example. It is official, declassified and directly linked to Cuba, but it contains its own mundane hypothesis: the object might have been a satellite. That makes it more credible as a record of observation and less useful as evidence for a non-human craft. The report’s details — shipboard observers, a naval-base context, apparent smoke or vapour, rapid change of position — are worth preserving, but the document itself does not resolve the case in favour of a UFO interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-5 "Endnote 5")
 
-The 1995 FBIS cable is different. It is not a military sensor report; it is a U.S. translation and dissemination of Cuban radio and news-agency material. Its value lies in preserving what Cuban outlets said at the time, including police confirmation that a report had been made and the statement that the Cuban Academy of Sciences was examining the case. Its limitation is equally clear: the cable records the news report, not a completed scientific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1995 FBIS cable is different. It is not a military sensor report; it is a U.S. translation and dissemination of Cuban radio and news-agency material. Its value lies in preserving what Cuban outlets said at the time, including police confirmation that a report had been made and the statement that the Cuban Academy of Sciences was examining the case. Its limitation is equally clear: the cable records the news report, not a completed scientific investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Project Blue Book’s broader record helps frame this distinction. The U.S. Air Force said Blue Book’s purpose was to investigate UFO reports, and the National Archives now preserves those records, but the Air Force’s final public position was that unexplained cases did not establish extraterrestrial vehicles or unknown technology. For Cuba, where evidence is thinner and more scattered than in the main Blue Book case files, that caution should be applied even more strongly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book’s broader record helps frame this distinction. The U.S. Air Force said Blue Book’s purpose was to investigate UFO reports, and the National Archives now preserves those records, but the Air Force’s final public position was that unexplained cases did not establish extraterrestrial vehicles or unknown technology. For Cuba, where evidence is thinner and more scattered than in the main Blue Book case files, that caution should be applied even more strongly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Cuba_c484b1-Illustration-2-dark.svg" | relative_url }}" alt="What Do Cuba&#x27;s UFO Sightings Reveal About... illustration 2" data-theme-src-dark="{{ "/assets/images/Cuba_c484b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cuba_c484b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked Cuban claims
 
 A practical reader should split Cuban UFO material into three evidence tiers rather than asking whether “Cuba had UFOs” as a single yes-or-no question.
 
-**Confirmed as reports:** The 1968 Navy sighting, the 1993 Matanzas radio item, the 1995 Torriente and Sancti Spíritus cable, and the existence of the Grusinski archival collection are all confirmed as records. They show that UFO claims connected to Cuba were documented in identifiable systems or archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ecu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Digital Collections <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[3U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/10227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as reports:** The 1968 Navy sighting, the 1993 Matanzas radio item, the 1995 Torriente and Sancti Spíritus cable, and the existence of the Grusinski archival collection are all confirmed as records. They show that UFO claims connected to Cuba were documented in identifiable systems or archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ecu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Digital Collections<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[3U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/10227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested as interpretations:** The 1959 Matanzas Bay case, the 1958 Guantánamo/USS Franklin D. Roosevelt account, and the 1995 Torriente landing claim remain contested. They have witnesses, dates and local narratives, but they lack the kind of physical, photographic, radar or laboratory evidence that would move them beyond testimony. Geocities <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ECU Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested as interpretations:** The 1959 Matanzas Bay case, the 1958 Guantánamo/USS Franklin D. Roosevelt account, and the 1995 Torriente landing claim remain contested. They have witnesses, dates and local narratives, but they lack the kind of physical, photographic, radar or laboratory evidence that would move them beyond testimony. Geocities<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.lib.ecu.edu">[ECU Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.lib.ecu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunked or weakened claims:** The 1999 Havana video “UFO” described by Heredero is explicitly explained by the person who recorded it as a lens/iris reflection caused by near-frontal sunlight. Its importance is not that it was a famous case, but that it shows how easily Cuban UFO material can be created by ordinary optics and how useful local debunking can be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/articulo6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
+**Debunked or weakened claims:** The 1999 Havana video “UFO” described by Heredero is explicitly explained by the person who recorded it as a lens/iris reflection caused by near-frontal sunlight. Its importance is not that it was a famous case, but that it shows how easily Cuban UFO material can be created by ordinary optics and how useful local debunking can be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/articulo6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iFpZToN6yU" title="UFO Report Project Blue Book 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer">UFO Report Project Blue Book 1952</a></p><p class="youtube-embed-meta">Channel: tvdays &middot; Views: 972 &middot; Uploaded: July 2021 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iFpZToN6yU">Open on YouTube</a></p></div></div></div>
 
@@ -1261,7 +1261,7 @@ A practical reader should split Cuban UFO material into three evidence tiers rat
 
 Local Cuban UFO sources are indispensable but uneven. They preserve cases that may not appear in official databases, cite newspapers that are otherwise difficult to access, and capture the work of Cuban investigators such as Orestes Girbau and Carlos Alberto Heredero. At the same time, archived amateur pages often mix first-hand accounts, later reconstructions, documentary stills, folklore, and speculative interpretation.
 
-The “Ovnis Cubanos” archive is especially useful because it includes both advocacy and caution. On one page it lists the organising committee for a Cuban ufology association and names its officers; on another, Heredero explains a false Havana UFO caused by camera optics and closes with the lesson that not everything seen is a UFO. That combination makes the archive more valuable than a simple credulous catalogue, but each case still needs separate verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/ovnicuba.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
+The “Ovnis Cubanos” archive is especially useful because it includes both advocacy and caution. On one page it lists the organising committee for a Cuban ufology association and names its officers; on another, Heredero explains a false Havana UFO caused by camera optics and closes with the lesson that not everything seen is a UFO. That combination makes the archive more valuable than a simple credulous catalogue, but each case still needs separate verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geocities.ws/ovniscubanos/pages/ovnicuba.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geocities.ws">[Geocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geocities.ws</span><span class="citation-popover-snippet">Open source on geocities.ws.</span></span></span>
 
 Foreign re-publication also complicates reliability. English-language UFO blogs and catalogues sometimes make Cuban cases easier to find, but they may be one or two steps removed from the original Spanish newspaper, radio or witness source. The safest approach is to privilege records that preserve dates, places, named witnesses, original media references and investigation status, while treating dramatic claims without those anchors as low-confidence.
 
@@ -1279,194 +1279,194 @@ For sibling country pages in the same project, Cuba is best compared with other 
 The Cuban UFO record is strongest as a history of reports, not as proof of alien visitation. The most defensible cases are those that entered official or archival channels: the 1968 Navy report near Cuba, the 1993 Matanzas radio item, the 1995 Torriente and Sancti Spíritus cable, and the Grusinski papers connected to Guantánamo Bay. The most memorable local case is probably the 1959 Matanzas Bay story, but it remains testimonial. The most instructive sceptical case is Heredero’s Havana camera-iris reflection, because it shows how a convincing “object” can arise from ordinary optics. Read together, Cuba’s UFO file is intriguing, regionally distinctive and historically worth preserving — but its evidence remains mostly contested, fragmentary and insufficient for extraordinary claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Cuba&#x27;s UFO Sightings Reveal About the Unknown?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Cuba&#x27;s UFO Sightings Reveal About the Unknown?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to official records and historical case reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to official records and historical case reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides framework for assessing reported Cuban cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for assessing reported Cuban cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for examining folklore and interpretation around sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for examining folklore and interpretation around sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national UFO-record overview focused on documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national UFO-record overview focused on documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-cuba-s-ufo-sightings-reveal-about-the-unknown-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1482,7 +1482,7 @@ The Cuban UFO record is strongest as a history of reports, not as proof of alien
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1502,7 +1502,7 @@ The Cuban UFO record is strongest as a history of reports, not as proof of alien
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1534,7 +1534,7 @@ The Cuban UFO record is strongest as a history of reports, not as proof of alien
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1586,7 +1586,7 @@ The Cuban UFO record is strongest as a history of reports, not as proof of alien
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1631,7 +1631,7 @@ The Cuban UFO record is strongest as a history of reports, not as proof of alien
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1669,250 +1669,249 @@ The Cuban UFO record is strongest as a history of reports, not as proof of alien
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: geocities.ws  
-   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/grupcomi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/grupcomi.html</a>  
+   Link:<a href="https://www.geocities.ws/ovniscubanos/pages/grupcomi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/grupcomi.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: digital.lib.ecu.edu  
-   Link: <a href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow">https://digital.lib.ecu.edu/special/ead/findingaids/0677-039</a>  
+   Link:<a href="https://digital.lib.ecu.edu/special/ead/findingaids/0677-039" target="_blank" rel="noopener noreferrer nofollow">https://digital.lib.ecu.edu/special/ead/findingaids/0677-039</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: geocities.ws  
-   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/casocub3.html</a>  
+   Link:<a href="https://www.geocities.ws/ovniscubanos/pages/casocub3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/casocub3.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF</a>  
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761363/-1/-1/0/NAVY_REPORT_CUBA.PDF</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: geocities.ws  
-   Link: <a href="https://geocities.ws/ovniscubanos/pages/articulo8.html" target="_blank" rel="noopener noreferrer nofollow">https://geocities.ws/ovniscubanos/pages/articulo8.html</a>  
+   Link:<a href="https://geocities.ws/ovniscubanos/pages/articulo8.html" target="_blank" rel="noopener noreferrer nofollow">https://geocities.ws/ovniscubanos/pages/articulo8.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nsa.gov  
    Title: Navy report  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761363/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761363/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761363/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761363/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nsa.gov  
    Title: NS A FOIA  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517759" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517759</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517759" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517759</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
    Title: UFO S, A MILITARY THREAT  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00806r000100200029-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00806r000100200029-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00806r000100200029-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00806r000100200029-7</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517759.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517759.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/home" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/home</a>  
+   Link:<a href="https://www.cia.gov/readingroom/home" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/home</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
    Title: Declassified in Part  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300110001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300110001-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300110001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300110001-3.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=dm_field_release_date%3A%5B1998-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=dm_field_release_date%3A%5B1998-05-01T00%3A00%3A00Z+TO-06-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=im_field_collection%3A89801&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;order=label&amp;page=11&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=dm_field_release_date%3A%5B1998-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=dm_field_release_date%3A%5B1998-05-01T00%3A00%3A00Z+TO-06-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=im_field_collection%3A89801&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;order=label&amp;page=11&amp;sort=asc</a>  
+   Link:<a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=dm_field_release_date%3A%5B1998-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=dm_field_release_date%3A%5B1998-05-01T00%3A00%3A00Z+TO-06-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=im_field_collection%3A89801&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;order=label&amp;page=11&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=dm_field_release_date%3A%5B1998-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=dm_field_release_date%3A%5B1998-05-01T00%3A00%3A00Z+TO-06-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=im_field_collection%3A89801&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;order=label&amp;page=11&amp;sort=asc</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp85m00364r001502590070-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp85m00364r001502590070-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp85m00364r001502590070-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp85m00364r001502590070-6</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
    Title: NSA RDP96X00790R000100030039 3  
-   Link: <a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100030039-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100030039-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100030039-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100030039-3.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
    Title: FOIA CASE LOG CALENDER YE[16111550]  
-   Link: <a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=im_field_collection%3A89801&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T04%3A00%3A00Z+TO-10-19T05%3A00%3A00Z%5D&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T04%3A52%3A00Z+TO-10-19T04%3A53%3A00Z%5D&amp;order=label&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=im_field_collection%3A89801&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T04%3A00%3A00Z+TO-10-19T05%3A00%3A00Z%5D&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T04%3A52%3A00Z+TO-10-19T04%3A53%3A00Z%5D&amp;order=label&amp;sort=asc</a>  
+   Link:<a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=im_field_collection%3A89801&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T04%3A00%3A00Z+TO-10-19T05%3A00%3A00Z%5D&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T04%3A52%3A00Z+TO-10-19T04%3A53%3A00Z%5D&amp;order=label&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=im_field_collection%3A89801&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T04%3A00%3A00Z+TO-10-19T05%3A00%3A00Z%5D&amp;f%5B5%5D=ds_created%3A%5B2012-10-19T04%3A52%3A00Z+TO-10-19T04%3A53%3A00Z%5D&amp;order=label&amp;sort=asc</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
    Title: foia collection  
-   Link: <a href="https://www.cia.gov/readingroom/collection/foia-collection?page=489" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/foia-collection?page=489</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/foia-collection?page=489" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/foia-collection?page=489</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100320006-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100320006-6.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100320006-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP90-00845R000100320006-6.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100200001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100200001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100200001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100200001-7</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741377" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741377</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741377" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741377</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
    Title: DOC 0000634506  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000634506.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000634506.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000634506.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000634506.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741378" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741378</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741378" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741378</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: geocities.ws  
-   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/articulo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/articulo1.html</a>  
+   Link:<a href="https://www.geocities.ws/ovniscubanos/pages/articulo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/articulo1.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: geocities.ws  
-   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/articulo6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/articulo6.html</a>  
+   Link:<a href="https://www.geocities.ws/ovniscubanos/pages/articulo6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/articulo6.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: geocities.ws  
-   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/ovnicuba.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/ovnicuba.html</a>  
+   Link:<a href="https://www.geocities.ws/ovniscubanos/pages/ovnicuba.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/ovnicuba.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: geocities.ws  
-   Link: <a href="https://www.geocities.ws/ovniscubanos/pages/articulo11.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/articulo11.html</a>  
+   Link:<a href="https://www.geocities.ws/ovniscubanos/pages/articulo11.html" target="_blank" rel="noopener noreferrer nofollow">https://www.geocities.ws/ovniscubanos/pages/articulo11.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/jfk/select-committee-report/part-1c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk/select-committee-report/part-1c.html</a>  
+   Link:<a href="https://www.archives.gov/research/jfk/select-committee-report/part-1c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk/select-committee-report/part-1c.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: united states air force usaf  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: archives.gov  
    Title: american story  
-   Link: <a href="https://www.archives.gov/press/press-kits/american-story" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-kits/american-story</a>  
+   Link:<a href="https://www.archives.gov/press/press-kits/american-story" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-kits/american-story</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/10227" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/10227</a>  
+   Link:<a href="https://bluebookfiles.org/doc/10227" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/10227</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theprojectbluebookarchive.org  
-   Link: <a href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf</a>  
+   Link:<a href="https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/UAP_Presidential_Archives/Clinton-1995-1996-Period/24194018-20060474F-001-017-2023.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theprojectbluebookarchive.org  
-   Link: <a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part1/28944612.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part1/28944612.pdf</a>  
+   Link:<a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part1/28944612.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part1/28944612.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/ce3/_cuba.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/ce3/_cuba.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/ce3/_cuba.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/ce3/_cuba.htm</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9iFpZToN6yU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9iFpZToN6yU</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK  
-   Link: <a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u-2kGzR2-o0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u-2kGzR2-o0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: A UFO IS SEEN AGAIN IN HAVANA IT WAS CAPTURED ON CAMERA  
-   Link: <a href="https://www.youtube.com/watch?v=RTvahsTSwSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RTvahsTSwSY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RTvahsTSwSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RTvahsTSwSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1t33g9x/is_lou_elizondo_a_disinformation_agent_explosive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t33g9x/is_lou_elizondo_a_disinformation_agent_explosive/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1t33g9x/is_lou_elizondo_a_disinformation_agent_explosive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t33g9x/is_lou_elizondo_a_disinformation_agent_explosive/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/38011481/Cuba_Arqueol%C3%B3gica_Vol_4_No_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38011481/Cuba_Arqueol%C3%B3gica_Vol_4_No_2</a>  
+   Link:<a href="https://www.academia.edu/38011481/Cuba_Arqueol%C3%B3gica_Vol_4_No_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38011481/Cuba_Arqueol%C3%B3gica_Vol_4_No_2</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
+   Link:<a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/179784035376368/posts/9970393056315368/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/179784035376368/posts/9970393056315368/</a>  
+   Link:<a href="https://www.facebook.com/groups/179784035376368/posts/9970393056315368/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/179784035376368/posts/9970393056315368/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: vetted.show  
-   Link: <a href="https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba" target="_blank" rel="noopener noreferrer nofollow">https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba</a>  
+   Link:<a href="https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba" target="_blank" rel="noopener noreferrer nofollow">https://www.vetted.show/episodes/ufo-seen-by-kids-at-school-in-cuba</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/instituteofmetaphysics/posts/encounter-with-mushroom-wee-folk-sparkling-devil-manlocation-near-remedios-las-v/1513953407127527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/encounter-with-mushroom-wee-folk-sparkling-devil-manlocation-near-remedios-las-v/1513953407127527/</a>  
+   Link:<a href="https://www.facebook.com/instituteofmetaphysics/posts/encounter-with-mushroom-wee-folk-sparkling-devil-manlocation-near-remedios-las-v/1513953407127527/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/encounter-with-mushroom-wee-folk-sparkling-devil-manlocation-near-remedios-las-v/1513953407127527/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Exopolitica.cuba/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Exopolitica.cuba/</a>
+   Link:<a href="https://www.facebook.com/Exopolitica.cuba/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Exopolitica.cuba/</a>

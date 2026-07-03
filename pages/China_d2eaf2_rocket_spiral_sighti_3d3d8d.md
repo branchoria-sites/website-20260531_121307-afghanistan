@@ -254,26 +254,26 @@ image: /assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-1-so
 
 ## Introduction
 
-Many of China’s most dramatic UFO waves become far less mysterious once rockets, spacecraft activity, and high-altitude optical effects are examined first. This is especially true for the giant spirals, glowing “bubbles”, expanding rings, and corkscrew lights reported across multiple provinces over the past four decades. In several famous Chinese cases, millions of people saw the same phenomenon at once, which initially made extraterrestrial explanations feel more convincing. Yet the very scale of these sightings often pointed toward a different cause: rocket launches or high-altitude exhaust plumes visible across huge distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-snippet">China DailyResearch rocket mistaken for UFO in China14 May 2013 — The sounding rocket was used to collect data about high energy and magn...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
+Many of China’s most dramatic UFO waves become far less mysterious once rockets, spacecraft activity, and high-altitude optical effects are examined first. This is especially true for the giant spirals, glowing “bubbles”, expanding rings, and corkscrew lights reported across multiple provinces over the past four decades. In several famous Chinese cases, millions of people saw the same phenomenon at once, which initially made extraterrestrial explanations feel more convincing. Yet the very scale of these sightings often pointed toward a different cause: rocket launches or high-altitude exhaust plumes visible across huge distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-snippet">China DailyResearch rocket mistaken for UFO in China14 May 2013 — The sounding rocket was used to collect data about high energy and magn...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 
 <img src="{{ "/assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 1" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-China’s geography and expanding space programme make these explanations unusually important. Launches from inland and coastal sites can produce illuminated exhaust clouds visible hundreds or even thousands of kilometres away. When sunlight strikes rocket gases high above a darkened landscape, witnesses may see spinning spirals, glowing domes, “jellyfish” shapes, or luminous arcs that appear impossible from ground level. Chinese astronomers investigating UFO reports repeatedly warned that these effects must be checked before treating a sighting as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[Wikipedia#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[3usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
+China’s geography and expanding space programme make these explanations unusually important. Launches from inland and coastal sites can produce illuminated exhaust clouds visible hundreds or even thousands of kilometres away. When sunlight strikes rocket gases high above a darkened landscape, witnesses may see spinning spirals, glowing domes, “jellyfish” shapes, or luminous arcs that appear impossible from ground level. Chinese astronomers investigating UFO reports repeatedly warned that these effects must be checked before treating a sighting as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[Wikipedia#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[3usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
 
 ## The 1981 spiral sighting that shaped China’s UFO culture
 
-The defining Chinese example occurred on 24 July 1981, when residents across large areas of western China reported an immense glowing spiral in the night sky. Witnesses in provinces including Gansu, Sichuan, and Yunnan described a silver or white rotating structure with branching arms, expanding rings, and a luminous core. Some estimates claimed that millions of people saw the phenomenon simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/ufo-incident-causes-sensation-throughout-half-china-24-july-1981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[2theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">ufo incident causes sensation throughout half china 24 july 1981</span><span class="citation-popover-snippet">UFO Incident Causes Sensation Throughout Half of China...27 Apr 2016 — The huge spiral shaped UFO with its bright silver color lighting...</span><span class="citation-popover-meta">Published: july 1981</span></span></span>
+The defining Chinese example occurred on 24 July 1981, when residents across large areas of western China reported an immense glowing spiral in the night sky. Witnesses in provinces including Gansu, Sichuan, and Yunnan described a silver or white rotating structure with branching arms, expanding rings, and a luminous core. Some estimates claimed that millions of people saw the phenomenon simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/ufo-incident-causes-sensation-throughout-half-china-24-july-1981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[2theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">ufo incident causes sensation throughout half china 24 july 1981</span><span class="citation-popover-snippet">UFO Incident Causes Sensation Throughout Half of China...27 Apr 2016 — The huge spiral shaped UFO with its bright silver color lighting...</span><span class="citation-popover-meta">Published: july 1981</span></span></span>
 
-The scale of the sighting gave it enormous cultural force. Newspapers, amateur UFO groups, and local discussion circles treated it as one of the strongest Chinese UFO events ever recorded. The visual descriptions were unusually dramatic: witnesses compared the object to a spinning galaxy, a giant pinwheel, or a flower opening across the sky. The event arrived during the early expansion of Chinese UFO enthusiasm, when public fascination with extraterrestrial life was accelerating after the late-1970s reform era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+The scale of the sighting gave it enormous cultural force. Newspapers, amateur UFO groups, and local discussion circles treated it as one of the strongest Chinese UFO events ever recorded. The visual descriptions were unusually dramatic: witnesses compared the object to a spinning galaxy, a giant pinwheel, or a flower opening across the sky. The event arrived during the early expansion of Chinese UFO enthusiasm, when public fascination with extraterrestrial life was accelerating after the late-1970s reform era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
 Yet the same features that made the event spectacular also aligned closely with known rocket-plume phenomena.
 
-Later discussions by astronomers connected the 1981 event with high-altitude spacecraft activity and exhaust behaviour rather than a structured craft. Researchers associated with the Purple Mountain Observatory argued that giant spirals, arcs, and expanding luminous clouds are consistent with fuel releases and exhaust dispersal in the upper atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+Later discussions by astronomers connected the 1981 event with high-altitude spacecraft activity and exhaust behaviour rather than a structured craft. Researchers associated with the Purple Mountain Observatory argued that giant spirals, arcs, and expanding luminous clouds are consistent with fuel releases and exhaust dispersal in the upper atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
 This interpretation matters because the 1981 sighting became a template for later Chinese UFO reports. Once the public had seen one enormous spiral in the sky, later rocket-related displays were often interpreted through the same cultural lens.
 
 ## Why rocket spirals look alien
 
-Rocket spirals appear strange because observers are not seeing a solid object. They are usually seeing sunlight interacting with exhaust gases and frozen particles at extreme altitude. The effect becomes especially dramatic during twilight, when the ground is dark but the upper atmosphere remains sunlit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+Rocket spirals appear strange because observers are not seeing a solid object. They are usually seeing sunlight interacting with exhaust gases and frozen particles at extreme altitude. The effect becomes especially dramatic during twilight, when the ground is dark but the upper atmosphere remains sunlit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
 Several mechanisms can create the illusion of a giant structured craft:
 
@@ -283,11 +283,11 @@ Several mechanisms can create the illusion of a giant structured craft:
 * **Rotational motion:** If a stage spins for stabilisation or due to malfunction, the expanding plume forms corkscrew or spiral shapes.
 * **Sunlit exhaust:** High-altitude plumes remain illuminated long after sunset on the ground, making them appear self-luminous.
 * **Perspective distortion:** Witnesses on the ground cannot judge altitude accurately at night. A plume hundreds of kilometres away may appear close and enormous.
-* **Upper-atmosphere winds:** Thin winds at high altitude stretch and twist exhaust clouds into curved arms and branching structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
+* **Upper-atmosphere winds:** Thin winds at high altitude stretch and twist exhaust clouds into curved arms and branching structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
 
 </div>
 
-These effects are now widely known internationally as “space jellyfish” or twilight rocket phenomena, but many Chinese sightings predated the popularisation of those terms. In the 1980s and early 1990s, the visual appearance alone was often enough to convince witnesses they had seen an advanced craft rather than atmospheric illumination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_China" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in China</span><span class="citation-popover-snippet">UFO sightings in China</span></span></span>
+These effects are now widely known internationally as “space jellyfish” or twilight rocket phenomena, but many Chinese sightings predated the popularisation of those terms. In the 1980s and early 1990s, the visual appearance alone was often enough to convince witnesses they had seen an advanced craft rather than atmospheric illumination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_China" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in China</span><span class="citation-popover-snippet">UFO sightings in China</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fa3H9XQCmIU" title="Suspected UFO over Sydney turns out to be a Chinese rocket | 7NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fa3H9XQCmIU" target="_blank" rel="noopener noreferrer">Suspected UFO over Sydney turns out to be a Chinese rocket | 7NEWS</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 65.0K &middot; Uploaded: September 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fa3H9XQCmIU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fa3H9XQCmIU">Open on YouTube</a></p></div></div></div>
 
@@ -295,21 +295,21 @@ These effects are now widely known internationally as “space jellyfish” or t
 
 The same pattern reappeared decades later in eastern China.
 
-In August 2011, residents around Shanghai and several northern and eastern regions reported a glowing object or expanding light formation in the sky. Pilots and ordinary witnesses described a luminous “bubble” or bright halo-like structure. The event generated widespread online speculation about extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
+In August 2011, residents around Shanghai and several northern and eastern regions reported a glowing object or expanding light formation in the sky. Pilots and ordinary witnesses described a luminous “bubble” or bright halo-like structure. The event generated widespread online speculation about extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
 
-Popular science writers and astronomers quickly suggested a high-altitude aerospace explanation. Yu Jun, a former science magazine editor quoted in China Daily, argued that the glowing formation resembled rocket or satellite-launch phenomena caused by exhaust illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
+Popular science writers and astronomers quickly suggested a high-altitude aerospace explanation. Yu Jun, a former science magazine editor quoted in China Daily, argued that the glowing formation resembled rocket or satellite-launch phenomena caused by exhaust illumination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
 
-What made the case confusing was the absence of immediately visible launch information. Chinese launches and military aerospace activity are not always publicly detailed in real time, especially older events involving classified or semi-classified programmes. This information gap repeatedly amplified UFO speculation. Witnesses often assumed that because no launch had been publicly announced, no aerospace explanation existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
+What made the case confusing was the absence of immediately visible launch information. Chinese launches and military aerospace activity are not always publicly detailed in real time, especially older events involving classified or semi-classified programmes. This information gap repeatedly amplified UFO speculation. Witnesses often assumed that because no launch had been publicly announced, no aerospace explanation existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
 
-Liu Yan and other astronomically minded [investigators]({{ 'investigators/' | relative_url }}) instead emphasised pattern recognition. They argued that large-area glowing structures seen simultaneously across distant regions are more characteristic of high-altitude atmospheric effects than nearby craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+Liu Yan and other astronomically minded [investigators]({{ 'investigators/' | relative_url }}) instead emphasised pattern recognition. They argued that large-area glowing structures seen simultaneously across distant regions are more characteristic of high-altitude atmospheric effects than nearby craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
 ## The 2010 Xiaoshan airport case and the rocket hypothesis
 
-One of China’s most famous modern UFO incidents occurred in July 2010, when Hangzhou [Xiaoshan]({{ 'xiaoshan/' | relative_url }}) International Airport temporarily halted operations after crews reported an unidentified object near the airport. Flights were diverted and the event became national news almost immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wang_Sichao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wang Sichao</span><span class="citation-popover-snippet">Wang Sichao</span></span></span>
+One of China’s most famous modern UFO incidents occurred in July 2010, when Hangzhou [Xiaoshan]({{ 'xiaoshan/' | relative_url }}) International Airport temporarily halted operations after crews reported an unidentified object near the airport. Flights were diverted and the event became national news almost immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wang_Sichao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wang Sichao</span><span class="citation-popover-snippet">Wang Sichao</span></span></span>
 
-The case gained extraordinary attention because it affected real aviation operations rather than being just a distant light sighting. Social media rapidly filled with alleged UFO photographs, many of which were later found to be unrelated images or manipulated material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+The case gained extraordinary attention because it affected real aviation operations rather than being just a distant light sighting. Social media rapidly filled with alleged UFO photographs, many of which were later found to be unrelated images or manipulated material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
-Although the incident remains culturally famous, later discussions repeatedly pointed toward ordinary aerospace explanations. One proposed explanation involved a Chinese rocket test or related high-altitude light source producing a bright object seen from a particular viewing angle. Another possibility was a conventional aircraft misidentified under unusual atmospheric conditions. Air traffic control reportedly failed to locate the object clearly on radar, adding to the confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+Although the incident remains culturally famous, later discussions repeatedly pointed toward ordinary aerospace explanations. One proposed explanation involved a Chinese rocket test or related high-altitude light source producing a bright object seen from a particular viewing angle. Another possibility was a conventional aircraft misidentified under unusual atmospheric conditions. Air traffic control reportedly failed to locate the object clearly on radar, adding to the confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
 The important point is not that every detail was conclusively solved. Rather, the case demonstrated how quickly aerospace activity, visual ambiguity, and fragmented information can escalate into a nationwide UFO narrative.
 
@@ -318,7 +318,7 @@ The important point is not that every detail was conclusively solved. Rather, th
 
 As China’s space programme expanded, rocket-related UFO reports became increasingly common. Modern Chinese launches regularly produce bright atmospheric displays visible far beyond launch zones.
 
-In 2013, residents across Chongqing, Kunming, Hong Kong, Wuhan, and other areas photographed a glowing object crossing the sky. The Chinese Academy of Sciences later confirmed that the phenomenon came from a sounding rocket used for ionospheric research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-snippet">China DailyResearch rocket mistaken for UFO in China14 May 2013 — The sounding rocket was used to collect data about high energy and magn...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
+In 2013, residents across Chongqing, Kunming, Hong Kong, Wuhan, and other areas photographed a glowing object crossing the sky. The Chinese Academy of Sciences later confirmed that the phenomenon came from a sounding rocket used for ionospheric research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-snippet">China DailyResearch rocket mistaken for UFO in China14 May 2013 — The sounding rocket was used to collect data about high energy and magn...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 
 The reaction followed a familiar cycle:
 
@@ -331,7 +331,7 @@ The reaction followed a familiar cycle:
 
 </div>
 
-Chinese media outlets have repeatedly documented the same sequence. Even recent sightings near Xi’an city walls in 2025 were officially identified as rocket exhaust trails from launches conducted before dawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globaltimes.cn/page/202506/1335573.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globaltimes.cn">[Global Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globaltimes.cn</span><span class="citation-popover-snippet">Global TimesRocket launch confirmed as source of object spotted over...6 Jun 2025 — Videos circulating online showed an unidentified fly...</span></span></span>
+Chinese media outlets have repeatedly documented the same sequence. Even recent sightings near Xi’an city walls in 2025 were officially identified as rocket exhaust trails from launches conducted before dawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globaltimes.cn/page/202506/1335573.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globaltimes.cn">[Global Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globaltimes.cn</span><span class="citation-popover-snippet">Global TimesRocket launch confirmed as source of object spotted over...6 Jun 2025 — Videos circulating online showed an unidentified fly...</span></span></span>
 
 This repetition is one reason Chinese astronomers have often treated “UFO” reports less as evidence of alien craft and more as a public-perception problem created by incomplete aerospace awareness.
 
@@ -341,7 +341,7 @@ This repetition is one reason Chinese astronomers have often treated “UFO” r
 
 One of the strongest clues in Chinese UFO cases is geographical scale.
 
-When identical luminous structures are reported simultaneously across several provinces, the phenomenon is usually occurring at very high altitude. That alone tends to favour rocket plumes, re-entry events, spacecraft activity, or atmospheric optics over nearby structured vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+When identical luminous structures are reported simultaneously across several provinces, the phenomenon is usually occurring at very high altitude. That alone tends to favour rocket plumes, re-entry events, spacecraft activity, or atmospheric optics over nearby structured vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
 Several recurring clues appear in Chinese rocket-related UFO reports:
 
@@ -352,11 +352,11 @@ Several recurring clues appear in Chinese rocket-related UFO reports:
 * The event occurs shortly after sunset or before sunrise.
 * Reports emerge over huge regions at nearly the same time.
 * Photographs show diffuse light rather than a sharply defined structure.
-* The object appears stationary to some observers and moving to others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
+* The object appears stationary to some observers and moving to others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
 
 </div>
 
-These characteristics differ from close-range aircraft sightings or radar-tracked intrusions. Chinese sceptical investigators repeatedly argued that large sky spectacles should first be analysed as atmospheric illumination events before invoking extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+These characteristics differ from close-range aircraft sightings or radar-tracked intrusions. Chinese sceptical investigators repeatedly argued that large sky spectacles should first be analysed as atmospheric illumination events before invoking extraordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
 <img src="{{ "/assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 3" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_rocket_spiral_sighti_3d3d8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the explanations still fail to convince some witnesses
@@ -369,203 +369,203 @@ There are also structural reasons why uncertainty persists in China:
 * Local media often sensationalise sightings before technical analysis appears.
 * Amateur UFO groups historically circulated unresolved interpretations.
 * Viral photographs spread faster than later corrections.
-* Witnesses often assume that “unidentified” means “unexplainable”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[2usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
+* Witnesses often assume that “unidentified” means “unexplainable”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-title">#Sixth Tone The Astronomer Who Calmed China&#x27;s UFO Craze</span><span class="citation-popover-snippet">#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usa.chinadaily.com.cn">[2usa.chinadaily.com.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usa.chinadaily.com.cn</span><span class="citation-popover-title">content 13179088</span><span class="citation-popover-snippet">Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</span><span class="citation-popover-meta">Published: August 24, 2011</span></span></span>
 
-This tension helped shape Chinese UFO culture. Some researchers, including astronomer Wang Sichao, remained open to extraterrestrial possibilities in principle, while still acknowledging that many famous sightings had ordinary explanations. Others, including Liu Yan and more sceptical investigators, argued that rocket and atmospheric mechanisms explained a large proportion of China’s headline UFO waves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_China" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in China</span><span class="citation-popover-snippet">UFO sightings in China</span></span></span>
+This tension helped shape Chinese UFO culture. Some researchers, including astronomer Wang Sichao, remained open to extraterrestrial possibilities in principle, while still acknowledging that many famous sightings had ordinary explanations. Others, including Liu Yan and more sceptical investigators, argued that rocket and atmospheric mechanisms explained a large proportion of China’s headline UFO waves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_China" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in China</span><span class="citation-popover-snippet">UFO sightings in China</span></span></span>
 
 The result is a national UFO history in which some of the most memorable “alien” spectacles were likely created not by visitors from space, but by humanity’s own movement into space.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOOcYtOjtQU" title="SpaceX launch creates glowing spiral over UK sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer">SpaceX launch creates glowing spiral over UK sky</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 127.2K &middot; Uploaded: March 2025 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOOcYtOjtQU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When China&#x27;s UFOs Were Rocket Lit Skies. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When China&#x27;s UFOs Were Rocket Lit Skies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding classification of unusual sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding classification of unusual sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers how ordinary phenomena can be mistaken for extraordinary craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how ordinary phenomena can be mistaken for extraordinary craft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for how unusual sightings become enduring stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how unusual sightings become enduring stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses separating unexplained cases from identifiable aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses separating unexplained cases from identifiable aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-china-s-ufos-were-rocket-lit-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-china-s-ufos-were-rocket-lit-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ The result is a national UFO history in which some of the most memorable “alie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ The result is a national UFO history in which some of the most memorable “alie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ The result is a national UFO history in which some of the most memorable “alie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ The result is a national UFO history in which some of the most memorable “alie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ The result is a national UFO history in which some of the most memorable “alie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,115 +771,115 @@ The result is a national UFO history in which some of the most memorable “alie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sixthtone.com  
    Title: #Sixth Tone The Astronomer Who Calmed China's UFO Craze  
-   Link: <a href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow">https://www.sixthtone.com/news/1012934</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</p></details>
+   Link:<a href="https://www.sixthtone.com/news/1012934" target="_blank" rel="noopener noreferrer nofollow">https://www.sixthtone.com/news/1012934</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#SixthToneThe Astronomer Who Calmed China&#x27;s UFO CrazeMay 19, 2023 — 20 May 2023 — When sightings of celestial phenomena surged in China i...</p></details>
    Published: May 19, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: chinadaily.com.cn  
-   Link: <a href="https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>China DailyResearch rocket mistaken for UFO in China14 May 2013 — The sounding rocket was used to collect data about high energy and magn...</p></details>
+   Link:<a href="https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/china/2013-05/14/content_16498785.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China DailyResearch rocket mistaken for UFO in China14 May 2013 — The sounding rocket was used to collect data about high energy and magn...</p></details>
    Published: May 2013  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usa.chinadaily.com.cn  
    Title: content 13179088  
-   Link: <a href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow">https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</p></details>
+   Link:<a href="https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm" target="_blank" rel="noopener noreferrer nofollow">https://usa.chinadaily.com.cn/epaper/2011-08/24/content_13179088.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien spaceship gives Shanghai a surprise. Updated: 2011-08-24... However, no open resource shows rockets or satellite were launched tha...</p></details>
    Published: August 24, 2011  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: ufo incident causes sensation throughout half china 24 july 1981  
-   Link: <a href="https://www.theblackvault.com/casefiles/ufo-incident-causes-sensation-throughout-half-china-24-july-1981/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/ufo-incident-causes-sensation-throughout-half-china-24-july-1981/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident Causes Sensation Throughout Half of China...27 Apr 2016 — The huge spiral shaped UFO with its bright silver color lighting...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/ufo-incident-causes-sensation-throughout-half-china-24-july-1981/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/ufo-incident-causes-sensation-throughout-half-china-24-july-1981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident Causes Sensation Throughout Half of China...27 Apr 2016 — The huge spiral shaped UFO with its bright silver color lighting...</p></details>
    Published: july 1981  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 2009 Norwegian spiral anomaly  
-   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO sightings in China  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_China" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_China</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_China" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_China</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Wang Sichao  
-   Link: <a href="https://en.wikipedia.org/wiki/Wang_Sichao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wang_Sichao</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wang_Sichao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wang_Sichao</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globaltimes.cn  
-   Link: <a href="https://www.globaltimes.cn/page/202506/1335573.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.globaltimes.cn/page/202506/1335573.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global TimesRocket launch confirmed as source of object spotted over...6 Jun 2025 — Videos circulating online showed an unidentified fly...</p></details>
+   Link:<a href="https://www.globaltimes.cn/page/202506/1335573.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.globaltimes.cn/page/202506/1335573.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global TimesRocket launch confirmed as source of object spotted over...6 Jun 2025 — Videos circulating online showed an unidentified fly...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/</a>  
+   Link:<a href="https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/posts/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1145929817567653/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/globaltimesnews/posts/videos-circulating-online-showed-an-unidentified-flying-object-ufo-over-the-xian/1231557675683104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/globaltimesnews/posts/videos-circulating-online-showed-an-unidentified-flying-object-ufo-over-the-xian/1231557675683104/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos circulating online showed an unidentified flying object...UFO enthusiast Professor Sun Shili has theorized that UFOs are interest...</p></details>
+   Link:<a href="https://www.facebook.com/globaltimesnews/posts/videos-circulating-online-showed-an-unidentified-flying-object-ufo-over-the-xian/1231557675683104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/globaltimesnews/posts/videos-circulating-online-showed-an-unidentified-flying-object-ufo-over-the-xian/1231557675683104/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos circulating online showed an unidentified flying object...UFO enthusiast Professor Sun Shili has theorized that UFOs are interest...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 1news.co.nz  
    Title: unexpected and unnatural light linked to chinese rocket not a ufo  
-   Link: <a href="https://www.1news.co.nz/2026/04/25/unexpected-and-unnatural-light-linked-to-chinese-rocket-not-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.1news.co.nz/2026/04/25/unexpected-and-unnatural-light-linked-to-chinese-rocket-not-a-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese rocket, not a UFO. The light shot across the sky on Friday night, a short while after a rocket launch in China, an astronomer say...</p></details>
+   Link:<a href="https://www.1news.co.nz/2026/04/25/unexpected-and-unnatural-light-linked-to-chinese-rocket-not-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.1news.co.nz/2026/04/25/unexpected-and-unnatural-light-linked-to-chinese-rocket-not-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese rocket, not a UFO. The light shot across the sky on Friday night, a short while after a rocket launch in China, an astronomer say...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theworldofchinese.com  
    Title: greatest mysteries the story of chinas most famous ufo sighting  
-   Link: <a href="https://www.theworldofchinese.com/2022/09/greatest-mysteries-the-story-of-chinas-most-famous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.theworldofchinese.com/2022/09/greatest-mysteries-the-story-of-chinas-most-famous-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greatest Mysteries: The Story of China&#x27;s Most Famous UFO...24 Sept 2022 — The 26-year-old timber worker alleged that the extraterrestria...</p></details>
+   Link:<a href="https://www.theworldofchinese.com/2022/09/greatest-mysteries-the-story-of-chinas-most-famous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.theworldofchinese.com/2022/09/greatest-mysteries-the-story-of-chinas-most-famous-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greatest Mysteries: The Story of China&#x27;s Most Famous UFO...24 Sept 2022 — The 26-year-old timber worker alleged that the extraterrestria...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spaceconnectonline.com.au  
    Title: 5090 china s ufo looking rocket may have passed over sydney  
-   Link: <a href="https://www.spaceconnectonline.com.au/launch/5090-china-s-ufo-looking-rocket-may-have-passed-over-sydney" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceconnectonline.com.au/launch/5090-china-s-ufo-looking-rocket-may-have-passed-over-sydney</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s &#x27;UFO&#x27; looking rocket may have passed over Sydney28 Sept 2021 — Residents in Sydney may have witnessed parts of a Chinese rocket l...</p></details>
+   Link:<a href="https://www.spaceconnectonline.com.au/launch/5090-china-s-ufo-looking-rocket-may-have-passed-over-sydney" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceconnectonline.com.au/launch/5090-china-s-ufo-looking-rocket-may-have-passed-over-sydney</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s &#x27;UFO&#x27; looking rocket may have passed over Sydney28 Sept 2021 — Residents in Sydney may have witnessed parts of a Chinese rocket l...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jakartaglobe.id  
    Title: indonesias ufo sighting explained as chinese rocket trail  
-   Link: <a href="https://jakartaglobe.id/tech/indonesias-ufo-sighting-explained-as-chinese-rocket-trail" target="_blank" rel="noopener noreferrer nofollow">https://jakartaglobe.id/tech/indonesias-ufo-sighting-explained-as-chinese-rocket-trail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indonesia&#x27;s &#x27;UFO&#x27; Sighting Explained as Chinese Rocket Trail14 Apr 2026 — A glowing object seen across Indonesia sparked UFO speculation...</p></details>
+   Link:<a href="https://jakartaglobe.id/tech/indonesias-ufo-sighting-explained-as-chinese-rocket-trail" target="_blank" rel="noopener noreferrer nofollow">https://jakartaglobe.id/tech/indonesias-ufo-sighting-explained-as-chinese-rocket-trail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indonesia&#x27;s &#x27;UFO&#x27; Sighting Explained as Chinese Rocket Trail14 Apr 2026 — A glowing object seen across Indonesia sparked UFO speculation...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/shanghaieyeSMG/videos/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1934664547278438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/videos/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1934664547278438/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reported over Xi&#x27;an&#x27;s ancient city walls early Friday were rocket exhaust trails...</p></details>
+   Link:<a href="https://www.facebook.com/shanghaieyeSMG/videos/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1934664547278438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shanghaieyeSMG/videos/authorities-have-confirmed-that-unidentified-flying-object-ufo-sightings-reporte/1934664547278438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reported over Xi&#x27;an&#x27;s ancient city walls early Friday were rocket exhaust trails...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cgtnamerica/posts/a-mysteriously-shaped-illuminating-ufo-was-observed-over-the-night-sky-of-northw/5589713817790511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnamerica/posts/a-mysteriously-shaped-illuminating-ufo-was-observed-over-the-night-sky-of-northw/5589713817790511/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t signal alien activity but they do remind us of how strange and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cgtnamerica/posts/a-mysteriously-shaped-illuminating-ufo-was-observed-over-the-night-sky-of-northw/5589713817790511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnamerica/posts/a-mysteriously-shaped-illuminating-ufo-was-observed-over-the-night-sky-of-northw/5589713817790511/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t signal alien activity but they do remind us of how strange and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DKnMrnls9ou/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKnMrnls9ou/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens #mystery #caughtoncamera. more. View all 24 comments.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DKnMrnls9ou/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKnMrnls9ou/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens #mystery #caughtoncamera. more. View all 24 comments.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: an excellent report from 1981 on the ufo  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/mopd6t/an_excellent_report_from_1981_on_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/mopd6t/an_excellent_report_from_1981_on_the_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An excellent report from 1981 on the UFO phenomenon...In one case a UFO stayed over an airfield for over an hour and was observed...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/mopd6t/an_excellent_report_from_1981_on_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/mopd6t/an_excellent_report_from_1981_on_the_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An excellent report from 1981 on the UFO phenomenon...In one case a UFO stayed over an airfield for over an hour and was observed...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /fiji-bbb7ef-index/
 description: Focused pages that expand on Fiji.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Fiji_bbb7ef
 parent_title: Fiji
@@ -16,7 +16,7 @@ parent_permalink: /fiji/
 
 # Explore Topics in Fiji
 
-The following pages expand on the main **[Fiji]({{ '/fiji/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Fiji]({{ '/fiji/' | relative_url }})** page and cover its key branches in.
 
 - [Historical Sightings]({{ '/historical-sightings/' | relative_url }})
 - [Modern Reports]({{ '/modern-reports-94837e/' | relative_url }})

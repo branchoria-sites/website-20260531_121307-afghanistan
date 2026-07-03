@@ -248,31 +248,31 @@ image: /assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-1-soci
 
 ## Introduction
 
-Most Danish UFO reports do not remain mysterious for long. Investigators from the Danish Air Force and the civilian organisation Scandinavian UFO Information (SUFOI) have repeatedly concluded that the overwhelming majority of sightings can be traced to ordinary causes: aircraft, bright planets, meteors, satellites, atmospheric effects, drones, balloons, military activity, or simple perceptual errors. What makes the Danish case interesting is not a large body of convincing extraterrestrial evidence, but the tension between a relatively sober investigative culture and a persistent residue of unresolved cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+Most Danish UFO reports do not remain mysterious for long. Investigators from the Danish Air Force and the civilian organisation Scandinavian UFO Information (SUFOI) have repeatedly concluded that the overwhelming majority of sightings can be traced to ordinary causes: aircraft, bright planets, meteors, satellites, atmospheric effects, drones, balloons, military activity, or simple perceptual errors. What makes the Danish case interesting is not a large body of convincing extraterrestrial evidence, but the tension between a relatively sober investigative culture and a persistent residue of unresolved cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 <img src="{{ "/assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Denmark’s released UFO archives illustrate a common problem in UFO research: “unresolved” does not necessarily mean “unexplainable”. In many Danish files, the decisive issue is incomplete evidence. Witnesses may have seen something unusual, but the reports lack radar data, photographs, precise timing, multiple corroborating observers, or enough technical detail to support strong conclusions. This distinction between unexplained and extraordinary sits at the centre of Danish UFO analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+Denmark’s released UFO archives illustrate a common problem in UFO research: “unresolved” does not necessarily mean “unexplainable”. In many Danish files, the decisive issue is incomplete evidence. Witnesses may have seen something unusual, but the reports lack radar data, photographs, precise timing, multiple corroborating observers, or enough technical detail to support strong conclusions. This distinction between unexplained and extraordinary sits at the centre of Danish UFO analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 ## Why Most Danish UFO Reports End Up Explained
 
-Danish investigators have historically treated UFO reports as identification problems rather than proof of alien visitation. Both military archives and SUFOI publications show a preference for reconstructing ordinary causes before considering extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+Danish investigators have historically treated UFO reports as identification problems rather than proof of alien visitation. Both military archives and SUFOI publications show a preference for reconstructing ordinary causes before considering extraordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
-SUFOI states that roughly 95–98% of Danish UFO reports eventually receive ordinary explanations. The organisation argues that the remaining small percentage are unresolved primarily because of missing information rather than because they demonstrate unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+SUFOI states that roughly 95–98% of Danish UFO reports eventually receive ordinary explanations. The organisation argues that the remaining small percentage are unresolved primarily because of missing information rather than because they demonstrate unknown technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 Several recurring explanation patterns appear throughout Danish case files:
 
 * **Astronomical misidentifications**: Venus, bright stars, meteors, and unusual cloud illumination repeatedly generated reports of hovering or manoeuvring lights.
 * **Human-made aerial objects**: Aircraft landing lights, military exercises, helicopters, satellites, Chinese lanterns, drones, and advertising balloons account for many sightings.
 * **Perceptual distortion**: Distance, darkness, atmospheric haze, and observer expectation often made ordinary objects appear silent, enormous, or impossibly fast.
-* **Media influence**: Waves of reports frequently followed periods of intense UFO publicity in newspapers, television, or popular culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+* **Media influence**: Waves of reports frequently followed periods of intense UFO publicity in newspapers, television, or popular culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
-One important feature of Danish investigations is methodological restraint. Rather than promoting unresolved cases as evidence of extraterrestrials, SUFOI has repeatedly described UFO belief as a modern myth shaped by culture, psychology, and selective interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+One important feature of Danish investigations is methodological restraint. Rather than promoting unresolved cases as evidence of extraterrestrials, SUFOI has repeatedly described UFO belief as a modern myth shaped by culture, psychology, and selective interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 This does not mean investigators dismiss witnesses as dishonest. Danish investigators often treat witnesses as sincere but potentially mistaken. The distinction matters because many reports involve genuine observations interpreted through uncertain conditions.
 
 ## What the Danish UFO Archive Actually Shows
 
-The Royal Danish Air Force released its UFO archive publicly in 2009 after years of public and media curiosity. The archive contains hundreds of pages of reports and correspondence covering sightings investigated between roughly 1978 and 2002. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Denmark releases UFO archives</span><span class="citation-popover-snippet">Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</span></span></span>
+The Royal Danish Air Force released its UFO archive publicly in 2009 after years of public and media curiosity. The archive contains hundreds of pages of reports and correspondence covering sightings investigated between roughly 1978 and 2002.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Denmark releases UFO archives</span><span class="citation-popover-snippet">Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</span></span></span>
 
 The release generated headlines because more than 200 cases were described as unresolved. Yet the files themselves are generally far less dramatic than the headlines suggested. Many unresolved reports involve:
 
@@ -284,13 +284,13 @@ The release generated headlines because more than 200 cases were described as un
 * no physical trace evidence;
 * no radar confirmation;
 * inconsistent descriptions;
-* or incomplete follow-up information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span>
+* or incomplete follow-up information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span>
 
 </div>
 
 This distinction is crucial. In the Danish archive, “unresolved” often means investigators lacked enough information to determine a conventional explanation confidently. It does not automatically mean the object displayed impossible behaviour.
 
-The files also reveal that Danish authorities did not treat UFOs as confirmed national-security threats. Reports were catalogued and sometimes analysed, but there is little evidence of a large-scale secret programme devoted to proving extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Denmark releases UFO archives</span><span class="citation-popover-snippet">Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</span></span></span>
+The files also reveal that Danish authorities did not treat UFOs as confirmed national-security threats. Reports were catalogued and sometimes analysed, but there is little evidence of a large-scale secret programme devoted to proving extraterrestrial visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Denmark releases UFO archives</span><span class="citation-popover-snippet">Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</span></span></span>
 
 The archive therefore functions more as a historical record of public reporting behaviour and investigative limitations than as a catalogue of proven anomalies.
 
@@ -313,7 +313,7 @@ Typical weaknesses include:
 * lack of photographic evidence;
 * no radar or air-traffic data;
 * memory distortion after publicity;
-* and difficulty estimating altitude or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span>
+* and difficulty estimating altitude or speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Part 3 (pp</span><span class="citation-popover-snippet">200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</span></span></span>
 
 </div>
 
@@ -323,7 +323,7 @@ Under these conditions, even trained investigators may be unable to reconstruct 
 
 Danish investigators have repeatedly noted a broader methodological issue: every large reporting system produces a residual category of unresolved cases.
 
-Even after filtering obvious explanations, some reports remain ambiguous because evidence quality is uneven. That ambiguity can easily be misinterpreted publicly as proof of something extraordinary. In practice, unresolved status may reflect only investigative limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+Even after filtering obvious explanations, some reports remain ambiguous because evidence quality is uneven. That ambiguity can easily be misinterpreted publicly as proof of something extraordinary. In practice, unresolved status may reflect only investigative limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 This is one reason Danish sceptical researchers have warned against treating the number of unresolved cases as evidence by itself. A poorly documented report can remain unresolved forever without becoming stronger.
 
@@ -334,7 +334,7 @@ Although Denmark lacks a single universally accepted “classic” UFO incident 
 <img src="{{ "/assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Denmark_89da12_evidence_quality_ef04cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Evald Maarup Incident
 
-One of Denmark’s best-known UFO stories is the 1970 incident involving police officer Evald Maarup near Sillerup. According to later retellings, Maarup reported a bright object associated with unusual electrical effects affecting his vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hiddenmark.dk/english/ufos/the-evald-maarup-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiddenmark.dk">[Hidden Mark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiddenmark.dk</span><span class="citation-popover-snippet">Hidden MarkThe Evald Maarup car-stop - Denmark&#x27;s most famous UFO...In 1970, a police car suffered a power outage as a mysterious UFO lit...</span></span></span>
+One of Denmark’s best-known UFO stories is the 1970 incident involving police officer Evald Maarup near Sillerup. According to later retellings, Maarup reported a bright object associated with unusual electrical effects affecting his vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hiddenmark.dk/english/ufos/the-evald-maarup-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiddenmark.dk">[Hidden Mark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiddenmark.dk</span><span class="citation-popover-snippet">Hidden MarkThe Evald Maarup car-stop - Denmark&#x27;s most famous UFO...In 1970, a police car suffered a power outage as a mysterious UFO lit...</span></span></span>
 
 Supporters view the case as compelling because it involved a police witness and claims of physical interference. Critics, however, note substantial problems:
 
@@ -351,7 +351,7 @@ The case remains culturally important in Danish UFO lore, but it does not meet m
 
 ### Regional “Light” Reports
 
-Bornholm and coastal regions near the Baltic have periodically produced reports of unusual lights. These cases are often strengthened by multiple witnesses and recurring observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visualbornholm.com/en/steder/ufoer-over-oestersoeen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualbornholm.com">[Visual Bornholm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualbornholm.com</span><span class="citation-popover-title">Visual Bornholm UFOer over Østersøen</span><span class="citation-popover-snippet">Visual BornholmUFOer over Østersøen - Visual Bornholm - hvem så hvad?A number of inexplicable phenomena are observed in the air space ov...</span></span></span>
+Bornholm and coastal regions near the Baltic have periodically produced reports of unusual lights. These cases are often strengthened by multiple witnesses and recurring observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://visualbornholm.com/en/steder/ufoer-over-oestersoeen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualbornholm.com">[Visual Bornholm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualbornholm.com</span><span class="citation-popover-title">Visual Bornholm UFOer over Østersøen</span><span class="citation-popover-snippet">Visual BornholmUFOer over Østersøen - Visual Bornholm - hvem så hvad?A number of inexplicable phenomena are observed in the air space ov...</span></span></span>
 
 Yet recurring light phenomena create their own interpretive difficulties. Maritime traffic, military activity, atmospheric refraction, celestial objects near the horizon, and changing weather conditions can all generate striking visual effects. Without instrumented data, repeated observations alone do not necessarily narrow the explanation.
 
@@ -359,7 +359,7 @@ Yet recurring light phenomena create their own interpretive difficulties. Mariti
 
 ### Media-Amplified Mystery Cases
 
-Danish television and newspaper coverage has sometimes transformed ambiguous reports into stronger public myths. Archive documentaries and sensational retellings often compress uncertainty into dramatic narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kb.dk/find-materiale/dr-arkivet/post/ds.tv%3Aoai%3Aio%3Aa44bee88-858f-4c21-87fb-0dc60c06e52d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kb.dk">[Royal Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kb.dk</span><span class="citation-popover-title">Royal Library Ufoer over Danmark</span><span class="citation-popover-snippet">Royal LibraryUfoer over Danmark - DR-arkivUfoer over Danmark. Rumskibet fra Alminde, ufo-styrtet på Amager Fælled, danske jetfly på ufo-j...</span></span></span>
+Danish television and newspaper coverage has sometimes transformed ambiguous reports into stronger public myths. Archive documentaries and sensational retellings often compress uncertainty into dramatic narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kb.dk/find-materiale/dr-arkivet/post/ds.tv%3Aoai%3Aio%3Aa44bee88-858f-4c21-87fb-0dc60c06e52d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kb.dk">[Royal Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kb.dk</span><span class="citation-popover-title">Royal Library Ufoer over Danmark</span><span class="citation-popover-snippet">Royal LibraryUfoer over Danmark - DR-arkivUfoer over Danmark. Rumskibet fra Alminde, ufo-styrtet på Amager Fælled, danske jetfly på ufo-j...</span></span></span>
 
 A common pattern emerges:
 
@@ -376,7 +376,7 @@ This process helps explain why some Danish UFO stories remain culturally durable
 
 ## Extraordinary Claims and the Danish Skeptical Tradition
 
-Denmark’s UFO culture differs from more sensational traditions found elsewhere. SUFOI, the country’s longest-running UFO organisation, openly rejects the idea that Danish reports provide convincing evidence of alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+Denmark’s UFO culture differs from more sensational traditions found elsewhere. SUFOI, the country’s longest-running UFO organisation, openly rejects the idea that Danish reports provide convincing evidence of alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 That stance shapes how extraordinary claims are handled.
 
@@ -385,7 +385,7 @@ That stance shapes how extraordinary claims are handled.
 
 No Danish UFO case has produced publicly verified evidence of extraterrestrial technology. There are no authenticated crash recoveries, no verified non-human materials, and no publicly available instrument records demonstrating impossible flight characteristics.
 
-Some enthusiasts interpret unresolved reports as indirect support for alien hypotheses. Danish sceptical investigators counter that unresolved observations are expected in any large reporting system and cannot substitute for positive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+Some enthusiasts interpret unresolved reports as indirect support for alien hypotheses. Danish sceptical investigators counter that unresolved observations are expected in any large reporting system and cannot substitute for positive evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 ### Physical Trace and Electromagnetic Claims
 
@@ -409,7 +409,7 @@ As a result, Danish investigators generally treat such reports cautiously rather
 
 ### Conspiracy Narratives
 
-The 2009 archive release weakened some claims of large-scale government concealment in Denmark. The documents showed a bureaucracy dealing with citizen reports, not a hidden programme confirming alien contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Denmark releases UFO archives</span><span class="citation-popover-snippet">Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</span></span></span>
+The 2009 archive release weakened some claims of large-scale government concealment in Denmark. The documents showed a bureaucracy dealing with citizen reports, not a hidden programme confirming alien contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Denmark releases UFO archives</span><span class="citation-popover-snippet">Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</span></span></span>
 
 Conspiracy interpretations nevertheless persist online, especially around the number of unresolved files. But the archive itself repeatedly demonstrates that unresolved classification often reflected limited evidence, not suppressed conclusions.
 
@@ -423,201 +423,201 @@ Several conclusions emerge consistently from the evidence:
 * Witness sincerity does not guarantee observational accuracy.
 * Unresolved cases often remain unresolved because evidence is incomplete, not because the phenomenon is demonstrably extraordinary.
 * Media retellings frequently exaggerate the certainty or significance of original reports.
-* Denmark’s most established UFO investigators have generally adopted a critical rather than belief-driven approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
+* Denmark’s most established UFO investigators have generally adopted a critical rather than belief-driven approach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufoi.dk">[Skandinavisk UFO Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufoi.dk</span><span class="citation-popover-title">And provide well-founded reseach on danish UFO expeiences</span><span class="citation-popover-snippet">Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</span></span></span>
 
 At the same time, the persistence of a small unresolved category explains why the subject never entirely disappears. Human observers do occasionally encounter aerial events they cannot confidently identify. Danish archives show that this uncertainty is real, even if the leap from uncertainty to extraterrestrial explanation remains unsupported.
 
 The result is a body of UFO evidence that is historically interesting, psychologically revealing, and sometimes genuinely puzzling, but still far short of proving extraordinary claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Danish UFO Reports Are Explained, Unresolved, or Contested?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Danish UFO Reports Are Explained, Unresolved, or Contested?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines evidence quality, case files, and official conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence quality, case files, and official conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly aligns with explained versus unexplained case analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with explained versus unexplained case analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Focuses specifically on assessing the strength of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses specifically on assessing the strength of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Presents notable cases while discussing evidence limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents notable cases while discussing evidence limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-danish-ufo-reports-are-explained-unresolved-or-contested-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ The result is a body of UFO evidence that is historically interesting, psycholog
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ The result is a body of UFO evidence that is historically interesting, psycholog
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ The result is a body of UFO evidence that is historically interesting, psycholog
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ The result is a body of UFO evidence that is historically interesting, psycholog
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ The result is a body of UFO evidence that is historically interesting, psycholog
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -820,128 +820,127 @@ The result is a body of UFO evidence that is historically interesting, psycholog
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sufoi.dk  
    Title: And provide well-founded reseach on danish UFO expeiences  
-   Link: <a href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/om-sufoi/english-version/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</p></details>
+   Link:<a href="https://sufoi.dk/om-sufoi/english-version/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/om-sufoi/english-version/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skandinavisk UFO InformationTHE UFO MYTH – positioning statement of the Danish...SUFOI is the oldest, active association that deals with...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sufoi.dk  
    Title: Skandinavisk UFO Information Velkommen til Skandinavisk UFO Information  
-   Link: <a href="https://sufoi.dk/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skandinavisk UFO InformationVelkommen til Skandinavisk UFO Information - Danmarks...Skandinavisk UFO Information er Danmarks ældste ufo...</p></details>
+   Link:<a href="https://sufoi.dk/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skandinavisk UFO InformationVelkommen til Skandinavisk UFO Information - Danmarks...Skandinavisk UFO Information er Danmarks ældste ufo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: upi.com  
    Title: Denmark releases UFO archives  
-   Link: <a href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</p></details>
+   Link:<a href="https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Odd_News/2009/01/30/Denmark-releases-UFO-archives/90411233360944/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denmark releases UFO archives - UPI.comJan 30, 2009 — The Danish Air Force has released 329 pages of previously classified archives on...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sufoi.dk  
-   Link: <a href="https://sufoi.dk/arkiv/ufo-observationer/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/arkiv/ufo-observationer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artikler om UFO-observationerPå denne side finder du en oversigt over alle de artikler om UFO-observationer, der findes på Skandinavisk U...</p></details>
+   Link:<a href="https://sufoi.dk/arkiv/ufo-observationer/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/arkiv/ufo-observationer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artikler om UFO-observationerPå denne side finder du en oversigt over alle de artikler om UFO-observationer, der findes på Skandinavisk U...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sufoi.dk  
-   Link: <a href="https://sufoi.dk/category/410/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/category/410/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>410 ArkivArtikelarkiv · UFO-indberetninger · Læs gamle UFO-nyt mv. Persondatapolitik · Undervisningsforløb i ufoer · SUFOI&#x27;s webshop · Ad...</p></details>
+   Link:<a href="https://sufoi.dk/category/410/" target="_blank" rel="noopener noreferrer nofollow">https://sufoi.dk/category/410/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>410 ArkivArtikelarkiv · UFO-indberetninger · Læs gamle UFO-nyt mv. Persondatapolitik · Undervisningsforløb i ufoer · SUFOI&#x27;s webshop · Ad...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Danish UFOFiles  
-   Link: <a href="https://archive.org/details/DanishUFOFiles" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/DanishUFOFiles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Danish UFO Files: Denmark: Free Download, Borrow, and...Jan 16, 2016 — Usage: Public Domain Mark 1.0 Creative Commons License publicdo...</p></details>
+   Link:<a href="https://archive.org/details/DanishUFOFiles" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/DanishUFOFiles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Danish UFO Files: Denmark: Free Download, Borrow, and...Jan 16, 2016 — Usage: Public Domain Mark 1.0 Creative Commons License publicdo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOKThey keep a skeptical but open mind, to re-define the scope of ufology and... reported sightings, which are being inv...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOKThey keep a skeptical but open mind, to re-define the scope of ufology and... reported sightings, which are being inv...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Part 3 (pp  
-   Link: <a href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-dk-flyvevabnet-2009-part-3-flv-ufo-materiale-side200-280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>200–280), Flyvevåbnet (Royal Danish Air Force) · 2009...Pages 200–280 of the Royal Danish Air Force&#x27;s 2009 public UFO archive release, a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hiddenmark.dk  
-   Link: <a href="https://hiddenmark.dk/english/ufos/the-evald-maarup-case/" target="_blank" rel="noopener noreferrer nofollow">https://hiddenmark.dk/english/ufos/the-evald-maarup-case/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden MarkThe Evald Maarup car-stop - Denmark&#x27;s most famous UFO...In 1970, a police car suffered a power outage as a mysterious UFO lit...</p></details>
+   Link:<a href="https://hiddenmark.dk/english/ufos/the-evald-maarup-case/" target="_blank" rel="noopener noreferrer nofollow">https://hiddenmark.dk/english/ufos/the-evald-maarup-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden MarkThe Evald Maarup car-stop - Denmark&#x27;s most famous UFO...In 1970, a police car suffered a power outage as a mysterious UFO lit...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: visualbornholm.com  
    Title: Visual Bornholm UFOer over Østersøen  
-   Link: <a href="https://visualbornholm.com/en/steder/ufoer-over-oestersoeen/" target="_blank" rel="noopener noreferrer nofollow">https://visualbornholm.com/en/steder/ufoer-over-oestersoeen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual BornholmUFOer over Østersøen - Visual Bornholm - hvem så hvad?A number of inexplicable phenomena are observed in the air space ov...</p></details>
+   Link:<a href="https://visualbornholm.com/en/steder/ufoer-over-oestersoeen/" target="_blank" rel="noopener noreferrer nofollow">https://visualbornholm.com/en/steder/ufoer-over-oestersoeen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual BornholmUFOer over Østersøen - Visual Bornholm - hvem så hvad?A number of inexplicable phenomena are observed in the air space ov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kb.dk  
    Title: Royal Library Ufoer over Danmark  
-   Link: <a href="https://www.kb.dk/find-materiale/dr-arkivet/post/ds.tv%3Aoai%3Aio%3Aa44bee88-858f-4c21-87fb-0dc60c06e52d" target="_blank" rel="noopener noreferrer nofollow">https://www.kb.dk/find-materiale/dr-arkivet/post/ds.tv%3Aoai%3Aio%3Aa44bee88-858f-4c21-87fb-0dc60c06e52d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal LibraryUfoer over Danmark - DR-arkivUfoer over Danmark. Rumskibet fra Alminde, ufo-styrtet på Amager Fælled, danske jetfly på ufo-j...</p></details>
+   Link:<a href="https://www.kb.dk/find-materiale/dr-arkivet/post/ds.tv%3Aoai%3Aio%3Aa44bee88-858f-4c21-87fb-0dc60c06e52d" target="_blank" rel="noopener noreferrer nofollow">https://www.kb.dk/find-materiale/dr-arkivet/post/ds.tv%3Aoai%3Aio%3Aa44bee88-858f-4c21-87fb-0dc60c06e52d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal LibraryUfoer over Danmark - DR-arkivUfoer over Danmark. Rumskibet fra Alminde, ufo-styrtet på Amager Fælled, danske jetfly på ufo-j...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufotransparency.com  
    Title: Denmark files · 02 International Disclosure  
-   Link: <a href="https://ufotransparency.com/international/files/dk" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/dk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyMay 8, 2026 — The Royal Danish Air Force released its full 329-page UFO archive on January 29, 2009, covering investigate...</p></details>
+   Link:<a href="https://ufotransparency.com/international/files/dk" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/dk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyMay 8, 2026 — The Royal Danish Air Force released its full 329-page UFO archive on January 29, 2009, covering investigate...</p></details>
    Published: May 8, 2026  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015472.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015472.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DANISH DEFENSE LEADERS TAKE SERIOUS VIEW OF...The Danish Air Force Command has recently turned over to the Defense Starf a report on var...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015472.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015472.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DANISH DEFENSE LEADERS TAKE SERIOUS VIEW OF...The Danish Air Force Command has recently turned over to the Defense Starf a report on var...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/category/a-closer-look/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/category/a-closer-look/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Category: A Closer LookA column by Kenny Biddle, a science enthusiast who likes to take a closer look at claims involving paranormal expe...</p></details>
+   Link:<a href="https://skepticalinquirer.org/category/a-closer-look/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/category/a-closer-look/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Category: A Closer LookA column by Kenny Biddle, a science enthusiast who likes to take a closer look at claims involving paranormal expe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/afu2/?tag=sufoi" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?tag=sufoi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUFOI |UFO report files · Clippings · Audios &amp; videos · People &amp; groups · Pictures... Ole Henningsen is one of the most well known Danis...</p></details>
+   Link:<a href="https://www.afu.se/afu2/?tag=sufoi" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/afu2/?tag=sufoi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUFOI |UFO report files · Clippings · Audios &amp; videos · People &amp; groups · Pictures... Ole Henningsen is one of the most well known Danis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/9789004325968/B9789004325968_082.pdf?srsltid=AfmBOorxl6UoX-VLDJ4MW1IhkMuK29P8GecgbepmsAVDB0ODB68F7jpR" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004325968/B9789004325968_082.pdf?srsltid=AfmBOorxl6UoX-VLDJ4MW1IhkMuK29P8GecgbepmsAVDB0ODB68F7jpR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Movements in NorwayScandinavian sister organisations (in particular Danish SUFOI which today resembles a sceptic&#x27;s organisation), thu...</p></details>
+   Link:<a href="https://brill.com/display/book/9789004325968/B9789004325968_082.pdf?srsltid=AfmBOorxl6UoX-VLDJ4MW1IhkMuK29P8GecgbepmsAVDB0ODB68F7jpR" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004325968/B9789004325968_082.pdf?srsltid=AfmBOorxl6UoX-VLDJ4MW1IhkMuK29P8GecgbepmsAVDB0ODB68F7jpR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Movements in NorwayScandinavian sister organisations (in particular Danish SUFOI which today resembles a sceptic&#x27;s organisation), thu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/407597160668310/posts/1614786016616079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/407597160668310/posts/1614786016616079/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting near Port Dover, ONThis morning&#x27;s lights 7am ish.. off of Port Dover..and maybe a tiny ufo up on the left sky…but I would ho...</p></details>
+   Link:<a href="https://www.facebook.com/groups/407597160668310/posts/1614786016616079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/407597160668310/posts/1614786016616079/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting near Port Dover, ONThis morning&#x27;s lights 7am ish.. off of Port Dover..and maybe a tiny ufo up on the left sky…but I would ho...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYjEcflDash/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYjEcflDash/</a>  
+   Link:<a href="https://www.instagram.com/p/DYjEcflDash/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYjEcflDash/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WeRHumanity/posts/ufo-researcher-martin-kleist-shared-footage-of-a-ufo-he-captured-in-greenland-wh/1141506711341632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeRHumanity/posts/ufo-researcher-martin-kleist-shared-footage-of-a-ufo-he-captured-in-greenland-wh/1141506711341632/</a>  
+   Link:<a href="https://www.facebook.com/WeRHumanity/posts/ufo-researcher-martin-kleist-shared-footage-of-a-ufo-he-captured-in-greenland-wh/1141506711341632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeRHumanity/posts/ufo-researcher-martin-kleist-shared-footage-of-a-ufo-he-captured-in-greenland-wh/1141506711341632/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: when mysterious orb like lights were recorded in the sky above koge a small port  
-   Link: <a href="https://www.facebook.com/BBCRadio4/posts/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/1129732525863109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/posts/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/1129732525863109/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When mysterious orb-like lights were recorded in the sky...In January 2009, the Danish Air Force published a comprehensive report on UFO...</p></details>
+   Link:<a href="https://www.facebook.com/BBCRadio4/posts/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/1129732525863109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/posts/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/1129732525863109/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When mysterious orb-like lights were recorded in the sky...In January 2009, the Danish Air Force published a comprehensive report on UFO...</p></details>
    Published: January 2009  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nordic-ufo.org  
    Title: unveiling the unknown denmarks captivating ufo encounters  
-   Link: <a href="https://www.nordic-ufo.org/2024/07/17/unveiling-the-unknown-denmarks-captivating-ufo-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.nordic-ufo.org/2024/07/17/unveiling-the-unknown-denmarks-captivating-ufo-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Unknown: Denmark&#x27;s Captivating UFO Encounters17 Jul 2024 — Adding to the intrigue, in 2009, the Danish Air Force released 3...</p></details>
+   Link:<a href="https://www.nordic-ufo.org/2024/07/17/unveiling-the-unknown-denmarks-captivating-ufo-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.nordic-ufo.org/2024/07/17/unveiling-the-unknown-denmarks-captivating-ufo-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Unknown: Denmark&#x27;s Captivating UFO Encounters17 Jul 2024 — Adding to the intrigue, in 2009, the Danish Air Force released 3...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ethiopia-3d91f7-index/
 description: Focused pages that expand on What Really Counts as Ethiopia's UFO....
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Ethiopia_3d91f7
 parent_title: What Really Counts as Ethiopia's UFO...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-counts-as-ethiopias-ufo/
 
 # Explore Topics in What Really Counts as Ethiopia's UFO...
 
-The following pages expand on the main **[What Really Counts as Ethiopia's UFO...]({{ '/what-really-counts-as-ethiopias-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Counts as Ethiopia's UFO...]({{ '/what-really-counts-as-ethiopias-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [2025 Sky Event]({{ '/2025-sky-event/' | relative_url }})
 - [Saladare]({{ '/saladare/' | relative_url }})

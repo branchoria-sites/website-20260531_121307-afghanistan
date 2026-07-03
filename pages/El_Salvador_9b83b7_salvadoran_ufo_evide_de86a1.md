@@ -261,19 +261,19 @@ Judging claims of unidentified flying objects (UFOs) or Unidentified Aerial Phen
 
 **1. Witness credibility and corroboration**
 
-Begin with who saw the phenomenon and how they describe it. Reports with multiple independent observers ideally from different vantage points are stronger than single anecdotes. For example, press archives sometimes recount group sightings over San Salvador where several people reported lights or objects moving in the sky. Multiplyreported sightings help rule out individual misperception, but even then, consistency of detail matters. A single persons video of a light over Santa Tecla may be intriguing, but without clear context it remains ambiguous. [Inquisitr News](#endnote-1 "Snippet: Inquisitr NewsEl Salvador Witness Films Mysterious Orb UFO In The Sky <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrapunto.com.sv">[Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrapunto.com.sv</span><span class="citation-popover-snippet">VIDEO &#124; &quot;El Salvador es visitado por varios seres del espacio&quot; - ContraPuntoMarch 2, 2017 VIDEO &#124; EL SALVADOR ES VISITADO POR VARIOS S...</span><span class="citation-popover-meta">Published: March 2, 2017</span></span></span> - Inquisitr NewsNovember 15, 2015")
+Begin with who saw the phenomenon and how they describe it. Reports with multiple independent observers ideally from different vantage points are stronger than single anecdotes. For example, press archives sometimes recount group sightings over San Salvador where several people reported lights or objects moving in the sky. Multiplyreported sightings help rule out individual misperception, but even then, consistency of detail matters. A single persons video of a light over Santa Tecla may be intriguing, but without clear context it remains ambiguous. [Inquisitr News](#endnote-1 "Snippet: Inquisitr NewsEl Salvador Witness Films Mysterious Orb UFO In The Sky<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrapunto.com.sv">[Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrapunto.com.sv</span><span class="citation-popover-snippet">VIDEO &#124; &quot;El Salvador es visitado por varios seres del espacio&quot; - ContraPuntoMarch 2, 2017 VIDEO &#124; EL SALVADOR ES VISITADO POR VARIOS S...</span><span class="citation-popover-meta">Published: March 2, 2017</span></span></span> - Inquisitr NewsNovember 15, 2015")
 
 **2. Quality and metadata of recordings**
 
-Video and photography are common in Salvadoran reports, especially from TikTok, Instagram and Facebook, but quality varies widely. Highresolution recordings with timestamps, GPS data and calibration parameters are far more useful than fuzzy cellphone clips. Viral clips of an object over Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}), for example, circulated broadly, but commentators noted they could just as easily depict a bird, balloon or kite blown by wind due to lack of distinguishing features and absence of corroborating sensor data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsVIDEO: Presunto ovni captado sobre cerro San Jacinto de San Salvador - Noticias de El SalvadorJuly 19, 2022...</span><span class="citation-popover-meta">Published: July 19, 2022</span></span></span>
+Video and photography are common in Salvadoran reports, especially from TikTok, Instagram and Facebook, but quality varies widely. Highresolution recordings with timestamps, GPS data and calibration parameters are far more useful than fuzzy cellphone clips. Viral clips of an object over Cerro [San Jacinto]({{ 'san-jacinto/' | relative_url }}), for example, circulated broadly, but commentators noted they could just as easily depict a bird, balloon or kite blown by wind due to lack of distinguishing features and absence of corroborating sensor data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsVIDEO: Presunto ovni captado sobre cerro San Jacinto de San Salvador - Noticias de El SalvadorJuly 19, 2022...</span><span class="citation-popover-meta">Published: July 19, 2022</span></span></span>
 
 **3. Chain of custody and independent analysis**
 
-Strong evidence has a documented chain of custody, meaning that original recordings and witness statements are preserved and made available for thirdparty review. Salvadoran anecdotal cases that reside only on social media without official preservation cannot be analysed against objective standards. In contrast, submission to organised databases like MUFON includes structured reporting, allowing researchers to compare details systematically though absence of resolution in such databases does not equate to confirmation. [Inquisitr News](#endnote-1 "Snippet: Inquisitr NewsEl Salvador Witness Films Mysterious Orb UFO In The Sky <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrapunto.com.sv">[Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrapunto.com.sv</span><span class="citation-popover-snippet">VIDEO &#124; &quot;El Salvador es visitado por varios seres del espacio&quot; - ContraPuntoMarch 2, 2017 VIDEO &#124; EL SALVADOR ES VISITADO POR VARIOS S...</span><span class="citation-popover-meta">Published: March 2, 2017</span></span></span> - Inquisitr NewsNovember 15, 2015")
+Strong evidence has a documented chain of custody, meaning that original recordings and witness statements are preserved and made available for thirdparty review. Salvadoran anecdotal cases that reside only on social media without official preservation cannot be analysed against objective standards. In contrast, submission to organised databases like MUFON includes structured reporting, allowing researchers to compare details systematically though absence of resolution in such databases does not equate to confirmation. [Inquisitr News](#endnote-1 "Snippet: Inquisitr NewsEl Salvador Witness Films Mysterious Orb UFO In The Sky<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrapunto.com.sv">[Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrapunto.com.sv</span><span class="citation-popover-snippet">VIDEO &#124; &quot;El Salvador es visitado por varios seres del espacio&quot; - ContraPuntoMarch 2, 2017 VIDEO &#124; EL SALVADOR ES VISITADO POR VARIOS S...</span><span class="citation-popover-meta">Published: March 2, 2017</span></span></span> - Inquisitr NewsNovember 15, 2015")
 
 **4. Alternative explanations and expert input**
 
-Before jumping to extraordinary causes, consider ordinary phenomena that can mimic UAP. Lights in the sky can turn out to be balloons, aircraft, drones, atmospheric optics or space debris. For example, a luminous object observed in December2022 across El Salvador was explained by the Asociacin Salvadorea de Astronoma as the upper stage of a SpaceX Falcon9 rocket launched from Florida, illustrating how expert analysis can demystify sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsVIDEO: Presunto ovni captado sobre cerro San Jacinto de San Salvador - Noticias de El SalvadorJuly 19, 2022...</span><span class="citation-popover-meta">Published: July 19, 2022</span></span></span>
+Before jumping to extraordinary causes, consider ordinary phenomena that can mimic UAP. Lights in the sky can turn out to be balloons, aircraft, drones, atmospheric optics or space debris. For example, a luminous object observed in December2022 across El Salvador was explained by the Asociacin Salvadorea de Astronoma as the upper stage of a SpaceX Falcon9 rocket launched from Florida, illustrating how expert analysis can demystify sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsalvador.com">[El Salvador News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsalvador.com</span><span class="citation-popover-snippet">El Salvador NewsVIDEO: Presunto ovni captado sobre cerro San Jacinto de San Salvador - Noticias de El SalvadorJuly 19, 2022...</span><span class="citation-popover-meta">Published: July 19, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kOM-F21FuHc" title="The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer">The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie</a></p><p class="youtube-embed-meta">Channel: Stash - Free Documentaries &middot; Views: 68.0K &middot; Uploaded: April 2024 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kOM-F21FuHc">Open on YouTube</a></p></div></div></div>
 
@@ -281,7 +281,7 @@ Before jumping to extraordinary causes, consider ordinary phenomena that can mim
 
 **Thin documentation and socialmedia amplification**
 
-Most contemporary Salvadoran sightings circulate via social networks rather than through formal investigation channels. While such clips can spark interest, they often lack the metadata needed to determine speed, altitude, distance or physical dimensions. Without this, claims remain unresolved unidentifieds with no strong grounding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcsahora.com/reportan-avistamiento-de-ovnis-en-san-salvador/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcsahora.com">[TCS Ahora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcsahora.com</span><span class="citation-popover-snippet">Noticias El SalvadorReportan avistamiento de ovnis en San SalvadorMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span> - Noticias El Salvador
+Most contemporary Salvadoran sightings circulate via social networks rather than through formal investigation channels. While such clips can spark interest, they often lack the metadata needed to determine speed, altitude, distance or physical dimensions. Without this, claims remain unresolved unidentifieds with no strong grounding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tcsahora.com/reportan-avistamiento-de-ovnis-en-san-salvador/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcsahora.com">[TCS Ahora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcsahora.com</span><span class="citation-popover-snippet">Noticias El SalvadorReportan avistamiento de ovnis en San SalvadorMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span> - Noticias El Salvador
 
 **Local anecdotes vs. press record**
 
@@ -289,7 +289,7 @@ Traditional press accounts, like those in national newspapers or broadcast repor
 
 **Misidentification and cognitive bias**
 
-Human perception is prone to error, especially under unexpected conditions. Optical illusions, misjudged distances and pattern recognition biases can make mundane objects appear unusual. Scientific assessments of UFO phenomena generally emphasise that most sightings resolve to conventional explanations when sufficient data are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineNASA Report Finds No Evidence of Extraterrestrial Origin for UFO SightingsSeptember 15, 2023...</span><span class="citation-popover-meta">Published: September 15, 2023</span></span></span>
+Human perception is prone to error, especially under unexpected conditions. Optical illusions, misjudged distances and pattern recognition biases can make mundane objects appear unusual. Scientific assessments of UFO phenomena generally emphasise that most sightings resolve to conventional explanations when sufficient data are available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineNASA Report Finds No Evidence of Extraterrestrial Origin for UFO SightingsSeptember 15, 2023...</span><span class="citation-popover-meta">Published: September 15, 2023</span></span></span>
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Test illustration 2" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Checklist for Salvadoran UFO Claims
@@ -328,194 +328,194 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
 <img src="{{ "/assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Test illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Are El Salvador&#x27;s UFO Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Are El Salvador&#x27;s UFO Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses classification and evaluation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses classification and evaluation of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidentiary standards and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidentiary standards and documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores contemporary UFO culture and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores contemporary UFO culture and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for understanding witness error and belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness error and belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-el-salvador-s-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-el-salvador-s-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,120 +718,119 @@ In El Salvador, as elsewhere, the absence of identification does not equate to e
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: inquisitr.com  
    Title: News El Salvador Witness Films Mysterious Orb UFO In The Sky [Video]  
-   Link: <a href="https://www.inquisitr.com/el-salvador-witness-films-mysterious-orb-ufo-in-the-sky-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/el-salvador-witness-films-mysterious-orb-ufo-in-the-sky-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inquisitr NewsEl Salvador Witness Films Mysterious Orb UFO In The Sky [Video] - Inquisitr NewsNovember 15, 2015...</p></details>
+   Link:<a href="https://www.inquisitr.com/el-salvador-witness-films-mysterious-orb-ufo-in-the-sky-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/el-salvador-witness-films-mysterious-orb-ufo-in-the-sky-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inquisitr NewsEl Salvador Witness Films Mysterious Orb UFO In The Sky [Video] - Inquisitr NewsNovember 15, 2015...</p></details>
    Published: November 15, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tcsahora.com  
    Title: TCS Ahora  
-   Link: <a href="https://www.tcsahora.com/reportan-avistamiento-de-ovnis-en-san-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcsahora.com/reportan-avistamiento-de-ovnis-en-san-salvador/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias El SalvadorReportan avistamiento de ovnis en San SalvadorMay 13, 2026...</p></details>
+   Link:<a href="https://www.tcsahora.com/reportan-avistamiento-de-ovnis-en-san-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcsahora.com/reportan-avistamiento-de-ovnis-en-san-salvador/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias El SalvadorReportan avistamiento de ovnis en San SalvadorMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: elsalvador.com  
-   Link: <a href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El Salvador NewsVIDEO: Presunto ovni captado sobre cerro San Jacinto de San Salvador - Noticias de El SalvadorJuly 19, 2022...</p></details>
+   Link:<a href="https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-entretenimiento/h-viral-entretenimiento/video-presunto-ovni-captado-cerro-san-jacinto-el-salvador/979119/2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El Salvador NewsVIDEO: Presunto ovni captado sobre cerro San Jacinto de San Salvador - Noticias de El SalvadorJuly 19, 2022...</p></details>
    Published: July 19, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: elsalvador.com  
-   Link: <a href="https://www.elsalvador.com/h-noticias/h-nacional/objeto-luminoso-el-salvador/1022965/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-noticias/h-nacional/objeto-luminoso-el-salvador/1022965/2022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias de El SalvadorDecember 8, 2022...</p></details>
+   Link:<a href="https://www.elsalvador.com/h-noticias/h-nacional/objeto-luminoso-el-salvador/1022965/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.elsalvador.com/h-noticias/h-nacional/objeto-luminoso-el-salvador/1022965/2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias de El SalvadorDecember 8, 2022...</p></details>
    Published: December 8, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNASA Report Finds No Evidence of Extraterrestrial Origin for UFO SightingsSeptember 15, 2023...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNASA Report Finds No Evidence of Extraterrestrial Origin for UFO SightingsSeptember 15, 2023...</p></details>
    Published: September 15, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tcsahora.com  
    Title: Avistamiento ovni en El Salvador?  
-   Link: <a href="https://www.tcsahora.com/avistamiento-ovni-en-el-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcsahora.com/avistamiento-ovni-en-el-salvador/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hace unos das, un fantico de la astronoma capt en el cielo lo que parece ser un avistamiento ovni en San Salvador. Por Marcela Jurez...</p></details>
+   Link:<a href="https://www.tcsahora.com/avistamiento-ovni-en-el-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://www.tcsahora.com/avistamiento-ovni-en-el-salvador/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hace unos das, un fantico de la astronoma capt en el cielo lo que parece ser un avistamiento ovni en San Salvador. Por Marcela Jurez...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: contrapunto.com.sv  
-   Link: <a href="https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/" target="_blank" rel="noopener noreferrer nofollow">https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO | &quot;El Salvador es visitado por varios seres del espacio&quot; - ContraPuntoMarch 2, 2017 VIDEO | EL SALVADOR ES VISITADO POR VARIOS S...</p></details>
+   Link:<a href="https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/" target="_blank" rel="noopener noreferrer nofollow">https://www.contrapunto.com.sv/video-el-salvador-es-visitado-por-varios-seres-del-espacio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO | &quot;El Salvador es visitado por varios seres del espacio&quot; - ContraPuntoMarch 2, 2017 VIDEO | EL SALVADOR ES VISITADO POR VARIOS S...</p></details>
    Published: March 2, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: historico.elsalvador.com  
    Title: video ovnis sobrevolaron la superluna  
-   Link: <a href="https://historico.elsalvador.com/historico/207901/video-ovnis-sobrevolaron-la-superluna.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/207901/video-ovnis-sobrevolaron-la-superluna.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias de El Salvador - elsalvador.comNovember 15, 2016 VIDEO: OVNIS SOBREVOLARON LA SUPERLUNA? Dos objetos frente al satlite fue...</p></details>
+   Link:<a href="https://historico.elsalvador.com/historico/207901/video-ovnis-sobrevolaron-la-superluna.html" target="_blank" rel="noopener noreferrer nofollow">https://historico.elsalvador.com/historico/207901/video-ovnis-sobrevolaron-la-superluna.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias de El Salvador - elsalvador.comNovember 15, 2016 VIDEO: OVNIS SOBREVOLARON LA SUPERLUNA? Dos objetos frente al satlite fue...</p></details>
    Published: November 15, 2016  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufomagazine.net  
-   Link: <a href="https://www.ufomagazine.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazine.net/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Research | Evidence-Aware FrameworkSingle-Page Briefing UAP Research Framework Evidence-aware design brief DEFINING THE UAP/UFO PHENO...</p></details>
+   Link:<a href="https://www.ufomagazine.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazine.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Research | Evidence-Aware FrameworkSingle-Page Briefing UAP Research Framework Evidence-aware design brief DEFINING THE UAP/UFO PHENO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA 2023 UFO TransparencySeptember 14, 2023 NASA INDEPENDENT UAP STUDY FINAL REPORT NASA...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA 2023 UFO TransparencySeptember 14, 2023 NASA INDEPENDENT UAP STUDY FINAL REPORT NASA...</p></details>
    Published: September 14, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2023 June 9, 2023 7 min read Add Us On GoogleAdd SciAm Bad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says More and b...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2023 June 9, 2023 7 min read Add Us On GoogleAdd SciAm Bad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says More and b...</p></details>
    Published: June 9, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufo.com.br  
    Title: Ex-prefeito de San Miguel registra possvel UFO em vulco de El Salvador  
-   Link: <a href="https://ufo.com.br/ex-prefeito-de-san-miguel-registra-possivel-ufo-em-vulcao-de-el-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/ex-prefeito-de-san-miguel-registra-possivel-ufo-em-vulcao-de-el-salvador/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOMarch 8, 2019 EX-PREFEITO DE SAN MIGUEL REGISTRA POSSVEL UFO EM VULCO DE EL SALVADOR Uma forte luz sobrevoou a cidade de S...</p></details>
+   Link:<a href="https://ufo.com.br/ex-prefeito-de-san-miguel-registra-possivel-ufo-em-vulcao-de-el-salvador/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/ex-prefeito-de-san-miguel-registra-possivel-ufo-em-vulcao-de-el-salvador/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOMarch 8, 2019 EX-PREFEITO DE SAN MIGUEL REGISTRA POSSVEL UFO EM VULCO DE EL SALVADOR Uma forte luz sobrevoou a cidade de S...</p></details>
    Published: March 8, 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena Volume I AARO&#x27;s February 2024 mandated historica...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena Volume I AARO&#x27;s February 2024 mandated historica...</p></details>
    Published: February 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume I, AARO_Historical_Record_Report_Volu...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume I, AARO_Historical_Record_Report_Volu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: revlox.com  
    Title: How to Evaluate UFO Videos Without Jumping to Aliens  
-   Link: <a href="https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2026 Image: How to Evaluate UFO Videos How to Evaluate UFO Videos Weird World 13 Apr 2026 HOW TO EVALUATE UFO VIDEOS WITHOUT...</p></details>
+   Link:<a href="https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.revlox.com/weird-world/how-to-evaluate-ufo-videos-without-jumping-to-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2026 Image: How to Evaluate UFO Videos How to Evaluate UFO Videos Weird World 13 Apr 2026 HOW TO EVALUATE UFO VIDEOS WITHOUT...</p></details>
    Published: April 13, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usufocenter.com  
    Title: Global UFOs: El Salvador UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/el-salvador-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/el-salvador-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 EL SALVADOR UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT EL SALVADOR UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/el-salvador-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/el-salvador-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 EL SALVADOR UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT EL SALVADOR UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date...</p></details>
    Published: March 22, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scientificamerican.com  
    Title: advanced technology programs, the forth  
-   Link: <a href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021 June 8, 2021 9 min read Add Us On GoogleAdd SciAm Experts Wei...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021 June 8, 2021 9 min read Add Us On GoogleAdd SciAm Experts Wei...</p></details>
    Published: June 8, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufosightingsdaily.com  
    Title: ufo over volcano in el salvador  
-   Link: <a href="https://www.ufosightingsdaily.com/2016/05/ufo-over-volcano-in-el-salvador.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/2016/05/ufo-over-volcano-in-el-salvador.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Date of sighting: 2013 Location of sighting: Volcano Chaparrastique, San Migual, El Salvador New...</p></details>
+   Link:<a href="https://www.ufosightingsdaily.com/2016/05/ufo-over-volcano-in-el-salvador.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/2016/05/ufo-over-volcano-in-el-salvador.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Date of sighting: 2013 Location of sighting: Volcano Chaparrastique, San Migual, El Salvador New...</p></details>

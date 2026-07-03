@@ -257,11 +257,11 @@ image: /assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-1-social
 The 1974 coastal encounter near Lomé is the case that placed Togo in international UFO catalogues. Unlike reports that involve only distant lights, this incident combined several claims at once: an unidentified object over the sea, unusual behaviour of the water beneath it, strong waves reaching the shore, temporary physical effects on witnesses, and later reports of health problems. Those details made the story unusually persistent within UFO literature. They also created a higher evidential standard that the available record has never fully met.
 
 <img src="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-1-dark.svg" | relative_url }}" alt="Lome Case illustration 1" data-theme-src-dark="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Nearly every later discussion of UFO reports from Togo returns to the same question: did the Lomé encounter leave any evidence beyond witness testimony? The answer remains disputed. The case contains elements that researchers find difficult to dismiss outright, but it also lacks the documentation that would normally allow extraordinary claims to be verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+Nearly every later discussion of UFO reports from Togo returns to the same question: did the Lomé encounter leave any evidence beyond witness testimony? The answer remains disputed. The case contains elements that researchers find difficult to dismiss outright, but it also lacks the documentation that would normally allow extraordinary claims to be verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 ## What witnesses said happened near the coast
 
-Most surviving accounts trace back to reports published in European UFO circles during the mid-1970s. The principal witness is usually identified only by the initials A.W., described as a French worker or holidaymaker staying on the Togolese coast. According to later retellings, he and a Togolese woman were on a beach east of Lomé during the early hours of 29 March 1974. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A UFO breaks the surface...May 23, 2022 — AT TOGO (AFRICA) 29 MARCH 1974 A USO BREAKS THE SURFACE OF THE SEA AND IMMOBILIZES THE WITNESS...</span><span class="citation-popover-meta">Published: march 1974</span></span></span>
+Most surviving accounts trace back to reports published in European UFO circles during the mid-1970s. The principal witness is usually identified only by the initials A.W., described as a French worker or holidaymaker staying on the Togolese coast. According to later retellings, he and a Togolese woman were on a beach east of Lomé during the early hours of 29 March 1974.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A UFO breaks the surface...May 23, 2022 — AT TOGO (AFRICA) 29 MARCH 1974 A USO BREAKS THE SURFACE OF THE SEA AND IMMOBILIZES THE WITNESS...</span><span class="citation-popover-meta">Published: march 1974</span></span></span>
 
 The narrative follows a sequence that has remained remarkably consistent across decades of retelling:
 
@@ -272,13 +272,13 @@ The narrative follows a sequence that has remained remarkably consistent across 
 * Unusually strong waves allegedly advanced toward the beach.
 * Bright lights appeared on the object and shone toward the witnesses.
 * The witnesses reportedly experienced paralysis or an inability to move normally.
-* The sea surface beneath the object was described as depressed or hollowed out rather than flat. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+* The sea surface beneath the object was described as depressed or hollowed out rather than flat. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 </div>
 
-One detail that repeatedly appears is the claim that the water directly below the object formed a circular depression several metres deep. The witness reportedly estimated that this disturbed area was comparable in size to the object's apparent length. In UFO literature, this feature became one of the most cited aspects of the case because it implied a measurable physical interaction rather than a purely visual observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
+One detail that repeatedly appears is the claim that the water directly below the object formed a circular depression several metres deep. The witness reportedly estimated that this disturbed area was comparable in size to the object's apparent length. In UFO literature, this feature became one of the most cited aspects of the case because it implied a measurable physical interaction rather than a purely visual observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
 
-The story later spread through catalogues of close encounters, especially those focusing on reports involving water. As it circulated, the encounter increasingly became known not simply as a UFO sighting but as an alleged example of a craft interacting with the sea surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+The story later spread through catalogues of close encounters, especially those focusing on reports involving water. As it circulated, the encounter increasingly became known not simply as a UFO sighting but as an alleged example of a craft interacting with the sea surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 ## Why the water and body-effect claims matter
 
@@ -288,19 +288,19 @@ Most UFO reports rise or fall on witness perception. The Lomé case is different
 
 ### The reported disturbance of the sea
 
-The alleged depression beneath the object is often treated by proponents as the strongest part of the case. If accurately observed, it would imply that something was exerting force on the water. Some UFO researchers have compared the description to the way powerful downwash, pressure changes, or mechanical effects can alter a water surface. Belgian physicist Auguste Meessen later cited the Lomé encounter in discussions of reported physical interactions between unidentified objects and their environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A UFO breaks the surface...May 23, 2022 — AT TOGO (AFRICA) 29 MARCH 1974 A USO BREAKS THE SURFACE OF THE SEA AND IMMOBILIZES THE WITNESS...</span><span class="citation-popover-meta">Published: march 1974</span></span></span>
+The alleged depression beneath the object is often treated by proponents as the strongest part of the case. If accurately observed, it would imply that something was exerting force on the water. Some UFO researchers have compared the description to the way powerful downwash, pressure changes, or mechanical effects can alter a water surface. Belgian physicist Auguste Meessen later cited the Lomé encounter in discussions of reported physical interactions between unidentified objects and their environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A UFO breaks the surface...May 23, 2022 — AT TOGO (AFRICA) 29 MARCH 1974 A USO BREAKS THE SURFACE OF THE SEA AND IMMOBILIZES THE WITNESS...</span><span class="citation-popover-meta">Published: march 1974</span></span></span>
 
-Supporters argue that a witness inventing a dramatic story might be expected to describe lights or motion, but not necessarily a specific geometric distortion in the sea. For them, the unusual nature of the detail increases the report's interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
+Supporters argue that a witness inventing a dramatic story might be expected to describe lights or motion, but not necessarily a specific geometric distortion in the sea. For them, the unusual nature of the detail increases the report's interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
 
-Sceptics point out that the observation occurred at night under stressful conditions. Judging distances, wave heights, object size, and water contours in darkness is notoriously difficult. A perceived depression could have been an illusion created by lighting contrasts, reflections, wave motion, or simple misjudgement. No photographs, measurements, or independent observations exist to confirm the feature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
+Sceptics point out that the observation occurred at night under stressful conditions. Judging distances, wave heights, object size, and water contours in darkness is notoriously difficult. A perceived depression could have been an illusion created by lighting contrasts, reflections, wave motion, or simple misjudgement. No photographs, measurements, or independent observations exist to confirm the feature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
 
 ### The paralysis and later symptoms
 
-The bodily effects reported by the witness also helped make the case famous. Accounts describe temporary immobilisation during the encounter, followed by symptoms that allegedly included anxiety, fainting episodes, and periods of deafness. These reports moved the incident into the category often called a "close encounter with physiological effects". <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+The bodily effects reported by the witness also helped make the case famous. Accounts describe temporary immobilisation during the encounter, followed by symptoms that allegedly included anxiety, fainting episodes, and periods of deafness. These reports moved the incident into the category often called a "close encounter with physiological effects".<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
-For UFO proponents, such symptoms suggest exposure to an external force rather than a simple misidentification of an aircraft or astronomical object. Similar claims appear in a small number of other international UFO reports, which is one reason researchers continued referencing the Lomé case long after it occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">togo beach ufo incident</span><span class="citation-popover-snippet">UFO InsightThe Togo Beach UFO Incident – Paralysis, Blinding Lights...13 Jun 2021 — A strange UFO encounter on the coast of Togo in Marc...</span></span></span>
+For UFO proponents, such symptoms suggest exposure to an external force rather than a simple misidentification of an aircraft or astronomical object. Similar claims appear in a small number of other international UFO reports, which is one reason researchers continued referencing the Lomé case long after it occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">togo beach ufo incident</span><span class="citation-popover-snippet">UFO InsightThe Togo Beach UFO Incident – Paralysis, Blinding Lights...13 Jun 2021 — A strange UFO encounter on the coast of Togo in Marc...</span></span></span>
 
-The weakness is that no publicly available medical records have ever been produced. The reported symptoms survive only through secondary accounts. Without hospital files, physician statements, or contemporary documentation, there is no way to determine whether the effects occurred exactly as described, resulted from stress, or were exaggerated through later retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+The weakness is that no publicly available medical records have ever been produced. The reported symptoms survive only through secondary accounts. Without hospital files, physician statements, or contemporary documentation, there is no way to determine whether the effects occurred exactly as described, resulted from stress, or were exaggerated through later retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 <img src="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-2-dark.svg" | relative_url }}" alt="Lome Case illustration 2" data-theme-src-dark="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence that researchers actually possess
@@ -311,11 +311,11 @@ The strongest points that can be reasonably established are:
 
 * A report from the Lomé area entered international UFO databases during the 1970s.
 * Core details have remained broadly stable across multiple catalogues.
-* The case attracted enough attention to be cited by later UFO researchers discussing physical effects and water-related encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</span></span></span>
+* The case attracted enough attention to be cited by later UFO researchers discussing physical effects and water-related encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</span></span></span>
 
 Beyond that, the evidential foundation becomes much thinner.
 
-There are no widely available photographs of the event. No radar data have surfaced. No official Togolese government file is known to have been released. No documented police investigation has become part of the public record. No independently verified medical documentation has been published. The case survives primarily through witness testimony reproduced in UFO publications and later online archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+There are no widely available photographs of the event. No radar data have surfaced. No official Togolese government file is known to have been released. No documented police investigation has become part of the public record. No independently verified medical documentation has been published. The case survives primarily through witness testimony reproduced in UFO publications and later online archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 This creates a significant problem. A sighting report can remain historically interesting even when evidence is limited, but claims involving physical forces, environmental effects, and medical consequences require stronger corroboration. The Lomé case never acquired that corroboration.
 
@@ -327,7 +327,7 @@ The dispute surrounding the encounter is not really about whether a report exist
 
 ### Missing local documentation
 
-One notable feature of the case is how little contemporary Togolese documentation appears in the accessible record. Most references originate from foreign UFO researchers, catalogues, and later summaries. The story became internationally known through circulation in UFO networks rather than through a documented public investigation within Togo itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+One notable feature of the case is how little contemporary Togolese documentation appears in the accessible record. Most references originate from foreign UFO researchers, catalogues, and later summaries. The story became internationally known through circulation in UFO networks rather than through a documented public investigation within Togo itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 That absence matters because independent records are often what separate a strong historical case from a memorable anecdote. Newspaper reports, coast-guard logs, weather records, hospital documents, or official correspondence can provide corroboration even when photographs do not exist. For the Lomé encounter, such supporting records have not become widely available.
 
@@ -335,218 +335,218 @@ That absence matters because independent records are often what separate a stron
 
 Another challenge is that many modern versions of the story derive from the same underlying source chain. A report reproduced across dozens of websites can appear heavily documented even when those sites ultimately trace back to a single witness account.
 
-As the Lomé case travelled through UFO literature, additional emphasis was often placed on the sea depression, the paralysis, and the later health effects. Yet the growth of repetition does not necessarily represent growth of evidence. It may simply reflect the circulation of the same narrative through different archives and summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
+As the Lomé case travelled through UFO literature, additional emphasis was often placed on the sea depression, the paralysis, and the later health effects. Yet the growth of repetition does not necessarily represent growth of evidence. It may simply reflect the circulation of the same narrative through different archives and summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
 
 <img src="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-3-dark.svg" | relative_url }}" alt="Lome Case illustration 3" data-theme-src-dark="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case fits within Togo's wider UFO record
 
-The Lomé encounter stands out precisely because there is so little else to compare it against. Togo does not possess a large publicly documented catalogue of UFO investigations, military files, or recurring regional waves. The 1974 coastal report became the country's defining case almost by default. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</span></span></span>
+The Lomé encounter stands out precisely because there is so little else to compare it against. Togo does not possess a large publicly documented catalogue of UFO investigations, military files, or recurring regional waves. The 1974 coastal report became the country's defining case almost by default.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</span></span></span>
 
 That position cuts both ways.
 
-Supporters argue that the case endured because it contained unusual details that researchers considered difficult to explain. The combination of a maritime setting, witness effects, and alleged environmental disturbance gave it a distinctive profile within African UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
+Supporters argue that the case endured because it contained unusual details that researchers considered difficult to explain. The combination of a maritime setting, witness effects, and alleged environmental disturbance gave it a distinctive profile within African UFO reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
 
-Critics argue that its prominence may instead reflect a lack of competing cases. When a country's UFO record is sparse, a single dramatic account can dominate discussion for decades regardless of evidential quality. The Lomé incident became famous because it was unusual, but unusual does not automatically mean well documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+Critics argue that its prominence may instead reflect a lack of competing cases. When a country's UFO record is sparse, a single dramatic account can dominate discussion for decades regardless of evidential quality. The Lomé incident became famous because it was unusual, but unusual does not automatically mean well documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
 ## The most balanced assessment
 
-Nearly fifty years after the reported encounter, the Lomé coastal case remains neither confirmed nor convincingly explained. It contains elements that make it more intriguing than an ordinary light-in-the-sky report: the claimed interaction with the sea, the alleged paralysis, and the reported after-effects on witnesses. Those features are the reason it continues to appear in UFO databases and historical timelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
+Nearly fifty years after the reported encounter, the Lomé coastal case remains neither confirmed nor convincingly explained. It contains elements that make it more intriguing than an ordinary light-in-the-sky report: the claimed interaction with the sea, the alleged paralysis, and the reported after-effects on witnesses. Those features are the reason it continues to appear in UFO databases and historical timelines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">object hovers over sea and immobilizes witnesses</span><span class="citation-popover-snippet">in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</span><span class="citation-popover-meta">Published: March 1974</span></span></span>
 
-At the same time, the evidence available to the public is almost entirely testimonial. The case lacks the supporting documentation that would normally allow researchers to verify extraordinary physical claims. No known public record confirms the sea depression, the wave effects, or the medical consequences independently of the witnesses' account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
+At the same time, the evidence available to the public is almost entirely testimonial. The case lacks the supporting documentation that would normally allow researchers to verify extraordinary physical claims. No known public record confirms the sea depression, the wave effects, or the medical consequences independently of the witnesses' account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span>
 
-For that reason, the Lomé encounter is best understood as Togo's most notable UFO report rather than as proof of an extraordinary event. It remains historically significant within the country's small UFO record, but its status rests on a striking narrative whose strongest claims remain unverified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</span></span></span>
+For that reason, the Lomé encounter is best understood as Togo's most notable UFO report rather than as proof of an extraordinary event. It remains historically significant within the country's small UFO record, but its status rests on a striking narrative whose strongest claims remain unverified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1974 object hovers immobilizes witnesses togo africa</span><span class="citation-popover-snippet">Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[2ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kKv3N4p5K6I" title="UFOs, Contact, PSI &amp; Semiotics: &quot;A 6-layer Model for Anomalous Phenomena,&quot; Vallée &amp; Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kKv3N4p5K6I" target="_blank" rel="noopener noreferrer">UFOs, Contact, PSI &amp; Semiotics: &quot;A 6-layer Model for Anomalous Phenomena,&quot; Vallée &amp; Davis</a></p><p class="youtube-embed-meta">Channel: Illumineuro &middot; Views: 98 &middot; Uploaded: February 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kKv3N4p5K6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kKv3N4p5K6I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Lome&#x27;s 1974 UFO Case Leave Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Lome&#x27;s 1974 UFO Case Leave Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for judging the evidential strength of dramatic reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for judging the evidential strength of dramatic reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to witness testimony, physical-effect claims, and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to witness testimony, physical-effect claims, and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Compares stronger documented cases with weaker anecdotal reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Compares stronger documented cases with weaker anecdotal reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places unusual witness experiences into a broader historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places unusual witness experiences into a broader historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lome-s-1974-ufo-case-leave-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lome-s-1974-ufo-case-leave-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For that reason, the Lomé encounter is best understood as Togo's most notable U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For that reason, the Lomé encounter is best understood as Togo's most notable U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For that reason, the Lomé encounter is best understood as Togo's most notable U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For that reason, the Lomé encounter is best understood as Togo's most notable U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For that reason, the Lomé encounter is best understood as Togo's most notable U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,95 +749,94 @@ For that reason, the Lomé encounter is best understood as Togo's most notable U
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufoevidence.org  
    Title: Case View.asp  
-   Link: <a href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</p></details>
+   Link:<a href="https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/Cases/CaseView.asp?section=CE2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the 2nd Kind (CE2)March, 29, 1974 - Lomé, Togo. A French worker on vacation on the coast of Togo, along with a Togole...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO breaks the surface...May 23, 2022 — AT TOGO (AFRICA) 29 MARCH 1974 A USO BREAKS THE SURFACE OF THE SEA AND IMMOBILIZES THE WITNESS...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/uvxjus/at_toho_africa_29_march_1974_a_ufo_breaks_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO breaks the surface...May 23, 2022 — AT TOGO (AFRICA) 29 MARCH 1974 A USO BREAKS THE SURFACE OF THE SEA AND IMMOBILIZES THE WITNESS...</p></details>
    Published: march 1974  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: object hovers over sea and immobilizes witnesses  
-   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1q1yv2u/object_hovers_over_sea_and_immobilizes_witnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Togo...At the end of March 1974, a French vacationer, identified as A.W., reported witnessing an unusual aerial phenomenon while spen...</p></details>
    Published: March 1974  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thinkaboutitdocs.com  
    Title: 1974 object hovers immobilizes witnesses togo africa  
-   Link: <a href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1974-object-hovers-immobilizes-witnesses-togo-africa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1974: Object hovers and immobilizes witnesses in Togo...15 Dec 2013 —...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoinsight.com  
    Title: togo beach ufo incident  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Togo Beach UFO Incident – Paralysis, Blinding Lights...13 Jun 2021 — A strange UFO encounter on the coast of Togo in Marc...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Togo Beach UFO Incident – Paralysis, Blinding Lights...13 Jun 2021 — A strange UFO encounter on the coast of Togo in Marc...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: berrimadistricthistoricalsociety.org.au  
-   Link: <a href="https://berrimadistricthistoricalsociety.org.au/data/documents/1984.pdf" target="_blank" rel="noopener noreferrer nofollow">https://berrimadistricthistoricalsociety.org.au/data/documents/1984.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE CIRCLEDespite several sightings of U.F.O.&#x27;s from the back table, the evening went off with a bang — everyone set out with the intent...</p></details>
+   Link:<a href="https://berrimadistricthistoricalsociety.org.au/data/documents/1984.pdf" target="_blank" rel="noopener noreferrer nofollow">https://berrimadistricthistoricalsociety.org.au/data/documents/1984.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE CIRCLEDespite several sightings of U.F.O.&#x27;s from the back table, the evening went off with a bang — everyone set out with the intent...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2394152391022400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2394152391022400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Lome, Togo causes tidal waves and...UFO MAKES WAVES. On the night of March 29, 1974, a couple were on the beach at Lome...</p></details>
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2394152391022400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2394152391022400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Lome, Togo causes tidal waves and...UFO MAKES WAVES. On the night of March 29, 1974, a couple were on the beach at Lome...</p></details>
    Published: March 29, 1974  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fred-andersson.medium.com  
-   Link: <a href="https://fred-andersson.medium.com/march-24-1974-night-of-the-ufos-the-close-encounters-that-shook-sweden-e1ebc32eba97" target="_blank" rel="noopener noreferrer nofollow">https://fred-andersson.medium.com/march-24-1974-night-of-the-ufos-the-close-encounters-that-shook-sweden-e1ebc32eba97</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, 1974: Night of the UFOs-The Close Encounters...On March 24th, 1974 the biggest UFO incident ever happened in Sweden, in the same com...</p></details>
+   Link:<a href="https://fred-andersson.medium.com/march-24-1974-night-of-the-ufos-the-close-encounters-that-shook-sweden-e1ebc32eba97" target="_blank" rel="noopener noreferrer nofollow">https://fred-andersson.medium.com/march-24-1974-night-of-the-ufos-the-close-encounters-that-shook-sweden-e1ebc32eba97</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, 1974: Night of the UFOs-The Close Encounters...On March 24th, 1974 the biggest UFO incident ever happened in Sweden, in the same com...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: on this day in 1974 march 29 1974 145 am a french vacationer and a local female  
-   Link: <a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1974-march-29-1974-145-am-a-french-vacationer-and-a-local-female-/209381028448651/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1974-march-29-1974-145-am-a-french-vacationer-and-a-local-female-/209381028448651/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFO close encounter Lomé, Togo 1974 UFO Over Sea Causes Surge of Tidal Waves and Paralysis March 29, 1974 — Lomé, T...</p></details>
+   Link:<a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1974-march-29-1974-145-am-a-french-vacationer-and-a-local-female-/209381028448651/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1974-march-29-1974-145-am-a-french-vacationer-and-a-local-female-/209381028448651/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFO close encounter Lomé, Togo 1974 UFO Over Sea Causes Surge of Tidal Waves and Paralysis March 29, 1974 — Lomé, T...</p></details>
    Published: March 29, 1974  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2888812/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A2888812/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>increased presence of &#x27;aliens&#x27; from Somalia. The 1989 screening is a useful...Read more...</p></details>
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2888812/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A2888812/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>increased presence of &#x27;aliens&#x27; from Somalia. The 1989 screening is a useful...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.gov  
    Title: nicolas gherardi henryca: Topics by  
-   Link: <a href="https://www.science.gov/topicpages/n/nicolas%2Bgherardi%2Bhenryca" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/n/nicolas%2Bgherardi%2Bhenryca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer&quot;. The new object appears to be a perfect example of a very young star with a disk in which planets are forming or will soo...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/n/nicolas%2Bgherardi%2Bhenryca" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/n/nicolas%2Bgherardi%2Bhenryca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer&quot;. The new object appears to be a perfect example of a very young star with a disk in which planets are forming or will soo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/kbart/collections/pli-backfile-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/kbart/collections/pli-backfile-collection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: HOW OPERATIONAL ART DEVOURED STRATEGY [https://www.jstor.org/stable/resrep12041](https://www.jstor.org/stable/resrep12041) Justin Kelly 10.2307/resrep12041 fulltext Strategic...</p></details>
+   Link:<a href="https://www.jstor.org/kbart/collections/pli-backfile-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/kbart/collections/pli-backfile-collection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: HOW OPERATIONAL ART DEVOURED STRATEGY [https://www.jstor.org/stable/resrep12041](https://www.jstor.org/stable/resrep12041) Justin Kelly 10.2307/resrep12041 fulltext Strategic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: img1.wsimg.com  
    Title: UFOs and Intelligence A Timeline By Geor (1)  
-   Link: <a href="https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Intelligence: A Timeline31 May 2022 — After an effort of many years, I have prepared a comprehensive timeline of UFO history that wil...</p></details>
+   Link:<a href="https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Intelligence: A Timeline31 May 2022 — After an effort of many years, I have prepared a comprehensive timeline of UFO history that wil...</p></details>
    Published: May 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
    Title: Man and Mystery Vol 09 The Paranormal Rev06  
-   Link: <a href="https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Alien Abduction Phenomena | PDF09-1974 Edwin Fuhr UFO Encounter Saskatchewan, Canada Written By tap taru on... The Belgian UFO...</p></details>
+   Link:<a href="https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Alien Abduction Phenomena | PDF09-1974 Edwin Fuhr UFO Encounter Saskatchewan, Canada Written By tap taru on... The Belgian UFO...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=kKv3N4p5K6I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kKv3N4p5K6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 🇺🇸 #UFOB [CASE] United capt. Daniels had a close encounter with physical effects...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kKv3N4p5K6I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kKv3N4p5K6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977 🇺🇸 #UFOB [CASE] United capt. Daniels had a close encounter with physical effects...</p></details>

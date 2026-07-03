@@ -254,14 +254,14 @@ image: /assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-1-s
 
 ## Introduction
 
-Brazil’s Arquivo Nacional holds one of the world’s largest publicly accessible government collections of unidentified aerial phenomenon records. The archive contains hundreds of declassified reports, photographs, sketches, audio files, military memoranda, pilot testimonies, and newspaper clippings gathered by the Brazilian Air Force and related agencies over more than seven decades. By 2025, the collection had expanded to roughly 893 documented incidents spanning from the early 1950s through 2023, making it a rare example of a national UFO archive that is both historically deep and partially searchable online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dibrarq.arquivonacional.gov.br">[dibrarq.arquivonacional.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dibrarq.arquivonacional.gov.br</span><span class="citation-popover-title">Fundo/Coleção ARX</span><span class="citation-popover-snippet">Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/brazil-opens-national-ufo-archives-releasing-files-on-nearly-900-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Screen from the UFO Case Archive of the Brazilian National</span><span class="citation-popover-snippet">Brazil Opens National UFO Archives, Releasing Files on...31 May 2025 — Brazil Opens National UFO Archives, Releasing Files on Nearly 900...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Brazil’s Arquivo Nacional holds one of the world’s largest publicly accessible government collections of unidentified aerial phenomenon records. The archive contains hundreds of declassified reports, photographs, sketches, audio files, military memoranda, pilot testimonies, and newspaper clippings gathered by the Brazilian Air Force and related agencies over more than seven decades. By 2025, the collection had expanded to roughly 893 documented incidents spanning from the early 1950s through 2023, making it a rare example of a national UFO archive that is both historically deep and partially searchable online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dibrarq.arquivonacional.gov.br">[dibrarq.arquivonacional.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dibrarq.arquivonacional.gov.br</span><span class="citation-popover-title">Fundo/Coleção ARX</span><span class="citation-popover-snippet">Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/brazil-opens-national-ufo-archives-releasing-files-on-nearly-900-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Screen from the UFO Case Archive of the Brazilian National</span><span class="citation-popover-snippet">Brazil Opens National UFO Archives, Releasing Files on...31 May 2025 — Brazil Opens National UFO Archives, Releasing Files on Nearly 900...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <img src="{{ "/assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-1-dark.svg" | relative_url }}" alt="UFO Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the Brazilian archive notable is not that it “proves” extraterrestrial visitation. The records do not establish that conclusion, and many entries remain ambiguous, incomplete, or plausibly explainable through conventional causes. Instead, the collection matters because it documents how a modern state, military pilots, radar operators, civilians, and investigators recorded unusual aerial reports over decades. The archive therefore functions less as proof of aliens and more as a long-running institutional record of unexplained observations, official reactions, and changing standards of investigation.
 
 ## How the Archive Was Built
 
-The UFO collection inside the Arquivo Nacional was assembled primarily from materials produced by the Brazilian Air Force and associated defence documentation centres. Much of the archive originated with the Air Force historical and documentation services before being transferred into the national archival system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dibrarq.arquivonacional.gov.br">[dibrarq.arquivonacional.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dibrarq.arquivonacional.gov.br</span><span class="citation-popover-title">Fundo/Coleção ARX</span><span class="citation-popover-snippet">Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</span></span></span>
+The UFO collection inside the Arquivo Nacional was assembled primarily from materials produced by the Brazilian Air Force and associated defence documentation centres. Much of the archive originated with the Air Force historical and documentation services before being transferred into the national archival system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dibrarq.arquivonacional.gov.br">[dibrarq.arquivonacional.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dibrarq.arquivonacional.gov.br</span><span class="citation-popover-title">Fundo/Coleção ARX</span><span class="citation-popover-snippet">Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</span></span></span>
 
 The records include:
 
@@ -280,11 +280,11 @@ The records include:
 
 </div>
 
-The scope is unusually broad because Brazil historically treated unidentified aerial reports as an aviation and intelligence matter rather than purely a fringe topic. Beginning in the 1950s, the Air Force established procedures for logging sightings from military and civilian aviation personnel. Later programmes, especially during the Cold War period, formalised the collection process further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
+The scope is unusually broad because Brazil historically treated unidentified aerial reports as an aviation and intelligence matter rather than purely a fringe topic. Beginning in the 1950s, the Air Force established procedures for logging sightings from military and civilian aviation personnel. Later programmes, especially during the Cold War period, formalised the collection process further.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
 
-A major institutional milestone came with SIOANI, the Sistema de Investigação de Objetos Aéreos Não Identificados, created in 1969. The programme attempted to standardise how sightings were collected and evaluated across regional commands. Although SIOANI operated for only a limited period, its paperwork became part of the larger archival record preserved today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
+A major institutional milestone came with SIOANI, the Sistema de Investigação de Objetos Aéreos Não Identificados, created in 1969. The programme attempted to standardise how sightings were collected and evaluated across regional commands. Although SIOANI operated for only a limited period, its paperwork became part of the larger archival record preserved today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
 
-The archive’s public visibility increased significantly after campaigns by Brazilian ufologists and transparency advocates pushed for declassification. Since roughly 2009, successive releases have moved large numbers of documents into public access systems maintained by the Arquivo Nacional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
+The archive’s public visibility increased significantly after campaigns by Brazilian ufologists and transparency advocates pushed for declassification. Since roughly 2009, successive releases have moved large numbers of documents into public access systems maintained by the Arquivo Nacional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
 
 ## What Readers Actually Find Inside the Repository
 
@@ -298,7 +298,7 @@ Many reports are extremely brief. Others include precise times, weather conditio
 
 One recurring pattern across decades is that the majority of reports involve lights rather than structured craft. This mirrors findings in other national UFO archives and complicates attempts to draw firm conclusions from witness testimony alone.
 
-The repository also shows strong regional variation. The Amazon region, southern Brazil, and heavily populated aviation corridors around São Paulo and Rio de Janeiro appear repeatedly in the records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f43eki/national_brazilian_archives_releases_almost_900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">National Brazilian Archives releases almost 900 documents</span><span class="citation-popover-snippet">National Brazilian Archives releases almost 900 documents...August 29, 2024 — The National Archives has released nearly 900 docume...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
+The repository also shows strong regional variation. The Amazon region, southern Brazil, and heavily populated aviation corridors around São Paulo and Rio de Janeiro appear repeatedly in the records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f43eki/national_brazilian_archives_releases_almost_900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">National Brazilian Archives releases almost 900 documents</span><span class="citation-popover-snippet">National Brazilian Archives releases almost 900 documents...August 29, 2024 — The National Archives has released nearly 900 docume...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xluya-2ov40" title="The Most Witnessed UFO Incident in History | Operation Prato" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer">The Most Witnessed UFO Incident in History | Operation Prato</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 2.8M &middot; Uploaded: March 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xluya-2ov40">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +324,7 @@ Importantly, the archive also reveals institutional uncertainty. Investigators f
 
 ## The “Night of the UFOs” Files
 
-The archive’s most famous materials concern the events of 19 May 1986, known in Brazil as the “Official Night of the UFOs”. During this episode, multiple unidentified radar contacts and visual sightings were reported across several Brazilian states, including São Paulo, Rio de Janeiro, Minas Gerais, and Goiás. Fighter aircraft were scrambled after radar operators and pilots tracked unusual aerial targets. Serviços e Informações do Brasil <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.br">[gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.br</span><span class="citation-popover-title">conheca o fundo sobre ovnis do arquivo nacional</span><span class="citation-popover-snippet">Serviços e Informações do BrasilConheça o fundo sobre OVNIs do Arquivo NacionalSep 13, 2018 — Ele é composto de 743 registros que incluem...</span></span></span>
+The archive’s most famous materials concern the events of 19 May 1986, known in Brazil as the “Official Night of the UFOs”. During this episode, multiple unidentified radar contacts and visual sightings were reported across several Brazilian states, including São Paulo, Rio de Janeiro, Minas Gerais, and Goiás. Fighter aircraft were scrambled after radar operators and pilots tracked unusual aerial targets. Serviços e Informações do Brasil<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.br">[gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.br</span><span class="citation-popover-title">conheca o fundo sobre ovnis do arquivo nacional</span><span class="citation-popover-snippet">Serviços e Informações do BrasilConheça o fundo sobre OVNIs do Arquivo NacionalSep 13, 2018 — Ele é composto de 743 registros que incluem...</span></span></span>
 
 The archive includes operational records related to:
 
@@ -340,14 +340,14 @@ The archive includes operational records related to:
 
 This incident remains central to Brazilian UFO discussions because it combined several evidential layers at once: civilian witnesses, military radar tracking, interceptor aircraft, and official acknowledgement.
 
-Yet the files also illustrate the limits of the evidence. Even after military review, no definitive explanation emerged. The Air Force acknowledged anomalous observations but stopped short of endorsing extraordinary interpretations. The documents show confusion and uncertainty rather than confirmation of non-human technology. Serviços e Informações do Brasil <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.br">[gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.br</span><span class="citation-popover-title">conheca o fundo sobre ovnis do arquivo nacional</span><span class="citation-popover-snippet">Serviços e Informações do BrasilConheça o fundo sobre OVNIs do Arquivo NacionalSep 13, 2018 — Ele é composto de 743 registros que incluem...</span></span></span>
+Yet the files also illustrate the limits of the evidence. Even after military review, no definitive explanation emerged. The Air Force acknowledged anomalous observations but stopped short of endorsing extraordinary interpretations. The documents show confusion and uncertainty rather than confirmation of non-human technology. Serviços e Informações do Brasil<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.br">[gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.br</span><span class="citation-popover-title">conheca o fundo sobre ovnis do arquivo nacional</span><span class="citation-popover-snippet">Serviços e Informações do BrasilConheça o fundo sobre OVNIs do Arquivo NacionalSep 13, 2018 — Ele é composto de 743 registros que incluem...</span></span></span>
 
 For historians and researchers, the significance lies less in the spectacle of the event and more in the unusually complete bureaucratic paper trail surrounding it.
 
 <img src="{{ "/assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-2-dark.svg" | relative_url }}" alt="UFO Archives illustration 2" data-theme-src-dark="{{ "/assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a_arquivo_nacional_ufo_523d3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Operation Prato and the Amazon Material
 
-No section of the archive attracts more international attention than the records from Operação Prato, or Operation Saucer, conducted in the Amazon region between 1977 and 1978. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1986 Brazilian UFO incident</span><span class="citation-popover-snippet">1986 Brazilian UFO incidentOn May 19, 1986, a series of radar and visual contacts with unidentified flying objects (UFOs) took place a...</span><span class="citation-popover-meta">Published: May 19, 1986</span></span></span>
+No section of the archive attracts more international attention than the records from Operação Prato, or Operation Saucer, conducted in the Amazon region between 1977 and 1978.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1986 Brazilian UFO incident</span><span class="citation-popover-snippet">1986 Brazilian UFO incidentOn May 19, 1986, a series of radar and visual contacts with unidentified flying objects (UFOs) took place a...</span><span class="citation-popover-meta">Published: May 19, 1986</span></span></span>
 
 The operation began after residents in the Pará region, especially around Colares Island, reported recurring nocturnal lights and alleged physical effects associated with aerial phenomena. Local stories described beams of light, fear among residents, and unusual injuries attributed to the objects.
 
@@ -359,7 +359,7 @@ The Air Force deployed investigators who gathered:
 * Drawings
 * Field reports
 
-These documents became some of the most widely discussed files in the entire Brazilian collection. The surviving photographs and operational reports created an enduring mythology around the case, particularly after later interviews with Captain Uyrangê Hollanda, who led parts of the operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato</span></span></span>
+These documents became some of the most widely discussed files in the entire Brazilian collection. The surviving photographs and operational reports created an enduring mythology around the case, particularly after later interviews with Captain Uyrangê Hollanda, who led parts of the operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato</span></span></span>
 
 However, the archive itself is more restrained than later retellings. The official documents do not present a clear conclusion that extraterrestrial craft attacked civilians. Instead, they document a mixture of social panic, unusual sightings, military observation, and incomplete explanations.
 
@@ -373,7 +373,7 @@ The Arquivo Nacional collection has several strengths rarely found together in U
 
 ### Institutional Continuity
 
-The records span decades rather than isolated waves of interest. This continuity allows researchers to compare how reporting standards, terminology, and investigative practices evolved over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
+The records span decades rather than isolated waves of interest. This continuity allows researchers to compare how reporting standards, terminology, and investigative practices evolved over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
 
 ### Multiple Witness Types
 
@@ -418,7 +418,7 @@ Some files appear incomplete or detached from their broader investigative contex
 
 ### Translation and Accessibility Problems
 
-Although the archive is publicly accessible, navigation remains challenging for non-Portuguese readers. Metadata quality varies, search systems can be cumbersome, and technical abbreviations from military records are not always explained clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://canaltech.com.br/espaco/como-acessar-os-quase-mil-avistamentos-de-ovnis-catalogados-noarquivo-nacional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canaltech.com.br">[Canaltech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canaltech.com.br</span><span class="citation-popover-title">o acessar os quase mil avistamentos de ovnis catalogados noarquivo nacional</span><span class="citation-popover-snippet">o acessar os quase mil avistamentos de OVNIs...Jun 1, 2025 — O que é um OVNI? Entenda o Objeto Voador Não Identificado · 7 r...</span></span></span>
+Although the archive is publicly accessible, navigation remains challenging for non-Portuguese readers. Metadata quality varies, search systems can be cumbersome, and technical abbreviations from military records are not always explained clearly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://canaltech.com.br/espaco/como-acessar-os-quase-mil-avistamentos-de-ovnis-catalogados-noarquivo-nacional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canaltech.com.br">[Canaltech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canaltech.com.br</span><span class="citation-popover-title">o acessar os quase mil avistamentos de ovnis catalogados noarquivo nacional</span><span class="citation-popover-snippet">o acessar os quase mil avistamentos de OVNIs...Jun 1, 2025 — O que é um OVNI? Entenda o Objeto Voador Não Identificado · 7 r...</span></span></span>
 
 This has encouraged the growth of unofficial translation projects and summary sites that interpret the material for international audiences. While useful, these secondary interpretations sometimes introduce exaggeration or selective emphasis.
 
@@ -430,7 +430,7 @@ The archive has become deeply intertwined with Brazilian UFO culture. Over time,
 
 ## Why Brazil’s Archive Stands Out Internationally
 
-Brazil’s archive is unusual because of the degree of state transparency relative to many other countries. While other governments have released selected UFO records, Brazil consolidated a large national collection into a publicly accessible archival framework rather than scattering disclosures across isolated releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
+Brazil’s archive is unusual because of the degree of state transparency relative to many other countries. While other governments have released selected UFO records, Brazil consolidated a large national collection into a publicly accessible archival framework rather than scattering disclosures across isolated releases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brazilianufoarchives.com">[Brazilian UFO Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brazilianufoarchives.com</span><span class="citation-popover-title">Brazilian UFO Archives About</span><span class="citation-popover-snippet">Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</span></span></span>
 
 The archive also reflects a distinctive relationship between civilian ufologists and state institutions. Activists, researchers, journalists, and former military personnel played an important role in pressuring authorities to release records. This collaborative tension between scepticism, public curiosity, and institutional secrecy shaped the archive’s eventual accessibility.
 
@@ -438,7 +438,7 @@ Another important distinction is scale. The Brazilian archive contains not merel
 
 ## What the Archive Ultimately Proves — and What It Does Not
 
-The Arquivo Nacional UFO archive demonstrates beyond doubt that Brazil’s military and aviation authorities collected, analysed, and preserved large numbers of unidentified aerial reports over many decades. It also shows that some incidents genuinely puzzled trained observers and triggered official concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dibrarq.arquivonacional.gov.br">[dibrarq.arquivonacional.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dibrarq.arquivonacional.gov.br</span><span class="citation-popover-title">Fundo/Coleção ARX</span><span class="citation-popover-snippet">Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</span></span></span>
+The Arquivo Nacional UFO archive demonstrates beyond doubt that Brazil’s military and aviation authorities collected, analysed, and preserved large numbers of unidentified aerial reports over many decades. It also shows that some incidents genuinely puzzled trained observers and triggered official concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dibrarq.arquivonacional.gov.br">[dibrarq.arquivonacional.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dibrarq.arquivonacional.gov.br</span><span class="citation-popover-title">Fundo/Coleção ARX</span><span class="citation-popover-snippet">Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</span></span></span>
 
 What the archive does not provide is definitive proof of extraterrestrial visitation. Most cases remain unresolved because the available evidence is fragmentary, ambiguous, or incomplete rather than because they conclusively point to non-human technology.
 
@@ -447,194 +447,194 @@ The archive’s real importance lies elsewhere. It preserves a rare historical r
 For researchers, historians, sceptics, and believers alike, the value of the collection is therefore not that it settles the UFO question. It is that Brazil chose to preserve and expose the question itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Exploring Brazil&#x27;s Arquivo Nacional UFO Archives and Records. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Exploring Brazil&#x27;s Arquivo Nacional UFO Archives and Records. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Gives readers the investigative background needed to interpret case files and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers the investigative background needed to interpret case files and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Complements archive material by showing how a major investigator reviewed historical UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Complements archive material by showing how a major investigator reviewed historical UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the archive&#x27;s emphasis on pilots, officials, records, and unresolved aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the archive&#x27;s emphasis on pilots, officials, records, and unresolved aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Directly aligned with declassified UFO documents, state records, and government reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligned with declassified UFO documents, state records, and government reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="exploring-brazil-s-arquivo-nacional-ufo-archives-and-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ For researchers, historians, sceptics, and believers alike, the value of the col
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ For researchers, historians, sceptics, and believers alike, the value of the col
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ For researchers, historians, sceptics, and believers alike, the value of the col
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ For researchers, historians, sceptics, and believers alike, the value of the col
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ For researchers, historians, sceptics, and believers alike, the value of the col
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -837,172 +837,171 @@ For researchers, historians, sceptics, and believers alike, the value of the col
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dibrarq.arquivonacional.gov.br  
    Title: Fundo/Coleção ARX  
-   Link: <a href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow">https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</p></details>
+   Link:<a href="https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni" target="_blank" rel="noopener noreferrer nofollow">https://dibrarq.arquivonacional.gov.br/index.php/objeto-voador-nao-identificado-ovni</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Objeto Voador Não Identificado (OVNI)Documentos de diferentes origens mantidos até então pelo Centro de Documentação e Histórico da Aeron...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: anomalien.com  
    Title: Screen from the UFO Case Archive of the Brazilian National  
-   Link: <a href="https://anomalien.com/brazil-opens-national-ufo-archives-releasing-files-on-nearly-900-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/brazil-opens-national-ufo-archives-releasing-files-on-nearly-900-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil Opens National UFO Archives, Releasing Files on...31 May 2025 — Brazil Opens National UFO Archives, Releasing Files on Nearly 900...</p></details>
+   Link:<a href="https://anomalien.com/brazil-opens-national-ufo-archives-releasing-files-on-nearly-900-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/brazil-opens-national-ufo-archives-releasing-files-on-nearly-900-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil Opens National UFO Archives, Releasing Files on...31 May 2025 — Brazil Opens National UFO Archives, Releasing Files on Nearly 900...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gov.br  
    Title: conheca o fundo sobre ovnis do arquivo nacional  
-   Link: <a href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serviços e Informações do BrasilConheça o fundo sobre OVNIs do Arquivo NacionalSep 13, 2018 — Ele é composto de 743 registros que incluem...</p></details>
+   Link:<a href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serviços e Informações do BrasilConheça o fundo sobre OVNIs do Arquivo NacionalSep 13, 2018 — Ele é composto de 743 registros que incluem...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: National Brazilian Archives releases almost 900 documents  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f43eki/national_brazilian_archives_releases_almost_900/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f43eki/national_brazilian_archives_releases_almost_900/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Brazilian Archives releases almost 900 documents...August 29, 2024 — The National Archives has released nearly 900 docume...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f43eki/national_brazilian_archives_releases_almost_900/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f43eki/national_brazilian_archives_releases_almost_900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Brazilian Archives releases almost 900 documents...August 29, 2024 — The National Archives has released nearly 900 docume...</p></details>
    Published: August 29, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gov.br  
    Title: Serviços e Informações do Brasil Official UFO Night in Brazil  
-   Link: <a href="https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serviços e Informações do BrasilOfficial UFO Night in Brazil - Portal Gov.br20 May 2022 — On May 19, 1986, 21 unidentified flying objects...</p></details>
+   Link:<a href="https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serviços e Informações do BrasilOfficial UFO Night in Brazil - Portal Gov.br20 May 2022 — On May 19, 1986, 21 unidentified flying objects...</p></details>
    Published: May 19, 1986  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1986 Brazilian UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1986 Brazilian UFO incidentOn May 19, 1986, a series of radar and visual contacts with unidentified flying objects (UFOs) took place a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1986 Brazilian UFO incidentOn May 19, 1986, a series of radar and visual contacts with unidentified flying objects (UFOs) took place a...</p></details>
    Published: May 19, 1986  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Operação Prato  
-   Link: <a href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gov.br  
    Title: www.gov.br Série Relatos Extraterrestres — Arquivo Nacional  
-   Link: <a href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/serie-relatos-extraterrestres" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/serie-relatos-extraterrestres</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.brSérie Relatos Extraterrestres — Arquivo Nacional - Portal Gov.brAug 15, 2017 — Para consultar o acervo do Arquivo Nacional, ace...</p></details>
+   Link:<a href="https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/serie-relatos-extraterrestres" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/serie-relatos-extraterrestres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.brSérie Relatos Extraterrestres — Arquivo Nacional - Portal Gov.brAug 15, 2017 — Para consultar o acervo do Arquivo Nacional, ace...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arquivo.pt  
-   Link: <a href="https://arquivo.pt/?l=en" target="_blank" rel="noopener noreferrer nofollow">https://arquivo.pt/?l=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>search pages from the past!Arquivo.pt – the Portuguese web-archive is a research infrastructure that enables search and access to files a...</p></details>
+   Link:<a href="https://arquivo.pt/?l=en" target="_blank" rel="noopener noreferrer nofollow">https://arquivo.pt/?l=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>search pages from the past!Arquivo.pt – the Portuguese web-archive is a research infrastructure that enables search and access to files a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kzo0qw/brazil_releases_national_ufo_files/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kzo0qw/brazil_releases_national_ufo_files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil releases National UFO filesApparently Brazil has released their UFO files ahead of schedule. The photos are in on the Brazilian Na...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kzo0qw/brazil_releases_national_ufo_files/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kzo0qw/brazil_releases_national_ufo_files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil releases National UFO filesApparently Brazil has released their UFO files ahead of schedule. The photos are in on the Brazilian Na...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO sightings in Brazil  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in BrazilA UFO allegedly was seen flying near the point where both died. UFO occurred in December 1977, in Bahia. Nation...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in BrazilA UFO allegedly was seen flying near the point where both died. UFO occurred in December 1977, in Bahia. Nation...</p></details>
    Published: December 1977  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: querepublicaeessa.an.gov.br  
-   Link: <a href="https://querepublicaeessa.an.gov.br/index.php/que-republica-e-essa/assuntos/temas/302-os-ovnis-no-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow">https://querepublicaeessa.an.gov.br/index.php/que-republica-e-essa/assuntos/temas/302-os-ovnis-no-arquivo-nacional</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIs no Arquivo Nacional - Que República é EssaApr 29, 2021 — O chamado fundo OVNI do Arquivo Nacional conta com algumas milhares de pág...</p></details>
+   Link:<a href="https://querepublicaeessa.an.gov.br/index.php/que-republica-e-essa/assuntos/temas/302-os-ovnis-no-arquivo-nacional" target="_blank" rel="noopener noreferrer nofollow">https://querepublicaeessa.an.gov.br/index.php/que-republica-e-essa/assuntos/temas/302-os-ovnis-no-arquivo-nacional</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIs no Arquivo Nacional - Que República é EssaApr 29, 2021 — O chamado fundo OVNI do Arquivo Nacional conta com algumas milhares de pág...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: canaltech.com.br  
    Title: o acessar os quase mil avistamentos de ovnis catalogados noarquivo nacional  
-   Link: <a href="https://canaltech.com.br/espaco/como-acessar-os-quase-mil-avistamentos-de-ovnis-catalogados-noarquivo-nacional/" target="_blank" rel="noopener noreferrer nofollow">https://canaltech.com.br/espaco/como-acessar-os-quase-mil-avistamentos-de-ovnis-catalogados-noarquivo-nacional/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o acessar os quase mil avistamentos de OVNIs...Jun 1, 2025 — O que é um OVNI? Entenda o Objeto Voador Não Identificado · 7 r...</p></details>
+   Link:<a href="https://canaltech.com.br/espaco/como-acessar-os-quase-mil-avistamentos-de-ovnis-catalogados-noarquivo-nacional/" target="_blank" rel="noopener noreferrer nofollow">https://canaltech.com.br/espaco/como-acessar-os-quase-mil-avistamentos-de-ovnis-catalogados-noarquivo-nacional/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o acessar os quase mil avistamentos de OVNIs...Jun 1, 2025 — O que é um OVNI? Entenda o Objeto Voador Não Identificado · 7 r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brazilianufoarchives.com  
    Title: Brazilian UFO Archives About  
-   Link: <a href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow">https://brazilianufoarchives.com/the-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</p></details>
+   Link:<a href="https://brazilianufoarchives.com/the-guide/" target="_blank" rel="noopener noreferrer nofollow">https://brazilianufoarchives.com/the-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazilian UFO ArchivesAbout - Brazilian UFO ArchivesThe BRAZILIAN UFO ARCHIVES website is a textual guide, in the English language, to th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsOperação PratoOperação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78, is one of...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsOperação PratoOperação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78, is one of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/portuguese-english/arquivo" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/portuguese-english/arquivo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English translation - Cambridge Dictionaryarchive [noun] (a place for keeping) old documents, historical records etc file [noun] (compu...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/portuguese-english/arquivo" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/portuguese-english/arquivo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English translation - Cambridge Dictionaryarchive [noun] (a place for keeping) old documents, historical records etc file [noun] (compu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: es.pons.com  
-   Link: <a href="https://es.pons.com/traducci%C3%B3n/portugu%C3%A9s-espa%C3%B1ol/arquivo" target="_blank" rel="noopener noreferrer nofollow">https://es.pons.com/traducci%C3%B3n/portugu%C3%A9s-espa%C3%B1ol/arquivo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traducción portugués-españolConsulta la traducción portugués-español de ARQUIVO en el diccionario en línea PONS! Entrenador de vocabulari...</p></details>
+   Link:<a href="https://es.pons.com/traducci%C3%B3n/portugu%C3%A9s-espa%C3%B1ol/arquivo" target="_blank" rel="noopener noreferrer nofollow">https://es.pons.com/traducci%C3%B3n/portugu%C3%A9s-espa%C3%B1ol/arquivo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traducción portugués-españolConsulta la traducción portugués-español de ARQUIVO en el diccionario en línea PONS! Entrenador de vocabulari...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/reso-factor_newscience-postquantum-propulsionsystems-activity-7335005684666699777-sphe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/reso-factor_newscience-postquantum-propulsionsystems-activity-7335005684666699777-sphe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil opens UFO archives, releases 900 sighting filesEVIDENCE OF CTP ENERGY Brazil Opens National UFO Archives, Releasing Files on Nearl...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/reso-factor_newscience-postquantum-propulsionsystems-activity-7335005684666699777-sphe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/reso-factor_newscience-postquantum-propulsionsystems-activity-7335005684666699777-sphe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil opens UFO archives, releases 900 sighting filesEVIDENCE OF CTP ENERGY Brazil Opens National UFO Archives, Releasing Files on Nearl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: pilots record 30 ufo sightings in brazil over 2023on november 21 last year a pil  
-   Link: <a href="https://www.facebook.com/TheBrazilianReport/posts/pilots-record-30-ufo-sightings-in-brazil-over-2023on-november-21-last-year-a-pil/1035054821958823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBrazilianReport/posts/pilots-record-30-ufo-sightings-in-brazil-over-2023on-november-21-last-year-a-pil/1035054821958823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸Pilots record 30 UFO sightings in Brazil over 2023...Brazil has released over 800 UFO files dating between 1952 -2023 They can be viewe...</p></details>
+   Link:<a href="https://www.facebook.com/TheBrazilianReport/posts/pilots-record-30-ufo-sightings-in-brazil-over-2023on-november-21-last-year-a-pil/1035054821958823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBrazilianReport/posts/pilots-record-30-ufo-sightings-in-brazil-over-2023on-november-21-last-year-a-pil/1035054821958823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸Pilots record 30 UFO sightings in Brazil over 2023...Brazil has released over 800 UFO files dating between 1952 -2023 They can be viewe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedebrief.org  
    Title: unidentified aerial phenomena becomes focus of recent brazilian senate hearings  
-   Link: <a href="https://thedebrief.org/unidentified-aerial-phenomena-becomes-focus-of-recent-brazilian-senate-hearings/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/unidentified-aerial-phenomena-becomes-focus-of-recent-brazilian-senate-hearings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena Becomes Focus of Recent...28 Jun 2022 — A recent Brazilian Senate hearing was organized to address the cou...</p></details>
+   Link:<a href="https://thedebrief.org/unidentified-aerial-phenomena-becomes-focus-of-recent-brazilian-senate-hearings/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/unidentified-aerial-phenomena-becomes-focus-of-recent-brazilian-senate-hearings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena Becomes Focus of Recent...28 Jun 2022 — A recent Brazilian Senate hearing was organized to address the cou...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=I4_FTI2XzbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I4_FTI2XzbY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Releases Reports on UFOsThe National Archives released reports about UFOs, but what does that mean? What is the scienti...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I4_FTI2XzbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I4_FTI2XzbY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Releases Reports on UFOsThe National Archives released reports about UFOs, but what does that mean? What is the scienti...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xluya-2ov40</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed UFO Incident in History | Operation PratoThe Brazilian Air Force responded with Operation Prato (Operation... UFO fil...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xluya-2ov40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed UFO Incident in History | Operation PratoThe Brazilian Air Force responded with Operation Prato (Operation... UFO fil...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: anniversary et of legend varginha alien incident musuem documentary  
-   Link: <a href="https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I&#x27;ve seen the devil&#x27;: Brazil&#x27;s UFO capital marks 30 years...21 Mar 2026 — Sightings in Varginha in 1996 have been dismissed as hoax, bu...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I&#x27;ve seen the devil&#x27;: Brazil&#x27;s UFO capital marks 30 years...21 Mar 2026 — Sightings in Varginha in 1996 have been dismissed as hoax, bu...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: edneiprocopio.com.br  
    Title: arquivo nacional libera acervo sobre casos de ovnis no brasil  
-   Link: <a href="https://www.edneiprocopio.com.br/2025/06/01/arquivo-nacional-libera-acervo-sobre-casos-de-ovnis-no-brasil/" target="_blank" rel="noopener noreferrer nofollow">https://www.edneiprocopio.com.br/2025/06/01/arquivo-nacional-libera-acervo-sobre-casos-de-ovnis-no-brasil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>O Acervo Sobre OVNIs no Brasil no Arquivo NacionalJun 1, 2025 — O acervo digital reúne relatos e provas — imagens fotográficas, áudios de...</p></details>
+   Link:<a href="https://www.edneiprocopio.com.br/2025/06/01/arquivo-nacional-libera-acervo-sobre-casos-de-ovnis-no-brasil/" target="_blank" rel="noopener noreferrer nofollow">https://www.edneiprocopio.com.br/2025/06/01/arquivo-nacional-libera-acervo-sobre-casos-de-ovnis-no-brasil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>O Acervo Sobre OVNIs no Brasil no Arquivo NacionalJun 1, 2025 — O acervo digital reúne relatos e provas — imagens fotográficas, áudios de...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Brazil files · 02 International Disclosure  
-   Link: <a href="https://ufotransparency.com/international/files/br" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/br</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil files · 02 International Disclosure - UFO TransparencyOfficially-released UAP documents from Brazil, indexed alongside the rest of...</p></details>
+   Link:<a href="https://ufotransparency.com/international/files/br" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/br</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazil files · 02 International Disclosure - UFO TransparencyOfficially-released UAP documents from Brazil, indexed alongside the rest of...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: headcountcoffee.com  
    Title: colares 1978 beam reports triggered military operation  
-   Link: <a href="https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOorI8iQMWgEBh73mYTVgnxw8AqqzKwJ9apXtaB4T2HFq5lDVDth7" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOorI8iQMWgEBh73mYTVgnxw8AqqzKwJ9apXtaB4T2HFq5lDVDth7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — In 1977–1978, residents of Colares, Brazil reported strange lights and injuries, leading to a military investigation called...</p></details>
+   Link:<a href="https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOorI8iQMWgEBh73mYTVgnxw8AqqzKwJ9apXtaB4T2HFq5lDVDth7" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/coffee-news/colares-1978-beam-reports-triggered-military-operation?srsltid=AfmBOorI8iQMWgEBh73mYTVgnxw8AqqzKwJ9apXtaB4T2HFq5lDVDth7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — In 1977–1978, residents of Colares, Brazil reported strange lights and injuries, leading to a military investigation called...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cnnbrasil.com.br  
-   Link: <a href="https://www.cnnbrasil.com.br/nacional/brasil/documentos-revelam-26-casos-envolvendo-ovnis-e-avioes-no-brasil-em-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnnbrasil.com.br/nacional/brasil/documentos-revelam-26-casos-envolvendo-ovnis-e-avioes-no-brasil-em-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentos revelam 26 casos envolvendo OVNIs e...Jun 11, 2025 — Documentos revelam 26 casos envolvendo OVNIs e aviões no Brasil em 2024...</p></details>
+   Link:<a href="https://www.cnnbrasil.com.br/nacional/brasil/documentos-revelam-26-casos-envolvendo-ovnis-e-avioes-no-brasil-em-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnnbrasil.com.br/nacional/brasil/documentos-revelam-26-casos-envolvendo-ovnis-e-avioes-no-brasil-em-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documentos revelam 26 casos envolvendo OVNIs e...Jun 11, 2025 — Documentos revelam 26 casos envolvendo OVNIs e aviões no Brasil em 2024...</p></details>

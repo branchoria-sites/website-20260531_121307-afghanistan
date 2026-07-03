@@ -248,7 +248,7 @@ image: /assets/images/Colombia_2f7373_ufo_record_reliabili_2078a6-Illustration-1
 
 ## Introduction
 
-Colombia has no single public UFO archive comparable to the official case collections once maintained in countries such as France or the United Kingdom. Instead, Colombian UFO material is scattered across citizen-report databases, television programmes, local news coverage, social media uploads, and international UFO forums. That fragmented record-keeping system is the central reason why reliability remains difficult to judge. Many Colombian cases are real eyewitness reports, but the supporting evidence is often incomplete, duplicated, poorly preserved, or detached from formal investigation. At the same time, some Colombian incidents have become internationally famous precisely because weak verification standards allow dramatic stories to spread rapidly online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">April 28, 2026 — This is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include related claims...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
+Colombia has no single public UFO archive comparable to the official case collections once maintained in countries such as France or the United Kingdom. Instead, Colombian UFO material is scattered across citizen-report databases, television programmes, local news coverage, social media uploads, and international UFO forums. That fragmented record-keeping system is the central reason why reliability remains difficult to judge. Many Colombian cases are real eyewitness reports, but the supporting evidence is often incomplete, duplicated, poorly preserved, or detached from formal investigation. At the same time, some Colombian incidents have become internationally famous precisely because weak verification standards allow dramatic stories to spread rapidly online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">April 28, 2026 — This is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include related claims...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Colombia_2f7373_ufo_record_reliabili_2078a6-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Colombia_2f7373_ufo_record_reliabili_2078a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colombia_2f7373_ufo_record_reliabili_2078a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a mixed evidential landscape. A small number of Colombian sightings contain credible witness testimony or aviation context, while many others rely on viral clips, reposted narratives, or investigators already associated with controversial claims. Understanding Colombian UFO records therefore requires less focus on whether a sighting is “true” or “false” and more attention to how reports are collected, archived, repeated, and verified.
@@ -264,7 +264,7 @@ Most searchable Colombian UFO material instead comes from:
 * International civilian databases such as the National UFO Reporting Center (NUFORC)
 * Independent UFO mapping websites
 * Television documentaries and tabloid-style programmes
-* Social media reposts <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Buga Sphere: Alien Probe or Terrestrial Puzzle?</span><span class="citation-popover-snippet">late April 2025, shaky videos of its erratic pre-crash “flight” spread across social media, drawing UFO researchers like Jaime Ma...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
+* Social media reposts<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Buga Sphere: Alien Probe or Terrestrial Puzzle?</span><span class="citation-popover-snippet">late April 2025, shaky videos of its erratic pre-crash “flight” spread across social media, drawing UFO researchers like Jaime Ma...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
 * WhatsApp circulation and regional Facebook groups
 * Independent researchers and paranormal enthusiasts
 
@@ -288,7 +288,7 @@ Because there is no central Colombian verification authority, unresolved reports
 
 ### What the Databases Actually Contain
 
-Most accessible Colombian UFO records come from open-submission databases. NUFORC and similar sites contain entries from Bogotá, Cali, Medellín, Sincelejo, Boyacá, and rural Andean regions dating back decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buga_%28deity%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buga (deity</span><span class="citation-popover-snippet">Buga (deity)Buga is a creator god and omnipotent highest power in the mythology of the Tungusic peoples. Contents. 1 Etymology and Eth...</span></span></span>
+Most accessible Colombian UFO records come from open-submission databases. NUFORC and similar sites contain entries from Bogotá, Cali, Medellín, Sincelejo, Boyacá, and rural Andean regions dating back decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buga_%28deity%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buga (deity</span><span class="citation-popover-snippet">Buga (deity)Buga is a creator god and omnipotent highest power in the mythology of the Tungusic peoples. Contents. 1 Etymology and Eth...</span></span></span>
 
 These databases are useful for identifying reporting patterns, but they are not equivalent to verified investigative archives. Submissions are generally self-reported, and the quality varies enormously. Some reports contain detailed descriptions of lighting conditions, object movement, and witness reactions. Others provide only a sentence or two with no supporting evidence.
 
@@ -321,7 +321,7 @@ Colombian UFO material is especially vulnerable to duplication because reports f
 
 By the time international audiences encounter the case, it can appear as though multiple independent sources confirmed the same event when all references ultimately trace back to one original upload.
 
-This amplification effect is particularly visible in modern Colombian UFO footage shared from aircraft cockpits or mountain regions. Viral circulation often outpaces verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo footage best colombia jorge arteaga 997617 20240219</span><span class="citation-popover-snippet">LADbible&#x27;Best ever UFO footage&#x27; on film has had its authenticity...19 Feb 2024 — Pilot Jorge A. Arteaga captured what has been described...</span></span></span>
+This amplification effect is particularly visible in modern Colombian UFO footage shared from aircraft cockpits or mountain regions. Viral circulation often outpaces verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo footage best colombia jorge arteaga 997617 20240219</span><span class="citation-popover-snippet">LADbible&#x27;Best ever UFO footage&#x27; on film has had its authenticity...19 Feb 2024 — Pilot Jorge A. Arteaga captured what has been described...</span></span></span>
 
 ### Why Geographical “Hotspots” Can Mislead
 
@@ -368,12 +368,12 @@ A dramatic clip can therefore become internationally famous even when investigat
 
 ### The Jorge Arteaga Footage Debate
 
-One of the most widely discussed recent Colombian UFO clips involves pilot Jorge Arteaga, whose cockpit footage circulated internationally and was promoted in sensational headlines as potentially exceptional evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo footage best colombia jorge arteaga 997617 20240219</span><span class="citation-popover-snippet">LADbible&#x27;Best ever UFO footage&#x27; on film has had its authenticity...19 Feb 2024 — Pilot Jorge A. Arteaga captured what has been described...</span></span></span>
+One of the most widely discussed recent Colombian UFO clips involves pilot Jorge Arteaga, whose cockpit footage circulated internationally and was promoted in sensational headlines as potentially exceptional evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo footage best colombia jorge arteaga 997617 20240219</span><span class="citation-popover-snippet">LADbible&#x27;Best ever UFO footage&#x27; on film has had its authenticity...19 Feb 2024 — Pilot Jorge A. Arteaga captured what has been described...</span></span></span>
 
 Supporters argued that the object’s apparent movement near the aircraft suggested unusual manoeuvrability. Critics pointed out several unresolved issues:
 
 * Lack of independently released raw footage
-* Limited technical flight data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/deepuniversee/posts/in-recent-days-a-dramatic-story-has-surged-across-the-internet-a-metallic-sphere/867491666048723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">oof of alien technology and linked to long-standing claims by Bob Lazar.Read more...</span></span></span>
+* Limited technical flight data<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/deepuniversee/posts/in-recent-days-a-dramatic-story-has-surged-across-the-internet-a-metallic-sphere/867491666048723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">oof of alien technology and linked to long-standing claims by Bob Lazar.Read more...</span></span></span>
 * Unclear object distance and scale
 * Absence of publicly released radar corroboration
 * Potential optical distortion through cockpit glass
@@ -393,7 +393,7 @@ That does not automatically invalidate a case, but it complicates reliability as
 
 ### Why the Case Spread So Quickly
 
-The so-called [Buga Sphere]({{ 'buga-sphere/' | relative_url }}) became one of the most internationally recognised Colombian UFO stories after claims emerged that a metallic sphere had been recovered near Buga in Valle del Cauca. The object was promoted heavily online and associated with media figure Jaime Maussan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">scientists discover mysterious sphere colombia sparking ufo speculation</span><span class="citation-popover-snippet">Fox NewsMysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expe...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-discovered-colombia-scientist-weighs-2076884" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">UFO Discovered in Colombia?</span><span class="citation-popover-snippet">Scientist Weighs In25 May 2025 — A Colombian radiology specialist says a mysterious metal orb discovered in his country is an unidentifie...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> The case spread rapidly because it combined several highly shareable elements:
+The so-called [Buga Sphere]({{ 'buga-sphere/' | relative_url }}) became one of the most internationally recognised Colombian UFO stories after claims emerged that a metallic sphere had been recovered near Buga in Valle del Cauca. The object was promoted heavily online and associated with media figure Jaime Maussan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">scientists discover mysterious sphere colombia sparking ufo speculation</span><span class="citation-popover-snippet">Fox NewsMysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expe...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-discovered-colombia-scientist-weighs-2076884" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">UFO Discovered in Colombia?</span><span class="citation-popover-snippet">Scientist Weighs In25 May 2025 — A Colombian radiology specialist says a mysterious metal orb discovered in his country is an unidentifie...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> The case spread rapidly because it combined several highly shareable elements:
 
 * Alleged physical recovery
 * X-ray imagery
@@ -419,13 +419,13 @@ Key concerns included:
 * Involvement of investigators associated with previous disputed claims
 * Lack of peer-reviewed publication
 
-Even reports sympathetic to the case acknowledged that no official scientific confirmation existed for extraterrestrial claims. New York Post <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">scientists discover mysterious sphere colombia sparking ufo speculation</span><span class="citation-popover-snippet">Fox NewsMysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expe...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uniladtech.com/science/news/scientists-release-xray-images-ufo-not-human-made-172218-20250508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uniladtech.com">[UNILAD Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uniladtech.com</span><span class="citation-popover-title">scientists release xray images ufo not human made 172218 20250508</span><span class="citation-popover-snippet">Scientists release first x-ray images of UFO they say could...8 May 2025 — A spherical so-called UFO has been discovered in Colombia, an...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Even reports sympathetic to the case acknowledged that no official scientific confirmation existed for extraterrestrial claims. New York Post<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">scientists discover mysterious sphere colombia sparking ufo speculation</span><span class="citation-popover-snippet">Fox NewsMysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expe...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uniladtech.com/science/news/scientists-release-xray-images-ufo-not-human-made-172218-20250508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uniladtech.com">[UNILAD Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uniladtech.com</span><span class="citation-popover-title">scientists release xray images ufo not human made 172218 20250508</span><span class="citation-popover-snippet">Scientists release first x-ray images of UFO they say could...8 May 2025 — A spherical so-called UFO has been discovered in Colombia, an...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Sceptics also noted that unusual construction alone does not establish non-human origin. Art projects, experimental objects, fabricated props, and misidentified industrial materials can all appear mysterious outside controlled analysis.
 
 ### The Jaime Maussan Reliability Question
 
-The Buga Sphere also highlighted how investigator reputation affects source credibility. Jaime Maussan is internationally known in UFO circles but has repeatedly been associated with controversial or disputed claims, including highly criticised “alien mummy” presentations linked to Peru. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">scientists discover mysterious sphere in colombia sparking ufo speculation</span><span class="citation-popover-snippet">Weighing approximately 4.5 pounds and cold to the touch, the orb is striking for its lack of welds or joints, suggesting it may not be ma...</span></span></span>
+The Buga Sphere also highlighted how investigator reputation affects source credibility. Jaime Maussan is internationally known in UFO circles but has repeatedly been associated with controversial or disputed claims, including highly criticised “alien mummy” presentations linked to Peru.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">scientists discover mysterious sphere in colombia sparking ufo speculation</span><span class="citation-popover-snippet">Weighing approximately 4.5 pounds and cold to the touch, the orb is striking for its lack of welds or joints, suggesting it may not be ma...</span></span></span>
 
 Because of that history, many observers approached the Colombian sphere claims with heightened caution before examining the evidence itself.
 
@@ -485,13 +485,13 @@ Cases tend to receive more serious attention when they include:
 * Exact timestamps and locations
 * Aviation or radar context
 * Corroborating environmental data
-* Consistent witness accounts over time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</span></span></span>
+* Consistent witness accounts over time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</span></span></span>
 
 ### Lower-Reliability Indicators
 
 Researchers become more cautious when cases rely on:
 
-* Anonymous social media uploads <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Buga Sphere: Alien Probe or Terrestrial Puzzle?</span><span class="citation-popover-snippet">late April 2025, shaky videos of its erratic pre-crash “flight” spread across social media, drawing UFO researchers like Jaime Ma...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
+* Anonymous social media uploads<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Buga Sphere: Alien Probe or Terrestrial Puzzle?</span><span class="citation-popover-snippet">late April 2025, shaky videos of its erratic pre-crash “flight” spread across social media, drawing UFO researchers like Jaime Ma...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
 * Reposted footage with no original source
 * Dramatic narration without evidence
 * Celebrity ufologist endorsement alone
@@ -510,194 +510,194 @@ The most dependable conclusion is that Colombia possesses a substantial archive 
 For researchers, journalists, and readers, the key challenge is not merely deciding whether a Colombian UFO case is convincing. It is determining whether the available record preserves enough trustworthy information to evaluate the case properly at all.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Colombia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Colombia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses reliability, reporting practices, and interpretation of UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses reliability, reporting practices, and interpretation of UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong match for evaluating report quality, databases, and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for evaluating report quality, databases, and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on witness credibility and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness credibility and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Shows how cases are archived, compared, and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how cases are archived, compared, and documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-colombia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-colombia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -713,7 +713,7 @@ For researchers, journalists, and readers, the key challenge is not merely decid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -733,7 +733,7 @@ For researchers, journalists, and readers, the key challenge is not merely decid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -765,7 +765,7 @@ For researchers, journalists, and readers, the key challenge is not merely decid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -817,7 +817,7 @@ For researchers, journalists, and readers, the key challenge is not merely decid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -862,7 +862,7 @@ For researchers, journalists, and readers, the key challenge is not merely decid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -903,236 +903,236 @@ For researchers, journalists, and readers, the key challenge is not merely decid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 2026 — This is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include related claims...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 2026 — This is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include related claims...</p></details>
    Published: April 28, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ladbible.com  
    Title: ufo footage best colombia jorge arteaga 997617 20240219  
-   Link: <a href="https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LADbible&#x27;Best ever UFO footage&#x27; on film has had its authenticity...19 Feb 2024 — Pilot Jorge A. Arteaga captured what has been described...</p></details>
+   Link:<a href="https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/community/weird/ufo-footage-best-colombia-jorge-arteaga-997617-20240219</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LADbible&#x27;Best ever UFO footage&#x27; on film has had its authenticity...19 Feb 2024 — Pilot Jorge A. Arteaga captured what has been described...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1ehgipq/i_think_about_this_video_everyday_this_ufo_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1ehgipq/i_think_about_this_video_everyday_this_ufo_was/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 10, 2023. The footage was posted to the Spanish Internet forum...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/1ehgipq/i_think_about_this_video_everyday_this_ufo_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1ehgipq/i_think_about_this_video_everyday_this_ufo_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 10, 2023. The footage was posted to the Spanish Internet forum...</p></details>
    Published: October 10, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSvIHPdDAk5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSvIHPdDAk5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>flight. The video has since been reviewed and endorsed by a...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSvIHPdDAk5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSvIHPdDAk5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flight. The video has since been reviewed and endorsed by a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsweek.com  
    Title: UFO Discovered in Colombia?  
-   Link: <a href="https://www.newsweek.com/ufo-discovered-colombia-scientist-weighs-2076884" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-discovered-colombia-scientist-weighs-2076884</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Weighs In25 May 2025 — A Colombian radiology specialist says a mysterious metal orb discovered in his country is an unidentifie...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-discovered-colombia-scientist-weighs-2076884" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-discovered-colombia-scientist-weighs-2076884</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Weighs In25 May 2025 — A Colombian radiology specialist says a mysterious metal orb discovered in his country is an unidentifie...</p></details>
    Published: May 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1qkdj9l/serious_clear_images_of_a_flying_saucer_in_valle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1qkdj9l/serious_clear_images_of_a_flying_saucer_in_valle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clear images of a flying saucer in Valle del Cauca...In 23 of December of 2025 Valle del Cauca - Colombia, a couple of sisters spot in...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1qkdj9l/serious_clear_images_of_a_flying_saucer_in_valle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1qkdj9l/serious_clear_images_of_a_flying_saucer_in_valle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clear images of a flying saucer in Valle del Cauca...In 23 of December of 2025 Valle del Cauca - Colombia, a couple of sisters spot in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think the spherical UFO sighting in Buga, Colombia...It passed on many occasions at a speed not real to the human eye as the sour...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k1vz10/do_you_think_the_spherical_ufo_sighting_in_buga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think the spherical UFO sighting in Buga, Colombia...It passed on many occasions at a speed not real to the human eye as the sour...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kxa2gr/unam_has_obtained_6_micrograms_of_optical_fiber/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kxa2gr/unam_has_obtained_6_micrograms_of_optical_fiber/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kxa2gr/unam_has_obtained_6_micrograms_of_optical_fiber/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kxa2gr/unam_has_obtained_6_micrograms_of_optical_fiber/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>idn&#x27;t know, two people actually filmed it from different angles...</p></details>
+   Link:<a href="https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idn&#x27;t know, two people actually filmed it from different angles...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1keokrg/buga_sphere_alleged_xray_images/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1keokrg/buga_sphere_alleged_xray_images/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buga sphere alleged x-ray images: r/UFOsThese are the alleged X-ray images of the Buga sphere. Jaime Maussan owns the sphere and is supp...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1keokrg/buga_sphere_alleged_xray_images/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1keokrg/buga_sphere_alleged_xray_images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buga sphere alleged x-ray images: r/UFOsThese are the alleged X-ray images of the Buga sphere. Jaime Maussan owns the sphere and is supp...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1ke34b0/spherical_ufo_crash_in_buga_colombia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1ke34b0/spherical_ufo_crash_in_buga_colombia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spherical UFO Crash in Buga, Colombia: r/abovethenormnewsWe found an unidentified flying object, what would you like to use from our mul...</p></details>
+   Link:<a href="https://www.reddit.com/r/abovethenormnews/comments/1ke34b0/spherical_ufo_crash_in_buga_colombia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1ke34b0/spherical_ufo_crash_in_buga_colombia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spherical UFO Crash in Buga, Colombia: r/abovethenormnewsWe found an unidentified flying object, what would you like to use from our mul...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kine9o/buga_sphere_inscriptions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kine9o/buga_sphere_inscriptions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere Inscriptions: r/UFOsThere was an &quot;alien&quot; metal sphere reported at Colombia. People did not buy it because the engraving look...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kine9o/buga_sphere_inscriptions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kine9o/buga_sphere_inscriptions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere Inscriptions: r/UFOsThere was an &quot;alien&quot; metal sphere reported at Colombia. People did not buy it because the engraving look...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jv41q0/one_of_the_clearest_ufo_videos_ever_recorded/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jv41q0/one_of_the_clearest_ufo_videos_ever_recorded/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jv41q0/one_of_the_clearest_ufo_videos_ever_recorded/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jv41q0/one_of_the_clearest_ufo_videos_ever_recorded/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/in-recent-days-a-dramatic-story-has-surged-across-the-internet-a-metallic-sphere/867491666048723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/in-recent-days-a-dramatic-story-has-surged-across-the-internet-a-metallic-sphere/867491666048723/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oof of alien technology and linked to long-standing claims by Bob Lazar.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/in-recent-days-a-dramatic-story-has-surged-across-the-internet-a-metallic-sphere/867491666048723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/in-recent-days-a-dramatic-story-has-surged-across-the-internet-a-metallic-sphere/867491666048723/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oof of alien technology and linked to long-standing claims by Bob Lazar.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/the-office-tracking-reports-of-ufos-has-added-nearly-400-additional-sightings-to/556356863185136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/the-office-tracking-reports-of-ufos-has-added-nearly-400-additional-sightings-to/556356863185136/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3,640 reports of UFO sightings; 526 of them were recorded on camera...</p></details>
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/the-office-tracking-reports-of-ufos-has-added-nearly-400-additional-sightings-to/556356863185136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/the-office-tracking-reports-of-ufos-has-added-nearly-400-additional-sightings-to/556356863185136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3,640 reports of UFO sightings; 526 of them were recorded on camera...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/official.sunitasakshi/posts/-another-one-second-mysterious-sphere-discovered-in-colombia-jaime-maussan-revea/1558434359180851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/official.sunitasakshi/posts/-another-one-second-mysterious-sphere-discovered-in-colombia-jaime-maussan-revea/1558434359180851/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JAIME MAUSSAN REVEALS SHOCKING NEW FIND...Another mysterious sphere found in Colombia&#x27;s jungle near Medellín — Jaime Maussan confirms it...</p></details>
+   Link:<a href="https://www.facebook.com/official.sunitasakshi/posts/-another-one-second-mysterious-sphere-discovered-in-colombia-jaime-maussan-revea/1558434359180851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/official.sunitasakshi/posts/-another-one-second-mysterious-sphere-discovered-in-colombia-jaime-maussan-revea/1558434359180851/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAIME MAUSSAN REVEALS SHOCKING NEW FIND...Another mysterious sphere found in Colombia&#x27;s jungle near Medellín — Jaime Maussan confirms it...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: the national ufo reporting center has reportedly received more than 2000 inciden  
-   Link: <a href="https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-reportedly-received-more-than-2000-inciden/1216490937190173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-reportedly-received-more-than-2000-inciden/1216490937190173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Over 2000 UFO Sightings in First Half of 2025The National UFO Reporting Center has reportedly received more than 2,000 incidents...</p></details>
+   Link:<a href="https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-reportedly-received-more-than-2000-inciden/1216490937190173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-reportedly-received-more-than-2000-inciden/1216490937190173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Over 2000 UFO Sightings in First Half of 2025The National UFO Reporting Center has reportedly received more than 2,000 incidents...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>often difficult to verify...</p></details>
+   Link:<a href="https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>often difficult to verify...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Kizz Daniel  
-   Link: <a href="https://www.youtube.com/watch?v=hWrMvb39Oek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hWrMvb39Oek</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BUGA [Official Music Video] By Galaxy African...Kizz Daniel - BUGA [Official Music Video] By Galaxy African Kids ft Tekno Kizz Daniel ft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hWrMvb39Oek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hWrMvb39Oek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BUGA [Official Music Video] By Galaxy African...Kizz Daniel - BUGA [Official Music Video] By Galaxy African Kids ft Tekno Kizz Daniel ft...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=I8HueMApUDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I8HueMApUDQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere: Alien Warning or Hoax? | WION PodcastBuga Sphere: Alien Warning or Hoax? | WION Podcast. 10K views · 11... EXCLUSIVA: Jaime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I8HueMApUDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I8HueMApUDQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere: Alien Warning or Hoax? | WION PodcastBuga Sphere: Alien Warning or Hoax? | WION Podcast. 10K views · 11... EXCLUSIVA: Jaime...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: music.youtube.com  
    Title: Bmt Tt9DTJMM  
-   Link: <a href="https://music.youtube.com/podcast/BmtTt9DTJMM" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/BmtTt9DTJMM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is It Alien...Sep 17, 2025 —... sphere in Valle del Cauca, Colombia. The role of Jaime Maussan and his theatrical press conference...</p></details>
+   Link:<a href="https://music.youtube.com/podcast/BmtTt9DTJMM" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/BmtTt9DTJMM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is It Alien...Sep 17, 2025 —... sphere in Valle del Cauca, Colombia. The role of Jaime Maussan and his theatrical press conference...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VWkg5KENYyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VWkg5KENYyk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the mysterious Buga Sphere found in Colombia in 2025?Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VWkg5KENYyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VWkg5KENYyk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the mysterious Buga Sphere found in Colombia in 2025?Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zPYbEAC9bw0&amp;vl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zPYbEAC9bw0&amp;vl=en-GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW &#x27;Buga Sphere&#x27; INSTANTLY Debunked &amp; Jaime...Just yesterday, Jaime Maussan revealed brand-new footage of the mysterious Buga Sphere, a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zPYbEAC9bw0&amp;vl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zPYbEAC9bw0&amp;vl=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW &#x27;Buga Sphere&#x27; INSTANTLY Debunked &amp; Jaime...Just yesterday, Jaime Maussan revealed brand-new footage of the mysterious Buga Sphere, a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Buga (deity)  
-   Link: <a href="https://en.wikipedia.org/wiki/Buga_%28deity%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buga_%28deity%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buga (deity)Buga is a creator god and omnipotent highest power in the mythology of the Tungusic peoples. Contents. 1 Etymology and Eth...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Buga_%28deity%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buga_%28deity%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buga (deity)Buga is a creator god and omnipotent highest power in the mythology of the Tungusic peoples. Contents. 1 Etymology and Eth...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[BRB Talk] Best UFO footage ever from Colombia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[BRB Talk] Best UFO footage ever from Colombia...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: [BRB Talk] Best UFO footage ever from Colombia  
-   Link: <a href="https://www.youtube.com/watch?v=4tniL4qlFjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4tniL4qlFjY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaime Maussan explains what is in the UFO files released by the Pentagon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4tniL4qlFjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4tniL4qlFjY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jaime Maussan explains what is in the UFO files released by the Pentagon...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Jaime Maussan explains what is in the UFO files released by the Pentagon  
-   Link: <a href="https://www.youtube.com/watch?v=F44yLnBbl_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F44yLnBbl_E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere: Alien Warning or Hoax? | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F44yLnBbl_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F44yLnBbl_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buga Sphere: Alien Warning or Hoax? | WION Podcast...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Can't Argue with This UFO Footage  
-   Link: <a href="https://www.youtube.com/watch?v=9PPNBf-sqDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9PPNBf-sqDs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9PPNBf-sqDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9PPNBf-sqDs</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: foxnews.com  
    Title: scientists discover mysterious sphere colombia sparking ufo speculation  
-   Link: <a href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsMysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expe...</p></details>
+   Link:<a href="https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/scientists-discover-mysterious-sphere-colombia-sparking-ufo-speculation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsMysterious sphere in Colombia sparks UFO debate among...25 May 2025 — Colombia&#x27;s UFO sphere discovery raises questions. One expe...</p></details>
    Published: May 2025  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nypost.com  
    Title: scientists discover mysterious sphere in colombia sparking ufo speculation  
-   Link: <a href="https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weighing approximately 4.5 pounds and cold to the touch, the orb is striking for its lack of welds or joints, suggesting it may not be ma...</p></details>
+   Link:<a href="https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weighing approximately 4.5 pounds and cold to the touch, the orb is striking for its lack of welds or joints, suggesting it may not be ma...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: uniladtech.com  
    Title: scientists release xray images ufo not human made 172218 20250508  
-   Link: <a href="https://www.uniladtech.com/science/news/scientists-release-xray-images-ufo-not-human-made-172218-20250508" target="_blank" rel="noopener noreferrer nofollow">https://www.uniladtech.com/science/news/scientists-release-xray-images-ufo-not-human-made-172218-20250508</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists release first x-ray images of UFO they say could...8 May 2025 — A spherical so-called UFO has been discovered in Colombia, an...</p></details>
+   Link:<a href="https://www.uniladtech.com/science/news/scientists-release-xray-images-ufo-not-human-made-172218-20250508" target="_blank" rel="noopener noreferrer nofollow">https://www.uniladtech.com/science/news/scientists-release-xray-images-ufo-not-human-made-172218-20250508</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists release first x-ray images of UFO they say could...8 May 2025 — A spherical so-called UFO has been discovered in Colombia, an...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bugaup.org  
-   Link: <a href="https://www.bugaup.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.bugaup.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BUGA-UPThis site is dedicated to the activistes who have not only risked arrest, but injury through fence-jumping, scaffold-climbing, dog...</p></details>
+   Link:<a href="https://www.bugaup.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.bugaup.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BUGA-UPThis site is dedicated to the activistes who have not only risked arrest, but injury through fence-jumping, scaffold-climbing, dog...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/panama-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/panama-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Panama UFO Sightings and Experience ReportsWe are working as quickly as possible to add all received Panama UFO and alien contact experie...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/panama-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/panama-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Panama UFO Sightings and Experience ReportsWe are working as quickly as possible to add all received Panama UFO and alien contact experie...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/us-news/ufo-or-art-project-bizarre-metallic-sphere-in-colombia-sparks-speculations-among-scientists-that-s-bigger-than-101748183807868.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/ufo-or-art-project-bizarre-metallic-sphere-in-colombia-sparks-speculations-among-scientists-that-s-bigger-than-101748183807868.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or art project? Bizarre metallic sphere in Colombia...25 May 2025 — A bizarre metallic sphere discovered in Colombia has raised new...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/us-news/ufo-or-art-project-bizarre-metallic-sphere-in-colombia-sparks-speculations-among-scientists-that-s-bigger-than-101748183807868.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/ufo-or-art-project-bizarre-metallic-sphere-in-colombia-sparks-speculations-among-scientists-that-s-bigger-than-101748183807868.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or art project? Bizarre metallic sphere in Colombia...25 May 2025 — A bizarre metallic sphere discovered in Colombia has raised new...</p></details>
    Published: May 2025  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability and Psychology of Eyewitness-Centered...8 May 2024 — The Reliability and Psychology of Eyewitness-Centered UFO Experienc...</p></details>
+   Link:<a href="https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/118909947/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability and Psychology of Eyewitness-Centered...8 May 2024 — The Reliability and Psychology of Eyewitness-Centered UFO Experienc...</p></details>
    Published: May 2024  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: 1059therock.iheart.com  
    Title: 2022 03 07 ufo filmed by airline pilot deemed a genuine ufo  
-   Link: <a href="https://1059therock.iheart.com/content/2022-03-07-ufo-filmed-by-airline-pilot-deemed-a-genuine-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://1059therock.iheart.com/content/2022-03-07-ufo-filmed-by-airline-pilot-deemed-a-genuine-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmed By Airline Pilot Deemed A &#x27;Genuine UFO&#x27;7 Mar 2022 — A pilot flying an Airbus A320 on a routine flight over Medellin, Colombia look...</p></details>
+   Link:<a href="https://1059therock.iheart.com/content/2022-03-07-ufo-filmed-by-airline-pilot-deemed-a-genuine-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://1059therock.iheart.com/content/2022-03-07-ufo-filmed-by-airline-pilot-deemed-a-genuine-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filmed By Airline Pilot Deemed A &#x27;Genuine UFO&#x27;7 Mar 2022 — A pilot flying an Airbus A320 on a routine flight over Medellin, Colombia look...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/ufo-ominous-writing-origin-birth-205226745.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/ufo-ominous-writing-origin-birth-205226745.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n, it will be the latest in several cases of alien sightings or findings in Latin...</p></details>
+   Link:<a href="https://www.aol.com/ufo-ominous-writing-origin-birth-205226745.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/ufo-ominous-writing-origin-birth-205226745.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n, it will be the latest in several cases of alien sightings or findings in Latin...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: medium.com  
    Title: The Buga Sphere: Alien Probe or Terrestrial Puzzle?  
-   Link: <a href="https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>late April 2025, shaky videos of its erratic pre-crash “flight” spread across social media, drawing UFO researchers like Jaime Ma...</p></details>
+   Link:<a href="https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EDBuesing/the-buga-sphere-alien-probe-or-terrestrial-puzzle-a-deep-dive-into-a-cosmic-mystery-ed077337285d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>late April 2025, shaky videos of its erratic pre-crash “flight” spread across social media, drawing UFO researchers like Jaime Ma...</p></details>
    Published: April 2025  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/colombian-pilot-ufo-footage-experts-debate-1795774" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/colombian-pilot-ufo-footage-experts-debate-1795774</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ong experts, with some suggesting intelligent movement and others suspecting...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/colombian-pilot-ufo-footage-experts-debate-1795774" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/colombian-pilot-ufo-footage-experts-debate-1795774</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ong experts, with some suggesting intelligent movement and others suspecting...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of UFO reports) investigated a record number of cases-1,501. UFOS violated the restricted air spaces over. Washington, D.C., on two conse...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of UFO reports) investigated a record number of cases-1,501. UFOS violated the restricted air spaces over. Washington, D.C., on two conse...</p></details>

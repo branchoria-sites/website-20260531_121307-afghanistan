@@ -1199,28 +1199,28 @@ The answer is mixed. A 1961 [Karachi file]({{ 'karachi-file/' | relative_url }})
 <img src="{{ "/assets/images/Pakistan_82d220-overview.webp" | relative_url }}" alt="Overview image for What Do Pakistan&#x27;s UFO Cases Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as a Pakistani UFO case?
 
-For this page, a Pakistani UFO case means a sighting or incident reported over Pakistan’s territory or airspace, not a Pakistani media article about foreign UAP controversies. “UFO” is used in its older public sense: an unidentified flying object. The newer official term “UAP”, or unidentified anomalous phenomenon, is broader and is now used by agencies such as the US All-domain Anomaly Resolution Office, which describes its work as a data-driven effort to address unidentified anomalous phenomena rather than as a search for aliens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+For this page, a Pakistani UFO case means a sighting or incident reported over Pakistan’s territory or airspace, not a Pakistani media article about foreign UAP controversies. “UFO” is used in its older public sense: an unidentified flying object. The newer official term “UAP”, or unidentified anomalous phenomenon, is broader and is now used by agencies such as the US All-domain Anomaly Resolution Office, which describes its work as a data-driven effort to address unidentified anomalous phenomena rather than as a search for aliens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-That distinction matters for Pakistan because most available cases never progress beyond “unidentified to the witness” or “unresolved in public reporting”. NASA’s public UAP FAQ states that it has not found credible evidence of extraterrestrial life and that there is no evidence that UAP are extraterrestrial; that does not dismiss every sighting, but it sets a sensible evidential baseline for judging Pakistani claims too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+That distinction matters for Pakistan because most available cases never progress beyond “unidentified to the witness” or “unresolved in public reporting”. NASA’s public UAP FAQ states that it has not found credible evidence of extraterrestrial life and that there is no evidence that UAP are extraterrestrial; that does not dismiss every sighting, but it sets a sensible evidential baseline for judging Pakistani claims too.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 ## The documented chronology is short and patchy
 
 Pakistan’s public chronology is not comparable with the heavily catalogued US or UK record. There is no widely accessible Pakistani government UFO archive, and searches of local reporting point to a few recurring clusters rather than a continuous national investigation history.
 
-The earliest concrete archive lead is a Project Blue Book item titled “1961 04 8677021 Pakistan Karachi”, attributed to the U.S. Air Force and filed in the Project Blue Book collection on the Internet Archive. The item’s metadata identifies it as a 1961 Karachi-related UFO file, three pages long, in a collection of US government and Project Blue Book documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1961-04-8677021-Pakistan-Karachi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1961 04 8677021 Pakistan Karachi</span><span class="citation-popover-snippet">1961 04 8677021 Pakistan Karachi</span></span></span> This does not make it a Pakistani official investigation; it means a Pakistan-based or Pakistan-relevant report entered the US Air Force’s historical UFO paperwork.
+The earliest concrete archive lead is a Project Blue Book item titled “1961 04 8677021 Pakistan Karachi”, attributed to the U.S. Air Force and filed in the Project Blue Book collection on the Internet Archive. The item’s metadata identifies it as a 1961 Karachi-related UFO file, three pages long, in a collection of US government and Project Blue Book documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1961-04-8677021-Pakistan-Karachi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1961 04 8677021 Pakistan Karachi</span><span class="citation-popover-snippet">1961 04 8677021 Pakistan Karachi</span></span></span> This does not make it a Pakistani official investigation; it means a Pakistan-based or Pakistan-relevant report entered the US Air Force’s historical UFO paperwork.
 
-The institutional setting is important. The US National Archives says Project Blue Book records were declassified, that the programme closed in 1969, and that the archive has no information on sightings after that date. It also reports the Air Force’s historical summary: 12,618 sightings were reported to Blue Book from 1947 to 1969, of which 701 remained “Unidentified”; the Air Force concluded that no investigated UFO indicated a national-security threat, advanced technology beyond contemporary science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The institutional setting is important. The US National Archives says Project Blue Book records were declassified, that the programme closed in 1969, and that the archive has no information on sightings after that date. It also reports the Air Force’s historical summary: 12,618 sightings were reported to Blue Book from 1947 to 1969, of which 701 remained “Unidentified”; the Air Force concluded that no investigated UFO indicated a national-security threat, advanced technology beyond contemporary science, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-After that early archival trace, the public Pakistani record becomes mostly media and witness reporting. International civilian databases contain Pakistani entries, but they are usually short narratives rather than investigated case files. One NUFORC report describes a red blinking light seen during a road journey, moving east to west at low apparent altitude; another lists a 2015 Rahim Yar Khan “flash” report with a moving light. These are useful as evidence of public reporting, but weak as evidence of anything anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=57178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=122620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+After that early archival trace, the public Pakistani record becomes mostly media and witness reporting. International civilian databases contain Pakistani entries, but they are usually short narratives rather than investigated case files. One NUFORC report describes a red blinking light seen during a road journey, moving east to west at low apparent altitude; another lists a 2015 Rahim Yar Khan “flash” report with a moving light. These are useful as evidence of public reporting, but weak as evidence of anything anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=57178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=122620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Pakistan_82d220-Illustration-1-dark.svg" | relative_url }}" alt="What Do Pakistan&#x27;s UFO Cases Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2021 PIA sighting is Pakistan’s strongest modern public case
 
-The most important modern Pakistani UFO case is the January 2021 Pakistan International Airlines report. Dawn reported that PIA confirmed the captain of Lahore-bound flight PK-304 had spotted an “extraordinary object” in the airspace between Multan and Sahiwal on 23 January. The aircraft was at 35,000 feet, the object was described as more than 1,000 feet above it, and the captain recorded video that circulated online. PIA’s spokesman cautioned that it was too early to say what had been seen and that it was not necessarily a “flying saucer”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-title">‘Extraordinary’ object spotted in sky: PIA</span><span class="citation-popover-snippet">‘Extraordinary’ object spotted in sky: PIA</span></span></span>
+The most important modern Pakistani UFO case is the January 2021 Pakistan International Airlines report. Dawn reported that PIA confirmed the captain of Lahore-bound flight PK-304 had spotted an “extraordinary object” in the airspace between Multan and Sahiwal on 23 January. The aircraft was at 35,000 feet, the object was described as more than 1,000 feet above it, and the captain recorded video that circulated online. PIA’s spokesman cautioned that it was too early to say what had been seen and that it was not necessarily a “flying saucer”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-title">‘Extraordinary’ object spotted in sky: PIA</span><span class="citation-popover-snippet">‘Extraordinary’ object spotted in sky: PIA</span></span></span>
 
-Other Pakistani reporting placed the sighting near Rahim Yar Khan at around 4pm, with PIA sources describing a very shiny object visible despite daylight. Geo reported that the captain immediately reported the sighting to the control room, while the PIA spokesperson again stressed uncertainty: something had been spotted and reported under required protocol, but nothing certain could be said publicly about its nature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span></span></span>
+Other Pakistani reporting placed the sighting near Rahim Yar Khan at around 4pm, with PIA sources describing a very shiny object visible despite daylight. Geo reported that the captain immediately reported the sighting to the control room, while the PIA spokesperson again stressed uncertainty: something had been spotted and reported under required protocol, but nothing certain could be said publicly about its nature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span></span></span>
 
-The Express Tribune added details from the cockpit video: a 41-second clip from flight PK304, filmed over the Multan-Sialkot region, showing a brilliant white circular object with little or no apparent movement. The same report noted speculative discussion around weather balloons and included a Pakistan Meteorological Department explanation that radiosondes can fly at high altitude, though some quoted observers disputed whether a radiosonde fitted the visual appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">PIA pilot spots UFO. Maybe not...</span></span></span>
+The Express Tribune added details from the cockpit video: a 41-second clip from flight PK304, filmed over the Multan-Sialkot region, showing a brilliant white circular object with little or no apparent movement. The same report noted speculative discussion around weather balloons and included a Pakistan Meteorological Department explanation that radiosondes can fly at high altitude, though some quoted observers disputed whether a radiosonde fitted the visual appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">PIA pilot spots UFO. Maybe not...</span></span></span>
 
 The case is notable because it involved trained aviation crew, a known flight, a rough time and region, and a report through aviation channels. That puts it above casual social-media sightings. But its public evidential ceiling remains low: there is no released radar track, no independent optical calibration, no official final identification, and no public technical analysis matching the object against balloons, aircraft, satellites, atmospheric glare, camera effects, or high-altitude debris.
 
@@ -1230,17 +1230,17 @@ The PIA report is best classed as contested. It is not a debunked hoax, because 
 
 A few features cut both ways. Daylight brightness can feel unusual to pilots and passengers, yet reflective balloons, high-altitude objects, aircraft contrails, glare, and camera exposure effects can all appear striking under the right sun angle. Apparent hovering is also difficult to interpret from a fast-moving aircraft: an object at great distance may seem stationary because the observer lacks reliable range and background reference points.
 
-The radiosonde discussion is especially relevant in Pakistan. The Pakistan Meteorological Department uses balloon flights carrying radiosondes to measure wind speed, direction, humidity, and temperature at different atmospheric levels, according to a local explanation of PMD systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">Pakistan Meteorological Department: all-weather friend...</span></span></span> That does not prove the 2021 PIA object was a weather balloon; it simply keeps balloon-like explanations on the table unless flight logs, launch records, winds, altitude, and video geometry are examined together.
+The radiosonde discussion is especially relevant in Pakistan. The Pakistan Meteorological Department uses balloon flights carrying radiosondes to measure wind speed, direction, humidity, and temperature at different atmospheric levels, according to a local explanation of PMD systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">Pakistan Meteorological Department: all-weather friend...</span></span></span> That does not prove the 2021 PIA object was a weather balloon; it simply keeps balloon-like explanations on the table unless flight logs, launch records, winds, altitude, and video geometry are examined together.
 
-Modern UAP assessment often resolves cases through exactly this kind of mundane comparison. AARO’s public imagery page includes cases resolved as balloons, birds, and ordinary aircraft, as well as unresolved cases where the data were insufficient. Its balloon explanations rely on morphology and movement consistent with lighter-than-air objects drifting with wind speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> The same evidential discipline is what the Pakistani case needs but does not publicly have.
+Modern UAP assessment often resolves cases through exactly this kind of mundane comparison. AARO’s public imagery page includes cases resolved as balloons, birds, and ordinary aircraft, as well as unresolved cases where the data were insufficient. Its balloon explanations rely on morphology and movement consistent with lighter-than-air objects drifting with wind speed and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> The same evidential discipline is what the Pakistani case needs but does not publicly have.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tsZtzFJC3fI" title="Astronautics Expert Reacts to UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tsZtzFJC3fI" target="_blank" rel="noopener noreferrer">Astronautics Expert Reacts to UFO Videos</a></p><p class="youtube-embed-meta">Channel: CNET &middot; Views: 165.8K &middot; Uploaded: July 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tsZtzFJC3fI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tsZtzFJC3fI">Open on YouTube</a></p></div></div></div>
 
 ## The 2022 Islamabad “triangle” video shows the social-media pattern
 
-The February 2022 Islamabad case is the best-known civilian video claim. NDTV reported that Arslan Warraich filmed an object over Islamabad while landing his drone, capturing about 13 minutes of footage and saying he observed it for roughly two hours over DHA 1. He described it as looking like a black round rock to the naked eye, but roughly triangular when zoomed in, with a bulge towards the back. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span>
+The February 2022 Islamabad case is the best-known civilian video claim. NDTV reported that Arslan Warraich filmed an object over Islamabad while landing his drone, capturing about 13 minutes of footage and saying he observed it for roughly two hours over DHA 1. He described it as looking like a black round rock to the naked eye, but roughly triangular when zoomed in, with a bulge towards the back.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span>
 
-This case became popular because it had video, a named witness, and a visually distinctive shape. But it also illustrates why viral UFO footage is hard to evaluate. The object was distant, dark, and apparently slow or stationary. Without a known distance, size, wind profile, camera orientation, focal length, and independent observers with triangulation, a “triangle” in zoomed footage may be a real object, a distorted view of a balloon or kite, a bag-like object, a drone, or a camera/contrast artefact. NDTV’s report also noted that a UFO fact-checking account speculated it could be a kite, which is plausible in the broad sense but not proven from the public material alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span>
+This case became popular because it had video, a named witness, and a visually distinctive shape. But it also illustrates why viral UFO footage is hard to evaluate. The object was distant, dark, and apparently slow or stationary. Without a known distance, size, wind profile, camera orientation, focal length, and independent observers with triangulation, a “triangle” in zoomed footage may be a real object, a distorted view of a balloon or kite, a bag-like object, a drone, or a camera/contrast artefact. NDTV’s report also noted that a UFO fact-checking account speculated it could be a kite, which is plausible in the broad sense but not proven from the public material alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span>
 
 The Islamabad case should therefore be treated as an unresolved public video, not a high-grade incident. Its value is cultural and methodological: it shows how quickly Pakistani sky anomalies can travel through international tabloids and aggregators, while the actual evidence remains thin.
 
@@ -1248,18 +1248,18 @@ The Islamabad case should therefore be treated as an unresolved public video, no
 
 The visible public record clusters around Punjab, Sindh, and Islamabad-Rawalpindi more than around remote regions. That likely reflects reporting density rather than true UFO geography.
 
-Punjab appears in the 2021 PIA case because the Karachi-Lahore route crosses central Pakistan and because locations such as Multan, Sahiwal, Rahim Yar Khan, and the Multan-Sialkot region were mentioned in coverage. This is a major aviation corridor and a region with enough population and media attention for unusual sky reports to spread quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-title">UF O sighting</span><span class="citation-popover-snippet">UF O sighting</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span></span></span>
+Punjab appears in the 2021 PIA case because the Karachi-Lahore route crosses central Pakistan and because locations such as Multan, Sahiwal, Rahim Yar Khan, and the Multan-Sialkot region were mentioned in coverage. This is a major aviation corridor and a region with enough population and media attention for unusual sky reports to spread quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-title">UF O sighting</span><span class="citation-popover-snippet">UF O sighting</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span></span></span>
 
-Karachi and Sindh matter in two different ways. Karachi appears in the 1961 Project Blue Book item, making it the strongest archival anchor for an older Pakistan-related UFO record. Karachi also appears in later aviation anecdotes, including The Express Tribune’s reference to a January 2019 PIA crew report near Karachi in which the captain reportedly suspected a drone and informed air traffic control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1961-04-8677021-Pakistan-Karachi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1961 04 8677021 Pakistan Karachi</span><span class="citation-popover-snippet">1961 04 8677021 Pakistan Karachi</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">PIA pilot spots UFO. Maybe not...</span></span></span>
+Karachi and Sindh matter in two different ways. Karachi appears in the 1961 Project Blue Book item, making it the strongest archival anchor for an older Pakistan-related UFO record. Karachi also appears in later aviation anecdotes, including The Express Tribune’s reference to a January 2019 PIA crew report near Karachi in which the captain reportedly suspected a drone and informed air traffic control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1961-04-8677021-Pakistan-Karachi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1961 04 8677021 Pakistan Karachi</span><span class="citation-popover-snippet">1961 04 8677021 Pakistan Karachi</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">PIA pilot spots UFO. Maybe not...</span></span></span>
 
-Islamabad-Rawalpindi is prominent because official, military, diplomatic, and media attention is concentrated there. That makes any unusual video over the capital more likely to become a national or international story. The 2022 “triangle” video did not become important because it was technically strong; it became important because it combined an urban capital setting with a striking shape and social-media-ready footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span>
+Islamabad-Rawalpindi is prominent because official, military, diplomatic, and media attention is concentrated there. That makes any unusual video over the capital more likely to become a national or international story. The 2022 “triangle” video did not become important because it was technically strong; it became important because it combined an urban capital setting with a striking shape and social-media-ready footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span>
 
 Remote and mountainous areas may well generate unusual sky reports, especially where meteors, satellites, military aircraft, and atmospheric conditions are visible against darker skies. But they are under-represented in searchable English-language public records, which means absence of reports should not be mistaken for absence of sightings.
 
 <img src="{{ "/assets/images/Pakistan_82d220-Illustration-2-dark.svg" | relative_url }}" alt="What Do Pakistan&#x27;s UFO Cases Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and the archive gap
 
-The biggest difference between Pakistan and countries with mature UFO archives is transparency of records. In the United States, Project Blue Book files, Air Force summaries, and later AARO material give researchers at least a documentary trail, even when the conclusions are disputed. The National Archives provides case files, administrative files, microfilm references, and summary statements for Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The biggest difference between Pakistan and countries with mature UFO archives is transparency of records. In the United States, Project Blue Book files, Air Force summaries, and later AARO material give researchers at least a documentary trail, even when the conclusions are disputed. The National Archives provides case files, administrative files, microfilm references, and summary statements for Project Blue Book.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Pakistan, public evidence of a dedicated UFO office or declassified national UAP collection is not apparent in mainstream sources. Sightings that involve aircraft appear to pass through aviation reporting channels, as in the PIA case, but any deeper CAA, air-defence, radar, or intelligence assessment is not normally released. That means Pakistani cases often stop at the media-confirmed stage: “a pilot reported something” rather than “an investigation found X”.
 
@@ -1269,21 +1269,21 @@ This archive gap creates two opposing risks. Believers may treat missing records
 
 A useful Pakistan UFO page should separate three categories rather than treating all sightings as equal.
 
-**Confirmed as reported:** The 2021 [PIA sighting]({{ 'pia-sighting/' | relative_url }}) is confirmed in the limited sense that PIA acknowledged the captain’s report and video. The witness context is strong, but the object’s identity is not publicly established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/2002428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-snippet">Open source on dawn.com.</span></span></span>
+**Confirmed as reported:** The 2021 [PIA sighting]({{ 'pia-sighting/' | relative_url }}) is confirmed in the limited sense that PIA acknowledged the captain’s report and video. The witness context is strong, but the object’s identity is not publicly established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dawn.com/news/2002428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dawn.com</span><span class="citation-popover-snippet">Open source on dawn.com.</span></span></span>
 
-**Contested or unresolved:** The 2022 Islamabad video and short civilian database entries belong here. They may show real objects, but the public evidence is too incomplete to classify them as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested or unresolved:** The 2022 Islamabad video and short civilian database entries belong here. They may show real objects, but the public evidence is too incomplete to classify them as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Plausibly mundane or weak:** Many brief light reports, especially single-witness accounts with no time-synchronised supporting data, are weak by default. They may involve aircraft, drones, satellites, balloons, meteors, birds, kites, lanterns, or camera effects. This is not a dismissal of witnesses; it is a recognition that “unidentified” often describes the observer’s information gap.
 
-**Not supported as extraterrestrial:** No Pakistan-centred case found in the public record provides robust evidence for alien craft. That assessment is consistent with broader official UAP positions: NASA says there is no evidence that UAP are extraterrestrial, while historical Project Blue Book summaries did not find evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Not supported as extraterrestrial:** No Pakistan-centred case found in the public record provides robust evidence for alien craft. That assessment is consistent with broader official UAP positions: NASA says there is no evidence that UAP are extraterrestrial, while historical Project Blue Book summaries did not find evidence of extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaQ6ZWp6QFY" title="UFOs Sighted Over Pakistan | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaQ6ZWp6QFY" target="_blank" rel="noopener noreferrer">UFOs Sighted Over Pakistan | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 216.4K &middot; Uploaded: December 2024 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaQ6ZWp6QFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaQ6ZWp6QFY">Open on YouTube</a></p></div></div></div>
 
 ## How local-source reliability should be judged
 
-Pakistani UFO material ranges from mainstream reporting to unsourced social posts. The most reliable local sources are those that identify the witness context, aircraft or location, time, reporting channel, and official response. Dawn, Geo, and The Express Tribune all add value to the 2021 PIA case because they preserve named or institutional details and include caution from PIA rather than only sensational framing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epaper.dawn.com/DetailImage.php?StoryImage=12_02_2021_007_009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epaper.dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epaper.dawn.com</span><span class="citation-popover-title">Detail Image</span><span class="citation-popover-snippet">Detail Image</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">Pakistan Meteorological Department: all-weather friend...</span></span></span>
+Pakistani UFO material ranges from mainstream reporting to unsourced social posts. The most reliable local sources are those that identify the witness context, aircraft or location, time, reporting channel, and official response. Dawn, Geo, and The Express Tribune all add value to the 2021 PIA case because they preserve named or institutional details and include caution from PIA rather than only sensational framing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://epaper.dawn.com/DetailImage.php?StoryImage=12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epaper.dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epaper.dawn.com</span><span class="citation-popover-title">Detail Image</span><span class="citation-popover-snippet">Detail Image</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span><span class="citation-popover-snippet">News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">Pakistan Meteorological Department: all-weather friend...</span></span></span>
 
-Lower-reliability material includes reposted videos without original metadata, claims copied from foreign tabloids, and social-media captions that add “alien” interpretations not present in the original sighting. International UFO databases are useful for discovery, but entries are often self-reported and rarely investigated. A NUFORC entry can document that a claim was made; it does not by itself verify the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=57178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Lower-reliability material includes reposted videos without original metadata, claims copied from foreign tabloids, and social-media captions that add “alien” interpretations not present in the original sighting. International UFO databases are useful for discovery, but entries are often self-reported and rarely investigated. A NUFORC entry can document that a claim was made; it does not by itself verify the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=57178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The best case file for a Pakistani sighting would include: original unedited video, exact time and coordinates, direction of view, camera model and focal length, aircraft or observer movement, weather data, wind profile, satellite pass checks, balloon launch logs, air-traffic data, and independent witnesses from separated locations. Most public Pakistani cases have only a fraction of that.
 
@@ -1300,194 +1300,194 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
 <img src="{{ "/assets/images/Pakistan_82d220-Illustration-3-dark.svg" | relative_url }}" alt="What Do Pakistan&#x27;s UFO Cases Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Pakistan&#x27;s UFO Cases Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Pakistan&#x27;s UFO Cases Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding official case files and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding official case files and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines contemporary military and governmental UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary military and governmental UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a broad overview of documented UFO cases and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a broad overview of documented UFO cases and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-pakistan-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-pakistan-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1503,7 +1503,7 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1523,7 +1523,7 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1555,7 +1555,7 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1607,7 +1607,7 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1652,7 +1652,7 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1690,212 +1690,211 @@ The fairest conclusion is restrained but not dismissive: Pakistan has real UFO r
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: 1961 04 8677021 Pakistan Karachi  
-   Link: <a href="https://archive.org/details/1961-04-8677021-Pakistan-Karachi" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1961-04-8677021-Pakistan-Karachi</a>  
+   Link:<a href="https://archive.org/details/1961-04-8677021-Pakistan-Karachi" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1961-04-8677021-Pakistan-Karachi</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=57178" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=57178</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=57178" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=57178</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=122620" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122620</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=122620" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122620</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dawn.com  
    Title: ‘Extraordinary’ object spotted in sky: PIA  
-   Link: <a href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1604030</a>  
+   Link:<a href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1604030</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: geo.tv  
    Title: News UFO spotted by Pakistani pilots near Rahim Yar Khan, new video reveals  
-   Link: <a href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight</a>  
+   Link:<a href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tribune.com.pk  
    Title: The Express Tribune  
-   Link: <a href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PIA pilot spots UFO. Maybe not...</p></details>
+   Link:<a href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PIA pilot spots UFO. Maybe not...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tribune.com.pk  
    Title: The Express Tribune  
-   Link: <a href="https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pakistan Meteorological Department: all-weather friend...</p></details>
+   Link:<a href="https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/885711/pakistan-meteorological-department-all-weather-friend</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pakistan Meteorological Department: all-weather friend...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ndtv.com  
    Title: www.ndtv.com Video: Mysterious "Triangle UFO" Spotted Over Islamabad  
-   Link: <a href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082</a>  
+   Link:<a href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dawn.com  
    Title: UF O sighting  
-   Link: <a href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1606902</a>  
+   Link:<a href="https://www.dawn.com/news/1606902" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1606902</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dawn.com  
-   Link: <a href="https://www.dawn.com/news/2002428" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/2002428</a>  
+   Link:<a href="https://www.dawn.com/news/2002428" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/2002428</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: epaper.dawn.com  
    Title: Detail Image  
-   Link: <a href="https://epaper.dawn.com/DetailImage.php?StoryImage=12_02_2021_007_009" target="_blank" rel="noopener noreferrer nofollow">https://epaper.dawn.com/DetailImage.php?StoryImage=12_02_2021_007_009</a>  
+   Link:<a href="https://epaper.dawn.com/DetailImage.php?StoryImage=12" target="_blank" rel="noopener noreferrer nofollow">https://epaper.dawn.com/DetailImage.php?StoryImage=12</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dawn.com  
    Title: Are UFOs for real?  
-   Link: <a href="https://www.dawn.com/news/1344006" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1344006</a>  
+   Link:<a href="https://www.dawn.com/news/1344006" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1344006</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aurora.dawn.com  
    Title: pitching to aliens  
-   Link: <a href="https://aurora.dawn.com/news/1145200/pitching-to-aliens" target="_blank" rel="noopener noreferrer nofollow">https://aurora.dawn.com/news/1145200/pitching-to-aliens</a>  
+   Link:<a href="https://aurora.dawn.com/news/1145200/pitching-to-aliens" target="_blank" rel="noopener noreferrer nofollow">https://aurora.dawn.com/news/1145200/pitching-to-aliens</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
+   Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
+   Link:<a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: history.com  
    Title: project blue book declassified the true story of the hill abduction  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction</a>  
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/643570297038875/posts/1724169008978993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/1724169008978993/</a>  
+   Link:<a href="https://www.facebook.com/groups/643570297038875/posts/1724169008978993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/1724169008978993/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
+   Link:<a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: weather.gov.pk  
    Title: Pakistan Meteorological Department  
-   Link: <a href="https://weather.gov.pk/" target="_blank" rel="noopener noreferrer nofollow">https://weather.gov.pk/</a>  
+   Link:<a href="https://weather.gov.pk/" target="_blank" rel="noopener noreferrer nofollow">https://weather.gov.pk/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: UFO spotted by Pakistani pilots near Rahim Yar Khan  
-   Link: <a href="https://www.youtube.com/watch?v=6AhefTaCIxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6AhefTaCIxI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Secret Files Released | New Classified Documents Reveal Alleged Sightings - Breaking News [suspicious link removed]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6AhefTaCIxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6AhefTaCIxI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Secret Files Released | New Classified Documents Reveal Alleged Sightings - Breaking News [suspicious link removed]...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan  
-   Link: <a href="https://www.youtube.com/watch?v=32yEhKgu0J4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=32yEhKgu0J4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted by Pakistani pilots near Rahim Yar Khan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=32yEhKgu0J4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=32yEhKgu0J4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted by Pakistani pilots near Rahim Yar Khan...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Astronautics Expert Reacts to UFO Videos  
-   Link: <a href="https://www.youtube.com/watch?v=tsZtzFJC3fI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsZtzFJC3fI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tsZtzFJC3fI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsZtzFJC3fI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/developingPak/posts/a-pakistani-satellite-sd-3-shandong-is-being-taken-to-the-launch-site-in-chinasu/1264322069057889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/developingPak/posts/a-pakistani-satellite-sd-3-shandong-is-being-taken-to-the-launch-site-in-chinasu/1264322069057889/</a>  
+   Link:<a href="https://www.facebook.com/developingPak/posts/a-pakistani-satellite-sd-3-shandong-is-being-taken-to-the-launch-site-in-chinasu/1264322069057889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/developingPak/posts/a-pakistani-satellite-sd-3-shandong-is-being-taken-to-the-launch-site-in-chinasu/1264322069057889/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/</a>  
+   Link:<a href="https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WTAM1100/posts/a-bewildered-witness-in-utah-captured-footage-of-a-mysterious-triangular-object-/6457004830994087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTAM1100/posts/a-bewildered-witness-in-utah-captured-footage-of-a-mysterious-triangular-object-/6457004830994087/</a>  
+   Link:<a href="https://www.facebook.com/WTAM1100/posts/a-bewildered-witness-in-utah-captured-footage-of-a-mysterious-triangular-object-/6457004830994087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTAM1100/posts/a-bewildered-witness-in-utah-captured-footage-of-a-mysterious-triangular-object-/6457004830994087/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IndiaToday/posts/10161898310497119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/10161898310497119/</a>  
+   Link:<a href="https://www.facebook.com/IndiaToday/posts/10161898310497119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/10161898310497119/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/proamuofficial/posts/amu-launches-gps-aided-radiosonde-weather-balloon-for-climate-data-measuremental/791798019771998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/proamuofficial/posts/amu-launches-gps-aided-radiosonde-weather-balloon-for-climate-data-measuremental/791798019771998/</a>
+   Link:<a href="https://www.facebook.com/proamuofficial/posts/amu-launches-gps-aided-radiosonde-weather-balloon-for-climate-data-measuremental/791798019771998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/proamuofficial/posts/amu-launches-gps-aided-radiosonde-weather-balloon-for-climate-data-measuremental/791798019771998/</a>

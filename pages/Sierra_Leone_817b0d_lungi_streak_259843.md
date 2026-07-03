@@ -254,14 +254,14 @@ image: /assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-1-soc
 
 ## Introduction
 
-The so-called Lungi streak is the closest Sierra Leone has come in recent years to a widely discussed UFO-style sky event. Reports from June 2025 described a bright descending line or trail seen around Lungi, with observers in and around Freetown also discussing the sighting. What makes the case notable is not the strength of the evidence for an unknown craft, but the opposite: it is a useful example of how an unusual visual event can quickly become a mystery when images are limited, technical data are absent, and social media fills the information gap. The available evidence points first toward ordinary explanations such as a meteor, re-entering debris, an aircraft-related effect, or an atmospheric lighting phenomenon rather than a confirmed unidentified object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
+The so-called Lungi streak is the closest Sierra Leone has come in recent years to a widely discussed UFO-style sky event. Reports from June 2025 described a bright descending line or trail seen around Lungi, with observers in and around Freetown also discussing the sighting. What makes the case notable is not the strength of the evidence for an unknown craft, but the opposite: it is a useful example of how an unusual visual event can quickly become a mystery when images are limited, technical data are absent, and social media fills the information gap. The available evidence points first toward ordinary explanations such as a meteor, re-entering debris, an aircraft-related effect, or an atmospheric lighting phenomenon rather than a confirmed unidentified object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-1-dark.svg" | relative_url }}" alt="Lungi Streak illustration 1" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader Sierra Leone UFO record, the Lungi incident stands out because it generated multiple public witness claims and local media coverage. Yet it also demonstrates why dramatic sightings and strong evidence are not the same thing.
 
 ## What Witnesses Reportedly Saw
 
-The main public account emerged through local reporting and social-media circulation on 6 June 2025. Witnesses described a bright streak or line appearing to descend from the sky over the Lungi area during daylight hours. Some reports suggested that people in Freetown could also see a visible trail. The descriptions focused on the visual appearance of the object rather than on any observed landing, recovered material, radar tracking, or confirmed physical effects on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
+The main public account emerged through local reporting and social-media circulation on 6 June 2025. Witnesses described a bright streak or line appearing to descend from the sky over the Lungi area during daylight hours. Some reports suggested that people in Freetown could also see a visible trail. The descriptions focused on the visual appearance of the object rather than on any observed landing, recovered material, radar tracking, or confirmed physical effects on the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
 
 One reason the sighting attracted attention is that daylight sky events often appear more unusual than night-time ones. A bright object visible against a daytime sky must generally be either highly reflective, unusually luminous, or positioned so that sunlight creates a strong visual contrast. Witnesses frequently interpret such events as something descending, even when the true motion is difficult to judge from a single viewing angle.
 
@@ -301,7 +301,7 @@ Several reported features of the Lungi sighting are compatible with a meteor:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A bright descending appearance.(#endnote-2 "Snippet: June, 2025") <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[sierraloaded.sl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
+* A bright descending appearance.(#endnote-2 "Snippet: June, 2025")<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[sierraloaded.sl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
 * A visible trail or streak.
 * A relatively brief observation window.
 * Wide-area visibility from different locations.
@@ -310,7 +310,7 @@ Several reported features of the Lungi sighting are compatible with a meteor:
 
 Large meteors can also leave persistent atmospheric trails that remain visible for minutes after the main object has disappeared. Wind at high altitude can then distort the trail into unusual shapes that observers interpret as smoke, vapour, or the path of a craft.
 
-The limitation is that no publicly available astronomical analysis has yet linked the Lungi event to a specific recorded meteor. Without timing data and trajectory measurements, the meteor explanation remains plausible rather than confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
+The limitation is that no publicly available astronomical analysis has yet linked the Lungi event to a specific recorded meteor. Without timing data and trajectory measurements, the meteor explanation remains plausible rather than confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
 
 ## Could It Have Been Re-entering Space Debris?
 
@@ -318,7 +318,7 @@ Another possibility is atmospheric re-entry of artificial space debris.
 
 When satellites, rocket stages, or fragments return through the atmosphere, they can produce spectacular glowing trails. Unlike many meteors, re-entering debris often appears slower and may fragment into multiple bright pieces. Witnesses frequently report these events as aircraft crashes, missile launches, or UFOs.
 
-The re-entry hypothesis fits some aspects of the public descriptions because observers focused on a bright trail descending through the sky. However, the available reports do not mention one feature commonly associated with larger re-entry events: multiple luminous fragments travelling together. Public accounts instead centred on a single striking streak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
+The re-entry hypothesis fits some aspects of the public descriptions because observers focused on a bright trail descending through the sky. However, the available reports do not mention one feature commonly associated with larger re-entry events: multiple luminous fragments travelling together. Public accounts instead centred on a single striking streak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
 
 A definitive evaluation would require matching the sighting time against international satellite-tracking records. No publicly cited analysis of that kind accompanied the local reports.
 
@@ -364,7 +364,7 @@ Several factors work against a UFO interpretation:
 
 Importantly, an event can be genuinely unexplained at first while still being most likely ordinary. Many famous sky mysteries eventually turn out to involve meteors, re-entering space hardware, balloons, aircraft, or atmospheric optics once additional data become available.
 
-The Lungi sighting currently sits in that category: visually striking, publicly discussed, but lacking the evidence needed to elevate it into a strong anomalous case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
+The Lungi sighting currently sits in that category: visually striking, publicly discussed, but lacking the evidence needed to elevate it into a strong anomalous case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span>
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-3-dark.svg" | relative_url }}" alt="Lungi Streak illustration 3" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evidence Would Change the Assessment?
@@ -408,197 +408,197 @@ Meteor networks and satellite-tracking databases sometimes identify events after
 
 The Lungi incident is valuable because it illustrates the reality of Sierra Leone's UFO landscape. There are public sightings, rumours and moments of genuine uncertainty, but very little in the way of systematic investigation or archived technical evidence.
 
-Rather than serving as proof of an extraordinary craft, the streak demonstrates how a visually dramatic event can move rapidly from observation to speculation. The strongest current assessment remains cautious: the sighting appears consistent with several ordinary explanations, especially a meteor-like event, atmospheric re-entry, or an aviation-related visual effect. Until stronger evidence emerges, the Lungi streak is best understood as Sierra Leone's most discussed recent sky mystery rather than its strongest UFO case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">June, 2025...</span></span></span>
+Rather than serving as proof of an extraordinary craft, the streak demonstrates how a visually dramatic event can move rapidly from observation to speculation. The strongest current assessment remains cautious: the sighting appears consistent with several ordinary explanations, especially a meteor-like event, atmospheric re-entry, or an aviation-related visual effect. Until stronger evidence emerges, the Lungi streak is best understood as Sierra Leone's most discussed recent sky mystery rather than its strongest UFO case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">mysterious bright line lungi citizens</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">June, 2025...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Lungi Streak Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Lungi Streak Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses investigation standards and ordinary explanations for dramatic sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigation standards and ordinary explanations for dramatic sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating brief visual sky events and limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating brief visual sky events and limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful comparison point for judging evidence quality in sighting cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison point for judging evidence quality in sighting cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Relevant to meteor and fireball interpretations of bright streak events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to meteor and fireball interpretations of bright streak events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-lungi-streak-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-lungi-streak-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ Rather than serving as proof of an extraordinary craft, the streak demonstrates 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ Rather than serving as proof of an extraordinary craft, the streak demonstrates 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ Rather than serving as proof of an extraordinary craft, the streak demonstrates 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ Rather than serving as proof of an extraordinary craft, the streak demonstrates 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ Rather than serving as proof of an extraordinary craft, the streak demonstrates 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,107 +801,106 @@ Rather than serving as proof of an extraordinary craft, the streak demonstrates 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sierraloaded.sl  
    Title: mysterious bright line lungi citizens  
-   Link: <a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</p></details>
+   Link:<a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Bright Line from Sky in Lungi Sparks Curiosity...7 Jun 2025 — Multiple witnesses reported a bright line or streak...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025...</p></details>
+   Link:<a href="https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: 3 hours ago something just fell from the skies in sierra leone landing in lungi  
-   Link: <a href="https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 hours ago! Something just fell from the skies in Sierra...... 5th of June, 2025, something strange just fell from... Maybe a...</p></details>
+   Link:<a href="https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 hours ago! Something just fell from the skies in Sierra...... 5th of June, 2025, something strange just fell from... Maybe a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: a captivating event unfolded in the skies over the coastal town of port loko dis  
-   Link: <a href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SierraloadedUFO. 10mo. 1. Dauda Bangura. I took similar picture two days ago... On Monday 16th June 2025, AIR SIERRA LEONE officially co...</p></details>
+   Link:<a href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SierraloadedUFO. 10mo. 1. Dauda Bangura. I took similar picture two days ago... On Monday 16th June 2025, AIR SIERRA LEONE officially co...</p></details>
    Published: June 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/yakisawyerr/posts/i-returned-to-the-mayors-office-on-30th-october-so-7th-february-2024-marked-the-/947933503365726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yakisawyerr/posts/i-returned-to-the-mayors-office-on-30th-october-so-7th-february-2024-marked-the-/947933503365726/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I returned to the Mayor&#x27;s office on 30th October so 7th...While the Council received its final quarter 2024 allocation on 18 August, no...</p></details>
+   Link:<a href="https://www.facebook.com/yakisawyerr/posts/i-returned-to-the-mayors-office-on-30th-october-so-7th-february-2024-marked-the-/947933503365726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yakisawyerr/posts/i-returned-to-the-mayors-office-on-30th-october-so-7th-february-2024-marked-the-/947933503365726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I returned to the Mayor&#x27;s office on 30th October so 7th...While the Council received its final quarter 2024 allocation on 18 August, no...</p></details>
    Published: february 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/151260098367404/posts/3162789297214454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/151260098367404/posts/3162789297214454/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecomog soldier&#x27;s ambush experience in Sierra LeoneFrom Mabora my location (NIBAT 35) Sierra Leone, Headings To Freetown On A Diesel Truc...</p></details>
+   Link:<a href="https://www.facebook.com/groups/151260098367404/posts/3162789297214454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/151260098367404/posts/3162789297214454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecomog soldier&#x27;s ambush experience in Sierra LeoneFrom Mabora my location (NIBAT 35) Sierra Leone, Headings To Freetown On A Diesel Truc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>what just happened in sierra leone — to be specific, lungi...It is said that on the 5th of June, 2025, something strange just fell from...</p></details>
+   Link:<a href="https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Arunatalkshow/videos/what-just-happened-in-sierra-leone-to-be-specific-lungi-airport-will-leave-you-i/709517818332394/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what just happened in sierra leone — to be specific, lungi...It is said that on the 5th of June, 2025, something strange just fell from...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/346216457073918/posts/808711384157754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/346216457073918/posts/808711384157754/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ry from Lungi, you will start seeing the beauty of...</p></details>
+   Link:<a href="https://www.facebook.com/groups/346216457073918/posts/808711384157754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/346216457073918/posts/808711384157754/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ry from Lungi, you will start seeing the beauty of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sierra-leone.org  
-   Link: <a href="https://www.sierra-leone.org/Other-Conflict/TRCVolume3A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sierra-leone.org/Other-Conflict/TRCVolume3A.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 3A: Chapter OneOn 23 March 1991, armed conflict broke out in Sierra Leone when forces crossed the border from Liberia into the tow...</p></details>
+   Link:<a href="https://www.sierra-leone.org/Other-Conflict/TRCVolume3A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sierra-leone.org/Other-Conflict/TRCVolume3A.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 3A: Chapter OneOn 23 March 1991, armed conflict broke out in Sierra Leone when forces crossed the border from Liberia into the tow...</p></details>
    Published: March 1991  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/bulletinofafrica1422afri/bulletinofafrica1422afri_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bulletinofafrica1422afri/bulletinofafrica1422afri_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Leone. E-mail: factsfinding@yahoo.com. South Africa: Steven...</p></details>
+   Link:<a href="https://archive.org/stream/bulletinofafrica1422afri/bulletinofafrica1422afri_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bulletinofafrica1422afri/bulletinofafrica1422afri_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Leone. E-mail: factsfinding@yahoo.com. South Africa: Steven...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/paul_the_history_dude/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/paul_the_history_dude/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cularly the Vietnam conflict. Follow. Message...</p></details>
+   Link:<a href="https://www.instagram.com/paul_the_history_dude/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/paul_the_history_dude/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cularly the Vietnam conflict. Follow. Message...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dhnet.org.br  
-   Link: <a href="https://www.dhnet.org.br/verdade/mundo/serraleoa/cv_serra_leoa_volume_3a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhnet.org.br/verdade/mundo/serraleoa/cv_serra_leoa_volume_3a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>various groups that make up Sierra Leone...</p></details>
+   Link:<a href="https://www.dhnet.org.br/verdade/mundo/serraleoa/cv_serra_leoa_volume_3a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhnet.org.br/verdade/mundo/serraleoa/cv_serra_leoa_volume_3a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>various groups that make up Sierra Leone...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Video shows 7-ton meteor exploding across the sky during the day  
-   Link: <a href="https://www.youtube.com/watch?v=tcIoO7F88tQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tcIoO7F88tQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debris from SpaceX Starship flight 8 explosion streaks across Bahamas night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tcIoO7F88tQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tcIoO7F88tQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris from SpaceX Starship flight 8 explosion streaks across Bahamas night sky...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Debris from Space X Starship flight 8 explosion streaks across Bahamas night sky  
-   Link: <a href="https://www.youtube.com/watch?v=FJCQUnCx0sY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJCQUnCx0sY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Fireball&quot; streaks across the sky | What we know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FJCQUnCx0sY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJCQUnCx0sY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Fireball&quot; streaks across the sky | What we know...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Fireball streaks across skies of several European cities  
-   Link: <a href="https://www.youtube.com/watch?v=fb-2l8NIGJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fb-2l8NIGJQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video shows 7-ton meteor exploding across the sky during the day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fb-2l8NIGJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fb-2l8NIGJQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video shows 7-ton meteor exploding across the sky during the day...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: "Fireball" streaks across the sky | What we know  
-   Link: <a href="https://www.youtube.com/watch?v=eYgKFicR63k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYgKFicR63k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos on social media show Starship debris streaming across the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eYgKFicR63k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYgKFicR63k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos on social media show Starship debris streaming across the sky...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Videos on social media show Starship debris streaming across the sky  
-   Link: <a href="https://www.youtube.com/watch?v=D0vRGkPsbYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D0vRGkPsbYc</a>
+   Link:<a href="https://www.youtube.com/watch?v=D0vRGkPsbYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D0vRGkPsbYc</a>

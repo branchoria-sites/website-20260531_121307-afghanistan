@@ -307,194 +307,194 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
 <img src="{{ "/assets/images/Belarus_027a12_solved_belarus_ufos_0a64d7-Illustration-3-dark.svg" | relative_url }}" alt="Solved Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_solved_belarus_ufos_0a64d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_solved_belarus_ufos_0a64d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Explains Many Belarus UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Explains Many Belarus UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains classification and investigation of reports later solved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classification and investigation of reports later solved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison cases where investigation narrowed possibilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison cases where investigation narrowed possibilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains common astronomical misinterpretations behind UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common astronomical misinterpretations behind UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers recognise meteors, satellites and planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise meteors, satellites and planets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-explains-many-belarus-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-explains-many-belarus-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -697,134 +697,133 @@ In practise, resolving reported UFOs in Belarus hinges on matching eyewitness ac
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: charter97.org  
-   Link: <a href="https://charter97.org/ru/news/2023/4/20/544954/" target="_blank" rel="noopener noreferrer nofollow">https://charter97.org/ru/news/2023/4/20/544954/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Новости Беларуси - Хартия&#x27;97April 20, 2023...</p></details>
+   Link:<a href="https://charter97.org/ru/news/2023/4/20/544954/" target="_blank" rel="noopener noreferrer nofollow">https://charter97.org/ru/news/2023/4/20/544954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Новости Беларуси - Хартия&#x27;97April 20, 2023...</p></details>
    Published: April 20, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.belsat.eu  
    Title: It was recorded by three cameras of the Belarusian Meteor Network.Read more  
-   Link: <a href="https://en.belsat.eu/89191157/night-turns-blue-as-rare-iron-meteoroid-explodes-over-belarus" target="_blank" rel="noopener noreferrer nofollow">https://en.belsat.eu/89191157/night-turns-blue-as-rare-iron-meteoroid-explodes-over-belarus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night turns blue as rare iron meteoroid explodes over BelarusSeptember 29, 2025 — 29 Sept 2025 — The flash was bright, almost like...</p></details>
+   Link:<a href="https://en.belsat.eu/89191157/night-turns-blue-as-rare-iron-meteoroid-explodes-over-belarus" target="_blank" rel="noopener noreferrer nofollow">https://en.belsat.eu/89191157/night-turns-blue-as-rare-iron-meteoroid-explodes-over-belarus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night turns blue as rare iron meteoroid explodes over BelarusSeptember 29, 2025 — 29 Sept 2025 — The flash was bright, almost like...</p></details>
    Published: September 29, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/belarus-says-it-shot-down-some-drones-that-went-astray-during-russia-ukraine-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/belarus-says-it-shot-down-some-drones-that-went-astray-during-russia-ukraine-2025-09-10/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Major General Pavel Muraveiko, Chief of the Belarus General Staff, stated that these drones had lost their course because of electronic w...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/belarus-says-it-shot-down-some-drones-that-went-astray-during-russia-ukraine-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/belarus-says-it-shot-down-some-drones-that-went-astray-during-russia-ukraine-2025-09-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major General Pavel Muraveiko, Chief of the Belarus General Staff, stated that these drones had lost their course because of electronic w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: charter97.org  
    Title: Стало известно, какие дроны падали в Беларуси  
-   Link: <a href="https://charter97.org/ru/news/2026/3/22/677911/" target="_blank" rel="noopener noreferrer nofollow">https://charter97.org/ru/news/2026/3/22/677911/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Новости Беларуси - Хартия&#x27;97March 22, 2026 — СТАЛО ИЗВЕСТНО, КАКИЕ ДРОНЫ ПАДАЛИ В БЕЛАРУСИ 1 * 22.03.2026, 19:47 * 3,322 Image: Стало изв...</p></details>
+   Link:<a href="https://charter97.org/ru/news/2026/3/22/677911/" target="_blank" rel="noopener noreferrer nofollow">https://charter97.org/ru/news/2026/3/22/677911/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Новости Беларуси - Хартия&#x27;97March 22, 2026 — СТАЛО ИЗВЕСТНО, КАКИЕ ДРОНЫ ПАДАЛИ В БЕЛАРУСИ 1 * 22.03.2026, 19:47 * 3,322 Image: Стало изв...</p></details>
    Published: March 22, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.belsat.eu  
-   Link: <a href="https://en.belsat.eu/92057320/belarusian-air-force-three-drones-posing-a-threat-shot-down-since-start-of-2026" target="_blank" rel="noopener noreferrer nofollow">https://en.belsat.eu/92057320/belarusian-air-force-three-drones-posing-a-threat-shot-down-since-start-of-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: Three drones posing a threat shot...12 Mar 2026 — According to the monitoring initiative BELPOL, 42 UAVs crashed in the Brest...</p></details>
+   Link:<a href="https://en.belsat.eu/92057320/belarusian-air-force-three-drones-posing-a-threat-shot-down-since-start-of-2026" target="_blank" rel="noopener noreferrer nofollow">https://en.belsat.eu/92057320/belarusian-air-force-three-drones-posing-a-threat-shot-down-since-start-of-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: Three drones posing a threat shot...12 Mar 2026 — According to the monitoring initiative BELPOL, 42 UAVs crashed in the Brest...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: 2025 Russian drone incursion into Poland  
-   Link: <a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rferl.org  
    Title: Radio Free Europe/Radio Liberty Look Who's Shooting Down Russian Drones: Belarus  
-   Link: <a href="https://www.rferl.org/a/belarus-russia-drones-warfare-intrusion-nato-poland/33547238.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/belarus-russia-drones-warfare-intrusion-nato-poland/33547238.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RadioFreeEurope/RadioLibertyLook Who&#x27;s Shooting Down Russian Drones: BelarusOctober 3, 2025 — 3 Oct 2025 — Since July 2024, at least 700...</p></details>
+   Link:<a href="https://www.rferl.org/a/belarus-russia-drones-warfare-intrusion-nato-poland/33547238.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/belarus-russia-drones-warfare-intrusion-nato-poland/33547238.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RadioFreeEurope/RadioLibertyLook Who&#x27;s Shooting Down Russian Drones: BelarusOctober 3, 2025 — 3 Oct 2025 — Since July 2024, at least 700...</p></details>
    Published: October 3, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: english.nv.ua  
-   Link: <a href="https://english.nv.ua/russian-war/lithuania-says-drone-that-crashed-near-belarus-border-may-have-been-ukrainian-50594468.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/russian-war/lithuania-says-drone-that-crashed-near-belarus-border-may-have-been-ukrainian-50594468.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Voice of UkraineLithuania says drone that crashed near Belarus border may...24 Mar 2026 — Lithuanian officials say a drone that...</p></details>
+   Link:<a href="https://english.nv.ua/russian-war/lithuania-says-drone-that-crashed-near-belarus-border-may-have-been-ukrainian-50594468.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/russian-war/lithuania-says-drone-that-crashed-near-belarus-border-may-have-been-ukrainian-50594468.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Voice of UkraineLithuania says drone that crashed near Belarus border may...24 Mar 2026 — Lithuanian officials say a drone that...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apnews.com  
    Title: AP News Balloons from Belarus cross into Polish airspace for a third night  
-   Link: <a href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Polish Armed Forces described these incidents, occurring between January 31 and February 1, as Belarusian attempts to test Poland’s a...</p></details>
+   Link:<a href="https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1c1a09b5fb2cc2b0b9e13b91409e890e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Polish Armed Forces described these incidents, occurring between January 31 and February 1, as Belarusian attempts to test Poland’s a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lrt.lt  
-   Link: <a href="https://www.lrt.lt/en/news-in-english/19/2742115/lrt-investigation-lithuanian-sim-cards-used-to-track-smuggling-balloons-from-belarus" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/en/news-in-english/19/2742115/lrt-investigation-lithuanian-sim-cards-used-to-track-smuggling-balloons-from-belarus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lietuvos Radijas ir TelevizijaLRT Investigation. Lithuanian SIM cards used to track smuggling balloons from Belarus - LRTNovember 12, 2025...</p></details>
+   Link:<a href="https://www.lrt.lt/en/news-in-english/19/2742115/lrt-investigation-lithuanian-sim-cards-used-to-track-smuggling-balloons-from-belarus" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/en/news-in-english/19/2742115/lrt-investigation-lithuanian-sim-cards-used-to-track-smuggling-balloons-from-belarus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lietuvos Radijas ir TelevizijaLRT Investigation. Lithuanian SIM cards used to track smuggling balloons from Belarus - LRTNovember 12, 2025...</p></details>
    Published: November 12, 2025  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: inquisitr.com  
-   Link: <a href="https://www.inquisitr.com/mysterious-orb-ufo-fleet-filmed-over-belarus-proof-of-extraterrestrial-visitation-ufo-hunters-claim-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/mysterious-orb-ufo-fleet-filmed-over-belarus-proof-of-extraterrestrial-visitation-ufo-hunters-claim-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inquisitr NewsMay 26, 2016 — MYSTERIOUS ORB UFO FLEET FILMED OVER BELARUS, PROOF OF EXTRATERRESTRIAL VISITATION, UFO HUNTERS CLAIM [VIDEO...</p></details>
+   Link:<a href="https://www.inquisitr.com/mysterious-orb-ufo-fleet-filmed-over-belarus-proof-of-extraterrestrial-visitation-ufo-hunters-claim-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/mysterious-orb-ufo-fleet-filmed-over-belarus-proof-of-extraterrestrial-visitation-ufo-hunters-claim-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inquisitr NewsMay 26, 2016 — MYSTERIOUS ORB UFO FLEET FILMED OVER BELARUS, PROOF OF EXTRATERRESTRIAL VISITATION, UFO HUNTERS CLAIM [VIDEO...</p></details>
    Published: May 26, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: x.com  
-   Link: <a href="https://x.com/bayraktar_1love/status/1648952886641000449" target="_blank" rel="noopener noreferrer nofollow">https://x.com/bayraktar_1love/status/1648952886641000449</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor, satellite, space debrisLast night, Kyiv residents observed a strange, unusual, bright flash in the sky. The flash was also observ...</p></details>
+   Link:<a href="https://x.com/bayraktar_1love/status/1648952886641000449" target="_blank" rel="noopener noreferrer nofollow">https://x.com/bayraktar_1love/status/1648952886641000449</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meteor, satellite, space debrisLast night, Kyiv residents observed a strange, unusual, bright flash in the sky. The flash was also observ...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: grani.lv  
-   Link: <a href="https://www.grani.lv/155191" target="_blank" rel="noopener noreferrer nofollow">https://www.grani.lv/155191</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>РЫ С КОНТРАБАНДОЙ И ПОЧЕМУ ИХ ПОЧТИ НЕ ВОЗМОЖНО СБИТЬ Image Летящие из Беларуси метеозонды с контрабандными сигаретами спровоцировали кри...</p></details>
+   Link:<a href="https://www.grani.lv/155191" target="_blank" rel="noopener noreferrer nofollow">https://www.grani.lv/155191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>РЫ С КОНТРАБАНДОЙ И ПОЧЕМУ ИХ ПОЧТИ НЕ ВОЗМОЖНО СБИТЬ Image Летящие из Беларуси метеозонды с контрабандными сигаретами спровоцировали кри...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lrt.lt  
-   Link: <a href="https://www.lrt.lt/ru/novosti/17/2727231/ekspert-o-sharakh-iz-belarusi-mogut-byt-zameshany-belorusskie-meteorologi-i-armiia" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/ru/novosti/17/2727231/ekspert-o-sharakh-iz-belarusi-mogut-byt-zameshany-belorusskie-meteorologi-i-armiia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2025 — ЭКСПЕРТ — О ШАРАХ ИЗ БЕЛАРУСИ: МОГУТ БЫТЬ ЗАМЕШАНЫ БЕЛОРУССКИЕ МЕТЕОРОЛОГИ И АРМИЯ 28 ЭБ Элизабет Бержанските, LRT...</p></details>
+   Link:<a href="https://www.lrt.lt/ru/novosti/17/2727231/ekspert-o-sharakh-iz-belarusi-mogut-byt-zameshany-belorusskie-meteorologi-i-armiia" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/ru/novosti/17/2727231/ekspert-o-sharakh-iz-belarusi-mogut-byt-zameshany-belorusskie-meteorologi-i-armiia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2025 — ЭКСПЕРТ — О ШАРАХ ИЗ БЕЛАРУСИ: МОГУТ БЫТЬ ЗАМЕШАНЫ БЕЛОРУССКИЕ МЕТЕОРОЛОГИ И АРМИЯ 28 ЭБ Элизабет Бержанските, LRT...</p></details>
    Published: October 28, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: belaruss chief of staff says some drones have been destroyed by the countrys air  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/belaruss-chief-of-staff-says-some-drones-have-been-destroyed-by-the-countrys-air/1204373621727656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/belaruss-chief-of-staff-says-some-drones-have-been-destroyed-by-the-countrys-air/1204373621727656/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belarus&#x27;s chief of staff says some drones have been...13.07.2024 Ukrainian defenders down 4 Shahed drones and 5th flies to Belarus Four...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/belaruss-chief-of-staff-says-some-drones-have-been-destroyed-by-the-countrys-air/1204373621727656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/belaruss-chief-of-staff-says-some-drones-have-been-destroyed-by-the-countrys-air/1204373621727656/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belarus&#x27;s chief of staff says some drones have been...13.07.2024 Ukrainian defenders down 4 Shahed drones and 5th flies to Belarus Four...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rferl.org  
    Title: 'Shoot It Down!': The Tragic Tale Of Two American Balloonists Over Belarus  
-   Link: <a href="https://www.rferl.org/a/belarus-american-balloonists-tragedy-25-years-shot-down/30975038.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/belarus-american-balloonists-tragedy-25-years-shot-down/30975038.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloonist John Stuart-Jervis in 1986. In its final report, the committee concluded the causes of the shooting were: &quot;Unauthorized flight...</p></details>
+   Link:<a href="https://www.rferl.org/a/belarus-american-balloonists-tragedy-25-years-shot-down/30975038.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/belarus-american-balloonists-tragedy-25-years-shot-down/30975038.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloonist John Stuart-Jervis in 1986. In its final report, the committee concluded the causes of the shooting were: &quot;Unauthorized flight...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rferl.org  
    Title: Up In The Air: Are Balloons From Belarus A Smuggling Operation?  
-   Link: <a href="https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Hybrid Attack? Or Both?November 12, 2025 — UP IN THE AIR: ARE BALLOONS FROM BELARUS A SMUGGLING OPERATION? A HYBRID ATTACK? OR BOTH? *...</p></details>
+   Link:<a href="https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/balloons-belarus-smuggling-hybrid-attack-lithuania-cigarettes/33586992.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Hybrid Attack? Or Both?November 12, 2025 — UP IN THE AIR: ARE BALLOONS FROM BELARUS A SMUGGLING OPERATION? A HYBRID ATTACK? OR BOTH? *...</p></details>
    Published: November 12, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: businessinsider.com  
    Title: mystery flash over kyiv unexplained nasa denies satellite meteor ukraine 2023 4  
-   Link: <a href="https://www.businessinsider.com/mystery-flash-over-kyiv-unexplained-nasa-denies-satellite-meteor-ukraine-2023-4" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/mystery-flash-over-kyiv-unexplained-nasa-denies-satellite-meteor-ukraine-2023-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA denied it was a falling satellite, and experts still can&#x27;t confirm what caused it. By Mia...Read more...</p></details>
+   Link:<a href="https://www.businessinsider.com/mystery-flash-over-kyiv-unexplained-nasa-denies-satellite-meteor-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/mystery-flash-over-kyiv-unexplained-nasa-denies-satellite-meteor-ukraine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA denied it was a falling satellite, and experts still can&#x27;t confirm what caused it. By Mia...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/lithuania-says-a-suspected-drone-enters-its-airspace-crashes-into-lake-near-bela/1500588245265236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/lithuania-says-a-suspected-drone-enters-its-airspace-crashes-into-lake-near-bela/1500588245265236/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latvian Armed Forces detected the drone&#x27;s entry into their country...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/posts/lithuania-says-a-suspected-drone-enters-its-airspace-crashes-into-lake-near-bela/1500588245265236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/lithuania-says-a-suspected-drone-enters-its-airspace-crashes-into-lake-near-bela/1500588245265236/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Latvian Armed Forces detected the drone&#x27;s entry into their country...Read more...</p></details>

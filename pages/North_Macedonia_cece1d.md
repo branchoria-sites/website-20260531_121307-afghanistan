@@ -1194,7 +1194,7 @@ image: /assets/images/North_Macedonia_cece1d-overview-social.jpg
 
 ## The national picture is sparse, not sensational
 
-North Macedonia’s public UFO record is noticeably thinner than that of larger European countries with long-running civilian UFO groups, national press archives, or declassified defence files. Searches of accessible open sources turn up scattered cases rather than a continuous archive. The National UFO Reporting Center, a US-based civilian reporting database, includes at least one clear Macedonia entry from 2006 describing an orange-red triangular object over Skopje, and its gallery also indexes a 2018 Butel Municipality report described as a fast boomerang-shaped object with white lights. These are useful as leads, but they are witness-submitted reports rather than official investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+North Macedonia’s public UFO record is noticeably thinner than that of larger European countries with long-running civilian UFO groups, national press archives, or declassified defence files. Searches of accessible open sources turn up scattered cases rather than a continuous archive. The National UFO Reporting Center, a US-based civilian reporting database, includes at least one clear Macedonia entry from 2006 describing an orange-red triangular object over Skopje, and its gallery also indexes a 2018 Butel Municipality report described as a fast boomerang-shaped object with white lights. These are useful as leads, but they are witness-submitted reports rather than official investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d-overview.webp" | relative_url }}" alt="Overview image for What Is Really in North Macedonia&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 This matters because the reliability of a UFO case depends less on how dramatic the description sounds and more on whether independent records exist: exact time, location, direction, duration, weather, radar or air-traffic data, camera metadata, multiple separated witnesses, and a checked list of prosaic explanations. Most North Macedonia material available publicly does not meet that standard. The stronger conclusion is therefore conservative: there are reported UFO sightings in North Macedonia, but no publicly documented national incident has reached the evidential level of a confirmed anomalous craft or an unresolved official case.
@@ -1203,11 +1203,11 @@ This matters because the reliability of a UFO case depends less on how dramatic 
 
 The known public chronology is short and uneven, with Skopje appearing more often than rural regions simply because it has more people, media, cameras, and aviation traffic.
 
-The most substantial database entry is the 13 August 2006 Skopje report in NUFORC. The witness described one orange-red triangular object, visible for two to three minutes at 23:30 local time, allegedly seen in two locations 18 kilometres apart, with “all TV stations” said to have reported it. The entry claims around 100 observers, but the public record available in NUFORC is still a short witness text rather than a documented investigation with video, station names, flight checks, or meteor data attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The most substantial database entry is the 13 August 2006 Skopje report in NUFORC. The witness described one orange-red triangular object, visible for two to three minutes at 23:30 local time, allegedly seen in two locations 18 kilometres apart, with “all TV stations” said to have reported it. The entry claims around 100 observers, but the public record available in NUFORC is still a short witness text rather than a documented investigation with video, station names, flight checks, or meteor data attached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-A later cluster is more media-like than archival. In December 2018, a Serbian outlet reported that people in Skopje had photographed a “mysterious red ball” over the Bardovci area, describing it as visible to the naked eye and rising into the sky. The account is interesting because it gives a place and appearance, but it is not accompanied by a technical analysis that rules out aircraft lights, drones, lanterns, camera artefacts, or atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraf.rs">[Telegraf.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraf.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A later cluster is more media-like than archival. In December 2018, a Serbian outlet reported that people in Skopje had photographed a “mysterious red ball” over the Bardovci area, describing it as visible to the naked eye and rising into the sky. The account is interesting because it gives a place and appearance, but it is not accompanied by a technical analysis that rules out aircraft lights, drones, lanterns, camera artefacts, or atmospheric effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraf.rs">[Telegraf.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraf.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Other items are weaker still. A 2018 Flickr upload titled “UFO” from Skopje and a 2017 YouTube sighting claim from Skopje show how easily modern UFO records become image captions and social posts rather than verifiable cases. They can be part of the cultural record, but without metadata, triangulation, and independent checks, they should not be treated as strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/aiva/43084441042" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Other items are weaker still. A 2018 Flickr upload titled “UFO” from Skopje and a 2017 YouTube sighting claim from Skopje show how easily modern UFO records become image captions and social posts rather than verifiable cases. They can be part of the cultural record, but without metadata, triangulation, and independent checks, they should not be treated as strong evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/aiva/43084441042" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really in North Macedonia&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Skopje produces most of the visible record
@@ -1216,17 +1216,17 @@ Skopje’s prominence in the record probably reflects observation bias more than
 
 That does not mean rural reports should be ignored. North Macedonia’s terrain includes mountains, valleys, lakes, and darker skies around areas such as Ohrid, Prespa, Mavrovo, and the eastern highlands. These settings can make ordinary phenomena look unfamiliar: aircraft lights appear and disappear behind ridges, bright planets seem unusually vivid in low-light areas, and meteors can dominate the entire sky for a few seconds. The difference is that rural sightings are less likely to generate multiple independent videos or news reports.
 
-Lake Ohrid is especially relevant because it has produced strong evidence of natural sky events. In August 2024, a Perseid fireball was recorded over the Lake Ohrid region by a local webcam system, with Space.com reporting that the meteor lasted about seven seconds at around 1:03 a.m. local time. That case is not a UFO in the anomalous sense; it is a useful reminder that North Macedonia’s skies can produce dramatic, sudden light events that casual witnesses may initially describe as unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Watch a Perseid fireball light up the skies above</span><span class="citation-popover-snippet">Watch a Perseid fireball light up the skies above</span></span></span>
+Lake Ohrid is especially relevant because it has produced strong evidence of natural sky events. In August 2024, a Perseid fireball was recorded over the Lake Ohrid region by a local webcam system, with Space.com reporting that the meteor lasted about seven seconds at around 1:03 a.m. local time. That case is not a UFO in the anomalous sense; it is a useful reminder that North Macedonia’s skies can produce dramatic, sudden light events that casual witnesses may initially describe as unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Watch a Perseid fireball light up the skies above</span><span class="citation-popover-snippet">Watch a Perseid fireball light up the skies above</span></span></span>
 
 ## Official records: what is visible, and what is missing
 
 There is no easily accessible North Macedonian equivalent of the British Ministry of Defence UFO files or the US government’s UAP release pages. Publicly visible defence and aviation structures focus on airspace control, civil aviation, drones, and NATO integration rather than historical UFO investigation.
 
-North Macedonia joined NATO on 27 March 2020, and NATO describes Greece and Italy as covering North Macedonia’s airspace through the Alliance’s air-policing system. That makes the country’s current airspace environment more formally integrated than it was before NATO accession, but NATO air policing is not a public UFO archive. It is a peacetime airspace security function, designed to monitor and respond to airspace incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/news-and-events/articles/news/2020/03/27/north-macedonia-joins-nato-as-30th-ally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">north macedonia joins nato as 30th ally</span><span class="citation-popover-snippet">north macedonia joins nato as 30th ally</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">air policing</span></span></span>
+North Macedonia joined NATO on 27 March 2020, and NATO describes Greece and Italy as covering North Macedonia’s airspace through the Alliance’s air-policing system. That makes the country’s current airspace environment more formally integrated than it was before NATO accession, but NATO air policing is not a public UFO archive. It is a peacetime airspace security function, designed to monitor and respond to airspace incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/news-and-events/articles/news/2020/03/27/north-macedonia-joins-nato-as-30th-ally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">north macedonia joins nato as 30th ally</span><span class="citation-popover-snippet">north macedonia joins nato as 30th ally</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing</span><span class="citation-popover-snippet">air policing</span></span></span>
 
-The country also has an Air Surveillance and Reporting Battalion whose mission includes air monitoring, informing relevant parties about the airspace situation, detecting and tracking air-attack means, and notifying armed forces about airspace targets. That is relevant because it shows that unusual aircraft-like targets are within the defence system’s general competence. It does not show that UFO sightings are catalogued, declassified, or publicly analysed as a separate phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mil.mk/operations-command/air-brigade/air-surveillance-and-reporting-battalion/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mil.mk">[mil.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mil.mk</span><span class="citation-popover-snippet">Open source on mil.mk.</span></span></span>
+The country also has an Air Surveillance and Reporting Battalion whose mission includes air monitoring, informing relevant parties about the airspace situation, detecting and tracking air-attack means, and notifying armed forces about airspace targets. That is relevant because it shows that unusual aircraft-like targets are within the defence system’s general competence. It does not show that UFO sightings are catalogued, declassified, or publicly analysed as a separate phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mil.mk/operations-command/air-brigade/air-surveillance-and-reporting-battalion/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mil.mk">[mil.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mil.mk</span><span class="citation-popover-snippet">Open source on mil.mk.</span></span></span>
 
-For civilian reports, the more practical official context is drone regulation. North Macedonia’s Civil Aviation Agency states that drones must be kept within visual line of sight, within 250 metres horizontally and 120 metres vertically from the ground, and away from security-critical or government objects. A 2024 regulation also sets out the conversion of earlier unmanned-aircraft licences and authorisations into the newer framework. These rules matter because drones are now one of the most common sources of misidentified lights, hovering objects, and low-altitude “craft” reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For civilian reports, the more practical official context is drone regulation. North Macedonia’s Civil Aviation Agency states that drones must be kept within visual line of sight, within 250 metres horizontally and 120 metres vertically from the ground, and away from security-critical or government objects. A 2024 regulation also sets out the conversion of earlier unmanned-aircraft licences and authorisations into the newer framework. These rules matter because drones are now one of the most common sources of misidentified lights, hovering objects, and low-altitude “craft” reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bOfD7hy6PJ8" title="Balkan Conspiracy Theories are INSANE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bOfD7hy6PJ8" target="_blank" rel="noopener noreferrer">Balkan Conspiracy Theories are INSANE</a></p><p class="youtube-embed-meta">Channel: Living Ironically in Europe &middot; Views: 695.5K &middot; Uploaded: August 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bOfD7hy6PJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bOfD7hy6PJ8">Open on YouTube</a></p></div></div></div>
 
@@ -1234,28 +1234,28 @@ For civilian reports, the more practical official context is drone regulation. N
 
 Most North Macedonia UFO claims should first be tested against ordinary causes. This is not debunking by assumption; it is the basic order of investigation. A report becomes more interesting only after common explanations have been checked and found inadequate.
 
-**Meteors and fireballs** are especially important. The European Space Agency explains that fireballs and bright meteors are small near-Earth objects, often centimetres to metres across, that hit the atmosphere and usually disintegrate while producing bright trails. Such events can appear suddenly, change colour, fragment, and vanish before a witness can judge distance or speed correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Meteors and fireballs** are especially important. The European Space Agency explains that fireballs and bright meteors are small near-Earth objects, often centimetres to metres across, that hit the atmosphere and usually disintegrate while producing bright trails. Such events can appear suddenly, change colour, fragment, and vanish before a witness can judge distance or speed correctly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Starlink and other satellites** are now a major source of “UFO” reports worldwide. Newly deployed Starlink satellites can appear as a close-knit moving train of lights before they spread out into operational orbit. Heavens-Above and similar trackers provide location-based satellite predictions, which are often enough to test whether a line of lights over North Macedonia matches a known pass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
+**Starlink and other satellites** are now a major source of “UFO” reports worldwide. Newly deployed Starlink satellites can appear as a close-knit moving train of lights before they spread out into operational orbit. Heavens-Above and similar trackers provide location-based satellite predictions, which are often enough to test whether a line of lights over North Macedonia matches a known pass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
 
-**Drones** are a growing explanation for low, hovering, buzzing, or manoeuvring lights. The country’s own drone guidance recognises visual-line-of-sight limits and safety zones, which implies a real, regulated drone environment rather than a rare novelty. A bright consumer drone at night, especially near buildings or hills, can look larger and more distant than it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Drones** are a growing explanation for low, hovering, buzzing, or manoeuvring lights. The country’s own drone guidance recognises visual-line-of-sight limits and safety zones, which implies a real, regulated drone environment rather than a rare novelty. A bright consumer drone at night, especially near buildings or hills, can look larger and more distant than it is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Aircraft and air-policing activity** should also be considered. Skopje International Airport, regional routes, military coordination, and NATO air policing all create legitimate aerial activity. Distant aircraft lights can seem stationary when approaching head-on, then suddenly “move” when their angle changes.
 
-**Clouds, lens effects, and atmospheric optics** explain some saucer-like images. A Macedonian-language TRT Balkan post from 2022 framed an orange, unusually shaped cloud as a “cloud or UFO” dilemma, which is exactly the kind of ambiguous image that can spread quickly online without being an anomalous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TRTBalkanMK/videos/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%BB%D0%BE-%D0%BE%D0%B2%D0%B0-%D0%B1%D0%B5%D1%88%D0%B5-%D0%B4%D0%B8%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%B0-%D0%B4%D0%B0-%D0%B3%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B0%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%BE%D0%B1%D0%BB%D0%B0/601755618386151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Облак или НЛО? Ова беше дилемата на оние кои можеа да го</span><span class="citation-popover-snippet">Облак или НЛО? Ова беше дилемата на оние кои можеа да го</span></span></span>
+**Clouds, lens effects, and atmospheric optics** explain some saucer-like images. A Macedonian-language TRT Balkan post from 2022 framed an orange, unusually shaped cloud as a “cloud or UFO” dilemma, which is exactly the kind of ambiguous image that can spread quickly online without being an anomalous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TRTBalkanMK/videos/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%BB%D0%BE-%D0%BE%D0%B2%D0%B0-%D0%B1%D0%B5%D1%88%D0%B5-%D0%B4%D0%B8%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%B0-%D0%B4%D0%B0-%D0%B3%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B0%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%BE%D0%B1%D0%BB%D0%B0/601755618386151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Облак или НЛО? Ова беше дилемата на оние кои можеа да го</span><span class="citation-popover-snippet">Облак или НЛО? Ова беше дилемата на оние кои можеа да го</span></span></span>
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really in North Macedonia&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked claims
 
 The most useful way to read North Macedonia’s UFO record is to sort claims into evidence tiers.
 
-**Confirmed but ordinary:** The 2024 Lake Ohrid fireball is the clearest example. It was dramatic, recorded, and sky-related, but the available reporting identifies it as a Perseid meteor rather than an unknown craft. It belongs in the national sky-phenomena record, not as evidence of visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Watch a Perseid fireball light up the skies above</span><span class="citation-popover-snippet">Watch a Perseid fireball light up the skies above</span></span></span>
+**Confirmed but ordinary:** The 2024 Lake Ohrid fireball is the clearest example. It was dramatic, recorded, and sky-related, but the available reporting identifies it as a Perseid meteor rather than an unknown craft. It belongs in the national sky-phenomena record, not as evidence of visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Watch a Perseid fireball light up the skies above</span><span class="citation-popover-snippet">Watch a Perseid fireball light up the skies above</span></span></span>
 
-**Contested or unresolved:** The 2006 Skopje triangular orange-red object remains a worthwhile lead because it includes a date, time, location, duration, shape, colour, and alleged multiple observers. However, the public evidence is still too thin to classify it as a strong unresolved case. The missing pieces are decisive: original television footage, independent witness statements, precise viewing locations, weather, flight activity, satellite passes, and meteor checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=136101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested or unresolved:** The 2006 Skopje triangular orange-red object remains a worthwhile lead because it includes a date, time, location, duration, shape, colour, and alleged multiple observers. However, the public evidence is still too thin to classify it as a strong unresolved case. The missing pieces are decisive: original television footage, independent witness statements, precise viewing locations, weather, flight activity, satellite passes, and meteor checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=136101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Weak anecdotal or media curiosities:** The 2018 Skopje red-ball story and the 2018 Butel boomerang-style entry are interesting but under-documented. They may be genuine observations of something in the sky, but the available public record does not allow a confident explanation or a confident anomaly classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraf.rs">[Telegraf.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraf.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Weak anecdotal or media curiosities:** The 2018 Skopje red-ball story and the 2018 Butel boomerang-style entry are interesting but under-documented. They may be genuine observations of something in the sky, but the available public record does not allow a confident explanation or a confident anomaly classification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraf.rs">[Telegraf.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraf.rs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Probably misidentified modern sky activity:** Line-of-lights reports, especially those shared through social media, should be checked first against Starlink and other satellite predictions. Reports involving low hovering lights should be checked against drones, aircraft, and local event activity before being treated as exceptional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
+**Probably misidentified modern sky activity:** Line-of-lights reports, especially those shared through social media, should be checked first against Starlink and other satellite predictions. Reports involving low hovering lights should be checked against drones, aircraft, and local event activity before being treated as exceptional.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g50eZY-w8zQ" title="Possible UFO sighting over lake in Macedonia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g50eZY-w8zQ" target="_blank" rel="noopener noreferrer">Possible UFO sighting over lake in Macedonia</a></p><p class="youtube-embed-meta">Channel: Rumble Viral &middot; Views: 5.0K &middot; Uploaded: July 2018 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g50eZY-w8zQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g50eZY-w8zQ">Open on YouTube</a></p></div></div></div>
 
@@ -1275,7 +1275,7 @@ A credible North Macedonia case needs more than a striking description. The stro
 
 </div>
 
-The 2006 Skopje case shows why this matters. If television stations really broadcast images or video, those archive clips would be more valuable than the brief database text. Without them, the case remains a lead rather than a robust historical incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 2006 Skopje case shows why this matters. If television stations really broadcast images or video, those archive clips would be more valuable than the brief database text. Without them, the case remains a lead rather than a robust historical incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/North_Macedonia_cece1d-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really in North Macedonia&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What North Macedonia adds to the wider UFO project
@@ -1291,194 +1291,194 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iz6gOduz9ag" title="Shaheds over NATO countries: Moscow calls it &quot;UFO&quot;!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iz6gOduz9ag" target="_blank" rel="noopener noreferrer">Shaheds over NATO countries: Moscow calls it &quot;UFO&quot;!</a></p><p class="youtube-embed-meta">Channel: UATV English &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iz6gOduz9ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iz6gOduz9ag">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really in North Macedonia&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really in North Macedonia&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to evaluating limited national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to evaluating limited national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores broader interpretations of unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores broader interpretations of unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for assessing sparse and uncertain reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing sparse and uncertain reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a country-level overview focused on evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a country-level overview focused on evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-north-macedonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-north-macedonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1494,7 +1494,7 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1514,7 +1514,7 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1546,7 +1546,7 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1598,7 +1598,7 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1643,7 +1643,7 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1681,401 +1681,400 @@ North Macedonia has a modest public UFO record, centred mainly on Skopje-area si
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52006</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52006</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: telegraf.rs  
-   Link: <a href="https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball</a>  
+   Link:<a href="https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/english/3017297-ufo-spotted-on-the-sky-above-skopje-macedonians-took-a-photo-of-the-mysterious-red-ball</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/aiva/43084441042" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/aiva/43084441042</a>  
+   Link:<a href="https://www.flickr.com/photos/aiva/43084441042" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/aiva/43084441042</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_axEW5H_RcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_axEW5H_RcQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_axEW5H_RcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_axEW5H_RcQ</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: Watch a Perseid fireball light up the skies above  
-   Link: <a href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/perseid-meteor-shower-fireball-macedonia-video</a>  
+   Link:<a href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/perseid-meteor-shower-fireball-macedonia-video</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nato.int  
    Title: north macedonia joins nato as 30th ally  
-   Link: <a href="https://www.nato.int/en/news-and-events/articles/news/2020/03/27/north-macedonia-joins-nato-as-30th-ally" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/news-and-events/articles/news/2020/03/27/north-macedonia-joins-nato-as-30th-ally</a>  
+   Link:<a href="https://www.nato.int/en/news-and-events/articles/news/2020/03/27/north-macedonia-joins-nato-as-30th-ally" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/news-and-events/articles/news/2020/03/27/north-macedonia-joins-nato-as-30th-ally</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nato.int  
    Title: air policing  
-   Link: <a href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing</a>  
+   Link:<a href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-air-policing</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ac.nato.int  
    Title: Air Policing over the western Balkans  
-   Link: <a href="https://ac.nato.int/missions/air-policing/western-balkans" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/missions/air-policing/western-balkans</a>  
+   Link:<a href="https://ac.nato.int/missions/air-policing/western-balkans" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/missions/air-policing/western-balkans</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mil.mk  
-   Link: <a href="https://mil.mk/operations-command/air-brigade/air-surveillance-and-reporting-battalion/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://mil.mk/operations-command/air-brigade/air-surveillance-and-reporting-battalion/?lang=en</a>  
+   Link:<a href="https://mil.mk/operations-command/air-brigade/air-surveillance-and-reporting-battalion/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://mil.mk/operations-command/air-brigade/air-surveillance-and-reporting-battalion/?lang=en</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drone.gov.mk  
-   Link: <a href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://drone.gov.mk/?lang=en</a>  
+   Link:<a href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://drone.gov.mk/?lang=en</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: caa.gov.mk  
    Title: 2.9 Regulation on unmanned aircraft 115.24 ENG  
-   Link: <a href="https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf</a>  
+   Link:<a href="https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: neo.ssa.esa.int  
-   Link: <a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
+   Link:<a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: heavens-above.com  
    Title: Satellite predictions and other astronomical data customised for your location  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Облак или НЛО? Ова беше дилемата на оние кои можеа да го  
-   Link: <a href="https://www.facebook.com/TRTBalkanMK/videos/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%BB%D0%BE-%D0%BE%D0%B2%D0%B0-%D0%B1%D0%B5%D1%88%D0%B5-%D0%B4%D0%B8%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%B0-%D0%B4%D0%B0-%D0%B3%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B0%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%BE%D0%B1%D0%BB%D0%B0/601755618386151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TRTBalkanMK/videos/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%BB%D0%BE-%D0%BE%D0%B2%D0%B0-%D0%B1%D0%B5%D1%88%D0%B5-%D0%B4%D0%B8%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%B0-%D0%B4%D0%B0-%D0%B3%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B0%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%BE%D0%B1%D0%BB%D0%B0/601755618386151/</a>  
+   Link:<a href="https://www.facebook.com/TRTBalkanMK/videos/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%BB%D0%BE-%D0%BE%D0%B2%D0%B0-%D0%B1%D0%B5%D1%88%D0%B5-%D0%B4%D0%B8%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%B0-%D0%B4%D0%B0-%D0%B3%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B0%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%BE%D0%B1%D0%BB%D0%B0/601755618386151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TRTBalkanMK/videos/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%BB%D0%BE-%D0%BE%D0%B2%D0%B0-%D0%B1%D0%B5%D1%88%D0%B5-%D0%B4%D0%B8%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%B0-%D0%B4%D0%B0-%D0%B3%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B0%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%BE%D0%B1%D0%BB%D0%B0/601755618386151/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: ДОШЛЕ ВО МИР НЛО слета на автопат: Американската полиција  
-   Link: <a href="https://www.facebook.com/100020514384390/posts/1435009940526138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100020514384390/posts/1435009940526138/</a>  
+   Link:<a href="https://www.facebook.com/100020514384390/posts/1435009940526138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100020514384390/posts/1435009940526138/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/718992471528734/posts/6968852733209312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/718992471528734/posts/6968852733209312/</a>  
+   Link:<a href="https://www.facebook.com/groups/718992471528734/posts/6968852733209312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/718992471528734/posts/6968852733209312/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3045520402133909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3045520402133909/</a>  
+   Link:<a href="https://www.facebook.com/groups/3045520402133909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3045520402133909/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/worldtimesinstitute/posts/skynews-the-pentagon-has-released-what-it-described-as-never-before-seen-files-o/1001825208890559/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldtimesinstitute/posts/skynews-the-pentagon-has-released-what-it-described-as-never-before-seen-files-o/1001825208890559/</a>  
+   Link:<a href="https://www.facebook.com/worldtimesinstitute/posts/skynews-the-pentagon-has-released-what-it-described-as-never-before-seen-files-o/1001825208890559/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldtimesinstitute/posts/skynews-the-pentagon-has-released-what-it-described-as-never-before-seen-files-o/1001825208890559/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: in 2020 north macedonia officially became the 30th member of nato this milestone  
-   Link: <a href="https://www.facebook.com/USEmbassySkopje/posts/in-2020-north-macedonia-officially-became-the-30th-member-of-nato-this-milestone/1210387347794769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USEmbassySkopje/posts/in-2020-north-macedonia-officially-became-the-30th-member-of-nato-this-milestone/1210387347794769/</a>  
+   Link:<a href="https://www.facebook.com/USEmbassySkopje/posts/in-2020-north-macedonia-officially-became-the-30th-member-of-nato-this-milestone/1210387347794769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USEmbassySkopje/posts/in-2020-north-macedonia-officially-became-the-30th-member-of-nato-this-milestone/1210387347794769/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NATO.AIRCOM/videos/republic-of-north-macedonia-joins-nato-collective-air-policing-system/1053508285412958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO.AIRCOM/videos/republic-of-north-macedonia-joins-nato-collective-air-policing-system/1053508285412958/</a>  
+   Link:<a href="https://www.facebook.com/NATO.AIRCOM/videos/republic-of-north-macedonia-joins-nato-collective-air-policing-system/1053508285412958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO.AIRCOM/videos/republic-of-north-macedonia-joins-nato-collective-air-policing-system/1053508285412958/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mjephotographyNE/posts/well-guys-here-it-is-the-absolutely-mental-fireball-meteor-which-smashed-through/1562999595830099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mjephotographyNE/posts/well-guys-here-it-is-the-absolutely-mental-fireball-meteor-which-smashed-through/1562999595830099/</a>  
+   Link:<a href="https://www.facebook.com/mjephotographyNE/posts/well-guys-here-it-is-the-absolutely-mental-fireball-meteor-which-smashed-through/1562999595830099/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mjephotographyNE/posts/well-guys-here-it-is-the-absolutely-mental-fireball-meteor-which-smashed-through/1562999595830099/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/globaltimesnews/posts/meteor-streaks-past-stars-in-night-sky-near-skopje-north-macedonia/3331302540283956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/globaltimesnews/posts/meteor-streaks-past-stars-in-night-sky-near-skopje-north-macedonia/3331302540283956/</a>  
+   Link:<a href="https://www.facebook.com/globaltimesnews/posts/meteor-streaks-past-stars-in-night-sky-near-skopje-north-macedonia/3331302540283956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/globaltimesnews/posts/meteor-streaks-past-stars-in-night-sky-near-skopje-north-macedonia/3331302540283956/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCEastYorkshire/posts/scientists-have-confirmed-this-fireball-was-a-meteor-flying-across-the-sky-last-/1313660910925687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEastYorkshire/posts/scientists-have-confirmed-this-fireball-was-a-meteor-flying-across-the-sky-last-/1313660910925687/</a>  
+   Link:<a href="https://www.facebook.com/BBCEastYorkshire/posts/scientists-have-confirmed-this-fireball-was-a-meteor-flying-across-the-sky-last-/1313660910925687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCEastYorkshire/posts/scientists-have-confirmed-this-fireball-was-a-meteor-flying-across-the-sky-last-/1313660910925687/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheDailyJagran/videos/watch-a-glowing-green-fireball-seen-streaking-across-moscows-night-sky-left-resi/1612336213077714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDailyJagran/videos/watch-a-glowing-green-fireball-seen-streaking-across-moscows-night-sky-left-resi/1612336213077714/</a>  
+   Link:<a href="https://www.facebook.com/TheDailyJagran/videos/watch-a-glowing-green-fireball-seen-streaking-across-moscows-night-sky-left-resi/1612336213077714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDailyJagran/videos/watch-a-glowing-green-fireball-seen-streaking-across-moscows-night-sky-left-resi/1612336213077714/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/InternationalMeteorOrganization/videos/-bright-fireball-observed-and-captured-on-video-over-cyprus-on-march-24-2021-aro/5477585798948627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InternationalMeteorOrganization/videos/-bright-fireball-observed-and-captured-on-video-over-cyprus-on-march-24-2021-aro/5477585798948627/</a>  
+   Link:<a href="https://www.facebook.com/InternationalMeteorOrganization/videos/-bright-fireball-observed-and-captured-on-video-over-cyprus-on-march-24-2021-aro/5477585798948627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InternationalMeteorOrganization/videos/-bright-fireball-observed-and-captured-on-video-over-cyprus-on-march-24-2021-aro/5477585798948627/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/misajlovskivlado/posts/8213aef2/1234375398062199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/misajlovskivlado/posts/8213aef2/1234375398062199/</a>  
+   Link:<a href="https://www.facebook.com/misajlovskivlado/posts/8213aef2/1234375398062199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/misajlovskivlado/posts/8213aef2/1234375398062199/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DefenceMKD/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DefenceMKD/</a>  
+   Link:<a href="https://www.facebook.com/DefenceMKD/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DefenceMKD/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/the-defense-department-has-released-a-new-trove-of-declassified-documents-about-/1342935387702050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/the-defense-department-has-released-a-new-trove-of-declassified-documents-about-/1342935387702050/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/the-defense-department-has-released-a-new-trove-of-declassified-documents-about-/1342935387702050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/the-defense-department-has-released-a-new-trove-of-declassified-documents-about-/1342935387702050/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: Macedonia Timeless's post  
-   Link: <a href="https://www.facebook.com/Macedonia.Timeless.appt/posts/did-you-%D0%BAnow-the-megalithic-observatory-kokino-has-earned-4th-place-on-nasas-lis/584506783710269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Macedonia.Timeless.appt/posts/did-you-%D0%BAnow-the-megalithic-observatory-kokino-has-earned-4th-place-on-nasas-lis/584506783710269/</a>  
+   Link:<a href="https://www.facebook.com/Macedonia.Timeless.appt/posts/did-you-%D0%BAnow-the-megalithic-observatory-kokino-has-earned-4th-place-on-nasas-lis/584506783710269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Macedonia.Timeless.appt/posts/did-you-%D0%BAnow-the-megalithic-observatory-kokino-has-earned-4th-place-on-nasas-lis/584506783710269/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1519103878311682/posts/2517694131785980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1519103878311682/posts/2517694131785980/</a>  
+   Link:<a href="https://www.facebook.com/groups/1519103878311682/posts/2517694131785980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1519103878311682/posts/2517694131785980/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/filipinosingermanyfb/videos/a-bright-fireball-was-spotted-across-parts-of-europe-on-friday-evening-drawing-a/920068750998767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/filipinosingermanyfb/videos/a-bright-fireball-was-spotted-across-parts-of-europe-on-friday-evening-drawing-a/920068750998767/</a>  
+   Link:<a href="https://www.facebook.com/filipinosingermanyfb/videos/a-bright-fireball-was-spotted-across-parts-of-europe-on-friday-evening-drawing-a/920068750998767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/filipinosingermanyfb/videos/a-bright-fireball-was-spotted-across-parts-of-europe-on-friday-evening-drawing-a/920068750998767/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/internationalschoolmaximilian/posts/maximilian-school-first-school-trip-for-the-school-year-201819destination-kokino/542422379537483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/internationalschoolmaximilian/posts/maximilian-school-first-school-trip-for-the-school-year-201819destination-kokino/542422379537483/</a>  
+   Link:<a href="https://www.facebook.com/internationalschoolmaximilian/posts/maximilian-school-first-school-trip-for-the-school-year-201819destination-kokino/542422379537483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/internationalschoolmaximilian/posts/maximilian-school-first-school-trip-for-the-school-year-201819destination-kokino/542422379537483/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
    Title: meteor over macedoniamacedonia officially the republic of macedonia is a country  
-   Link: <a href="https://www.facebook.com/FriendsOfNASA/posts/meteor-over-macedoniamacedonia-officially-the-republic-of-macedonia-is-a-country/1138457426305910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FriendsOfNASA/posts/meteor-over-macedoniamacedonia-officially-the-republic-of-macedonia-is-a-country/1138457426305910/</a>  
+   Link:<a href="https://www.facebook.com/FriendsOfNASA/posts/meteor-over-macedoniamacedonia-officially-the-republic-of-macedonia-is-a-country/1138457426305910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FriendsOfNASA/posts/meteor-over-macedoniamacedonia-officially-the-republic-of-macedonia-is-a-country/1138457426305910/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/23983065281289184/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25144308938498140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25144308938498140/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25144308938498140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25144308938498140/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/</a>  
+   Link:<a href="https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HeavensAboveAstronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HeavensAboveAstronomy/</a>  
+   Link:<a href="https://www.facebook.com/HeavensAboveAstronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HeavensAboveAstronomy/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/</a>  
+   Link:<a href="https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YappAppNews/videos/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/1356632559335965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/videos/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/1356632559335965/</a>  
+   Link:<a href="https://www.facebook.com/YappAppNews/videos/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/1356632559335965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/videos/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/1356632559335965/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ac.nato.int  
    Title: discussions on integration of north macedonian air defence held in skopje  
-   Link: <a href="https://ac.nato.int/archive/2020/discussions-on-integration-of-north-macedonian-air-defence-held-in-skopje" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/archive/2020/discussions-on-integration-of-north-macedonian-air-defence-held-in-skopje</a>  
+   Link:<a href="https://ac.nato.int/archive/2020/discussions-on-integration-of-north-macedonian-air-defence-held-in-skopje" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/archive/2020/discussions-on-integration-of-north-macedonian-air-defence-held-in-skopje</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: ac.nato.int  
    Title: int Sitemap  
-   Link: <a href="https://ac.nato.int/sitemap" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/sitemap</a>  
+   Link:<a href="https://ac.nato.int/sitemap" target="_blank" rel="noopener noreferrer nofollow">https://ac.nato.int/sitemap</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: shape.nato.int  
    Title: int Video: NATO Air Policing  
-   Link: <a href="https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans" target="_blank" rel="noopener noreferrer nofollow">https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans</a>  
+   Link:<a href="https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans" target="_blank" rel="noopener noreferrer nofollow">https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nato.int  
    Title: member countries  
-   Link: <a href="https://www.nato.int/en/about-us/organization/nato-member-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/organization/nato-member-countries</a>  
+   Link:<a href="https://www.nato.int/en/about-us/organization/nato-member-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/organization/nato-member-countries</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=136101" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=136101</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=136101" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=136101</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187912</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=187912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187912</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=42806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42806</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=42806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42806</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=196778" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196778</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=196778" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196778</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=61024" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61024</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=61024" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61024</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: heavens-above.com  
-   Link: <a href="https://heavens-above.com/AllSats.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/AllSats.aspx</a>  
+   Link:<a href="https://heavens-above.com/AllSats.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/AllSats.aspx</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: heavens-above.com  
-   Link: <a href="https://heavens-above.com/StarLink.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/StarLink.aspx</a>  
+   Link:<a href="https://heavens-above.com/StarLink.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/StarLink.aspx</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: arhiva.mod.gov.mk  
-   Link: <a href="https://arhiva.mod.gov.mk/the-italian-air-force-will-participate-in-the-air-policing-of-the-macedonian-skies/" target="_blank" rel="noopener noreferrer nofollow">https://arhiva.mod.gov.mk/the-italian-air-force-will-participate-in-the-air-policing-of-the-macedonian-skies/</a>  
+   Link:<a href="https://arhiva.mod.gov.mk/the-italian-air-force-will-participate-in-the-air-policing-of-the-macedonian-skies/" target="_blank" rel="noopener noreferrer nofollow">https://arhiva.mod.gov.mk/the-italian-air-force-will-participate-in-the-air-policing-of-the-macedonian-skies/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: mod.gov.mk  
-   Link: <a href="https://mod.gov.mk/" target="_blank" rel="noopener noreferrer nofollow">https://mod.gov.mk/</a>  
+   Link:<a href="https://mod.gov.mk/" target="_blank" rel="noopener noreferrer nofollow">https://mod.gov.mk/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: Balkan UFOShare your videos with friends, family, and the world  
-   Link: <a href="https://www.youtube.com/%40BalkanUFO/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40BalkanUFO/videos</a>  
+   Link:<a href="https://www.youtube.com/%40BalkanUFO/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40BalkanUFO/videos</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Iz6gOduz9ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iz6gOduz9ag</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Iz6gOduz9ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iz6gOduz9ag</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SKAs984CLIU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SKAs984CLIU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=SKAs984CLIU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SKAs984CLIU</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7fo8qXsVNu0&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7fo8qXsVNu0&amp;vl=en</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7fo8qXsVNu0&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7fo8qXsVNu0&amp;vl=en</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
    Title: UCdx G8HJcx UN h QITJn k Fgw  
-   Link: <a href="https://www.youtube.com/channel/UCdxG8HJcxUN_hQITJn_kFgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCdxG8HJcxUN_hQITJn_kFgw</a>  
+   Link:<a href="https://www.youtube.com/channel/UCdxG8HJcxUN_hQITJn_kFgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCdxG8HJcxUN_hQITJn_kFgw</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sZ_Pecy07pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sZ_Pecy07pc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sZ_Pecy07pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sZ_Pecy07pc</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bJAUWHUeCMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bJAUWHUeCMU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bJAUWHUeCMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bJAUWHUeCMU</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/MoDRMacedonia" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/MoDRMacedonia</a>  
+   Link:<a href="https://www.youtube.com/user/MoDRMacedonia" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/MoDRMacedonia</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bAvQgPpsuuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bAvQgPpsuuE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bAvQgPpsuuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bAvQgPpsuuE</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QV5rCP7uiaU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QV5rCP7uiaU</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: mfa.gov.mk  
    Title: NAT O Relations  
-   Link: <a href="https://mfa.gov.mk/en-GB/temi/nato-clenstvo" target="_blank" rel="noopener noreferrer nofollow">https://mfa.gov.mk/en-GB/temi/nato-clenstvo</a>  
+   Link:<a href="https://mfa.gov.mk/en-GB/temi/nato-clenstvo" target="_blank" rel="noopener noreferrer nofollow">https://mfa.gov.mk/en-GB/temi/nato-clenstvo</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: portal.mdt.gov.mk  
-   Link: <a href="https://portal.mdt.gov.mk/post-body-files/uslugi-mod-file-BgcV.html" target="_blank" rel="noopener noreferrer nofollow">https://portal.mdt.gov.mk/post-body-files/uslugi-mod-file-BgcV.html</a>  
+   Link:<a href="https://portal.mdt.gov.mk/post-body-files/uslugi-mod-file-BgcV.html" target="_blank" rel="noopener noreferrer nofollow">https://portal.mdt.gov.mk/post-body-files/uslugi-mod-file-BgcV.html</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: mil.mk  
-   Link: <a href="https://mil.mk/struktura-na-odbranata/" target="_blank" rel="noopener noreferrer nofollow">https://mil.mk/struktura-na-odbranata/</a>  
+   Link:<a href="https://mil.mk/struktura-na-odbranata/" target="_blank" rel="noopener noreferrer nofollow">https://mil.mk/struktura-na-odbranata/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: youtube.com  
    Title: Possible UFO Sighting Over Lake in Macedonia  
-   Link: <a href="https://www.youtube.com/watch?v=g50eZY-w8zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g50eZY-w8zQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pleiadian UFO on Camera While Shooting a Music Video at Kokino...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g50eZY-w8zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g50eZY-w8zQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pleiadian UFO on Camera While Shooting a Music Video at Kokino...</p></details>
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: youtube.com  
    Title: Pleiadian UFO on Camera While Shooting a Music Video at Kokino  
-   Link: <a href="https://www.youtube.com/watch?v=2Gn1Zotz7rU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Gn1Zotz7rU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO North Macedonia or a Glossy Chrome Rocket...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2Gn1Zotz7rU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Gn1Zotz7rU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO North Macedonia or a Glossy Chrome Rocket...</p></details>
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: youtube.com  
    Title: UFO North Macedonia or a Glossy Chrome Rocket  
-   Link: <a href="https://www.youtube.com/watch?v=DjhNJD2IqO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjhNJD2IqO4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That Shocked Europe | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DjhNJD2IqO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjhNJD2IqO4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That Shocked Europe | Full Documentary...</p></details>
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: youtube.com  
    Title: Top 20 UFO Sightings That Shocked Europe | Full Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=LXxhVSRmsMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXxhVSRmsMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balkan Conspiracy Theories are INSANE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LXxhVSRmsMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXxhVSRmsMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balkan Conspiracy Theories are INSANE...</p></details>
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: youtube.com  
    Title: Balkan Conspiracy Theories are INSANE  
-   Link: <a href="https://www.youtube.com/watch?v=bOfD7hy6PJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bOfD7hy6PJ8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bOfD7hy6PJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bOfD7hy6PJ8</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: Wikipedia  
    Title: Butel Municipality  
-   Link: <a href="https://en.wikipedia.org/wiki/Butel_Municipality" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Butel_Municipality</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Butel_Municipality" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Butel_Municipality</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: popastro.com  
-   Link: <a href="https://www.popastro.com/meteor/2006/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2006/</a>  
+   Link:<a href="https://www.popastro.com/meteor/2006/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/2006/</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: travel.state.gov  
-   Link: <a href="https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Macedonia.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Macedonia.html</a>  
+   Link:<a href="https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Macedonia.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Macedonia.html</a>  
 
 ### Additional References
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DGRFwypMPIz/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGRFwypMPIz/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DGRFwypMPIz/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGRFwypMPIz/?hl=en-gb</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/xnjqux/a_train_of_spacex_starlink_satellites_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/xnjqux/a_train_of_spacex_starlink_satellites_seen/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/xnjqux/a_train_of_spacex_starlink_satellites_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/xnjqux/a_train_of_spacex_starlink_satellites_seen/</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: legislationline.org  
-   Link: <a href="https://legislationline.org/taxonomy/term/13319" target="_blank" rel="noopener noreferrer nofollow">https://legislationline.org/taxonomy/term/13319</a>  
+   Link:<a href="https://legislationline.org/taxonomy/term/13319" target="_blank" rel="noopener noreferrer nofollow">https://legislationline.org/taxonomy/term/13319</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: allsky7.net  
-   Link: <a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
+   Link:<a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain</a>  
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2025/11/Bright_fireball_spotted_by_ESA_s_meteor_detection_station_in_Caceres_Spain</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYz06yehOoW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYz06yehOoW/</a>  
+   Link:<a href="https://www.instagram.com/p/DYz06yehOoW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYz06yehOoW/</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-macedonia/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-macedonia/</a>  
+   Link:<a href="https://uavcoach.com/drone-laws-in-macedonia/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-macedonia/</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/drones/comments/1du7z59/drone_flying_in_north_macedonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1du7z59/drone_flying_in_north_macedonia/</a>
+   Link:<a href="https://www.reddit.com/r/drones/comments/1du7z59/drone_flying_in_north_macedonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1du7z59/drone_flying_in_north_macedonia/</a>

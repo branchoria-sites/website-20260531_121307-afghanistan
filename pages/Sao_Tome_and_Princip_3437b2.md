@@ -1194,23 +1194,23 @@ image: /assets/images/Sao_Tome_and_Princip_3437b2-overview-social.jpg
 
 ## Introduction
 
-The practical conclusion is cautious: UFO phenomena in So Tom and Prncipe should be classed as sparsely documented, mostly unverified, and currently lacking a reliable public case file. The islands geography still matters. They sit in the Gulf of Guinea on the Equator, with two main islands, smaller islets, international airports, coastal settlements, dark skies in rural areas, and an airspace environment where aircraft, birds, drones, meteors and satellite re-entries can all generate sincere but ambiguous sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+The practical conclusion is cautious: UFO phenomena in So Tom and Prncipe should be classed as sparsely documented, mostly unverified, and currently lacking a reliable public case file. The islands geography still matters. They sit in the Gulf of Guinea on the Equator, with two main islands, smaller islets, international airports, coastal settlements, dark skies in rural areas, and an airspace environment where aircraft, birds, drones, meteors and satellite re-entries can all generate sincere but ambiguous sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-overview.webp" | relative_url }}" alt="Overview image for Sao Tome and Principe" loading="eager" decoding="sync" fetchpriority="high">
 ## What the public record actually shows
 
-The strongest country-specific item found in open sources is not a detailed witness case but a tabular reference. A 2023 cross-cultural paper on unidentified anomalous phenomena lists Sao Tome & P. in Central Africa with one recorded UAP-related item, attributed to NIDS, 1999. The same table gives the country population as 223,107 and appears to compare report counts across countries, but it does not provide a narrative description, witness statement, exact place, time, object shape, duration, photographs, radar data, or official follow-up for the So Tom and Prncipe entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest country-specific item found in open sources is not a detailed witness case but a tabular reference. A 2023 cross-cultural paper on unidentified anomalous phenomena lists Sao Tome & P. in Central Africa with one recorded UAP-related item, attributed to NIDS, 1999. The same table gives the country population as 223,107 and appears to compare report counts across countries, but it does not provide a narrative description, witness statement, exact place, time, object shape, duration, photographs, radar data, or official follow-up for the So Tom and Prncipe entry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That single-entry status is important. It does not prove that nothing unusual has ever been reported in the country; it only shows that the accessible international UFO literature has not preserved a rich, checkable public record. In evidence terms, the So Tom and Prncipe file is therefore closer to an index-card trace than a case archive. It can be mentioned, but it should not be inflated into a confirmed national incident.
 
-The public search record is also cluttered by false matches. Many web results for So Tom UFO refer not to the African country but to So Thom das Letras, a Brazilian town associated with mysticism and UFO tourism. That naming overlap is a major source of confusion for readers and researchers: claims, videos and travel stories about Brazil can be accidentally pulled into searches for So Tom and Prncipe unless the country name, island names, or Prncipe are included. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/S%C3%A3o_Thom%C3%A9_das_Letras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">So Thom das Letras</span><span class="citation-popover-snippet">So Thom das Letras</span></span></span>
+The public search record is also cluttered by false matches. Many web results for So Tom UFO refer not to the African country but to So Thom das Letras, a Brazilian town associated with mysticism and UFO tourism. That naming overlap is a major source of confusion for readers and researchers: claims, videos and travel stories about Brazil can be accidentally pulled into searches for So Tom and Prncipe unless the country name, island names, or Prncipe are included.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/S%C3%A3o_Thom%C3%A9_das_Letras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">So Thom das Letras</span><span class="citation-popover-snippet">So Thom das Letras</span></span></span>
 
 ## Why a national chronology is so thin
 
 A normal UFO country page might organise cases by decade, witness type, region and explanation. For So Tom and Prncipe, that would create a false sense of completeness. The available evidence does not support a decade-by-decade chronology of named sightings. A better chronology is a record-status chronology:
 
-* **Pre-digital and early independence period:** no accessible, well-cited national UFO case file is readily visible in the open sources reviewed. The country gained independence from Portugal in 1975, and older reports, if they exist in local newspapers, private correspondence, police files or aviation logs, are not easily discoverable through public web archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
-* **1999 dataset trace:** the one notable international reference appears as a single So Tom and Prncipe line attributed to NIDS, without public case detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Pre-digital and early independence period:** no accessible, well-cited national UFO case file is readily visible in the open sources reviewed. The country gained independence from Portugal in 1975, and older reports, if they exist in local newspapers, private correspondence, police files or aviation logs, are not easily discoverable through public web archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+* **1999 dataset trace:** the one notable international reference appears as a single So Tom and Prncipe line attributed to NIDS, without public case detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Modern web era:** results are dominated by non-country [false positives]({{ 'false-positives/' | relative_url }}), generic UFO content, product pages containing UFO, and social-media reposts about other countries. This weakens confidence in any casual claim that So Tom and Prncipe has an established online UFO tradition.
 
 The absence of a robust chronology has a simple consequence: the honest evidence split is not many confirmed, some contested, several debunked. It is one weakly documented indexed claim; no clearly confirmed national incident; no widely accepted public debunking file because there are few specific claims to debunk.
@@ -1218,9 +1218,9 @@ The absence of a robust chronology has a simple consequence: the honest evidence
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-1-dark.svg" | relative_url }}" alt="Sao Tome and Principe illustration 1" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Regional variation: what would make sightings differ across the islands?
 
-Even without a strong case list, geography helps explain where reports would be most likely and how they might be misread. So Tom and Prncipe consists of two main island groups in the Gulf of Guinea, with Prncipe as an autonomous region and So Tom divided into six districts. The country also includes smaller islets such as Rolas, Cabras, Bombom and the Tinhosas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+Even without a strong case list, geography helps explain where reports would be most likely and how they might be misread. So Tom and Prncipe consists of two main island groups in the Gulf of Guinea, with Prncipe as an autonomous region and So Tom divided into six districts. The country also includes smaller islets such as Rolas, Cabras, Bombom and the Tinhosas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-On **So Tom island**, the capital, airport infrastructure and denser settlement make aircraft lights, approach paths, landing lights, drones, weather effects and urban social-media reporting more likely. INAC, the national civil aviation authority, identifies So Tom International Airport, the control tower and the airport on Prncipe as central aviation infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inac.st/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inac.st">[inac.st]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inac.st</span><span class="citation-popover-title">Home INAC- Instituto Nacional de Aviao Civil</span><span class="citation-popover-snippet">Home INAC- Instituto Nacional de Aviao Civil</span></span></span>
+On **So Tom island**, the capital, airport infrastructure and denser settlement make aircraft lights, approach paths, landing lights, drones, weather effects and urban social-media reporting more likely. INAC, the national civil aviation authority, identifies So Tom International Airport, the control tower and the airport on Prncipe as central aviation infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inac.st/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inac.st">[inac.st]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inac.st</span><span class="citation-popover-title">Home INAC- Instituto Nacional de Aviao Civil</span><span class="citation-popover-snippet">Home INAC- Instituto Nacional de Aviao Civil</span></span></span>
 
 On **Prncipe**, lower population density, darker skies and tourism-oriented coastal observation could make astronomical misidentifications more common. A bright meteor, satellite train, re-entry fragment, aircraft at low elevation, or fishing-vessel light seen through humid air could become an unknown light report, especially if several witnesses see it briefly without recording exact compass direction, time, altitude estimate or duration.
 
@@ -1230,23 +1230,23 @@ At sea, the problem changes again. The Gulf of Guinea setting means that offshor
 
 ## Official records and aviation channels
 
-No public So Toman government UAP archive is readily visible in the open record. The closest relevant official structure is not a UFO office but civil aviation. INAC describes its mission as regulating and promoting safe, sustainable civil aviation in the public interest, and its website foregrounds the countrys airport and control-tower infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inac.st/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inac.st">[inac.st]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inac.st</span><span class="citation-popover-title">Home INAC- Instituto Nacional de Aviao Civil</span><span class="citation-popover-snippet">Home INAC- Instituto Nacional de Aviao Civil</span></span></span>
+No public So Toman government UAP archive is readily visible in the open record. The closest relevant official structure is not a UFO office but civil aviation. INAC describes its mission as regulating and promoting safe, sustainable civil aviation in the public interest, and its website foregrounds the countrys airport and control-tower infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inac.st/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inac.st">[inac.st]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inac.st</span><span class="citation-popover-title">Home INAC- Instituto Nacional de Aviao Civil</span><span class="citation-popover-snippet">Home INAC- Instituto Nacional de Aviao Civil</span></span></span>
 
 That matters because, in a small island state, the most useful records for a serious UFO claim would probably not be a UFO file at all. They would be aviation safety reports, airport logs, pilot reports, air traffic control records, meteorological data, satellite re-entry notices, police incident logs, or local newspaper archives. A case with only a social-media video and no time, location, direction, witness chain or official report would sit at the lowest end of the reliability scale.
 
-There is one aviation incident from So Tom that shows why careful identification matters. In July 2017, an Antonov AN-74 crew rejected take-off at So Tom after sighting large birds rising from grass near the runway; the aircraft overran the runway and was destroyed, though most occupants were uninjured. This was not a UFO case, but it is a useful cautionary example: unexpected aerial or near-runway stimuli can have real safety consequences, and later summaries can become misleading if unidentified object language replaces the actual cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is one aviation incident from So Tom that shows why careful identification matters. In July 2017, an Antonov AN-74 crew rejected take-off at So Tom after sighting large birds rising from grass near the runway; the aircraft overran the runway and was destroyed, though most occupants were uninjured. This was not a UFO case, but it is a useful cautionary example: unexpected aerial or near-runway stimuli can have real safety consequences, and later summaries can become misleading if unidentified object language replaces the actual cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Likely explanations for most future claims
 
 Because the country has little public UFO case material, the highest-value analysis is a verification guide for claims that may appear in the future. The main candidates are ordinary but often visually striking.
 
-**Meteors and fireballs** are the most likely explanation for sudden bright streaks, flashes, green-white lights, fragmentation, or reports lasting seconds. NASAs Center for Near Earth Object Studies publishes fireball and bolide data derived from US Government sensors, but warns that the data are not independently reanalysed by CNEOS, are not real-time, and not all fireballs are reported. The International Meteor Organization also keeps a public fireball sightings log and encourages reports that include colour, train, sound and timing details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Meteors and fireballs** are the most likely explanation for sudden bright streaks, flashes, green-white lights, fragmentation, or reports lasting seconds. NASAs Center for Near Earth Object Studies publishes fireball and bolide data derived from US Government sensors, but warns that the data are not independently reanalysed by CNEOS, are not real-time, and not all fireballs are reported. The International Meteor Organization also keeps a public fireball sightings log and encourages reports that include colour, train, sound and timing details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[cneos.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Satellite and space-debris re-entries** can look more dramatic than ordinary meteors. Aerospace Corporation explains that re-entries may resemble shooting stars, often with a bright central body, long tail and multiple fragments, and that the motion is usually broadly parallel to the ground. This is especially relevant for island observers with open sea horizons, where a long, fragmenting track can be visible for longer than a meteor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Satellite and space-debris re-entries** can look more dramatic than ordinary meteors. Aerospace Corporation explains that re-entries may resemble shooting stars, often with a bright central body, long tail and multiple fragments, and that the motion is usually broadly parallel to the ground. This is especially relevant for island observers with open sea horizons, where a long, fragmenting track can be visible for longer than a meteor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Drones** are a growing ambiguity. Sources differ on the exact current drone-law position in So Tom and Prncipe, but several drone-law aggregators state that dedicated drone regulation is limited or uncertain, while INAC remains the relevant aviation authority. ERAUs aviation-law survey identifies Law No. 3/2021, the Aeronautical Code, under So Tom and Prncipe drone regulations, while another drone-law source says INAC has not codified drone-specific rules and recommends ICAO-style safety practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/sao-tome-principe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[Eagle Pubs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Eagle Pubs Sao Tome &amp; Principe Drones and AAM Across the World</span><span class="citation-popover-snippet">Eagle Pubs Sao Tome &amp; Principe Drones and AAM Across the World</span></span></span>
+**Drones** are a growing ambiguity. Sources differ on the exact current drone-law position in So Tom and Prncipe, but several drone-law aggregators state that dedicated drone regulation is limited or uncertain, while INAC remains the relevant aviation authority. ERAUs aviation-law survey identifies Law No. 3/2021, the Aeronautical Code, under So Tom and Prncipe drone regulations, while another drone-law source says INAC has not codified drone-specific rules and recommends ICAO-style safety practices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/sao-tome-principe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[Eagle Pubs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Eagle Pubs Sao Tome &amp; Principe Drones and AAM Across the World</span><span class="citation-popover-snippet">Eagle Pubs Sao Tome &amp; Principe Drones and AAM Across the World</span></span></span>
 
-**Aircraft and birds** should not be treated as trivial explanations. The 2017 So Tom runway accident demonstrates that visual encounters with birds can be operationally significant, and So Tom International Airport plus Prncipes airport create repeated opportunities for aircraft lights, approach angles and runway activity to be misread by observers unfamiliar with aviation cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Aircraft and birds** should not be treated as trivial explanations. The 2017 So Tom runway accident demonstrates that visual encounters with birds can be operationally significant, and So Tom International Airport plus Prncipes airport create repeated opportunities for aircraft lights, approach angles and runway activity to be misread by observers unfamiliar with aviation cues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-2-dark.svg" | relative_url }}" alt="Sao Tome and Principe illustration 2" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
@@ -1255,9 +1255,9 @@ The evidence split for So Tom and Prncipe is unusually stark.
 
 **Confirmed UFO incidents:** none found in the public record in the strict sense of a named incident with clear date, location, witness documentation, official record, and unresolved status after investigation. Confirmed here would mean confirmed as an unidentified report, not confirmed as extraterrestrial or exotic technology.
 
-**Contested claims:** the single dataset entry attributed to NIDS in 1999 is the only notable open-source country-specific UAP trace. It is contested by incompleteness rather than by a known debunking: there is too little public information to evaluate witness quality, location, explanation, or whether the item was duplicated, misclassified or based on a private source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested claims:** the single dataset entry attributed to NIDS in 1999 is the only notable open-source country-specific UAP trace. It is contested by incompleteness rather than by a known debunking: there is too little public information to evaluate witness quality, location, explanation, or whether the item was duplicated, misclassified or based on a private source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunked or explained claims:** no major So Tom and Prncipe UFO case appears to have a public debunking literature. The most common debunking issue is misattribution: many apparent So Tom UFO hits are actually about So Thom das Letras in Brazil, not the Gulf of Guinea country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_France_Flight_447" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air France Flight 447</span><span class="citation-popover-snippet">Air France Flight 447</span></span></span>
+**Debunked or explained claims:** no major So Tom and Prncipe UFO case appears to have a public debunking literature. The most common debunking issue is misattribution: many apparent So Tom UFO hits are actually about So Thom das Letras in Brazil, not the Gulf of Guinea country.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_France_Flight_447" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air France Flight 447</span><span class="citation-popover-snippet">Air France Flight 447</span></span></span>
 
 This split should shape how readers treat new claims. A video labelled So Tom UFO is not automatically local, and a local sighting is not automatically extraordinary. The burden of proof is especially high because there is no established national archive against which to compare patterns.
 
@@ -1292,194 +1292,194 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MNRsVpOPLHo" title="Sao Tome and Principe, the Lost Islands of Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MNRsVpOPLHo" target="_blank" rel="noopener noreferrer">Sao Tome and Principe, the Lost Islands of Africa</a></p><p class="youtube-embed-meta">Channel: Show Me the World &middot; Views: 13.9K &middot; Uploaded: February 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MNRsVpOPLHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MNRsVpOPLHo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Sao Tome UFO Records So Thin?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Sao Tome UFO Records So Thin?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s emphasis on thin evidence and verification problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s emphasis on thin evidence and verification problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores the challenge of separating strong and weak UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the challenge of separating strong and weak UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts well-documented cases with countries that have weak records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts well-documented cases with countries that have weak records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how stories persist despite limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how stories persist despite limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sao-tome-ufo-records-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sao-tome-ufo-records-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1495,7 +1495,7 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1515,7 +1515,7 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1547,7 +1547,7 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1599,7 +1599,7 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1644,7 +1644,7 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1682,126 +1682,125 @@ For now, the best interpretation is that UFO phenomena in So Tom and Prncipe rem
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/68aee1d3969253904d155896/Sao_Tome_and_Principe_Toponymic_Factfile.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: inac.st  
    Title: Home INAC- Instituto Nacional de Aviao Civil  
-   Link: <a href="https://www.inac.st/" target="_blank" rel="noopener noreferrer nofollow">https://www.inac.st/</a>  
+   Link:<a href="https://www.inac.st/" target="_blank" rel="noopener noreferrer nofollow">https://www.inac.st/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: So Thom das Letras  
-   Link: <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Thom%C3%A9_das_Letras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/S%C3%A3o_Thom%C3%A9_das_Letras</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/S%C3%A3o_Thom%C3%A9_das_Letras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/S%C3%A3o_Thom%C3%A9_das_Letras</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017</a>  
+   Link:<a href="https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents/an72-sao-tome-sao-tome-principe-2017</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eaglepubs.erau.edu  
    Title: Eagle Pubs Sao Tome & Principe Drones and AAM Across the World  
-   Link: <a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/sao-tome-principe/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/sao-tome-principe/</a>  
+   Link:<a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/sao-tome-principe/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/sao-tome-principe/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/saotomeandprincipe/106168.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/saotomeandprincipe/106168.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/saotomeandprincipe/106168.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/saotomeandprincipe/106168.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382672676_Five_alien_achatinid_land_snails_Gastropoda_Eupulmonata_first_reported_in_greenhouses_of_Italian_botanical_gardens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382672676_Five_alien_achatinid_land_snails_Gastropoda_Eupulmonata_first_reported_in_greenhouses_of_Italian_botanical_gardens</a>  
+   Link:<a href="https://www.researchgate.net/publication/382672676_Five_alien_achatinid_land_snails_Gastropoda_Eupulmonata_first_reported_in_greenhouses_of_Italian_botanical_gardens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382672676_Five_alien_achatinid_land_snails_Gastropoda_Eupulmonata_first_reported_in_greenhouses_of_Italian_botanical_gardens</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: icao.int  
    Title: ICAO SR 2025  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Air France Flight 447  
-   Link: <a href="https://en.wikipedia.org/wiki/Air_France_Flight_447" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_France_Flight_447</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_France_Flight_447</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: So Tom and Prncipe  
-   Link: <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caa.gov.cz  
    Title: cz Unmanned Aircraft  
-   Link: <a href="https://www.caa.gov.cz/en/flight-operations/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.cz/en/flight-operations/unmanned-aircraft/</a>  
+   Link:<a href="https://www.caa.gov.cz/en/flight-operations/unmanned-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.cz/en/flight-operations/unmanned-aircraft/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/864940017584377/posts/1928496771228691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/864940017584377/posts/1928496771228691/</a>  
+   Link:<a href="https://www.facebook.com/groups/864940017584377/posts/1928496771228691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/864940017584377/posts/1928496771228691/</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The best cocoa in the world comes from here  
-   Link: <a href="https://www.youtube.com/watch?v=Vx7uXEEAEKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vx7uXEEAEKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Quest: Stories from So Tom and Prncipe | Somewhere on Earth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vx7uXEEAEKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vx7uXEEAEKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Quest: Stories from So Tom and Prncipe | Somewhere on Earth...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Sao Tome and Principe, the Lost Islands of Africa  
-   Link: <a href="https://www.youtube.com/watch?v=MNRsVpOPLHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MNRsVpOPLHo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The best cocoa in the world comes from here - Sao Tome and Principe | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MNRsVpOPLHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MNRsVpOPLHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The best cocoa in the world comes from here - Sao Tome and Principe | Full Documentary...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: SO TOM & PRNCIPE TRAVEL DOCUMENTARY  
-   Link: <a href="https://www.youtube.com/watch?v=GoofW8MaD7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoofW8MaD7E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome and Principe Explained in 11 Minutes (History, Geography, &amp; Culture)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GoofW8MaD7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoofW8MaD7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome and Principe Explained in 11 Minutes (History, Geography, &amp; Culture)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: terra.com.br  
-   Link: <a href="https://www.terra.com.br/byte/ciencia/espaco/videos/bola-de-fogo-e-registrada-no-ceu-do-df-goias-minas-e-sul-da-bahia%2C7bb0b525b7c77e21a5ddca91d16e9abbsxnhblrz.html" target="_blank" rel="noopener noreferrer nofollow">https://www.terra.com.br/byte/ciencia/espaco/videos/bola-de-fogo-e-registrada-no-ceu-do-df-goias-minas-e-sul-da-bahia%2C7bb0b525b7c77e21a5ddca91d16e9abbsxnhblrz.html</a>  
+   Link:<a href="https://www.terra.com.br/byte/ciencia/espaco/videos/bola-de-fogo-e-registrada-no-ceu-do-df-goias-minas-e-sul-da-bahia%2C7bb0b525b7c77e21a5ddca91d16e9abbsxnhblrz.html" target="_blank" rel="noopener noreferrer nofollow">https://www.terra.com.br/byte/ciencia/espaco/videos/bola-de-fogo-e-registrada-no-ceu-do-df-goias-minas-e-sul-da-bahia%2C7bb0b525b7c77e21a5ddca91d16e9abbsxnhblrz.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/madeiranewsblog/posts/an-unidentified-flying-object-ufo-was-sighted-yesterday-at-the-end-of-the-day-an/1110253644438560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/madeiranewsblog/posts/an-unidentified-flying-object-ufo-was-sighted-yesterday-at-the-end-of-the-day-an/1110253644438560/</a>  
+   Link:<a href="https://www.facebook.com/madeiranewsblog/posts/an-unidentified-flying-object-ufo-was-sighted-yesterday-at-the-end-of-the-day-an/1110253644438560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/madeiranewsblog/posts/an-unidentified-flying-object-ufo-was-sighted-yesterday-at-the-end-of-the-day-an/1110253644438560/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQlxLKvFVT1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQlxLKvFVT1/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DQlxLKvFVT1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQlxLKvFVT1/?hl=en</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/category/fireball-sightings/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/category/fireball-sightings/page/3/</a>  
+   Link:<a href="https://amsmeteors.org/category/fireball-sightings/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/category/fireball-sightings/page/3/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: northlandmufon.com  
-   Link: <a href="https://northlandmufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://northlandmufon.com/join/</a>  
+   Link:<a href="https://northlandmufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://northlandmufon.com/join/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOoqFCwOgVnimdPlmmEDG3iXfOnTWRv7AHH-SHoA5K6jhHT18zhD-" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOoqFCwOgVnimdPlmmEDG3iXfOnTWRv7AHH-SHoA5K6jhHT18zhD-</a>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOoqFCwOgVnimdPlmmEDG3iXfOnTWRv7AHH-SHoA5K6jhHT18zhD-" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOoqFCwOgVnimdPlmmEDG3iXfOnTWRv7AHH-SHoA5K6jhHT18zhD-</a>

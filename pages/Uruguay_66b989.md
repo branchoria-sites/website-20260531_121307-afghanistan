@@ -1199,44 +1199,44 @@ The most useful way to read Uruguay’s UFO history is not as a single national 
 <img src="{{ "/assets/images/Uruguay_66b989-overview.webp" | relative_url }}" alt="Overview image for What Uruguay&#x27;s UFO Files Really Show" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Uruguay stands out in South American UFO history
 
-Uruguay’s central institution is the Comisión Receptora e Investigadora de Denuncias de Objetos Voladores No Identificados, usually shortened to CRIDOVNI. It receives reports, contacts witnesses, evaluates photographs or videos, and compares claims against conventional explanations such as air traffic, astronomical events, satellites, meteorological conditions, hoaxes and psychological misperception. In a 2026 interview, Ariel Sánchez described the commission as a multidisciplinary body of Air Force officers and civilian honorary members, with reports arriving through email and the Air Force telephone system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadenadelmar.uy">[Cadena del Mar &#124; FM 106.5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadenadelmar.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Uruguay’s central institution is the Comisión Receptora e Investigadora de Denuncias de Objetos Voladores No Identificados, usually shortened to CRIDOVNI. It receives reports, contacts witnesses, evaluates photographs or videos, and compares claims against conventional explanations such as air traffic, astronomical events, satellites, meteorological conditions, hoaxes and psychological misperception. In a 2026 interview, Ariel Sánchez described the commission as a multidisciplinary body of Air Force officers and civilian honorary members, with reports arriving through email and the Air Force telephone system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadenadelmar.uy">[Cadena del Mar &#124; FM 106.5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadenadelmar.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That official setting matters, but it can be misunderstood. A military investigation does not mean a sighting has been validated as alien technology. In Uruguay, as elsewhere, “unidentified” mainly means that the available data did not allow investigators to assign a firm conventional cause. Sánchez’s stated protocol begins by testing ordinary possibilities: witness fraud, third-party fraud, conventional phenomena, psychological illusion and only then a non-conventional phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadenadelmar.uy">[Cadena del Mar &#124; FM 106.5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadenadelmar.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That official setting matters, but it can be misunderstood. A military investigation does not mean a sighting has been validated as alien technology. In Uruguay, as elsewhere, “unidentified” mainly means that the available data did not allow investigators to assign a firm conventional cause. Sánchez’s stated protocol begins by testing ordinary possibilities: witness fraud, third-party fraud, conventional phenomena, psychological illusion and only then a non-conventional phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadenadelmar.uy">[Cadena del Mar &#124; FM 106.5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadenadelmar.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The numbers also argue against exaggeration. Older reporting from El País described about 40 unexplained cases in the Air Force’s records, and the same broad figure still appeared in 2026 reporting, suggesting a fairly stable core of unresolved files rather than a rapidly expanding archive of confirmed anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telenoche.com.uy/ciencia-y-tecnologia/uruguay-se-encamina-firmar-marzo-un-acuerdo-estados-unidos-colaborar-la-deteccion-ovnis-n5395898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telenoche.com.uy">[Telenoche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telenoche.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The numbers also argue against exaggeration. Older reporting from El País described about 40 unexplained cases in the Air Force’s records, and the same broad figure still appeared in 2026 reporting, suggesting a fairly stable core of unresolved files rather than a rapidly expanding archive of confirmed anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telenoche.com.uy/ciencia-y-tecnologia/uruguay-se-encamina-firmar-marzo-un-acuerdo-estados-unidos-colaborar-la-deteccion-ovnis-n5395898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telenoche.com.uy">[Telenoche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telenoche.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## A practical chronology of Uruguay’s better-known cases
 
 Uruguay’s UFO chronology is best understood through a few high-profile examples rather than a long catalogue of weak sightings. The cases below are notable because they have either been discussed in connection with official records, became part of regional folklore, or illustrate the evidential problems that run through the field.
 
-**1976–1977: La Aurora, Salto-Paysandú border region.** The La Aurora story is Uruguay’s most culturally famous UFO narrative. The account usually begins with a bright light, burned vegetation, dead animals and marks on the ground at a rural estate near the Daymán River. Over time, it became a pilgrimage site for UFO believers and spiritual tourists. El Observador describes how the story turned La Aurora into a reference point in Uruguay’s UFO imagination, while Búsqueda reports Sánchez’s more sceptical explanation: CRIDOVNI investigations attributed the original damage to a large electrical storm and lightning strike, not a verified UFO landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elobservador.com.uy">[El Observador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elobservador.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: busqueda.com.uy">[Búsqueda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">busqueda.com.uy</span><span class="citation-popover-title">Búsqueda Neil Armstrong y el misterio de La Aurora</span><span class="citation-popover-snippet">Búsqueda Neil Armstrong y el misterio de La Aurora</span></span></span>
+**1976–1977: La Aurora, Salto-Paysandú border region.** The La Aurora story is Uruguay’s most culturally famous UFO narrative. The account usually begins with a bright light, burned vegetation, dead animals and marks on the ground at a rural estate near the Daymán River. Over time, it became a pilgrimage site for UFO believers and spiritual tourists. El Observador describes how the story turned La Aurora into a reference point in Uruguay’s UFO imagination, while Búsqueda reports Sánchez’s more sceptical explanation: CRIDOVNI investigations attributed the original damage to a large electrical storm and lightning strike, not a verified UFO landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elobservador.com.uy">[El Observador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elobservador.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: busqueda.com.uy">[Búsqueda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">busqueda.com.uy</span><span class="citation-popover-title">Búsqueda Neil Armstrong y el misterio de La Aurora</span><span class="citation-popover-snippet">Búsqueda Neil Armstrong y el misterio de La Aurora</span></span></span>
 
-**1979: the commercial aircraft case.** El País reported a case involving pilots of a Uruguayan commercial aircraft returning from Paraguay, allegedly followed by a bright object that was photographed by passengers. The case was listed among those still without an explanation in the Air Force’s records, but the publicly available reporting does not provide enough primary documentation to treat it as more than an unresolved aviation report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+**1979: the commercial aircraft case.** El País reported a case involving pilots of a Uruguayan commercial aircraft returning from Paraguay, allegedly followed by a bright object that was photographed by passengers. The case was listed among those still without an explanation in the Air Force’s records, but the publicly available reporting does not provide enough primary documentation to treat it as more than an unresolved aviation report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-**1986: Palmar dam, Soriano.** This is one of Uruguay’s most cited [military cases]({{ 'military-cases/' | relative_url }}). According to El País, two Pucará military aircraft pursued a luminous sphere over the Palmar dam; the object reportedly accelerated towards Argentina, disappeared, then reappeared over the dam before again escaping pursuit and changing colour from reddish to yellow. The case is significant because it involves military pilots and a strategic infrastructure site, but public accounts still depend heavily on later summaries rather than a full public technical dossier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+**1986: Palmar dam, Soriano.** This is one of Uruguay’s most cited [military cases]({{ 'military-cases/' | relative_url }}). According to El País, two Pucará military aircraft pursued a luminous sphere over the Palmar dam; the object reportedly accelerated towards Argentina, disappeared, then reappeared over the dam before again escaping pursuit and changing colour from reddish to yellow. The case is significant because it involves military pilots and a strategic infrastructure site, but public accounts still depend heavily on later summaries rather than a full public technical dossier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-**1996: Santa Bernardina, Durazno.** El País also reported a case involving military pilots on exercises at the Santa Bernardina base in Durazno, where two luminous spheres were reportedly seen and corroborated by the airport control tower. Sánchez argued that the behaviour did not fit satellites because the objects appeared low, in formation and changed brightness while keeping their outline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+**1996: Santa Bernardina, Durazno.** El País also reported a case involving military pilots on exercises at the Santa Bernardina base in Durazno, where two luminous spheres were reportedly seen and corroborated by the airport control tower. Sánchez argued that the behaviour did not fit satellites because the objects appeared low, in formation and changed brightness while keeping their outline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-**2023: Paysandú lights.** The modern social-media era has made Uruguay’s UFO reports more visible. In February 2023, strange red or flashing lights were reported around Termas de Almirón in Paysandú, with accounts from roughly 20 witnesses and reports from neighbouring areas in Argentina. MercoPress reported that the Air Force ordered CRIDOVNI to intervene, gather information and interview witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span>
+**2023: Paysandú lights.** The modern social-media era has made Uruguay’s UFO reports more visible. In February 2023, strange red or flashing lights were reported around Termas de Almirón in Paysandú, with accounts from roughly 20 witnesses and reports from neighbouring areas in Argentina. MercoPress reported that the Air Force ordered CRIDOVNI to intervene, gather information and interview witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span>
 
 <img src="{{ "/assets/images/Uruguay_66b989-Illustration-1-dark.svg" | relative_url }}" alt="What Uruguay&#x27;s UFO Files Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Uruguay_66b989-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uruguay_66b989-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
-The clearest confirmed fact is institutional: Uruguay has had a recognised Air Force-linked mechanism for receiving and investigating UFO reports, and recent media reporting still treats CRIDOVNI as the relevant national body. The 2023 Paysandú case, for example, was not merely an internet rumour; the Air Force’s public-relations response and CRIDOVNI’s deployment were reported by multiple outlets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://turdef.com/article/uruguayan-air-force-investigating-flashing-lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turdef.com">[turdef.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turdef.com</span><span class="citation-popover-title">Uruguayan Air Force Investigating Flashing Lights in the Sky</span><span class="citation-popover-snippet">Uruguayan Air Force Investigating Flashing Lights in the Sky</span></span></span>
+The clearest confirmed fact is institutional: Uruguay has had a recognised Air Force-linked mechanism for receiving and investigating UFO reports, and recent media reporting still treats CRIDOVNI as the relevant national body. The 2023 Paysandú case, for example, was not merely an internet rumour; the Air Force’s public-relations response and CRIDOVNI’s deployment were reported by multiple outlets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://turdef.com/article/uruguayan-air-force-investigating-flashing-lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turdef.com">[turdef.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turdef.com</span><span class="citation-popover-title">Uruguayan Air Force Investigating Flashing Lights in the Sky</span><span class="citation-popover-snippet">Uruguayan Air Force Investigating Flashing Lights in the Sky</span></span></span>
 
-The contested category is larger. Palmar, Santa Bernardina and the 1979 aircraft case are better than anonymous sightings because they involve aviation witnesses, reported control-tower involvement or Air Force records. Yet they remain contested because public access to full sensor data, contemporaneous logs, photographs and technical analysis is limited. In those cases, the strongest honest conclusion is “unexplained in public reporting”, not “proved extraordinary”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+The contested category is larger. Palmar, Santa Bernardina and the 1979 aircraft case are better than anonymous sightings because they involve aviation witnesses, reported control-tower involvement or Air Force records. Yet they remain contested because public access to full sensor data, contemporaneous logs, photographs and technical analysis is limited. In those cases, the strongest honest conclusion is “unexplained in public reporting”, not “proved extraordinary”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-La Aurora is the clearest example of a debunked or at least substantially naturalised claim. The site remains culturally important, and its legends continue to shape UFO tourism and local identity. But the central physical claim — burned ground and damage caused by a UFO — has a conventional explanation in CRIDOVNI-linked reporting: a major lightning event. That does not erase the social history of the place, but it sharply lowers the evidential value of the case as a UFO incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: busqueda.com.uy">[Búsqueda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">busqueda.com.uy</span><span class="citation-popover-title">Búsqueda Neil Armstrong y el misterio de La Aurora</span><span class="citation-popover-snippet">Búsqueda Neil Armstrong y el misterio de La Aurora</span></span></span>
+La Aurora is the clearest example of a debunked or at least substantially naturalised claim. The site remains culturally important, and its legends continue to shape UFO tourism and local identity. But the central physical claim — burned ground and damage caused by a UFO — has a conventional explanation in CRIDOVNI-linked reporting: a major lightning event. That does not erase the social history of the place, but it sharply lowers the evidential value of the case as a UFO incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: busqueda.com.uy">[Búsqueda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">busqueda.com.uy</span><span class="citation-popover-title">Búsqueda Neil Armstrong y el misterio de La Aurora</span><span class="citation-popover-snippet">Búsqueda Neil Armstrong y el misterio de La Aurora</span></span></span>
 
 ## Regional patterns: why some places recur
 
 Uruguay’s reported cases are not evenly remembered across the country. Several regions recur because they offer either a strong physical setting, a strong witness setting, or a strong story setting.
 
-Paysandú and the western border zone are prominent partly because events there can spill into Argentina’s Entre Ríos province, creating cross-border witness clusters. The 2023 Termas de Almirón reports were visible not only in Paysandú but also, according to MercoPress, in neighbouring Argentine areas and other Uruguayan localities such as Colonia and San José. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span>
+Paysandú and the western border zone are prominent partly because events there can spill into Argentina’s Entre Ríos province, creating cross-border witness clusters. The 2023 Termas de Almirón reports were visible not only in Paysandú but also, according to MercoPress, in neighbouring Argentine areas and other Uruguayan localities such as Colonia and San José.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span>
 
-Soriano’s Palmar case has a different character. Its importance comes from the combination of military aircraft, a dam and a pursuit narrative. Even without treating the object as extraordinary, the case reads as an airspace-security incident rather than a casual rural sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+Soriano’s Palmar case has a different character. Its importance comes from the combination of military aircraft, a dam and a pursuit narrative. Even without treating the object as extraordinary, the case reads as an airspace-security incident rather than a casual rural sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-Salto and the La Aurora area show how a place can become important even when the evidential base is weak. The power of La Aurora lies in accumulated stories, pilgrimage, repeated retellings and its role in UFO tourism. El Observador’s discussion of Martín Gamboa’s anthropological work is useful here because it separates the question “did aliens visit?” from the more grounded question “how did this place become a durable UFO landmark?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elobservador.com.uy">[El Observador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elobservador.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Salto and the La Aurora area show how a place can become important even when the evidential base is weak. The power of La Aurora lies in accumulated stories, pilgrimage, repeated retellings and its role in UFO tourism. El Observador’s discussion of Martín Gamboa’s anthropological work is useful here because it separates the question “did aliens visit?” from the more grounded question “how did this place become a durable UFO landmark?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elobservador.com.uy">[El Observador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elobservador.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TW4nhse_Se0" title="Uruguay&#x27;s UFO Files Your Need to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TW4nhse_Se0" target="_blank" rel="noopener noreferrer">Uruguay&#x27;s UFO Files Your Need to Know</a></p><p class="youtube-embed-meta">Channel: OpenMindsTV &middot; Views: 10.9K &middot; Uploaded: March 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TW4nhse_Se0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TW4nhse_Se0">Open on YouTube</a></p></div></div></div>
 
@@ -1244,28 +1244,28 @@ Salto and the La Aurora area show how a place can become important even when the
 
 Uruguay’s UFO material has an unusual transparency problem. On one hand, the existence of an official commission makes the country more structured than places where reports are scattered across police files, private clubs and newspapers. On the other hand, the underlying records have not always been straightforwardly accessible.
 
-A 2020 resolution by Uruguay’s public information access authority records a complaint about the Air Force’s lack of response to a request for UFO-related incidents and reports. The Air Force said the request would be handled by CRIDOVNI, later argued that the information was reserved and confidential, and the access authority concluded that the Air Force should deliver the requested information except for material properly classified under the public information law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gub.uy/unidad-acceso-informacion-publica/sites/unidad-acceso-informacion-publica/files/2020-11/RESUAIP2016_AA_FuerzaAereaUruguaya.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gub.uy">[Gub.uy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gub.uy</span><span class="citation-popover-title">RESUAIP2016 AA FuerzaAereaUruguaya</span><span class="citation-popover-snippet">RESUAIP2016 AA FuerzaAereaUruguaya</span></span></span>
+A 2020 resolution by Uruguay’s public information access authority records a complaint about the Air Force’s lack of response to a request for UFO-related incidents and reports. The Air Force said the request would be handled by CRIDOVNI, later argued that the information was reserved and confidential, and the access authority concluded that the Air Force should deliver the requested information except for material properly classified under the public information law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gub.uy/unidad-acceso-informacion-publica/sites/unidad-acceso-informacion-publica/files/2020-11/RESUAIP2016_AA_FuerzaAereaUruguaya.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gub.uy">[Gub.uy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gub.uy</span><span class="citation-popover-title">RESUAIP2016 AA FuerzaAereaUruguaya</span><span class="citation-popover-snippet">RESUAIP2016 AA FuerzaAereaUruguaya</span></span></span>
 
 That resolution is important because it cuts both ways. It confirms that such records exist under Air Force control, but it also shows that public access can be restricted or delayed. For readers, this means secondary claims about “official Uruguayan UFO files” should be handled carefully unless they are tied to released documents, named cases, or clearly attributed interviews.
 
-The access authority also criticised generic classification. It stated that information cannot be classified in a blanket way and should be assessed individually, with proper legal criteria for reserved or confidential material. That is directly relevant to UFO research because broad secrecy can make ordinary unresolved cases seem more mysterious than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gub.uy/ministerio-defensa-nacional/sites/ministerio-defensa-nacional/files/2025-09/Resol.80938.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gub.uy">[Gub.uy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gub.uy</span><span class="citation-popover-title">www.gub.uy Ministerio</span><span class="citation-popover-snippet">www.gub.uy Ministerio</span></span></span>
+The access authority also criticised generic classification. It stated that information cannot be classified in a blanket way and should be assessed individually, with proper legal criteria for reserved or confidential material. That is directly relevant to UFO research because broad secrecy can make ordinary unresolved cases seem more mysterious than they are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gub.uy/ministerio-defensa-nacional/sites/ministerio-defensa-nacional/files/2025-09/Resol.80938.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gub.uy">[Gub.uy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gub.uy</span><span class="citation-popover-title">www.gub.uy Ministerio</span><span class="citation-popover-snippet">www.gub.uy Ministerio</span></span></span>
 
 <img src="{{ "/assets/images/Uruguay_66b989-Illustration-2-dark.svg" | relative_url }}" alt="What Uruguay&#x27;s UFO Files Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/Uruguay_66b989-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uruguay_66b989-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What modern investigation can now rule out faster
 
-A major shift in Uruguay is the growth of sky-monitoring infrastructure unrelated to UFO belief. The BOCOSUR project, led by astronomy researchers at Uruguay’s University of the Republic, has deployed a national network of all-sky cameras to detect fireballs and meteorite-producing events. Its published paper says deployment began in 2019 and was completed in 2023 with 20 stations across Uruguay, many installed at secondary schools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span><span class="citation-popover-snippet">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span></span></span>
+A major shift in Uruguay is the growth of sky-monitoring infrastructure unrelated to UFO belief. The BOCOSUR project, led by astronomy researchers at Uruguay’s University of the Republic, has deployed a national network of all-sky cameras to detect fireballs and meteorite-producing events. Its published paper says deployment began in 2019 and was completed in 2023 with 20 stations across Uruguay, many installed at secondary schools.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span><span class="citation-popover-snippet">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span></span></span>
 
-This matters for UFO analysis because many spectacular night reports begin as bright meteors, bolides, re-entering debris or other transient sky events. BOCOSUR is not a UFO office, but its cameras and data-processing methods help establish what a real meteor or fireball looked like, when it occurred and from which direction it travelled. That kind of independent astronomical record can either explain a sighting or narrow the field of possible explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span><span class="citation-popover-snippet">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span></span></span>
+This matters for UFO analysis because many spectacular night reports begin as bright meteors, bolides, re-entering debris or other transient sky events. BOCOSUR is not a UFO office, but its cameras and data-processing methods help establish what a real meteor or fireball looked like, when it occurred and from which direction it travelled. That kind of independent astronomical record can either explain a sighting or narrow the field of possible explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span><span class="citation-popover-snippet">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span></span></span>
 
-The network’s geography is especially useful for Uruguay because it covers a compact national territory with stations separated at roughly the right scale for multi-station fireball detection. The project’s authors also note that Uruguay’s fibre connectivity and geographically distributed schools made the network feasible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span><span class="citation-popover-snippet">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span></span></span>
+The network’s geography is especially useful for Uruguay because it covers a compact national territory with stations separated at roughly the right scale for multi-station fireball detection. The project’s authors also note that Uruguay’s fibre connectivity and geographically distributed schools made the network feasible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span><span class="citation-popover-snippet">arXiv BOCOSUR: An all sky network for fireball detection in Uruguay</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2uQDw0hmYsY" title="Buen día Uruguay - Avistamientos de OVNIS en Uruguay de Marzo de 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2uQDw0hmYsY" target="_blank" rel="noopener noreferrer">Buen día Uruguay - Avistamientos de OVNIS en Uruguay de Marzo de 2018</a></p><p class="youtube-embed-meta">Channel: Canal 4 &middot; Views: 68.5K &middot; Uploaded: March 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2uQDw0hmYsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2uQDw0hmYsY">Open on YouTube</a></p></div></div></div>
 
 ## The 2026 US link: useful, but easy to overread
 
-In 2026, Uruguayan outlets reported that CRIDOVNI and the US All-domain Anomaly Resolution Office, known as AARO, were moving towards a cooperation agreement. Montevideo Portal reported that the proposed arrangement was aimed at logistical support rather than money, with Sánchez saying the US side had offered hardware and software for more advanced work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.montevideo.com.uy/Noticias/Uruguay-firmara-acuerdo-con-Estados-Unidos-para-investigar-ovnis-de-que-se-trata-uc953258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montevideo.com.uy">[Montevideo Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montevideo.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In 2026, Uruguayan outlets reported that CRIDOVNI and the US All-domain Anomaly Resolution Office, known as AARO, were moving towards a cooperation agreement. Montevideo Portal reported that the proposed arrangement was aimed at logistical support rather than money, with Sánchez saying the US side had offered hardware and software for more advanced work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.montevideo.com.uy/Noticias/Uruguay-firmara-acuerdo-con-Estados-Unidos-para-investigar-ovnis-de-que-se-trata-uc953258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montevideo.com.uy">[Montevideo Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montevideo.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-El Observador added that the intended cooperation involved joint research, information exchange, equipment and logistical support, and that CRIDOVNI already maintained data-exchange agreements with Peru, Chile and Argentina. That makes Uruguay a useful bridge to sibling South American UFO research branches, especially Chile, Argentina and Peru, where official or semi-official aviation-linked UAP structures have also existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elobservador.com.uy">[El Observador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elobservador.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+El Observador added that the intended cooperation involved joint research, information exchange, equipment and logistical support, and that CRIDOVNI already maintained data-exchange agreements with Peru, Chile and Argentina. That makes Uruguay a useful bridge to sibling South American UFO research branches, especially Chile, Argentina and Peru, where official or semi-official aviation-linked UAP structures have also existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elobservador.com.uy">[El Observador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elobservador.com.uy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Still, the agreement should not be treated as validation of extraordinary claims. Its more realistic importance is methodological: common software, observation stations, shared terminology and better cross-border data handling could reduce false positives and make future unresolved cases easier to compare.
 
@@ -1275,11 +1275,11 @@ Still, the agreement should not be treated as validation of extraordinary claims
 
 A sensible reader can sort Uruguay-related UFO claims into three working levels.
 
-**Higher-value reports** involve trained aviation witnesses, multiple independent observers, control-tower or radar context, documented timing, and official follow-up. Palmar, Santa Bernardina and the 1979 aircraft report fall closer to this level, though they still need fuller public documentation before stronger claims can be made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+**Higher-value reports** involve trained aviation witnesses, multiple independent observers, control-tower or radar context, documented timing, and official follow-up. Palmar, Santa Bernardina and the 1979 aircraft report fall closer to this level, though they still need fuller public documentation before stronger claims can be made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-**Medium-value reports** involve multiple civilian witnesses and a prompt CRIDOVNI response, such as the 2023 Paysandú lights. These are worth tracking, but social-media videos alone are weak evidence because angle, distance, exposure, compression and missing context can distort what is seen. Sánchez has explicitly warned that photographs and videos are only contributions to a case, not decisive proof by themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
+**Medium-value reports** involve multiple civilian witnesses and a prompt CRIDOVNI response, such as the 2023 Paysandú lights. These are worth tracking, but social-media videos alone are weak evidence because angle, distance, exposure, compression and missing context can distort what is seen. Sánchez has explicitly warned that photographs and videos are only contributions to a case, not decisive proof by themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.mercopress.com">[MercoPress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.mercopress.com</span><span class="citation-popover-title">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span><span class="citation-popover-snippet">Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com.uy">[EL PAIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com.uy</span><span class="citation-popover-title">EL PAISHay aún 40 casos de ovnis sin explicación</span><span class="citation-popover-snippet">EL PAISHay aún 40 casos de ovnis sin explicación</span></span></span>
 
-**Low-value reports** are anonymous clips, tourism legends, claims attached to spiritual sites, or retellings with no dates, witnesses, chain of custody or original documentation. La Aurora remains important as folklore and tourism history, but its best-known physical claim has a conventional lightning explanation in CRIDOVNI-linked reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: busqueda.com.uy">[Búsqueda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">busqueda.com.uy</span><span class="citation-popover-title">Búsqueda Neil Armstrong y el misterio de La Aurora</span><span class="citation-popover-snippet">Búsqueda Neil Armstrong y el misterio de La Aurora</span></span></span>
+**Low-value reports** are anonymous clips, tourism legends, claims attached to spiritual sites, or retellings with no dates, witnesses, chain of custody or original documentation. La Aurora remains important as folklore and tourism history, but its best-known physical claim has a conventional lightning explanation in CRIDOVNI-linked reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: busqueda.com.uy">[Búsqueda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">busqueda.com.uy</span><span class="citation-popover-title">Búsqueda Neil Armstrong y el misterio de La Aurora</span><span class="citation-popover-snippet">Búsqueda Neil Armstrong y el misterio de La Aurora</span></span></span>
 
 <img src="{{ "/assets/images/Uruguay_66b989-Illustration-3-dark.svg" | relative_url }}" alt="What Uruguay&#x27;s UFO Files Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Uruguay_66b989-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uruguay_66b989-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Uruguay adds to the wider UFO project
@@ -1289,194 +1289,194 @@ Uruguay’s value is not that it proves a dramatic answer to the UFO question. I
 For the wider country-by-country UFO project, Uruguay should be treated as a compact but important comparison point. It links naturally to South American official-investigation branches such as Chile, Argentina and Peru; to aviation-safety cases involving trained witnesses; and to folklore-heavy locations where tourism and belief become part of the phenomenon. The country’s unresolved cases deserve attention, but the best reading remains disciplined: a minority of reports are unexplained, some famous claims have mundane explanations, and the most promising future evidence is likely to come from better instruments, shared databases and faster cross-checking rather than from louder retellings of old legends.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Uruguay&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Uruguay&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to discussions of case classification and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions of case classification and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating reports and unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating reports and unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects regional sightings with broader historical patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects regional sightings with broader historical patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches Uruguay&#x27;s mix of official investigations and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches Uruguay&#x27;s mix of official investigations and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-uruguay-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-uruguay-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1492,7 +1492,7 @@ For the wider country-by-country UFO project, Uruguay should be treated as a com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1512,7 +1512,7 @@ For the wider country-by-country UFO project, Uruguay should be treated as a com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1544,7 +1544,7 @@ For the wider country-by-country UFO project, Uruguay should be treated as a com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1596,7 +1596,7 @@ For the wider country-by-country UFO project, Uruguay should be treated as a com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1641,7 +1641,7 @@ For the wider country-by-country UFO project, Uruguay should be treated as a com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1679,134 +1679,133 @@ For the wider country-by-country UFO project, Uruguay should be treated as a com
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cadenadelmar.uy  
-   Link: <a href="https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066" target="_blank" rel="noopener noreferrer nofollow">https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066</a>  
+   Link:<a href="https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066" target="_blank" rel="noopener noreferrer nofollow">https://cadenadelmar.uy/nacional/cnel-ariel-sanchez-sobre-fenomenos-aereos-en-uruguay-manejamos-entre-un-3-y-un-4-de-casos-no-convencionales-que-superan-la-tecnologia-que-conocemos-17066</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: elpais.com.uy  
    Title: EL PAISHay aún 40 casos de ovnis sin explicación  
-   Link: <a href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow">https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion</a>  
+   Link:<a href="https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion" target="_blank" rel="noopener noreferrer nofollow">https://www.elpais.com.uy/informacion/hay-aun-40-casos-de-ovnis-sin-explicacion</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.mercopress.com  
    Title: Merco Press Uruguayan Air Force to handle UFO sightings — Merco Press  
-   Link: <a href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings</a>  
+   Link:<a href="https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.mercopress.com/2023/02/13/uruguayan-air-force-to-handle-ufo-sightings</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: turdef.com  
    Title: Uruguayan Air Force Investigating Flashing Lights in the Sky  
-   Link: <a href="https://turdef.com/article/uruguayan-air-force-investigating-flashing-lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://turdef.com/article/uruguayan-air-force-investigating-flashing-lights-in-the-sky</a>  
+   Link:<a href="https://turdef.com/article/uruguayan-air-force-investigating-flashing-lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://turdef.com/article/uruguayan-air-force-investigating-flashing-lights-in-the-sky</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gub.uy  
    Title: RESUAIP2016 AA FuerzaAereaUruguaya  
-   Link: <a href="https://www.gub.uy/unidad-acceso-informacion-publica/sites/unidad-acceso-informacion-publica/files/2020-11/RESUAIP2016_AA_FuerzaAereaUruguaya.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gub.uy/unidad-acceso-informacion-publica/sites/unidad-acceso-informacion-publica/files/2020-11/RESUAIP2016_AA_FuerzaAereaUruguaya.pdf</a>  
+   Link:<a href="https://www.gub.uy/unidad-acceso-informacion-publica/sites/unidad-acceso-informacion-publica/files/2020-11/RESUAIP2016_AA_FuerzaAereaUruguaya.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gub.uy/unidad-acceso-informacion-publica/sites/unidad-acceso-informacion-publica/files/2020-11/RESUAIP2016_AA_FuerzaAereaUruguaya.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv BOCOSUR: An all sky network for fireball detection in Uruguay  
-   Link: <a href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.08917v1</a>  
+   Link:<a href="https://arxiv.org/html/2605.08917v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.08917v1</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gub.uy  
    Title: www.gub.uy Ministerio  
-   Link: <a href="https://www.gub.uy/ministerio-defensa-nacional/sites/ministerio-defensa-nacional/files/2025-09/Resol.80938.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gub.uy/ministerio-defensa-nacional/sites/ministerio-defensa-nacional/files/2025-09/Resol.80938.pdf</a>  
+   Link:<a href="https://www.gub.uy/ministerio-defensa-nacional/sites/ministerio-defensa-nacional/files/2025-09/Resol.80938.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gub.uy/ministerio-defensa-nacional/sites/ministerio-defensa-nacional/files/2025-09/Resol.80938.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.08917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.08917</a>  
+   Link:<a href="https://arxiv.org/abs/2605.08917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.08917</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medios.presidencia.gub.uy  
-   Link: <a href="https://medios.presidencia.gub.uy/jm_portal/2012/noticias/NO_G558/diagnostico.pdf" target="_blank" rel="noopener noreferrer nofollow">https://medios.presidencia.gub.uy/jm_portal/2012/noticias/NO_G558/diagnostico.pdf</a>  
+   Link:<a href="https://medios.presidencia.gub.uy/jm_portal/2012/noticias/NO_G558/diagnostico.pdf" target="_blank" rel="noopener noreferrer nofollow">https://medios.presidencia.gub.uy/jm_portal/2012/noticias/NO_G558/diagnostico.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: telenoche.com.uy  
-   Link: <a href="https://www.telenoche.com.uy/ciencia-y-tecnologia/uruguay-se-encamina-firmar-marzo-un-acuerdo-estados-unidos-colaborar-la-deteccion-ovnis-n5395898" target="_blank" rel="noopener noreferrer nofollow">https://www.telenoche.com.uy/ciencia-y-tecnologia/uruguay-se-encamina-firmar-marzo-un-acuerdo-estados-unidos-colaborar-la-deteccion-ovnis-n5395898</a>  
+   Link:<a href="https://www.telenoche.com.uy/ciencia-y-tecnologia/uruguay-se-encamina-firmar-marzo-un-acuerdo-estados-unidos-colaborar-la-deteccion-ovnis-n5395898" target="_blank" rel="noopener noreferrer nofollow">https://www.telenoche.com.uy/ciencia-y-tecnologia/uruguay-se-encamina-firmar-marzo-un-acuerdo-estados-unidos-colaborar-la-deteccion-ovnis-n5395898</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: elobservador.com.uy  
-   Link: <a href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow">https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250</a>  
+   Link:<a href="https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250" target="_blank" rel="noopener noreferrer nofollow">https://www.elobservador.com.uy/nota/ovnis-en-uruguay-entre-las-luces-sin-explicacion-y-un-pais-con-tradicion-de-turismo-ufologico-202321717250</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: busqueda.com.uy  
    Title: Búsqueda Neil Armstrong y el misterio de La Aurora  
-   Link: <a href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow">https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922</a>  
+   Link:<a href="https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922" target="_blank" rel="noopener noreferrer nofollow">https://www.busqueda.com.uy/Secciones/Neil-Armstrong-y-el-misterio-de-La-Aurora-uc52922</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: montevideo.com.uy  
-   Link: <a href="https://www.montevideo.com.uy/Noticias/Uruguay-firmara-acuerdo-con-Estados-Unidos-para-investigar-ovnis-de-que-se-trata-uc953258" target="_blank" rel="noopener noreferrer nofollow">https://www.montevideo.com.uy/Noticias/Uruguay-firmara-acuerdo-con-Estados-Unidos-para-investigar-ovnis-de-que-se-trata-uc953258</a>  
+   Link:<a href="https://www.montevideo.com.uy/Noticias/Uruguay-firmara-acuerdo-con-Estados-Unidos-para-investigar-ovnis-de-que-se-trata-uc953258" target="_blank" rel="noopener noreferrer nofollow">https://www.montevideo.com.uy/Noticias/Uruguay-firmara-acuerdo-con-Estados-Unidos-para-investigar-ovnis-de-que-se-trata-uc953258</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: elobservador.com.uy  
-   Link: <a href="https://www.elobservador.com.uy/nacional/fuerza-aerea-trabaja-concretar-acuerdo-cooperacion-agencia-estados-unidos-la-investigacion-ovnis-el-detalle-del-convenio-n6034663" target="_blank" rel="noopener noreferrer nofollow">https://www.elobservador.com.uy/nacional/fuerza-aerea-trabaja-concretar-acuerdo-cooperacion-agencia-estados-unidos-la-investigacion-ovnis-el-detalle-del-convenio-n6034663</a>  
+   Link:<a href="https://www.elobservador.com.uy/nacional/fuerza-aerea-trabaja-concretar-acuerdo-cooperacion-agencia-estados-unidos-la-investigacion-ovnis-el-detalle-del-convenio-n6034663" target="_blank" rel="noopener noreferrer nofollow">https://www.elobservador.com.uy/nacional/fuerza-aerea-trabaja-concretar-acuerdo-cooperacion-agencia-estados-unidos-la-investigacion-ovnis-el-detalle-del-convenio-n6034663</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://de.wikipedia.org/wiki/Comisi%C3%B3n_Receptora_e_Investigadora_de_Denuncias_de_Objetos_Voladores_No_Identificados" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Comisi%C3%B3n_Receptora_e_Investigadora_de_Denuncias_de_Objetos_Voladores_No_Identificados</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Comisi%C3%B3n_Receptora_e_Investigadora_de_Denuncias_de_Objetos_Voladores_No_Identificados" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Comisi%C3%B3n_Receptora_e_Investigadora_de_Denuncias_de_Objetos_Voladores_No_Identificados</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: elpais.com.uy  
    Title: ovnis y turismo una extrana combinacion en la estancia la aurora de salto  
-   Link: <a href="https://www.elpais.com.uy/domingo/ovnis-y-turismo-una-extrana-combinacion-en-la-estancia-la-aurora-de-salto" target="_blank" rel="noopener noreferrer nofollow">https://www.elpais.com.uy/domingo/ovnis-y-turismo-una-extrana-combinacion-en-la-estancia-la-aurora-de-salto</a>  
+   Link:<a href="https://www.elpais.com.uy/domingo/ovnis-y-turismo-una-extrana-combinacion-en-la-estancia-la-aurora-de-salto" target="_blank" rel="noopener noreferrer nofollow">https://www.elpais.com.uy/domingo/ovnis-y-turismo-una-extrana-combinacion-en-la-estancia-la-aurora-de-salto</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PLX0SH7Sz7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PLX0SH7Sz7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The television broadcast FAU investiga presencia de ovnis en Uruguay is highly relevant as it explicitly covers the Uruguayan Air Force&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PLX0SH7Sz7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PLX0SH7Sz7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The television broadcast FAU investiga presencia de ovnis en Uruguay is highly relevant as it explicitly covers the Uruguayan Air Force&#x27;s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: 4 South American UFO Cases | Tales from the Dark Side  
-   Link: <a href="https://www.youtube.com/watch?v=Oh-ErMLZLr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oh-ErMLZLr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Entrevista - CRIDOVNI investiga denuncias de objetos no identificados...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oh-ErMLZLr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oh-ErMLZLr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Entrevista - CRIDOVNI investiga denuncias de objetos no identificados...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Good day Uruguay  
-   Link: <a href="https://www.youtube.com/watch?v=2uQDw0hmYsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2uQDw0hmYsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAU investiga presencia de ovnis en Uruguay...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2uQDw0hmYsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2uQDw0hmYsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAU investiga presencia de ovnis en Uruguay...</p></details>
    Published: March 2018  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/peoplemag/posts/a-man-from-uruguay-now-holds-a-unique-record-biggest-eyeball-pop/1088089319851410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peoplemag/posts/a-man-from-uruguay-now-holds-a-unique-record-biggest-eyeball-pop/1088089319851410/</a>  
+   Link:<a href="https://www.facebook.com/peoplemag/posts/a-man-from-uruguay-now-holds-a-unique-record-biggest-eyeball-pop/1088089319851410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peoplemag/posts/a-man-from-uruguay-now-holds-a-unique-record-biggest-eyeball-pop/1088089319851410/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/311571940535154/posts/1179485773743762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/311571940535154/posts/1179485773743762/</a>  
+   Link:<a href="https://www.facebook.com/groups/311571940535154/posts/1179485773743762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/311571940535154/posts/1179485773743762/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C-YQLrKJiHr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C-YQLrKJiHr/</a>  
+   Link:<a href="https://www.instagram.com/p/C-YQLrKJiHr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C-YQLrKJiHr/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUoNY-kCWRt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUoNY-kCWRt/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DUoNY-kCWRt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUoNY-kCWRt/?hl=en</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cadenadelmarfm1065/videos/el-presidente-de-la-comisi%C3%B3n-receptora-e-investigadora-de-denuncias-de-objetos-v/740479228890619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cadenadelmarfm1065/videos/el-presidente-de-la-comisi%C3%B3n-receptora-e-investigadora-de-denuncias-de-objetos-v/740479228890619/</a>  
+   Link:<a href="https://www.facebook.com/cadenadelmarfm1065/videos/el-presidente-de-la-comisi%C3%B3n-receptora-e-investigadora-de-denuncias-de-objetos-v/740479228890619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cadenadelmarfm1065/videos/el-presidente-de-la-comisi%C3%B3n-receptora-e-investigadora-de-denuncias-de-objetos-v/740479228890619/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/estacionbcp/posts/en-salto-uruguay-se-report%C3%B3-el-avistamiento-de-luces-extra%C3%B1as-en-el-cielo-pero-s/1048913617272898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/estacionbcp/posts/en-salto-uruguay-se-report%C3%B3-el-avistamiento-de-luces-extra%C3%B1as-en-el-cielo-pero-s/1048913617272898/</a>
+   Link:<a href="https://www.facebook.com/estacionbcp/posts/en-salto-uruguay-se-report%C3%B3-el-avistamiento-de-luces-extra%C3%B1as-en-el-cielo-pero-s/1048913617272898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/estacionbcp/posts/en-salto-uruguay-se-report%C3%B3-el-avistamiento-de-luces-extra%C3%B1as-en-el-cielo-pero-s/1048913617272898/</a>

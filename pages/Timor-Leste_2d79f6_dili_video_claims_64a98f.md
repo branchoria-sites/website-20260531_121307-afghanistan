@@ -257,7 +257,7 @@ image: /assets/images/Timor-Leste_2d79f6_dili_video_claims_64a98f-Illustration-1
 Dili generates most of Timor-Leste’s publicly visible UFO claims, but not because it has the country’s strongest evidence. The capital is where most residents carry smartphones, where visitors post videos, and where aircraft, harbour lighting, shipping activity, reflections, and drones are most concentrated. As a result, many “UFO over Dili” clips circulate online without enough information to establish what was actually recorded. The central question is usually not whether an object looks unusual, but whether the original file, location, timing, and viewing conditions can be independently checked.
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_dili_video_claims_64a98f-Illustration-1-dark.svg" | relative_url }}" alt="Dili Videos illustration 1" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_dili_video_claims_64a98f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_dili_video_claims_64a98f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The pattern seen across Dili-related posts is consistent: short social videos, reposted clips, screenshots, or heavily compressed uploads are shared with dramatic captions, while the information needed for verification is absent. That does not automatically make every claim false. It does mean that most Dili harbour videos remain unclassified because there is not enough evidence to move them beyond speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO Over Dili Timor Leste</span><span class="citation-popover-snippet">UFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019. Amável Sousa and 4 ot...</span></span></span>
+The pattern seen across Dili-related posts is consistent: short social videos, reposted clips, screenshots, or heavily compressed uploads are shared with dramatic captions, while the information needed for verification is absent. That does not automatically make every claim false. It does mean that most Dili harbour videos remain unclassified because there is not enough evidence to move them beyond speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO Over Dili Timor Leste</span><span class="citation-popover-snippet">UFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019. Amável Sousa and 4 ot...</span></span></span>
 
 ## What Dili posts usually show
 
@@ -269,7 +269,7 @@ The second category involves multiple lights appearing in a line or cluster. In 
 
 The third category consists of brief moving lights crossing the frame. These are difficult to assess because many clips begin after the witness has already noticed the object. The recording therefore captures only the most ambiguous part of the event rather than its full movement pattern.
 
-A Facebook video labelled “UFO Over Dili Timor Leste” circulated in 2019 and is frequently referenced in later reposts. However, publicly accessible versions provide little more than a title and compressed footage, with no detailed observation record, original file release, witness interview, or technical analysis. The clip therefore functions more as an example of Dili’s social-media UFO culture than as a strong evidential case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/boremetotears/posts/744734995735913/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Darwin (YPDN) Flight Time: 1hr 12mins Altitude: FL370 Having been here a few...Read more...</span></span></span>
+A Facebook video labelled “UFO Over Dili Timor Leste” circulated in 2019 and is frequently referenced in later reposts. However, publicly accessible versions provide little more than a title and compressed footage, with no detailed observation record, original file release, witness interview, or technical analysis. The clip therefore functions more as an example of Dili’s social-media UFO culture than as a strong evidential case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/boremetotears/posts/744734995735913/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Darwin (YPDN) Flight Time: 1hr 12mins Altitude: FL370 Having been here a few...Read more...</span></span></span>
 
 ## Why verification usually fails
 
@@ -285,7 +285,7 @@ When investigators attempt to evaluate unusual aerial footage, they normally see
 * Direction of view.
 * Device model and camera settings.
 * Duration before and after the uploaded clip.
-* Information from other witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ypAvUCnqdQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">【4K】 Drone RAW Footage This is EAST TIMOR 2024...May 1, 2024 — 4K raw footage from EAST TIMOR (TIMOR-LESTE) at Dili (Capital City...</span><span class="citation-popover-meta">Published: May 1, 2024</span></span></span>
+* Information from other witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ypAvUCnqdQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">【4K】 Drone RAW Footage This is EAST TIMOR 2024...May 1, 2024 — 4K raw footage from EAST TIMOR (TIMOR-LESTE) at Dili (Capital City...</span><span class="citation-popover-meta">Published: May 1, 2024</span></span></span>
 
 </div>
 
@@ -324,11 +324,11 @@ This is particularly important because many UFO narratives rely on witness estim
 
 A recurring issue in Dili videos is the tendency to underestimate the role of civil aviation.
 
-Presidente Nicolau Lobato International Airport sits directly within the capital and serves as Timor-Leste’s primary international gateway. Aircraft arrive and depart over coastal areas that are visible from many common filming locations around Dili Bay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kupi.com/en-ae/explore/timor-leste/dili/comoro-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kupi.com">[kupi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kupi.com</span><span class="citation-popover-snippet">Presidente Nicolau Lobato Airport (DIL) – Dili GuideEssential guide for Comoro Airport in Dili. Discover terminal info, transport options...</span></span></span>
+Presidente Nicolau Lobato International Airport sits directly within the capital and serves as Timor-Leste’s primary international gateway. Aircraft arrive and depart over coastal areas that are visible from many common filming locations around Dili Bay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kupi.com/en-ae/explore/timor-leste/dili/comoro-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kupi.com">[kupi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kupi.com</span><span class="citation-popover-snippet">Presidente Nicolau Lobato Airport (DIL) – Dili GuideEssential guide for Comoro Airport in Dili. Discover terminal info, transport options...</span></span></span>
 
 Modern landing lights can be visible from long distances and may appear almost motionless when an aircraft is approaching directly toward an observer. This effect regularly causes reports of hovering objects worldwide.
 
-Dili's air traffic volume is modest compared with major regional hubs, but international services connect the city with destinations including Darwin, Denpasar, Kuala Lumpur, Singapore, and parts of China. Aircraft approaching from over the Timor Sea or departing along coastal routes can create viewing angles that seem unusual to people unfamiliar with aviation lighting patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightconnections.com/flights-from-dili-dil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">Flight Connections Flights from Dili (DIL</span><span class="citation-popover-snippet">Flights from Dili (DIL)November 25, 2018 — 4 May 2026 — All direct (non-stop) flights from Dili (DIL) on an interactive...</span><span class="citation-popover-meta">Published: November 25, 2018</span></span></span>
+Dili's air traffic volume is modest compared with major regional hubs, but international services connect the city with destinations including Darwin, Denpasar, Kuala Lumpur, Singapore, and parts of China. Aircraft approaching from over the Timor Sea or departing along coastal routes can create viewing angles that seem unusual to people unfamiliar with aviation lighting patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightconnections.com/flights-from-dili-dil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">Flight Connections Flights from Dili (DIL</span><span class="citation-popover-snippet">Flights from Dili (DIL)November 25, 2018 — 4 May 2026 — All direct (non-stop) flights from Dili (DIL) on an interactive...</span><span class="citation-popover-meta">Published: November 25, 2018</span></span></span>
 
 Night-time identification becomes even harder when only a single bright light is visible. A landing aircraft may present little more than a luminous point to a distant observer, with navigation lights and body structure effectively invisible.
 
@@ -336,7 +336,7 @@ Night-time identification becomes even harder when only a single bright light is
 
 Older Dili reports often focused on aircraft or unidentified lights. More recent social-media footage must also be assessed against drone activity.
 
-Consumer drones are now widely used for tourism, travel filming, and coastal photography. Drone footage from Dili and other parts of Timor-Leste is routinely posted online, demonstrating that aerial filming around the capital is neither rare nor unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ypAvUCnqdQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">【4K】 Drone RAW Footage This is EAST TIMOR 2024...May 1, 2024 — 4K raw footage from EAST TIMOR (TIMOR-LESTE) at Dili (Capital City...</span><span class="citation-popover-meta">Published: May 1, 2024</span></span></span>
+Consumer drones are now widely used for tourism, travel filming, and coastal photography. Drone footage from Dili and other parts of Timor-Leste is routinely posted online, demonstrating that aerial filming around the capital is neither rare nor unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ypAvUCnqdQs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">【4K】 Drone RAW Footage This is EAST TIMOR 2024...May 1, 2024 — 4K raw footage from EAST TIMOR (TIMOR-LESTE) at Dili (Capital City...</span><span class="citation-popover-meta">Published: May 1, 2024</span></span></span>
 
 Drones can generate several features commonly interpreted as anomalous:
 
@@ -398,199 +398,199 @@ A stronger case would include:
 
 The difference between a curiosity and a serious case is often not what appears on screen but the amount of surrounding information that survives.
 
-This is why Dili's social-video archive remains largely inconclusive. The city produces many claims but very few cases that can be reconstructed in a rigorous way. The available public record points less toward a confirmed unexplained phenomenon than toward a recurring verification problem: unusual-looking lights recorded in a busy coastal capital, then circulated online without the evidence needed to determine what they were. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/dil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Dili Presidente Nicolau Lobato International AirportDili Presidente Nicolau Lobato International Airport, (DIL/WPDL), Timor-Leste (East T...</span></span></span>
+This is why Dili's social-video archive remains largely inconclusive. The city produces many claims but very few cases that can be reconstructed in a rigorous way. The available public record points less toward a confirmed unexplained phenomenon than toward a recurring verification problem: unusual-looking lights recorded in a busy coastal capital, then circulated online without the evidence needed to determine what they were. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/dil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Dili Presidente Nicolau Lobato International AirportDili Presidente Nicolau Lobato International Airport, (DIL/WPDL), Timor-Leste (East T...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0afJZzqxCew" title="EAST TIMOR: ARRIVAL OF UN PEACEKEEPING TROOPS: EVENING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0afJZzqxCew" target="_blank" rel="noopener noreferrer">EAST TIMOR: ARRIVAL OF UN PEACEKEEPING TROOPS: EVENING</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 959 &middot; Uploaded: July 2015 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0afJZzqxCew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0afJZzqxCew">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Dili UFO Videos Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Dili UFO Videos Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for classifying and evaluating sightings beyond appearances alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for classifying and evaluating sightings beyond appearances alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses evidence, reporting quality, and modern UAP controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence, reporting quality, and modern UAP controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises evidence standards and verification issues similar to assessing online videos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence standards and verification issues similar to assessing online videos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Final Report of the Scientific Study of Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TwdDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Final Report of the Scientific Study of Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Final Report of the Scientific Study of Unidentified Flying Objects">Final Report of the Scientific Study of Unidentified Flying O...</a>
-        </h4>
-        <p class="fr-book-author">By University of Colorado (Boulder campus), Edward Uhler Condon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Final Report of the Scientific Study of Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TwdDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Final Report of the Scientific Study of Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Final Report of the Scientific Study of Unidentified Flying Objects">Final Report of the Scientific Study of Unidentified Flying O...</a>
+</h4>
+<p class="fr-book-author">By University of Colorado (Boulder campus), Edward Uhler Condon</p>
         
-        <p class="fr-book-desc">Useful for understanding evidential thresholds and investigation standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding evidential thresholds and investigation standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-dili-ufo-videos-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-dili-ufo-videos-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,133 +793,132 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: UFO Over Dili Timor Leste  
-   Link: <a href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019. Amável Sousa and 4 ot...</p></details>
+   Link:<a href="https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FilmDistribution.hoa/videos/ufo-over-dili-timor-leste-latest-ufo-sightings-2019/591328098715632/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Dili Timor Leste - Latest UFO Sightings 2019UFO Over Dili Timor Leste - Latest UFO Sightings 2019. Amável Sousa and 4 ot...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/dil" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/dil</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dili Presidente Nicolau Lobato International AirportDili Presidente Nicolau Lobato International Airport, (DIL/WPDL), Timor-Leste (East T...</p></details>
+   Link:<a href="https://www.flightradar24.com/data/airports/dil" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/dil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dili Presidente Nicolau Lobato International AirportDili Presidente Nicolau Lobato International Airport, (DIL/WPDL), Timor-Leste (East T...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/timor-leste/dili/comoro-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/timor-leste/dili/comoro-airport</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidente Nicolau Lobato Airport (DIL) – Dili GuideEssential guide for Comoro Airport in Dili. Discover terminal info, transport options...</p></details>
+   Link:<a href="https://www.kupi.com/en-ae/explore/timor-leste/dili/comoro-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/timor-leste/dili/comoro-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Presidente Nicolau Lobato Airport (DIL) – Dili GuideEssential guide for Comoro Airport in Dili. Discover terminal info, transport options...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flightconnections.com  
    Title: Flight Connections Flights from Dili (DIL)  
-   Link: <a href="https://www.flightconnections.com/flights-from-dili-dil" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-dili-dil</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Dili (DIL)November 25, 2018 — 4 May 2026 — All direct (non-stop) flights from Dili (DIL) on an interactive...</p></details>
+   Link:<a href="https://www.flightconnections.com/flights-from-dili-dil" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-dili-dil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Dili (DIL)November 25, 2018 — 4 May 2026 — All direct (non-stop) flights from Dili (DIL) on an interactive...</p></details>
    Published: November 25, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ypAvUCnqdQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypAvUCnqdQs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>【4K】 Drone RAW Footage This is EAST TIMOR 2024...May 1, 2024 — 4K raw footage from EAST TIMOR (TIMOR-LESTE) at Dili (Capital City...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ypAvUCnqdQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypAvUCnqdQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>【4K】 Drone RAW Footage This is EAST TIMOR 2024...May 1, 2024 — 4K raw footage from EAST TIMOR (TIMOR-LESTE) at Dili (Capital City...</p></details>
    Published: May 1, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/boremetotears/posts/744734995735913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/boremetotears/posts/744734995735913/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin (YPDN) Flight Time: 1hr 12mins Altitude: FL370 Having been here a few...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/boremetotears/posts/744734995735913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/boremetotears/posts/744734995735913/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin (YPDN) Flight Time: 1hr 12mins Altitude: FL370 Having been here a few...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Licypriya4Planet/posts/eigonda-sinnabirakpa-ufo-satjal-ge-un-da-pukhatkadaba-wafam-sing-ngasi-east-timo/1564189727559801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Licypriya4Planet/posts/eigonda-sinnabirakpa-ufo-satjal-ge-un-da-pukhatkadaba-wafam-sing-ngasi-east-timo/1564189727559801/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eigonda sinnabirakpa UFO Satjal ge UN 🇺🇳 da...UFO ge luchingba singgasu Video Conference ki khuthangda ngasi... Timor-Leste submitted t...</p></details>
+   Link:<a href="https://www.facebook.com/Licypriya4Planet/posts/eigonda-sinnabirakpa-ufo-satjal-ge-un-da-pukhatkadaba-wafam-sing-ngasi-east-timo/1564189727559801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Licypriya4Planet/posts/eigonda-sinnabirakpa-ufo-satjal-ge-un-da-pukhatkadaba-wafam-sing-ngasi-east-timo/1564189727559801/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eigonda sinnabirakpa UFO Satjal ge UN 🇺🇳 da...UFO ge luchingba singgasu Video Conference ki khuthangda ngasi... Timor-Leste submitted t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Darwinairport/posts/darwindili-a-new-air-bridge-across-the-timor-seaairport-development-group-is-pro/1350176910483382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Darwinairport/posts/darwindili-a-new-air-bridge-across-the-timor-seaairport-development-group-is-pro/1350176910483382/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nnecting industries and communities while supporting deeper...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Darwinairport/posts/darwindili-a-new-air-bridge-across-the-timor-seaairport-development-group-is-pro/1350176910483382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Darwinairport/posts/darwindili-a-new-air-bridge-across-the-timor-seaairport-development-group-is-pro/1350176910483382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nnecting industries and communities while supporting deeper...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: EAST TIMOR: ARRIVAL OF UN PEACEKEEPING TROOPS: EVENING  
-   Link: <a href="https://www.youtube.com/watch?v=0afJZzqxCew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0afJZzqxCew</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timor Leste Dili - SURPRISING First Impressions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0afJZzqxCew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0afJZzqxCew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timor Leste Dili - SURPRISING First Impressions...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Timor Leste Dili  
-   Link: <a href="https://www.youtube.com/watch?v=3_nDqFyCNqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3_nDqFyCNqA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EAST TIMOR: DILI: INDONESIAN TROOPS PREPARE TO LEAVE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3_nDqFyCNqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3_nDqFyCNqA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EAST TIMOR: DILI: INDONESIAN TROOPS PREPARE TO LEAVE...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: EAST TIMOR: DILI: INDONESIAN TROOPS PREPARE TO LEAVE  
-   Link: <a href="https://www.youtube.com/watch?v=bZdjmbnQUYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bZdjmbnQUYk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road Trip Dili - Timor Leste 2014 | Tempo Dulu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bZdjmbnQUYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bZdjmbnQUYk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road Trip Dili - Timor Leste 2014 | Tempo Dulu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Road Trip Dili  
-   Link: <a href="https://www.youtube.com/watch?v=3LOVG4B2se0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3LOVG4B2se0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dili&#x27;s New Drone - DJI Neo 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3LOVG4B2se0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3LOVG4B2se0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dili&#x27;s New Drone - DJI Neo 2...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Dili's New Drone  
-   Link: <a href="https://www.youtube.com/watch?v=WHeDE6ub72w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WHeDE6ub72w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=WHeDE6ub72w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WHeDE6ub72w</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: coralreefs.org  
-   Link: <a href="https://coralreefs.org/wp-content/uploads/2019/01/ICRS-2016-Abstract-Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coralreefs.org/wp-content/uploads/2019/01/ICRS-2016-Abstract-Book.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT BOOKThis program is produced for information and to provide assistance on site at the meeting. It contains the most up-to-date s...</p></details>
+   Link:<a href="https://coralreefs.org/wp-content/uploads/2019/01/ICRS-2016-Abstract-Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coralreefs.org/wp-content/uploads/2019/01/ICRS-2016-Abstract-Book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT BOOKThis program is produced for information and to provide assistance on site at the meeting. It contains the most up-to-date s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asean.org  
-   Link: <a href="https://asean.org/wp-content/uploads/2023/08/20231011_AMO-Report-COMPLETE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asean.org/wp-content/uploads/2023/08/20231011_AMO-Report-COMPLETE.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASEAN Maritime Outlook• Extent of Transfer of Alien Invasive Organisms. (Nuisance) between South and SE Asia by. Shipping (Phase II). • I...</p></details>
+   Link:<a href="https://asean.org/wp-content/uploads/2023/08/20231011_AMO-Report-COMPLETE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asean.org/wp-content/uploads/2023/08/20231011_AMO-Report-COMPLETE.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASEAN Maritime Outlook• Extent of Transfer of Alien Invasive Organisms. (Nuisance) between South and SE Asia by. Shipping (Phase II). • I...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: undp.org  
-   Link: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-07/esiaesmp_water_supply_fp109_26_june_23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/sites/g/files/zskgke326/files/2023-07/esiaesmp_water_supply_fp109_26_june_23.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESIA and ESMP for Water Supply Projectsinvasive alien species, overexploitation, hydrological changes, nutrient loading, pollution... Th...</p></details>
+   Link:<a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-07/esiaesmp_water_supply_fp109_26_june_23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/sites/g/files/zskgke326/files/2023-07/esiaesmp_water_supply_fp109_26_june_23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ESIA and ESMP for Water Supply Projectsinvasive alien species, overexploitation, hydrological changes, nutrient loading, pollution... Th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: msp-channel.com  
-   Link: <a href="https://msp-channel.com/" target="_blank" rel="noopener noreferrer nofollow">https://msp-channel.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MSP Channel Insights: HomeTimor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey... The MSP Channel Insights Video maga...</p></details>
+   Link:<a href="https://msp-channel.com/" target="_blank" rel="noopener noreferrer nofollow">https://msp-channel.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MSP Channel Insights: HomeTimor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey... The MSP Channel Insights Video maga...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: devpolicy.org  
    Title: a tale of four airports aviation in timor leste 20190718  
-   Link: <a href="https://devpolicy.org/a-tale-of-four-airports-aviation-in-timor-leste-20190718/" target="_blank" rel="noopener noreferrer nofollow">https://devpolicy.org/a-tale-of-four-airports-aviation-in-timor-leste-20190718/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A tale of four airports: aviation in Timor-Leste18 Jul 2019 — Four &#x27;international&#x27; airports – Dili, Baucau, Suai, and the recently inaugu...</p></details>
+   Link:<a href="https://devpolicy.org/a-tale-of-four-airports-aviation-in-timor-leste-20190718/" target="_blank" rel="noopener noreferrer nofollow">https://devpolicy.org/a-tale-of-four-airports-aviation-in-timor-leste-20190718/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A tale of four airports: aviation in Timor-Leste18 Jul 2019 — Four &#x27;international&#x27; airports – Dili, Baucau, Suai, and the recently inaugu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asiafoundation.org  
-   Link: <a href="https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin (Australia) is serviced by chartered flights by Air. North. For the route from Dili-Singapore, Air Timor remains the only provider...</p></details>
+   Link:<a href="https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin (Australia) is serviced by chartered flights by Air. North. For the route from Dili-Singapore, Air Timor remains the only provider...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYXI8mVt-LU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYXI8mVt-LU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ore alien, cultures arranged by clear, straight-edged acrylic corals...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYXI8mVt-LU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYXI8mVt-LU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ore alien, cultures arranged by clear, straight-edged acrylic corals...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: freedomhouse.org  
    Title: Freedom in the World 2013 complete book  
-   Link: <a href="https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2013_complete_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2013_complete_book.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom in the World 2013 could not have been completed without the contribu tions of numerous Freedom House staff members and consultant...</p></details>
+   Link:<a href="https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2013_complete_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2013_complete_book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom in the World 2013 could not have been completed without the contribu tions of numerous Freedom House staff members and consultant...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: iucncsg.org  
-   Link: <a href="https://www.iucncsg.org/365_docs/attachments/protarea/6feabdb7960d8ddfa16c6e6cbffebcfd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iucncsg.org/365_docs/attachments/protarea/6feabdb7960d8ddfa16c6e6cbffebcfd.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 April 202415 Apr 2024 — Timor Leste. Local beliefs based on Timor Leste´s creation myth “Lafaek Diak - The Good Crocodile” are anchore...</p></details>
+   Link:<a href="https://www.iucncsg.org/365_docs/attachments/protarea/6feabdb7960d8ddfa16c6e6cbffebcfd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iucncsg.org/365_docs/attachments/protarea/6feabdb7960d8ddfa16c6e6cbffebcfd.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 April 202415 Apr 2024 — Timor Leste. Local beliefs based on Timor Leste´s creation myth “Lafaek Diak - The Good Crocodile” are anchore...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sbe-platform.org.uk  
    Title: Measures of invasive species  
-   Link: <a href="https://sbe-platform.org.uk/sites/sbe/files/documents/GEDSI%20in%20Pacific%20blue%20economies_for%20FINAL%20approval-acc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbe-platform.org.uk/sites/sbe/files/documents/GEDSI%20in%20Pacific%20blue%20economies_for%20FINAL%20approval-acc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gender equality, disability and social inclusion in Pacific...○ Alien and invasive species (whether marine, coastal or terrestrial) pose...</p></details>
+   Link:<a href="https://sbe-platform.org.uk/sites/sbe/files/documents/GEDSI%20in%20Pacific%20blue%20economies_for%20FINAL%20approval-acc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbe-platform.org.uk/sites/sbe/files/documents/GEDSI%20in%20Pacific%20blue%20economies_for%20FINAL%20approval-acc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gender equality, disability and social inclusion in Pacific...○ Alien and invasive species (whether marine, coastal or terrestrial) pose...</p></details>

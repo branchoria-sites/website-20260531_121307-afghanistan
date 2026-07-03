@@ -257,7 +257,7 @@ image: /assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-so
 Nepal’s most persistent UFO stories are difficult to separate from the geography in which they occurred. Many of the country’s best-known sightings came from remote Himalayan districts near international borders, at a time when Cold War intelligence activity, military overflights, satellite launches and limited communications all overlapped. The result is a record that often looks mysterious at first glance but becomes more understandable when mountain conditions and strategic politics are examined together.
 
 <img src="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-dark.svg" | relative_url }}" alt="Border Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The famous 1968 Himalayan incidents remain the clearest example. Reports from north-eastern Nepal and the Pokhara region described bright objects, thunder-like sounds, falling fragments and metallic debris. Those events entered declassified American intelligence files and later became part of Nepal’s UFO folklore. Yet the same evidence also supports more conventional possibilities, including satellite re-entry debris, missile or rocket fragments, atmospheric fireballs, or misidentified military-related activity. The enduring question is not simply whether people saw something unusual, but why the Himalayan borderlands produced reports that were so difficult to verify in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
+The famous 1968 Himalayan incidents remain the clearest example. Reports from north-eastern Nepal and the Pokhara region described bright objects, thunder-like sounds, falling fragments and metallic debris. Those events entered declassified American intelligence files and later became part of Nepal’s UFO folklore. Yet the same evidence also supports more conventional possibilities, including satellite re-entry debris, missile or rocket fragments, atmospheric fireballs, or misidentified military-related activity. The enduring question is not simply whether people saw something unusual, but why the Himalayan borderlands produced reports that were so difficult to verify in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
 ## Why Mountains and Borders Complicate Sightings
 
@@ -265,7 +265,7 @@ The Himalayan frontier creates conditions that make aerial events harder to iden
 
 High altitude changes perception. Bright objects can appear larger, closer or slower against dark mountain skies. Echoes from valleys can transform a distant sonic boom into what witnesses describe as an explosion directly overhead. Sparse settlement patterns also mean that a dramatic event may be observed by only a few communities, leaving little opportunity for triangulation or independent confirmation.
 
-In the 1960s these problems were even more severe. Nepal lacked extensive radar coverage, astronomical monitoring networks and rapid communications in many mountain districts. When unusual lights were reported in areas such as Olangchung Gola or Ghunsa near the Tibetan frontier, there were few mechanisms for immediate technical investigation. Information often travelled through local officials, military channels or foreign diplomatic networks before reaching wider audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal?</span><span class="citation-popover-snippet">CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</span></span></span>
+In the 1960s these problems were even more severe. Nepal lacked extensive radar coverage, astronomical monitoring networks and rapid communications in many mountain districts. When unusual lights were reported in areas such as Olangchung Gola or Ghunsa near the Tibetan frontier, there were few mechanisms for immediate technical investigation. Information often travelled through local officials, military channels or foreign diplomatic networks before reaching wider audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal?</span><span class="citation-popover-snippet">CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</span></span></span>
 
 The border dimension mattered as much as the terrain. Nepal sat between India and China during a period of intense geopolitical competition. The aftermath of the 1962 Sino-Indian War, continuing tensions around Tibet and growing Cold War intelligence operations made the Himalayan arc strategically important. Any unidentified object moving across mountain airspace could be interpreted through a security lens rather than purely an astronomical one.
 
@@ -275,9 +275,9 @@ This helps explain why reports that might otherwise have remained local stories 
 
 One reason the 1968 cases remain significant is that they did not occur in isolation.
 
-Declassified intelligence material described multiple sightings across a broad Himalayan corridor stretching through Ladakh, north-eastern Nepal, Sikkim and Bhutan. Reports occurred between February and March 1968 and shared several characteristics: bright luminous objects, coloured streaks, loud sounds and, in some cases, claims that fragments reached the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">story t KMATr DE37L73Num Bfpxc M</span><span class="citation-popover-snippet">Hindustan TimesCIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianage.com">[2asian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianage.com</span><span class="citation-popover-snippet">asian6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA report27 Jan 2017 — The CIA documented a total of six UFO sightings over “sout...</span></span></span>
+Declassified intelligence material described multiple sightings across a broad Himalayan corridor stretching through Ladakh, north-eastern Nepal, Sikkim and Bhutan. Reports occurred between February and March 1968 and shared several characteristics: bright luminous objects, coloured streaks, loud sounds and, in some cases, claims that fragments reached the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">story t KMATr DE37L73Num Bfpxc M</span><span class="citation-popover-snippet">Hindustan TimesCIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianage.com">[2asian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianage.com</span><span class="citation-popover-snippet">asian6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA report27 Jan 2017 — The CIA documented a total of six UFO sightings over “sout...</span></span></span>
 
-The north-eastern Nepal report from February 1968 described a bright object moving across the sky near the Tibetan border. Weeks later, the more famous Kaski-Pokhara event involved a flashing object, a loud detonation and alleged metallic remains recovered from fields near Batulechaur. Similar descriptions appearing across multiple Himalayan regions suggest observers may have witnessed related phenomena rather than unrelated local incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal?</span><span class="citation-popover-snippet">CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</span></span></span>
+The north-eastern Nepal report from February 1968 described a bright object moving across the sky near the Tibetan border. Weeks later, the more famous Kaski-Pokhara event involved a flashing object, a loud detonation and alleged metallic remains recovered from fields near Batulechaur. Similar descriptions appearing across multiple Himalayan regions suggest observers may have witnessed related phenomena rather than unrelated local incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal?</span><span class="citation-popover-snippet">CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</span></span></span>
 
 That regional pattern is important because it weakens some of the more exotic interpretations. A single isolated report can be explained by witness error, rumour or folklore. Multiple reports distributed across several countries during the same period are more consistent with a large atmospheric or aerospace event visible over a wide area.
 
@@ -291,16 +291,16 @@ The strongest non-extraterrestrial explanations come from Cold War aerospace act
 
 By 1968 both the United States and Soviet Union were conducting intensive satellite, missile and space-launch programmes. Objects re-entering Earth's atmosphere often produced exactly the kind of effects described in Himalayan reports: bright streaks, changing colours, fragmentation, long visible trajectories and delayed sonic booms.
 
-Modern analyses of satellite re-entries show that debris can scatter over large areas and generate multiple witness reports across different regions. To ground observers unfamiliar with such events, a disintegrating spacecraft can appear far stranger than an ordinary meteor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
+Modern analyses of satellite re-entries show that debris can scatter over large areas and generate multiple witness reports across different regions. To ground observers unfamiliar with such events, a disintegrating spacecraft can appear far stranger than an ordinary meteor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
 
-The Pokhara incident is especially interesting because later American records referred not merely to a sighting but to the recovery and shipment of a "space fragment". Declassified communications discussed examination, restoration and transport of recovered material. This language has encouraged speculation about a crash retrieval operation, yet it also points toward a far less sensational possibility: American officials may have believed the object was aerospace debris worth technical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
+The Pokhara incident is especially interesting because later American records referred not merely to a sighting but to the recovery and shipment of a "space fragment". Declassified communications discussed examination, restoration and transport of recovered material. This language has encouraged speculation about a crash retrieval operation, yet it also points toward a far less sensational possibility: American officials may have believed the object was aerospace debris worth technical analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
 Several features fit a re-entry scenario:
 
 * Witnesses described a blazing object rather than a structured craft in flight.
 * Loud sounds were reported after visual observations, consistent with high-altitude fragmentation.
 * Multiple fragments were allegedly recovered in different locations.
-* Similar reports appeared elsewhere along the Himalayan chain during the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
+* Similar reports appeared elsewhere along the Himalayan chain during the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
 None of this proves a satellite or rocket origin. The surviving records do not provide publicly available laboratory results that conclusively identify the material. Nevertheless, the available evidence aligns more closely with aerospace debris than with claims of an intact extraterrestrial vehicle.
 
@@ -311,7 +311,7 @@ The CIA's interest does not automatically imply belief in alien spacecraft.
 
 Throughout the Cold War, intelligence agencies routinely monitored unexplained aerial events because they could involve foreign technology, missile tests, reconnaissance systems or re-entering hardware. An unidentified object over a sensitive border region was a national-security question before it was a UFO question.
 
-The declassified files show that American officials collected reports from the Himalayan region and tracked recovered material. What they do not show is confirmation of extraterrestrial origin. Instead, the documents reveal the intelligence value of unexplained aerospace events occurring near strategically important territory. Nepali Times <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal?</span><span class="citation-popover-snippet">CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</span></span></span>
+The declassified files show that American officials collected reports from the Himalayan region and tracked recovered material. What they do not show is confirmation of extraterrestrial origin. Instead, the documents reveal the intelligence value of unexplained aerospace events occurring near strategically important territory. Nepali Times<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal?</span><span class="citation-popover-snippet">CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</span></span></span>
 
 ## The Tibet Factor and Borderland Ambiguity
 
@@ -339,11 +339,11 @@ The same sighting might generate different narratives depending on whether the o
 
 ## Why Physical Debris Did Not Resolve the Mystery
 
-Many UFO cases collapse once no physical evidence is found. The Pokhara story remains alive partly because witnesses consistently recalled the existence of metal fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
+Many UFO cases collapse once no physical evidence is found. The Pokhara story remains alive partly because witnesses consistently recalled the existence of metal fragments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
 Yet physical debris alone does not settle the question.
 
-Accounts differ regarding the size, shape and fate of the recovered material. Some witnesses remembered a large sheet-like object. Others described pieces collected by authorities. Later stories introduced claims involving foreign officials and eventual removal from Nepal. As decades passed, memories became intertwined with rumours and second-hand retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
+Accounts differ regarding the size, shape and fate of the recovered material. Some witnesses remembered a large sheet-like object. Others described pieces collected by authorities. Later stories introduced claims involving foreign officials and eventual removal from Nepal. As decades passed, memories became intertwined with rumours and second-hand retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
 The missing link is publicly available scientific analysis. No widely accessible report has emerged showing composition tests, manufacturing details or engineering characteristics that would identify the fragments conclusively. Without that evidence, the debris functions more as a historical clue than as proof of any specific explanation.
 
@@ -359,199 +359,199 @@ Remote mountain regions generated reports that were dramatic enough to attract a
 
 Unlike countries with extensive military radar systems or large civilian aviation networks, Nepal often preserved these events through local memory, newspaper reporting and foreign intelligence records rather than comprehensive domestic investigations. The result is an uneven historical record in which some incidents survive because outsiders documented them, while many others disappeared entirely.
 
-The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They are neither fully debunked nor strongly supported as evidence of extraordinary craft. Instead, they illustrate how Cold War secrecy, Himalayan terrain, border politics and limited documentation combined to create enduring mysteries. The most convincing explanations point toward aerospace debris, atmospheric events or military-related activity, but the surviving evidence remains incomplete enough that the incidents continue to sit in the category that originally defined them: unidentified flying objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">Conspiracy theories on CIA cover-up about extraterrestrial activity aside...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
+The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They are neither fully debunked nor strongly supported as evidence of extraordinary craft. Instead, they illustrate how Cold War secrecy, Himalayan terrain, border politics and limited documentation combined to create enduring mysteries. The most convincing explanations point toward aerospace debris, atmospheric events or military-related activity, but the surviving evidence remains incomplete enough that the incidents continue to sit in the category that originally defined them: unidentified flying objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">Conspiracy theories on CIA cover-up about extraterrestrial activity aside...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-3-dark.svg" | relative_url }}" alt="Border Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_himalayan_border_sig_fbf4fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Himalayan UFOs Really Borderland Confusion?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Himalayan UFOs Really Borderland Confusion?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers analytical approaches relevant to borderland sightings and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers analytical approaches relevant to borderland sightings and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military observations, official investigations, and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military observations, official investigations, and unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Touches on Cold War technology and military speculation surrounding unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Touches on Cold War technology and military speculation surrounding unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how remote regions generate persistent mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how remote regions generate persistent mystery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-himalayan-ufos-really-borderland-confusion-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-himalayan-ufos-really-borderland-confusion-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,136 +754,135 @@ The 1968 sightings therefore occupy a unique place in Nepal's UFO history. They 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.01654</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.01654" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.01654</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satelliteNovember 3, 2024...</p></details>
    Published: November 3, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100070007 8  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of. t...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RDP81R00560R000100070007-8CIA-R. He is convinced UFO&#x27;s are intelligently controlled from Outer Space-Donald E. Keyoe, director of. t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>he road to utopia.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he road to utopia.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ia601205.us.archive.org  
    Title: 1947 Roswell Al. INTERVIEW Matilda O Donnell MacElroy  
-   Link: <a href="https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERVIEW7 Aug 1991 — tens of thousands of reported UFO sightings. A global hysteria has... were killed by disease and war brought upon...</p></details>
+   Link:<a href="https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601205.us.archive.org/35/items/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTERVIEW7 Aug 1991 — tens of thousands of reported UFO sightings. A global hysteria has... were killed by disease and war brought upon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: <a href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/here-now/ufo-over-pokhara</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</p></details>
+   Link:<a href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/here-now/ufo-over-pokhara</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over PokharaDec 7, 2024 — UFO over Pokhara The field in Batulechaur belonging to Kul Timilsina where fragments of a flyin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thehimalayantimes.com  
    Title: The Himalayan Times UFOs over Nepal?  
-   Link: <a href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</p></details>
+   Link:<a href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA had reported two sightings 49 years...28 Jan 2017 —... declassified documents, online earlier this year. #CIA #Olangchung Gola #Ghu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kathmandupost.com  
    Title: on ufos and yetis  
-   Link: <a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories on CIA cover-up about extraterrestrial activity aside...Read more...</p></details>
+   Link:<a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories on CIA cover-up about extraterrestrial activity aside...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hindustantimes.com  
    Title: story t KMATr DE37L73Num Bfpxc M  
-   Link: <a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesCIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies a...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesCIA reported six sightings of UFOs over India, Bhutan and...27 Jan 2017 — The study of crashed UFOs and alien autopsies a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: asianage.com  
-   Link: <a href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>asian6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA report27 Jan 2017 — The CIA documented a total of six UFO sightings over “sout...</p></details>
+   Link:<a href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>asian6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA report27 Jan 2017 — The CIA documented a total of six UFO sightings over “sout...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: <a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it could be pieces of satellite, mi...</p></details>
+   Link:<a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it could be pieces of satellite, mi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nepalitimes.com  
-   Link: <a href="https://nepalitimes.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/tag/ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: #UFO6 Dec 2024 — UFO over Pokhara. Nearly 60 years after a fiery fall of fragments from the sky, the mystery is no closer to being s...</p></details>
+   Link:<a href="https://nepalitimes.com/tag/ufo" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/tag/ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: #UFO6 Dec 2024 — UFO over Pokhara. Nearly 60 years after a fiery fall of fragments from the sky, the mystery is no closer to being s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nepalitimes.com  
-   Link: <a href="https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This would put Nepal in a very uneasy and difficult position.&quot; Foreign Minister Chakra Bastola spoke...Read more...</p></details>
+   Link:<a href="https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/we-may-see-the-recurrence-of-a-new-cold-war-in-our-region-this-would-put-nepal-in-a-very-uneasy-and-difficult-position</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This would put Nepal in a very uneasy and difficult position.&quot; Foreign Minister Chakra Bastola spoke...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kathmandupost.com  
    Title: on ufos and yetis  
-   Link: <a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories on CIA cover-up about extraterrestrial activity aside, the...Read more...</p></details>
+   Link:<a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis?fbclid=IwAR3Tsj42R72d2buyaxIJg6lfEy9h_KNycg0qDh0LxHdmcsehwSK_r0qsEZE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories on CIA cover-up about extraterrestrial activity aside, the...Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.seniorennet.be  
-   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&amp;stopdatum=1512082800" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&amp;stopdatum=1512082800</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Close Encounters. US-Navy-UFO. Has planet earth ever had a close encounter with...</p></details>
+   Link:<a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&amp;stopdatum=1512082800" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1509490800&amp;stopdatum=1512082800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Close Encounters. US-Navy-UFO. Has planet earth ever had a close encounter with...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
    Title: Comprehensive UFO History Timeline | PDFUfos and Intelligence  
-   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document presents a comprehensive timeline of UFO...</p></details>
+   Link:<a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document presents a comprehensive timeline of UFO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ofessed non-interest in UFOs is un-· true.Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ofessed non-interest in UFOs is un-· true.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Lost CIA Nuclear Device Still Haunts The Himalayas, 60...Climate change could unearth, disturb Cold War-era nuclear waste...</p></details>
+   Link:<a href="https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ZeeNewsEnglish/posts/a-lost-cia-nuclear-device-still-haunts-the-himalayas-60-years-after-a-cold-war-m/1306021398231989/?locale=bg_BG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Lost CIA Nuclear Device Still Haunts The Himalayas, 60...Climate change could unearth, disturb Cold War-era nuclear waste...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — A declassified memorandum discusses UFOs and covers the visit of Edwin P.... alien and UFO existence at the National Archi...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — A declassified memorandum discusses UFOs and covers the visit of Edwin P.... alien and UFO existence at the National Archi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from Agobard of Lyons to the newly appointed...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from Agobard of Lyons to the newly appointed...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Secretive CIA Cold War Corona Project | Upscaled Original Footage  
-   Link: <a href="http://www.youtube.com/watch?v=utQFm8IFV9M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=utQFm8IFV9M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1968 Nepal UFO CIA declassified NASA ROVER SPOTS ALIENS | The Proof Is Out There | #Shorts | History HISTORY...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=utQFm8IFV9M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=utQFm8IFV9M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1968 Nepal UFO CIA declassified NASA ROVER SPOTS ALIENS | The Proof Is Out There | #Shorts | History HISTORY...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lc4HZC1G1FY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Khampa Rebellion and CIA&#x27;s Role in Nepal. 03:00 - Local... The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lc4HZC1G1FY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Khampa Rebellion and CIA&#x27;s Role in Nepal. 03:00 - Local... The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
    Title: Timeline of World Wierdness  
-   Link: <a href="https://www.academia.edu/45497950/Timeline_of_World_Wierdness" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/Timeline_of_World_Wierdness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Timeline of World Wierdness... aliens who crash land on Tibet/China border. Remains discovered in 1938... This project was used to...</p></details>
+   Link:<a href="https://www.academia.edu/45497950/Timeline_of_World_Wierdness" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45497950/Timeline_of_World_Wierdness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Timeline of World Wierdness... aliens who crash land on Tibet/China border. Remains discovered in 1938... This project was used to...</p></details>

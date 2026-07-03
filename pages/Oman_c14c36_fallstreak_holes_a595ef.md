@@ -251,13 +251,13 @@ image: /assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-1-social.
 Some of the most striking “UFO” reports linked to northern Oman did not begin with lights, aircraft or military encounters. They began with a hole in the clouds.
 
 <img src="{{ "/assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-1-dark.svg" | relative_url }}" alt="Sky Holes illustration 1" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In March 2019, residents around Al Buraimi and Mahdah, near the Oman–UAE border, photographed and filmed a dramatic circular gap opening in a cloud layer overhead. To many observers, the formation looked artificial: a clean-edged opening in the sky surrounded by cloud, resembling a portal, impact mark or giant ring. Images spread rapidly across social media, where unusual cloud formations are often interpreted before meteorological explanations reach the public. Within hours, weather specialists identified the phenomenon as a fallstreak hole, sometimes called a “hole-punch cloud” or “sky hole” — a rare but well-documented atmospheric event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
+In March 2019, residents around Al Buraimi and Mahdah, near the Oman–UAE border, photographed and filmed a dramatic circular gap opening in a cloud layer overhead. To many observers, the formation looked artificial: a clean-edged opening in the sky surrounded by cloud, resembling a portal, impact mark or giant ring. Images spread rapidly across social media, where unusual cloud formations are often interpreted before meteorological explanations reach the public. Within hours, weather specialists identified the phenomenon as a fallstreak hole, sometimes called a “hole-punch cloud” or “sky hole” — a rare but well-documented atmospheric event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
 
 The episode is useful beyond its weather interest. It shows how Oman’s UFO stories can emerge from unfamiliar natural events rather than from mysterious objects themselves. In a country where the public UFO record is relatively small, unusual clouds, atmospheric optics and rare weather phenomena can become important parts of the sighting landscape.
 
 ## The 2019 Buraimi and Mahdah Reports
 
-On 17–18 March 2019, a large circular opening appeared within a cloud deck over the Al Ain–Al Buraimi region, visible from both the UAE and north-western Oman. News coverage described residents filming what looked like a giant hole suspended in the sky during a period of unsettled weather and rainfall. Reports specifically noted sightings above Buraimi and Mahdah on the Omani side of the border. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
+On 17–18 March 2019, a large circular opening appeared within a cloud deck over the Al Ain–Al Buraimi region, visible from both the UAE and north-western Oman. News coverage described residents filming what looked like a giant hole suspended in the sky during a period of unsettled weather and rainfall. Reports specifically noted sightings above Buraimi and Mahdah on the Omani side of the border.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
 
 The visual effect was unusually dramatic because the opening appeared sharply defined against an otherwise continuous cloud layer. From the ground, especially when viewed through a mobile phone camera, the formation could easily resemble:
 
@@ -272,23 +272,23 @@ The visual effect was unusually dramatic because the opening appeared sharply de
 
 Those interpretations appeared quickly in online discussions, reflecting a common pattern in UFO culture: a visually rare event is seen first, while the scientific explanation arrives later.
 
-Meteorologists and regional weather observers identified the formation as a fallstreak hole rather than a physical object. The phenomenon was already known internationally, but many local viewers had never encountered one before. The rarity of the event within everyday experience contributed to its perceived mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
+Meteorologists and regional weather observers identified the formation as a fallstreak hole rather than a physical object. The phenomenon was already known internationally, but many local viewers had never encountered one before. The rarity of the event within everyday experience contributed to its perceived mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fR2HQ64g-28" title="Fallstreak holes: Strange cloud formation spotted across BC bewilders residents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fR2HQ64g-28" target="_blank" rel="noopener noreferrer">Fallstreak holes: Strange cloud formation spotted across BC bewilders residents</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 7.5K &middot; Uploaded: February 2025 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fR2HQ64g-28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fR2HQ64g-28">Open on YouTube</a></p></div></div></div>
 
 ## How Fallstreak Holes Form
 
-A fallstreak hole forms inside a layer of cloud made up of supercooled water droplets. These droplets remain liquid even though temperatures are below freezing. Under the right conditions, something triggers rapid freezing inside one part of the cloud layer. Once ice crystals appear, they begin growing at the expense of surrounding water droplets, creating a chain reaction that removes moisture from a localised area. The result is a circular or elliptical gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Fallstreak</span><span class="citation-popover-snippet">National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</span></span></span>
+A fallstreak hole forms inside a layer of cloud made up of supercooled water droplets. These droplets remain liquid even though temperatures are below freezing. Under the right conditions, something triggers rapid freezing inside one part of the cloud layer. Once ice crystals appear, they begin growing at the expense of surrounding water droplets, creating a chain reaction that removes moisture from a localised area. The result is a circular or elliptical gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Fallstreak</span><span class="citation-popover-snippet">National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</span></span></span>
 
 The process is often associated with aircraft.
 
-When an aircraft passes through a cloud layer containing supercooled droplets, pressure changes around the wings or propellers can cool the air enough to trigger ice-crystal formation. Those crystals then spread through the cloud, causing nearby droplets to evaporate or freeze. As the crystals fall, they create streaks beneath the opening, known as the fallstreak itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[2journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">2009bams2905 1</span><span class="citation-popover-snippet">Although extensive contrail cir- rus can form when the ambient...Read more...</span></span></span>
+When an aircraft passes through a cloud layer containing supercooled droplets, pressure changes around the wings or propellers can cool the air enough to trigger ice-crystal formation. Those crystals then spread through the cloud, causing nearby droplets to evaporate or freeze. As the crystals fall, they create streaks beneath the opening, known as the fallstreak itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[2journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">2009bams2905 1</span><span class="citation-popover-snippet">Although extensive contrail cir- rus can form when the ambient...Read more...</span></span></span>
 
 Several features make the phenomenon look unusual:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The hole can appear nearly circular. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Fallstreak</span><span class="citation-popover-snippet">National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</span></span></span>
+* The hole can appear nearly circular.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Fallstreak</span><span class="citation-popover-snippet">National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</span></span></span>
 * The opening often expands rapidly.
 * Wispy ice-crystal trails may hang below it.
 * The surrounding cloud layer remains intact.
@@ -296,7 +296,7 @@ Several features make the phenomenon look unusual:
 
 </div>
 
-Researchers studying aircraft-induced hole-punch clouds have documented how these openings can grow to tens of kilometres across under favourable atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">2009bams2905 1</span><span class="citation-popover-snippet">Although extensive contrail cir- rus can form when the ambient...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/fallstreak-holes-aka-hole-punch-clouds-23611" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">fallstreak holes aka hole punch clouds 23611</span><span class="citation-popover-snippet">Fallstreak holes, aka Hole Punch Clouds23 Oct 2013 — Fallstreak holes are a cloud formation that occurs as gaps in mid or high level clou...</span></span></span> For a casual observer, especially someone seeing the formation without context, the geometry appears surprisingly deliberate. Natural cloud systems often look irregular, while fallstreak holes can seem almost engineered.
+Researchers studying aircraft-induced hole-punch clouds have documented how these openings can grow to tens of kilometres across under favourable atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">2009bams2905 1</span><span class="citation-popover-snippet">Although extensive contrail cir- rus can form when the ambient...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/fallstreak-holes-aka-hole-punch-clouds-23611" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">fallstreak holes aka hole punch clouds 23611</span><span class="citation-popover-snippet">Fallstreak holes, aka Hole Punch Clouds23 Oct 2013 — Fallstreak holes are a cloud formation that occurs as gaps in mid or high level clou...</span></span></span> For a casual observer, especially someone seeing the formation without context, the geometry appears surprisingly deliberate. Natural cloud systems often look irregular, while fallstreak holes can seem almost engineered.
 
 ## Why the Formation Looked So Unnatural
 
@@ -309,7 +309,7 @@ Fallstreak holes trigger several psychological cues associated with artificial o
 <img src="{{ "/assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-2-dark.svg" | relative_url }}" alt="Sky Holes illustration 2" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_fallstreak_holes_a595ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Circular geometry
 
-Human observers frequently associate circles, rings and symmetry with design. A near-circular opening in a cloud layer can therefore feel less natural than an irregular weather pattern, even when the process is entirely atmospheric. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_physics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud physics</span><span class="citation-popover-snippet">Cloud physics</span></span></span>
+Human observers frequently associate circles, rings and symmetry with design. A near-circular opening in a cloud layer can therefore feel less natural than an irregular weather pattern, even when the process is entirely atmospheric.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_physics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud physics</span><span class="citation-popover-snippet">Cloud physics</span></span></span>
 
 ### Apparent depth
 
@@ -323,7 +323,7 @@ The aircraft that may have initiated the process is often long gone by the time 
 
 Without clear reference points, people struggle to estimate cloud distances and sizes. A hole several kilometres wide may be interpreted as a nearby object rather than a vast atmospheric feature.
 
-These factors are not unique to Oman. Similar formations have generated UFO claims in Europe, North America and elsewhere before meteorologists identified them as fallstreak holes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fallstreak_hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fallstreak hole</span><span class="citation-popover-snippet">Fallstreak hole</span></span></span>
+These factors are not unique to Oman. Similar formations have generated UFO claims in Europe, North America and elsewhere before meteorologists identified them as fallstreak holes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fallstreak_hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fallstreak hole</span><span class="citation-popover-snippet">Fallstreak hole</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pYWAR2OiiNg" title="Mysterious clouds produced by aircraft - Andrew Heymsfield on hole-punch clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pYWAR2OiiNg" target="_blank" rel="noopener noreferrer">Mysterious clouds produced by aircraft - Andrew Heymsfield on hole-punch clouds</a></p><p class="youtube-embed-meta">Channel: NSF NCAR &amp; UCAR &middot; Views: 7.9K &middot; Uploaded: June 2010 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pYWAR2OiiNg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pYWAR2OiiNg">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +331,7 @@ These factors are not unique to Oman. Similar formations have generated UFO clai
 
 Northern Oman sits within a region where unusual weather, mountainous terrain and intense sunlight can make atmospheric phenomena especially striking.
 
-The Al Buraimi area lies close to the Hajar mountain system and experiences changing weather patterns influenced by regional moisture flows and seasonal instability. While fallstreak holes are not unique to Oman, a rare event occurring above a population centre can attract substantial attention because many residents have never previously seen one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
+The Al Buraimi area lies close to the Hajar mountain system and experiences changing weather patterns influenced by regional moisture flows and seasonal instability. While fallstreak holes are not unique to Oman, a rare event occurring above a population centre can attract substantial attention because many residents have never previously seen one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
 
 Several broader factors encourage misidentification:
 
@@ -352,205 +352,205 @@ Importantly, misidentification does not imply that witnesses are careless or dis
 
 The 2019 fallstreak-hole episode occupies an interesting place in the wider story of Omani UFO reports.
 
-Unlike some sighting claims involving distant lights or ambiguous videos, the underlying phenomenon here is known with considerable confidence. Meteorologists were able to identify the mechanism, and the visual characteristics matched a recognised cloud type documented by weather agencies and atmospheric researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Fallstreak</span><span class="citation-popover-snippet">National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</span></span></span>
+Unlike some sighting claims involving distant lights or ambiguous videos, the underlying phenomenon here is known with considerable confidence. Meteorologists were able to identify the mechanism, and the visual characteristics matched a recognised cloud type documented by weather agencies and atmospheric researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Fallstreak</span><span class="citation-popover-snippet">National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</span></span></span>
 
 That makes the case less important as a UFO mystery and more important as a case study in how UFO narratives begin.
 
 Many reports start not with a genuinely unknown object but with an unusual visual experience. By the time explanations arrive, the more dramatic interpretation may already have spread widely online. The Buraimi and Mahdah sky hole demonstrates this process clearly: a rare cloud formation appeared, observers reacted to its extraordinary appearance, and only later did the meteorological explanation become widely known.
 
-For researchers looking at Oman’s limited public UFO record, the event serves as a reminder that some of the most memorable sightings are not unexplained at all. They are examples of how rare weather can briefly transform an ordinary sky into something that looks impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn-2.timesofoman.com/article/74451-this-unusual-weather-pattern-was-spotted-in-oman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn-2.timesofoman.com">[Times of Oman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn-2.timesofoman.com</span><span class="citation-popover-title">74451 this unusual weather pattern was spotted in oman</span><span class="citation-popover-snippet">unusual weather pattern was spotted in Oman17 Mar 2019 — Also known as a fall-streak hole or skypunch, it is a large gap, usually circula...</span></span></span>
+For researchers looking at Oman’s limited public UFO record, the event serves as a reminder that some of the most memorable sightings are not unexplained at all. They are examples of how rare weather can briefly transform an ordinary sky into something that looks impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn-2.timesofoman.com/article/74451-this-unusual-weather-pattern-was-spotted-in-oman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn-2.timesofoman.com">[Times of Oman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn-2.timesofoman.com</span><span class="citation-popover-title">74451 this unusual weather pattern was spotted in oman</span><span class="citation-popover-snippet">unusual weather pattern was spotted in Oman17 Mar 2019 — Also known as a fall-streak hole or skypunch, it is a large gap, usually circula...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iw81jxS4k3Q" title="Hole Punch Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iw81jxS4k3Q" target="_blank" rel="noopener noreferrer">Hole Punch Cloud</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 2.7K &middot; Uploaded: April 2021 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iw81jxS4k3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iw81jxS4k3Q">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Strange Oman Sky Has a Weather Answer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Strange Oman Sky Has a Weather Answer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Explains unusual cloud formations including rare atmospheric phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains unusual cloud formations including rare atmospheric phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Provides accessible explanations for unusual sky events often mistaken for mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible explanations for unusual sky events often mistaken for mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for distinguishing unexplained reports from identifiable events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for distinguishing unexplained reports from identifiable events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses how natural phenomena can enter UFO reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how natural phenomena can enter UFO reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-strange-oman-sky-has-a-weather-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-a-strange-oman-sky-has-a-weather-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,117 +756,117 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
    Title: National Weather Service Fallstreak  
-   Link: <a href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_fallstreaks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</p></details>
+   Link:<a href="https://www.weather.gov/arx/why_fallstreaks" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_fallstreaks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceFallstreak - What Are They?A fallstreak hole (also known as a &quot;hole punch cloud&quot;) is a large circular or elliptic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cloud physics  
-   Link: <a href="https://en.wikipedia.org/wiki/Cloud_physics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cloud_physics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cloud_physics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cloud_physics</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.ametsoc.org  
    Title: 2009bams2905 1  
-   Link: <a href="https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Although extensive contrail cir- rus can form when the ambient...Read more...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/bams/91/6/2009bams2905_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although extensive contrail cir- rus can form when the ambient...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iflscience.com  
    Title: fallstreak holes aka hole punch clouds 23611  
-   Link: <a href="https://www.iflscience.com/fallstreak-holes-aka-hole-punch-clouds-23611" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/fallstreak-holes-aka-hole-punch-clouds-23611</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallstreak holes, aka Hole Punch Clouds23 Oct 2013 — Fallstreak holes are a cloud formation that occurs as gaps in mid or high level clou...</p></details>
+   Link:<a href="https://www.iflscience.com/fallstreak-holes-aka-hole-punch-clouds-23611" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/fallstreak-holes-aka-hole-punch-clouds-23611</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallstreak holes, aka Hole Punch Clouds23 Oct 2013 — Fallstreak holes are a cloud formation that occurs as gaps in mid or high level clou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Fallstreak hole  
-   Link: <a href="https://en.wikipedia.org/wiki/Fallstreak_hole" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallstreak_hole</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fallstreak_hole" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallstreak_hole</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Mysterious clouds produced by aircraft  
-   Link: <a href="https://www.youtube.com/watch?v=pYWAR2OiiNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pYWAR2OiiNg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hole Punch Cloud...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pYWAR2OiiNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pYWAR2OiiNg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hole Punch Cloud...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Hole Punch Cloud  
-   Link: <a href="https://www.youtube.com/watch?v=Iw81jxS4k3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iw81jxS4k3Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Iw81jxS4k3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iw81jxS4k3Q</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gulfnews.com  
    Title: Gulf News What was that mysterious hole in the UAE sky?  
-   Link: <a href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</p></details>
+   Link:<a href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf NewsWhat was that mysterious hole in the UAE sky?March 18, 2019 — 18 Mar 2019 — Also known as a hole punch cloud, the fallstreak hol...</p></details>
    Published: March 18, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn-2.timesofoman.com  
    Title: 74451 this unusual weather pattern was spotted in oman  
-   Link: <a href="https://cdn-2.timesofoman.com/article/74451-this-unusual-weather-pattern-was-spotted-in-oman" target="_blank" rel="noopener noreferrer nofollow">https://cdn-2.timesofoman.com/article/74451-this-unusual-weather-pattern-was-spotted-in-oman</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>unusual weather pattern was spotted in Oman17 Mar 2019 — Also known as a fall-streak hole or skypunch, it is a large gap, usually circula...</p></details>
+   Link:<a href="https://cdn-2.timesofoman.com/article/74451-this-unusual-weather-pattern-was-spotted-in-oman" target="_blank" rel="noopener noreferrer nofollow">https://cdn-2.timesofoman.com/article/74451-this-unusual-weather-pattern-was-spotted-in-oman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unusual weather pattern was spotted in Oman17 Mar 2019 — Also known as a fall-streak hole or skypunch, it is a large gap, usually circula...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/fallstreak-hole</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeFallstreak holeA fallstreak hole (also known as a holepunch cloud) forms when part of the cloud layer forms ice crystals which...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-hole-punch-cloudsever-looked-up-and-thoughtdid-someone-liter/1386834706585101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-hole-punch-cloudsever-looked-up-and-thoughtdid-someone-liter/1386834706585101/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HOLE PUNCH CLOUDS Ever looked up and thought...Fallstreak holes form when a layer of supercooled water droplets in the cloud layer becom...</p></details>
+   Link:<a href="https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-hole-punch-cloudsever-looked-up-and-thoughtdid-someone-liter/1386834706585101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-hole-punch-cloudsever-looked-up-and-thoughtdid-someone-liter/1386834706585101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOLE PUNCH CLOUDS Ever looked up and thought...Fallstreak holes form when a layer of supercooled water droplets in the cloud layer becom...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/229567943_Some_thoughts_on_fallstreak_holes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229567943_Some_thoughts_on_fallstreak_holes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some thoughts on fallstreak holesHole punch clouds (HPCs), also known as cavums or fallstreak holes, are circular cloud-free regions that...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/229567943_Some_thoughts_on_fallstreak_holes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229567943_Some_thoughts_on_fallstreak_holes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some thoughts on fallstreak holesHole punch clouds (HPCs), also known as cavums or fallstreak holes, are circular cloud-free regions that...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arabianbusiness.com  
    Title: 415740 alien like cloud formation in the uae explained  
-   Link: <a href="https://www.arabianbusiness.com/life/415740-alien-like-cloud-formation-in-the-uae-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.arabianbusiness.com/life/415740-alien-like-cloud-formation-in-the-uae-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien-like cloud formation in the UAE explained19 Mar 2019 — Fallstreak holes form in mid-to-high level clouds where water is below 0°C...</p></details>
+   Link:<a href="https://www.arabianbusiness.com/life/415740-alien-like-cloud-formation-in-the-uae-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.arabianbusiness.com/life/415740-alien-like-cloud-formation-in-the-uae-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien-like cloud formation in the UAE explained19 Mar 2019 — Fallstreak holes form in mid-to-high level clouds where water is below 0°C...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NWSDallasFortWorth/posts/fallstreak-clouds-or-hole-punch-clouds-occur-when-a-portion-of-supercooled-water/1337061785120320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWSDallasFortWorth/posts/fallstreak-clouds-or-hole-punch-clouds-occur-when-a-portion-of-supercooled-water/1337061785120320/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er in a shallow cloud layer freezes, usually by a plane passing...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NWSDallasFortWorth/posts/fallstreak-clouds-or-hole-punch-clouds-occur-when-a-portion-of-supercooled-water/1337061785120320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWSDallasFortWorth/posts/fallstreak-clouds-or-hole-punch-clouds-occur-when-a-portion-of-supercooled-water/1337061785120320/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er in a shallow cloud layer freezes, usually by a plane passing...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cloudappreciationsociety.org  
    Title: fallstreak holes – a new understanding  
-   Link: <a href="https://cloudappreciationsociety.org/fallstreak-holes-%E2%80%93-a-new-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/fallstreak-holes-%E2%80%93-a-new-understanding/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Understanding of Fallstreak Holes4 Jul 2011 — Also known as &#x27;hole-punch clouds&#x27; these formations occur when part of a cloud of wate...</p></details>
+   Link:<a href="https://cloudappreciationsociety.org/fallstreak-holes-%E2%80%93-a-new-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://cloudappreciationsociety.org/fallstreak-holes-%E2%80%93-a-new-understanding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Understanding of Fallstreak Holes4 Jul 2011 — Also known as &#x27;hole-punch clouds&#x27; these formations occur when part of a cloud of wate...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Beautiful cloud formations today!  
-   Link: <a href="https://www.facebook.com/MeteorologistChrisSwaim/photos/beautiful-cloud-formations-today-i-noticed-a-fallstreak-hole-hole-punch-cloud-no/261519289315266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistChrisSwaim/photos/beautiful-cloud-formations-today-i-noticed-a-fallstreak-hole-hole-punch-cloud-no/261519289315266/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I noticed a fallstreak hole...I noticed a fallstreak hole (hole punch cloud). Not something you see everyday. This happens when the wate...</p></details>
+   Link:<a href="https://www.facebook.com/MeteorologistChrisSwaim/photos/beautiful-cloud-formations-today-i-noticed-a-fallstreak-hole-hole-punch-cloud-no/261519289315266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistChrisSwaim/photos/beautiful-cloud-formations-today-i-noticed-a-fallstreak-hole-hole-punch-cloud-no/261519289315266/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I noticed a fallstreak hole...I noticed a fallstreak hole (hole punch cloud). Not something you see everyday. This happens when the wate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: snopes.com  
    Title: video cloud fallstreak formation  
-   Link: <a href="https://www.snopes.com/fact-check/video-cloud-fallstreak-formation/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/video-cloud-fallstreak-formation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real video of rare &#x27;fallstreak hole&#x27; cloud formation?17 Jul 2025 — The video was of a rare cloud formation called a fallstreak hole, caus...</p></details>
+   Link:<a href="https://www.snopes.com/fact-check/video-cloud-fallstreak-formation/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/video-cloud-fallstreak-formation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real video of rare &#x27;fallstreak hole&#x27; cloud formation?17 Jul 2025 — The video was of a rare cloud formation called a fallstreak hole, caus...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C7OqilKtiq9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C7OqilKtiq9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haima in Al Wusta Goveronorate on Tuesday morning...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C7OqilKtiq9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C7OqilKtiq9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haima in Al Wusta Goveronorate on Tuesday morning...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: Ever seen a hole in the clouds?  
-   Link: <a href="https://www.instagram.com/reel/DQ72Y1yiUX6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ72Y1yiUX6/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Those are called...☁️✨ These voids form when supercooled water droplets—liquid water below freezing—suddenly crystallize, often triggere...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQ72Y1yiUX6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ72Y1yiUX6/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Those are called...☁️✨ These voids form when supercooled water droplets—liquid water below freezing—suddenly crystallize, often triggere...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Fallstreak holes: Strange cloud formation spotted across BC bewilders residents  
-   Link: <a href="https://www.youtube.com/watch?v=fR2HQ64g-28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fR2HQ64g-28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious clouds produced by aircraft - Andrew Heymsfield on hole-punch clouds...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fR2HQ64g-28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fR2HQ64g-28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious clouds produced by aircraft - Andrew Heymsfield on hole-punch clouds...</p></details>

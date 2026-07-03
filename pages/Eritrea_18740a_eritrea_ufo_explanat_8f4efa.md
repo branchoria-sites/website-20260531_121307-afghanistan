@@ -274,7 +274,7 @@ In countries with strong civilian astronomy networks, a dramatic fireball is oft
 
 ### Bright fireballs can appear unnatural
 
-The strongest candidate for several Eritrea-linked UFO stories is the meteor fireball. Large meteors can produce glowing spheres, coloured trails, fragmentation, sonic booms, and flashes bright enough to resemble explosions or descending craft. Scientific descriptions of earth-grazing fireballs show that they can move slowly across the sky, fragment dramatically, and even appear to change direction because of perspective effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth-grazing_fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth-grazing fireball</span><span class="citation-popover-snippet">August 28, 2010 — An Earth-grazing fireball (or Earth grazer) is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and leav...</span><span class="citation-popover-meta">Published: August 28, 2010</span></span></span>
+The strongest candidate for several Eritrea-linked UFO stories is the meteor fireball. Large meteors can produce glowing spheres, coloured trails, fragmentation, sonic booms, and flashes bright enough to resemble explosions or descending craft. Scientific descriptions of earth-grazing fireballs show that they can move slowly across the sky, fragment dramatically, and even appear to change direction because of perspective effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth-grazing_fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth-grazing fireball</span><span class="citation-popover-snippet">August 28, 2010 — An Earth-grazing fireball (or Earth grazer) is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and leav...</span><span class="citation-popover-meta">Published: August 28, 2010</span></span></span>
 
 This matters for Eritrea because the country’s most repeated UFO-related story — the alleged 1970 “fireball” incident near Asmara — already contains features commonly associated with meteor events: a glowing red object, burning effects, loud disturbance, and confusion among witnesses. None of the publicly available retellings include the kind of instrumental evidence needed to distinguish a meteor from something more exotic.
 
@@ -290,7 +290,7 @@ Temperature inversions and haze near the Red Sea may also distort lights close t
 
 ### Regional precedent for meteor-related UFO waves
 
-Southern and eastern Africa have experienced previous UFO scares linked to confirmed astronomical events. During the well-known 1994 southern African UFO wave, many reports followed sightings of a bright fireball later associated with a Zenit-2 rocket re-entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span> The episode demonstrated how a dramatic atmospheric event can trigger secondary UFO interpretations across multiple countries.
+Southern and eastern Africa have experienced previous UFO scares linked to confirmed astronomical events. During the well-known 1994 southern African UFO wave, many reports followed sightings of a bright fireball later associated with a Zenit-2 rocket re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span> The episode demonstrated how a dramatic atmospheric event can trigger secondary UFO interpretations across multiple countries.
 
 That pattern is highly relevant to Eritrea because sparse local reporting makes later correction even less likely.
 
@@ -310,20 +310,20 @@ Satellite and rocket-body re-entries are one of the most common modern explanati
 
 </div>
 
-Tracking databases maintained by aerospace organisations document frequent uncontrolled re-entries around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</span></span></span> Because these objects travel at hypersonic speeds and break apart unevenly, witnesses often interpret them as fleets of structured craft rather than burning debris.
+Tracking databases maintained by aerospace organisations document frequent uncontrolled re-entries around the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</span></span></span> Because these objects travel at hypersonic speeds and break apart unevenly, witnesses often interpret them as fleets of structured craft rather than burning debris.
 
 For Eritrea, this explanation is particularly plausible because the country lies beneath viewing zones for objects re-entering over Africa, the Middle East, or the Indian Ocean. Residents may see fragments crossing the sky without access to real-time astronomical identification services.
 
 ### Satellite constellations and moving lights
 
-Modern satellite constellations have increased opportunities for misidentification. Starlink trains, tumbling satellites, and reflective spacecraft can appear highly unusual to observers unfamiliar with orbital motion. Viral online videos regularly show people mistaking such lights for UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">This dazzling...</span></span></span>
+Modern satellite constellations have increased opportunities for misidentification. Starlink trains, tumbling satellites, and reflective spacecraft can appear highly unusual to observers unfamiliar with orbital motion. Viral online videos regularly show people mistaking such lights for UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">This dazzling...</span></span></span>
 
 In Eritrea, where amateur astronomy infrastructure is limited and public scientific outreach is sparse, sightings of moving satellite formations may be interpreted through rumour rather than immediate technical explanation.
 
 <img src="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-2-dark.svg" | relative_url }}" alt="Ordinary Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sonic booms and fragmentation effects
 
-Large re-entries may also generate delayed sounds, shock waves, or scattered debris. Research into spacecraft re-entry acoustics shows that sonic booms can travel long distances after fragmentation events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospaceamerica.aiaa.org">[Aerospace America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospaceamerica.aiaa.org</span><span class="citation-popover-snippet">Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</span></span></span> Witnesses who first see a bright object and later hear explosive sounds may interpret the sequence as a crash or aerial encounter.
+Large re-entries may also generate delayed sounds, shock waves, or scattered debris. Research into spacecraft re-entry acoustics shows that sonic booms can travel long distances after fragmentation events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospaceamerica.aiaa.org">[Aerospace America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospaceamerica.aiaa.org</span><span class="citation-popover-snippet">Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</span></span></span> Witnesses who first see a bright object and later hear explosive sounds may interpret the sequence as a crash or aerial encounter.
 
 That mechanism fits several recurring features in loosely sourced Eritrean UFO anecdotes: bright lights, delayed noise, and uncertain ground impact claims.
 
@@ -344,21 +344,21 @@ This matters because military flights often produce lighting patterns unfamiliar
 
 </div>
 
-The increase in regional drone warfare has added another layer of confusion. Sudan’s recent drone attacks near the Eritrean frontier illustrate how unmanned aircraft are now common in nearby conflict zones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 East Sudan drone attacks</span><span class="citation-popover-snippet">2025 East Sudan drone attacks</span></span></span>
+The increase in regional drone warfare has added another layer of confusion. Sudan’s recent drone attacks near the Eritrean frontier illustrate how unmanned aircraft are now common in nearby conflict zones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 East Sudan drone attacks</span><span class="citation-popover-snippet">2025 East Sudan drone attacks</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iGssxryCjsU" title="Reality Check: Military-linked UAP claims &amp; new reports of unidentified drones | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iGssxryCjsU" target="_blank" rel="noopener noreferrer">Reality Check: Military-linked UAP claims &amp; new reports of unidentified drones | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 50.1K &middot; Uploaded: May 2026 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iGssxryCjsU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iGssxryCjsU">Open on YouTube</a></p></div></div></div>
 
 ### Eritrean and regional air operations
 
-Eritrea itself maintains military aviation capabilities, including fighter aircraft historically associated with tensions involving Ethiopia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mikoyan_MiG-29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mikoyan Mi G-29</span><span class="citation-popover-snippet">Mikoyan Mi G-29</span></span></span> Military training flights, surveillance aircraft, or transport operations can appear unusual when viewed from long distances at night.
+Eritrea itself maintains military aviation capabilities, including fighter aircraft historically associated with tensions involving Ethiopia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mikoyan_MiG-29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mikoyan Mi G-29</span><span class="citation-popover-snippet">Mikoyan Mi G-29</span></span></span> Military training flights, surveillance aircraft, or transport operations can appear unusual when viewed from long distances at night.
 
-Regional cooperation has also increased cross-border air activity. Reports connected to Somali military training in Eritrea and broader Red Sea security operations suggest ongoing aerial movement in and around the country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Somali_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Somali Air Force</span><span class="citation-popover-snippet">Somali Air Force</span></span></span>
+Regional cooperation has also increased cross-border air activity. Reports connected to Somali military training in Eritrea and broader Red Sea security operations suggest ongoing aerial movement in and around the country.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Somali_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Somali Air Force</span><span class="citation-popover-snippet">Somali Air Force</span></span></span>
 
 To a civilian observer without flight-tracking tools, such aircraft can easily become “unidentified”.
 
 ### Drones change how sightings are perceived
 
-Modern drones complicate UFO interpretation because they genuinely behave differently from conventional aircraft. They can hover, move slowly, change altitude abruptly, and operate with limited visible lighting. Military drones near the Red Sea have already become linked to speculative UFO discussions online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">flying objects (UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone...</span></span></span>
+Modern drones complicate UFO interpretation because they genuinely behave differently from conventional aircraft. They can hover, move slowly, change altitude abruptly, and operate with limited visible lighting. Military drones near the Red Sea have already become linked to speculative UFO discussions online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">flying objects (UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone...</span></span></span>
 
 In Eritrea, where independent reporting is limited and rumours spread faster than technical explanations, a drone sighting may evolve into a story about unknown aerial craft even when the underlying object is conventional military equipment.
 
@@ -405,194 +405,194 @@ The balance of probability favours explanations such as:
 No well-documented Eritrean case currently provides publicly available evidence strong enough to overturn those explanations. The more unusual the claim becomes in retelling, the thinner the original evidence usually appears.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Natural and Human Causes Behind Eritrean UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Natural and Human Causes Behind Eritrean UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers classification and investigation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers classification and investigation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Focused on mundane explanations and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on mundane explanations and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for comparing stronger and weaker reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for comparing stronger and weaker reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how ordinary phenomena are often mistaken for extraordinary events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how ordinary phenomena are often mistaken for extraordinary events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-eritrean-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ No well-documented Eritrean case currently provides publicly available evidence 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ No well-documented Eritrean case currently provides publicly available evidence 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ No well-documented Eritrean case currently provides publicly available evidence 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ No well-documented Eritrean case currently provides publicly available evidence 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ No well-documented Eritrean case currently provides publicly available evidence 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,135 +795,134 @@ No well-documented Eritrean case currently provides publicly available evidence 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Earth-grazing fireball  
-   Link: <a href="https://en.wikipedia.org/wiki/Earth-grazing_fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth-grazing_fireball</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2010 — An Earth-grazing fireball (or Earth grazer) is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and leav...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Earth-grazing_fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth-grazing_fireball</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2010 — An Earth-grazing fireball (or Earth grazer) is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and leav...</p></details>
    Published: August 28, 2010  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
+   Link:<a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFenU-OvIhW/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This dazzling...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFenU-OvIhW/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This dazzling...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 2025 East Sudan drone attacks  
-   Link: <a href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Mikoyan Mi G-29  
-   Link: <a href="https://en.wikipedia.org/wiki/Mikoyan_MiG-29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mikoyan_MiG-29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mikoyan_MiG-29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mikoyan_MiG-29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Somali Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Somali_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Somali_Air_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Somali_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Somali_Air_Force</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
    Title: Wait till you see this… right out of a Sci-Fi movie!  
-   Link: <a href="https://www.instagram.com/reel/DOaRZeYjl_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOaRZeYjl_x/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Air...Two Air Force MQ-9 Reaper drones flying over the Red Sea near Yemen last October encountered an Unidentified Flying Object or...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DOaRZeYjl_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOaRZeYjl_x/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Air...Two Air Force MQ-9 Reaper drones flying over the Red Sea near Yemen last October encountered an Unidentified Flying Object or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVrchTblAGd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVrchTblAGd/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sion #mystery. more. May...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVrchTblAGd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVrchTblAGd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sion #mystery. more. May...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUqhCScDD9w/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUqhCScDD9w/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FO, while thousands rushed outside after seeing the sky suddenly flash...</p></details>
+   Link:<a href="https://www.instagram.com/p/DUqhCScDD9w/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUqhCScDD9w/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FO, while thousands rushed outside after seeing the sky suddenly flash...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: military.ie  
    Title: defence forces review 2017  
-   Link: <a href="https://www.military.ie/media/zd2bzye3/defence-forces-review-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.military.ie/media/zd2bzye3/defence-forces-review-2017.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Nov 2017 — Red Sea, with quantities of long-range rockets26... foreigners/aliens, state border control, and the revision of the crimi...</p></details>
+   Link:<a href="https://www.military.ie/media/zd2bzye3/defence-forces-review-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.military.ie/media/zd2bzye3/defence-forces-review-2017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Nov 2017 — Red Sea, with quantities of long-range rockets26... foreigners/aliens, state border control, and the revision of the crimi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</p></details>
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aerospaceamerica.aiaa.org  
-   Link: <a href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects (UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone...</p></details>
+   Link:<a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects (UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/a-chinese-satellite-burned-up-over-the-united-states-in-a-fireball-and-fell-back/1122162686031266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/a-chinese-satellite-burned-up-over-the-united-states-in-a-fireball-and-fell-back/1122162686031266/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Chinese satellite burned up over the United States...Astrophysicist Jonathan McDowell confirmed that the reentry was uncontrolled, wit...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceNaturePage/posts/a-chinese-satellite-burned-up-over-the-united-states-in-a-fireball-and-fell-back/1122162686031266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/a-chinese-satellite-burned-up-over-the-united-states-in-a-fireball-and-fell-back/1122162686031266/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Chinese satellite burned up over the United States...Astrophysicist Jonathan McDowell confirmed that the reentry was uncontrolled, wit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor streaked across the sky over Germany on Sunday...But what exactly is this alien-looking fireball? Did SpaceX photograph a rogue...</p></details>
+   Link:<a href="https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor streaked across the sky over Germany on Sunday...But what exactly is this alien-looking fireball? Did SpaceX photograph a rogue...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/107750912593576/posts/9746902728678298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107750912593576/posts/9746902728678298/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research and Alleged ArtifactsI might postulate that Pulau Bompa (or erroneously referred to as &#x27;islands&#x27;--&#x27;Pulau-pulau&#x27;) in Flight 7...</p></details>
+   Link:<a href="https://www.facebook.com/groups/107750912593576/posts/9746902728678298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107750912593576/posts/9746902728678298/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research and Alleged ArtifactsI might postulate that Pulau Bompa (or erroneously referred to as &#x27;islands&#x27;--&#x27;Pulau-pulau&#x27;) in Flight 7...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bibliobase.sermais.pt  
-   Link: <a href="https://bibliobase.sermais.pt/BiblioNET/upload/PDF3/01768_wr2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bibliobase.sermais.pt/BiblioNET/upload/PDF3/01768_wr2013.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rights Watch... Alien Legacy, for example, Human. Rights Watch highlighted the irony of foreign laws being exalted as “citadels of nation...</p></details>
+   Link:<a href="https://bibliobase.sermais.pt/BiblioNET/upload/PDF3/01768_wr2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bibliobase.sermais.pt/BiblioNET/upload/PDF3/01768_wr2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rights Watch... Alien Legacy, for example, Human. Rights Watch highlighted the irony of foreign laws being exalted as “citadels of nation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ WHAT WAS THAT: Reports from across the region confirm...A fireball streaked across the sky just after 10:00 PM CT last night...</p></details>
+   Link:<a href="https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ WHAT WAS THAT: Reports from across the region confirm...A fireball streaked across the sky just after 10:00 PM CT last night...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KD-3ga6vRiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KD-3ga6vRiU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Michigan likely dead Russian satellite reentryThe American Meteor Society (AMS) received several reports of a fireball seen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KD-3ga6vRiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KD-3ga6vRiU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Michigan likely dead Russian satellite reentryThe American Meteor Society (AMS) received several reports of a fireball seen...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dcaf.ch  
-   Link: <a href="https://www.dcaf.ch/sites/default/files/publications/documents/op06_privatising-security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dcaf.ch/sites/default/files/publications/documents/op06_privatising-security.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nts, crossing the boundary or sailing from their territory for the purpose of starting or...Read more...</p></details>
+   Link:<a href="https://www.dcaf.ch/sites/default/files/publications/documents/op06_privatising-security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dcaf.ch/sites/default/files/publications/documents/op06_privatising-security.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nts, crossing the boundary or sailing from their territory for the purpose of starting or...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: avi-loeb.medium.com  
    Title: fireballs in the desert brighter than oppenheimers trinity 3186ad8f29a9  
-   Link: <a href="https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Desert, Brighter Than Oppenheimer&#x27;s Trinity4 Alien Species Pulled from Crashed UFOs? Secrets of the Universe. In...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Desert, Brighter Than Oppenheimer&#x27;s Trinity4 Alien Species Pulled from Crashed UFOs? Secrets of the Universe. In...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: state.gov  
    Title: country reports on terrorism 2016  
-   Link: <a href="https://www.state.gov/reports/country-reports-on-terrorism-2016" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/country-reports-on-terrorism-2016</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State DepartmentCountry Reports on Terrorism 2016In 2016, Eritrea continued to increase its military cooperation with the... alien” to A...</p></details>
+   Link:<a href="https://www.state.gov/reports/country-reports-on-terrorism-2016" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/country-reports-on-terrorism-2016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State DepartmentCountry Reports on Terrorism 2016In 2016, Eritrea continued to increase its military cooperation with the... alien” to A...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — 950 South Africa: Western Cape: daylight sighting of fireball and smoke trails. Sonic booms hea...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — 950 South Africa: Western Cape: daylight sighting of fireball and smoke trails. Sonic booms hea...</p></details>

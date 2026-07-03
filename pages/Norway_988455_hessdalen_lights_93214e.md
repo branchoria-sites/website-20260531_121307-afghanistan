@@ -254,42 +254,42 @@ image: /assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-1-socia
 
 ## Introduction
 
-The Hessdalen lights occupy a unique place in [Norway]({{ 'what-makes-norways-ufo-record-different/' | relative_url }})’s UFO history because they are not simply a collection of dramatic witness stories. They are a recurring luminous phenomenon that has been photographed, measured, tracked, and repeatedly revisited by investigators for more than four decades. Unlike many famous UFO cases that depend on a single event, Hessdalen involves repeated observations in the same valley under conditions that allowed organised fieldwork and instrument monitoring. That combination is why it is often treated as Norway’s strongest evidence case: not because it proves an extraordinary explanation, but because the phenomenon has resisted easy dismissal while also resisting definitive confirmation of any one theory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[2en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
+The Hessdalen lights occupy a unique place in [Norway]({{ 'what-makes-norways-ufo-record-different/' | relative_url }})’s UFO history because they are not simply a collection of dramatic witness stories. They are a recurring luminous phenomenon that has been photographed, measured, tracked, and repeatedly revisited by investigators for more than four decades. Unlike many famous UFO cases that depend on a single event, Hessdalen involves repeated observations in the same valley under conditions that allowed organised fieldwork and instrument monitoring. That combination is why it is often treated as Norway’s strongest evidence case: not because it proves an extraordinary explanation, but because the phenomenon has resisted easy dismissal while also resisting definitive confirmation of any one theory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[2en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
 
 <img src="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-1-dark.svg" | relative_url }}" alt="Hessdalen illustration 1" data-theme-src-dark="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The valley lies in Trøndelag, south of Trondheim and near the wider Røros region. During the early 1980s, reports became so frequent that local residents, engineers, journalists, and later scientists began treating the lights as a recurring environmental phenomenon rather than a series of isolated UFO sightings. The result was one of the most sustained attempts anywhere in Europe to gather objective data on unexplained aerial lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hessdalsfenomenet.no/english/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalsfenomenet.no">[Hessdalsfenomenet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalsfenomenet.no</span><span class="citation-popover-snippet">EnglishThe first observations of unexplainable lights were reported at Hessdalen. The valley is situated in Trøndelag, 1...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen lights</span><span class="citation-popover-snippet">Hessdalen lights</span></span></span>
+The valley lies in Trøndelag, south of Trondheim and near the wider Røros region. During the early 1980s, reports became so frequent that local residents, engineers, journalists, and later scientists began treating the lights as a recurring environmental phenomenon rather than a series of isolated UFO sightings. The result was one of the most sustained attempts anywhere in Europe to gather objective data on unexplained aerial lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hessdalsfenomenet.no/english/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalsfenomenet.no">[Hessdalsfenomenet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalsfenomenet.no</span><span class="citation-popover-snippet">EnglishThe first observations of unexplainable lights were reported at Hessdalen. The valley is situated in Trøndelag, 1...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen lights</span><span class="citation-popover-snippet">Hessdalen lights</span></span></span>
 
 ## Why Hessdalen became different from ordinary UFO reports
 
 Most UFO cases suffer from the same weakness: by the time investigators arrive, the event is over. Hessdalen offered something unusual. The lights reportedly appeared often enough that observers could wait for them, deploy instruments, and compare multiple sightings over time.
 
-The peak period occurred between late 1981 and the mid-1980s, when reports sometimes reached dozens per month. Residents described bright white, yellow, or reddish lights moving through the valley, hovering above terrain, or crossing the sky at apparent speed. Some remained visible only briefly; others reportedly lasted far longer than typical meteor events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fenômeno Hessdalen</span><span class="citation-popover-snippet">Fenômeno Hessdalen – Wikipédia, a enciclopédia livreFenômeno Hessdalen, ou ainda Luzes de Hessdalen, são misteriosas luzes, em tonalid...</span></span></span>
+The peak period occurred between late 1981 and the mid-1980s, when reports sometimes reached dozens per month. Residents described bright white, yellow, or reddish lights moving through the valley, hovering above terrain, or crossing the sky at apparent speed. Some remained visible only briefly; others reportedly lasted far longer than typical meteor events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fenômeno Hessdalen</span><span class="citation-popover-snippet">Fenômeno Hessdalen – Wikipédia, a enciclopédia livreFenômeno Hessdalen, ou ainda Luzes de Hessdalen, são misteriosas luzes, em tonalid...</span></span></span>
 
-This persistence encouraged the creation of Project Hessdalen in 1983. The project was notable because its organisers attempted to move beyond anecdotal testimony. Rather than collecting only witness statements, they built observation stations and carried out dedicated field campaigns. That decision transformed Hessdalen from a folklore-style mystery into a long-running evidence case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Society for UAP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-title">project hessdalen</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
+This persistence encouraged the creation of Project Hessdalen in 1983. The project was notable because its organisers attempted to move beyond anecdotal testimony. Rather than collecting only witness statements, they built observation stations and carried out dedicated field campaigns. That decision transformed Hessdalen from a folklore-style mystery into a long-running evidence case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Society for UAP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-title">project hessdalen</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
 
 ## What witnesses and instruments recorded
 
 ### The 1984 field investigation
 
-The most important evidence still comes from the winter 1984 campaign. Project Hessdalen conducted an organised field study between January and February 1984 and reported dozens of observations during that period. Investigators deployed an unusually broad collection of equipment, including radar, infrared cameras, spectrum analysers, magnetometers, radio-monitoring equipment, seismographic instruments, Geiger counters, and conventional photography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[2en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
+The most important evidence still comes from the winter 1984 campaign. Project Hessdalen conducted an organised field study between January and February 1984 and reported dozens of observations during that period. Investigators deployed an unusually broad collection of equipment, including radar, infrared cameras, spectrum analysers, magnetometers, radio-monitoring equipment, seismographic instruments, Geiger counters, and conventional photography.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[2en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
 
-According to the project's technical reporting, 53 light events were documented during the investigation period. The significance is not merely the number of sightings but the attempt to correlate visual observations with instrumental measurements. Radar returns, optical recordings, and electromagnetic monitoring were all part of the effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Society for UAP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-title">project hessdalen</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
+According to the project's technical reporting, 53 light events were documented during the investigation period. The significance is not merely the number of sightings but the attempt to correlate visual observations with instrumental measurements. Radar returns, optical recordings, and electromagnetic monitoring were all part of the effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Society for UAP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-title">project hessdalen</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
 
-That does not mean every observation produced a clean scientific dataset. Many recordings were incomplete, ambiguous, or difficult to interpret. Yet Hessdalen remains unusual because investigators collected far more than eyewitness testimony. In UFO history, even obtaining simultaneous visual and instrumental [records]({{ 'records-2b5d25/' | relative_url }}) is relatively rare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
+That does not mean every observation produced a clean scientific dataset. Many recordings were incomplete, ambiguous, or difficult to interpret. Yet Hessdalen remains unusual because investigators collected far more than eyewitness testimony. In UFO history, even obtaining simultaneous visual and instrumental [records]({{ 'records-2b5d25/' | relative_url }}) is relatively rare.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AeZ3uOkVGxI" title="The Hessdalen Lights: Science’s Strangest Unexplained Glow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AeZ3uOkVGxI" target="_blank" rel="noopener noreferrer">The Hessdalen Lights: Science’s Strangest Unexplained Glow</a></p><p class="youtube-embed-meta">Channel: Wildly Curious Podcast &middot; Views: 74 &middot; Uploaded: October 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AeZ3uOkVGxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AeZ3uOkVGxI">Open on YouTube</a></p></div></div></div>
 
 ### The automatic monitoring era
 
-The case did not end with the 1980s. Researchers later established the Hessdalen Automatic Measurement Station, a permanent monitoring system intended to record future appearances without requiring a full-time field team. The station became part of a broader effort involving Norwegian and Italian researchers and later the EMBLA research campaigns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
+The case did not end with the 1980s. Researchers later established the Hessdalen Automatic Measurement Station, a permanent monitoring system intended to record future appearances without requiring a full-time field team. The station became part of a broader effort involving Norwegian and Italian researchers and later the EMBLA research campaigns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
 
-Long-term monitoring matters because it reduces one of the biggest problems in UFO investigations: selective observation. If a camera system is already running before an event occurs, there is less risk that the record reflects only the most dramatic reports. The station helped create a continuous archive of photographs, videos, spectra, and environmental measurements that researchers could revisit years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
+Long-term monitoring matters because it reduces one of the biggest problems in UFO investigations: selective observation. If a camera system is already running before an event occurs, there is less risk that the record reflects only the most dramatic reports. The station helped create a continuous archive of photographs, videos, spectra, and environmental measurements that researchers could revisit years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
 
 ### Why spectra and radar attracted attention
 
-Several observations became influential because they appeared to involve more than simple visual misidentification. Researchers reported optical spectra that suggested luminous material rather than ordinary reflected light. Other observations reportedly produced radar detections alongside visual sightings. These findings encouraged investigators to consider atmospheric plasma models and other physical mechanisms rather than treating every report as an observational error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">A Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 95 — Abstract—The balls of light which appear in the Hessdalen v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/hpreport84.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Final technical report 1984This radar has a wavelength of 3 cm, with a maximum distance of 33 km. - Spectrum analyser. Many reports from...</span></span></span>
+Several observations became influential because they appeared to involve more than simple visual misidentification. Researchers reported optical spectra that suggested luminous material rather than ordinary reflected light. Other observations reportedly produced radar detections alongside visual sightings. These findings encouraged investigators to consider atmospheric plasma models and other physical mechanisms rather than treating every report as an observational error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">A Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 95 — Abstract—The balls of light which appear in the Hessdalen v...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/hpreport84.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Final technical report 1984This radar has a wavelength of 3 cm, with a maximum distance of 33 km. - Spectrum analyser. Many reports from...</span></span></span>
 
-Supporters of the case often point to this combination of optical, electromagnetic, and radar evidence as the strongest reason Hessdalen remains scientifically interesting. Critics generally agree that unusual lights occur in the valley but dispute whether the measurements require anything beyond poorly understood natural atmospheric processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/rapporter/hprapport84.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Teknisk hovedrapport 198416: Spectrum of the lights in Hessdalen. 17: Spectrum of the moon. 18: A strong light over Va. 19: A lightst ove...</span></span></span> [ADS]
+Supporters of the case often point to this combination of optical, electromagnetic, and radar evidence as the strongest reason Hessdalen remains scientifically interesting. Critics generally agree that unusual lights occur in the valley but dispute whether the measurements require anything beyond poorly understood natural atmospheric processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/rapporter/hprapport84.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Teknisk hovedrapport 198416: Spectrum of the lights in Hessdalen. 17: Spectrum of the moon. 18: A strong light over Va. 19: A lightst ove...</span></span></span> [ADS]
 
 <img src="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-2-dark.svg" | relative_url }}" alt="Hessdalen illustration 2" data-theme-src-dark="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Natural explanations on the table
@@ -298,234 +298,234 @@ Supporters of the case often point to this combination of optical, electromagnet
 
 The dominant scientific approach does not treat Hessdalen as evidence of spacecraft. Instead, most published work has focused on unusual atmospheric plasma behaviour.
 
-One influential line of research proposes that dust, ionised gases, and local environmental conditions may create luminous plasma structures. Researchers have explored whether airborne particles combined with electrical activity and radioactivity from the surrounding geology could produce stable glowing formations. Some theoretical models argue that dust-plasma interactions could explain observed colours, oscillations, and apparent structure within certain light displays. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</span></span></span> [2ADS]
+One influential line of research proposes that dust, ionised gases, and local environmental conditions may create luminous plasma structures. Researchers have explored whether airborne particles combined with electrical activity and radioactivity from the surrounding geology could produce stable glowing formations. Some theoretical models argue that dust-plasma interactions could explain observed colours, oscillations, and apparent structure within certain light displays.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</span></span></span> [2ADS]
 
-These ideas gained attention because they attempt to explain several reported features simultaneously: long duration, changing colour, apparent motion, and spectral characteristics. However, no plasma model has achieved broad acceptance as a complete solution. Researchers continue to debate whether such formations could remain stable under real atmospheric conditions for the reported lengths of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</span></span></span>
+These ideas gained attention because they attempt to explain several reported features simultaneously: long duration, changing colour, apparent motion, and spectral characteristics. However, no plasma model has achieved broad acceptance as a complete solution. Researchers continue to debate whether such formations could remain stable under real atmospheric conditions for the reported lengths of time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tA9531uUp_s" title="4 Jaw-Dropping Events in Norway | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tA9531uUp_s" target="_blank" rel="noopener noreferrer">4 Jaw-Dropping Events in Norway | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 276.9K &middot; Uploaded: February 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tA9531uUp_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tA9531uUp_s">Open on YouTube</a></p></div></div></div>
 
 ### Geology and the valley itself
 
-Another family of explanations focuses on Hessdalen’s geology. The valley contains mineral-rich terrain, historical mining activity, and quartz-bearing rocks. Some investigators have suggested that geological stress, piezoelectric effects, or electrochemical processes could contribute to luminous emissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/PAIHLA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Hessdalen Lights and Piezoelectricity from Rock Strain.by G Paiva · 2011 · Cited by 5 — Hessdalen lights (HL) are unexplained l...</span></span></span>
+Another family of explanations focuses on Hessdalen’s geology. The valley contains mineral-rich terrain, historical mining activity, and quartz-bearing rocks. Some investigators have suggested that geological stress, piezoelectric effects, or electrochemical processes could contribute to luminous emissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/PAIHLA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Hessdalen Lights and Piezoelectricity from Rock Strain.by G Paiva · 2011 · Cited by 5 — Hessdalen lights (HL) are unexplained l...</span></span></span>
 
 The appeal of these theories is that they explain why the phenomenon appears repeatedly in the same location. A local geological mechanism would fit the valley’s long-term pattern better than explanations requiring rare atmospheric coincidences.
 
-Yet the geological models also face difficulties. They must explain the observed colours, motion, persistence, and occasional radar signatures without introducing assumptions that are themselves unproven. As a result, geology-based explanations remain plausible but incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/PAIHLA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Hessdalen Lights and Piezoelectricity from Rock Strain.by G Paiva · 2011 · Cited by 5 — Hessdalen lights (HL) are unexplained l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</span></span></span>
+Yet the geological models also face difficulties. They must explain the observed colours, motion, persistence, and occasional radar signatures without introducing assumptions that are themselves unproven. As a result, geology-based explanations remain plausible but incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/PAIHLA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Hessdalen Lights and Piezoelectricity from Rock Strain.by G Paiva · 2011 · Cited by 5 — Hessdalen lights (HL) are unexplained l...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</span></span></span>
 
 ### Ordinary misidentifications still occur
 
-A common misunderstanding is that every Hessdalen report represents the same unexplained phenomenon. Investigators themselves have acknowledged that some sightings can be identified as aircraft, astronomical objects, headlights, mirages, or other conventional sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen lights</span><span class="citation-popover-snippet">Hessdalen lights</span></span></span>
+A common misunderstanding is that every Hessdalen report represents the same unexplained phenomenon. Investigators themselves have acknowledged that some sightings can be identified as aircraft, astronomical objects, headlights, mirages, or other conventional sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen lights</span><span class="citation-popover-snippet">Hessdalen lights</span></span></span>
 
-This distinction matters. The strongest version of the Hessdalen case does not claim that every reported light is anomalous. Instead, proponents argue that after ordinary explanations are removed, a smaller residual category remains difficult to classify. Critics often counter that the unexplained remainder may shrink further as observational methods improve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fenômeno Hessdalen</span><span class="citation-popover-snippet">Fenômeno Hessdalen – Wikipédia, a enciclopédia livreFenômeno Hessdalen, ou ainda Luzes de Hessdalen, são misteriosas luzes, em tonalid...</span></span></span>
+This distinction matters. The strongest version of the Hessdalen case does not claim that every reported light is anomalous. Instead, proponents argue that after ordinary explanations are removed, a smaller residual category remains difficult to classify. Critics often counter that the unexplained remainder may shrink further as observational methods improve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fenômeno Hessdalen</span><span class="citation-popover-snippet">Fenômeno Hessdalen – Wikipédia, a enciclopédia livreFenômeno Hessdalen, ou ainda Luzes de Hessdalen, são misteriosas luzes, em tonalid...</span></span></span>
 
 <img src="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-3-dark.svg" | relative_url }}" alt="Hessdalen illustration 3" data-theme-src-dark="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_hessdalen_lights_93214e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remains narrower than the legend
 
 Hessdalen has acquired an international reputation that sometimes exceeds what the evidence actually supports. Popular retellings often jump directly from “unexplained” to “extraterrestrial”. The scientific record is much more restrained.
 
-Researchers have never produced verified evidence of alien craft, occupants, communications, or technology in the valley. The strongest evidence concerns recurring luminous phenomena whose physical mechanism remains uncertain. That is a significant distinction. The mystery is real in the sense that no single explanation commands consensus. It is not evidence that any particular extraordinary explanation is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
+Researchers have never produced verified evidence of alien craft, occupants, communications, or technology in the valley. The strongest evidence concerns recurring luminous phenomena whose physical mechanism remains uncertain. That is a significant distinction. The mystery is real in the sense that no single explanation commands consensus. It is not evidence that any particular extraordinary explanation is correct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span>
 
-Another limitation is that much of the most cited evidence originates from a relatively small number of campaigns and researchers. While the phenomenon has been observed for decades, the number of high-quality instrumental events is far smaller than the total number of reported sightings. That leaves room for competing interpretations of the same dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">A Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 95 — Abstract—The balls of light which appear in the Hessdalen v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222751827_A_hypothetical_dusty_plasma_mechanism_of_Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A hypothetical dusty plasma mechanism of Hessdalen lightsThis study utilizes a program to find the equilibrium positions of a dusty plasm...</span></span></span>
+Another limitation is that much of the most cited evidence originates from a relatively small number of campaigns and researchers. While the phenomenon has been observed for decades, the number of high-quality instrumental events is far smaller than the total number of reported sightings. That leaves room for competing interpretations of the same dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">A Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 95 — Abstract—The balls of light which appear in the Hessdalen v...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222751827_A_hypothetical_dusty_plasma_mechanism_of_Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A hypothetical dusty plasma mechanism of Hessdalen lightsThis study utilizes a program to find the equilibrium positions of a dusty plasm...</span></span></span>
 
 ## What makes Hessdalen important in Norway's UFO record
 
 The value of Hessdalen is not that it proves an extraordinary claim. Its importance is methodological. It is one of the few Norwegian UFO-related cases where observers attempted to gather systematic measurements rather than relying solely on memory and testimony.
 
-That makes Hessdalen different from crash legends, Cold War rumours, or one-night sighting waves elsewhere in Norway. The case created a long-running archive of photographs, spectra, radar observations, environmental measurements, and scientific papers. Even researchers who disagree on the interpretation generally agree that the lights deserve more serious attention than a typical UFO anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[2en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
+That makes Hessdalen different from crash legends, Cold War rumours, or one-night sighting waves elsewhere in Norway. The case created a long-running archive of photographs, spectra, radar observations, environmental measurements, and scientific papers. Even researchers who disagree on the interpretation generally agree that the lights deserve more serious attention than a typical UFO anecdote.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.hessdalen.de">[2en.hessdalen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.hessdalen.de</span><span class="citation-popover-title">project hessdalen 1984</span><span class="citation-popover-snippet">Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</span></span></span>
 
-For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but important position. It is not the strongest case because it offers the most dramatic story. It is the strongest case because repeated observations allowed repeated measurement, and decades of monitoring have still not produced a universally accepted explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Society for UAP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-title">project hessdalen</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span> [2ADS]
+For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but important position. It is not the strongest case because it offers the most dramatic story. It is the strongest case because repeated observations allowed repeated measurement, and decades of monitoring have still not produced a universally accepted explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyforuapstudies.org">[Society for UAP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyforuapstudies.org</span><span class="citation-popover-title">project hessdalen</span><span class="citation-popover-snippet">Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</span><span class="citation-popover-meta">Published: February 1984</span></span></span> [2ADS]
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7hBUk13yE8s" title="MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer">MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 178.3K &middot; Uploaded: June 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7hBUk13yE8s">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Hessdalen Still Resists Easy Answers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Hessdalen Still Resists Easy Answers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places Hessdalen within broader evidence-based UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Hessdalen within broader evidence-based UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Focuses on archival evidence and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on archival evidence and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical analysis of unresolved phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical analysis of unresolved phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
         
-        <p class="fr-book-desc">Explores possible natural explanations for anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores possible natural explanations for anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hessdalen-still-resists-easy-answers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-hessdalen-still-resists-easy-answers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but impo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but impo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but impo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but impo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but impo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,181 +728,180 @@ For Norway’s wider UFO history, Hessdalen therefore occupies a narrow but impo
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hessdalen.org  
-   Link: <a href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenProject HessdalenProject Hessdalen&#x27;s role is to collect high-quality, objective data and make it openly available for an...</p></details>
+   Link:<a href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenProject HessdalenProject Hessdalen&#x27;s role is to collect high-quality, objective data and make it openly available for an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.hessdalen.de  
    Title: project hessdalen 1984  
-   Link: <a href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow">https://www.en.hessdalen.de/project-hessdalen-1984.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</p></details>
+   Link:<a href="https://www.en.hessdalen.de/project-hessdalen-1984.html" target="_blank" rel="noopener noreferrer nofollow">https://www.en.hessdalen.de/project-hessdalen-1984.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar and seismographic measurements in Hessdalen in 1984As the nature of the phenomena was unknown, a broad range of instruments has bee...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/scex1802217251.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 95 — Abstract—The balls of light which appear in the Hessdalen v...</p></details>
+   Link:<a href="https://old.hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/scex1802217251.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 95 — Abstract—The balls of light which appear in the Hessdalen v...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hessdalsfenomenet.no  
-   Link: <a href="https://hessdalsfenomenet.no/english/" target="_blank" rel="noopener noreferrer nofollow">https://hessdalsfenomenet.no/english/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EnglishThe first observations of unexplainable lights were reported at Hessdalen. The valley is situated in Trøndelag, 1...</p></details>
+   Link:<a href="https://hessdalsfenomenet.no/english/" target="_blank" rel="noopener noreferrer nofollow">https://hessdalsfenomenet.no/english/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EnglishThe first observations of unexplainable lights were reported at Hessdalen. The valley is situated in Trøndelag, 1...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Hessdalen lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/reports/hpreport84.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/hpreport84.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Final technical report 1984This radar has a wavelength of 3 cm, with a maximum distance of 33 km. - Spectrum analyser. Many reports from...</p></details>
+   Link:<a href="https://old.hessdalen.org/reports/hpreport84.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/hpreport84.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Final technical report 1984This radar has a wavelength of 3 cm, with a maximum distance of 33 km. - Spectrum analyser. Many reports from...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hessdalen.org  
-   Link: <a href="https://www.hessdalen.org/theories" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/theories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenThe investigation into the Hessdalen Phenomenon11 Jun 2025 — These sources provide an overview of Project Hessdalen and...</p></details>
+   Link:<a href="https://www.hessdalen.org/theories" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenThe investigation into the Hessdalen Phenomenon11 Jun 2025 — These sources provide an overview of Project Hessdalen and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576510000329</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation &amp; analysis of transient luminous phenomena...by BG Hauge · 2010 · Cited by 7 — The first appearance in modern times was re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/rapporter/hprapport84.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/rapporter/hprapport84.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teknisk hovedrapport 198416: Spectrum of the lights in Hessdalen. 17: Spectrum of the moon. 18: A strong light over Va. 19: A lightst ove...</p></details>
+   Link:<a href="https://old.hessdalen.org/rapporter/hprapport84.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/rapporter/hprapport84.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teknisk hovedrapport 198416: Spectrum of the lights in Hessdalen. 17: Spectrum of the moon. 18: A strong light over Va. 19: A lightst ove...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S136468261000218X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S136468261000218X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hypothetical dusty plasma mechanism of Hessdalen lightsby GS Paiva · 2010 · Cited by 13 — In this work, it is suggested th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S136468261000218X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S136468261000218X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A hypothetical dusty plasma mechanism of Hessdalen lightsby GS Paiva · 2010 · Cited by 13 — In this work, it is suggested th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222751827_A_hypothetical_dusty_plasma_mechanism_of_Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222751827_A_hypothetical_dusty_plasma_mechanism_of_Hessdalen_lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hypothetical dusty plasma mechanism of Hessdalen lightsThis study utilizes a program to find the equilibrium positions of a dusty plasm...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222751827_A_hypothetical_dusty_plasma_mechanism_of_Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222751827_A_hypothetical_dusty_plasma_mechanism_of_Hessdalen_lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A hypothetical dusty plasma mechanism of Hessdalen lightsThis study utilizes a program to find the equilibrium positions of a dusty plasm...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/PAIHLA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/PAIHLA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen Lights and Piezoelectricity from Rock Strain.by G Paiva · 2011 · Cited by 5 — Hessdalen lights (HL) are unexplained l...</p></details>
+   Link:<a href="https://philpapers.org/rec/PAIHLA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/PAIHLA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen Lights and Piezoelectricity from Rock Strain.by G Paiva · 2011 · Cited by 5 — Hessdalen lights (HL) are unexplained l...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0926985124001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0926985124001149</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contribution of VLF electromagnetic survey to the...by GN Vargemezis · 2024 · Cited by 4 — Although luminous phenomena (&#x27;LP...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0926985124001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0926985124001149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contribution of VLF electromagnetic survey to the...by GN Vargemezis · 2024 · Cited by 4 — Although luminous phenomena (&#x27;LP...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/241428393_Data_Analysis_of_Anomalous_Luminous_Phenomena_in_Hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241428393_Data_Analysis_of_Anomalous_Luminous_Phenomena_in_Hessdalen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Analysis of Anomalous Luminous Phenomena in...Project Hessdalen has been one of the very first attempts to obtain measurements on t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/241428393_Data_Analysis_of_Anomalous_Luminous_Phenomena_in_Hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241428393_Data_Analysis_of_Anomalous_Luminous_Phenomena_in_Hessdalen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Analysis of Anomalous Luminous Phenomena in...Project Hessdalen has been one of the very first attempts to obtain measurements on t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A long-term scientific survey of the Hessdalen phenomenonWe propose a falsifiable hypothesis synthesizing plasma electrodynamics, radar c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A long-term scientific survey of the Hessdalen phenomenonWe propose a falsifiable hypothesis synthesizing plasma electrodynamics, radar c...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Fenômeno Hessdalen  
-   Link: <a href="https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fenômeno Hessdalen – Wikipédia, a enciclopédia livreFenômeno Hessdalen, ou ainda Luzes de Hessdalen, são misteriosas luzes, em tonalid...</p></details>
+   Link:<a href="https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Fen%C3%B4meno_Hessdalen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fenômeno Hessdalen – Wikipédia, a enciclopédia livreFenômeno Hessdalen, ou ainda Luzes de Hessdalen, são misteriosas luzes, em tonalid...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: societyforuapstudies.org  
    Title: project hessdalen  
-   Link: <a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</p></details>
+   Link:<a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society for UAP StudiesProject HessdalenA field investigation was carried out between 21.January and 26.February 1984. Fifty-three light...</p></details>
    Published: February 1984  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: erling-strand.no  
-   Link: <a href="https://www.erling-strand.no/hessdalen-media/Hessdalen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erling-strand.no/hessdalen-media/Hessdalen.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 1982 — in Hessdalen. Project Hessdalen was founded on the 3th June 1983. Two field works. 1984: 21th January to the 26th February...</p></details>
+   Link:<a href="https://www.erling-strand.no/hessdalen-media/Hessdalen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erling-strand.no/hessdalen-media/Hessdalen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 1982 — in Hessdalen. Project Hessdalen was founded on the 3th June 1983. Two field works. 1984: 21th January to the 26th February...</p></details>
    Published: June 1983  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jankrogh.com  
    Title: Hessdalen Report  
-   Link: <a href="https://www.jankrogh.com/dok/Hessdalsrapporten_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jankrogh.com/dok/Hessdalsrapporten_eng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan S. KroghThe last time Havik observed lights in Hessdalen was in April 1987. 1.5 The... The date of the observation is the 1st June 1...</p></details>
+   Link:<a href="https://www.jankrogh.com/dok/Hessdalsrapporten_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jankrogh.com/dok/Hessdalsrapporten_eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan S. KroghThe last time Havik observed lights in Hessdalen was in April 1987. 1.5 The... The date of the observation is the 1st June 1...</p></details>
    Published: April 1987  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
    Title: Project Hessdalen 1984 E Strand Final Report  
-   Link: <a href="https://www.scribd.com/document/1006533416/Project-Hessdalen-1984-E-Strand-Final-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1006533416/Project-Hessdalen-1984-E-Strand-Final-Report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strand - Final ReportThe final technical report on Project Hessdalen details the investigation into unexplained lights observed in the He...</p></details>
+   Link:<a href="https://www.scribd.com/document/1006533416/Project-Hessdalen-1984-E-Strand-Final-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1006533416/Project-Hessdalen-1984-E-Strand-Final-Report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strand - Final ReportThe final technical report on Project Hessdalen details the investigation into unexplained lights observed in the He...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: The Hessdalen Lights  
-   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/hmhw5y/the_hessdalen_lights_strange_lights_appearing_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/hmhw5y/the_hessdalen_lights_strange_lights_appearing_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights appearing in a valley...One possible explanation attributes the phenomenon to an incompletely understood combustion invol...</p></details>
+   Link:<a href="https://www.reddit.com/r/nonmurdermysteries/comments/hmhw5y/the_hessdalen_lights_strange_lights_appearing_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/hmhw5y/the_hessdalen_lights_strange_lights_appearing_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights appearing in a valley...One possible explanation attributes the phenomenon to an incompletely understood combustion invol...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: veriarch.com  
    Title: The Hessdalen Lights  
-   Link: <a href="https://veriarch.com/the-hessdalen-lights" target="_blank" rel="noopener noreferrer nofollow">https://veriarch.com/the-hessdalen-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Norwegian Science Ignores...2 Jul 2025 — Various researchers have proposed mechanisms, including dust combustion involving scandium...</p></details>
+   Link:<a href="https://veriarch.com/the-hessdalen-lights" target="_blank" rel="noopener noreferrer nofollow">https://veriarch.com/the-hessdalen-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Norwegian Science Ignores...2 Jul 2025 — Various researchers have proposed mechanisms, including dust combustion involving scandium...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing the famous Hessdalen LightsThe lights have been captured on radar simultaneously with optical instruments, confirming they...</p></details>
+   Link:<a href="https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing the famous Hessdalen LightsThe lights have been captured on radar simultaneously with optical instruments, confirming they...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: naturphilosophie.co.uk  
-   Link: <a href="https://naturphilosophie.co.uk/2023/06/12/eliminating-the-impossible-the-complex-electro-chemistry-behind-the-hessdalen-lights/" target="_blank" rel="noopener noreferrer nofollow">https://naturphilosophie.co.uk/2023/06/12/eliminating-the-impossible-the-complex-electro-chemistry-behind-the-hessdalen-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Complex Electro-Chemistry Behind the Hessdalen Lights12 Jun 2023 — The Hessdalen lights can be attributed to an incompletely understo...</p></details>
+   Link:<a href="https://naturphilosophie.co.uk/2023/06/12/eliminating-the-impossible-the-complex-electro-chemistry-behind-the-hessdalen-lights/" target="_blank" rel="noopener noreferrer nofollow">https://naturphilosophie.co.uk/2023/06/12/eliminating-the-impossible-the-complex-electro-chemistry-behind-the-hessdalen-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Complex Electro-Chemistry Behind the Hessdalen Lights12 Jun 2023 — The Hessdalen lights can be attributed to an incompletely understo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: iflscience.com  
    Title: hessdalen lights the unexplained lights that hover above norway 68054  
-   Link: <a href="https://www.iflscience.com/hessdalen-lights-the-unexplained-lights-that-hover-above-norway-68054" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/hessdalen-lights-the-unexplained-lights-that-hover-above-norway-68054</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained Lights That Hover Above Norway20 Mar 2023 — Strand and his team used radar, a magnetometer, a radio-spectrum analyzer, a...</p></details>
+   Link:<a href="https://www.iflscience.com/hessdalen-lights-the-unexplained-lights-that-hover-above-norway-68054" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/hessdalen-lights-the-unexplained-lights-that-hover-above-norway-68054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained Lights That Hover Above Norway20 Mar 2023 — Strand and his team used radar, a magnetometer, a radio-spectrum analyzer, a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: discoveryuk.com  
    Title: hessdalen lights natural phenomenon or extraterrestrial signals  
-   Link: <a href="https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen lights could be caused by a form of atmospheric plasma, where charged particles in the Earth&#x27;s atmosphere...Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen lights could be caused by a form of atmospheric plasma, where charged particles in the Earth&#x27;s atmosphere...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/975159082/234-Article-Text-1699-1-10-20110701" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/975159082/234-Article-Text-1699-1-10-20110701</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s due to their ability to form complex structures, such as plasma crystals, under...</p></details>
+   Link:<a href="https://www.scribd.com/document/975159082/234-Article-Text-1699-1-10-20110701" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/975159082/234-Article-Text-1699-1-10-20110701</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s due to their ability to form complex structures, such as plasma crystals, under...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: englishpluspodcast.com  
    Title: the hessdalen lights norways enduring sky mystery  
-   Link: <a href="https://englishpluspodcast.com/the-hessdalen-lights-norways-enduring-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://englishpluspodcast.com/the-hessdalen-lights-norways-enduring-sky-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights: Norway&#x27;s Enduring Sky Mystery5 Apr 2025 — One particularly intriguing aspect is that some of the lights have been d...</p></details>
+   Link:<a href="https://englishpluspodcast.com/the-hessdalen-lights-norways-enduring-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://englishpluspodcast.com/the-hessdalen-lights-norways-enduring-sky-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights: Norway&#x27;s Enduring Sky Mystery5 Apr 2025 — One particularly intriguing aspect is that some of the lights have been d...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>essdalen valley and for which there is no agreed upon explanation?...</p></details>
+   Link:<a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>essdalen valley and for which there is no agreed upon explanation?...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: frontiersin.org  
    Title: To Investigate or Not to Investigate?  
-   Link: <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers&#x27; Views...by E Caron · 2016 · Cited by 1 —). A hypothetical dusty plasma mechanism of Hessdalen lights. J. Atmos. Solar Terr...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers&#x27; Views...by E Caron · 2016 · Cited by 1 —). A hypothetical dusty plasma mechanism of Hessdalen lights. J. Atmos. Solar Terr...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>otographed over 600,000 times by university equipment...</p></details>
+   Link:<a href="https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>otographed over 600,000 times by university equipment...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQpBLe3Dcq9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQpBLe3Dcq9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 mi) stretch of the Hessdalen valley in...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQpBLe3Dcq9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQpBLe3Dcq9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 mi) stretch of the Hessdalen valley in...Read more...</p></details>

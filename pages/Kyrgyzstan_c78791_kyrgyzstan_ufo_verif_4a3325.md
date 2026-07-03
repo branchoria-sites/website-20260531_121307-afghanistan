@@ -255,9 +255,9 @@ Reports of **UFOs (Unidentified Flying Objects)** over [Kyrgyzstan]({{ 'what-rea
 
 A range of events reported in Kyrgyz media and online testimony illustrate how sightings sprout but rarely mature into verifiable cases:
 
-* **Social video sightings over villages:** In January 2026, residents of the village of Kara‑Tuu in Kochkor district shared videos of a chain of bright lights moving across the sky. News reports noted the phenomena without attributing them to a specific physical source, leaving identification open. <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.kg">[Kyrgyz News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.kg</span><span class="citation-popover-snippet">Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</span></span></span>
-* **Military attention to unexplained fall marks:** In April 2026, local police said that **materials related to the fall of unidentified objects near Issyk‑Kul** had been handed to the military prosecutor. Early speculation suggested possible munitions rather than anything exotic, and authorities have been investigating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.kg">[Kyrgyz News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.kg</span><span class="citation-popover-snippet">Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</span></span></span>
-* **Green flashes and atmospheric events:** In April 2021, social video captured a bright green flash over Bishkek region. The Emergency Ministry and Interfax reported the Ministry of Emergency Situations examined whether it might be a meteorite, emphasising that no definitive conclusion had yet been reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interfax.ru/world/759974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interfax.ru">[Interfax.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interfax.ru</span><span class="citation-popover-snippet">В небе над Бишкеком заметили загадочную яркую вспышкуApril 7, 2021...</span><span class="citation-popover-meta">Published: April 7, 2021</span></span></span>
+* **Social video sightings over villages:** In January 2026, residents of the village of Kara‑Tuu in Kochkor district shared videos of a chain of bright lights moving across the sky. News reports noted the phenomena without attributing them to a specific physical source, leaving identification open.<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.kg">[Kyrgyz News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.kg</span><span class="citation-popover-snippet">Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</span></span></span>
+* **Military attention to unexplained fall marks:** In April 2026, local police said that **materials related to the fall of unidentified objects near Issyk‑Kul** had been handed to the military prosecutor. Early speculation suggested possible munitions rather than anything exotic, and authorities have been investigating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.kg">[Kyrgyz News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.kg</span><span class="citation-popover-snippet">Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</span></span></span>
+* **Green flashes and atmospheric events:** In April 2021, social video captured a bright green flash over Bishkek region. The Emergency Ministry and Interfax reported the Ministry of Emergency Situations examined whether it might be a meteorite, emphasising that no definitive conclusion had yet been reached.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interfax.ru/world/759974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interfax.ru">[Interfax.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interfax.ru</span><span class="citation-popover-snippet">В небе над Бишкеком заметили загадочную яркую вспышкуApril 7, 2021...</span><span class="citation-popover-meta">Published: April 7, 2021</span></span></span>
 
 In these cases, although witnesses describe unusual light patterns or unexpected aerial events, **formal identification remains unresolved or suggestive of prosaic explanations** such as meteors or man‑made re‑entries.
 
@@ -267,8 +267,8 @@ In these cases, although witnesses describe unusual light patterns or unexpected
 
 Across years of local storytelling and curated anecdotal collections, several motifs recur — but with significant verification shortfalls:
 
-* **Multiple human‑reported “UFO sightings”:** A 2021 collection by Sputnik Kyrgyzstan presents a series of *witness recounts* from Issyk‑Kul and other regions, describing glowing balls, criss‑crossing lights or inexplicable patterns in the night sky. These are framed as local experiences but lack physical corroboration or data beyond witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.sputnik.kg">[Sputnik Кыргызстан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.sputnik.kg</span><span class="citation-popover-title">КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй</span><span class="citation-popover-snippet">Sputnik КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй - 05.10.2021, Sputnik КыргызстанOctober 5, 2021...</span><span class="citation-popover-meta">Published: October 5, 2021</span></span></span>
-* **Historical anomalous zones and folklore:** Older blog posts and “anomalous zone” narratives from Ala‑Archa Gorge and Shaitan‑Mazar mountain areas detail dramatic aerial objects or interactions reported by climbers and local inhabitants in the 1980s and early 1990s. These accounts often include vivid descriptions but **do not reference photographic evidence, instrument logs, official crash reports, or recovered material**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.kg">[Kyrgyz News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.kg</span><span class="citation-popover-snippet">Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</span></span></span>
+* **Multiple human‑reported “UFO sightings”:** A 2021 collection by Sputnik Kyrgyzstan presents a series of *witness recounts* from Issyk‑Kul and other regions, describing glowing balls, criss‑crossing lights or inexplicable patterns in the night sky. These are framed as local experiences but lack physical corroboration or data beyond witness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.sputnik.kg">[Sputnik Кыргызстан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.sputnik.kg</span><span class="citation-popover-title">КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй</span><span class="citation-popover-snippet">Sputnik КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй - 05.10.2021, Sputnik КыргызстанOctober 5, 2021...</span><span class="citation-popover-meta">Published: October 5, 2021</span></span></span>
+* **Historical anomalous zones and folklore:** Older blog posts and “anomalous zone” narratives from Ala‑Archa Gorge and Shaitan‑Mazar mountain areas detail dramatic aerial objects or interactions reported by climbers and local inhabitants in the 1980s and early 1990s. These accounts often include vivid descriptions but **do not reference photographic evidence, instrument logs, official crash reports, or recovered material**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.kg">[Kyrgyz News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.kg</span><span class="citation-popover-snippet">Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</span></span></span>
 
 These patterns reveal **cultural or experiential documentation** rather than systematically verified incident records. Absence of physical artefacts, instrumentation, independent analysis, or corroborating radar/air‑traffic data means such accounts remain **unverified reports**, not validated discoveries.
 
@@ -278,8 +278,8 @@ These patterns reveal **cultural or experiential documentation** rather than sys
 
 Several reported sightings have straightforward alternative explanations that fill part of the evidentiary void:
 
-* **Rocket and spacecraft trajectories:** Historical sightings over Bishkek and other parts of Kyrgyzstan have been linked to **rocket launches from Baikonur Cosmodrome** in Kazakhstan. One 2017 event initially discussed as an “UFO” was explained by Kyrgyz aviation authorities and observers as the **Soyuz‑FG launch**, whose upper stages and fuel dump can produce bright, glowing streaks in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stanradar.com/news/full/25898-nlo-bliz-stolitsy-kyrgyzstana-okazalsja-raketoj-startovavshej-s-bajkonura.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanradar.com">[StanRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanradar.com</span><span class="citation-popover-snippet">StanRadarНЛО близ столицы Кыргызстана оказался ракетой, стартовавшей с &quot;Байконура&quot;:: Новости:: StanRadar - новости Центральной АзииJuly...</span></span></span>
-* **Atmospheric re‑entries and meteors:** Bright green flashes or streaks are frequently associated with **meteoric events** entering the atmosphere. Official Kyrgyz emergency services have actively evaluated such flashes as potential meteorite entries, demonstrating how natural phenomena can mimic UFO descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.for.kg/news-695941-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: for.kg">[for.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">for.kg</span><span class="citation-popover-title">Emergency Ministry looking into reports of possible meteorite fall in Kyrgyzstan</span><span class="citation-popover-snippet">News of Kyrgyzstan, press and mediaApril 7, 2021...</span><span class="citation-popover-meta">Published: April 7, 2021</span></span></span>
+* **Rocket and spacecraft trajectories:** Historical sightings over Bishkek and other parts of Kyrgyzstan have been linked to **rocket launches from Baikonur Cosmodrome** in Kazakhstan. One 2017 event initially discussed as an “UFO” was explained by Kyrgyz aviation authorities and observers as the **Soyuz‑FG launch**, whose upper stages and fuel dump can produce bright, glowing streaks in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stanradar.com/news/full/25898-nlo-bliz-stolitsy-kyrgyzstana-okazalsja-raketoj-startovavshej-s-bajkonura.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanradar.com">[StanRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanradar.com</span><span class="citation-popover-snippet">StanRadarНЛО близ столицы Кыргызстана оказался ракетой, стартовавшей с &quot;Байконура&quot;:: Новости:: StanRadar - новости Центральной АзииJuly...</span></span></span>
+* **Atmospheric re‑entries and meteors:** Bright green flashes or streaks are frequently associated with **meteoric events** entering the atmosphere. Official Kyrgyz emergency services have actively evaluated such flashes as potential meteorite entries, demonstrating how natural phenomena can mimic UFO descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.for.kg/news-695941-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: for.kg">[for.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">for.kg</span><span class="citation-popover-title">Emergency Ministry looking into reports of possible meteorite fall in Kyrgyzstan</span><span class="citation-popover-snippet">News of Kyrgyzstan, press and mediaApril 7, 2021...</span><span class="citation-popover-meta">Published: April 7, 2021</span></span></span>
 
 Without systematic broadband sky monitoring or coordinated tracking data, many sightings remain **optically unusual but physically mundane**, and verification hinges on enhanced observational infrastructure.
 
@@ -322,194 +322,194 @@ Without these, the Kyrgyz context remains one of **scattered observations withou
 Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunning visual phenomena**, but systematic verification is largely absent. Most reports boil down to **eyewitness descriptions and social media video**, with few if any cases backed by physical evidence, multi‑instrument tracking or transparent official inquiry. Known atmospheric and aerospace events, including **rocket flights from Baikonur and meteor entries**, account for many observed light phenomena, underlining that **UFO reports here are unverified sightings, not confirmed extraordinary events**. The enduring interest in Kyrgyzstan’s skies says more about human perception of the unusual than it does about unexplained craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Kyrgyzstan&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Kyrgyzstan&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to assessing report reliability and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing report reliability and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses evaluating reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evaluating reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on verification gaps and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on verification gaps and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of social-media claims and anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of social-media claims and anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-reliable-are-kyrgyzstan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunni
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunni
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunni
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunni
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunni
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,129 +715,129 @@ Kyrgyzstan’s UFO reports offer **rich local storytelling and occasional stunni
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: open.kg  
-   Link: <a href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</p></details>
+   Link:<a href="https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/local-news/60230-v-nebe-nad-selom-kara-too-v-kochkorskom-rajone-zafiksirovali-cepochku-neopoznannyh-ognej.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kyrgyz NewsIn the sky over the village of Kara-Tuu in the Kochkor district, a chain of unidentified lights was recorded » News of Kyrgyzs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: open.kg  
-   Link: <a href="https://open.kg/en/news/incidents/87113-materialy-po-faktu-padenija-neizvestnyh-obektov-na-issyk-kule-peredany-v-voennuju-prokuraturu.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/incidents/87113-materialy-po-faktu-padenija-neizvestnyh-obektov-na-issyk-kule-peredany-v-voennuju-prokuraturu.html</a>  
+   Link:<a href="https://open.kg/en/news/incidents/87113-materialy-po-faktu-padenija-neizvestnyh-obektov-na-issyk-kule-peredany-v-voennuju-prokuraturu.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/incidents/87113-materialy-po-faktu-padenija-neizvestnyh-obektov-na-issyk-kule-peredany-v-voennuju-prokuraturu.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: interfax.ru  
-   Link: <a href="https://www.interfax.ru/world/759974" target="_blank" rel="noopener noreferrer nofollow">https://www.interfax.ru/world/759974</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>В небе над Бишкеком заметили загадочную яркую вспышкуApril 7, 2021...</p></details>
+   Link:<a href="https://www.interfax.ru/world/759974" target="_blank" rel="noopener noreferrer nofollow">https://www.interfax.ru/world/759974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>В небе над Бишкеком заметили загадочную яркую вспышкуApril 7, 2021...</p></details>
    Published: April 7, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ru.sputnik.kg  
    Title: КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй  
-   Link: <a href="https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html" target="_blank" rel="noopener noreferrer nofollow">https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй - 05.10.2021, Sputnik КыргызстанOctober 5, 2021...</p></details>
+   Link:<a href="https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html" target="_blank" rel="noopener noreferrer nofollow">https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй - 05.10.2021, Sputnik КыргызстанOctober 5, 2021...</p></details>
    Published: October 5, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: open.kg  
-   Link: <a href="https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kyrgyz NewsAnomalous Zones of Kyrgyzstan. The Secrets of the Ala-Archa Gorge » News of Kyrgyzstan, Bishkek and Osh — latest events todayJ...</p></details>
+   Link:<a href="https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kyrgyz NewsAnomalous Zones of Kyrgyzstan. The Secrets of the Ala-Archa Gorge » News of Kyrgyzstan, Bishkek and Osh — latest events todayJ...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: stanradar.com  
-   Link: <a href="https://www.stanradar.com/news/full/25898-nlo-bliz-stolitsy-kyrgyzstana-okazalsja-raketoj-startovavshej-s-bajkonura.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stanradar.com/news/full/25898-nlo-bliz-stolitsy-kyrgyzstana-okazalsja-raketoj-startovavshej-s-bajkonura.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StanRadarНЛО близ столицы Кыргызстана оказался ракетой, стартовавшей с &quot;Байконура&quot;:: Новости:: StanRadar - новости Центральной АзииJuly...</p></details>
+   Link:<a href="https://www.stanradar.com/news/full/25898-nlo-bliz-stolitsy-kyrgyzstana-okazalsja-raketoj-startovavshej-s-bajkonura.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stanradar.com/news/full/25898-nlo-bliz-stolitsy-kyrgyzstana-okazalsja-raketoj-startovavshej-s-bajkonura.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StanRadarНЛО близ столицы Кыргызстана оказался ракетой, стартовавшей с &quot;Байконура&quot;:: Новости:: StanRadar - новости Центральной АзииJuly...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: for.kg  
    Title: Emergency Ministry looking into reports of possible meteorite fall in Kyrgyzstan  
-   Link: <a href="https://www.for.kg/news-695941-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.for.kg/news-695941-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News of Kyrgyzstan, press and mediaApril 7, 2021...</p></details>
+   Link:<a href="https://www.for.kg/news-695941-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.for.kg/news-695941-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News of Kyrgyzstan, press and mediaApril 7, 2021...</p></details>
    Published: April 7, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: open.kg  
    Title: The [Shaitan Mazar](&#123;&#123; 'shaitan-mazar/' | relative_url &#125;&#125;) Site (Devil's Grave)  
-   Link: <a href="https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of Kyrgyzstan » News of Kyrgyzstan, Bishkek and Osh — latest events todayJuly 8, 2019 — Home » Blog » The Shaitan Mazar S...</p></details>
+   Link:<a href="https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of Kyrgyzstan » News of Kyrgyzstan, Bishkek and Osh — latest events todayJuly 8, 2019 — Home » Blog » The Shaitan Mazar S...</p></details>
    Published: July 8, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: open.kg  
    Title: The Shaitan Mazar Site (Devil's Grave)  
-   Link: <a href="https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of KyrgyzstanJuly 8, 2019 — THE SHAITAN MAZAR SITE (DEVIL&#x27;S GRAVE). ANOMALOUS ZONES OF KYRGYZSTAN DEVIL&#x27;S GRAVE (SHAITAN...</p></details>
+   Link:<a href="https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of KyrgyzstanJuly 8, 2019 — THE SHAITAN MAZAR SITE (DEVIL&#x27;S GRAVE). ANOMALOUS ZONES OF KYRGYZSTAN DEVIL&#x27;S GRAVE (SHAITAN...</p></details>
    Published: July 8, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: open.kg  
    Title: Here is a c  
-   Link: <a href="https://open.kg/en/blog/print%3Apage%2C1%2C34851-anomalnye-zony-kyrgyzstana-snezhnyy-chelovek-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34851-anomalnye-zony-kyrgyzstana-snezhnyy-chelovek-uschelya-ala-archa.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of Kyrgyzstan: The &quot;Snowman&quot; of the Ala-Archa GorgeJune 29, 2019 — ANOMALOUS ZONES OF KYRGYZSTAN: THE &quot;SNOWMAN&quot; OF THE AL...</p></details>
+   Link:<a href="https://open.kg/en/blog/print%3Apage%2C1%2C34851-anomalnye-zony-kyrgyzstana-snezhnyy-chelovek-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34851-anomalnye-zony-kyrgyzstana-snezhnyy-chelovek-uschelya-ala-archa.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of Kyrgyzstan: The &quot;Snowman&quot; of the Ala-Archa GorgeJune 29, 2019 — ANOMALOUS ZONES OF KYRGYZSTAN: THE &quot;SNOWMAN&quot; OF THE AL...</p></details>
    Published: June 29, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.kg  
    Title: Anomalous Zones of Kyrgyzstan  
-   Link: <a href="https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of the Ala-Archa GorgeJune 28, 2019 — ANOMALOUS ZONES OF KYRGYZSTAN. THE SECRETS OF THE ALA-ARCHA GORGE SECRETS OF THE ALA-AR...</p></details>
+   Link:<a href="https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of the Ala-Archa GorgeJune 28, 2019 — ANOMALOUS ZONES OF KYRGYZSTAN. THE SECRETS OF THE ALA-ARCHA GORGE SECRETS OF THE ALA-AR...</p></details>
    Published: June 28, 2019  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: latest-ufo-sightings.net  
-   Link: <a href="https://www.latest-ufo-sightings.net/2022/09/russian-mig-fighter-jets-chasing-a-massive-ufo-in-the-devils-grave.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2022/09/russian-mig-fighter-jets-chasing-a-massive-ufo-in-the-devils-grave.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 16, 2022 — RUSSIAN MIG FIGHTER JETS CHASING A MASSIVE UFO IN THE DEVIL’S GRAVE September 16, 2022 LUFOS Asia, Latest posts Whil...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2022/09/russian-mig-fighter-jets-chasing-a-massive-ufo-in-the-devils-grave.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2022/09/russian-mig-fighter-jets-chasing-a-massive-ufo-in-the-devils-grave.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 16, 2022 — RUSSIAN MIG FIGHTER JETS CHASING A MASSIVE UFO IN THE DEVIL’S GRAVE September 16, 2022 LUFOS Asia, Latest posts Whil...</p></details>
    Published: September 16, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oxben.com.tr  
-   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
+   Link:<a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mykss.com  
-   Link: <a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
+   Link:<a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eadaily.com  
-   Link: <a href="https://eadaily.com/en/news/2025/06/05/it-looks-like-its-started-brothers-dozens-of-glowing-ufos-are-flying-over-central-asia" target="_blank" rel="noopener noreferrer nofollow">https://eadaily.com/en/news/2025/06/05/it-looks-like-its-started-brothers-dozens-of-glowing-ufos-are-flying-over-central-asia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It looks like it&#x27;s started, brothers...&quot; — dozens of glowing UFOs are flying over Central Asia — EADaily, June 5th, 2025 — Politics, Asi...</p></details>
+   Link:<a href="https://eadaily.com/en/news/2025/06/05/it-looks-like-its-started-brothers-dozens-of-glowing-ufos-are-flying-over-central-asia" target="_blank" rel="noopener noreferrer nofollow">https://eadaily.com/en/news/2025/06/05/it-looks-like-its-started-brothers-dozens-of-glowing-ufos-are-flying-over-central-asia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It looks like it&#x27;s started, brothers...&quot; — dozens of glowing UFOs are flying over Central Asia — EADaily, June 5th, 2025 — Politics, Asi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufofinder.com  
    Title: Every report enriched with 50+ data points. Professional witnesses. Physic  
-   Link: <a href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finder — 147,890 UFO Reports147,890 documented reports•50+ data points each 0 documented UFO sightings The most complete UFO database...</p></details>
+   Link:<a href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finder — 147,890 UFO Reports147,890 documented reports•50+ data points each 0 documented UFO sightings The most complete UFO database...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoinsight.com  
    Title: The Grave Of The Devil Case – UFO Crash And Retrieval In Russia  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 22, 2021 — THE GRAVE OF THE DEVIL CASE – UFO CRASH AND RETRIEVAL IN RUSSIA By Marcus Lowth Image: Published Date August...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 22, 2021 — THE GRAVE OF THE DEVIL CASE – UFO CRASH AND RETRIEVAL IN RUSSIA By Marcus Lowth Image: Published Date August...</p></details>
    Published: August 22, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kp.ru  
    Title: В небе над столицей Киргизии появился НЛО  
-   Link: <a href="https://www.kp.ru/online/news/694210/" target="_blank" rel="noopener noreferrer nofollow">https://www.kp.ru/online/news/694210/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30, 2010 — Новости30 июня 2010 19:23 В НЕБЕ НАД СТОЛИЦЕЙ КИРГИЗИИ ПОЯВИЛСЯ НЛО По мнению экспертов, это не связано с запуском космическог...</p></details>
+   Link:<a href="https://www.kp.ru/online/news/694210/" target="_blank" rel="noopener noreferrer nofollow">https://www.kp.ru/online/news/694210/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30, 2010 — Новости30 июня 2010 19:23 В НЕБЕ НАД СТОЛИЦЕЙ КИРГИЗИИ ПОЯВИЛСЯ НЛО По мнению экспертов, это не связано с запуском космическог...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Meteor Flashes Across Night Sky in Northern Turkey | Vantage with Palki Sharma  
-   Link: <a href="https://www.youtube.com/watch?v=SC1hyv9FpyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SC1hyv9FpyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What light? Southern residents see unidentified flying object; experts say it&#x27;s a rocket launch f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SC1hyv9FpyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SC1hyv9FpyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What light? Southern residents see unidentified flying object; experts say it&#x27;s a rocket launch f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Starlink Satellites Train  
-   Link: <a href="https://www.youtube.com/watch?v=Hg0147s7NTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hg0147s7NTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hg0147s7NTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hg0147s7NTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dni.ru  
    Title: Эксперты в космическ  
-   Link: <a href="https://dni.ru/incidents/2010/6/30/194557.html" target="_blank" rel="noopener noreferrer nofollow">https://dni.ru/incidents/2010/6/30/194557.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Над Бишкеком взорвался НЛО:: Происшествия:: Дни.руJune 30, 2010 — НАД БИШКЕКОМ ВЗОРВАЛСЯ НЛО 46650 None В среду вечером в небе над стол...</p></details>
+   Link:<a href="https://dni.ru/incidents/2010/6/30/194557.html" target="_blank" rel="noopener noreferrer nofollow">https://dni.ru/incidents/2010/6/30/194557.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Над Бишкеком взорвался НЛО:: Происшествия:: Дни.руJune 30, 2010 — НАД БИШКЕКОМ ВЗОРВАЛСЯ НЛО 46650 None В среду вечером в небе над стол...</p></details>
    Published: June 30, 2010

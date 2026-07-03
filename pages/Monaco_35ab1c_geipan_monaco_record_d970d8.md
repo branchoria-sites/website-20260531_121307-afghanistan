@@ -254,25 +254,25 @@ image: /assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-1-s
 
 ## Introduction
 
-For Monaco, the most important official UFO source is not a local government archive but the French space agency's investigation unit, GEIPAN (Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés). GEIPAN's public database contains only a handful of Monaco-linked entries, and that small sample is revealing. Rather than documenting a series of strong unexplained events, the official record mainly shows two things: one case that GEIPAN considers probably explained and another that cannot be evaluated because the available information is too weak. The significance of the Monaco files therefore lies less in proving extraordinary phenomena and more in illustrating how official investigations distinguish between probable explanations, insufficient evidence, and genuinely unresolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux non... MONACO (MC.MC) 30.11.2009, 30/...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casMONACO (MC.MC) 02.11.2012, 02/11/2012, B, National (MC), Lanterne thai, 08/08/2013, 2012-11-02, voir. MONTIVILLIERS (76)...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
+For Monaco, the most important official UFO source is not a local government archive but the French space agency's investigation unit, GEIPAN (Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés). GEIPAN's public database contains only a handful of Monaco-linked entries, and that small sample is revealing. Rather than documenting a series of strong unexplained events, the official record mainly shows two things: one case that GEIPAN considers probably explained and another that cannot be evaluated because the available information is too weak. The significance of the Monaco files therefore lies less in proving extraordinary phenomena and more in illustrating how official investigations distinguish between probable explanations, insufficient evidence, and genuinely unresolved cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux non... MONACO (MC.MC) 30.11.2009, 30/...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casMONACO (MC.MC) 02.11.2012, 02/11/2012, B, National (MC), Lanterne thai, 08/08/2013, 2012-11-02, voir. MONTIVILLIERS (76)...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-1-dark.svg" | relative_url }}" alt="GEIPAN Records illustration 1" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How GEIPAN Classifies Monaco Cases
 
-Understanding Monaco's official UFO record requires understanding GEIPAN's classification system. GEIPAN does not divide reports simply into "explained" and "unexplained". Instead, it evaluates both the quality of the evidence and the degree of residual strangeness after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deux noti...</span></span></span>
+Understanding Monaco's official UFO record requires understanding GEIPAN's classification system. GEIPAN does not divide reports simply into "explained" and "unexplained". Instead, it evaluates both the quality of the evidence and the degree of residual strangeness after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deux noti...</span></span></span>
 
 The main categories are:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **A** – phenomenon identified with high confidence after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</span></span></span>
+* **A** – phenomenon identified with high confidence after investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</span></span></span>
 * **B** – phenomenon probably identified, although some uncertainty remains.
 * **C** – insufficient information to determine what happened.
-* **D** – phenomenon remains unidentified after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ency (C) of the observation and the...Read more...</span></span></span>
+* **D** – phenomenon remains unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ency (C) of the observation and the...Read more...</span></span></span>
 
 </div>
 
-This distinction matters enormously when discussing Monaco. A common mistake in UFO discussions is to treat every non-A case as evidence of a mystery. GEIPAN explicitly rejects that interpretation. A Category C case is not considered unexplained in the same sense as a Category D case. It simply lacks enough reliable information for investigators to reach a conclusion. GEIPAN's own glossary emphasises that C cases arise when investigators cannot properly assess the event because the available data are inadequate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+This distinction matters enormously when discussing Monaco. A common mistake in UFO discussions is to treat every non-A case as evidence of a mystery. GEIPAN explicitly rejects that interpretation. A Category C case is not considered unexplained in the same sense as a Category D case. It simply lacks enough reliable information for investigators to reach a conclusion. GEIPAN's own glossary emphasises that C cases arise when investigators cannot properly assess the event because the available data are inadequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 For Monaco, that distinction is the key to understanding what the official files actually prove.
 
@@ -282,9 +282,9 @@ For Monaco, that distinction is the key to understanding what the official files
 
 The strongest Monaco case in the public GEIPAN archive is also the least mysterious.
 
-GEIPAN lists a report from 2 November 2012, observed at approximately 23:00 under clear night conditions in an urbanised area of Monaco. The database classifies the event as Category B and identifies the phenomenon as a "Thai lantern", the term commonly used in the archive for a Chinese sky lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">How does GEIPAN classify observation cases?Classification categories: Classification A: Phenomenon perfectly identified after investigation...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012Environnement Occupation du sol. Territoires artificialisés - Zones urbanisées; Conditions météo. Soleil ou Nui...</span></span></span>
+GEIPAN lists a report from 2 November 2012, observed at approximately 23:00 under clear night conditions in an urbanised area of Monaco. The database classifies the event as Category B and identifies the phenomenon as a "Thai lantern", the term commonly used in the archive for a Chinese sky lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">How does GEIPAN classify observation cases?Classification categories: Classification A: Phenomenon perfectly identified after investigation...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012Environnement Occupation du sol. Territoires artificialisés - Zones urbanisées; Conditions météo. Soleil ou Nui...</span></span></span>
 
-According to the case information, the witness observed two orange, fire-coloured spherical objects moving silently through the night sky. The report was investigated and ultimately judged to be probably explained by lanterns rather than remaining unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANListe des nouveaux cas; MIRANDE (32) 26.11.2010, 26/11/2010, C · Gers, Manque d&#x27;informations fiables; MIOS (33...</span></span></span>
+According to the case information, the witness observed two orange, fire-coloured spherical objects moving silently through the night sky. The report was investigated and ultimately judged to be probably explained by lanterns rather than remaining unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANListe des nouveaux cas; MIRANDE (32) 26.11.2010, 26/11/2010, C · Gers, Manque d&#x27;informations fiables; MIOS (33...</span></span></span>
 
 Several features of the observation match a classic lantern profile:
 
@@ -294,18 +294,18 @@ Several features of the observation match a classic lantern profile:
 * Silent movement.
 * Apparent slow speed.
 * Night-time visibility.
-* Multiple objects travelling together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=35&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casManque d&#x27;informations fiables, 03/03/2011, 2009-11-26, voir. BRETIGNY-SUR... 30/11/2009, C, Autre, Manque d&#x27;informations...</span><span class="citation-popover-meta">Published: November 26, 2009</span></span></span>
+* Multiple objects travelling together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=35&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casManque d&#x27;informations fiables, 03/03/2011, 2009-11-26, voir. BRETIGNY-SUR... 30/11/2009, C, Autre, Manque d&#x27;informations...</span><span class="citation-popover-meta">Published: November 26, 2009</span></span></span>
 
 </div>
 
-The important point is not that GEIPAN claimed absolute certainty. Category B means "probably identified", not "perfectly identified". However, within GEIPAN's methodology, a B classification indicates that investigators found a conventional explanation more persuasive than an unidentified one. The case therefore counts as evidence that unusual aerial lights were reported in Monaco, but not as evidence that an unknown craft or unexplained phenomenon was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">evolution classification des cas</span><span class="citation-popover-snippet">Evolution de la CLASSIFICATION DES CAS10 Dec 2008 — Depuis l&#x27;origine, les OBSERVATION de PAN analysés par le GEPAN et le SEPRA sont class...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MethodologyClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenomenon...</span></span></span>
+The important point is not that GEIPAN claimed absolute certainty. Category B means "probably identified", not "perfectly identified". However, within GEIPAN's methodology, a B classification indicates that investigators found a conventional explanation more persuasive than an unidentified one. The case therefore counts as evidence that unusual aerial lights were reported in Monaco, but not as evidence that an unknown craft or unexplained phenomenon was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">evolution classification des cas</span><span class="citation-popover-snippet">Evolution de la CLASSIFICATION DES CAS10 Dec 2008 — Depuis l&#x27;origine, les OBSERVATION de PAN analysés par le GEPAN et le SEPRA sont class...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MethodologyClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenomenon...</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-2-dark.svg" | relative_url }}" alt="GEIPAN Records illustration 2" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2009 Monaco Entry: A Data Problem, Not a Mystery
 
 The second major Monaco file is often misunderstood.
 
-GEIPAN's database contains an entry for 30 November 2009 classified as Category C. The archive description is brief: "lack of reliable information". No identified phenomenon is assigned because investigators concluded that the available evidence was inadequate for a meaningful determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Procedure_classif_PAN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Procedure classif PAN</span><span class="citation-popover-snippet">La classification des cas d&#x27;observations de PAN en vigueur depuis la création du...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=4&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casListe des cas revisités; MONACO (MC.MC) 30.11.2009, 30/11/2009, C · Autre, Manque d&#x27;informations fiables; COSNES-ET-ROM...</span></span></span>
+GEIPAN's database contains an entry for 30 November 2009 classified as Category C. The archive description is brief: "lack of reliable information". No identified phenomenon is assigned because investigators concluded that the available evidence was inadequate for a meaningful determination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Procedure_classif_PAN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Procedure classif PAN</span><span class="citation-popover-snippet">La classification des cas d&#x27;observations de PAN en vigueur depuis la création du...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=4&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casListe des cas revisités; MONACO (MC.MC) 30.11.2009, 30/11/2009, C · Autre, Manque d&#x27;informations fiables; COSNES-ET-ROM...</span></span></span>
 
 This is where readers frequently overinterpret the official record. A Category C case does not mean investigators encountered a highly anomalous event. In fact, it often means the opposite: there was too little information to investigate properly.
 
@@ -318,11 +318,11 @@ A case can end up in Category C for many reasons:
 * No corroborating observations.
 * Poor-quality photographs or recordings.
 * Inability to reconstruct viewing conditions.
-* Contradictory testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">2015 09 01 Spatial Point Pattern Analysis of the Unidentified</span><span class="citation-popover-snippet">Spatial Point Pattern Analysis of the Unidentified Aerial...by T Laurent · 2015 · Cited by 2 — In addition, the GEIPAN classifies each U...</span></span></span>
+* Contradictory testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">2015 09 01 Spatial Point Pattern Analysis of the Unidentified</span><span class="citation-popover-snippet">Spatial Point Pattern Analysis of the Unidentified Aerial...by T Laurent · 2015 · Cited by 2 — In addition, the GEIPAN classifies each U...</span></span></span>
 
 </div>
 
-The Monaco 2009 entry therefore proves only that a report was received and that the evidence was insufficient for a reliable conclusion. It does not provide positive evidence for an unexplained aerial phenomenon. GEIPAN's own classification guidance explicitly separates such cases from genuinely unidentified Category D investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">03 ROSPARS full</span><span class="citation-popover-snippet">qualitative expert evaluationby JP ROSPARS · 2014 · Cited by 1 — Second, we achieved a personal evaluation of the whole set of reports us...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux non... MONACO (MC.MC) 30.11.2009, 30/...</span></span></span>
+The Monaco 2009 entry therefore proves only that a report was received and that the evidence was insufficient for a reliable conclusion. It does not provide positive evidence for an unexplained aerial phenomenon. GEIPAN's own classification guidance explicitly separates such cases from genuinely unidentified Category D investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">03 ROSPARS full</span><span class="citation-popover-snippet">qualitative expert evaluationby JP ROSPARS · 2014 · Cited by 1 — Second, we achieved a personal evaluation of the whole set of reports us...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux non... MONACO (MC.MC) 30.11.2009, 30/...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cVzyPnDYX2Y" title="Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer">Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.4M &middot; Uploaded: January 2025 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cVzyPnDYX2Y">Open on YouTube</a></p></div></div></div>
 
@@ -330,218 +330,218 @@ The Monaco 2009 entry therefore proves only that a report was received and that 
 
 The Monaco archive is small enough that classification becomes more important than raw case numbers.
 
-If a country had dozens of Category D cases, researchers might argue that a significant unexplained residue existed within the official record. Monaco's public GEIPAN dataset does not show that pattern. Instead, the visible Monaco entries fall into categories that point toward either probable explanation (B) or insufficient information (C). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casMONACO (MC.MC) 02.11.2012, 02/11/2012, B, National (MC), Lanterne thai, 08/08/2013, 2012-11-02, voir. MONTIVILLIERS (76)...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
+If a country had dozens of Category D cases, researchers might argue that a significant unexplained residue existed within the official record. Monaco's public GEIPAN dataset does not show that pattern. Instead, the visible Monaco entries fall into categories that point toward either probable explanation (B) or insufficient information (C).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casMONACO (MC.MC) 02.11.2012, 02/11/2012, B, National (MC), Lanterne thai, 08/08/2013, 2012-11-02, voir. MONTIVILLIERS (76)...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
 
 The practical implications are straightforward:
 
 ClassificationWhat it meansWhat it provesAIdentified phenomenonA conventional explanation was establishedBProbably identified phenomenonA conventional explanation is the most likely answerCInsufficient informationOnly that a report exists; no reliable conclusionDUnidentified after investigationA genuine unresolved case remains after analysis
 
-Under this framework, Monaco's known GEIPAN files provide little support for claims that the Principality contains a significant concentration of unexplained UFO activity. The official record instead demonstrates how investigators sort reports according to evidence quality rather than witness belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deux noti...</span></span></span>
+Under this framework, Monaco's known GEIPAN files provide little support for claims that the Principality contains a significant concentration of unexplained UFO activity. The official record instead demonstrates how investigators sort reports according to evidence quality rather than witness belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deux noti...</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN Records illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_geipan_monaco_record_d970d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Monaco's Official Files Actually Demonstrate
 
 When stripped of UFO folklore and examined through GEIPAN's methodology, Monaco's official archive supports three cautious conclusions.
 
-First, unusual aerial observations do occur in Monaco, just as they do elsewhere. Witnesses occasionally report lights or objects that initially appear difficult to identify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ency (C) of the observation and the...Read more...</span></span></span>
+First, unusual aerial observations do occur in Monaco, just as they do elsewhere. Witnesses occasionally report lights or objects that initially appear difficult to identify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">ency (C) of the observation and the...Read more...</span></span></span>
 
-Second, the strongest publicly documented Monaco case currently available through GEIPAN was judged more consistent with a conventional explanation—Chinese lanterns—than with an unknown aerial phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+Second, the strongest publicly documented Monaco case currently available through GEIPAN was judged more consistent with a conventional explanation—Chinese lanterns—than with an unknown aerial phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Third, the remaining Monaco case in the public archive does not strengthen the mystery. Its classification reflects inadequate information rather than unexplained evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">How does GEIPAN classify observation cases?Classification categories: Classification A: Phenomenon perfectly identified after investigation...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=149%2C0&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casManque d&#x27;informations fiables, 03/04/2015, 1953-03-20, voir. MONACO (MC.MC) 30.11.2009, 30/11/2009, C, Autre, Manque d&#x27;in...</span></span></span>
+Third, the remaining Monaco case in the public archive does not strengthen the mystery. Its classification reflects inadequate information rather than unexplained evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">How does GEIPAN classify observation cases?Classification categories: Classification A: Phenomenon perfectly identified after investigation...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=149%2C0&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casManque d&#x27;informations fiables, 03/04/2015, 1953-03-20, voir. MONACO (MC.MC) 30.11.2009, 30/11/2009, C, Autre, Manque d&#x27;in...</span></span></span>
 
-Taken together, the official record does not prove the presence of extraordinary craft, secret technology, or genuinely anomalous aerial activity over Monaco. What it does prove is that when Monaco-linked reports enter a formal investigative process, the available evidence has so far led either to a probable conventional explanation or to an inability to reach any reliable conclusion. That is a much narrower and more evidence-based finding than many popular summaries of UFO reports suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012Environnement Occupation du sol. Territoires artificialisés - Zones urbanisées; Conditions météo. Soleil ou Nui...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANListe des nouveaux cas; MIRANDE (32) 26.11.2010, 26/11/2010, C · Gers, Manque d&#x27;informations fiables; MIOS (33...</span></span></span>
+Taken together, the official record does not prove the presence of extraordinary craft, secret technology, or genuinely anomalous aerial activity over Monaco. What it does prove is that when Monaco-linked reports enter a formal investigative process, the available evidence has so far led either to a probable conventional explanation or to an inability to reach any reliable conclusion. That is a much narrower and more evidence-based finding than many popular summaries of UFO reports suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012Environnement Occupation du sol. Territoires artificialisés - Zones urbanisées; Conditions météo. Soleil ou Nui...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPANListe des nouveaux cas; MIRANDE (32) 26.11.2010, 26/11/2010, C · Gers, Manque d&#x27;informations fiables; MIOS (33...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ygb1vphH1q0" title="Le bureau des ovnis • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer">Le bureau des ovnis • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 30.1K &middot; Uploaded: October 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ygb1vphH1q0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Monaco&#x27;s Official UFO Files Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Monaco&#x27;s Official UFO Files Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers government investigations, official records, and how unexplained cases are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government investigations, official records, and how unexplained cases are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official reporting, evidence standards, and government case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official reporting, evidence standards, and government case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains official UFO inquiry methods and case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official UFO inquiry methods and case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for understanding how sightings and official investigations are categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how sightings and official investigations are categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-monaco-s-official-ufo-files-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-monaco-s-official-ufo-files-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ Taken together, the official record does not prove the presence of extraordinary
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ Taken together, the official record does not prove the presence of extraordinary
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ Taken together, the official record does not prove the presence of extraordinary
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ Taken together, the official record does not prove the presence of extraordinary
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ Taken together, the official record does not prove the presence of extraordinary
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,196 +747,196 @@ Taken together, the official record does not prove the presence of extraordinary
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de cas | GEIPANGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux non... MONACO (MC.MC) 30.11.2009, 30/...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=79&amp;select-category-export=nothing&amp;sort=asc&amp;video=on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de cas | GEIPANGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux non... MONACO (MC.MC) 30.11.2009, 30/...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casMONACO (MC.MC) 02.11.2012, 02/11/2012, B, National (MC), Lanterne thai, 08/08/2013, 2012-11-02, voir. MONTIVILLIERS (76)...</p></details>
+   Link:<a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=93%2C0&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casMONACO (MC.MC) 02.11.2012, 02/11/2012, B, National (MC), Lanterne thai, 08/08/2013, 2012-11-02, voir. MONTIVILLIERS (76)...</p></details>
    Published: November 2, 2012  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClassificationClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenome...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes-geipan.fr  
    Title: methodologie classification geipan  
-   Link: <a href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>La méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deux noti...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deux noti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ency (C) of the observation and the...Read more...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ency (C) of the observation and the...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/glossaire</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/glossaire</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How does GEIPAN classify observation cases?Classification categories: Classification A: Phenomenon perfectly identified after investigation...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How does GEIPAN classify observation cases?Classification categories: Classification A: Phenomenon perfectly identified after investigation...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/55775</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MONACO (MC.MC) 02.11.2012Environnement Occupation du sol. Territoires artificialisés - Zones urbanisées; Conditions météo. Soleil ou Nui...</p></details>
+   Link:<a href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/55775</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MONACO (MC.MC) 02.11.2012Environnement Occupation du sol. Territoires artificialisés - Zones urbanisées; Conditions météo. Soleil ou Nui...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de cas | GEIPANListe des nouveaux cas; MIRANDE (32) 26.11.2010, 26/11/2010, C · Gers, Manque d&#x27;informations fiables; MIOS (33...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de cas | GEIPANListe des nouveaux cas; MIRANDE (32) 26.11.2010, 26/11/2010, C · Gers, Manque d&#x27;informations fiables; MIOS (33...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/fr/recherche/cas/tab?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=4&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=4&amp;sort=desc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casListe des cas revisités; MONACO (MC.MC) 30.11.2009, 30/11/2009, C · Autre, Manque d&#x27;informations fiables; COSNES-ET-ROM...</p></details>
+   Link:<a href="https://www.geipan.fr/fr/recherche/cas/tab?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=4&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=4&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casListe des cas revisités; MONACO (MC.MC) 30.11.2009, 30/11/2009, C · Autre, Manque d&#x27;informations fiables; COSNES-ET-ROM...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=149%2C0&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=149%2C0&amp;select-category-export=nothing&amp;sort=desc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casManque d&#x27;informations fiables, 03/04/2015, 1953-03-20, voir. MONACO (MC.MC) 30.11.2009, 30/11/2009, C, Autre, Manque d&#x27;in...</p></details>
+   Link:<a href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=149%2C0&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=149%2C0&amp;select-category-export=nothing&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casManque d&#x27;informations fiables, 03/04/2015, 1953-03-20, voir. MONACO (MC.MC) 30.11.2009, 30/11/2009, C, Autre, Manque d&#x27;in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_phenomene_textuel&amp;page=50&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_phenomene_textuel&amp;page=50&amp;sort=asc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casLanterne thai, 01/08/2016, 2012-09-16, voir. TOURS (37) 31.10.2012, 31/10/2012, B, Indre-et-Loire, Lanterne thai, 01/08/2...</p></details>
+   Link:<a href="https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_phenomene_textuel&amp;page=50&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_phenomene_textuel&amp;page=50&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casLanterne thai, 01/08/2016, 2012-09-16, voir. TOURS (37) 31.10.2012, 31/10/2012, B, Indre-et-Loire, Lanterne thai, 01/08/2...</p></details>
    Published: September 16, 2012  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_classification_des_cas&amp;page=32&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_classification_des_cas&amp;page=32&amp;select-category-export=nothing&amp;sort=desc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casManque d&#x27;informations fiables, 30/03/2010, 1970-01-01, voir. SARREGUEMINES... 30/11/2009, C, Autre, Manque d&#x27;information...</p></details>
+   Link:<a href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_classification_des_cas&amp;page=32&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_classification_des_cas&amp;page=32&amp;select-category-export=nothing&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casManque d&#x27;informations fiables, 30/03/2010, 1970-01-01, voir. SARREGUEMINES... 30/11/2009, C, Autre, Manque d&#x27;information...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2007-03-01&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=16&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_date_value=2007-03-01&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=16&amp;sort=asc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux... MONACO (MC.MC) 02.11.2012, 02/11/2012, B, N...</p></details>
+   Link:<a href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2007-03-01&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=16&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_date_value=2007-03-01&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=16&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casGeipan. Groupe d&#x27;études et d&#x27;informations sur les phénomènes aérospatiaux... MONACO (MC.MC) 02.11.2012, 02/11/2012, B, N...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/sites/default/files/2021-08/FAQ%20-%20Press%20-%20English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/2021-08/FAQ%20-%20Press%20-%20English.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7. ©GEIPAN. 7/7.Read more...</p></details>
+   Link:<a href="https://geipan.fr/sites/default/files/2021-08/FAQ%20-%20Press%20-%20English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/2021-08/FAQ%20-%20Press%20-%20English.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7. ©GEIPAN. 7/7.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/fr/recherche/cas/tab?fbclid=IwAR32Xw4FPA6L6uMbDrVI3ET3EnoPyLceNnyDp2Blb9uRHMC5hwUcF_wg6Fk&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=93&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?fbclid=IwAR32Xw4FPA6L6uMbDrVI3ET3EnoPyLceNnyDp2Blb9uRHMC5hwUcF_wg6Fk&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=93&amp;sort=desc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casRecherche de cas. Nom du cas · Date d&#x27;observation · Classification · Département, Phénomene, Date de mise a jour Trier pa...</p></details>
+   Link:<a href="https://www.geipan.fr/fr/recherche/cas/tab?fbclid=IwAR32Xw4FPA6L6uMbDrVI3ET3EnoPyLceNnyDp2Blb9uRHMC5hwUcF_wg6Fk&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=93&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?fbclid=IwAR32Xw4FPA6L6uMbDrVI3ET3EnoPyLceNnyDp2Blb9uRHMC5hwUcF_wg6Fk&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=93&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casRecherche de cas. Nom du cas · Date d&#x27;observation · Classification · Département, Phénomene, Date de mise a jour Trier pa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=35&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=35&amp;sort=asc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casManque d&#x27;informations fiables, 03/03/2011, 2009-11-26, voir. BRETIGNY-SUR... 30/11/2009, C, Autre, Manque d&#x27;informations...</p></details>
+   Link:<a href="https://cnes-geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=35&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=35&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casManque d&#x27;informations fiables, 03/03/2011, 2009-11-26, voir. BRETIGNY-SUR... 30/11/2009, C, Autre, Manque d&#x27;informations...</p></details>
    Published: November 26, 2009  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cnes-geipan.fr  
    Title: evolution classification des cas  
-   Link: <a href="https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evolution de la CLASSIFICATION DES CAS10 Dec 2008 — Depuis l&#x27;origine, les OBSERVATION de PAN analysés par le GEPAN et le SEPRA sont class...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evolution de la CLASSIFICATION DES CAS10 Dec 2008 — Depuis l&#x27;origine, les OBSERVATION de PAN analysés par le GEPAN et le SEPRA sont class...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenomenon...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenomenon...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cnes-geipan.fr  
    Title: Procedure classif PAN  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Procedure_classif_PAN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Procedure_classif_PAN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La classification des cas d&#x27;observations de PAN en vigueur depuis la création du...Read more...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Procedure_classif_PAN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Procedure_classif_PAN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La classification des cas d&#x27;observations de PAN en vigueur depuis la création du...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cnes-geipan.fr  
    Title: 2015 09 01 Spatial Point Pattern Analysis of the Unidentified  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Point Pattern Analysis of the Unidentified Aerial...by T Laurent · 2015 · Cited by 2 — In addition, the GEIPAN classifies each U...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Point Pattern Analysis of the Unidentified Aerial...by T Laurent · 2015 · Cited by 2 — In addition, the GEIPAN classifies each U...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cnes-geipan.fr  
    Title: 03 ROSPARS full  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>qualitative expert evaluationby JP ROSPARS · 2014 · Cited by 1 — Second, we achieved a personal evaluation of the whole set of reports us...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>qualitative expert evaluationby JP ROSPARS · 2014 · Cited by 1 — Second, we achieved a personal evaluation of the whole set of reports us...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Chasing the UFO in Orbit! | NASA&#x27;s Unexplained Files S1 E3 | Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Chasing the UFO in Orbit! | NASA&#x27;s Unexplained Files S1 E3 | Full Episode...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cVzyPnDYX2Y</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cVzyPnDYX2Y</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: uapedia.ai  
-   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/tags/Michel%20Martelly/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/tags/Michel%20Martelly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>na.... The Commune was crushed by the army and Cremieux was...</p></details>
+   Link:<a href="https://www.flickr.com/photos/tags/Michel%20Martelly/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/tags/Michel%20Martelly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>na.... The Commune was crushed by the army and Cremieux was...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: 2012 Monaco GP3 Series round  
-   Link: <a href="https://en.wikipedia.org/wiki/2012_Monaco_GP3_Series_round" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2012_Monaco_GP3_Series_round</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Monaco GP3 Series roundThe 2012 Monaco GP3 Series round was the second round of the 2012 GP3 Series season. It was held on May 24...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2012_Monaco_GP3_Series_round" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2012_Monaco_GP3_Series_round</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Monaco GP3 Series roundThe 2012 Monaco GP3 Series round was the second round of the 2012 GP3 Series season. It was held on May 24...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: 2012 Monaco Grand Prix  
-   Link: <a href="https://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Monaco Grand PrixThe 2012 Monaco Grand Prix (formally the Formula 1 Grand Prix de Monaco 2012) was a Formula One motor race that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2012 Monaco Grand PrixThe 2012 Monaco Grand Prix (formally the Formula 1 Grand Prix de Monaco 2012) was a Formula One motor race that...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fliphtml5.com  
    Title: FIGA 20230916 complet  
-   Link: <a href="https://fliphtml5.com/gyvrm/ymez/FIGA_20230916_complet/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/gyvrm/ymez/FIGA_20230916_complet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FIGA_20230916_complet - dbendhiab | PDF Feuilletable...16 Sept 2023 — Vous recherchez FIGA_20230916_complet? Lisez tous les PDFs feuille...</p></details>
+   Link:<a href="https://fliphtml5.com/gyvrm/ymez/FIGA_20230916_complet/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/gyvrm/ymez/FIGA_20230916_complet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FIGA_20230916_complet - dbendhiab | PDF Feuilletable...16 Sept 2023 — Vous recherchez FIGA_20230916_complet? Lisez tous les PDFs feuille...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Sommaire. 1 Science ou pseudo-science?Read more  
-   Link: <a href="https://fr.wikipedia.org/wiki/Discussion%3AObjet_volant_non_identifi%C3%A9/Archive_1" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Discussion%3AObjet_volant_non_identifi%C3%A9/Archive_1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discussion:Objet volant non identifié/Archive 1Pour intervenir sur les discussions actuelles ou pour en lancer une nouvelle, allez sur...</p></details>
+   Link:<a href="https://fr.wikipedia.org/wiki/Discussion%3AObjet_volant_non_identifi%C3%A9/Archive_1" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Discussion%3AObjet_volant_non_identifi%C3%A9/Archive_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discussion:Objet volant non identifié/Archive 1Pour intervenir sur les discussions actuelles ou pour en lancer une nouvelle, allez sur...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Chasing the UFO in Orbit! | NASA's Unexplained Files S1 E3 | Full Episode  
-   Link: <a href="https://www.youtube.com/watch?v=9NS7JFi-nm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9NS7JFi-nm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9NS7JFi-nm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9NS7JFi-nm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: espn.com  
    Title: nantes as monaco  
-   Link: <a href="https://www.espn.com/soccer/match/_/gameId/320478/nantes-as-monaco" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.com/soccer/match/_/gameId/320478/nantes-as-monaco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monaco 2-1 Nantes (Apr 6, 2012) Final ScoreGame summary of the AS Monaco vs. Nantes French Ligue 2 game, final score 2-1, from April 6, 2...</p></details>
+   Link:<a href="https://www.espn.com/soccer/match/_/gameId/320478/nantes-as-monaco" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.com/soccer/match/_/gameId/320478/nantes-as-monaco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monaco 2-1 Nantes (Apr 6, 2012) Final ScoreGame summary of the AS Monaco vs. Nantes French Ligue 2 game, final score 2-1, from April 6, 2...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: transfermarkt.com  
    Title: A S Monaco  
-   Link: <a href="https://www.transfermarkt.com/as-monaco/transfers/verein/162/saison_id/2012" target="_blank" rel="noopener noreferrer nofollow">https://www.transfermarkt.com/as-monaco/transfers/verein/162/saison_id/2012</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AS Monaco - Transfers 12/13Transfers 12/13. This is an overview of all the club&#x27;s transfers in the chosen season. It may be filtered by p...</p></details>
+   Link:<a href="https://www.transfermarkt.com/as-monaco/transfers/verein/162/saison_id/2012" target="_blank" rel="noopener noreferrer nofollow">https://www.transfermarkt.com/as-monaco/transfers/verein/162/saison_id/2012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AS Monaco - Transfers 12/13Transfers 12/13. This is an overview of all the club&#x27;s transfers in the chosen season. It may be filtered by p...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: espn.ph  
    Title: team stats  
-   Link: <a href="https://www.espn.ph/football/team-stats?gameId=356624" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.ph/football/team-stats?gameId=356624</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Niort 1-2 Monaco (29 Aug, 2012) Team StatsComplete team stats for the Niort vs. AS Monaco French Coupe De La Ligue game from 29 August 20...</p></details>
+   Link:<a href="https://www.espn.ph/football/team-stats?gameId=356624" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.ph/football/team-stats?gameId=356624</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Niort 1-2 Monaco (29 Aug, 2012) Team StatsComplete team stats for the Niort vs. AS Monaco French Coupe De La Ligue game from 29 August 20...</p></details>

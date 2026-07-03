@@ -1194,56 +1194,56 @@ image: /assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg
 
 ## Introduction
 
-The country’s geography matters. Antigua and Barbuda is a small twin-island state in the eastern Caribbean, with Antigua holding the capital, St John’s, and Barbuda lying around 40 km to the north; the air-and-sea environment is active, visible, and often dark enough for ordinary aircraft, satellites, meteors, and drones to be striking at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Antigua-and-Barbuda" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That setting makes the absence of a large, well-corroborated UFO archive important: it suggests a low public reporting footprint rather than a hidden national case tradition.
+The country’s geography matters. Antigua and Barbuda is a small twin-island state in the eastern Caribbean, with Antigua holding the capital, St John’s, and Barbuda lying around 40 km to the north; the air-and-sea environment is active, visible, and often dark enough for ordinary aircraft, satellites, meteors, and drones to be striking at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Antigua-and-Barbuda" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That setting makes the absence of a large, well-corroborated UFO archive important: it suggests a low public reporting footprint rather than a hidden national case tradition.
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-overview.webp" | relative_url }}" alt="Overview image for Antigua and Barbuda" loading="eager" decoding="sync" fetchpriority="high">
 ## What the public record actually contains
 
-The National UFO Reporting Center lists just two entries under “Antigua”: a 1998 report from St John’s and a 2010 report from Coolidge. Its location index places Antigua alongside other small Caribbean jurisdictions with similarly low counts, while nearby or better-populated reporting regions such as Jamaica and the Bahamas show higher totals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Enigma Labs’ country page separately states that two sightings from Antigua and Barbuda have been published on its platform, including third-party sources, which aligns with the same overall picture: a sparse open-source record rather than a dense national chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ag" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+The National UFO Reporting Center lists just two entries under “Antigua”: a 1998 report from St John’s and a 2010 report from Coolidge. Its location index places Antigua alongside other small Caribbean jurisdictions with similarly low counts, while nearby or better-populated reporting regions such as Jamaica and the Bahamas show higher totals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Enigma Labs’ country page separately states that two sightings from Antigua and Barbuda have been published on its platform, including third-party sources, which aligns with the same overall picture: a sparse open-source record rather than a dense national chronology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ag" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-The 1998 St John’s report is the more interesting of the two because it reads like a classic ambiguous night-sky observation. The witness described something that first looked like a meteor, then appeared to stop and flash randomly; the report was made in 1999, the date was approximate, and the witness stated that the sighting was also reported to the US Air Force [Air Station]({{ 'air-station/' | relative_url }}) in Antigua. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That last detail is locally significant because Antigua Air Station was a real US range and launch-tracking facility, not an invented UFO motif; the US Air Force later described it as a primary Eastern Range instrumentation site for space and launch vehicle tracking before its 2015 inactivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[patrick.spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-title">45th sw says farewell to antigua air station</span><span class="citation-popover-snippet">&gt; Space Launch Delta 45 &gt; Article Display...</span></span></span>
+The 1998 St John’s report is the more interesting of the two because it reads like a classic ambiguous night-sky observation. The witness described something that first looked like a meteor, then appeared to stop and flash randomly; the report was made in 1999, the date was approximate, and the witness stated that the sighting was also reported to the US Air Force [Air Station]({{ 'air-station/' | relative_url }}) in Antigua.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That last detail is locally significant because Antigua Air Station was a real US range and launch-tracking facility, not an invented UFO motif; the US Air Force later described it as a primary Eastern Range instrumentation site for space and launch vehicle tracking before its 2015 inactivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[patrick.spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-title">45th sw says farewell to antigua air station</span><span class="citation-popover-snippet">&gt; Space Launch Delta 45 &gt; Article Display...</span></span></span>
 
-The 2010 Coolidge report is weaker as evidence. It describes repeated high-altitude flashes over several years, with three observers present on the reported night, but the witness’s own narrative moves towards speculation about military activity and the Orion star system. The report also notes that the date was approximate, and the witness noticed a similar flashing pattern on US Navy aircraft beacons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=75499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> As a historical claim, it is worth logging; as evidence of an extraordinary object, it lacks the independent timing, imagery, radar data, or aviation records that would make it testable.
+The 2010 Coolidge report is weaker as evidence. It describes repeated high-altitude flashes over several years, with three observers present on the reported night, but the witness’s own narrative moves towards speculation about military activity and the Orion star system. The report also notes that the date was approximate, and the witness noticed a similar flashing pattern on US Navy aircraft beacons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=75499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> As a historical claim, it is worth logging; as evidence of an extraordinary object, it lacks the independent timing, imagery, radar data, or aviation records that would make it testable.
 
 ## Why the strongest explanation is usually ordinary sky traffic
 
-The Antigua and Barbuda reports are dominated by lights and flashes, not close-range craft, physical traces, radar-visual cases, or official intercepts. That matters because global UAP research repeatedly finds that the weakest cases are often those based on brief, unaided visual impressions without calibrated sensor data. NASA’s independent UAP study warned that eyewitness reports can be interesting, but usually lack the information needed to reach firm conclusions about origin; it also stressed the need for a systematic, evidence-based framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Antigua and Barbuda reports are dominated by lights and flashes, not close-range craft, physical traces, radar-visual cases, or official intercepts. That matters because global UAP research repeatedly finds that the weakest cases are often those based on brief, unaided visual impressions without calibrated sensor data. NASA’s independent UAP study warned that eyewitness reports can be interesting, but usually lack the information needed to reach firm conclusions about origin; it also stressed the need for a systematic, evidence-based framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several local factors raise the probability of mundane explanations:
 
-**Aircraft and airport activity.** Antigua’s main air gateway is V.C. Bird International Airport, and the national tourism authority presents arrival by air through V.C. Bird as the standard entry point for visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitantiguabarbuda.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitantiguabarbuda.com">[visitantiguabarbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitantiguabarbuda.com</span><span class="citation-popover-title">Visit Antigua &amp; Barbuda – The beach is just the beginning</span><span class="citation-popover-snippet">Visit Antigua &amp; Barbuda – The beach is just the beginning</span></span></span> Lights near airport approach and departure paths can look odd when viewed from beaches, villages, or hills, especially when aircraft are turning, descending, obscured by cloud, or seen head-on.
+**Aircraft and airport activity.** Antigua’s main air gateway is V.C. Bird International Airport, and the national tourism authority presents arrival by air through V.C. Bird as the standard entry point for visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitantiguabarbuda.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitantiguabarbuda.com">[visitantiguabarbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitantiguabarbuda.com</span><span class="citation-popover-title">Visit Antigua &amp; Barbuda – The beach is just the beginning</span><span class="citation-popover-snippet">Visit Antigua &amp; Barbuda – The beach is just the beginning</span></span></span> Lights near airport approach and departure paths can look odd when viewed from beaches, villages, or hills, especially when aircraft are turning, descending, obscured by cloud, or seen head-on.
 
-**Former US tracking infrastructure.** Antigua Air Station’s history makes it tempting to attach military mystery to sky reports, but it also gives a practical reason why unusual observations might be connected to launches, telemetry, aircraft, or space-tracking activity. The station supported Eastern Range space-lift missions with high-data-rate telemetry and a C-band radar; after mission changes, its duties were transferred elsewhere and it was deactivated in 2015. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[patrick.spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-title">45th sw says farewell to antigua air station</span><span class="citation-popover-snippet">&gt; Space Launch Delta 45 &gt; Article Display...</span></span></span>
+**Former US tracking infrastructure.** Antigua Air Station’s history makes it tempting to attach military mystery to sky reports, but it also gives a practical reason why unusual observations might be connected to launches, telemetry, aircraft, or space-tracking activity. The station supported Eastern Range space-lift missions with high-data-rate telemetry and a C-band radar; after mission changes, its duties were transferred elsewhere and it was deactivated in 2015.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[patrick.spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-title">45th sw says farewell to antigua air station</span><span class="citation-popover-snippet">&gt; Space Launch Delta 45 &gt; Article Display...</span></span></span>
 
-**Satellites and launch effects.** A local 2024 Caribbean report described a bright sky display that prompted UFO speculation before being attributed to a SpaceX Starlink launch, with sunlight reflecting from satellites and associated launch effects producing a striking trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: islandpressbox.com">[Island Press Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">islandpressbox.com</span><span class="citation-popover-snippet">Island Press Box</span></span></span> - The Details Matter AARO’s 2024 official report similarly notes that some UAP cases are increasingly resolved as Starlink satellites, including reports of white flashing lights correlated with a Starlink launch from Cape Canaveral. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
+**Satellites and launch effects.** A local 2024 Caribbean report described a bright sky display that prompted UFO speculation before being attributed to a SpaceX Starlink launch, with sunlight reflecting from satellites and associated launch effects producing a striking trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: islandpressbox.com">[Island Press Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">islandpressbox.com</span><span class="citation-popover-snippet">Island Press Box</span></span></span> - The Details Matter AARO’s 2024 official report similarly notes that some UAP cases are increasingly resolved as Starlink satellites, including reports of white flashing lights correlated with a Starlink launch from Cape Canaveral.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
 
-**Drones.** Antigua and Barbuda has specific guidance for drones and model aircraft, including visual line-of-sight operation, height limits, airport approach restrictions, and bans on unauthorised night or low-visibility operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span> The same guidance names restricted areas including Codrington, Barbuda, Fort James, St John’s Harbour, North Sound, and areas around airports and official sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span> These rules show that small aerial objects are a known safety and security concern, even when they are not “UFOs” in the extraordinary sense.
+**Drones.** Antigua and Barbuda has specific guidance for drones and model aircraft, including visual line-of-sight operation, height limits, airport approach restrictions, and bans on unauthorised night or low-visibility operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span> The same guidance names restricted areas including Codrington, Barbuda, Fort James, St John’s Harbour, North Sound, and areas around airports and official sites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span> These rules show that small aerial objects are a known safety and security concern, even when they are not “UFOs” in the extraordinary sense.
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-dark.svg" | relative_url }}" alt="Antigua and Barbuda illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked claims
 
-For Antigua and Barbuda, the fairest evidence split is simple.(#endnote-10 "Endnote 10") <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span>
+For Antigua and Barbuda, the fairest evidence split is simple.(#endnote-10 "Endnote 10")<span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span>
 
-**Confirmed reports:** There are confirmed public records of people reporting unusual aerial observations from Antigua in 1998 and 2010. NUFORC records those reports with dates, locations, shapes, observer counts, and summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cAntigua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Antigua</span><span class="citation-popover-snippet">Reports for Country Antigua</span></span></span> Enigma Labs also reports two published Antigua and Barbuda sightings on its platform, including third-party material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ag" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+**Confirmed reports:** There are confirmed public records of people reporting unusual aerial observations from Antigua in 1998 and 2010. NUFORC records those reports with dates, locations, shapes, observer counts, and summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cAntigua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Antigua</span><span class="citation-popover-snippet">Reports for Country Antigua</span></span></span> Enigma Labs also reports two published Antigua and Barbuda sightings on its platform, including third-party material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ag" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-**Contested claims:** The 1998 St John’s sighting is contested in the sense that it contains a potentially interesting behavioural claim — a meteor-like object that seemed to stop and flash — but the evidence is still a single-witness account with approximate timing and no public corroborating file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The 2010 Coolidge sighting is more clearly speculative because its interpretation leans heavily on assumptions about distance, altitude, direction, and military purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+**Contested claims:** The 1998 St John’s sighting is contested in the sense that it contains a potentially interesting behavioural claim — a meteor-like object that seemed to stop and flash — but the evidence is still a single-witness account with approximate timing and no public corroborating file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The 2010 Coolidge sighting is more clearly speculative because its interpretation leans heavily on assumptions about distance, altitude, direction, and military purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-**Debunked or conventionally explained claims:** The strongest local “UFO-like” debunking example found in the public record is the 2024 Caribbean light display attributed to a SpaceX Starlink launch, not an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: islandpressbox.com">[Island Press Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">islandpressbox.com</span><span class="citation-popover-snippet">Island Press Box</span></span></span> - The Details Matter This matters because it closely resembles the type of report Antigua and Barbuda is most likely to generate: bright, unexpected lights seen by multiple people over open sea and island skies.
+**Debunked or conventionally explained claims:** The strongest local “UFO-like” debunking example found in the public record is the 2024 Caribbean light display attributed to a SpaceX Starlink launch, not an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: islandpressbox.com">[Island Press Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">islandpressbox.com</span><span class="citation-popover-snippet">Island Press Box</span></span></span> - The Details Matter This matters because it closely resembles the type of report Antigua and Barbuda is most likely to generate: bright, unexpected lights seen by multiple people over open sea and island skies.
 
 No publicly available official Antiguan or Barbudan record found here establishes a confirmed anomalous craft, a landing, recovered material, biological evidence, or a government investigation comparable to better-known international UFO case files.
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-dark.svg" | relative_url }}" alt="Antigua and Barbuda illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where official evidence would be expected to appear
 
-If a UFO or UAP event in Antigua and Barbuda created an aviation hazard, the most relevant institutional trail would probably not be a UFO archive; it would be aviation safety reporting. The Eastern Caribbean Civil Aviation Authority, headquartered in Antigua, states that its Accident Investigation Group works with member states on aircraft accidents and serious incidents in Antigua and Barbuda and other OECS jurisdictions. It also publishes final accident reports and provides reporting contacts for accidents and serious incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[eccaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-title">AI G Contact Information</span><span class="citation-popover-snippet">AI G Contact Information</span></span></span>
+If a UFO or UAP event in Antigua and Barbuda created an aviation hazard, the most relevant institutional trail would probably not be a UFO archive; it would be aviation safety reporting. The Eastern Caribbean Civil Aviation Authority, headquartered in Antigua, states that its Accident Investigation Group works with member states on aircraft accidents and serious incidents in Antigua and Barbuda and other OECS jurisdictions. It also publishes final accident reports and provides reporting contacts for accidents and serious incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[eccaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-title">AI G Contact Information</span><span class="citation-popover-snippet">AI G Contact Information</span></span></span>
 
-That is important for judging claims. A brief light seen from the ground may leave only a private report. But an object that caused a near miss, runway disruption, crew report, or air-traffic-control concern should have a better chance of surfacing through aviation channels. The public ECCAA page lists accident and incident materials, but the visible record is aviation-focused rather than UFO-focused. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[eccaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-snippet">Open source on eccaa.aero.</span></span></span>
+That is important for judging claims. A brief light seen from the ground may leave only a private report. But an object that caused a near miss, runway disruption, crew report, or air-traffic-control concern should have a better chance of surfacing through aviation channels. The public ECCAA page lists accident and incident materials, but the visible record is aviation-focused rather than UFO-focused.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[eccaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-snippet">Open source on eccaa.aero.</span></span></span>
 
-The international pattern supports this cautious approach. AARO’s 2024 report received 757 UAP reports for its reporting period, resolved many as prosaic objects such as balloons, birds, drones, satellites, and aircraft, and stated that it had found no evidence of extraterrestrial beings, activity, or technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span> It also recorded that many cases remain unresolved because they lack enough data for analysis, not because they demonstrate exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
+The international pattern supports this cautious approach. AARO’s 2024 report received 757 UAP reports for its reporting period, resolved many as prosaic objects such as balloons, birds, drones, satellites, and aircraft, and stated that it had found no evidence of extraterrestrial beings, activity, or technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span> It also recorded that many cases remain unresolved because they lack enough data for analysis, not because they demonstrate exotic technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
 
 ## How Antigua and Barbuda compares with neighbouring branches
 
-Within a Caribbean UFO project, Antigua and Barbuda should be treated as a low-volume, low-corroboration branch. NUFORC’s own location index lists Antigua with [two reports]({{ 'two-reports/' | relative_url }}), while nearby entries include Barbados with nine, Trinidad and Tobago with sixteen, Jamaica with thirty-one, and the Bahamas with thirty-eight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Those counts are not a scientific measure of actual phenomena; they reflect language, internet access, population, tourism, database awareness, and reporting culture. But they do help prevent overstatement.
+Within a Caribbean UFO project, Antigua and Barbuda should be treated as a low-volume, low-corroboration branch. NUFORC’s own location index lists Antigua with [two reports]({{ 'two-reports/' | relative_url }}), while nearby entries include Barbados with nine, Trinidad and Tobago with sixteen, Jamaica with thirty-one, and the Bahamas with thirty-eight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Those counts are not a scientific measure of actual phenomena; they reflect language, internet access, population, tourism, database awareness, and reporting culture. But they do help prevent overstatement.
 
 The useful comparison is not “Antigua has fewer UFOs”; it is “Antigua has fewer publicly archived reports in major English-language civilian databases.” That distinction matters because a small island state may have local stories, radio call-ins, social media posts, or informal police and aviation memories that never enter NUFORC, Enigma, or a government archive. The available evidence supports a modest conclusion: Antigua and Barbuda belongs in the regional UFO map, but as a sparse-record case, not a hotspot.
 
@@ -1251,7 +1251,7 @@ The useful comparison is not “Antigua has fewer UFOs”; it is “Antigua has 
 
 ## How to judge future Antigua and Barbuda sightings
 
-A strong future case from Antigua or Barbuda would need more than a dramatic description. The minimum useful evidence would include the exact time, direction, elevation above the horizon, duration, location, weather, camera metadata, witness separation, and checks against aircraft, drones, satellites, meteors, and launch activity. A report near V.C. Bird International Airport, Codrington, St John’s Harbour, North Sound, Fort James, or other restricted areas would also need careful separation from drone and aviation explanations, given the country’s published drone restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span>
+A strong future case from Antigua or Barbuda would need more than a dramatic description. The minimum useful evidence would include the exact time, direction, elevation above the horizon, duration, location, weather, camera metadata, witness separation, and checks against aircraft, drones, satellites, meteors, and launch activity. A report near V.C. Bird International Airport, Codrington, St John’s Harbour, North Sound, Fort James, or other restricted areas would also need careful separation from drone and aviation explanations, given the country’s published drone restrictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span>
 
 The most credible classification framework for the country is therefore:
 
@@ -1266,194 +1266,194 @@ The most credible classification framework for the country is therefore:
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-dark.svg" | relative_url }}" alt="Antigua and Barbuda illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Behind Antigua&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Behind Antigua&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for assessing sparse sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing sparse sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broader context for current UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for current UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page examining limited national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page examining limited national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for evaluating extraordinary claims in low-data environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating extraordinary claims in low-data environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-antigua-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-antigua-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1469,7 +1469,7 @@ The most credible classification framework for the country is therefore:
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1489,7 +1489,7 @@ The most credible classification framework for the country is therefore:
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1521,7 +1521,7 @@ The most credible classification framework for the country is therefore:
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1573,7 +1573,7 @@ The most credible classification framework for the country is therefore:
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1618,7 +1618,7 @@ The most credible classification framework for the country is therefore:
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1656,199 +1656,198 @@ The most credible classification framework for the country is therefore:
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Antigua-and-Barbuda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Antigua-and-Barbuda</a>  
+   Link:<a href="https://www.britannica.com/place/Antigua-and-Barbuda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Antigua-and-Barbuda</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/ag" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ag</a>  
+   Link:<a href="https://enigmalabs.io/explore/ag" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ag</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=8677</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=8677</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: patrick.spaceforce.mil  
    Title: 45th sw says farewell to antigua air station  
-   Link: <a href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Space Launch Delta 45 &gt; Article Display...</p></details>
+   Link:<a href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Space Launch Delta 45 &gt; Article Display...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=75499" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75499</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=75499" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75499</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: visitantiguabarbuda.com  
    Title: Visit Antigua & Barbuda – The beach is just the beginning  
-   Link: <a href="https://www.visitantiguabarbuda.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitantiguabarbuda.com/</a>  
+   Link:<a href="https://www.visitantiguabarbuda.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitantiguabarbuda.com/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: islandpressbox.com  
    Title: Island Press Box  
-   Link: <a href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://islandpressbox.com/starlink-satellite-lights-up-the-skies/</a>  
+   Link:<a href="https://islandpressbox.com/starlink-satellite-lights-up-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://islandpressbox.com/starlink-satellite-lights-up-the-skies/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: antigua-barbuda.com  
    Title: 2019 Mar Guidance to Drone Operators  
-   Link: <a href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow">https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf</a>  
+   Link:<a href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow">https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: Reports for Country Antigua  
-   Link: <a href="https://nuforc.org/subndx/?id=cAntigua" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cAntigua</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cAntigua" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cAntigua</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eccaa.aero  
    Title: AI G Contact Information  
-   Link: <a href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article</a>  
+   Link:<a href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eccaa.aero  
-   Link: <a href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/</a>  
+   Link:<a href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/our-collections/art/exhibits/communities/100th-anniversary-cno/admiral-harold-r--stark/u-s--naval-air-station--antigua.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/art/exhibits/communities/100th-anniversary-cno/admiral-harold-r--stark/u-s--naval-air-station--antigua.html</a>  
+   Link:<a href="https://www.history.navy.mil/our-collections/art/exhibits/communities/100th-anniversary-cno/admiral-harold-r--stark/u-s--naval-air-station--antigua.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/art/exhibits/communities/100th-anniversary-cno/admiral-harold-r--stark/u-s--naval-air-station--antigua.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1958-60v05/d111" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1958-60v05/d111</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1958-60v05/d111" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1958-60v05/d111</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/documents/organization/155995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/155995.pdf</a>  
+   Link:<a href="https://2009-2017.state.gov/documents/organization/155995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/155995.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: antiguaobserver.com  
-   Link: <a href="https://antiguaobserver.com/page/3690/?s=" target="_blank" rel="noopener noreferrer nofollow">https://antiguaobserver.com/page/3690/?s=</a>  
+   Link:<a href="https://antiguaobserver.com/page/3690/?s=" target="_blank" rel="noopener noreferrer nofollow">https://antiguaobserver.com/page/3690/?s=</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vcbia.com  
-   Link: <a href="https://vcbia.com/barbuda/" target="_blank" rel="noopener noreferrer nofollow">https://vcbia.com/barbuda/</a>  
+   Link:<a href="https://vcbia.com/barbuda/" target="_blank" rel="noopener noreferrer nofollow">https://vcbia.com/barbuda/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Eastern Caribbean Civil Aviation Authority  
-   Link: <a href="https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Antigua and Barbuda  
-   Link: <a href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antigua_and_Barbuda</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antigua_and_Barbuda</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sailingweek.com  
    Title: antigua air station  
-   Link: <a href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://sailingweek.com/antigua-air-station/</a>  
+   Link:<a href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://sailingweek.com/antigua-air-station/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nationsonline.org  
    Title: Antigua and Barbuda  
-   Link: <a href="https://www.nationsonline.org/oneworld/antigua_barbuda.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationsonline.org/oneworld/antigua_barbuda.htm</a>  
+   Link:<a href="https://www.nationsonline.org/oneworld/antigua_barbuda.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationsonline.org/oneworld/antigua_barbuda.htm</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/country/antigua" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/country/antigua</a>  
+   Link:<a href="https://www.baaa-acro.com/country/antigua" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/country/antigua</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tfocanada.ca  
    Title: Antigua and Barbuda  
-   Link: <a href="https://tfocanada.ca/antigua-and-barbuda-country-profile/" target="_blank" rel="noopener noreferrer nofollow">https://tfocanada.ca/antigua-and-barbuda-country-profile/</a>  
+   Link:<a href="https://tfocanada.ca/antigua-and-barbuda-country-profile/" target="_blank" rel="noopener noreferrer nofollow">https://tfocanada.ca/antigua-and-barbuda-country-profile/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: expatfocus.com  
    Title: Antigua and Barbuda  
-   Link: <a href="https://www.expatfocus.com/antigua-and-barbuda/guide/antigua-and-barbuda-air-travel" target="_blank" rel="noopener noreferrer nofollow">https://www.expatfocus.com/antigua-and-barbuda/guide/antigua-and-barbuda-air-travel</a>  
+   Link:<a href="https://www.expatfocus.com/antigua-and-barbuda/guide/antigua-and-barbuda-air-travel" target="_blank" rel="noopener noreferrer nofollow">https://www.expatfocus.com/antigua-and-barbuda/guide/antigua-and-barbuda-air-travel</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: en.wikisource.org  
    Title: Antigua and Barbuda  
-   Link: <a href="https://en.wikisource.org/wiki/The_World_Factbook_%281990%29/Antigua_and_Barbuda" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_World_Factbook_%281990%29/Antigua_and_Barbuda</a>  
+   Link:<a href="https://en.wikisource.org/wiki/The_World_Factbook_%281990%29/Antigua_and_Barbuda" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_World_Factbook_%281990%29/Antigua_and_Barbuda</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ourworldindata.org  
    Title: Antigua and Barbuda  
-   Link: <a href="https://ourworldindata.org/profile/population-demography/antigua-and-barbuda" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/profile/population-demography/antigua-and-barbuda</a>  
+   Link:<a href="https://ourworldindata.org/profile/population-demography/antigua-and-barbuda" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/profile/population-demography/antigua-and-barbuda</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenewtoday/posts/the-lack-of-major-incidents-and-crashes-in-the-eastern-caribbean-lends-testimony/1141929997954644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenewtoday/posts/the-lack-of-major-incidents-and-crashes-in-the-eastern-caribbean-lends-testimony/1141929997954644/</a>  
+   Link:<a href="https://www.facebook.com/thenewtoday/posts/the-lack-of-major-incidents-and-crashes-in-the-eastern-caribbean-lends-testimony/1141929997954644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenewtoday/posts/the-lack-of-major-incidents-and-crashes-in-the-eastern-caribbean-lends-testimony/1141929997954644/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: vcbia.com  
-   Link: <a href="https://vcbia.com/antigua-barbuda-airport-authority/" target="_blank" rel="noopener noreferrer nofollow">https://vcbia.com/antigua-barbuda-airport-authority/</a>  
+   Link:<a href="https://vcbia.com/antigua-barbuda-airport-authority/" target="_blank" rel="noopener noreferrer nofollow">https://vcbia.com/antigua-barbuda-airport-authority/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABDFparatus/videos/stage-1-of-the-abdf-coastal-radar-project/807925691666069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABDFparatus/videos/stage-1-of-the-abdf-coastal-radar-project/807925691666069/</a>  
+   Link:<a href="https://www.facebook.com/ABDFparatus/videos/stage-1-of-the-abdf-coastal-radar-project/807925691666069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABDFparatus/videos/stage-1-of-the-abdf-coastal-radar-project/807925691666069/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: kayakingksc.com  
-   Link: <a href="https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html</a>  
+   Link:<a href="https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/</a>  
+   Link:<a href="https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vcbirdinternationalairport/posts/all-back-on-track-at-vc-bird-international-on-sunday-after-saturdays-disruptions/1445652967564374/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: eccourts.org  
-   Link: <a href="https://www.eccourts.org/antigua-flight-training-centre-inc-v-eastern-caribbean-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.eccourts.org/antigua-flight-training-centre-inc-v-eastern-caribbean-civil-aviation-authority</a>  
+   Link:<a href="https://www.eccourts.org/antigua-flight-training-centre-inc-v-eastern-caribbean-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.eccourts.org/antigua-flight-training-centre-inc-v-eastern-caribbean-civil-aviation-authority</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABDFparatus/posts/taken-from-in-1941-this-area-was-leased-to-the-us-army-wwii-in-support-of-the-na/3363743137285205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABDFparatus/posts/taken-from-in-1941-this-area-was-leased-to-the-us-army-wwii-in-support-of-the-na/3363743137285205/</a>
+   Link:<a href="https://www.facebook.com/ABDFparatus/posts/taken-from-in-1941-this-area-was-leased-to-the-us-army-wwii-in-support-of-the-na/3363743137285205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABDFparatus/posts/taken-from-in-1941-this-area-was-leased-to-the-us-army-wwii-in-support-of-the-na/3363743137285205/</a>

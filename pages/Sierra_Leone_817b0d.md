@@ -1201,17 +1201,17 @@ That does not make the subject meaningless. Sierra Leone is a useful case study 
 
 The public record is thin. Broad searches of open web sources, UFO-reporting databases, local media, aviation material, and official UAP repositories turn up no verified Sierra Leonean incident with the classic ingredients of a strong case: precise time and coordinates, multiple independent witnesses, original imagery, radar or air-traffic data, expert analysis, and a documented official conclusion.
 
-One Sierra Leone-specific UFO database page exists at the United States UFO Information and Research Center, but it is weak as evidence. Its Sierra Leone page lists a generic 22 March 2025 entry stating that the site is preparing to add submitted cases, while much of the page is promotional and makes broad claims about “a number of UFO Reports” without publishing the underlying incident details. It also mixes UFO, alien-contact and paranormal framing, which reduces its value as a factual incident archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span></span></span>
+One Sierra Leone-specific UFO database page exists at the United States UFO Information and Research Center, but it is weak as evidence. Its Sierra Leone page lists a generic 22 March 2025 entry stating that the site is preparing to add submitted cases, while much of the page is promotional and makes broad claims about “a number of UFO Reports” without publishing the underlying incident details. It also mixes UFO, alien-contact and paranormal framing, which reduces its value as a factual incident archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span></span></span>
 
-The most concrete recent public example is not a confirmed UFO case but a local sky-event report from Lungi and Freetown. In June 2025, Sierraloaded reported that witnesses saw a bright line or streak descending over the Lungi area, with some observers in Freetown also noticing a distinct trail. The article itself raised conventional possibilities: meteor activity, re-entering space debris, aircraft, drones or artificial light effects. No official technical finding was cited in the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span></span></span>
+The most concrete recent public example is not a confirmed UFO case but a local sky-event report from Lungi and Freetown. In June 2025, Sierraloaded reported that witnesses saw a bright line or streak descending over the Lungi area, with some observers in Freetown also noticing a distinct trail. The article itself raised conventional possibilities: meteor activity, re-entering space debris, aircraft, drones or artificial light effects. No official technical finding was cited in the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span></span></span>
 
 This is the pattern across the available material: Sierra Leone has reports and rumours of unusual things in the sky, but not enough public documentation to turn them into confirmed anomalous cases.
 
 ## The Lungi streak shows how a Sierra Leone UFO claim can form
 
-The Lungi report matters because it contains the ingredients that often produce a modern UFO story: a visually striking event, multiple people noticing it, a location near aviation infrastructure, immediate social-media sharing, and a lack of rapid official explanation. Lungi is especially important because it is associated with Freetown International Airport, the country’s main international aviation gateway, and sits across the Sierra Leone River from Freetown. The airport’s own website displays live weather information, including cloud cover and visibility, underscoring how local sky interpretation can be affected by real-time weather and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.african-cities.org/freetown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: african-cities.org">[Freetown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">african-cities.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Lungi report matters because it contains the ingredients that often produce a modern UFO story: a visually striking event, multiple people noticing it, a location near aviation infrastructure, immediate social-media sharing, and a lack of rapid official explanation. Lungi is especially important because it is associated with Freetown International Airport, the country’s main international aviation gateway, and sits across the Sierra Leone River from Freetown. The airport’s own website displays live weather information, including cloud cover and visibility, underscoring how local sky interpretation can be affected by real-time weather and atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.african-cities.org/freetown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: african-cities.org">[Freetown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">african-cities.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2025 [Lungi streak]({{ 'lungi-streak/' | relative_url }}) is best treated as an unresolved public sighting rather than an unexplained craft. The report describes a bright descending line and a lingering path, which are compatible with several ordinary causes. A meteor can produce a bright trail; space debris can fragment and glow during re-entry; aircraft contrails can appear unfamiliar when viewed from an unusual angle; and sunlight reflecting off aircraft, drones or satellites can create striking visual effects. The article itself noted these possibilities, while also making clear that no local authority had issued a definitive statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span><span class="citation-popover-snippet">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span></span></span>
+The 2025 [Lungi streak]({{ 'lungi-streak/' | relative_url }}) is best treated as an unresolved public sighting rather than an unexplained craft. The report describes a bright descending line and a lingering path, which are compatible with several ordinary causes. A meteor can produce a bright trail; space debris can fragment and glow during re-entry; aircraft contrails can appear unfamiliar when viewed from an unusual angle; and sunlight reflecting off aircraft, drones or satellites can create striking visual effects. The article itself noted these possibilities, while also making clear that no local authority had issued a definitive statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span><span class="citation-popover-snippet">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span></span></span>
 
 The key point is evidential rather than dramatic: a “mysterious” sky event is not automatically a strong UFO case. Without original video metadata, exact time, compass direction, elevation, weather conditions, flight-path checks and satellite-re-entry checks, the event remains interesting but low-certainty.
 
@@ -1220,15 +1220,15 @@ The key point is evidential rather than dramatic: a “mysterious” sky event i
 
 If Sierra Leone had a richer public UFO-reporting culture, the most likely concentration of reports would be around Freetown, Lungi and the Western Area. That does not necessarily mean the phenomenon would be concentrated there; it means people, phones, media outlets, aviation activity and internet discussion are concentrated there.
 
-World Bank data show Sierra Leone’s urban share rising from 33.5% in 1990 to 45.4% in 2024, meaning a growing share of potential witnesses are in urban and peri-urban settings where lights, aircraft, drones, haze and phone cameras shape what gets noticed and reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://databank.worldbank.org/data/reports.aspx?country=SLE%2CKWT&amp;series=SP.URB.TOTL.IN.ZS&amp;source=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: databank.worldbank.org">[DataBank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">databank.worldbank.org</span><span class="citation-popover-title">Data Bank World Development Indicators &#124; Data Bank</span><span class="citation-popover-snippet">Data Bank World Development Indicators &#124; Data Bank</span></span></span> Freetown and Lungi also form a natural reporting corridor because of airport traffic, coastal weather, maritime movement and the capital’s media visibility.
+World Bank data show Sierra Leone’s urban share rising from 33.5% in 1990 to 45.4% in 2024, meaning a growing share of potential witnesses are in urban and peri-urban settings where lights, aircraft, drones, haze and phone cameras shape what gets noticed and reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://databank.worldbank.org/data/reports.aspx?country=SLE%2CKWT&amp;series=SP.URB.TOTL.IN.ZS&amp;source=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: databank.worldbank.org">[DataBank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">databank.worldbank.org</span><span class="citation-popover-title">Data Bank World Development Indicators &#124; Data Bank</span><span class="citation-popover-snippet">Data Bank World Development Indicators &#124; Data Bank</span></span></span> Freetown and Lungi also form a natural reporting corridor because of airport traffic, coastal weather, maritime movement and the capital’s media visibility.
 
 By contrast, rural districts may produce fewer public reports not because the sky is less active, but because reporting routes are weaker. A fireball over a rural area, a drone seen near a mining zone, or a distant aircraft light over the forested interior may be discussed locally without reaching searchable news archives. This creates a built-in regional bias: available evidence is likely to overrepresent the Western Area and airport-adjacent sightings, while underrepresenting interior districts.
 
 ## Official records: mostly absence, not confirmation
 
-There is no accessible Sierra Leone government UFO archive comparable to the UAP collections now being assembled in the United States. The US National Archives states that it holds UFO and UAP records across multiple record groups and has established a dedicated UAP Records Collection under the 2024 National Defense Authorization Act, with records being added on a rolling basis. That is useful for understanding international disclosure practice, but it does not by itself supply Sierra Leone-specific cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is no accessible Sierra Leone government UFO archive comparable to the UAP collections now being assembled in the United States. The US National Archives states that it holds UFO and UAP records across multiple record groups and has established a dedicated UAP Records Collection under the 2024 National Defense Authorization Act, with records being added on a rolling basis. That is useful for understanding international disclosure practice, but it does not by itself supply Sierra Leone-specific cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-US and NASA materials are still relevant as a benchmark for evidence quality. NASA’s UAP FAQ states that NASA has found no credible evidence of extraterrestrial life and no evidence that UAPs are extraterrestrial; it also says the limited number of high-quality observations makes firm scientific conclusions difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> AARO’s public materials likewise emphasise ordinary explanations and data-quality problems: its records page includes examples of alleged anomalous materials later assessed as ordinary alloys, plus papers on satellite flaring and parallax effects that can make ordinary objects look strange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
+US and NASA materials are still relevant as a benchmark for evidence quality. NASA’s UAP FAQ states that NASA has found no credible evidence of extraterrestrial life and no evidence that UAPs are extraterrestrial; it also says the limited number of high-quality observations makes firm scientific conclusions difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> AARO’s public materials likewise emphasise ordinary explanations and data-quality problems: its records page includes examples of alleged anomalous materials later assessed as ordinary alloys, plus papers on satellite flaring and parallax effects that can make ordinary objects look strange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
 For Sierra Leone, the lesson is straightforward. The absence of a public official UFO archive does not prove that nothing unusual has ever been reported. It does mean that claims cannot be treated as confirmed unless they can be tied to verifiable records: aviation logs, meteorological data, original imagery, witness interviews, police reports, airport statements, or independent technical analysis.
 
@@ -1236,7 +1236,7 @@ For Sierra Leone, the lesson is straightforward. The absence of a public officia
 
 ## Aviation incidents can look mysterious without being UFOs
 
-Sierra Leone has had real aviation-related events that produced public concern and speculation. In September 2024, the Sierra Leone Civil Aviation Authority reportedly announced that an aircraft had landed at Freetown International Airport without authorisation and had been impounded pending investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/investigations-aircraft-landing-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-snippet">Open source on sierraloaded.sl.</span></span></span> Later local reporting said the government investigation found four people on board, including three Mexican nationals and one Spanish passport holder; authorities reported no illegal items or activities found aboard after searches and forensic swabs, and civil aviation charges and fines followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">aviation authority hazardous weather alert</span><span class="citation-popover-snippet">aviation authority hazardous weather alert</span></span></span>
+Sierra Leone has had real aviation-related events that produced public concern and speculation. In September 2024, the Sierra Leone Civil Aviation Authority reportedly announced that an aircraft had landed at Freetown International Airport without authorisation and had been impounded pending investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/investigations-aircraft-landing-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-snippet">Open source on sierraloaded.sl.</span></span></span> Later local reporting said the government investigation found four people on board, including three Mexican nationals and one Spanish passport holder; authorities reported no illegal items or activities found aboard after searches and forensic swabs, and civil aviation charges and fines followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">aviation authority hazardous weather alert</span><span class="citation-popover-snippet">aviation authority hazardous weather alert</span></span></span>
 
 This was not a UFO case: it was an identified aircraft involved in an unauthorised landing. Its relevance is that it shows how quickly an unusual aviation event can become mysterious in public discussion when details are incomplete. In Sierra Leone’s evidence environment, “unidentified” can easily mean “not yet publicly explained”, not “anomalous”.
 
@@ -1244,7 +1244,7 @@ For any future Sierra Leone UAP claim near Lungi, the first checks should be mun
 
 ## Weather and atmosphere are central to Sierra Leone sightings
 
-Sierra Leone’s sky is not a neutral viewing screen. Coastal haze, cloud, rain, dust, humidity and low visibility can all distort how lights and trails appear. The Sierra Leone Meteorological Agency’s first Common Alerting Protocol warning, issued in March 2026, warned of light dust over Freetown’s Western Area Urban that could slightly reduce visibility and affect transport users. The agency framed the alert as part of a wider move towards faster, standardised public warnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/country/sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[sierra leone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-snippet">sierra leone</span></span></span>
+Sierra Leone’s sky is not a neutral viewing screen. Coastal haze, cloud, rain, dust, humidity and low visibility can all distort how lights and trails appear. The Sierra Leone Meteorological Agency’s first Common Alerting Protocol warning, issued in March 2026, warned of light dust over Freetown’s Western Area Urban that could slightly reduce visibility and affect transport users. The agency framed the alert as part of a wider move towards faster, standardised public warnings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/country/sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[sierra leone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-snippet">sierra leone</span></span></span>
 
 That matters for UFO assessment because reduced visibility can make ordinary objects look odd. A plane seen through haze may appear to hover. A contrail can look detached from its source aircraft. Bright planets or stars can shimmer when seen through humid or turbulent air. A meteor trail can appear closer than it is. A distant drone or helicopter can seem silent if wind, surf or city noise masks the sound.
 
@@ -1255,13 +1255,13 @@ The practical implication is that Sierra Leone sightings need weather context be
 
 A fair Sierra Leone UFO page should not force every claim into a dramatic category. The available material is better sorted by evidence strength.
 
-**Confirmed events:** These are incidents where the object or event is identified. The 2024 unauthorised aircraft landing at Freetown International Airport belongs here: it was a real aviation incident, not an anomalous craft. Local reporting says the authorities completed an investigation, imposed civil aviation penalties and closed the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span></span></span>
+**Confirmed events:** These are incidents where the object or event is identified. The 2024 unauthorised aircraft landing at Freetown International Airport belongs here: it was a real aviation incident, not an anomalous craft. Local reporting says the authorities completed an investigation, imposed civil aviation penalties and closed the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals</span></span></span>
 
-**Contested or unresolved public reports:** The June 2025 Lungi/Freetown bright-streak report fits this category. Multiple people reportedly saw something unusual, but the public record does not show a completed technical analysis. Plausible explanations include meteor, space debris, aircraft or light effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span><span class="citation-popover-snippet">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span></span></span>
+**Contested or unresolved public reports:** The June 2025 Lungi/Freetown bright-streak report fits this category. Multiple people reportedly saw something unusual, but the public record does not show a completed technical analysis. Plausible explanations include meteor, space debris, aircraft or light effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span><span class="citation-popover-snippet">Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested</span></span></span>
 
-**Weak archive claims:** The Sierra Leone page on the US UFO Information and Research Center is an example of weak evidence. It asserts that Sierra Leone reports exist and invites future submissions, but does not publish enough case-level data to evaluate dates, locations, witnesses, images, or explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span></span></span>
+**Weak archive claims:** The Sierra Leone page on the US UFO Information and Research Center is an example of weak evidence. It asserts that Sierra Leone reports exist and invites future submissions, but does not publish enough case-level data to evaluate dates, locations, witnesses, images, or explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Sierra Leone UFO Sightings &amp; Reports</span></span></span>
 
-**Debunked or probably ordinary categories:** No Sierra Leone-specific case found in this pass can be called formally debunked in the sense of a published forensic explanation. However, the likely ordinary categories are clear: aircraft, meteors, satellite re-entry, satellite flare, drones, haze-distorted lights, and misread social-media clips. AARO’s public work on satellite flaring and parallax is especially relevant because both effects can make ordinary objects appear brighter, faster, larger or stranger than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+**Debunked or probably ordinary categories:** No Sierra Leone-specific case found in this pass can be called formally debunked in the sense of a published forensic explanation. However, the likely ordinary categories are clear: aircraft, meteors, satellite re-entry, satellite flare, drones, haze-distorted lights, and misread social-media clips. AARO’s public work on satellite flaring and parallax is especially relevant because both effects can make ordinary objects appear brighter, faster, larger or stranger than they are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KR5hzBQGzLQ" title="Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer">Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 5.8K &middot; Uploaded: March 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KR5hzBQGzLQ">Open on YouTube</a></p></div></div></div>
 
@@ -1269,7 +1269,7 @@ A fair Sierra Leone UFO page should not force every claim into a dramatic catego
 
 The most useful standard for Sierra Leone is a simple evidence ladder. A claim becomes stronger when it moves from social-media description to independently checkable data.
 
-A credible Sierra Leone UAP report should include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/country/sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[data.worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-title">sierra leone</span><span class="citation-popover-snippet">sierra leone</span></span></span>
+A credible Sierra Leone UAP report should include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/country/sierra-leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[data.worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-title">sierra leone</span><span class="citation-popover-snippet">sierra leone</span></span></span>
 
 * **Exact time and date:** preferably with phone metadata preserved.
 
@@ -1300,194 +1300,194 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HhLI6W15nQU" title="UFOs In American Culture: A History Of Intrigue And Denial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer">UFOs In American Culture: A History Of Intrigue And Denial</a></p><p class="youtube-embed-meta">Channel: Connecticut Public Podcasts &middot; Views: 78 &middot; Uploaded: September 2024 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HhLI6W15nQU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Sierra Leone&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Sierra Leone&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical comparisons for weak and strong cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical comparisons for weak and strong cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines how contemporary UFO claims are discussed and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how contemporary UFO claims are discussed and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Ideal broad introduction for a country with a sparse UFO record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal broad introduction for a country with a sparse UFO record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-sierra-leone-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1503,7 +1503,7 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1523,7 +1523,7 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1555,7 +1555,7 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1607,7 +1607,7 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1652,7 +1652,7 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1690,206 +1690,205 @@ The most responsible conclusion is therefore modest: Sierra Leone’s UFO record
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Sierra Leone UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/sierra-leone-ufo-sightings.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sierraloaded.sl  
    Title: Mysterious Bright Line from Sky in Lungi Sparks Curiosity Among Locals  
-   Link: <a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
+   Link:<a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sierraloaded.sl  
    Title: Unauthorized Aircraft Lands at Freetown International Airport, Four Arrested  
-   Link: <a href="https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/</a>  
+   Link:<a href="https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/aircraft-at-freetown-international-airport/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sierraloaded.sl  
-   Link: <a href="https://sierraloaded.sl/news/investigations-aircraft-landing-airport/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/investigations-aircraft-landing-airport/</a>  
+   Link:<a href="https://sierraloaded.sl/news/investigations-aircraft-landing-airport/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/investigations-aircraft-landing-airport/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sierraloaded.sl  
    Title: aviation authority hazardous weather alert  
-   Link: <a href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/</a>  
+   Link:<a href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/guides/war-dept/oasd-filing-manual-1977-edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/guides/war-dept/oasd-filing-manual-1977-edition.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/guides/war-dept/oasd-filing-manual-1977-edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/guides/war-dept/oasd-filing-manual-1977-edition.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: freetown-airport.aero  
    Title: Freetown International Airport Home | Freetown International Airport  
-   Link: <a href="https://freetown-airport.aero/" target="_blank" rel="noopener noreferrer nofollow">https://freetown-airport.aero/</a>  
+   Link:<a href="https://freetown-airport.aero/" target="_blank" rel="noopener noreferrer nofollow">https://freetown-airport.aero/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: databank.worldbank.org  
    Title: Data Bank World Development Indicators | Data Bank  
-   Link: <a href="https://databank.worldbank.org/data/reports.aspx?country=SLE%2CKWT&amp;series=SP.URB.TOTL.IN.ZS&amp;source=2" target="_blank" rel="noopener noreferrer nofollow">https://databank.worldbank.org/data/reports.aspx?country=SLE%2CKWT&amp;series=SP.URB.TOTL.IN.ZS&amp;source=2</a>  
+   Link:<a href="https://databank.worldbank.org/data/reports.aspx?country=SLE%2CKWT&amp;series=SP.URB.TOTL.IN.ZS&amp;source=2" target="_blank" rel="noopener noreferrer nofollow">https://databank.worldbank.org/data/reports.aspx?country=SLE%2CKWT&amp;series=SP.URB.TOTL.IN.ZS&amp;source=2</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: slmet.gov.sl  
-   Link: <a href="https://slmet.gov.sl/our-news/sierra-leone-publishes-first-cap-warning-advancing-early-warning-systems/" target="_blank" rel="noopener noreferrer nofollow">https://slmet.gov.sl/our-news/sierra-leone-publishes-first-cap-warning-advancing-early-warning-systems/</a>  
+   Link:<a href="https://slmet.gov.sl/our-news/sierra-leone-publishes-first-cap-warning-advancing-early-warning-systems/" target="_blank" rel="noopener noreferrer nofollow">https://slmet.gov.sl/our-news/sierra-leone-publishes-first-cap-warning-advancing-early-warning-systems/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: slcaa.gov.sl  
-   Link: <a href="https://slcaa.gov.sl/wp-content/uploads/2025/09/UPDATED-SLCAR-PART-15A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://slcaa.gov.sl/wp-content/uploads/2025/09/UPDATED-SLCAR-PART-15A.pdf</a>  
+   Link:<a href="https://slcaa.gov.sl/wp-content/uploads/2025/09/UPDATED-SLCAR-PART-15A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://slcaa.gov.sl/wp-content/uploads/2025/09/UPDATED-SLCAR-PART-15A.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Freetown International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Freetown_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freetown_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Freetown_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freetown_International_Airport</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sierraloaded/videos/sierra-leone-civil-aviation-authority-issues-hazardous-weather-alert/1547446376507524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/videos/sierra-leone-civil-aviation-authority-issues-hazardous-weather-alert/1547446376507524/</a>  
+   Link:<a href="https://www.facebook.com/sierraloaded/videos/sierra-leone-civil-aviation-authority-issues-hazardous-weather-alert/1547446376507524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/videos/sierra-leone-civil-aviation-authority-issues-hazardous-weather-alert/1547446376507524/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
+   Link:<a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freetowninternationalairport/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freetowninternationalairport/</a>  
+   Link:<a href="https://www.facebook.com/freetowninternationalairport/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freetowninternationalairport/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: data.worldbank.org  
    Title: sierra leone  
-   Link: <a href="https://data.worldbank.org/country/sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/sierra-leone</a>  
+   Link:<a href="https://data.worldbank.org/country/sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/sierra-leone</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thecalabashnewspaper.com  
    Title: sierra leone probes mysterious unauthorized aircraft landing at fna  
-   Link: <a href="https://thecalabashnewspaper.com/sierra-leone-probes-mysterious-unauthorized-aircraft-landing-at-fna/" target="_blank" rel="noopener noreferrer nofollow">https://thecalabashnewspaper.com/sierra-leone-probes-mysterious-unauthorized-aircraft-landing-at-fna/</a>  
+   Link:<a href="https://thecalabashnewspaper.com/sierra-leone-probes-mysterious-unauthorized-aircraft-landing-at-fna/" target="_blank" rel="noopener noreferrer nofollow">https://thecalabashnewspaper.com/sierra-leone-probes-mysterious-unauthorized-aircraft-landing-at-fna/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wegotravel.co.uk  
-   Link: <a href="https://www.wegotravel.co.uk/airports/fna/airports-in-freetown/freetown-lungi-international-airport-fna" target="_blank" rel="noopener noreferrer nofollow">https://www.wegotravel.co.uk/airports/fna/airports-in-freetown/freetown-lungi-international-airport-fna</a>  
+   Link:<a href="https://www.wegotravel.co.uk/airports/fna/airports-in-freetown/freetown-lungi-international-airport-fna" target="_blank" rel="noopener noreferrer nofollow">https://www.wegotravel.co.uk/airports/fna/airports-in-freetown/freetown-lungi-international-airport-fna</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tradingeconomics.com  
    Title: Sierra Leone  
-   Link: <a href="https://tradingeconomics.com/sierra-leone/urban-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/sierra-leone/urban-population-wb-data.html</a>  
+   Link:<a href="https://tradingeconomics.com/sierra-leone/urban-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/sierra-leone/urban-population-wb-data.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSI-TCVDkRb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSI-TCVDkRb/</a>  
+   Link:<a href="https://www.instagram.com/reel/DSI-TCVDkRb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSI-TCVDkRb/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: architecturetoday.co.uk  
    Title: freetown international airport sisecam  
-   Link: <a href="https://architecturetoday.co.uk/freetown-international-airport-sisecam/" target="_blank" rel="noopener noreferrer nofollow">https://architecturetoday.co.uk/freetown-international-airport-sisecam/</a>  
+   Link:<a href="https://architecturetoday.co.uk/freetown-international-airport-sisecam/" target="_blank" rel="noopener noreferrer nofollow">https://architecturetoday.co.uk/freetown-international-airport-sisecam/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: african-cities.org  
-   Link: <a href="https://www.african-cities.org/freetown/" target="_blank" rel="noopener noreferrer nofollow">https://www.african-cities.org/freetown/</a>  
+   Link:<a href="https://www.african-cities.org/freetown/" target="_blank" rel="noopener noreferrer nofollow">https://www.african-cities.org/freetown/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tourismsierraleone.com  
-   Link: <a href="https://tourismsierraleone.com/plan-your-trip/getting-there-and-around/" target="_blank" rel="noopener noreferrer nofollow">https://tourismsierraleone.com/plan-your-trip/getting-there-and-around/</a>  
+   Link:<a href="https://tourismsierraleone.com/plan-your-trip/getting-there-and-around/" target="_blank" rel="noopener noreferrer nofollow">https://tourismsierraleone.com/plan-your-trip/getting-there-and-around/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: shiftcities.org  
-   Link: <a href="https://www.shiftcities.org/projects/sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://www.shiftcities.org/projects/sierra-leone</a>  
+   Link:<a href="https://www.shiftcities.org/projects/sierra-leone" target="_blank" rel="noopener noreferrer nofollow">https://www.shiftcities.org/projects/sierra-leone</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: signpostsierraleone.wordpress.com  
-   Link: <a href="https://signpostsierraleone.wordpress.com/sierra-leone/districts/" target="_blank" rel="noopener noreferrer nofollow">https://signpostsierraleone.wordpress.com/sierra-leone/districts/</a>  
+   Link:<a href="https://signpostsierraleone.wordpress.com/sierra-leone/districts/" target="_blank" rel="noopener noreferrer nofollow">https://signpostsierraleone.wordpress.com/sierra-leone/districts/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: centreforaviation.com  
-   Link: <a href="https://centreforaviation.com/data/profiles/airports/freetown-lungi-international-airport-fna" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/freetown-lungi-international-airport-fna</a>  
+   Link:<a href="https://centreforaviation.com/data/profiles/airports/freetown-lungi-international-airport-fna" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/airports/freetown-lungi-international-airport-fna</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: datacommons.org  
    Title: Western Area  
-   Link: <a href="https://datacommons.org/place/wikidataId/Q1050475" target="_blank" rel="noopener noreferrer nofollow">https://datacommons.org/place/wikidataId/Q1050475</a>  
+   Link:<a href="https://datacommons.org/place/wikidataId/Q1050475" target="_blank" rel="noopener noreferrer nofollow">https://datacommons.org/place/wikidataId/Q1050475</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KR5hzBQGzLQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KR5hzBQGzLQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFOs In American Culture: A History Of Intrigue And Denial  
-   Link: <a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhLI6W15nQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NEW FREETOWN INTERNATIONAL AIRPORT In Lungi VLog 2023 - Explore With Triple-A...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhLI6W15nQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NEW FREETOWN INTERNATIONAL AIRPORT In Lungi VLog 2023 - Explore With Triple-A...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: How scientists use math to help explain UFO videos  
-   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs In American Culture: A History Of Intrigue And Denial...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs In American Culture: A History Of Intrigue And Denial...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/</a>  
+   Link:<a href="https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Hamza4SL/posts/3-hours-ago-something-just-fell-from-the-skies-in-sierra-leone-landing-in-lungi-/1237038778060541/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1984624875200918/posts/3527417684254955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1984624875200918/posts/3527417684254955/</a>  
+   Link:<a href="https://www.facebook.com/groups/1984624875200918/posts/3527417684254955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1984624875200918/posts/3527417684254955/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ebay.de  
-   Link: <a href="https://www.ebay.de/itm/205936426070?srsltid=AfmBOooXiZZBweOEiy6g-FTmUomdj_wjk_yIAUOTUuN5Veaws_8PQXtW" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.de/itm/205936426070?srsltid=AfmBOooXiZZBweOEiy6g-FTmUomdj_wjk_yIAUOTUuN5Veaws_8PQXtW</a>  
+   Link:<a href="https://www.ebay.de/itm/205936426070?srsltid=AfmBOooXiZZBweOEiy6g-FTmUomdj_wjk_yIAUOTUuN5Veaws_8PQXtW" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.de/itm/205936426070?srsltid=AfmBOooXiZZBweOEiy6g-FTmUomdj_wjk_yIAUOTUuN5Veaws_8PQXtW</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/calabashnewspaper/posts/by-amin-kef-rangerthe-sierra-leone-civil-aviation-authority-slcaa-has-issued-a-f/1472858927537065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/calabashnewspaper/posts/by-amin-kef-rangerthe-sierra-leone-civil-aviation-authority-slcaa-has-issued-a-f/1472858927537065/</a>
+   Link:<a href="https://www.facebook.com/calabashnewspaper/posts/by-amin-kef-rangerthe-sierra-leone-civil-aviation-authority-slcaa-has-issued-a-f/1472858927537065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/calabashnewspaper/posts/by-amin-kef-rangerthe-sierra-leone-civil-aviation-authority-slcaa-has-issued-a-f/1472858927537065/</a>

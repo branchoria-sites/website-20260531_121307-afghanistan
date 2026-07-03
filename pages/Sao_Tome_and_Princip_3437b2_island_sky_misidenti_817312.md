@@ -254,7 +254,7 @@ image: /assets/images/Sao_Tome_and_Princip_3437b2_island_sky_misidenti_817312-Il
 
 ## Introduction
 
-São Tomé and Príncipe has very little documented UFO history, but its geography creates ideal conditions for sincere misidentifications. The country consists of two small volcanic islands surrounded by open Atlantic water, with limited urban lighting, humid equatorial air, coastal settlements, maritime traffic, and a small aviation network. In such an environment, ordinary lights can appear unusually bright, distant objects can be difficult to judge, and atmospheric conditions can distort what observers think they are seeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wacaprogram.org/country/sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wacaprogram.org">[wacaprogram.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wacaprogram.org</span><span class="citation-popover-snippet">Sao Tome and PrincipeThe country consists of an archipelago with two main islands, São Tomé Island which is 50 km long and 30 km wide, an...</span></span></span>
+São Tomé and Príncipe has very little documented UFO history, but its geography creates ideal conditions for sincere misidentifications. The country consists of two small volcanic islands surrounded by open Atlantic water, with limited urban lighting, humid equatorial air, coastal settlements, maritime traffic, and a small aviation network. In such an environment, ordinary lights can appear unusually bright, distant objects can be difficult to judge, and atmospheric conditions can distort what observers think they are seeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wacaprogram.org/country/sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wacaprogram.org">[wacaprogram.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wacaprogram.org</span><span class="citation-popover-snippet">Sao Tome and PrincipeThe country consists of an archipelago with two main islands, São Tomé Island which is 50 km long and 30 km wide, an...</span></span></span>
 
 <img src="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_island_sky_misidenti_817312-Illustration-1-dark.svg" | relative_url }}" alt="Island Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_island_sky_misidenti_817312-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sao_Tome_and_Princip_3437b2_island_sky_misidenti_817312-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For understanding UFO reports from São Tomé and Príncipe, the most useful question is often not whether an object was extraordinary, but how island geography affects perception. A light over the sea, an aircraft approaching an island airport, a vessel beyond the horizon, or a bright celestial object viewed through humid tropical air can all generate reports that feel mysterious to witnesses even when the underlying cause is conventional.
@@ -263,20 +263,20 @@ For understanding UFO reports from São Tomé and Príncipe, the most useful que
 
 Unlike large continental countries, São Tomé and Príncipe offers very few visual reference points once a person looks out across the ocean. At night, the sea horizon can appear empty and featureless, making it difficult to estimate the distance, speed, altitude, or size of a light source. A bright object over water may seem to hover, accelerate, or change position when the observer lacks fixed landmarks for comparison.
 
-The islands are also located almost directly on the Equator in the Gulf of Guinea. Their volcanic terrain creates varied local weather patterns, with clouds, moisture, and haze behaving differently from one coastline to another. Mountains intercept moist winds and generate microclimates across relatively short distances, meaning visibility conditions can change rapidly and unevenly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journeysbydesign.com">[Journeys by Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journeysbydesign.com</span><span class="citation-popover-snippet">Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</span></span></span>
+The islands are also located almost directly on the Equator in the Gulf of Guinea. Their volcanic terrain creates varied local weather patterns, with clouds, moisture, and haze behaving differently from one coastline to another. Mountains intercept moist winds and generate microclimates across relatively short distances, meaning visibility conditions can change rapidly and unevenly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journeysbydesign.com">[Journeys by Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journeysbydesign.com</span><span class="citation-popover-snippet">Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</span></span></span>
 
 These conditions do not create UFOs, but they create ambiguity. In a country where documented UFO case files are sparse, geography provides a more plausible explanation for many unusual sky observations than an assumption that witnesses were observing unknown craft.
 
 ## São Tomé Airport and Urban Sightings
 
-Most of the country's population lives on São Tomé Island, and the nation's principal airport is located close to the capital and coastal urban areas. Aircraft approaching or departing over the ocean can produce unusual visual effects, especially at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyscanner.net/flights-to/tms/cheap-flights-to-sao-tome-is-airport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">Flights to Sao Tome Is (TMS) AirportLooking for flights to Sao Tome Is Airport? Compare major airlines and travel agents for ch...</span></span></span>
+Most of the country's population lives on São Tomé Island, and the nation's principal airport is located close to the capital and coastal urban areas. Aircraft approaching or departing over the ocean can produce unusual visual effects, especially at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyscanner.net/flights-to/tms/cheap-flights-to-sao-tome-is-airport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">Flights to Sao Tome Is (TMS) AirportLooking for flights to Sao Tome Is Airport? Compare major airlines and travel agents for ch...</span></span></span>
 
 Several factors can contribute to mistaken sightings:
 
 * **Approach lights over water:** Aircraft often appear lower and slower when viewed against a dark sea background.
 * **Head-on aircraft perspectives:** A plane flying toward an observer may seem nearly stationary because its apparent sideways motion is minimal.
 * **Changing brightness:** Landing lights can suddenly brighten or dim as an aircraft changes direction, creating the illusion of acceleration or shape-shifting.
-* **Weather-dependent visibility:** Flights in the islands are known to be affected by weather and visibility conditions, which can produce unusual appearances as aircraft emerge from cloud or haze. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tripadvisor.co.uk/ShowTopic-g294441-i10805-k14605941-Sao_Tome_Principe_practical_logistical_advice-Sao_Tome_and_Principe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.co.uk">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.co.uk</span><span class="citation-popover-title">Tripadvisor Sao Tome &amp; Principe</span><span class="citation-popover-snippet">There is a risk that the flight between the islands cannot take off/land as scheduled in case of...Read more...</span></span></span>
+* **Weather-dependent visibility:** Flights in the islands are known to be affected by weather and visibility conditions, which can produce unusual appearances as aircraft emerge from cloud or haze.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tripadvisor.co.uk/ShowTopic-g294441-i10805-k14605941-Sao_Tome_Principe_practical_logistical_advice-Sao_Tome_and_Principe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.co.uk">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.co.uk</span><span class="citation-popover-title">Tripadvisor Sao Tome &amp; Principe</span><span class="citation-popover-snippet">There is a risk that the flight between the islands cannot take off/land as scheduled in case of...Read more...</span></span></span>
 
 Because the airport lies only a short distance from the capital, many residents can observe aircraft from coastal roads, beaches, and urban districts. Without radar data or direct identification, a distant aircraft can easily become an unexplained light in local conversation.
 
@@ -286,7 +286,7 @@ This is especially relevant when evaluating isolated reports that lack photograp
 
 ## Príncipe's Dark Skies and Coastal Reports
 
-Príncipe presents a different environment. The island is much smaller, sparsely populated, and has relatively little artificial lighting. Remote locations with low light pollution offer spectacular night-sky viewing conditions, making stars, planets, satellites, and meteors more visible than in many urban regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rainbowtours.co.uk/sao-tome-principe/principe-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowtours.co.uk">[Rainbow Tours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowtours.co.uk</span><span class="citation-popover-title">Rainbow Tours Príncipe Island Holidays</span><span class="citation-popover-snippet">Just 19km long, its north coast is notched with castaway shores that include the perfectly curved Banana...Read more...</span></span></span>
+Príncipe presents a different environment. The island is much smaller, sparsely populated, and has relatively little artificial lighting. Remote locations with low light pollution offer spectacular night-sky viewing conditions, making stars, planets, satellites, and meteors more visible than in many urban regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rainbowtours.co.uk/sao-tome-principe/principe-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowtours.co.uk">[Rainbow Tours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowtours.co.uk</span><span class="citation-popover-title">Rainbow Tours Príncipe Island Holidays</span><span class="citation-popover-snippet">Just 19km long, its north coast is notched with castaway shores that include the perfectly curved Banana...Read more...</span></span></span>
 
 Paradoxically, dark skies can increase reports of unusual aerial phenomena.
 
@@ -304,7 +304,7 @@ When observers are accustomed to seeing only a handful of bright objects in the 
 
 may seem extraordinary.
 
-In larger cities, light pollution often hides these objects. On Príncipe, they can appear strikingly bright. The island's small population also means that many reports originate from isolated observations rather than large groups of witnesses, making independent verification difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rainbowtours.co.uk/sao-tome-principe/principe-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowtours.co.uk">[Rainbow Tours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowtours.co.uk</span><span class="citation-popover-title">Rainbow Tours Príncipe Island Holidays</span><span class="citation-popover-snippet">Just 19km long, its north coast is notched with castaway shores that include the perfectly curved Banana...Read more...</span></span></span>
+In larger cities, light pollution often hides these objects. On Príncipe, they can appear strikingly bright. The island's small population also means that many reports originate from isolated observations rather than large groups of witnesses, making independent verification difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rainbowtours.co.uk/sao-tome-principe/principe-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowtours.co.uk">[Rainbow Tours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowtours.co.uk</span><span class="citation-popover-title">Rainbow Tours Príncipe Island Holidays</span><span class="citation-popover-snippet">Just 19km long, its north coast is notched with castaway shores that include the perfectly curved Banana...Read more...</span></span></span>
 
 For UFO researchers, this distinction matters. A dark-sky environment improves visibility but does not automatically improve identification accuracy. Observers may be seeing real astronomical objects more clearly than elsewhere, while still lacking the tools needed to recognise them.
 
@@ -313,7 +313,7 @@ For UFO researchers, this distinction matters. A dark-sky environment improves v
 
 The most important geographical factor in São Tomé and Príncipe may be the surrounding ocean itself.
 
-The Gulf of Guinea is an active maritime region. Fishing vessels, cargo ships, tankers, and other commercial traffic operate throughout surrounding waters. Thousands of vessels transit the broader region, and maritime activity remains a constant feature of the Gulf. European External Action Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0308597X23005092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect At night]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Technology and maritime security in Africa: Opportunities...by I Okafor-Yarwood · 2024 · Cited by 53 — The Gulf of Guinea (...</span></span></span>, vessel lights can produce several classic misidentification scenarios:
+The Gulf of Guinea is an active maritime region. Fishing vessels, cargo ships, tankers, and other commercial traffic operate throughout surrounding waters. Thousands of vessels transit the broader region, and maritime activity remains a constant feature of the Gulf. European External Action Service<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0308597X23005092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect At night]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Technology and maritime security in Africa: Opportunities...by I Okafor-Yarwood · 2024 · Cited by 53 — The Gulf of Guinea (...</span></span></span>, vessel lights can produce several classic misidentification scenarios:
 
 ### Lights that appear suspended above the sea
 
@@ -333,13 +333,13 @@ Changes in weather, sea haze, and atmospheric transparency can cause lights to f
 
 Without landmarks over open water, observers frequently underestimate distance. A ship many kilometres offshore may appear much closer, causing its brightness and movement to be interpreted incorrectly.
 
-These effects have been documented in maritime observation generally and are particularly relevant around isolated islands where observers routinely look out across dark ocean horizons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sailingissues.com/navcourse10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sailingissues.com">[SailingIssues]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sailingissues.com</span><span class="citation-popover-snippet">Lights and shapes for marine navigation.Outstanding navigation course: lights and shapes, safety rules to prevent collission...</span></span></span>
+These effects have been documented in maritime observation generally and are particularly relevant around isolated islands where observers routinely look out across dark ocean horizons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sailingissues.com/navcourse10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sailingissues.com">[SailingIssues]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sailingissues.com</span><span class="citation-popover-snippet">Lights and shapes for marine navigation.Outstanding navigation course: lights and shapes, safety rules to prevent collission...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fk1gyvad_kU" title="What We’re Getting Wrong About UFOs | Mr. Universe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fk1gyvad_kU" target="_blank" rel="noopener noreferrer">What We’re Getting Wrong About UFOs | Mr. Universe</a></p><p class="youtube-embed-meta">Channel: Kainaat Astronomy in English &middot; Views: 52 &middot; Uploaded: May 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fk1gyvad_kU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fk1gyvad_kU">Open on YouTube</a></p></div></div></div>
 
 ## Humid Air, Haze, and Optical Distortion
 
-The tropical climate adds another layer of complexity. São Tomé and Príncipe experiences warm temperatures, high humidity, seasonal rainfall, and frequent moisture in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.global-limits.com/sao-tome/race-details/location/weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: global-limits.com">[global-limits.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">global-limits.com</span><span class="citation-popover-snippet">Location/Weather21 Feb 2026 — São Tomé has relatively little rainfall but constant temperature. It has a tropical climate with wet season...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journeysbydesign.com">[Journeys by Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journeysbydesign.com</span><span class="citation-popover-snippet">Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</span></span></span>
+The tropical climate adds another layer of complexity. São Tomé and Príncipe experiences warm temperatures, high humidity, seasonal rainfall, and frequent moisture in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.global-limits.com/sao-tome/race-details/location/weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: global-limits.com">[global-limits.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">global-limits.com</span><span class="citation-popover-snippet">Location/Weather21 Feb 2026 — São Tomé has relatively little rainfall but constant temperature. It has a tropical climate with wet season...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journeysbydesign.com">[Journeys by Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journeysbydesign.com</span><span class="citation-popover-snippet">Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</span></span></span>
 
 Humid air affects how light travels. Common consequences include:
 
@@ -364,197 +364,197 @@ The limited UFO record from São Tomé and Príncipe makes environmental context
 
 When reports emerge from coastal settlements, near the airport, or from remote parts of Príncipe, the most plausible initial explanations typically involve aircraft, ships, astronomical objects, or atmospheric effects shaped by local geography. The combination of dark skies, ocean horizons, tropical haze, and limited reference points creates exactly the sort of conditions in which sincere observers can report unusual objects without any deliberate exaggeration.
 
-For that reason, island geography is not a side issue in the São Tomé and Príncipe UFO record. It is one of the central mechanisms through which otherwise ordinary lights can become unexplained sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/advice/african-astronomy-where-to-stargaze-on-the-continent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">african astronomy where to stargaze on the continent</span><span class="citation-popover-snippet">A lack of light pollution in remote areas is why Africa is worth considering as a dark sky destination, though...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journeysbydesign.com">[Journeys by Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journeysbydesign.com</span><span class="citation-popover-snippet">Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wacaprogram.org/country/sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wacaprogram.org">[3wacaprogram.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wacaprogram.org</span><span class="citation-popover-snippet">Sao Tome and PrincipeThe country consists of an archipelago with two main islands, São Tomé Island which is 50 km long and 30 km wide, an...</span></span></span>
+For that reason, island geography is not a side issue in the São Tomé and Príncipe UFO record. It is one of the central mechanisms through which otherwise ordinary lights can become unexplained sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/advice/african-astronomy-where-to-stargaze-on-the-continent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">african astronomy where to stargaze on the continent</span><span class="citation-popover-snippet">A lack of light pollution in remote areas is why Africa is worth considering as a dark sky destination, though...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journeysbydesign.com">[Journeys by Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journeysbydesign.com</span><span class="citation-popover-snippet">Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wacaprogram.org/country/sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wacaprogram.org">[3wacaprogram.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wacaprogram.org</span><span class="citation-popover-snippet">Sao Tome and PrincipeThe country consists of an archipelago with two main islands, São Tomé Island which is 50 km long and 30 km wide, an...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Island Skies Create Ambiguous UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Island Skies Create Ambiguous UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of cases with stronger evidence than visual sightings alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of cases with stronger evidence than visual sightings alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for understanding misidentifications and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for understanding misidentifications and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides modern context for assessing unexplained aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern context for assessing unexplained aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Shows how unusual observations can become enduring stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how unusual observations can become enduring stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-skies-create-ambiguous-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-skies-create-ambiguous-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ For that reason, island geography is not a side issue in the São Tomé and Prí
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ For that reason, island geography is not a side issue in the São Tomé and Prí
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ For that reason, island geography is not a side issue in the São Tomé and Prí
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ For that reason, island geography is not a side issue in the São Tomé and Prí
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ For that reason, island geography is not a side issue in the São Tomé and Prí
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,125 +757,124 @@ For that reason, island geography is not a side issue in the São Tomé and Prí
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wacaprogram.org  
-   Link: <a href="https://www.wacaprogram.org/country/sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow">https://www.wacaprogram.org/country/sao-tome-and-principe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome and PrincipeThe country consists of an archipelago with two main islands, São Tomé Island which is 50 km long and 30 km wide, an...</p></details>
+   Link:<a href="https://www.wacaprogram.org/country/sao-tome-and-principe" target="_blank" rel="noopener noreferrer nofollow">https://www.wacaprogram.org/country/sao-tome-and-principe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sao Tome and PrincipeThe country consists of an archipelago with two main islands, São Tomé Island which is 50 km long and 30 km wide, an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/flights-to/tms/cheap-flights-to-sao-tome-is-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights-to/tms/cheap-flights-to-sao-tome-is-airport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights to Sao Tome Is (TMS) AirportLooking for flights to Sao Tome Is Airport? Compare major airlines and travel agents for ch...</p></details>
+   Link:<a href="https://www.skyscanner.net/flights-to/tms/cheap-flights-to-sao-tome-is-airport.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights-to/tms/cheap-flights-to-sao-tome-is-airport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights to Sao Tome Is (TMS) AirportLooking for flights to Sao Tome Is Airport? Compare major airlines and travel agents for ch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0308597X23005092" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0308597X23005092</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and maritime security in Africa: Opportunities...by I Okafor-Yarwood · 2024 · Cited by 53 — The Gulf of Guinea (...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0308597X23005092" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0308597X23005092</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and maritime security in Africa: Opportunities...by I Okafor-Yarwood · 2024 · Cited by 53 — The Gulf of Guinea (...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sailingissues.com  
-   Link: <a href="https://sailingissues.com/navcourse10.html" target="_blank" rel="noopener noreferrer nofollow">https://sailingissues.com/navcourse10.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights and shapes for marine navigation.Outstanding navigation course: lights and shapes, safety rules to prevent collission...</p></details>
+   Link:<a href="https://sailingissues.com/navcourse10.html" target="_blank" rel="noopener noreferrer nofollow">https://sailingissues.com/navcourse10.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights and shapes for marine navigation.Outstanding navigation course: lights and shapes, safety rules to prevent collission...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: global-limits.com  
-   Link: <a href="https://www.global-limits.com/sao-tome/race-details/location/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.global-limits.com/sao-tome/race-details/location/weather</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Location/Weather21 Feb 2026 — São Tomé has relatively little rainfall but constant temperature. It has a tropical climate with wet season...</p></details>
+   Link:<a href="https://www.global-limits.com/sao-tome/race-details/location/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.global-limits.com/sao-tome/race-details/location/weather</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Location/Weather21 Feb 2026 — São Tomé has relatively little rainfall but constant temperature. It has a tropical climate with wet season...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journeysbydesign.com  
-   Link: <a href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow">https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</p></details>
+   Link:<a href="https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go" target="_blank" rel="noopener noreferrer nofollow">https://journeysbydesign.com/destinations/sao-tome-principe/when-to-go</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journeys by DesignClimate in São Tomé and PríncipeThe climate in São Tomé and Príncipe is tropical, but the dramatic topography creates a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tripadvisor.co.uk  
    Title: Tripadvisor Sao Tome & Principe  
-   Link: <a href="https://www.tripadvisor.co.uk/ShowTopic-g294441-i10805-k14605941-Sao_Tome_Principe_practical_logistical_advice-Sao_Tome_and_Principe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/ShowTopic-g294441-i10805-k14605941-Sao_Tome_Principe_practical_logistical_advice-Sao_Tome_and_Principe.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There is a risk that the flight between the islands cannot take off/land as scheduled in case of...Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/ShowTopic-g294441-i10805-k14605941-Sao_Tome_Principe_practical_logistical_advice-Sao_Tome_and_Principe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/ShowTopic-g294441-i10805-k14605941-Sao_Tome_Principe_practical_logistical_advice-Sao_Tome_and_Principe.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There is a risk that the flight between the islands cannot take off/land as scheduled in case of...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rainbowtours.co.uk  
    Title: Rainbow Tours Príncipe Island Holidays  
-   Link: <a href="https://www.rainbowtours.co.uk/sao-tome-principe/principe-island" target="_blank" rel="noopener noreferrer nofollow">https://www.rainbowtours.co.uk/sao-tome-principe/principe-island</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just 19km long, its north coast is notched with castaway shores that include the perfectly curved Banana...Read more...</p></details>
+   Link:<a href="https://www.rainbowtours.co.uk/sao-tome-principe/principe-island" target="_blank" rel="noopener noreferrer nofollow">https://www.rainbowtours.co.uk/sao-tome-principe/principe-island</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just 19km long, its north coast is notched with castaway shores that include the perfectly curved Banana...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skyatnightmagazine.com  
    Title: african astronomy where to stargaze on the continent  
-   Link: <a href="https://www.skyatnightmagazine.com/advice/african-astronomy-where-to-stargaze-on-the-continent" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/african-astronomy-where-to-stargaze-on-the-continent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A lack of light pollution in remote areas is why Africa is worth considering as a dark sky destination, though...Read more...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/advice/african-astronomy-where-to-stargaze-on-the-continent" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/african-astronomy-where-to-stargaze-on-the-continent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A lack of light pollution in remote areas is why Africa is worth considering as a dark sky destination, though...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: visitpitcairn.pn  
    Title: dark sky  
-   Link: <a href="https://www.visitpitcairn.pn/dark-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.visitpitcairn.pn/dark-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Week — Visit Pitcairn - Open To ExploreThe Pitcairn Islands have exceptionally stunning dark skies, free from all light pollution...</p></details>
+   Link:<a href="https://www.visitpitcairn.pn/dark-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.visitpitcairn.pn/dark-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Week — Visit Pitcairn - Open To ExploreThe Pitcairn Islands have exceptionally stunning dark skies, free from all light pollution...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cruiserswiki.org  
    Title: Gulf of Guinea  
-   Link: <a href="https://www.cruiserswiki.org/wiki/Gulf_of_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.cruiserswiki.org/wiki/Gulf_of_Guinea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A sea port for eleven different nations and an oil-political hotspot.Read more...</p></details>
+   Link:<a href="https://www.cruiserswiki.org/wiki/Gulf_of_Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.cruiserswiki.org/wiki/Gulf_of_Guinea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A sea port for eleven different nations and an oil-political hotspot.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rainbowtours.co.uk  
    Title: Places To Go In São Tomé & Príncipe  
-   Link: <a href="https://www.rainbowtours.co.uk/sao-tome-principe/regions" target="_blank" rel="noopener noreferrer nofollow">https://www.rainbowtours.co.uk/sao-tome-principe/regions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainbow ToursPrincipe Island, Príncipe is the second largest island in the archipelago and reached by a 30-minute flight north from São T...</p></details>
+   Link:<a href="https://www.rainbowtours.co.uk/sao-tome-principe/regions" target="_blank" rel="noopener noreferrer nofollow">https://www.rainbowtours.co.uk/sao-tome-principe/regions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rainbow ToursPrincipe Island, Príncipe is the second largest island in the archipelago and reached by a 30-minute flight north from São T...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: darksky.org  
-   Link: <a href="https://darksky.org/what-we-do/international-dark-sky-places/apply/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/apply/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apply for Dark Sky Place certificationThe International Dark Sky Places Program is a conservation-based program rooted in grassroots advo...</p></details>
+   Link:<a href="https://darksky.org/what-we-do/international-dark-sky-places/apply/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/apply/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apply for Dark Sky Place certificationThe International Dark Sky Places Program is a conservation-based program rooted in grassroots advo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: expertisefrance.fr  
-   Link: <a href="https://www.expertisefrance.fr/sites/expertise/files/2025-07/map-eu-action-enhancing-maritime-security-in-the-gulf-of-guinea.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.expertisefrance.fr/sites/expertise/files/2025-07/map-eu-action-enhancing-maritime-security-in-the-gulf-of-guinea.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU ACTION ENHANCING MARITIME SECURITY IN THE...The Coordinated Maritime Presences (CMP) concept aims to address maritime security challe...</p></details>
+   Link:<a href="https://www.expertisefrance.fr/sites/expertise/files/2025-07/map-eu-action-enhancing-maritime-security-in-the-gulf-of-guinea.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.expertisefrance.fr/sites/expertise/files/2025-07/map-eu-action-enhancing-maritime-security-in-the-gulf-of-guinea.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU ACTION ENHANCING MARITIME SECURITY IN THE...The Coordinated Maritime Presences (CMP) concept aims to address maritime security challe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Geography_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geography of São Tomé and PríncipeSão Tomé and Príncipe is a small island country composed of an archipelago located in the Gulf of Gu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Geography_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geography of São Tomé and PríncipeSão Tomé and Príncipe is a small island country composed of an archipelago located in the Gulf of Gu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pelorustravel.com  
-   Link: <a href="https://pelorustravel.com/sao-tome-and-principe/experiences/idyllic-islands" target="_blank" rel="noopener noreferrer nofollow">https://pelorustravel.com/sao-tome-and-principe/experiences/idyllic-islands</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Idyllic Islands of São Tomé and PríncipeThe islands of São Tomé and Príncipe largely untouched and unexplored hold a magical charm. Cover...</p></details>
+   Link:<a href="https://pelorustravel.com/sao-tome-and-principe/experiences/idyllic-islands" target="_blank" rel="noopener noreferrer nofollow">https://pelorustravel.com/sao-tome-and-principe/experiences/idyllic-islands</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Idyllic Islands of São Tomé and PríncipeThe islands of São Tomé and Príncipe largely untouched and unexplored hold a magical charm. Cover...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ics-shipping.org  
-   Link: <a href="https://www.ics-shipping.org/wp-content/uploads/2020/03/BMP-West-Africa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics-shipping.org/wp-content/uploads/2020/03/BMP-West-Africa.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Chamber of ShippingBMP West AfricaDifferent types of vessels are used during attacks, these include fast small craft, fishi...</p></details>
+   Link:<a href="https://www.ics-shipping.org/wp-content/uploads/2020/03/BMP-West-Africa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics-shipping.org/wp-content/uploads/2020/03/BMP-West-Africa.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Chamber of ShippingBMP West AfricaDifferent types of vessels are used during attacks, these include fast small craft, fishi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kayak.co.uk  
-   Link: <a href="https://www.kayak.co.uk/S%C3%A3o-Tom%C3%A9-and-Pr%C3%ADncipe.211.dc.guide" target="_blank" rel="noopener noreferrer nofollow">https://www.kayak.co.uk/S%C3%A3o-Tom%C3%A9-and-Pr%C3%ADncipe.211.dc.guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>São Tomé and Príncipe Travel GuideFormed of two main islands and a few islets around them, São Tomé and Príncipe offers fascinating histo...</p></details>
+   Link:<a href="https://www.kayak.co.uk/S%C3%A3o-Tom%C3%A9-and-Pr%C3%ADncipe.211.dc.guide" target="_blank" rel="noopener noreferrer nofollow">https://www.kayak.co.uk/S%C3%A3o-Tom%C3%A9-and-Pr%C3%ADncipe.211.dc.guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>São Tomé and Príncipe Travel GuideFormed of two main islands and a few islets around them, São Tomé and Príncipe offers fascinating histo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: responsibletravel.com  
-   Link: <a href="https://www.responsibletravel.com/holidays/sao-tome-principe/travel-guide/best-time-to-visit-sao-tome-principe" target="_blank" rel="noopener noreferrer nofollow">https://www.responsibletravel.com/holidays/sao-tome-principe/travel-guide/best-time-to-visit-sao-tome-principe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first is December to February and the second is from June to September. The best time to go to São Tomé and...Read more...</p></details>
+   Link:<a href="https://www.responsibletravel.com/holidays/sao-tome-principe/travel-guide/best-time-to-visit-sao-tome-principe" target="_blank" rel="noopener noreferrer nofollow">https://www.responsibletravel.com/holidays/sao-tome-principe/travel-guide/best-time-to-visit-sao-tome-principe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first is December to February and the second is from June to September. The best time to go to São Tomé and...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: farandwild.travel  
    Title: where to go stargazing top places to see the night sky  
-   Link: <a href="https://farandwild.travel/wilder/article/where-to-go-stargazing-top-places-to-see-the-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://farandwild.travel/wilder/article/where-to-go-stargazing-top-places-to-see-the-night-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where to go Stargazing15 Nov 2024 — Away from the light pollution of Male, this remote island paradise offers some of the best stargazing...</p></details>
+   Link:<a href="https://farandwild.travel/wilder/article/where-to-go-stargazing-top-places-to-see-the-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://farandwild.travel/wilder/article/where-to-go-stargazing-top-places-to-see-the-night-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where to go Stargazing15 Nov 2024 — Away from the light pollution of Male, this remote island paradise offers some of the best stargazing...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: southpacificislands.travel  
-   Link: <a href="https://southpacificislands.travel/pitcairn-islands-to-leverage-astro-tourism-trend-by-becoming-a-dark-sky-sanctuary/" target="_blank" rel="noopener noreferrer nofollow">https://southpacificislands.travel/pitcairn-islands-to-leverage-astro-tourism-trend-by-becoming-a-dark-sky-sanctuary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as they embark on a journey to become an official &#x27;Dark Sky Sanctuary&#x27;.Read more...</p></details>
+   Link:<a href="https://southpacificislands.travel/pitcairn-islands-to-leverage-astro-tourism-trend-by-becoming-a-dark-sky-sanctuary/" target="_blank" rel="noopener noreferrer nofollow">https://southpacificislands.travel/pitcairn-islands-to-leverage-astro-tourism-trend-by-becoming-a-dark-sky-sanctuary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as they embark on a journey to become an official &#x27;Dark Sky Sanctuary&#x27;.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: seafarers.org  
    Title: maritime advisory gulf of guinea  
-   Link: <a href="https://www.seafarers.org/maritime-advisory-gulf-of-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://www.seafarers.org/maritime-advisory-gulf-of-guinea/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maritime Advisory: Gulf of Guinea7 Jul 2022 — Pirates, armed robbers, and KFR groups continue to operate off Nigeria, Benin, Cameroon, Eq...</p></details>
+   Link:<a href="https://www.seafarers.org/maritime-advisory-gulf-of-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://www.seafarers.org/maritime-advisory-gulf-of-guinea/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maritime Advisory: Gulf of Guinea7 Jul 2022 — Pirates, armed robbers, and KFR groups continue to operate off Nigeria, Benin, Cameroon, Eq...</p></details>

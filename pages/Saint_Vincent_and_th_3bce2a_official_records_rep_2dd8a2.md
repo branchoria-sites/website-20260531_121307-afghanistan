@@ -251,7 +251,7 @@ image: /assets/images/Saint_Vincent_and_th_3bce2a_official_records_rep_2dd8a2-Il
 [Saint Vincent and the Grenadines]({{ 'saint-vincent-and-the-grenadines/' | relative_url }}) does not have a dedicated public UFO archive, a government UAP task force or a large body of declassified case files. That makes source quality more important than case quantity. When unusual lights are reported over the Grenadines, the most reliable evidence usually comes from aviation checks, Coast Guard searches, meteorological observations and international astronomy databases rather than from social media claims or UFO websites.
 
 <img src="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_official_records_rep_2dd8a2-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_official_records_rep_2dd8a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_official_records_rep_2dd8a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The country’s best-known unidentified aerial incident, the July 2014 fiery object seen from Bequia, Mustique and mainland Saint Vincent, became notable precisely because local authorities attempted to verify it. Air traffic controllers accounted for scheduled flights, and the Coast Guard searched for wreckage before concluding that no aircraft loss or debris could be confirmed. The event remained unidentified, but it did not become evidence of an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+The country’s best-known unidentified aerial incident, the July 2014 fiery object seen from Bequia, Mustique and mainland Saint Vincent, became notable precisely because local authorities attempted to verify it. Air traffic controllers accounted for scheduled flights, and the Coast Guard searched for wreckage before concluding that no aircraft loss or debris could be confirmed. The event remained unidentified, but it did not become evidence of an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 For anyone trying to evaluate UFO reports in Saint Vincent and the Grenadines, the central question is not “where are the secret files?” but “which institutions can actually verify what happened in the sky?”
 
@@ -261,7 +261,7 @@ In Saint Vincent and the Grenadines, unusual aerial reports are most likely to p
 
 The most relevant bodies include:
 
-* The Airports Department and Air Traffic Control services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[searchlight.vc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">et joshua airport to wrap up operations next monday</span><span class="citation-popover-snippet">10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</span></span></span> * Meteorological services associated with aviation operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[searchlight.vc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">et joshua airport to wrap up operations next monday</span><span class="citation-popover-snippet">10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</span></span></span>
+* The Airports Department and Air Traffic Control services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[searchlight.vc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">et joshua airport to wrap up operations next monday</span><span class="citation-popover-snippet">10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</span></span></span> * Meteorological services associated with aviation operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[searchlight.vc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">et joshua airport to wrap up operations next monday</span><span class="citation-popover-snippet">10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -271,9 +271,9 @@ The most relevant bodies include:
 
 </div>
 
-The Airports Department's stated responsibilities include air traffic control operations, airport maintenance and meteorological services. That means it is one of the few institutions capable of checking whether an unusual light corresponds to a known aircraft movement, flight plan or weather-related phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: security.gov.vc">[Ministry of National Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">security.gov.vc</span><span class="citation-popover-snippet">Ministry of National SecurityAbout Us20 May 2010 — The Airports Department is a part of the Ministry of National Security, Air and Sea Po...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
+The Airports Department's stated responsibilities include air traffic control operations, airport maintenance and meteorological services. That means it is one of the few institutions capable of checking whether an unusual light corresponds to a known aircraft movement, flight plan or weather-related phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: security.gov.vc">[Ministry of National Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">security.gov.vc</span><span class="citation-popover-snippet">Ministry of National SecurityAbout Us20 May 2010 — The Airports Department is a part of the Ministry of National Security, Air and Sea Po...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
 
-The Coast Guard becomes important when witnesses believe an object may have entered the sea or when there are fears of an aircraft accident. During the July 2014 incident, officials first treated the reports as a possible aviation emergency. Air traffic checks reportedly accounted for scheduled flights, while a maritime search found no debris or wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/searchlight/category/front-page/page/97/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">Front Page Archives</span><span class="citation-popover-snippet">The attacks on the St Vincent and the Grenadines Coastguard Service by... For one minute at noon on December 24, the entire n...</span></span></span>
+The Coast Guard becomes important when witnesses believe an object may have entered the sea or when there are fears of an aircraft accident. During the July 2014 incident, officials first treated the reports as a possible aviation emergency. Air traffic checks reportedly accounted for scheduled flights, while a maritime search found no debris or wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/searchlight/category/front-page/page/97/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">Front Page Archives</span><span class="citation-popover-snippet">The attacks on the St Vincent and the Grenadines Coastguard Service by... For one minute at noon on December 24, the entire n...</span></span></span>
 
 That sequence matters because it illustrates the difference between a verified mystery and an unverified rumour. A sighting that triggers operational checks leaves a documentary trail. A sighting that exists only as a social-media post often does not.
 
@@ -281,7 +281,7 @@ That sequence matters because it illustrates the difference between a verified m
 
 Many UFO websites catalogue reports without establishing whether normal aviation explanations were excluded.
 
-For Saint Vincent and the Grenadines, aviation records are often the strongest available filter because the country's geography concentrates air traffic through a limited number of airports and island routes. If witnesses report a bright object near Bequia, Mustique, Canouan or Union Island, investigators can often begin by checking known aircraft activity in those corridors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/VC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Vincent &amp; The GrenadinesSeptember 15, 2014 — Aviators should always check with a country&#x27;s aviation authority or a local aviation handler...</span><span class="citation-popover-meta">Published: September 15, 2014</span></span></span>
+For Saint Vincent and the Grenadines, aviation records are often the strongest available filter because the country's geography concentrates air traffic through a limited number of airports and island routes. If witnesses report a bright object near Bequia, Mustique, Canouan or Union Island, investigators can often begin by checking known aircraft activity in those corridors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/VC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Vincent &amp; The GrenadinesSeptember 15, 2014 — Aviators should always check with a country&#x27;s aviation authority or a local aviation handler...</span><span class="citation-popover-meta">Published: September 15, 2014</span></span></span>
 
 A report becomes significantly more interesting only after ordinary explanations have been examined and found wanting.
 
@@ -304,13 +304,13 @@ Several problems appear repeatedly:
 
 This problem becomes more severe in countries with limited local reporting infrastructure. A dramatic light seen over the Grenadines may enter an international UFO database even when no official inquiry ever occurred. Readers can then mistake the existence of a database entry for evidence that authorities considered the event anomalous.
 
-The 2014 fiery-object case demonstrates why that distinction matters. The strongest evidence in the case comes not from UFO catalogues but from documented checks by air traffic authorities and the Coast Guard. The official response is more informative than the UFO label itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">et joshua airport to wrap up operations next monday</span><span class="citation-popover-snippet">10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</span></span></span>
+The 2014 fiery-object case demonstrates why that distinction matters. The strongest evidence in the case comes not from UFO catalogues but from documented checks by air traffic authorities and the Coast Guard. The official response is more informative than the UFO label itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">et joshua airport to wrap up operations next monday</span><span class="citation-popover-snippet">10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</span></span></span>
 
 ### The meteor problem
 
 Many Caribbean UFO reports resemble bright meteors, fireballs or atmospheric re-entry events.
 
-The American Meteor Society (AMS) maintains a large international reporting system that collects witness observations of bright fireballs and attempts to correlate multiple reports into single events. The organisation explicitly encourages witnesses to submit sightings so trajectories can be reconstructed when enough reports exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Fireball FAQsPersons who have seen a bright meteor event are encouraged to report their sighting to us. If multiple sightings of a single...</span></span></span>
+The American Meteor Society (AMS) maintains a large international reporting system that collects witness observations of bright fireballs and attempts to correlate multiple reports into single events. The organisation explicitly encourages witnesses to submit sightings so trajectories can be reconstructed when enough reports exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Fireball FAQsPersons who have seen a bright meteor event are encouraged to report their sighting to us. If multiple sightings of a single...</span></span></span>
 
 This matters because a witness who sees a bright green or orange object descending rapidly may honestly describe it as a UFO even when it is later identified as a meteor. In regions with limited astronomical coverage, the initial mystery can persist long after a likely explanation becomes available.
 
@@ -333,11 +333,11 @@ Witnesses should record where the object appeared, where it travelled and whethe
 
 **Third, compare multiple observers.**
 
-Reports from different islands can reveal whether an object was local or distant. The 2014 event gained credibility because people across multiple locations reported seeing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+Reports from different islands can reveal whether an object was local or distant. The 2014 event gained credibility because people across multiple locations reported seeing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 **Fourth, check meteor databases.**
 
-The American Meteor Society and International Meteor Organization maintain large collections of fireball reports that can reveal whether the same event was observed elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">Fireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the articles below and take...</span></span></span>
+The American Meteor Society and International Meteor Organization maintain large collections of fireball reports that can reveal whether the same event was observed elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">fireball report</span><span class="citation-popover-snippet">Fireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the articles below and take...</span></span></span>
 
 **Fifth, check aviation and maritime information.**
 
@@ -381,199 +381,199 @@ There is no publicly known equivalent of the United Kingdom's declassified Minis
 
 That does not mean unusual aerial events never occur. It means that most reports remain outside formal investigative systems unless they create a safety concern for aviation, maritime operations or emergency services.
 
-As a result, the most reliable evidence in Saint Vincent and the Grenadines tends to come from institutions that were not created to study UFOs at all. Air traffic controllers, meteorological services, Coast Guard searches and international fireball-monitoring networks provide the closest thing the country has to a dependable framework for evaluating unexplained objects in the sky. The scarcity of official UFO records makes those verification channels far more valuable than large collections of unverified sightings. amsmeteors.org 3Searchlight <span class="citation-chip-wrap"><a class="citation-chip" href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: security.gov.vc">[Ministry of National Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">security.gov.vc</span><span class="citation-popover-snippet">Ministry of National SecurityAbout Us20 May 2010 — The Airports Department is a part of the Ministry of National Security, Air and Sea Po...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
+As a result, the most reliable evidence in Saint Vincent and the Grenadines tends to come from institutions that were not created to study UFOs at all. Air traffic controllers, meteorological services, Coast Guard searches and international fireball-monitoring networks provide the closest thing the country has to a dependable framework for evaluating unexplained objects in the sky. The scarcity of official UFO records makes those verification channels far more valuable than large collections of unverified sightings. amsmeteors.org 3Searchlight<span class="citation-chip-wrap"><a class="citation-chip" href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: security.gov.vc">[Ministry of National Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">security.gov.vc</span><span class="citation-popover-snippet">Ministry of National SecurityAbout Us20 May 2010 — The Airports Department is a part of the Ministry of National Security, Air and Sea Po...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UP3c5UhlC8" title="UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer">UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official &middot; Views: 111.0K &middot; Uploaded: January 2025 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UP3c5UhlC8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Saint Vincent UFO Evidence Actually Comes From. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Saint Vincent UFO Evidence Actually Comes From. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Centres on official records, evidence and government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on official records, evidence and government investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses sourcing, testimony and documentary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses sourcing, testimony and documentary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explores records, agencies and investigative history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores records, agencies and investigative history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Built around official witnesses and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around official witnesses and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-saint-vincent-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ As a result, the most reliable evidence in Saint Vincent and the Grenadines tend
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ As a result, the most reliable evidence in Saint Vincent and the Grenadines tend
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ As a result, the most reliable evidence in Saint Vincent and the Grenadines tend
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ As a result, the most reliable evidence in Saint Vincent and the Grenadines tend
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ As a result, the most reliable evidence in Saint Vincent and the Grenadines tend
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,145 +776,144 @@ As a result, the most reliable evidence in Saint Vincent and the Grenadines tend
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: searchlight.vc  
    Title: We didn't find anything to say it was or wasn't a meteorite  
-   Link: <a href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</p></details>
+   Link:<a href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/VC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/VC.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent &amp; The GrenadinesSeptember 15, 2014 — Aviators should always check with a country&#x27;s aviation authority or a local aviation handler...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/VC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/VC.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent &amp; The GrenadinesSeptember 15, 2014 — Aviators should always check with a country&#x27;s aviation authority or a local aviation handler...</p></details>
    Published: September 15, 2014  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsPersons who have seen a bright meteor event are encouraged to report their sighting to us. If multiple sightings of a single...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsPersons who have seen a bright meteor event are encouraged to report their sighting to us. If multiple sightings of a single...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: <a href="https://amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/fireball-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the articles below and take...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/fireball-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the articles below and take...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...25 Mar 2026 — Meanwhile, the total number of individual long-duration sighting report...</p></details>
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...25 Mar 2026 — Meanwhile, the total number of individual long-duration sighting report...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>26, 2026 - Report a Fireball - American Meteor SocietyReports found: 2120 in the last 30 days Page 1 / 43; 3759k, 2026-05-25 20:00 UT, 2...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26, 2026 - Report a Fireball - American Meteor SocietyReports found: 2120 in the last 30 days Page 1 / 43; 3759k, 2026-05-25 20:00 UT, 2...</p></details>
    Published: May 25, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyLatest Major Fireball Events. Everyday, we receive reports about fireballs from all around the world. Here are som...</p></details>
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyLatest Major Fireball Events. Everyday, we receive reports about fireballs from all around the world. Here are som...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/videos?video_id=20424" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=20424</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMS event #10173-2025; Date 2025-12-27 17:59:00 EST; This video is related to. AMS #10173-2025; Location North Branford US; Geo Loc 4...</p></details>
+   Link:<a href="https://amsmeteors.org/videos?video_id=20424" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=20424</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMS event #10173-2025; Date 2025-12-27 17:59:00 EST; This video is related to. AMS #10173-2025; Location North Branford US; Geo Loc 4...</p></details>
    Published: December 27, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: searchlight.vc  
    Title: Front Page Archives  
-   Link: <a href="https://www.searchlight.vc/searchlight/category/front-page/page/97/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/searchlight/category/front-page/page/97/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The attacks on the St Vincent and the Grenadines Coastguard Service by... For one minute at noon on December 24, the entire n...</p></details>
+   Link:<a href="https://www.searchlight.vc/searchlight/category/front-page/page/97/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/searchlight/category/front-page/page/97/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The attacks on the St Vincent and the Grenadines Coastguard Service by... For one minute at noon on December 24, the entire n...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: searchlight.vc  
    Title: et joshua airport to wrap up operations next monday  
-   Link: <a href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</p></details>
+   Link:<a href="https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/front-page/2017/02/10/et-joshua-airport-to-wrap-up-operations-next-monday/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Feb 2017 — The new Aviation Services Department retains responsibility for air traffic control, meteorology, aeronautical information...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: security.gov.vc  
-   Link: <a href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of National SecurityAbout Us20 May 2010 — The Airports Department is a part of the Ministry of National Security, Air and Sea Po...</p></details>
+   Link:<a href="https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://security.gov.vc/security/index.php?Itemid=15&amp;id=4&amp;option=com_content&amp;view=article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of National SecurityAbout Us20 May 2010 — The Airports Department is a part of the Ministry of National Security, Air and Sea Po...</p></details>
    Published: May 2010  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r the fireball activity which is...Read more...</p></details>
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r the fireball activity which is...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe following chart shows fireball events reported by U.S. Government sensors for which geographic location data are provided...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe following chart shows fireball events reported by U.S. Government sensors for which geographic location data are provided...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scistarter.org  
    Title: American Meteor Society  
-   Link: <a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor observingJoin the American Meteor Society community and contribute valuable and precise data relating to meteor shower and firebal...</p></details>
+   Link:<a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor observingJoin the American Meteor Society community and contribute valuable and precise data relating to meteor shower and firebal...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: meteo.gov.vc  
-   Link: <a href="https://www.meteo.gov.vc/meteo/index.php/jobs/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.vc/meteo/index.php/jobs/faq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQThe main purpose of the Meteorological Services is to provide meteorological information such as aerodrome meteorological reports (MET...</p></details>
+   Link:<a href="https://www.meteo.gov.vc/meteo/index.php/jobs/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.vc/meteo/index.php/jobs/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQThe main purpose of the Meteorological Services is to provide meteorological information such as aerodrome meteorological reports (MET...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceHave you seen a fireball over the UK? Your reports help us calculate the trajectories of dust and rocks as they e...</p></details>
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceHave you seen a fireball over the UK? Your reports help us calculate the trajectories of dust and rocks as they e...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fireballs.imo.net  
-   Link: <a href="https://fireballs.imo.net/members/imo_view/browse_reports?country=GB%7CUnited+Kingdom&amp;org=spa" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo_view/browse_reports?country=GB%7CUnited+Kingdom&amp;org=spa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>imo.net338 in the last 30 days in United Kingdom (GB) Page 1 / 7Reports found: 338 in the last 30 days in United Kingdom (GB) Page 1 / 7...</p></details>
+   Link:<a href="https://fireballs.imo.net/members/imo_view/browse_reports?country=GB%7CUnited+Kingdom&amp;org=spa" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo_view/browse_reports?country=GB%7CUnited+Kingdom&amp;org=spa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>imo.net338 in the last 30 days in United Kingdom (GB) Page 1 / 7Reports found: 338 in the last 30 days in United Kingdom (GB) Page 1 / 7...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/svgairports/posts/at-argyle-international-airport-precision-isnt-just-about-the-runway-its-about-t/973176888377332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/svgairports/posts/at-argyle-international-airport-precision-isnt-just-about-the-runway-its-about-t/973176888377332/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and landing is backed by informed science for a more sustainable future...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/svgairports/posts/at-argyle-international-airport-precision-isnt-just-about-the-runway-its-about-t/973176888377332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/svgairports/posts/at-argyle-international-airport-precision-isnt-just-about-the-runway-its-about-t/973176888377332/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and landing is backed by informed science for a more sustainable future...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t the weed. Don&#x27;t know who been smoking what, but the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iwnsvg/posts/no-plane-crash-in-bequia-belmardeputy-director-of-grenadine-affairs-herman-belma/10153026808537589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t the weed. Don&#x27;t know who been smoking what, but the...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: alliancehydromet.org  
    Title: CHD Report St. Vincent and the Grenadines  
-   Link: <a href="https://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Report-St.-Vincent-and-the-Grenadines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Report-St.-Vincent-and-the-Grenadines.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 1960, the SVGMS initially had the main task to operate a single weather station, staffed by air traffic services personnel, providing...</p></details>
+   Link:<a href="https://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Report-St.-Vincent-and-the-Grenadines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Report-St.-Vincent-and-the-Grenadines.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in 1960, the SVGMS initially had the main task to operate a single weather station, staffed by air traffic services personnel, providing...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: caribank.org  
    Title: canouan airport rehabilitation project  
-   Link: <a href="https://www.caribank.org/work-with-us/procurement/procurement-notices/canouan-airport-rehabilitation-project" target="_blank" rel="noopener noreferrer nofollow">https://www.caribank.org/work-with-us/procurement/procurement-notices/canouan-airport-rehabilitation-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Aug 2025 — It also includes the supply and installation of advanced Air Traffic Control and Automated Weather Observation Systems, com...</p></details>
+   Link:<a href="https://www.caribank.org/work-with-us/procurement/procurement-notices/canouan-airport-rehabilitation-project" target="_blank" rel="noopener noreferrer nofollow">https://www.caribank.org/work-with-us/procurement/procurement-notices/canouan-airport-rehabilitation-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Aug 2025 — It also includes the supply and installation of advanced Air Traffic Control and Automated Weather Observation Systems, com...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: icao.int  
    Title: NANP SaintVincentandGrenadines 181109  
-   Link: <a href="https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Vincent and Grenadines State Air Navigation Plan9 Nov 2018 — Background. The ICAO Global Air Navigation Plan (Doc 9750, GANP) provi...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/NACC/Documents/NANPs/NANP-SaintVincentandGrenadines-181109.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Vincent and Grenadines State Air Navigation Plan9 Nov 2018 — Background. The ICAO Global Air Navigation Plan (Doc 9750, GANP) provi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rfo.org  
-   Link: <a href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://rfo.org/index.php/report-a-fireball/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rroundings, the fireball behavior, and...Read more...</p></details>
+   Link:<a href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://rfo.org/index.php/report-a-fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rroundings, the fireball behavior, and...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Pilot&#x27;s Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Pilot&#x27;s Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus...</p></details>

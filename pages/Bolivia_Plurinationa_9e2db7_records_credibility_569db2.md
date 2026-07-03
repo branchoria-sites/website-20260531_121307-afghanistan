@@ -251,7 +251,7 @@ image: /assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Ill
 Bolivia’s UFO record is notable less for a single proven incident than for the difficulty of separating documentation from myth. Unlike countries that eventually created military reporting systems or released structured archives, Bolivia developed a fragmented UFO culture built from newspaper stories, radio interviews, local investigators, scattered witness accounts and later internet reposts. The result is a national UFO narrative with genuine historical traces at its core, but major credibility gaps around evidence, sourcing and preservation.
 
 <img src="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-dark.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean every Bolivian case is fabricated. Some incidents clearly entered official or semi-official channels, including reports noticed by foreign intelligence services and recurring regional press coverage. But the absence of a public national archive means that even widely repeated stories often rest on weak foundations: missing documents, second-hand testimony, uncertain dates, duplicated anecdotes and retrospective embellishment. The practical question for readers is therefore not “Did Bolivia have UFO incidents?” but “Which claims are actually documented, and how reliable are the records behind them?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of reports that an unidentified object fell in Folivian territory near...Read more...</span></span></span>
+That does not mean every Bolivian case is fabricated. Some incidents clearly entered official or semi-official channels, including reports noticed by foreign intelligence services and recurring regional press coverage. But the absence of a public national archive means that even widely repeated stories often rest on weak foundations: missing documents, second-hand testimony, uncertain dates, duplicated anecdotes and retrospective embellishment. The practical question for readers is therefore not “Did Bolivia have UFO incidents?” but “Which claims are actually documented, and how reliable are the records behind them?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of reports that an unidentified object fell in Folivian territory near...Read more...</span></span></span>
 
 ## The Missing Central Archive Problem
 
@@ -273,7 +273,7 @@ The lack of centralisation produces several recurring distortions.
 
 First, stories become inflated over time. A report of an unidentified falling object may evolve into a “crashed extraterrestrial craft”, then later into claims of alien bodies or foreign recovery teams without new primary evidence appearing at any stage.
 
-Second, the same incident often circulates in multiple contradictory versions. Dates, locations, witness counts and object descriptions shift depending on the source. This is especially visible in retellings of the 1978 Tarija incident, where descriptions range from “metallic cylinder” to “flying saucer”, and where later narratives introduce dramatic recovery operations not clearly supported by contemporary reporting. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span>
+Second, the same incident often circulates in multiple contradictory versions. Dates, locations, witness counts and object descriptions shift depending on the source. This is especially visible in retellings of the 1978 Tarija incident, where descriptions range from “metallic cylinder” to “flying saucer”, and where later narratives introduce dramatic recovery operations not clearly supported by contemporary reporting. CIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span>
 
 Third, records are highly vulnerable to disappearance. Bolivia’s regional media landscape historically depended on local radio stations and newspapers with limited archiving. Many original reports from the 1970s and 1980s are now inaccessible or survive only as references in later UFO literature. This creates an unusual situation in which modern summaries are often easier to find than the original source material they supposedly describe.
 
@@ -294,7 +294,7 @@ What gives the Tarija incident some historical weight is not proof of extraterre
 
 </div>
 
-The CIA reading-room document often cited by researchers is narrower than later UFO retellings suggest. It confirms discussion of reports concerning a fallen unidentified object in Bolivian territory, but it does not validate claims about alien craft, recovered bodies or confirmed non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</span></span></span>
+The CIA reading-room document often cited by researchers is narrower than later UFO retellings suggest. It confirms discussion of reports concerning a fallen unidentified object in Bolivian territory, but it does not validate claims about alien craft, recovered bodies or confirmed non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</span></span></span>
 
 This distinction matters because many later articles blur the line between:
 
@@ -318,7 +318,7 @@ Over time, secondary sources added dramatic details such as:
 
 </div>
 
-Yet many of these additions trace back to repeated ufology retellings rather than independently verifiable primary documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tarija case ufo crash bolivia</span><span class="citation-popover-snippet">As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</span></span></span>
+Yet many of these additions trace back to repeated ufology retellings rather than independently verifiable primary documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tarija case ufo crash bolivia</span><span class="citation-popover-snippet">As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</span></span></span>
 
 That does not automatically debunk the case. It simply means the evidentiary ceiling remains lower than enthusiasts often imply.
 
@@ -344,7 +344,7 @@ At the same time, private ufology introduces unavoidable reliability problems:
 
 Some local investigators openly acknowledge the lack of official records while simultaneously claiming large numbers of sightings. That combination illustrates the central tension of Bolivian ufology: there may indeed be many reports, but quantity is not the same as verification.
 
-The strongest contribution of local ufologists is therefore preservation rather than proof. They often document oral history and regional belief systems effectively. The weakest area is evidentiary filtering. In many cases, unexplained sightings, folklore, speculation and highly extraordinary narratives are presented together without clear separation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[inexplicata.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">bolivia hundred ufos crossed skies</span><span class="citation-popover-snippet">Bolivia: &quot;A Hundred UFOs Crossed The Skies, Sightings...Apr 23, 2026 — Among the most notable cases are the alleged UFO crashes in Tarij...</span></span></span>
+The strongest contribution of local ufologists is therefore preservation rather than proof. They often document oral history and regional belief systems effectively. The weakest area is evidentiary filtering. In many cases, unexplained sightings, folklore, speculation and highly extraordinary narratives are presented together without clear separation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[inexplicata.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">bolivia hundred ufos crossed skies</span><span class="citation-popover-snippet">Bolivia: &quot;A Hundred UFOs Crossed The Skies, Sightings...Apr 23, 2026 — Among the most notable cases are the alleged UFO crashes in Tarij...</span></span></span>
 
 ## Press Reports: Useful but Easily Distorted
 
@@ -374,7 +374,7 @@ A local sighting receives modest regional coverage. Later UFO publications cite 
 
 Many articles refer vaguely to “hundreds” or “thousands” of witnesses without publishing names, independent statements or verifiable testimony. Over decades, estimated witness counts often increase.
 
-The Tarija case is a prime example. Modern retellings frequently describe thousands of witnesses and massive blast effects, but the surviving evidence base for those numerical claims is inconsistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://howandwhys.com/bolivia-ufo-crash-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howandwhys.com">[How and Why&#x27;s]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howandwhys.com</span><span class="citation-popover-title">bolivia ufo crash 1978</span><span class="citation-popover-snippet">Most Credible UFO Case Of South...Jun 30, 2021 — It is estimated that hundreds or maybe even thousands of people from Tarija, Bolivia wi...</span></span></span>
+The Tarija case is a prime example. Modern retellings frequently describe thousands of witnesses and massive blast effects, but the surviving evidence base for those numerical claims is inconsistent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://howandwhys.com/bolivia-ufo-crash-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howandwhys.com">[How and Why&#x27;s]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howandwhys.com</span><span class="citation-popover-title">bolivia ufo crash 1978</span><span class="citation-popover-snippet">Most Credible UFO Case Of South...Jun 30, 2021 — It is estimated that hundreds or maybe even thousands of people from Tarija, Bolivia wi...</span></span></span>
 
 ### The unresolved-object problem
 
@@ -395,7 +395,7 @@ may continue circulating indefinitely as “unsolved UFOs” because no later co
 <img src="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-2-dark.svg" | relative_url }}" alt="Credibility illustration 2" data-theme-src-dark="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What NUFORC and International Databases Actually Tell Us
 
-International databases such as the National UFO Reporting Center (NUFORC) provide useful but limited evidence about Bolivian sightings. They demonstrate that reports continue to emerge from places including La Paz, Cochabamba, Potosí, Santa Cruz and Lake Titicaca areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=17133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 17133ON THE 29TH OF MARCH 2001, IN THE CITIES OF LA PAZ, COCHABAMBA AND POTOSI OF BOLIVIA, SOUTHAMERICA ONE FLYING SA...</span><span class="citation-popover-meta">Published: MARCH 2001</span></span></span>
+International databases such as the National UFO Reporting Center (NUFORC) provide useful but limited evidence about Bolivian sightings. They demonstrate that reports continue to emerge from places including La Paz, Cochabamba, Potosí, Santa Cruz and Lake Titicaca areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=17133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 17133ON THE 29TH OF MARCH 2001, IN THE CITIES OF LA PAZ, COCHABAMBA AND POTOSI OF BOLIVIA, SOUTHAMERICA ONE FLYING SA...</span><span class="citation-popover-meta">Published: MARCH 2001</span></span></span>
 
 However, these databases are often misunderstood.
 
@@ -407,7 +407,7 @@ NUFORC records are primarily self-reported submissions. They preserve witness na
 
 It does not mean the event was authenticated.
 
-This distinction becomes especially important in Bolivia because some online writers treat database inclusion as confirmation. In reality, NUFORC functions more like a repository of claims than a resolved catalogue of phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+This distinction becomes especially important in Bolivia because some online writers treat database inclusion as confirmation. In reality, NUFORC functions more like a repository of claims than a resolved catalogue of phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
 Still, these databases have genuine value. They allow researchers to identify:
 
@@ -463,7 +463,7 @@ These cases contain contemporary documentation or independently verifiable trace
 * physical debris with known provenance,
 * confirmed dates and locations.
 
-The Tarija incident partially enters this tier because some official and archival traces exist, even though the extraordinary interpretations remain unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of reports that an unidentified object fell in Folivian territory near...Read more...</span></span></span>
+The Tarija incident partially enters this tier because some official and archival traces exist, even though the extraordinary interpretations remain unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of reports that an unidentified object fell in Folivian territory near...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7UtH8-o5kg" title="9. CONTACTO CON TRIPULANTES DE OVNIS - PABLO SANTA CRUZ (BOLIVIA)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7UtH8-o5kg" target="_blank" rel="noopener noreferrer">9. CONTACTO CON TRIPULANTES DE OVNIS - PABLO SANTA CRUZ (BOLIVIA).</a></p><p class="youtube-embed-meta">Channel: PROYECTO OVNIS - UFOLOGÍA HIPERBÓREA &middot; Views: 338 &middot; Uploaded: April 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7UtH8-o5kg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7UtH8-o5kg">Open on YouTube</a></p></div></div></div>
 
@@ -477,7 +477,7 @@ These include:
 * photographs or recordings with identifiable provenance,
 * repeated independent accounts lacking definitive explanation.
 
-Many NUFORC Bolivia reports fall into this category. They may be sincere and interesting but remain unresolved rather than validated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186728" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18672816 Jan 2025 — Occurred: 2020-08-04 19:00 Local - Approximate; Reported: 2025-01-11 00:20 Pacific; Duration: E...</span><span class="citation-popover-meta">Published: August 4, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</span></span></span>
+Many NUFORC Bolivia reports fall into this category. They may be sincere and interesting but remain unresolved rather than validated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186728" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18672816 Jan 2025 — Occurred: 2020-08-04 19:00 Local - Approximate; Reported: 2025-01-11 00:20 Pacific; Duration: E...</span><span class="citation-popover-meta">Published: August 4, 2020</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</span></span></span>
 
 ### Low credibility tier
 
@@ -505,194 +505,194 @@ The most important lesson is not that Bolivia contains definitive proof of extra
 For researchers, Bolivia remains interesting precisely because the record is uneven. There are enough documented traces to show that unusual aerial reports genuinely entered public discussion, but not enough consolidated evidence to support many of the more dramatic claims attached to them. The challenge is therefore not uncovering a hidden master archive, but learning how to distinguish between historical residue, unresolved observation and mythology layered on top of both.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Bolivia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Bolivia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Directly addresses evidence quality and investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence quality and investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for weighing report credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for weighing report credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how stronger cases are documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how stronger cases are documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches critical thinking for assessing extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches critical thinking for assessing extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-bolivia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-are-bolivia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -708,7 +708,7 @@ For researchers, Bolivia remains interesting precisely because the record is une
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -728,7 +728,7 @@ For researchers, Bolivia remains interesting precisely because the record is une
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -760,7 +760,7 @@ For researchers, Bolivia remains interesting precisely because the record is une
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -812,7 +812,7 @@ For researchers, Bolivia remains interesting precisely because the record is une
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -857,7 +857,7 @@ For researchers, Bolivia remains interesting precisely because the record is une
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -895,125 +895,124 @@ For researchers, Bolivia remains interesting precisely because the record is une
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005515665</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005515665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of reports that an unidentified object fell in Folivian territory near...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reports that an unidentified object fell in Folivian territory near...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: inexplicata.blogspot.com  
    Title: bolivia hundred ufos crossed skies  
-   Link: <a href="https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivia: &quot;A Hundred UFOs Crossed The Skies, Sightings...Apr 23, 2026 — Among the most notable cases are the alleged UFO crashes in Tarij...</p></details>
+   Link:<a href="https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivia: &quot;A Hundred UFOs Crossed The Skies, Sightings...Apr 23, 2026 — Among the most notable cases are the alleged UFO crashes in Tarij...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=17133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=17133</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17133ON THE 29TH OF MARCH 2001, IN THE CITIES OF LA PAZ, COCHABAMBA AND POTOSI OF BOLIVIA, SOUTHAMERICA ONE FLYING SA...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=17133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=17133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17133ON THE 29TH OF MARCH 2001, IN THE CITIES OF LA PAZ, COCHABAMBA AND POTOSI OF BOLIVIA, SOUTHAMERICA ONE FLYING SA...</p></details>
    Published: MARCH 2001  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=186728" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186728</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18672816 Jan 2025 — Occurred: 2020-08-04 19:00 Local - Approximate; Reported: 2025-01-11 00:20 Pacific; Duration: E...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=186728" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186728</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18672816 Jan 2025 — Occurred: 2020-08-04 19:00 Local - Approximate; Reported: 2025-01-11 00:20 Pacific; Duration: E...</p></details>
    Published: August 4, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/anomalyblog/other-paradises-scientific-fictions-3587db85a65d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/anomalyblog/other-paradises-scientific-fictions-3587db85a65d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OTHER PARADISES: Scientific Fictions | by Jessica SequeiraQ: Are there UFOs in Bolivia? A: Well, we should clarify that Bolivia is a UFO...</p></details>
+   Link:<a href="https://medium.com/anomalyblog/other-paradises-scientific-fictions-3587db85a65d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/anomalyblog/other-paradises-scientific-fictions-3587db85a65d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OTHER PARADISES: Scientific Fictions | by Jessica SequeiraQ: Are there UFOs in Bolivia? A: Well, we should clarify that Bolivia is a UFO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thinkaboutitdocs.com  
    Title: 1978 ufo crash in bolivia witnessed by thousands  
-   Link: <a href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</p></details>
    Published: May 6, 1978  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoinsight.com  
    Title: the tarija case ufo crash bolivia  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: howandwhys.com  
    Title: bolivia ufo crash 1978  
-   Link: <a href="https://howandwhys.com/bolivia-ufo-crash-1978/" target="_blank" rel="noopener noreferrer nofollow">https://howandwhys.com/bolivia-ufo-crash-1978/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most Credible UFO Case Of South...Jun 30, 2021 — It is estimated that hundreds or maybe even thousands of people from Tarija, Bolivia wi...</p></details>
+   Link:<a href="https://howandwhys.com/bolivia-ufo-crash-1978/" target="_blank" rel="noopener noreferrer nofollow">https://howandwhys.com/bolivia-ufo-crash-1978/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most Credible UFO Case Of South...Jun 30, 2021 — It is estimated that hundreds or maybe even thousands of people from Tarija, Bolivia wi...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/historyandmystery/posts/1293703882405676/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/historyandmystery/posts/1293703882405676/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien lives in Bolivia after spaceship crashResidents participate in Bolivia, a UFO crashes with an alien astronaut on board. UFO, Aliens...</p></details>
+   Link:<a href="https://www.facebook.com/groups/historyandmystery/posts/1293703882405676/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/historyandmystery/posts/1293703882405676/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien lives in Bolivia after spaceship crashResidents participate in Bolivia, a UFO crashes with an alien astronaut on board. UFO, Aliens...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documentamusac.org  
-   Link: <a href="https://documentamusac.org/ficha/ovni-archive/" target="_blank" rel="noopener noreferrer nofollow">https://documentamusac.org/ficha/ovni-archive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ovni Archivo = UFO ArchiveOvni Archivo = UFO Archive... Notas: Contiene un libreto de imágenes cosido en la mitad del libro.... Edición...</p></details>
+   Link:<a href="https://documentamusac.org/ficha/ovni-archive/" target="_blank" rel="noopener noreferrer nofollow">https://documentamusac.org/ficha/ovni-archive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ovni Archivo = UFO ArchiveOvni Archivo = UFO Archive... Notas: Contiene un libreto de imágenes cosido en la mitad del libro.... Edición...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EnTiempoRealEC/posts/-mundo-trump-publica-primeros-archivos-desclasificados-sobre-ovnis-y-vida-extrat/1566902832102696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnTiempoRealEC/posts/-mundo-trump-publica-primeros-archivos-desclasificados-sobre-ovnis-y-vida-extrat/1566902832102696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump publica primeros archivos desclasificados sobre...OVNI Bolivia de Tercer Ojo ▻ UFO, Aliens, Moon, Mars, Paranormal... Ed-misterio...</p></details>
+   Link:<a href="https://www.facebook.com/EnTiempoRealEC/posts/-mundo-trump-publica-primeros-archivos-desclasificados-sobre-ovnis-y-vida-extrat/1566902832102696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnTiempoRealEC/posts/-mundo-trump-publica-primeros-archivos-desclasificados-sobre-ovnis-y-vida-extrat/1566902832102696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump publica primeros archivos desclasificados sobre...OVNI Bolivia de Tercer Ojo ▻ UFO, Aliens, Moon, Mars, Paranormal... Ed-misterio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/qlsrf0/ufo_crash_in_tarija_bolivia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qlsrf0/ufo_crash_in_tarija_bolivia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash in Tarija, BoliviaStatement: We travel to Bolivia to hear the extraordinary story of a UFO crash in the mountains of Tarija. Wh...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/qlsrf0/ufo_crash_in_tarija_bolivia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qlsrf0/ufo_crash_in_tarija_bolivia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash in Tarija, BoliviaStatement: We travel to Bolivia to hear the extraordinary story of a UFO crash in the mountains of Tarija. Wh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNUFORC. 147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of...</p></details>
+   Link:<a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNUFORC. 147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of...</p></details>
    Published: January 16, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ElCallaoTv/posts/ovnis-reveladosel-pent%C3%A1gono-public%C3%B3-documentos-secretos-sobre-ovnis-un-tema-de-i/1818029759643048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ElCallaoTv/posts/ovnis-reveladosel-pent%C3%A1gono-public%C3%B3-documentos-secretos-sobre-ovnis-un-tema-de-i/1818029759643048/</a>  
+   Link:<a href="https://www.facebook.com/ElCallaoTv/posts/ovnis-reveladosel-pent%C3%A1gono-public%C3%B3-documentos-secretos-sobre-ovnis-un-tema-de-i/1818029759643048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ElCallaoTv/posts/ovnis-reveladosel-pent%C3%A1gono-public%C3%B3-documentos-secretos-sobre-ovnis-un-tema-de-i/1818029759643048/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: trump ordena desclasificar archivos sobre ovnis y vida extraterrestreel preside  
-   Link: <a href="https://www.facebook.com/infocaleta/posts/-trump-ordena-desclasificar-archivos-sobre-ovnis-y-vida-extraterrestreel-preside/1734468314210194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/infocaleta/posts/-trump-ordena-desclasificar-archivos-sobre-ovnis-y-vida-extraterrestreel-preside/1734468314210194/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 Trump ordena desclasificar archivos sobre OVNIs y vida...OVNI Bolivia de Tercer Ojo ▻ UFO, Aliens, Moon, Mars, Paranormal &amp; Conspiraci...</p></details>
+   Link:<a href="https://www.facebook.com/infocaleta/posts/-trump-ordena-desclasificar-archivos-sobre-ovnis-y-vida-extraterrestreel-preside/1734468314210194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/infocaleta/posts/-trump-ordena-desclasificar-archivos-sobre-ovnis-y-vida-extraterrestreel-preside/1734468314210194/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 Trump ordena desclasificar archivos sobre OVNIs y vida...OVNI Bolivia de Tercer Ojo ▻ UFO, Aliens, Moon, Mars, Paranormal &amp; Conspiraci...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufoac.com  
    Title: the most reliable ufo case in south america. bolivian ufo crash of 1978  
-   Link: <a href="https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivian UFO crash of 1978It is estimated that hundreds or perhaps even thousands of people from Tarija, Bolivia, witnessed the fall of a...</p></details>
+   Link:<a href="https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivian UFO crash of 1978It is estimated that hundreds or perhaps even thousands of people from Tarija, Bolivia, witnessed the fall of a...</p></details>

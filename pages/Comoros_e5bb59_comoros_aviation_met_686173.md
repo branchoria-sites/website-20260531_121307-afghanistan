@@ -248,26 +248,26 @@ image: /assets/images/Comoros_e5bb59_comoros_aviation_met_686173-Illustration-1-
 
 ## Introduction
 
-Comoros does not maintain a publicly known UFO or UAP investigation office, but the country does operate a small aviation and meteorological structure that would be central to verifying any serious aerial anomaly. In practical terms, the institutions most likely to encounter credible reports are not police or military bodies but the National Agency for Civil Aviation and Meteorology (ANACM), airport operators, air-traffic services, and meteorological observers attached to civil aviation systems. These organisations manage flight safety, weather monitoring, incident reporting, and communications with international aviation bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://anacm-comores.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anacm-comores.com">[2anacm-comores.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anacm-comores.com</span><span class="citation-popover-snippet">ANACM: Accueil... Aviation Civile. Elle est placée sous la tutelle du Ministre chargé de l&#x27;Aviation Civile. Nous contacter. -773 80 03...</span></span></span>
+Comoros does not maintain a publicly known UFO or UAP investigation office, but the country does operate a small aviation and meteorological structure that would be central to verifying any serious aerial anomaly. In practical terms, the institutions most likely to encounter credible reports are not police or military bodies but the National Agency for Civil Aviation and Meteorology (ANACM), airport operators, air-traffic services, and meteorological observers attached to civil aviation systems. These organisations manage flight safety, weather monitoring, incident reporting, and communications with international aviation bodies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://anacm-comores.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anacm-comores.com">[2anacm-comores.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anacm-comores.com</span><span class="citation-popover-snippet">ANACM: Accueil... Aviation Civile. Elle est placée sous la tutelle du Ministre chargé de l&#x27;Aviation Civile. Nous contacter. -773 80 03...</span></span></span>
 
 <img src="{{ "/assets/images/Comoros_e5bb59_comoros_aviation_met_686173-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Records illustration 1" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_comoros_aviation_met_686173-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_comoros_aviation_met_686173-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That infrastructure matters because many UAP reports worldwide ultimately intersect with ordinary aviation questions: radar returns, pilot observations, unusual weather signatures, satellite re-entries, drones, volcanic haze, atmospheric optics, or unidentified aircraft traffic. In Comoros, where documentation is sparse and aviation capacity is limited, the absence of dramatic public UAP records may say more about institutional scale and archival visibility than about the complete absence of unexplained sightings.
 
 ## National Agency for Civil Aviation and Meteorology
 
-The key institution is the Agence Nationale de l’Aviation Civile et de la Météorologie (ANACM), usually translated as the National Agency for Civil Aviation and Meteorology. It functions as Comoros’ civil aviation authority and also oversees meteorological responsibilities linked to aviation safety. Its headquarters are in Moroni. <span class="citation-chip-wrap"><a class="citation-chip" href="https://meteocomores.km/documents/3/code_anacm1_oihXSrH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteocomores.km">[Meteo Comoros]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteocomores.km</span><span class="citation-popover-snippet">Code de l&#x27;Aviation Civile.Dans la présente loi, le terme « Agence » désigne l&#x27;Agence Nationale de l&#x27;Aviation Civile et de la Météorologie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Civil_Aviation_and_Meteorological_Agency_%28Comoros%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Civil Aviation and Meteorological Agency (Comoros</span><span class="citation-popover-snippet">National Civil Aviation and Meteorological Agency (Comoros)The civil aviation authority of the Comoros. It is also in charge of invest...</span></span></span> For UAP-related analysis, the agency matters for three reasons:
+The key institution is the Agence Nationale de l’Aviation Civile et de la Météorologie (ANACM), usually translated as the National Agency for Civil Aviation and Meteorology. It functions as Comoros’ civil aviation authority and also oversees meteorological responsibilities linked to aviation safety. Its headquarters are in Moroni.<span class="citation-chip-wrap"><a class="citation-chip" href="https://meteocomores.km/documents/3/code_anacm1_oihXSrH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteocomores.km">[Meteo Comoros]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteocomores.km</span><span class="citation-popover-snippet">Code de l&#x27;Aviation Civile.Dans la présente loi, le terme « Agence » désigne l&#x27;Agence Nationale de l&#x27;Aviation Civile et de la Météorologie...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Civil_Aviation_and_Meteorological_Agency_%28Comoros%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Civil Aviation and Meteorological Agency (Comoros</span><span class="citation-popover-snippet">National Civil Aviation and Meteorological Agency (Comoros)The civil aviation authority of the Comoros. It is also in charge of invest...</span></span></span> For UAP-related analysis, the agency matters for three reasons:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * it oversees regulated civil airspace;
 * it is responsible for aviation incident reporting and investigation;
-* it manages aviation-linked meteorological services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caabahamas.com/wp-content/uploads/2020/10/022-SCH-Part-F_BCAA-Aviation-Meteorological-Services-2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caabahamas.com">[caabahamas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caabahamas.com</span><span class="citation-popover-snippet">Schedule 22 Part F – Aviation Meteorological ServicesA meteorological centre designated to prepare and issue significant weather forecast...</span></span></span>
+* it manages aviation-linked meteorological services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://caabahamas.com/wp-content/uploads/2020/10/022-SCH-Part-F_BCAA-Aviation-Meteorological-Services-2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caabahamas.com">[caabahamas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caabahamas.com</span><span class="citation-popover-snippet">Schedule 22 Part F – Aviation Meteorological ServicesA meteorological centre designated to prepare and issue significant weather forecast...</span></span></span>
 
 </div>
 
-ANACM operates within the broader framework of the International Civil Aviation Organization (ICAO), the United Nations aviation body that standardises air safety and reporting procedures worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/about-icao/member-states" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Member States NOTE</span><span class="citation-popover-snippet">Member StatesNOTE - This is the official list of short names of ICAO Contracting States, for use in all general documentation and pub...</span></span></span> In principle, that means unusual aerial events affecting flight safety should enter structured reporting systems rather than remaining purely anecdotal.
+ANACM operates within the broader framework of the International Civil Aviation Organization (ICAO), the United Nations aviation body that standardises air safety and reporting procedures worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/about-icao/member-states" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Member States NOTE</span><span class="citation-popover-snippet">Member StatesNOTE - This is the official list of short names of ICAO Contracting States, for use in all general documentation and pub...</span></span></span> In principle, that means unusual aerial events affecting flight safety should enter structured reporting systems rather than remaining purely anecdotal.
 
-The agency’s legal and operational responsibilities include aircraft oversight, airport regulation, incident investigation, and technical aviation compliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span> DevelopmentAid Although no public ANACM archive comparable to United States UAP disclosure material is known to exist <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.developmentaid.org/organizations/view/413896/anacm-national-agency-for-civil-aviation-and-meteorology-agence-nationale-de-laviation-civile-et-de" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developmentaid.org">[developmentaid.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developmentaid.org</span><span class="citation-popover-title">Development Aid☑️ANACM</span><span class="citation-popover-snippet">☑️ANACM - National Agency for Civil Aviation and...The civil aviation authority of the Comoros. It is also in charge of investigating av...</span></span></span>, the agency would be the natural repository for any pilot reports involving unidentified traffic, unexplained lights near airports, or radar anomalies affecting civil aviation.
+The agency’s legal and operational responsibilities include aircraft oversight, airport regulation, incident investigation, and technical aviation compliance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span> DevelopmentAid Although no public ANACM archive comparable to United States UAP disclosure material is known to exist<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.developmentaid.org/organizations/view/413896/anacm-national-agency-for-civil-aviation-and-meteorology-agence-nationale-de-laviation-civile-et-de" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developmentaid.org">[developmentaid.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developmentaid.org</span><span class="citation-popover-title">Development Aid☑️ANACM</span><span class="citation-popover-snippet">☑️ANACM - National Agency for Civil Aviation and...The civil aviation authority of the Comoros. It is also in charge of investigating av...</span></span></span>, the agency would be the natural repository for any pilot reports involving unidentified traffic, unexplained lights near airports, or radar anomalies affecting civil aviation.
 
 This becomes especially important because Comoros has relatively limited airspace complexity. A smaller aviation environment can cut both ways for UAP interpretation:
 
@@ -282,23 +282,23 @@ Meteorology is deeply connected to aviation anomaly interpretation. Around the w
 
 Comoros’ meteorological capability is relatively modest but operationally important because the islands sit in a region with rapidly changing maritime weather, tropical systems, volcanic effects, and strong atmospheric moisture gradients over the Mozambique Channel.
 
-The Directorate of Meteorology operates within ANACM rather than as a fully separate national weather bureau. A recent hydrometeorological diagnostic report described it as a technical department of the aviation agency itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-soff.org/wp-content/uploads/2024/10/Rapport_CHD_Comores.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-soff.org">[un-soff.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-soff.org</span><span class="citation-popover-snippet">COUNTRY HYDROMET DIAGNOSTICSThe Directorate of Meteorology in the Union of the Comoros is a technical department of the National Agency f...</span></span></span> This institutional overlap reflects the country’s scale: aviation weather support and national meteorological observation are closely intertwined.
+The Directorate of Meteorology operates within ANACM rather than as a fully separate national weather bureau. A recent hydrometeorological diagnostic report described it as a technical department of the aviation agency itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-soff.org/wp-content/uploads/2024/10/Rapport_CHD_Comores.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-soff.org">[un-soff.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-soff.org</span><span class="citation-popover-snippet">COUNTRY HYDROMET DIAGNOSTICSThe Directorate of Meteorology in the Union of the Comoros is a technical department of the National Agency f...</span></span></span> This institutional overlap reflects the country’s scale: aviation weather support and national meteorological observation are closely intertwined.
 
 For UAP assessment, the most relevant weather-monitoring functions include:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* aerodrome weather observations; <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Weather Observations at AerodromesThis article describes how the aerodrome weather observation data is obtained and disseminated...</span></span></span>
+* aerodrome weather observations;<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Weather Observations at AerodromesThis article describes how the aerodrome weather observation data is obtained and disseminated...</span></span></span>
 * cloud and visibility reporting;
 * storm and turbulence monitoring;
-* wind-shear detection; <span class="citation-chip-wrap"><a class="citation-chip" href="https://amc.namem.gov.mn/wp-content/uploads/WMO/12.%20904_2023-edition_en.pdf?_t=1638837870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amc.namem.gov.mn">[amc.namem.gov.mn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amc.namem.gov.mn</span><span class="citation-popover-snippet">to Aeronautical Meteorological Services Cost...The meteorological services for international air navigation include: meteorological obse...</span></span></span>
+* wind-shear detection;<span class="citation-chip-wrap"><a class="citation-chip" href="https://amc.namem.gov.mn/wp-content/uploads/WMO/12.%20904_2023-edition_en.pdf?_t=1638837870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amc.namem.gov.mn">[amc.namem.gov.mn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amc.namem.gov.mn</span><span class="citation-popover-snippet">to Aeronautical Meteorological Services Cost...The meteorological services for international air navigation include: meteorological obse...</span></span></span>
 * communications with international meteorological systems.
 
 </div>
 
-The World Meteorological Organization notes that aviation meteorology exists specifically to help pilots and controllers identify dangerous or unusual atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wmo.int/topics/aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmo.int</span><span class="citation-popover-snippet">World Meteorological OrganizationAviationMarch 19, 2023 — Up-to-date weather forecasts help pilots, air traffic controllers, airline oper...</span><span class="citation-popover-meta">Published: March 19, 2023</span></span></span> In a UAP context, these same systems can help distinguish extraordinary claims from ordinary but poorly understood weather events.
+The World Meteorological Organization notes that aviation meteorology exists specifically to help pilots and controllers identify dangerous or unusual atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wmo.int/topics/aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmo.int</span><span class="citation-popover-snippet">World Meteorological OrganizationAviationMarch 19, 2023 — Up-to-date weather forecasts help pilots, air traffic controllers, airline oper...</span><span class="citation-popover-meta">Published: March 19, 2023</span></span></span> In a UAP context, these same systems can help distinguish extraordinary claims from ordinary but poorly understood weather events.
 
-Comoros has also expanded some of its observational infrastructure in recent years. A UN-supported resilience project funded automated weather stations for the islands, improving local climate and atmospheric monitoring capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campbellsci.com/union-comoros-weather-stations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campbellsci.com">[Campbell Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campbellsci.com</span><span class="citation-popover-title">Campbell Scientific Union of the Comoros: Establishment of Four Weather</span><span class="citation-popover-snippet">Campbell ScientificUnion of the Comoros: Establishment of Four Weather...March 25, 2026 — The international agency has funded the acquis...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span> These systems are primarily designed for weather forecasting and disaster resilience rather than anomaly detection, but additional automated observations can still assist later reconstruction of unusual aerial events.
+Comoros has also expanded some of its observational infrastructure in recent years. A UN-supported resilience project funded automated weather stations for the islands, improving local climate and atmospheric monitoring capacity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.campbellsci.com/union-comoros-weather-stations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: campbellsci.com">[Campbell Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">campbellsci.com</span><span class="citation-popover-title">Campbell Scientific Union of the Comoros: Establishment of Four Weather</span><span class="citation-popover-snippet">Campbell ScientificUnion of the Comoros: Establishment of Four Weather...March 25, 2026 — The international agency has funded the acquis...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span> These systems are primarily designed for weather forecasting and disaster resilience rather than anomaly detection, but additional automated observations can still assist later reconstruction of unusual aerial events.
 
 For example, if witnesses reported a glowing object over the islands during severe convective weather, archived meteorological data could help determine whether lightning activity, storm anvils, or unusual atmospheric refraction conditions were present at the time.
 
@@ -322,7 +322,7 @@ Large countries with dense radar networks can sometimes compare:
 
 Comoros does not publicly appear to operate that kind of layered surveillance environment. Much of its aviation monitoring depends on standard civil aviation procedures and regional coordination rather than a dense national detection network.
 
-The country’s Flight Information Region, identified internationally as FMMM, is managed through conventional aviation coordination systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flytag.co/locations/africa/comoros-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flytag.co">[FLYTAG FLIGHT SUPPORT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flytag.co</span><span class="citation-popover-title">comoros overflight and landing permits</span><span class="citation-popover-snippet">FLYTAG FLIGHT SUPPORTComoros Overflight Permits 2026 – Fast ApprovalGet trusted Comoros overflight permits with fast, compliant coordinat...</span></span></span> However, open-source material does not indicate extensive publicly accessible radar archives or advanced independent aerospace tracking systems.
+The country’s Flight Information Region, identified internationally as FMMM, is managed through conventional aviation coordination systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flytag.co/locations/africa/comoros-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flytag.co">[FLYTAG FLIGHT SUPPORT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flytag.co</span><span class="citation-popover-title">comoros overflight and landing permits</span><span class="citation-popover-snippet">FLYTAG FLIGHT SUPPORTComoros Overflight Permits 2026 – Fast ApprovalGet trusted Comoros overflight permits with fast, compliant coordinat...</span></span></span> However, open-source material does not indicate extensive publicly accessible radar archives or advanced independent aerospace tracking systems.
 
 That limitation matters because many UAP claims rely heavily on the absence of explanation rather than the presence of strong evidence. In a low-surveillance environment:
 
@@ -341,9 +341,9 @@ The islands’ geography adds another complication. Comoros sits in an oceanic c
 
 Globally, pilot sightings are often treated as the most credible category of UAP testimony because trained observers are accustomed to judging altitude, movement, lighting, and aircraft behaviour. Yet even pilots can misinterpret unfamiliar atmospheric or astronomical phenomena.
 
-Comoros follows international aviation safety norms sufficiently to maintain incident-reporting procedures through ANACM and ICAO-aligned systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://anacm-comores.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anacm-comores.com">[2anacm-comores.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anacm-comores.com</span><span class="citation-popover-snippet">ANACM: Accueil... Aviation Civile. Elle est placée sous la tutelle du Ministre chargé de l&#x27;Aviation Civile. Nous contacter. -773 80 03...</span></span></span> In theory, if a commercial or charter pilot encountered unexplained traffic near Comorian airspace, the event could enter aviation safety channels even if it never became public.
+Comoros follows international aviation safety norms sufficiently to maintain incident-reporting procedures through ANACM and ICAO-aligned systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://anacm-comores.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anacm-comores.com">[2anacm-comores.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anacm-comores.com</span><span class="citation-popover-snippet">ANACM: Accueil... Aviation Civile. Elle est placée sous la tutelle du Ministre chargé de l&#x27;Aviation Civile. Nous contacter. -773 80 03...</span></span></span> In theory, if a commercial or charter pilot encountered unexplained traffic near Comorian airspace, the event could enter aviation safety channels even if it never became public.
 
-Meteorological reporting procedures used internationally illustrate how these systems work. Aviation weather observation frameworks routinely incorporate special air reports from pilots concerning turbulence, icing, storms, visibility changes, or unusual atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Weather Observations at AerodromesThis article describes how the aerodrome weather observation data is obtained and disseminated...</span></span></span> A genuinely unexplained aerial observation affecting flight safety could therefore appear indirectly inside broader operational reporting systems rather than in a dedicated “UFO” file.
+Meteorological reporting procedures used internationally illustrate how these systems work. Aviation weather observation frameworks routinely incorporate special air reports from pilots concerning turbulence, icing, storms, visibility changes, or unusual atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Weather Observations at AerodromesThis article describes how the aerodrome weather observation data is obtained and disseminated...</span></span></span> A genuinely unexplained aerial observation affecting flight safety could therefore appear indirectly inside broader operational reporting systems rather than in a dedicated “UFO” file.
 
 However, several practical limitations reduce public visibility:
 
@@ -410,162 +410,162 @@ The result is a country where aviation and weather infrastructure exists in func
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Comoros Flight and Weather Systems Track Unusual Aerial Objects. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Comoros Flight and Weather Systems Track Unusual Aerial Objects. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes pilot observations and institutional reporting issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes pilot observations and institutional reporting issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigation methods relevant to aviation and radar-linked reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigation methods relevant to aviation and radar-linked reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Offers insight into aviation systems, aircraft observation, and aerospace reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into aviation systems, aircraft observation, and aerospace reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Provides background on atmospheric effects that can influence aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on atmospheric effects that can influence aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meanwhile On Mars Embroidered Iron/Sew On Patch. Alien Extraterrestrial (H4)"><img src="https://i.ebayimg.com/images/g/3FMAAOSw2VpmnWmS/s-l225.jpg" alt="Listing image for Meanwhile On Mars Embroidered Iron/Sew On Patch. Alien Extraterrestrial (H4)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer">Meanwhile On Mars Embroidered Iron/Sew On Patch. Alien Extraterrestrial (H4)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Have UFOs Been Seen patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Have UFOs Been Seen patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meanwhile On Mars Embroidered Iron/Sew On Patch. Alien Extraterrestrial (H4)"><img src="https://i.ebayimg.com/images/g/3FMAAOSw2VpmnWmS/s-l225.jpg" alt="Listing image for Meanwhile On Mars Embroidered Iron/Sew On Patch. Alien Extraterrestrial (H4)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer">Meanwhile On Mars Embroidered Iron/Sew On Patch. Alien Extraterrestrial (H4)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Have UFOs Been Seen patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Have UFOs Been Seen patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges"><img src="https://i.ebayimg.com/images/g/4LMAAOSwnN9j8h39/s-l225.jpg" alt="Listing image for UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Have UFOs Been Seen patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Have UFOs Been Seen patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges"><img src="https://i.ebayimg.com/images/g/4LMAAOSwnN9j8h39/s-l225.jpg" alt="Listing image for UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Abduction Butthole NASA Mars Moon Patch Badge Patches Badges</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Have UFOs Been Seen patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Have UFOs Been Seen patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Have+UFOs+Been+Seen+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Have UFOs Been Seen patch" data-ebay-reference="how-comoros-flight-and-weather-systems-track-unusual-aerial-objects-have-ufos-been-seen-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ The result is a country where aviation and weather infrastructure exists in func
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ The result is a country where aviation and weather infrastructure exists in func
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ The result is a country where aviation and weather infrastructure exists in func
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ The result is a country where aviation and weather infrastructure exists in func
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ The result is a country where aviation and weather infrastructure exists in func
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,138 +771,138 @@ The result is a country where aviation and weather infrastructure exists in func
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: anacm-comores.com  
-   Link: <a href="https://anacm-comores.com/" target="_blank" rel="noopener noreferrer nofollow">https://anacm-comores.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANACM: Accueil... Aviation Civile. Elle est placée sous la tutelle du Ministre chargé de l&#x27;Aviation Civile. Nous contacter. -773 80 03...</p></details>
+   Link:<a href="https://anacm-comores.com/" target="_blank" rel="noopener noreferrer nofollow">https://anacm-comores.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANACM: Accueil... Aviation Civile. Elle est placée sous la tutelle du Ministre chargé de l&#x27;Aviation Civile. Nous contacter. -773 80 03...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Civil Aviation and Meteorological Agency (Comoros)  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Civil_Aviation_and_Meteorological_Agency_%28Comoros%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Civil_Aviation_and_Meteorological_Agency_%28Comoros%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Civil Aviation and Meteorological Agency (Comoros)The civil aviation authority of the Comoros. It is also in charge of invest...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Civil_Aviation_and_Meteorological_Agency_%28Comoros%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Civil_Aviation_and_Meteorological_Agency_%28Comoros%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Civil Aviation and Meteorological Agency (Comoros)The civil aviation authority of the Comoros. It is also in charge of invest...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: icao.int  
    Title: Member States NOTE  
-   Link: <a href="https://www.icao.int/about-icao/member-states" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/about-icao/member-states</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Member StatesNOTE - This is the official list of short names of ICAO Contracting States, for use in all general documentation and pub...</p></details>
+   Link:<a href="https://www.icao.int/about-icao/member-states" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/about-icao/member-states</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Member StatesNOTE - This is the official list of short names of ICAO Contracting States, for use in all general documentation and pub...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: developmentaid.org  
    Title: Development Aid☑️ANACM  
-   Link: <a href="https://www.developmentaid.org/organizations/view/413896/anacm-national-agency-for-civil-aviation-and-meteorology-agence-nationale-de-laviation-civile-et-de" target="_blank" rel="noopener noreferrer nofollow">https://www.developmentaid.org/organizations/view/413896/anacm-national-agency-for-civil-aviation-and-meteorology-agence-nationale-de-laviation-civile-et-de</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>☑️ANACM - National Agency for Civil Aviation and...The civil aviation authority of the Comoros. It is also in charge of investigating av...</p></details>
+   Link:<a href="https://www.developmentaid.org/organizations/view/413896/anacm-national-agency-for-civil-aviation-and-meteorology-agence-nationale-de-laviation-civile-et-de" target="_blank" rel="noopener noreferrer nofollow">https://www.developmentaid.org/organizations/view/413896/anacm-national-agency-for-civil-aviation-and-meteorology-agence-nationale-de-laviation-civile-et-de</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>☑️ANACM - National Agency for Civil Aviation and...The civil aviation authority of the Comoros. It is also in charge of investigating av...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: un-soff.org  
-   Link: <a href="https://www.un-soff.org/wp-content/uploads/2024/10/Rapport_CHD_Comores.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un-soff.org/wp-content/uploads/2024/10/Rapport_CHD_Comores.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTRY HYDROMET DIAGNOSTICSThe Directorate of Meteorology in the Union of the Comoros is a technical department of the National Agency f...</p></details>
+   Link:<a href="https://www.un-soff.org/wp-content/uploads/2024/10/Rapport_CHD_Comores.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un-soff.org/wp-content/uploads/2024/10/Rapport_CHD_Comores.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTRY HYDROMET DIAGNOSTICSThe Directorate of Meteorology in the Union of the Comoros is a technical department of the National Agency f...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: flytag.co  
    Title: comoros overflight and landing permits  
-   Link: <a href="https://flytag.co/locations/africa/comoros-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/locations/africa/comoros-overflight-and-landing-permits.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYTAG FLIGHT SUPPORTComoros Overflight Permits 2026 – Fast ApprovalGet trusted Comoros overflight permits with fast, compliant coordinat...</p></details>
+   Link:<a href="https://flytag.co/locations/africa/comoros-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/locations/africa/comoros-overflight-and-landing-permits.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYTAG FLIGHT SUPPORTComoros Overflight Permits 2026 – Fast ApprovalGet trusted Comoros overflight permits with fast, compliant coordinat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/weather-observations-aerodromes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Observations at AerodromesThis article describes how the aerodrome weather observation data is obtained and disseminated...</p></details>
+   Link:<a href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/weather-observations-aerodromes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Observations at AerodromesThis article describes how the aerodrome weather observation data is obtained and disseminated...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/afiplan-contractingstates" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/afiplan-contractingstates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFIPlan-ContractingStatesComoros/Comores. Monsieur Jean-Marc HEINTZ. Directeur Général. Agence Nationale de l&#x27;Aviation Civile et de la Mé...</p></details>
+   Link:<a href="https://www.icao.int/afiplan-contractingstates" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/afiplan-contractingstates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFIPlan-ContractingStatesComoros/Comores. Monsieur Jean-Marc HEINTZ. Directeur Général. Agence Nationale de l&#x27;Aviation Civile et de la Mé...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: epicflightacademy.com  
-   Link: <a href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aviation-authority-comoros/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</p></details>
+   Link:<a href="https://epicflightacademy.com/aviation-authority-comoros/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aviation-authority-comoros/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyComoros Agency of Civil Aviation and MeteorologyThe Agency of Civil Aviation and Meteorology oversees aviation operati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: meteocomores.km  
-   Link: <a href="https://meteocomores.km/documents/3/code_anacm1_oihXSrH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meteocomores.km/documents/3/code_anacm1_oihXSrH.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code de l&#x27;Aviation Civile.Dans la présente loi, le terme « Agence » désigne l&#x27;Agence Nationale de l&#x27;Aviation Civile et de la Météorologie...</p></details>
+   Link:<a href="https://meteocomores.km/documents/3/code_anacm1_oihXSrH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meteocomores.km/documents/3/code_anacm1_oihXSrH.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code de l&#x27;Aviation Civile.Dans la présente loi, le terme « Agence » désigne l&#x27;Agence Nationale de l&#x27;Aviation Civile et de la Météorologie...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wmo.int  
-   Link: <a href="https://wmo.int/topics/aviation" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/topics/aviation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Meteorological OrganizationAviationMarch 19, 2023 — Up-to-date weather forecasts help pilots, air traffic controllers, airline oper...</p></details>
+   Link:<a href="https://wmo.int/topics/aviation" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/topics/aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Meteorological OrganizationAviationMarch 19, 2023 — Up-to-date weather forecasts help pilots, air traffic controllers, airline oper...</p></details>
    Published: March 19, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: campbellsci.com  
    Title: Campbell Scientific Union of the Comoros: Establishment of Four Weather  
-   Link: <a href="https://www.campbellsci.com/union-comoros-weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.com/union-comoros-weather-stations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campbell ScientificUnion of the Comoros: Establishment of Four Weather...March 25, 2026 — The international agency has funded the acquis...</p></details>
+   Link:<a href="https://www.campbellsci.com/union-comoros-weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.com/union-comoros-weather-stations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campbell ScientificUnion of the Comoros: Establishment of Four Weather...March 25, 2026 — The international agency has funded the acquis...</p></details>
    Published: March 25, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: atc-network.com  
    Title: ANAC M  
-   Link: <a href="https://www.atc-network.com/atc-organisations/anacm-national-agency-for-civil-aviation-and-meteorology" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/anacm-national-agency-for-civil-aviation-and-meteorology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visiting address: Moroni. Postal address: PO Box: 97 Comoros. Contact: Tel 73 09 48.Read more...</p></details>
+   Link:<a href="https://www.atc-network.com/atc-organisations/anacm-national-agency-for-civil-aviation-and-meteorology" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/anacm-national-agency-for-civil-aviation-and-meteorology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visiting address: Moroni. Postal address: PO Box: 97 Comoros. Contact: Tel 73 09 48.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: travel.state.gov  
-   Link: <a href="https://travel.state.gov/en/international-travel/travel-advisories/comoros.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/en/international-travel/travel-advisories/comoros.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travel Advisory | Travel.State.govJan 22, 2026 — There is no full-time official U.S. presence in Comoros. Consular services for U.S. citi...</p></details>
+   Link:<a href="https://travel.state.gov/en/international-travel/travel-advisories/comoros.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/en/international-travel/travel-advisories/comoros.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travel Advisory | Travel.State.govJan 22, 2026 — There is no full-time official U.S. presence in Comoros. Consular services for U.S. citi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caabahamas.com  
-   Link: <a href="https://caabahamas.com/wp-content/uploads/2020/10/022-SCH-Part-F_BCAA-Aviation-Meteorological-Services-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caabahamas.com/wp-content/uploads/2020/10/022-SCH-Part-F_BCAA-Aviation-Meteorological-Services-2017.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schedule 22 Part F – Aviation Meteorological ServicesA meteorological centre designated to prepare and issue significant weather forecast...</p></details>
+   Link:<a href="https://caabahamas.com/wp-content/uploads/2020/10/022-SCH-Part-F_BCAA-Aviation-Meteorological-Services-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caabahamas.com/wp-content/uploads/2020/10/022-SCH-Part-F_BCAA-Aviation-Meteorological-Services-2017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schedule 22 Part F – Aviation Meteorological ServicesA meteorological centre designated to prepare and issue significant weather forecast...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amc.namem.gov.mn  
-   Link: <a href="https://amc.namem.gov.mn/wp-content/uploads/WMO/12.%20904_2023-edition_en.pdf?_t=1638837870" target="_blank" rel="noopener noreferrer nofollow">https://amc.namem.gov.mn/wp-content/uploads/WMO/12.%20904_2023-edition_en.pdf?_t=1638837870</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Aeronautical Meteorological Services Cost...The meteorological services for international air navigation include: meteorological obse...</p></details>
+   Link:<a href="https://amc.namem.gov.mn/wp-content/uploads/WMO/12.%20904_2023-edition_en.pdf?_t=1638837870" target="_blank" rel="noopener noreferrer nofollow">https://amc.namem.gov.mn/wp-content/uploads/WMO/12.%20904_2023-edition_en.pdf?_t=1638837870</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Aeronautical Meteorological Services Cost...The meteorological services for international air navigation include: meteorological obse...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pacificmet.net  
-   Link: <a href="https://www.pacificmet.net/pmc/expert-panels/piaws" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificmet.net/pmc/expert-panels/piaws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific Island Aviation Weather Services (PIAWS) PanelThe purpose of PIAWS Panel is to provide technical advice to PMC on matters relatin...</p></details>
+   Link:<a href="https://www.pacificmet.net/pmc/expert-panels/piaws" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificmet.net/pmc/expert-panels/piaws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific Island Aviation Weather Services (PIAWS) PanelThe purpose of PIAWS Panel is to provide technical advice to PMC on matters relatin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ucas.com.sa  
-   Link: <a href="https://www.ucas.com.sa/en/overflight-permits/21" target="_blank" rel="noopener noreferrer nofollow">https://www.ucas.com.sa/en/overflight-permits/21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Caravan AviationComoros Overflight PermitComoros Civil Aviation Authority; Postal Address: National Agency of Civil Aviation a...</p></details>
+   Link:<a href="https://www.ucas.com.sa/en/overflight-permits/21" target="_blank" rel="noopener noreferrer nofollow">https://www.ucas.com.sa/en/overflight-permits/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Caravan AviationComoros Overflight PermitComoros Civil Aviation Authority; Postal Address: National Agency of Civil Aviation a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVvGPqJDRBk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvGPqJDRBk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Mwanri, met with the outgoing Ambassador of Tanzania to the Union of Comoros, Ambassador Said Yakub.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVvGPqJDRBk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvGPqJDRBk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Mwanri, met with the outgoing Ambassador of Tanzania to the Union of Comoros, Ambassador Said Yakub.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: preventionweb.net  
-   Link: <a href="https://www.preventionweb.net/organization/agence-nationale-pour-laviation-civile-et-la-meteorologie-des-comores" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/organization/agence-nationale-pour-laviation-civile-et-la-meteorologie-des-comores</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mise en œuvre de la réduction des risques de catastrophes et de la résilience...Read more...</p></details>
+   Link:<a href="https://www.preventionweb.net/organization/agence-nationale-pour-laviation-civile-et-la-meteorologie-des-comores" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/organization/agence-nationale-pour-laviation-civile-et-la-meteorologie-des-comores</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mise en œuvre de la réduction des risques de catastrophes et de la résilience...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/www.anaciml.sn/posts/lanacim-dans-la-lettre-dinformation-bilan-du-projet-case-iile-projet-case-ii-s%C3%BBr/1360375208192646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/www.anaciml.sn/posts/lanacim-dans-la-lettre-dinformation-bilan-du-projet-case-iile-projet-case-ii-s%C3%BBr/1360375208192646/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E II (sûreté de l&#x27;aviation civile) est un projet financé par l&#x27;Union...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/www.anaciml.sn/posts/lanacim-dans-la-lettre-dinformation-bilan-du-projet-case-iile-projet-case-ii-s%C3%BBr/1360375208192646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/www.anaciml.sn/posts/lanacim-dans-la-lettre-dinformation-bilan-du-projet-case-iile-projet-case-ii-s%C3%BBr/1360375208192646/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E II (sûreté de l&#x27;aviation civile) est un projet financé par l&#x27;Union...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: atta.travel  
    Title: comoros strengthens aviation partnerships  
-   Link: <a href="https://atta.travel/resource/comoros-strengthens-aviation-partnerships.html" target="_blank" rel="noopener noreferrer nofollow">https://atta.travel/resource/comoros-strengthens-aviation-partnerships.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 2, 2025 — Led by the Director General of the National Agency for Civil Aviation and Meteorology (ANACM), Abdou Mondoha Abdillahi, the...</p></details>
+   Link:<a href="https://atta.travel/resource/comoros-strengthens-aviation-partnerships.html" target="_blank" rel="noopener noreferrer nofollow">https://atta.travel/resource/comoros-strengthens-aviation-partnerships.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 2, 2025 — Led by the Director General of the National Agency for Civil Aviation and Meteorology (ANACM), Abdou Mondoha Abdillahi, the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents1.worldbank.org  
-   Link: <a href="https://documents1.worldbank.org/curated/en/150651468194048078/txt/ICR20310P083750C0disclosed010160140.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/150651468194048078/txt/ICR20310P083750C0disclosed010160140.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documents &amp; ReportsThe positive aspects of the Project are noticeable in the civil aviation sector in each country.... la sécurité aérie...</p></details>
+   Link:<a href="https://documents1.worldbank.org/curated/en/150651468194048078/txt/ICR20310P083750C0disclosed010160140.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/150651468194048078/txt/ICR20310P083750C0disclosed010160140.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documents &amp; ReportsThe positive aspects of the Project are noticeable in the civil aviation sector in each country.... la sécurité aérie...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-comoros/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-comoros/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>good rule of thumb for flying in Comoros...Read more...</p></details>
+   Link:<a href="https://uavcoach.com/drone-laws-in-comoros/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-comoros/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>good rule of thumb for flying in Comoros...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast...</p></details>

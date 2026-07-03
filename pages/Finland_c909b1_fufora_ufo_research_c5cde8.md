@@ -248,14 +248,14 @@ image: /assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-1-s
 
 ## Introduction
 
-Civilian UFO research in [Finland]({{ 'finland/' | relative_url }}) has been shaped less by state investigation than by long-running volunteer organisations that collect reports, interview witnesses, preserve archives, and debate possible explanations. The most influential of these groups is the Finnish UFO Research Association, commonly known as FUFORA or by its Finnish name *Suomen Ufotutkijat ry* (SUT), founded in Tampere in 1973. Over several decades, FUFORA has become the country’s main clearing house for UFO sighting reports, maintaining archives, publishing research material, and encouraging more systematic reporting standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/english/about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">About us:: FuforaThe Finnish UFO Research Association (FUFORA), known as &quot;Suomen Ufotutkijat ry&quot; (SUT) in Finnish, was founded in...</span></span></span>
+Civilian UFO research in [Finland]({{ 'finland/' | relative_url }}) has been shaped less by state investigation than by long-running volunteer organisations that collect reports, interview witnesses, preserve archives, and debate possible explanations. The most influential of these groups is the Finnish UFO Research Association, commonly known as FUFORA or by its Finnish name *Suomen Ufotutkijat ry* (SUT), founded in Tampere in 1973. Over several decades, FUFORA has become the country’s main clearing house for UFO sighting reports, maintaining archives, publishing research material, and encouraging more systematic reporting standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/english/about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">About us:: FuforaThe Finnish UFO Research Association (FUFORA), known as &quot;Suomen Ufotutkijat ry&quot; (SUT) in Finnish, was founded in...</span></span></span>
 
 <img src="{{ "/assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-1-dark.svg" | relative_url }}" alt="FUFORA Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of these organisations in Finland lies not in proving extraterrestrial claims, but in preserving otherwise fragmented testimony. Finland’s UFO history contains military observations, regional “waves” of sightings, and local folklore around unexplained lights, especially in northern and eastern regions. Without civilian groups, many of these accounts would have remained isolated newspaper stories or private memories. At the same time, Finnish sceptical organisations and science-oriented critics have challenged extraordinary interpretations, creating an unusually visible tension between documentation and debunking in the Finnish UFO landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Skepsis ry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Skepsis ry</span></span></span>
+The importance of these organisations in Finland lies not in proving extraterrestrial claims, but in preserving otherwise fragmented testimony. Finland’s UFO history contains military observations, regional “waves” of sightings, and local folklore around unexplained lights, especially in northern and eastern regions. Without civilian groups, many of these accounts would have remained isolated newspaper stories or private memories. At the same time, Finnish sceptical organisations and science-oriented critics have challenged extraordinary interpretations, creating an unusually visible tension between documentation and debunking in the Finnish UFO landscape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Skepsis ry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Skepsis ry</span></span></span>
 
 ## How FUFORA Became Finland’s Main UFO Archive
 
-FUFORA emerged during a period of heightened UFO interest across Europe and North America. Founded in 1973, the association defined its role less as a belief movement and more as a research and documentation body. Its official mission has centred on collecting reports, analysing unexplained aerial phenomena, publishing findings, and maintaining communication between investigators and witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">Oletko nähnyt ilmiön, joka on mielestäsi ns. tunnistamaton lentävä kohde, josta käytetään lyhennettä UFO?Read more...</span></span></span>
+FUFORA emerged during a period of heightened UFO interest across Europe and North America. Founded in 1973, the association defined its role less as a belief movement and more as a research and documentation body. Its official mission has centred on collecting reports, analysing unexplained aerial phenomena, publishing findings, and maintaining communication between investigators and witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">Oletko nähnyt ilmiön, joka on mielestäsi ns. tunnistamaton lentävä kohde, josta käytetään lyhennettä UFO?Read more...</span></span></span>
 
 From the beginning, the association tried to distinguish itself from sensationalist UFO culture. Finnish researchers associated with FUFORA promoted structured witness interviews, report forms, geographical indexing, and comparison of independent observations. This mattered in Finland because many sightings occurred in sparsely populated regions where corroborating evidence was difficult to obtain quickly.
 
@@ -271,9 +271,9 @@ FUFORA gradually developed several core functions:
 
 </div>
 
-The association’s archives became particularly important for preserving reports from the late 1960s and early 1970s, a period that included the Pudasjärvi sightings and the widely discussed 1969 Finnish Air Force incident near Pori. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFOs of Pudasjärvi</span><span class="citation-popover-snippet">UFOs of Pudasjärvi</span></span></span>
+The association’s archives became particularly important for preserving reports from the late 1960s and early 1970s, a period that included the Pudasjärvi sightings and the widely discussed 1969 Finnish Air Force incident near Pori.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFOs of Pudasjärvi</span><span class="citation-popover-snippet">UFOs of Pudasjärvi</span></span></span>
 
-Researchers studying the sociology of Finnish ufology have noted that FUFORA’s archive serves not only as a database of sightings but also as a record of marginalised experiences that witnesses believed mainstream institutions ignored. A University of Turku archival study described the collection as an effort to preserve “records of a community” built around anomalous observations and public participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utupub.fi/items/82e946a3-5d60-409d-9d5f-339aab9f504f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utupub.fi">[UTUPub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utupub.fi</span><span class="citation-popover-snippet">Records Management, Participation and Authority in the...by K Hänninen — FUFORA&#x27;s archives collects, preserves and makes accessibl...</span></span></span>
+Researchers studying the sociology of Finnish ufology have noted that FUFORA’s archive serves not only as a database of sightings but also as a record of marginalised experiences that witnesses believed mainstream institutions ignored. A University of Turku archival study described the collection as an effort to preserve “records of a community” built around anomalous observations and public participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utupub.fi/items/82e946a3-5d60-409d-9d5f-339aab9f504f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utupub.fi">[UTUPub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utupub.fi</span><span class="citation-popover-snippet">Records Management, Participation and Authority in the...by K Hänninen — FUFORA&#x27;s archives collects, preserves and makes accessibl...</span></span></span>
 
 ## How Finnish UFO Reports Are Collected and Analysed
 
@@ -292,7 +292,7 @@ One of FUFORA’s most practical contributions has been the normalisation of UFO
 
 </div>
 
-The association explicitly states that investigators attempt to identify conventional explanations before classifying a case as unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/english/some-significant-finnish-ufo-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">Some significant Finnish UFO casesIt has been estimated that only about one in a hundred UFO sightings ever gets officially recorded. Tra...</span></span></span>
+The association explicitly states that investigators attempt to identify conventional explanations before classifying a case as unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/english/some-significant-finnish-ufo-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">Some significant Finnish UFO casesIt has been estimated that only about one in a hundred UFO sightings ever gets officially recorded. Tra...</span></span></span>
 
 This approach mirrors methods used by civilian UFO organisations elsewhere in Europe, but in Finland it took on particular significance because of the country’s geography. Reports often came from remote forest or lake regions where aircraft traffic was limited and where witnesses sometimes interpreted unusual atmospheric effects as anomalous craft.
 
@@ -319,13 +319,13 @@ That archival mindset also explains why older Finnish UFO cases continue to circ
 
 ## The Pudasjärvi Wave and the Rise of Local Research Networks
 
-The UFO wave around Pudasjärvi in northern Finland became one of the defining moments for Finnish civilian UFO investigation. Between the late 1960s and early 1971, witnesses reported luminous objects, hovering lights, and unusual aerial behaviour across the region. The concentration of reports drew attention not only from UFO enthusiasts but also from journalists, scientists, and amateur investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skepsis ry</span><span class="citation-popover-snippet">Skepsis ry</span></span></span>
+The UFO wave around Pudasjärvi in northern Finland became one of the defining moments for Finnish civilian UFO investigation. Between the late 1960s and early 1971, witnesses reported luminous objects, hovering lights, and unusual aerial behaviour across the region. The concentration of reports drew attention not only from UFO enthusiasts but also from journalists, scientists, and amateur investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skepsis ry</span><span class="citation-popover-snippet">Skepsis ry</span></span></span>
 
-The Pudasjärvi events demonstrated how local civilian networks operated before digital reporting systems existed. Researchers travelled to the region, interviewed witnesses in person, and attempted photographic documentation. Engineer Ahti Karivieri and motorist Atte Särkelä conducted one of the best-known local efforts, producing hundreds of photographs and infrared images intended to capture recurring light phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Finnish_Air_Force_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Finnish Air Force UFO sighting</span><span class="citation-popover-snippet">Finnish Air Force UFO sighting</span></span></span>
+The Pudasjärvi events demonstrated how local civilian networks operated before digital reporting systems existed. Researchers travelled to the region, interviewed witnesses in person, and attempted photographic documentation. Engineer Ahti Karivieri and motorist Atte Särkelä conducted one of the best-known local efforts, producing hundreds of photographs and infrared images intended to capture recurring light phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Finnish_Air_Force_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Finnish Air Force UFO sighting</span><span class="citation-popover-snippet">Finnish Air Force UFO sighting</span></span></span>
 
 What made the Pudasjärvi episode important organisationally was not merely the sightings themselves, but the way they pushed Finnish UFO researchers toward more structured methods. The intense public debate exposed weaknesses in anecdotal testimony and encouraged more systematic collection practices.
 
-The case also revealed a recurring feature of Finnish UFO culture: close interaction between believers, investigators, local media, and sceptics. Proposed explanations ranged from extraterrestrial craft to geological light phenomena associated with seismic activity and fault lines in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The case also revealed a recurring feature of Finnish UFO culture: close interaction between believers, investigators, local media, and sceptics. Proposed explanations ranged from extraterrestrial craft to geological light phenomena associated with seismic activity and fault lines in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Publications, Seminars, and Public Education
 
@@ -352,9 +352,9 @@ Rather than functioning purely as advocacy literature, the publication often ref
 
 FUFORA also organised lectures and seminars that mixed enthusiasts, independent researchers, and occasionally academically trained participants. These gatherings helped maintain continuity in Finnish UFO culture between generations.
 
-Some Finnish researchers developed reputations extending beyond Finland, including figures associated with Nordic or international UFO networks. Former FUFORA chair Björn Borg, for example, became known internationally through archival and investigative collaborations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Endorsements - AFU... Finnish UFO Research Association, and National Director for MUFON. Ole Brænne... Jim Oberg – space expert and s...</span></span></span>
+Some Finnish researchers developed reputations extending beyond Finland, including figures associated with Nordic or international UFO networks. Former FUFORA chair Björn Borg, for example, became known internationally through archival and investigative collaborations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afu.se/endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afu.se">[AFU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afu.se</span><span class="citation-popover-snippet">Endorsements - AFU... Finnish UFO Research Association, and National Director for MUFON. Ole Brænne... Jim Oberg – space expert and s...</span></span></span>
 
-Recent interviews and podcasts with FUFORA representatives show that the organisation continues to frame itself as a documentation and research body rather than a movement claiming definitive proof of extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ca/podcast/7-finnish-ufos/id1686741039?i=1000633266227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple Podcasts7: Finnish UFOs31 Oct 2023 — 7: Finnish UFOs... I am joined by Heikki Kulju, a veteran UFO researcher and Chairman of the...</span></span></span>
+Recent interviews and podcasts with FUFORA representatives show that the organisation continues to frame itself as a documentation and research body rather than a movement claiming definitive proof of extraterrestrial visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ca/podcast/7-finnish-ufos/id1686741039?i=1000633266227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple Podcasts7: Finnish UFOs31 Oct 2023 — 7: Finnish UFOs... I am joined by Heikki Kulju, a veteran UFO researcher and Chairman of the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b8UFh7BQZ2A" title="Väärinajattelija -podcast, jakso 78: Heikki Kulju (Galaktinen Federaatio, dronet ja UAP-ilmiöt)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b8UFh7BQZ2A" target="_blank" rel="noopener noreferrer">Väärinajattelija -podcast, jakso 78: Heikki Kulju (Galaktinen Federaatio, dronet ja UAP-ilmiöt)</a></p><p class="youtube-embed-meta">Channel: Antti Launonen &middot; Views: 26.1K &middot; Uploaded: February 2025 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b8UFh7BQZ2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b8UFh7BQZ2A">Open on YouTube</a></p></div></div></div>
 
@@ -364,15 +364,15 @@ Although FUFORA became the dominant archival institution, it was not the only ci
 
 ### UFO-Finland and Regional Networks
 
-Groups such as UFO-Finland emerged as alternative or parallel organisations, often emphasising discussion forums, case sharing, or broader paranormal interests. Some regional clubs concentrated on local sighting traditions or photographic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doria.fi">[Doria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doria.fi</span><span class="citation-popover-snippet">Tommy Ramstedt: Knowledge and Identity within the Finnish...November 27, 2018 — 15 Oct 2016 — ´Finnish UFO Research Association FUF...</span><span class="citation-popover-meta">Published: November 27, 2018</span></span></span>
+Groups such as UFO-Finland emerged as alternative or parallel organisations, often emphasising discussion forums, case sharing, or broader paranormal interests. Some regional clubs concentrated on local sighting traditions or photographic evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doria.fi">[Doria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doria.fi</span><span class="citation-popover-snippet">Tommy Ramstedt: Knowledge and Identity within the Finnish...November 27, 2018 — 15 Oct 2016 — ´Finnish UFO Research Association FUF...</span><span class="citation-popover-meta">Published: November 27, 2018</span></span></span>
 
 These smaller networks played an important role in keeping local reporting alive, particularly in regions associated with recurring light phenomena. In practice, Finnish UFO culture developed as a loose ecosystem rather than a single centralised movement.
 
-The internet later changed this landscape substantially. Earlier generations relied on mailed reports, printed magazines, and telephone trees, while newer groups increasingly used websites, social media, and online databases. FUFORA itself eventually integrated digital reporting systems into its operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/english/about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">About us:: FuforaThe Finnish UFO Research Association (FUFORA), known as &quot;Suomen Ufotutkijat ry&quot; (SUT) in Finnish, was founded in...</span></span></span>
+The internet later changed this landscape substantially. Earlier generations relied on mailed reports, printed magazines, and telephone trees, while newer groups increasingly used websites, social media, and online databases. FUFORA itself eventually integrated digital reporting systems into its operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fufora.fi/english/about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fufora.fi">[Fufora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fufora.fi</span><span class="citation-popover-snippet">About us:: FuforaThe Finnish UFO Research Association (FUFORA), known as &quot;Suomen Ufotutkijat ry&quot; (SUT) in Finnish, was founded in...</span></span></span>
 
 ### Paranormal and “Border Knowledge” Culture
 
-Finnish UFO organisations also intersected with the country’s wider “border knowledge” culture — a Finnish term often applied to paranormal or alternative knowledge communities. Academic work on Finnish ufology has shown that UFO research frequently overlapped with spiritual movements, alternative healing circles, and paranormal publishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doria.fi">[Doria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doria.fi</span><span class="citation-popover-snippet">Tommy Ramstedt: Knowledge and Identity within the Finnish...November 27, 2018 — 15 Oct 2016 — ´Finnish UFO Research Association FUF...</span><span class="citation-popover-meta">Published: November 27, 2018</span></span></span>
+Finnish UFO organisations also intersected with the country’s wider “border knowledge” culture — a Finnish term often applied to paranormal or alternative knowledge communities. Academic work on Finnish ufology has shown that UFO research frequently overlapped with spiritual movements, alternative healing circles, and paranormal publishing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doria.fi">[Doria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doria.fi</span><span class="citation-popover-snippet">Tommy Ramstedt: Knowledge and Identity within the Finnish...November 27, 2018 — 15 Oct 2016 — ´Finnish UFO Research Association FUF...</span><span class="citation-popover-meta">Published: November 27, 2018</span></span></span>
 
 Not all organisations welcomed that overlap equally. Some investigators attempted to maintain a technical or observational focus, while others embraced broader metaphysical interpretations involving contact experiences, consciousness theories, or conspiratorial narratives.
 
@@ -381,7 +381,7 @@ This internal diversity partly explains why Finnish UFO research never evolved i
 <img src="{{ "/assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-3-dark.svg" | relative_url }}" alt="FUFORA Archives illustration 3" data-theme-src-dark="{{ "/assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of Finnish Sceptics and Scientific Critics
 
-Civilian UFO documentation in Finland has always existed alongside organised scepticism. The association Skepsis ry, founded in 1987, became the country’s best-known critical organisation examining paranormal claims and pseudoscience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Skepsis ry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Skepsis ry</span></span></span>
+Civilian UFO documentation in Finland has always existed alongside organised scepticism. The association Skepsis ry, founded in 1987, became the country’s best-known critical organisation examining paranormal claims and pseudoscience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Skepsis ry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Skepsis ry</span></span></span>
 
 Sceptical critics challenged several recurring themes in Finnish UFO reports:
 
@@ -395,7 +395,7 @@ Sceptical critics challenged several recurring themes in Finnish UFO reports:
 
 </div>
 
-The Pudasjärvi sightings became a major testing ground for these debates. Geological and atmospheric explanations were proposed for some of the luminous phenomena, including earthquake-related light effects connected to local fault structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFOs of Pudasjärvi</span><span class="citation-popover-snippet">UFOs of Pudasjärvi</span></span></span>
+The Pudasjärvi sightings became a major testing ground for these debates. Geological and atmospheric explanations were proposed for some of the luminous phenomena, including earthquake-related light effects connected to local fault structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFOs of Pudasjärvi</span><span class="citation-popover-snippet">UFOs of Pudasjärvi</span></span></span>
 
 This sceptical engagement had a paradoxical effect. While critics dismissed many extraordinary claims, their involvement also pushed UFO organisations toward more disciplined investigative standards. Finnish UFO researchers increasingly recognised that weak cases damaged credibility and that poorly documented sightings could not withstand scrutiny.
 
@@ -425,194 +425,194 @@ Even in cases later explained conventionally, the preserved reports provide insi
 In that sense, the enduring contribution of FUFORA and related Finnish organisations is not that they solved the UFO mystery. It is that they created one of the Nordic region’s most sustained civilian records of how ordinary people tried to document the unexplained.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Do Finnish UFO Organizations Study Unexplained Phenomena?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Do Finnish UFO Organizations Study Unexplained Phenomena?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines case files and investigative frameworks similar to organizational UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines case files and investigative frameworks similar to organizational UFO archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO reports, folklore, and long-term documentation traditions relevant to Finnish UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports, folklore, and long-term documentation traditions relevant to Finnish UFO archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness interviewing, case classification, and civilian UFO research methods similar to FUFORA&#x27;s archival approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness interviewing, case classification, and civilian UFO research methods similar to FUFORA&#x27;s archival approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases, reporting standards, and investigation practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases, reporting standards, and investigation practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-do-finnish-ufo-organizations-study-unexplained-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ In that sense, the enduring contribution of FUFORA and related Finnish organisat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ In that sense, the enduring contribution of FUFORA and related Finnish organisat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ In that sense, the enduring contribution of FUFORA and related Finnish organisat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ In that sense, the enduring contribution of FUFORA and related Finnish organisat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ In that sense, the enduring contribution of FUFORA and related Finnish organisat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -815,145 +815,144 @@ In that sense, the enduring contribution of FUFORA and related Finnish organisat
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fufora.fi  
-   Link: <a href="https://www.fufora.fi/english/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.fufora.fi/english/about-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About us:: FuforaThe Finnish UFO Research Association (FUFORA), known as &quot;Suomen Ufotutkijat ry&quot; (SUT) in Finnish, was founded in...</p></details>
+   Link:<a href="https://www.fufora.fi/english/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.fufora.fi/english/about-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About us:: FuforaThe Finnish UFO Research Association (FUFORA), known as &quot;Suomen Ufotutkijat ry&quot; (SUT) in Finnish, was founded in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fufora.fi  
-   Link: <a href="https://www.fufora.fi/" target="_blank" rel="noopener noreferrer nofollow">https://www.fufora.fi/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oletko nähnyt ilmiön, joka on mielestäsi ns. tunnistamaton lentävä kohde, josta käytetään lyhennettä UFO?Read more...</p></details>
+   Link:<a href="https://www.fufora.fi/" target="_blank" rel="noopener noreferrer nofollow">https://www.fufora.fi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oletko nähnyt ilmiön, joka on mielestäsi ns. tunnistamaton lentävä kohde, josta käytetään lyhennettä UFO?Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFOs of Pudasjärvi  
-   Link: <a href="https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFOs_of_Pudasj%C3%A4rvi</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepsis.fi  
    Title: In English  
-   Link: <a href="https://www.skepsis.fi/SkepsisInEnglish" target="_blank" rel="noopener noreferrer nofollow">https://www.skepsis.fi/SkepsisInEnglish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skepsis rySkepsis in EnglishSkepsis ry is an association of Finnish skeptics (sceptics) founded in 1987.... alien DNA (or equivalent) sa...</p></details>
+   Link:<a href="https://www.skepsis.fi/SkepsisInEnglish" target="_blank" rel="noopener noreferrer nofollow">https://www.skepsis.fi/SkepsisInEnglish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skepsis rySkepsis in EnglishSkepsis ry is an association of Finnish skeptics (sceptics) founded in 1987.... alien DNA (or equivalent) sa...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Skepsis ry  
-   Link: <a href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skepsis_ry</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skepsis_ry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skepsis_ry</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Finnish Air Force UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Finnish_Air_Force_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Finnish_Air_Force_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Finnish_Air_Force_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Finnish_Air_Force_UFO_sighting</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: utupub.fi  
-   Link: <a href="https://www.utupub.fi/items/82e946a3-5d60-409d-9d5f-339aab9f504f" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/items/82e946a3-5d60-409d-9d5f-339aab9f504f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Management, Participation and Authority in the...by K Hänninen — FUFORA&#x27;s archives collects, preserves and makes accessibl...</p></details>
+   Link:<a href="https://www.utupub.fi/items/82e946a3-5d60-409d-9d5f-339aab9f504f" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/items/82e946a3-5d60-409d-9d5f-339aab9f504f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Management, Participation and Authority in the...by K Hänninen — FUFORA&#x27;s archives collects, preserves and makes accessibl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/endorsements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements - AFU... Finnish UFO Research Association, and National Director for MUFON. Ole Brænne... Jim Oberg – space expert and s...</p></details>
+   Link:<a href="https://www.afu.se/endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements - AFU... Finnish UFO Research Association, and National Director for MUFON. Ole Brænne... Jim Oberg – space expert and s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/ca/podcast/7-finnish-ufos/id1686741039?i=1000633266227" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ca/podcast/7-finnish-ufos/id1686741039?i=1000633266227</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Podcasts7: Finnish UFOs31 Oct 2023 — 7: Finnish UFOs... I am joined by Heikki Kulju, a veteran UFO researcher and Chairman of the...</p></details>
+   Link:<a href="https://podcasts.apple.com/ca/podcast/7-finnish-ufos/id1686741039?i=1000633266227" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ca/podcast/7-finnish-ufos/id1686741039?i=1000633266227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Podcasts7: Finnish UFOs31 Oct 2023 — 7: Finnish UFOs... I am joined by Heikki Kulju, a veteran UFO researcher and Chairman of the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: doria.fi  
-   Link: <a href="https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tommy Ramstedt: Knowledge and Identity within the Finnish...November 27, 2018 — 15 Oct 2016 — ´Finnish UFO Research Association FUF...</p></details>
+   Link:<a href="https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.doria.fi/bitstream/handle/10024/164673/ramsted_tommy.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tommy Ramstedt: Knowledge and Identity within the Finnish...November 27, 2018 — 15 Oct 2016 — ´Finnish UFO Research Association FUF...</p></details>
    Published: November 27, 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fufora.fi  
-   Link: <a href="https://www.fufora.fi/english/some-significant-finnish-ufo-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.fufora.fi/english/some-significant-finnish-ufo-cases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some significant Finnish UFO casesIt has been estimated that only about one in a hundred UFO sightings ever gets officially recorded. Tra...</p></details>
+   Link:<a href="https://www.fufora.fi/english/some-significant-finnish-ufo-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.fufora.fi/english/some-significant-finnish-ufo-cases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some significant Finnish UFO casesIt has been estimated that only about one in a hundred UFO sightings ever gets officially recorded. Tra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afu.se  
-   Link: <a href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/report-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report filesAFU has built a UFO report files archive with contributions from many countries. Here&#x27;s an overview of some of the resour...</p></details>
+   Link:<a href="https://www.afu.se/collections/report-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.afu.se/collections/report-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report filesAFU has built a UFO report files archive with contributions from many countries. Here&#x27;s an overview of some of the resour...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Suomen Ufotutkijat ry  
-   Link: <a href="https://www.facebook.com/fufora/reels/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fufora/reels/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>virallinen (@fufora)Suomen Ufotutkijat ry - virallinen. 1993 likes · 4 talking about this. ufotutkimus, ufologia...</p></details>
+   Link:<a href="https://www.facebook.com/fufora/reels/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fufora/reels/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>virallinen (@fufora)Suomen Ufotutkijat ry - virallinen. 1993 likes · 4 talking about this. ufotutkimus, ufologia...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sv-se.facebook.com  
-   Link: <a href="https://sv-se.facebook.com/groups/21919348286/" target="_blank" rel="noopener noreferrer nofollow">https://sv-se.facebook.com/groups/21919348286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufotutkijat ry (FUFORA) yhdistyksen jäsenille座長役に空軍少将P ・ストリャーロフ、補佐役にF・ジーゲリ助教授が選 ばれた。会合の目的は、ソ連全土にわたってUFO観 測記録を収集するための組織を作ること、UFO研究 の...Re...</p></details>
+   Link:<a href="https://sv-se.facebook.com/groups/21919348286/" target="_blank" rel="noopener noreferrer nofollow">https://sv-se.facebook.com/groups/21919348286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufotutkijat ry (FUFORA) yhdistyksen jäsenille座長役に空軍少将P ・ストリャーロフ、補佐役にF・ジーゲリ助教授が選 ばれた。会合の目的は、ソ連全土にわたってUFO観 測記録を収集するための組織を作ること、UFO研究 の...Re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Suomen Ufotutkijat ry  
-   Link: <a href="https://www.facebook.com/fufora/videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fufora/videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>virallinen (@fufora) - VideosSuomen Ufotutkijat ry - virallinen. 2008 likes · 1 talking about this. ufotutkimus, ufologia...</p></details>
+   Link:<a href="https://www.facebook.com/fufora/videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fufora/videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>virallinen (@fufora) - VideosSuomen Ufotutkijat ry - virallinen. 2008 likes · 1 talking about this. ufotutkimus, ufologia...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/21919348286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/21919348286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suomen Ufotutkijat ry (FUFORA) yhdistyksen jäsenilleAsioista saa olla eri mieltä, käythän keskustelua sivistyneesti ja toista kunnioittaen...</p></details>
+   Link:<a href="https://www.facebook.com/groups/21919348286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/21919348286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suomen Ufotutkijat ry (FUFORA) yhdistyksen jäsenilleAsioista saa olla eri mieltä, käythän keskustelua sivistyneesti ja toista kunnioittaen...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17ode0g/only_officially_recongnized_ufo_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17ode0g/only_officially_recongnized_ufo_incident_by/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Finnish military/government. [https://theufodatabase.com/...Read](https://theufodatabase.com/...Read) more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17ode0g/only_officially_recongnized_ufo_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17ode0g/only_officially_recongnized_ufo_incident_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Finnish military/government. [https://theufodatabase.com/...Read](https://theufodatabase.com/...Read) more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lx16Z8SwUDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lx16Z8SwUDQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Väärinajattelija -podcast, jakso 78: Heikki Kulju (Galaktinen Federaatio, dronet ja UAP-ilmiöt)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lx16Z8SwUDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lx16Z8SwUDQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Väärinajattelija -podcast, jakso 78: Heikki Kulju (Galaktinen Federaatio, dronet ja UAP-ilmiöt)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: 🛸 Mystery Above Finland's Kallavesi Lake!  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-mystery-above-finlands-kallavesi-lake-in-august-1964-raimo-blomqvist-observed-a/518513514315647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-mystery-above-finlands-kallavesi-lake-in-august-1964-raimo-blomqvist-observed-a/518513514315647/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 In August...PHOTOS of UFOS x 12 by Jarmo Nykanen, Finland 1979 In 1979, UFO Research of Finland uncovered the most significant UFO cas...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-mystery-above-finlands-kallavesi-lake-in-august-1964-raimo-blomqvist-observed-a/518513514315647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-mystery-above-finlands-kallavesi-lake-in-august-1964-raimo-blomqvist-observed-a/518513514315647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 In August...PHOTOS of UFOS x 12 by Jarmo Nykanen, Finland 1979 In 1979, UFO Research of Finland uncovered the most significant UFO cas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: UA Ps/UFOs spotted over Finland  
-   Link: <a href="https://www.facebook.com/TWOTWarriors/posts/uapsufos-spotted-over-finlandthis-is-getting-more-and-more-comum-worldwide/1444358387251638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TWOTWarriors/posts/uapsufos-spotted-over-finlandthis-is-getting-more-and-more-comum-worldwide/1444358387251638/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is getting more and...... sighting to FUFORA, the Finnish UFO Research Association. This was... Alien Close Encounter in Finland W...</p></details>
+   Link:<a href="https://www.facebook.com/TWOTWarriors/posts/uapsufos-spotted-over-finlandthis-is-getting-more-and-more-comum-worldwide/1444358387251638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TWOTWarriors/posts/uapsufos-spotted-over-finlandthis-is-getting-more-and-more-comum-worldwide/1444358387251638/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is getting more and...... sighting to FUFORA, the Finnish UFO Research Association. This was... Alien Close Encounter in Finland W...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: klubitus.org  
    Title: 92495 finlands best ufo cases  
-   Link: <a href="https://klubitus.org/topic/92495-finlands-best-ufo-cases" target="_blank" rel="noopener noreferrer nofollow">https://klubitus.org/topic/92495-finlands-best-ufo-cases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finland&#x27;s Best UFO Cases13 Nov 2009 — The official site of Suomen Ufotutkijat ry (Finnish UFO Research Association, a.k.a. FUFORA). http...</p></details>
+   Link:<a href="https://klubitus.org/topic/92495-finlands-best-ufo-cases" target="_blank" rel="noopener noreferrer nofollow">https://klubitus.org/topic/92495-finlands-best-ufo-cases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finland&#x27;s Best UFO Cases13 Nov 2009 — The official site of Suomen Ufotutkijat ry (Finnish UFO Research Association, a.k.a. FUFORA). http...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b8UFh7BQZ2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8UFh7BQZ2A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heikki Kulju luennolla: Roswellin ufojen mysteeri...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b8UFh7BQZ2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8UFh7BQZ2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heikki Kulju luennolla: Roswellin ufojen mysteeri...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-finlands-most-shocking-ufo-encounter-january-7-1970-two-finnish-skiers-in-the-f/766724629494533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-finlands-most-shocking-ufo-encounter-january-7-1970-two-finnish-skiers-in-the-f/766724629494533/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skiers, a UFO, and a Humanoid: The 1970 Imjärvi Incident“The most important UFO case discovered by UFO Research of Finland in 1979 took p...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-finlands-most-shocking-ufo-encounter-january-7-1970-two-finnish-skiers-in-the-f/766724629494533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-finlands-most-shocking-ufo-encounter-january-7-1970-two-finnish-skiers-in-the-f/766724629494533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skiers, a UFO, and a Humanoid: The 1970 Imjärvi Incident“The most important UFO case discovered by UFO Research of Finland in 1979 took p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: folklorefellows.fi  
    Title: FFN 47 sisus low  
-   Link: <a href="https://www.folklorefellows.fi/wp-content/uploads/FFN_47_sisus_low.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklorefellows.fi/wp-content/uploads/FFN_47_sisus_low.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FF Network 47 | December 2015These documents are also online but thus with restricted access. My second example of online community ar ch...</p></details>
+   Link:<a href="https://www.folklorefellows.fi/wp-content/uploads/FFN_47_sisus_low.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklorefellows.fi/wp-content/uploads/FFN_47_sisus_low.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FF Network 47 | December 2015These documents are also online but thus with restricted access. My second example of online community ar ch...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Mitä UFOA? K1 J5  
-   Link: <a href="https://www.youtube.com/watch?v=WKln3xuCbn4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WKln3xuCbn4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WKln3xuCbn4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WKln3xuCbn4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>

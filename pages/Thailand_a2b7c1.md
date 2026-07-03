@@ -1194,62 +1194,62 @@ image: /assets/images/Thailand_a2b7c1-overview-social.jpg
 
 ## Why Thailand’s UFO record looks different
 
-Thailand does not have a public UFO archive comparable to the United States’ National Archives UAP collection, which now formally groups US federal records related to unidentified flying objects and unidentified anomalous phenomena. That matters because Thailand-focused UFO research depends heavily on scattered sources: US military documents from the Vietnam War era, Thai and international journalism, private reporting databases, local belief communities, and astronomy or aviation notices that explain particular sky events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+Thailand does not have a public UFO archive comparable to the United States’ National Archives UAP collection, which now formally groups US federal records related to unidentified flying objects and unidentified anomalous phenomena. That matters because Thailand-focused UFO research depends heavily on scattered sources: US military documents from the Vietnam War era, Thai and international journalism, private reporting databases, local belief communities, and astronomy or aviation notices that explain particular sky events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
 <img src="{{ "/assets/images/Thailand_a2b7c1-overview.webp" | relative_url }}" alt="Overview image for Thailand" loading="eager" decoding="sync" fetchpriority="high">
-This creates an uneven evidence landscape. A light filmed over Bangkok may have dozens of social-media reposts but little original metadata. A rural legend may have deep cultural continuity but no calibrated observations. A military document may be bureaucratically valuable yet still show uncertainty, incomplete sourcing and prosaic hypotheses. NASA’s UAP study makes the same general point for UAP research worldwide: many reports are incidental observations made with instruments or cameras not designed for scientific identification, often missing crucial contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This creates an uneven evidence landscape. A light filmed over Bangkok may have dozens of social-media reposts but little original metadata. A rural legend may have deep cultural continuity but no calibrated observations. A military document may be bureaucratically valuable yet still show uncertainty, incomplete sourcing and prosaic hypotheses. NASA’s UAP study makes the same general point for UAP research worldwide: many reports are incidental observations made with instruments or cameras not designed for scientific identification, often missing crucial contextual data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For Thailand, that means the best reading is cautious but not dismissive. Some reports are plainly “real” in the limited sense that people saw, filmed, reported or investigated something. Far fewer are strong cases for exotic technology. The most useful division is between confirmed records, contested folklore or contact claims, and debunked or plausibly explained sky events.
 
 ## The clearest historical file: Nakhon Phanom, 1969
 
-The strongest Thailand-specific archival case found in open sources is a four-page 1969 report concerning an unidentified object near Nakhon Phanom Royal Thai Air Force Base. The report, dated 6 September 1969, describes an observation on 24 August 1969 in which a pilot initially thought he had seen a helicopter roughly five miles north-east of the base. Aerial and ground checks followed, but a Royal Thai Army search reportedly produced negative results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest Thailand-specific archival case found in open sources is a four-page 1969 report concerning an unidentified object near Nakhon Phanom Royal Thai Air Force Base. The report, dated 6 September 1969, describes an observation on 24 August 1969 in which a pilot initially thought he had seen a helicopter roughly five miles north-east of the base. Aerial and ground checks followed, but a Royal Thai Army search reportedly produced negative results.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case is valuable because it shows how “UFO” did not necessarily mean “spacecraft” in an official context. The concern was operational: an unidentified helicopter-like object near a sensitive base during a period of regional conflict. The report records local testimony about a religious procession carrying lanterns and ceremonial drums; on a later pass, the pilot saw a light or structure near a road, and witnesses were said to have been frightened when an aircraft circled overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case is valuable because it shows how “UFO” did not necessarily mean “spacecraft” in an official context. The concern was operational: an unidentified helicopter-like object near a sensitive base during a period of regional conflict. The report records local testimony about a religious procession carrying lanterns and ceremonial drums; on a later pass, the pilot saw a light or structure near a road, and witnesses were said to have been frightened when an aircraft circled overhead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The report’s own analysis leans towards misidentification and wartime security ambiguity. It notes that radar and visual UFO sightings were not new at Nakhon Phanom, that seven UFO sightings had been reported there between November 1968 and January 1969, and that earlier reconnaissance attempts had been unsuccessful. Its possible explanations included helicopters connected to border or counter-insurgency activity, clandestine flights, natural or cultural phenomena such as temperature inversions, balloons, religious celebrations, migratory birds and kites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The report’s own analysis leans towards misidentification and wartime security ambiguity. It notes that radar and visual UFO sightings were not new at Nakhon Phanom, that seven UFO sightings had been reported there between November 1968 and January 1969, and that earlier reconnaissance attempts had been unsuccessful. Its possible explanations included helicopters connected to border or counter-insurgency activity, clandestine flights, natural or cultural phenomena such as temperature inversions, balloons, religious celebrations, migratory birds and kites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The document’s final value is in its sceptical intelligence logic. It did not need aliens to explain why Thai and US personnel cared. A helicopter crossing at night could have implied insurgent support, smuggling, hostile reconnaissance or confused reporting by agencies operating in difficult terrain. The report even warned that officials’ reluctance to file reports unless sightings were backed by hard indicators could distort intelligence collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The document’s final value is in its sceptical intelligence logic. It did not need aliens to explain why Thai and US personnel cared. A helicopter crossing at night could have implied insurgent support, smuggling, hostile reconnaissance or confused reporting by agencies operating in difficult terrain. The report even warned that officials’ reluctance to file reports unless sightings were backed by hard indicators could distort intelligence collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Thailand_a2b7c1-Illustration-1-dark.svg" | relative_url }}" alt="Thailand illustration 1" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Khao Kala: Thailand’s best-known UFO hotspot
 
-Khao Kala in Nakhon Sawan is the centre of Thailand’s modern UFO culture. Local and international reporting describes it as a hilltop gathering place for UFO believers, especially the UFO Kaokala group, whose members have associated meditation, Buddhist practice and alleged extraterrestrial contact. Khaosod English reported that the group’s story traces back to 1998, when a nurse said she saw aliens on the mountain; since then, the site has been promoted as a Thai UFO-watching destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Khao Kala in Nakhon Sawan is the centre of Thailand’s modern UFO culture. Local and international reporting describes it as a hilltop gathering place for UFO believers, especially the UFO Kaokala group, whose members have associated meditation, Buddhist practice and alleged extraterrestrial contact. Khaosod English reported that the group’s story traces back to 1998, when a nurse said she saw aliens on the mountain; since then, the site has been promoted as a Thai UFO-watching destination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Khao Kala is important because it is less a single sighting than a social ecosystem. Believers gather, meditate, exchange stories and interpret lights or inner voices through a contact narrative. Buddhistdoor’s summary of the 2019 media attention describes the hill as a forest reserve where UFO seekers had been meeting near Buddhist statues for years to camp, meditate and seek contact. Vice similarly identified the UFO Kaokala group as a contact movement that took its name from the mountain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buddhistdoor.net">[Buddhistdoor Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buddhistdoor.net</span><span class="citation-popover-title">buddhist ufo hunters seek contact on a mountain in thailand</span><span class="citation-popover-snippet">buddhist ufo hunters seek contact on a mountain in thailand</span></span></span>
+Khao Kala is important because it is less a single sighting than a social ecosystem. Believers gather, meditate, exchange stories and interpret lights or inner voices through a contact narrative. Buddhistdoor’s summary of the 2019 media attention describes the hill as a forest reserve where UFO seekers had been meeting near Buddhist statues for years to camp, meditate and seek contact. Vice similarly identified the UFO Kaokala group as a contact movement that took its name from the mountain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buddhistdoor.net">[Buddhistdoor Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buddhistdoor.net</span><span class="citation-popover-title">buddhist ufo hunters seek contact on a mountain in thailand</span><span class="citation-popover-snippet">buddhist ufo hunters seek contact on a mountain in thailand</span></span></span>
 
-The strongest official action around Khao Kala was not a UFO investigation but a land-use investigation. In August 2019, police and forest rangers raided the Khao Kala meditation centre over suspected encroachment on protected forest land. Officials said they would use satellite GPS to check the site, estimated that part of the centre encroached on forest area, and temporarily barred camping or activities while the case was ongoing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest official action around Khao Kala was not a UFO investigation but a land-use investigation. In August 2019, police and forest rangers raided the Khao Kala meditation centre over suspected encroachment on protected forest land. Officials said they would use satellite GPS to check the site, estimated that part of the centre encroached on forest area, and temporarily barred camping or activities while the case was ongoing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That distinction is crucial. Khao Kala is a confirmed UFO-belief hotspot, not a confirmed UFO landing site. Even Khaosod’s local reporting noted that some nearby residents explained night lights as possible shooting-range activity, while the sub-district head said most local residents were not alien believers and that many followers came from outside the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction is crucial. Khao Kala is a confirmed UFO-belief hotspot, not a confirmed UFO landing site. Even Khaosod’s local reporting noted that some nearby residents explained night lights as possible shooting-range activity, while the sub-district head said most local residents were not alien believers and that many followers came from outside the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8WrZLIwwX9o" title="Thailand’s Calkala UFO Cult Revealed | Expedition X | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer">Thailand’s Calkala UFO Cult Revealed | Expedition X | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 43.8K &middot; Uploaded: July 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8WrZLIwwX9o">Open on YouTube</a></p></div></div></div>
 
 ## The Mekong lights: folklore, tourism and disputed explanations
 
-The Naga fireballs along the Mekong are often pulled into Thailand’s UFO conversation because they are aerial lights, recurring, spectacular and difficult for casual witnesses to explain. They are most associated with Nong Khai and nearby stretches of the Mekong, where reddish lights are said to rise from the river around the end of the Buddhist rains retreat. The phenomenon has become a major public event and tourist draw, with older reports noting large crowds travelling to the Phon Phisai area to watch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Naga_fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Naga fireball</span><span class="citation-popover-snippet">Naga fireball</span></span></span>
+The Naga fireballs along the Mekong are often pulled into Thailand’s UFO conversation because they are aerial lights, recurring, spectacular and difficult for casual witnesses to explain. They are most associated with Nong Khai and nearby stretches of the Mekong, where reddish lights are said to rise from the river around the end of the Buddhist rains retreat. The phenomenon has become a major public event and tourist draw, with older reports noting large crowds travelling to the Phon Phisai area to watch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Naga_fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Naga fireball</span><span class="citation-popover-snippet">Naga fireball</span></span></span>
 
-The dispute is not simply “science versus belief”. Several explanations compete. Local tradition links the lights to the Naga serpent. Some popular scientific accounts have proposed natural gases such as phosphine or methane. Sceptics have argued that at least some displays are better explained by flares or tracer rounds from the opposite bank. A 2002 Thai television documentary reportedly showed Lao soldiers firing tracer rounds, while other analysts have challenged the gas-combustion explanation as physically weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2015_Thailand_bolide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2015 Thailand bolide</span><span class="citation-popover-snippet">2015 Thailand bolide</span></span></span>
+The dispute is not simply “science versus belief”. Several explanations compete. Local tradition links the lights to the Naga serpent. Some popular scientific accounts have proposed natural gases such as phosphine or methane. Sceptics have argued that at least some displays are better explained by flares or tracer rounds from the opposite bank. A 2002 Thai television documentary reportedly showed Lao soldiers firing tracer rounds, while other analysts have challenged the gas-combustion explanation as physically weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2015_Thailand_bolide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2015 Thailand bolide</span><span class="citation-popover-snippet">2015 Thailand bolide</span></span></span>
 
 The Naga fireballs therefore sit in the “contested” category. They are not a clean UFO case in the aviation sense, because they are expected at particular times and embedded in festival culture. Nor are they fully closed for every alleged observation, because reports vary and not all claimed lights have been independently documented under controlled conditions. For a Thailand UFO page, their value is comparative: they show how a repeated light phenomenon can become a powerful local identity marker without becoming strong evidence of alien craft.
 
 ## Modern sky scares: rocket plumes, lanterns, drones and viral clips
 
-Recent Thai UFO stories are often strongest when they end in a practical explanation. In December 2024, a mysterious light seen over several Thai provinces prompted online UFO speculation before the National Astronomical Research Institute of Thailand identified it as likely reflected light from a rocket plume. That case is a useful model: widespread sighting, public excitement, specialist intervention, and an ordinary aerospace explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-title">mysterious light in night skies over thailand a reflected rocket flame narit</span><span class="citation-popover-snippet">mysterious light in night skies over thailand a reflected rocket flame narit</span></span></span>
+Recent Thai UFO stories are often strongest when they end in a practical explanation. In December 2024, a mysterious light seen over several Thai provinces prompted online UFO speculation before the National Astronomical Research Institute of Thailand identified it as likely reflected light from a rocket plume. That case is a useful model: widespread sighting, public excitement, specialist intervention, and an ordinary aerospace explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-title">mysterious light in night skies over thailand a reflected rocket flame narit</span><span class="citation-popover-snippet">mysterious light in night skies over thailand a reflected rocket flame narit</span></span></span>
 
-Sky lanterns are another Thailand-specific source of confusion. They are culturally familiar, visually striking and capable of drifting long distances at unpredictable heights. Thailand’s Aeronautical Information Publication has issued aviation warnings for sky lantern activity near Mae Fah Luang-Chiang Rai International Airport, noting that lanterns can affect aircraft operations and distract pilots. A floating orange light seen without context can look far stranger on a phone camera than it would with festival timing, wind direction and distance known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.caat.or.th">[CAAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.caat.or.th</span><span class="citation-popover-snippet">Open source on or.th.</span></span></span>
+Sky lanterns are another Thailand-specific source of confusion. They are culturally familiar, visually striking and capable of drifting long distances at unpredictable heights. Thailand’s Aeronautical Information Publication has issued aviation warnings for sky lantern activity near Mae Fah Luang-Chiang Rai International Airport, noting that lanterns can affect aircraft operations and distract pilots. A floating orange light seen without context can look far stranger on a phone camera than it would with festival timing, wind direction and distance known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.caat.or.th">[CAAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.caat.or.th</span><span class="citation-popover-snippet">Open source on or.th.</span></span></span>
 
-Meteors also matter. The 2015 Thailand bolide, visible during the morning rush hour and captured by dashcams, was initially dramatic enough to resemble a classic “mysterious fireball” report. It was later identified as a meteor that burned up high above the ground, producing a brief bright flare and smoke trail. Such events are rare but memorable, and they help explain why sudden luminous objects can produce national attention without implying controlled craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Meteors also matter. The 2015 Thailand bolide, visible during the morning rush hour and captured by dashcams, was initially dramatic enough to resemble a classic “mysterious fireball” report. It was later identified as a meteor that burned up high above the ground, producing a brief bright flare and smoke trail. Such events are rare but memorable, and they help explain why sudden luminous objects can produce national attention without implying controlled craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The same caution applies to online UFO clips. Thai PBS Verify examined a viral video claiming to show US soldiers discovering a giant UFO and found it was highly likely AI-generated, while also explaining that genuine US UFO/UAP document releases had been misleadingly attached to the fake video. That distinction is now central to UFO research in Thailand as elsewhere: a real government disclosure trend can be used to launder unrelated fabricated media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thaipbs.or.th/verify/en/content/12637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thaipbs.or.th">[Thai PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thaipbs.or.th</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same caution applies to online UFO clips. Thai PBS Verify examined a viral video claiming to show US soldiers discovering a giant UFO and found it was highly likely AI-generated, while also explaining that genuine US UFO/UAP document releases had been misleadingly attached to the fake video. That distinction is now central to UFO research in Thailand as elsewhere: a real government disclosure trend can be used to launder unrelated fabricated media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thaipbs.or.th/verify/en/content/12637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thaipbs.or.th">[Thai PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thaipbs.or.th</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Thailand_a2b7c1-Illustration-2-dark.svg" | relative_url }}" alt="Thailand illustration 2" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civilian databases: useful leads, weak proof
 
-The National UFO Reporting Center includes several Thailand entries, but they should be treated as leads rather than verified case files. Examples include a 2004 Bangkok report of hundreds of small red star-like lights rising slowly for 10–15 minutes, a 2005 Mae Chang report framed around a “strange creature” mentioned on Thai television, and more recent Bangkok and Nong Khai reports from individual witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=36767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The National UFO Reporting Center includes several Thailand entries, but they should be treated as leads rather than verified case files. Examples include a 2004 Bangkok report of hundreds of small red star-like lights rising slowly for 10–15 minutes, a 2005 Mae Chang report framed around a “strange creature” mentioned on Thai television, and more recent Bangkok and Nong Khai reports from individual witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=36767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-These reports are valuable for chronology and pattern-finding. They show that Thai sightings are not limited to Khao Kala, and they capture urban, northern and Mekong-region cases. But they often lack the evidence needed for strong classification: independent witness statements, original files, camera metadata, radar correlation, astronomical checks, drone or aircraft traffic data, and follow-up investigation. A report of “hundreds” of red lights rising slowly in Bangkok, for example, immediately invites comparison with lanterns or festival activity unless other data rule that out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+These reports are valuable for chronology and pattern-finding. They show that Thai sightings are not limited to Khao Kala, and they capture urban, northern and Mekong-region cases. But they often lack the evidence needed for strong classification: independent witness statements, original files, camera metadata, radar correlation, astronomical checks, drone or aircraft traffic data, and follow-up investigation. A report of “hundreds” of red lights rising slowly in Bangkok, for example, immediately invites comparison with lanterns or festival activity unless other data rule that out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-This is where Thailand connects naturally to broader country-by-country UFO research. In countries with official reporting channels, many cases still collapse into balloons, birds, drones, satellites or aircraft after investigation. AARO, the US office responsible for UAP analysis, says it has resolved hundreds of cases as commonplace objects, while only a small percentage remain potentially anomalous and worth deeper inquiry. Thailand’s open-source record is less formal, but the same evidential discipline applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-14 "Endnote 14")
+This is where Thailand connects naturally to broader country-by-country UFO research. In countries with official reporting channels, many cases still collapse into balloons, birds, drones, satellites or aircraft after investigation. AARO, the US office responsible for UAP analysis, says it has resolved hundreds of cases as commonplace objects, while only a small percentage remain potentially anomalous and worth deeper inquiry. Thailand’s open-source record is less formal, but the same evidential discipline applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-14 "Endnote 14")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xo3X5M7dcDI" title="WATCH | Thailand’s First ‘UFO Days’ Draws Alien Hunters to Nakhon Nayok | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xo3X5M7dcDI" target="_blank" rel="noopener noreferrer">WATCH | Thailand’s First ‘UFO Days’ Draws Alien Hunters to Nakhon Nayok | APT</a></p><p class="youtube-embed-meta">Channel: APT &middot; Views: 484 &middot; Uploaded: February 2026 &middot; Length: 4 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xo3X5M7dcDI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xo3X5M7dcDI">Open on YouTube</a></p></div></div></div>
 
@@ -1257,222 +1257,222 @@ This is where Thailand connects naturally to broader country-by-country UFO rese
 
 Thailand’s sightings are not evenly distributed in meaning or source quality. Central Thailand contributes the strongest modern belief site, Khao Kala, where the UFO narrative is tied to meditation, apocalyptic prophecy and pilgrimage. The north and north-east contribute many light reports, including lantern-prone skies, borderland military ambiguity and the Mekong fireball tradition. Bangkok and tourist regions contribute the fastest viral cycle, where phones, aircraft, drones, reflections and social media can turn a brief object into a national talking point before specialists weigh in.
 
-The 1969 Nakhon Phanom file also shows why border and military geography matters. During periods of conflict or counter-insurgency, “unidentified” can mean “unattributed aircraft”, not “unknown physics”. The report’s discussion of possible clandestine flights, helicopters, religious processions and natural or cultural causes is a reminder that Thai UFO cases must be read against terrain, military activity, festivals and local reporting habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1969 Nakhon Phanom file also shows why border and military geography matters. During periods of conflict or counter-insurgency, “unidentified” can mean “unattributed aircraft”, not “unknown physics”. The report’s discussion of possible clandestine flights, helicopters, religious processions and natural or cultural causes is a reminder that Thai UFO cases must be read against terrain, military activity, festivals and local reporting habits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Khao Kala, by contrast, is best understood as a belief-centred hotspot. Reports of lights are only one part of the story; the group’s identity, gatherings and claimed communications are just as important. That makes it a sibling case to other country-level UFO belief centres rather than to radar-visual military incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Khao Kala, by contrast, is best understood as a belief-centred hotspot. Reports of lights are only one part of the story; the group’s identity, gatherings and claimed communications are just as important. That makes it a sibling case to other country-level UFO belief centres rather than to radar-visual military incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaosodenglish.com">[Khaosod English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaosodenglish.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Mekong cases form a third category: recurring anomalous lights with folklore, tourism and sceptical counterclaims intertwined. They are not well served by forcing them into a simple UFO box. Their relevance is that they show how aerial mystery, place identity and public spectacle can reinforce each other over decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Khao Kala</span><span class="citation-popover-snippet">Khao Kala</span></span></span>
+The Mekong cases form a third category: recurring anomalous lights with folklore, tourism and sceptical counterclaims intertwined. They are not well served by forcing them into a simple UFO box. Their relevance is that they show how aerial mystery, place identity and public spectacle can reinforce each other over decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Khao Kala</span><span class="citation-popover-snippet">Khao Kala</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sButq3LRtEM" title="Thailand&#x27;s Alien Religion | Close Encounters of the Thai Kind | Coconuts TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sButq3LRtEM" target="_blank" rel="noopener noreferrer">Thailand&#x27;s Alien Religion | Close Encounters of the Thai Kind | Coconuts TV</a></p><p class="youtube-embed-meta">Channel: Coconuts TV &middot; Views: 50.5K &middot; Uploaded: November 2019 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sButq3LRtEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sButq3LRtEM">Open on YouTube</a></p></div></div></div>
 
 ## Evidence quality: what is confirmed, contested and debunked
 
-**Confirmed records and events.** The 1969 Nakhon Phanom report confirms that US-linked intelligence personnel documented and analysed UFO-like sightings in Thailand during the Vietnam War era. It does not confirm alien craft; it confirms an official concern about unidentified helicopter-like activity, ambiguous observations and possible misidentifications. Khao Kala’s 2019 police action is also confirmed, but the confirmed issue was suspected forest encroachment, not extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed records and events.** The 1969 Nakhon Phanom report confirms that US-linked intelligence personnel documented and analysed UFO-like sightings in Thailand during the Vietnam War era. It does not confirm alien craft; it confirms an official concern about unidentified helicopter-like activity, ambiguous observations and possible misidentifications. Khao Kala’s 2019 police action is also confirmed, but the confirmed issue was suspected forest encroachment, not extraterrestrial contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested claims.** Khao Kala contact narratives, claims of telepathic messages and recurring UFO appearances remain culturally significant but evidentially weak. The Naga fireballs are likewise contested: witnesses and festival-goers report lights, but explanations range from legend to natural gas to human-made flares, and different observations may not share one cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">meet the thai ufo group convinced that aliens will save us from armageddon</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buddhistdoor.net">[Buddhistdoor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buddhistdoor.net</span><span class="citation-popover-title">buddhist ufo hunters seek contact on a mountain in thailand</span><span class="citation-popover-snippet">buddhist ufo hunters seek contact on a mountain in thailand</span></span></span>
+**Contested claims.** Khao Kala contact narratives, claims of telepathic messages and recurring UFO appearances remain culturally significant but evidentially weak. The Naga fireballs are likewise contested: witnesses and festival-goers report lights, but explanations range from legend to natural gas to human-made flares, and different observations may not share one cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">meet the thai ufo group convinced that aliens will save us from armageddon</span><span class="citation-popover-snippet">meet the thai ufo group convinced that aliens will save us from armageddon</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buddhistdoor.net">[Buddhistdoor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buddhistdoor.net</span><span class="citation-popover-title">buddhist ufo hunters seek contact on a mountain in thailand</span><span class="citation-popover-snippet">buddhist ufo hunters seek contact on a mountain in thailand</span></span></span>
 
-**Debunked or plausibly explained cases.** The December 2024 mysterious light over Thailand was attributed by NARIT to reflected rocket-plume light. Sky lanterns are formally recognised as aviation-relevant objects capable of drifting and distracting pilots. Viral UFO media can also be fabricated or miscaptioned, as Thai PBS Verify found in the AI-generated “giant UFO” video case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-title">mysterious light in night skies over thailand a reflected rocket flame narit</span><span class="citation-popover-snippet">mysterious light in night skies over thailand a reflected rocket flame narit</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.caat.or.th">[CAAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.caat.or.th</span><span class="citation-popover-snippet">Open source on or.th.</span></span></span>
+**Debunked or plausibly explained cases.** The December 2024 mysterious light over Thailand was attributed by NARIT to reflected rocket-plume light. Sky lanterns are formally recognised as aviation-relevant objects capable of drifting and distracting pilots. Viral UFO media can also be fabricated or miscaptioned, as Thai PBS Verify found in the AI-generated “giant UFO” video case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.thaipbs.or.th">[Thai PBS World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.thaipbs.or.th</span><span class="citation-popover-title">mysterious light in night skies over thailand a reflected rocket flame narit</span><span class="citation-popover-snippet">mysterious light in night skies over thailand a reflected rocket flame narit</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.caat.or.th">[CAAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.caat.or.th</span><span class="citation-popover-snippet">Open source on or.th.</span></span></span>
 
-**Still unresolved but weakly evidenced.** Civilian database entries from Bangkok, Mae Chang, Nong Khai and other Thai locations remain unresolved in the ordinary sense that no final explanation is attached to the public report. That does not make them strong anomalies. Most lack the independent, instrumented data that would allow a robust conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18768" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184804" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Still unresolved but weakly evidenced.** Civilian database entries from Bangkok, Mae Chang, Nong Khai and other Thai locations remain unresolved in the ordinary sense that no final explanation is attached to the public report. That does not make them strong anomalies. Most lack the independent, instrumented data that would allow a robust conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18768" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184804" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Thailand_a2b7c1-Illustration-3-dark.svg" | relative_url }}" alt="Thailand illustration 3" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to assess a Thailand UFO claim
 
 A useful Thailand-specific test begins with setting. If the report is from northern Thailand during lantern season, lanterns and aviation notices should be checked first. If it is from the Mekong around the fireball festival, the cultural and festival context is not optional background; it is part of the evidence. If it is from a border or military area, aircraft, drones, security operations and cross-border activity matter before exotic explanations.
 
-The next test is data quality. Stronger cases preserve the original file, date, time, location, viewing direction, duration, witness count, camera metadata and possible comparison objects. Weaker cases are reposted clips with no origin, zoomed phone footage, anonymous claims, or stories that shift from “unidentified light” to “alien craft” without new evidence. NASA’s UAP report and AARO’s public explanations both point towards the same discipline: better sensors, better metadata and less stigma around reporting are more useful than dramatic certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The next test is data quality. Stronger cases preserve the original file, date, time, location, viewing direction, duration, witness count, camera metadata and possible comparison objects. Weaker cases are reposted clips with no origin, zoomed phone footage, anonymous claims, or stories that shift from “unidentified light” to “alien craft” without new evidence. NASA’s UAP report and AARO’s public explanations both point towards the same discipline: better sensors, better metadata and less stigma around reporting are more useful than dramatic certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 The final test is explanation before interpretation. A report may be sincere and still be a lantern, rocket plume, meteor, aircraft, drone, bird, balloon, reflection or hoax. Thailand’s best cases are interesting precisely because they show this full range: military uncertainty at Nakhon Phanom, contact belief at Khao Kala, contested river lights on the Mekong, and modern digital misidentification in urban skies. That makes Thailand a compact but revealing branch of the wider country-by-country UFO record: rich in sightings and belief, thin on hard proof, and strongest when read with local geography, festivals, aviation and archives in view.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Counts as a Thai UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Counts as a Thai UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for sorting strong and weak sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for sorting strong and weak sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page weighing documented cases against misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page weighing documented cases against misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Relevant to modern debates over evidence and disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to modern debates over evidence and disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful where folklore and UFO narratives intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful where folklore and UFO narratives intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-thai-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-thai-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1488,7 +1488,7 @@ The final test is explanation before interpretation. A report may be sincere and
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1508,7 +1508,7 @@ The final test is explanation before interpretation. A report may be sincere and
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1540,7 +1540,7 @@ The final test is explanation before interpretation. A report may be sincere and
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1592,7 +1592,7 @@ The final test is explanation before interpretation. A report may be sincere and
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1637,7 +1637,7 @@ The final test is explanation before interpretation. A report may be sincere and
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1675,241 +1675,240 @@ The final test is explanation before interpretation. A report may be sincere and
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: openminds.tv  
-   Link: <a href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf</a>  
+   Link:<a href="https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.openminds.tv/wp-content/uploads/DIA-UFO-Thailand-69.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: buddhistdoor.net  
    Title: buddhist ufo hunters seek contact on a mountain in thailand  
-   Link: <a href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow">https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/</a>  
+   Link:<a href="https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/" target="_blank" rel="noopener noreferrer nofollow">https://www.buddhistdoor.net/news/buddhist-ufo-hunters-seek-contact-on-a-mountain-in-thailand/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: vice.com  
    Title: meet the thai ufo group convinced that aliens will save us from armageddon  
-   Link: <a href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/</a>  
+   Link:<a href="https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/meet-the-thai-ufo-group-convinced-that-aliens-will-save-us-from-armageddon/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Naga fireball  
-   Link: <a href="https://en.wikipedia.org/wiki/Naga_fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naga_fireball</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Naga_fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naga_fireball</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 2015 Thailand bolide  
-   Link: <a href="https://en.wikipedia.org/wiki/2015_Thailand_bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2015_Thailand_bolide</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2015_Thailand_bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2015_Thailand_bolide</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thaipbs.or.th  
-   Link: <a href="https://www.thaipbs.or.th/verify/en/content/12637" target="_blank" rel="noopener noreferrer nofollow">https://www.thaipbs.or.th/verify/en/content/12637</a>  
+   Link:<a href="https://www.thaipbs.or.th/verify/en/content/12637" target="_blank" rel="noopener noreferrer nofollow">https://www.thaipbs.or.th/verify/en/content/12637</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=36767" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=36767</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=36767" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=36767</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46184" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46184</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=46184" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46184</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192966" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192966</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=192966" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192966</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197577" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197577</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197577" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197577</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Khao Kala  
-   Link: <a href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Khao_Kala</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Khao_Kala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Khao_Kala</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Unusual articles  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Thailand" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thailand</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thailand" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thailand</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mekong" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mekong</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mekong" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mekong</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=18768" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18768</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=18768" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18768</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184804" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184804</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184804" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184804</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: science.nasa.gov  
    Title: UAPISTTermsof Reference Signed  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ia801803.us.archive.org  
-   Link: <a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
+   Link:<a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Thailand's Calkala UFO Cult Revealed | Expedition X | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8WrZLIwwX9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH | Thailand&#x27;s First &#x27;UFO Days&#x27; Draws Alien Hunters to Nakhon Nayok...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8WrZLIwwX9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8WrZLIwwX9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH | Thailand&#x27;s First &#x27;UFO Days&#x27; Draws Alien Hunters to Nakhon Nayok...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: WATCH | Thailand's First 'UFO Days' Draws Alien Hunters to Nakhon Nayok  
-   Link: <a href="https://www.youtube.com/watch?v=Xo3X5M7dcDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xo3X5M7dcDI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand&#x27;s Alien Religion | Close Encounters of the Thai Kind | Coconuts TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xo3X5M7dcDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xo3X5M7dcDI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand&#x27;s Alien Religion | Close Encounters of the Thai Kind | Coconuts TV...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: khaosodenglish.com  
-   Link: <a href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow">https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/</a>  
+   Link:<a href="https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/" target="_blank" rel="noopener noreferrer nofollow">https://www.khaosodenglish.com/featured/2019/08/16/police-raid-ufo-sighting-hotspot-for-suspected-forest-encroachment/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: world.thaipbs.or.th  
    Title: mysterious light in night skies over thailand a reflected rocket flame narit  
-   Link: <a href="https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886" target="_blank" rel="noopener noreferrer nofollow">https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886</a>  
+   Link:<a href="https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886" target="_blank" rel="noopener noreferrer nofollow">https://world.thaipbs.or.th/detail/mysterious-light-in-night-skies-over-thailand-a-reflected-rocket-flame-narit/55886</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
+   Link:<a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Thailand" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Thailand</a>  
+   Link:<a href="https://www.britannica.com/place/Thailand" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Thailand</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nationthailand.com  
-   Link: <a href="https://www.nationthailand.com/news/world/40066014" target="_blank" rel="noopener noreferrer nofollow">https://www.nationthailand.com/news/world/40066014</a>  
+   Link:<a href="https://www.nationthailand.com/news/world/40066014" target="_blank" rel="noopener noreferrer nofollow">https://www.nationthailand.com/news/world/40066014</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: defence-industry.eu  
-   Link: <a href="https://defence-industry.eu/u-s-department-of-war-releases-second-batch-of-ufo-files-with-videos-requested-by-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://defence-industry.eu/u-s-department-of-war-releases-second-batch-of-ufo-files-with-videos-requested-by-lawmakers/</a>  
+   Link:<a href="https://defence-industry.eu/u-s-department-of-war-releases-second-batch-of-ufo-files-with-videos-requested-by-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://defence-industry.eu/u-s-department-of-war-releases-second-batch-of-ufo-files-with-videos-requested-by-lawmakers/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: thaipbs.or.th  
-   Link: <a href="https://www.thaipbs.or.th/verify/en" target="_blank" rel="noopener noreferrer nofollow">https://www.thaipbs.or.th/verify/en</a>  
+   Link:<a href="https://www.thaipbs.or.th/verify/en" target="_blank" rel="noopener noreferrer nofollow">https://www.thaipbs.or.th/verify/en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Thailand" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Thailand</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Thailand" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Thailand</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/foreign-travel-advice/thailand" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/thailand</a>  
+   Link:<a href="https://www.gov.uk/foreign-travel-advice/thailand" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/thailand</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Thailand's Alien Religion | Close Encounters of the Thai Kind | Coconuts TV  
-   Link: <a href="https://www.youtube.com/watch?v=sButq3LRtEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sButq3LRtEM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shining the World: Aliens...really invaded Thailand? (3) (Broadcast in 1996)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sButq3LRtEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sButq3LRtEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shining the World: Aliens...really invaded Thailand? (3) (Broadcast in 1996)...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Khao Kala Hill & the UFO Phenomenon in Thailand  
-   Link: <a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pp4vHZeIDQ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand&#x27;s Calkala UFO Cult Revealed | Expedition X | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pp4vHZeIDQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pp4vHZeIDQ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thailand&#x27;s Calkala UFO Cult Revealed | Expedition X | Discovery Channel...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/</a>  
+   Link:<a href="https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/</a>  
+   Link:<a href="https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThaiEnquirer/posts/a-video-of-a-suspected-meteor-posted-by-the-thai-astronomical-society-came-from-/847021244102465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiEnquirer/posts/a-video-of-a-suspected-meteor-posted-by-the-thai-astronomical-society-came-from-/847021244102465/</a>  
+   Link:<a href="https://www.facebook.com/ThaiEnquirer/posts/a-video-of-a-suspected-meteor-posted-by-the-thai-astronomical-society-came-from-/847021244102465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiEnquirer/posts/a-video-of-a-suspected-meteor-posted-by-the-thai-astronomical-society-came-from-/847021244102465/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/williamgill.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/williamgill.html</a>  
+   Link:<a href="https://www.ufocasebook.com/williamgill.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/williamgill.html</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C2ch414sqVk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C2ch414sqVk/</a>  
+   Link:<a href="https://www.instagram.com/p/C2ch414sqVk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C2ch414sqVk/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: aip.caat.or.th  
-   Link: <a href="https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html" target="_blank" rel="noopener noreferrer nofollow">https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html</a>
+   Link:<a href="https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html" target="_blank" rel="noopener noreferrer nofollow">https://aip.caat.or.th/2025-11-04/html/eSUP/VT-eSUP-25-52-A-en-GB.html</a>

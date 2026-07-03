@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /madagascar-f92bcb-index/
 description: 'Focused pages that expand on Madagascar''s UFO Record: Famous Case,
   Thin....'
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Madagascar_f92bcb
 parent_title: 'Madagascar''s UFO Record: Famous Case, Thin...'
@@ -17,7 +17,7 @@ parent_permalink: /madagascars-ufo-record-famous-case-thin/
 
 # Explore Topics in Madagascar's UFO Record: Famous Case, Thin...
 
-The following pages expand on the main **[Madagascar's UFO Record: Famous Case, Thin...]({{ '/madagascars-ufo-record-famous-case-thin/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Madagascar's UFO Record: Famous Case, Thin...]({{ '/madagascars-ufo-record-famous-case-thin/' | relative_url }})** page and cover its key branches in.
 
 - [Archive Trail]({{ '/archive-trail/' | relative_url }})
 - [Chronology]({{ '/chronology/' | relative_url }})

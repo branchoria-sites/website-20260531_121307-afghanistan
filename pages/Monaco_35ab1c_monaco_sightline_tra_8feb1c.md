@@ -248,14 +248,14 @@ image: /assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-1-s
 
 ## Introduction
 
-Monaco’s UFO reports are unusually vulnerable to misidentification because the Principality combines three factors rarely concentrated in such a small area: frequent helicopter traffic, tightly regulated but highly visible drone operations, and a coastal landscape that compresses distance and scale. A light over the Mediterranean may appear close when it is kilometres away. A helicopter approaching the heliport can seem stationary against a dark mountain backdrop. Event lighting reflected on haze or low cloud can create moving patterns that look airborne. In a country where observers often view the sky from steep streets, terraces, high-rise balconies, or waterfront promenades, ordinary aerial activity can appear far more unusual than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blade.com/nice-monaco-helicopter-charter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blade.com">[Blade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blade.com</span><span class="citation-popover-snippet">Helicopter Charter between Nice and MonacoBook a by-the-seat helicopter from Nice Airport to Monaco with BLADE for €195. Avoid traff...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitmonaco.com">[Visit Monaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitmonaco.com</span><span class="citation-popover-snippet">Getting to Monaco by helicopter: access to the PrincipalityArrive in Monaco by helicopter in 7 minutes from Nice. Enjoy a panoramic fligh...</span></span></span>
+Monaco’s UFO reports are unusually vulnerable to misidentification because the Principality combines three factors rarely concentrated in such a small area: frequent helicopter traffic, tightly regulated but highly visible drone operations, and a coastal landscape that compresses distance and scale. A light over the Mediterranean may appear close when it is kilometres away. A helicopter approaching the heliport can seem stationary against a dark mountain backdrop. Event lighting reflected on haze or low cloud can create moving patterns that look airborne. In a country where observers often view the sky from steep streets, terraces, high-rise balconies, or waterfront promenades, ordinary aerial activity can appear far more unusual than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blade.com/nice-monaco-helicopter-charter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blade.com">[Blade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blade.com</span><span class="citation-popover-snippet">Helicopter Charter between Nice and MonacoBook a by-the-seat helicopter from Nice Airport to Monaco with BLADE for €195. Avoid traff...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitmonaco.com">[Visit Monaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitmonaco.com</span><span class="citation-popover-snippet">Getting to Monaco by helicopter: access to the PrincipalityArrive in Monaco by helicopter in 7 minutes from Nice. Enjoy a panoramic fligh...</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-1-dark.svg" | relative_url }}" alt="Local Traps illustration 1" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For anyone evaluating Monaco-linked UFO claims, local aviation and geography are not side issues. They are often the first explanations that need to be checked before an observation can be treated as genuinely anomalous.
 
 ## Nice–Monaco Helicopter Traffic
 
-The helicopter corridor between Nice Côte d’Azur Airport and Monaco is one of the busiest and most distinctive aviation routes on the French Riviera. Scheduled flights regularly connect Nice and Monaco in roughly seven minutes, with departures throughout the day and additional charter, sightseeing, and transfer flights operating from Monaco’s heliport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heliairmonaco.com/en/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heliairmonaco.com">[heliairmonaco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heliairmonaco.com</span><span class="citation-popover-snippet">Héli Air Monaco &#124; Helicopter flightsHelicopter flights: Nice,Monaco, Cannes, Nice,Saint Tropez, Courchevel, Sightseeing, Panoramic, Heli...</span></span></span> [3Blade 3monacair.mc]
+The helicopter corridor between Nice Côte d’Azur Airport and Monaco is one of the busiest and most distinctive aviation routes on the French Riviera. Scheduled flights regularly connect Nice and Monaco in roughly seven minutes, with departures throughout the day and additional charter, sightseeing, and transfer flights operating from Monaco’s heliport.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heliairmonaco.com/en/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heliairmonaco.com">[heliairmonaco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heliairmonaco.com</span><span class="citation-popover-snippet">Héli Air Monaco &#124; Helicopter flightsHelicopter flights: Nice,Monaco, Cannes, Nice,Saint Tropez, Courchevel, Sightseeing, Panoramic, Heli...</span></span></span> [3Blade 3monacair.mc]
 
 From the perspective of a casual observer, helicopters in this corridor can produce several classic UFO characteristics:
 
@@ -271,7 +271,7 @@ From the perspective of a casual observer, helicopters in this corridor can prod
 
 Monaco’s geography amplifies these effects. Much of the population looks outward from elevated positions toward the Mediterranean. A helicopter approaching along the coastline can maintain nearly the same apparent position for an extended period while slowly changing altitude. To an observer without reference points, this can resemble a stationary glowing object.
 
-The concentration of aviation activity also matters. Beyond airport transfers, helicopter sightseeing flights regularly operate over the Riviera coastline, while private and charter traffic increases during major events such as the Monaco Grand Prix and yacht gatherings. The result is a sky environment far busier than many visitors assume. Blade <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seenice.com/helicopters/heli-air-monaco-657120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seenice.com">[SeeNice.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seenice.com</span><span class="citation-popover-snippet">Helicopter Airport Transfers &amp; Scenic Flights, MonacoThey specialise in regular helicopter flights from Monaca to Nice airport, a mere se...</span></span></span>
+The concentration of aviation activity also matters. Beyond airport transfers, helicopter sightseeing flights regularly operate over the Riviera coastline, while private and charter traffic increases during major events such as the Monaco Grand Prix and yacht gatherings. The result is a sky environment far busier than many visitors assume. Blade<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seenice.com/helicopters/heli-air-monaco-657120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seenice.com">[SeeNice.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seenice.com</span><span class="citation-popover-snippet">Helicopter Airport Transfers &amp; Scenic Flights, MonacoThey specialise in regular helicopter flights from Monaca to Nice airport, a mere se...</span></span></span>
 
 For investigators, checking heliport operations and flight-tracking data is therefore a routine first step when assessing Monaco sightings.
 
@@ -281,7 +281,7 @@ For investigators, checking heliport operations and flight-tracking data is ther
 
 Drones provide another source of potential confusion, although Monaco’s regulatory environment is far stricter than many observers realise.
 
-The Monegasque government significantly tightened drone regulations in 2022, requiring authorisations, operational oversight, and additional safety measures. The Civil Aviation Authority manages airspace and drone activity, while Monaco’s FlySafe system was developed to identify and monitor authorised drone operations within the Principality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/monaco/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[eaglepubs.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-snippet">Drones and AAM Across the Worldby S Nilsson · 2023 — The drafting, implementation and monitoring of legislation and regulations on civil...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.gouv.mc/A-la-Une-du-Portail/New-regulations-on-use-of-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.gouv.mc">[3en.gouv.mc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.gouv.mc</span><span class="citation-popover-title">New regulations on use of drones</span><span class="citation-popover-snippet">9 Feb 2022 — In addition, technical and safety equipment is now mandatory to improve the visibility of drones and to reduce risks on the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monaconow.com/a-pioneering-programme-to-manage-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monaconow.com">[Monaco Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monaconow.com</span><span class="citation-popover-snippet">A pioneering programme to manage dronesThe FlySafe programme makes it possible to identify and monitor all authorised drone flights in th...</span></span></span>
+The Monegasque government significantly tightened drone regulations in 2022, requiring authorisations, operational oversight, and additional safety measures. The Civil Aviation Authority manages airspace and drone activity, while Monaco’s FlySafe system was developed to identify and monitor authorised drone operations within the Principality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/monaco/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[eaglepubs.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-snippet">Drones and AAM Across the Worldby S Nilsson · 2023 — The drafting, implementation and monitoring of legislation and regulations on civil...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.gouv.mc/A-la-Une-du-Portail/New-regulations-on-use-of-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.gouv.mc">[3en.gouv.mc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.gouv.mc</span><span class="citation-popover-title">New regulations on use of drones</span><span class="citation-popover-snippet">9 Feb 2022 — In addition, technical and safety equipment is now mandatory to improve the visibility of drones and to reduce risks on the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://monaconow.com/a-pioneering-programme-to-manage-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monaconow.com">[Monaco Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monaconow.com</span><span class="citation-popover-snippet">A pioneering programme to manage dronesThe FlySafe programme makes it possible to identify and monitor all authorised drone flights in th...</span></span></span>
 
 Several characteristics of drones overlap with common UFO descriptions:
 
@@ -295,11 +295,11 @@ Several characteristics of drones overlap with common UFO descriptions:
 
 </div>
 
-However, Monaco's regulatory framework means that the mere presence of a drone does not automatically imply an unknown object. Operators of larger drones generally require authorisation, and specific flight permissions are often needed before operations occur. The FlySafe monitoring system was introduced precisely to improve awareness of authorised drone activity in the Principality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://monentreprise.gouv.mc/en/themes/sector-specific-or-regulated-activities/specific-authorisations/communications-and-media/how-to-apply-for-approval-to-operate-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monentreprise.gouv.mc">[Mon Entreprise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monentreprise.gouv.mc</span><span class="citation-popover-title">how to apply for approval to operate drones</span><span class="citation-popover-snippet">Mon EntrepriseHow to apply for approval to operate drones20 Mar 2023 — All natural or legal persons wishing to operate a remotely piloted...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monaconow.com/a-pioneering-programme-to-manage-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monaconow.com">[Monaco Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monaconow.com</span><span class="citation-popover-snippet">A pioneering programme to manage dronesThe FlySafe programme makes it possible to identify and monitor all authorised drone flights in th...</span></span></span>
+However, Monaco's regulatory framework means that the mere presence of a drone does not automatically imply an unknown object. Operators of larger drones generally require authorisation, and specific flight permissions are often needed before operations occur. The FlySafe monitoring system was introduced precisely to improve awareness of authorised drone activity in the Principality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://monentreprise.gouv.mc/en/themes/sector-specific-or-regulated-activities/specific-authorisations/communications-and-media/how-to-apply-for-approval-to-operate-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monentreprise.gouv.mc">[Mon Entreprise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monentreprise.gouv.mc</span><span class="citation-popover-title">how to apply for approval to operate drones</span><span class="citation-popover-snippet">Mon EntrepriseHow to apply for approval to operate drones20 Mar 2023 — All natural or legal persons wishing to operate a remotely piloted...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://monaconow.com/a-pioneering-programme-to-manage-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monaconow.com">[Monaco Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monaconow.com</span><span class="citation-popover-snippet">A pioneering programme to manage dronesThe FlySafe programme makes it possible to identify and monitor all authorised drone flights in th...</span></span></span>
 
 This creates an important investigative distinction. A modern Monaco sighting involving unusual lights may have a potentially verifiable explanation through authorised drone operations, event photography, infrastructure inspection, media coverage, or commercial filming. Investigators who skip those checks risk treating a traceable flight as a mystery.
 
-At the same time, unauthorised recreational drone use has not disappeared entirely. Reports from local discussions and drone-guidance publications consistently describe Monaco as a jurisdiction with unusually restrictive drone rules, meaning sightings of small illuminated objects cannot be dismissed automatically but should be examined against local aviation records whenever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Monaco/comments/1kaqfn9/drone_video_in_monaco/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Drone video in Monaco</span><span class="citation-popover-snippet">Drone video in MonacoApril 29, 2025 — Recreational drone flights are strictly prohibited in Monaco, regardless of the drone&#x27;s weigh...</span><span class="citation-popover-meta">Published: April 29, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://drone-traveller.com/drone-laws-monaco/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone-traveller.com">[Drone Traveller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone-traveller.com</span><span class="citation-popover-title">drone laws monaco</span><span class="citation-popover-snippet">Drone rules and laws in MonacoJan 30, 2026 — In Monaco, you need a permit for almost all drone flights. Only drones with a take-off weigh...</span></span></span>
+At the same time, unauthorised recreational drone use has not disappeared entirely. Reports from local discussions and drone-guidance publications consistently describe Monaco as a jurisdiction with unusually restrictive drone rules, meaning sightings of small illuminated objects cannot be dismissed automatically but should be examined against local aviation records whenever possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Monaco/comments/1kaqfn9/drone_video_in_monaco/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Drone video in Monaco</span><span class="citation-popover-snippet">Drone video in MonacoApril 29, 2025 — Recreational drone flights are strictly prohibited in Monaco, regardless of the drone&#x27;s weigh...</span><span class="citation-popover-meta">Published: April 29, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://drone-traveller.com/drone-laws-monaco/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone-traveller.com">[Drone Traveller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone-traveller.com</span><span class="citation-popover-title">drone laws monaco</span><span class="citation-popover-snippet">Drone rules and laws in MonacoJan 30, 2026 — In Monaco, you need a permit for almost all drone flights. Only drones with a take-off weigh...</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-2-dark.svg" | relative_url }}" alt="Local Traps illustration 2" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_monaco_sightline_tra_8feb1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sea, Mountains, and Distance Illusions
@@ -326,7 +326,7 @@ These conditions help explain why seemingly extraordinary aerial lights may prod
 
 A useful example comes from a nearby Riviera case investigated by France’s official UFO investigation unit, GEIPAN.
 
-In November 2024, witnesses in nearby Villefranche-sur-Mer reported unusual white circular light formations moving in the sky. GEIPAN concluded that the phenomenon was probably caused by skytracker event lighting projected onto low cloud cover. Investigators noted that a major event was beginning at Monaco’s Grimaldi Forum at the relevant time and in the relevant direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grimaldiforum.com/en/destination-monaco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grimaldiforum.com">[Grimaldi Forum Monaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grimaldiforum.com</span><span class="citation-popover-snippet">Grimaldi Forum MonacoDestination Monaco: Organise your event at...Monaco is 25 km from Nice Côte d &#x27;Azur International Airport by car vi...</span></span></span>
+In November 2024, witnesses in nearby Villefranche-sur-Mer reported unusual white circular light formations moving in the sky. GEIPAN concluded that the phenomenon was probably caused by skytracker event lighting projected onto low cloud cover. Investigators noted that a major event was beginning at Monaco’s Grimaldi Forum at the relevant time and in the relevant direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grimaldiforum.com/en/destination-monaco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grimaldiforum.com">[Grimaldi Forum Monaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grimaldiforum.com</span><span class="citation-popover-snippet">Grimaldi Forum MonacoDestination Monaco: Organise your event at...Monaco is 25 km from Nice Côte d &#x27;Azur International Airport by car vi...</span></span></span>
 
 The significance of this case extends beyond the specific explanation. It demonstrates how Monaco’s entertainment and event infrastructure can create aerial-looking phenomena visible well beyond the Principality itself. When low clouds, haze, or moisture are present, powerful light beams can appear as moving objects or structured formations in the sky.
 
@@ -357,194 +357,194 @@ These checks do not explain every report. They do, however, address the most com
 Within the broader Monaco UFO record, helicopters, drones, and coastal sightline effects are therefore not minor background considerations. They are among the principal reasons that many aerial observations in and around the Principality require careful local verification before they can be considered genuinely unidentified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Monaco&#x27;s Skyline Makes UFOs Harder To Judge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Monaco&#x27;s Skyline Makes UFOs Harder To Judge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible sightings while emphasizing investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible sightings while emphasizing investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses observation conditions, distance effects, and witness interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses observation conditions, distance effects, and witness interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides modern context for evaluating aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern context for evaluating aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Relevant to visual misjudgments and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to visual misjudgments and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-monaco-s-skyline-makes-ufos-harder-to-judge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ Within the broader Monaco UFO record, helicopters, drones, and coastal sightline
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ Within the broader Monaco UFO record, helicopters, drones, and coastal sightline
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ Within the broader Monaco UFO record, helicopters, drones, and coastal sightline
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ Within the broader Monaco UFO record, helicopters, drones, and coastal sightline
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ Within the broader Monaco UFO record, helicopters, drones, and coastal sightline
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,153 +747,152 @@ Within the broader Monaco UFO record, helicopters, drones, and coastal sightline
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blade.com  
-   Link: <a href="https://www.blade.com/nice-monaco-helicopter-charter" target="_blank" rel="noopener noreferrer nofollow">https://www.blade.com/nice-monaco-helicopter-charter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Charter between Nice and MonacoBook a by-the-seat helicopter from Nice Airport to Monaco with BLADE for €195. Avoid traff...</p></details>
+   Link:<a href="https://www.blade.com/nice-monaco-helicopter-charter" target="_blank" rel="noopener noreferrer nofollow">https://www.blade.com/nice-monaco-helicopter-charter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Charter between Nice and MonacoBook a by-the-seat helicopter from Nice Airport to Monaco with BLADE for €195. Avoid traff...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: monacair.mc  
-   Link: <a href="https://monacair.mc/en/destinations/monaco" target="_blank" rel="noopener noreferrer nofollow">https://monacair.mc/en/destinations/monaco</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Private Helicopter Flights to or from MonacoDiscover Monaco with Monacair helicopter flights connecting Monaco to Nice and beyond. Experi...</p></details>
+   Link:<a href="https://monacair.mc/en/destinations/monaco" target="_blank" rel="noopener noreferrer nofollow">https://monacair.mc/en/destinations/monaco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Private Helicopter Flights to or from MonacoDiscover Monaco with Monacair helicopter flights connecting Monaco to Nice and beyond. Experi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heliairmonaco.com  
-   Link: <a href="https://www.heliairmonaco.com/en/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heliairmonaco.com/en/index.html</a>  
+   Link:<a href="https://www.heliairmonaco.com/en/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heliairmonaco.com/en/index.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blade.com  
-   Link: <a href="https://www.blade.com/helicopter-tour-monaco" target="_blank" rel="noopener noreferrer nofollow">https://www.blade.com/helicopter-tour-monaco</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Tour Monaco: Routes, Prices &amp; Booking GuideTreat yourself to a unique experience with our BLADE helicopter tours from Mon...</p></details>
+   Link:<a href="https://www.blade.com/helicopter-tour-monaco" target="_blank" rel="noopener noreferrer nofollow">https://www.blade.com/helicopter-tour-monaco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Tour Monaco: Routes, Prices &amp; Booking GuideTreat yourself to a unique experience with our BLADE helicopter tours from Mon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: seenice.com  
-   Link: <a href="https://www.seenice.com/helicopters/heli-air-monaco-657120" target="_blank" rel="noopener noreferrer nofollow">https://www.seenice.com/helicopters/heli-air-monaco-657120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Airport Transfers &amp; Scenic Flights, MonacoThey specialise in regular helicopter flights from Monaca to Nice airport, a mere se...</p></details>
+   Link:<a href="https://www.seenice.com/helicopters/heli-air-monaco-657120" target="_blank" rel="noopener noreferrer nofollow">https://www.seenice.com/helicopters/heli-air-monaco-657120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Airport Transfers &amp; Scenic Flights, MonacoThey specialise in regular helicopter flights from Monaca to Nice airport, a mere se...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en.gouv.mc  
    Title: New regulations on use of drones  
-   Link: <a href="https://en.gouv.mc/A-la-Une-du-Portail/New-regulations-on-use-of-drones" target="_blank" rel="noopener noreferrer nofollow">https://en.gouv.mc/A-la-Une-du-Portail/New-regulations-on-use-of-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2022 — In addition, technical and safety equipment is now mandatory to improve the visibility of drones and to reduce risks on the...</p></details>
+   Link:<a href="https://en.gouv.mc/A-la-Une-du-Portail/New-regulations-on-use-of-drones" target="_blank" rel="noopener noreferrer nofollow">https://en.gouv.mc/A-la-Une-du-Portail/New-regulations-on-use-of-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2022 — In addition, technical and safety equipment is now mandatory to improve the visibility of drones and to reduce risks on the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: monservicepublic.gouv.mc  
-   Link: <a href="https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-public-works-the-environment-and-urban-development/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-public-works-the-environment-and-urban-development/civil-aviation-authority</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mon Service PublicCivil Aviation AuthorityRole. This Department deals with: The drafting, implementation and monitoring of legislation an...</p></details>
+   Link:<a href="https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-public-works-the-environment-and-urban-development/civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-public-works-the-environment-and-urban-development/civil-aviation-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mon Service PublicCivil Aviation AuthorityRole. This Department deals with: The drafting, implementation and monitoring of legislation an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eaglepubs.erau.edu  
-   Link: <a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/monaco/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/monaco/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and AAM Across the Worldby S Nilsson · 2023 — The drafting, implementation and monitoring of legislation and regulations on civil...</p></details>
+   Link:<a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/monaco/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/monaco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and AAM Across the Worldby S Nilsson · 2023 — The drafting, implementation and monitoring of legislation and regulations on civil...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: monentreprise.gouv.mc  
    Title: how to apply for approval to operate drones  
-   Link: <a href="https://monentreprise.gouv.mc/en/themes/sector-specific-or-regulated-activities/specific-authorisations/communications-and-media/how-to-apply-for-approval-to-operate-drones" target="_blank" rel="noopener noreferrer nofollow">https://monentreprise.gouv.mc/en/themes/sector-specific-or-regulated-activities/specific-authorisations/communications-and-media/how-to-apply-for-approval-to-operate-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mon EntrepriseHow to apply for approval to operate drones20 Mar 2023 — All natural or legal persons wishing to operate a remotely piloted...</p></details>
+   Link:<a href="https://monentreprise.gouv.mc/en/themes/sector-specific-or-regulated-activities/specific-authorisations/communications-and-media/how-to-apply-for-approval-to-operate-drones" target="_blank" rel="noopener noreferrer nofollow">https://monentreprise.gouv.mc/en/themes/sector-specific-or-regulated-activities/specific-authorisations/communications-and-media/how-to-apply-for-approval-to-operate-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mon EntrepriseHow to apply for approval to operate drones20 Mar 2023 — All natural or legal persons wishing to operate a remotely piloted...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: Drone video in Monaco  
-   Link: <a href="https://www.reddit.com/r/Monaco/comments/1kaqfn9/drone_video_in_monaco/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Monaco/comments/1kaqfn9/drone_video_in_monaco/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone video in MonacoApril 29, 2025 — Recreational drone flights are strictly prohibited in Monaco, regardless of the drone&#x27;s weigh...</p></details>
+   Link:<a href="https://www.reddit.com/r/Monaco/comments/1kaqfn9/drone_video_in_monaco/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Monaco/comments/1kaqfn9/drone_video_in_monaco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone video in MonacoApril 29, 2025 — Recreational drone flights are strictly prohibited in Monaco, regardless of the drone&#x27;s weigh...</p></details>
    Published: April 29, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drone-traveller.com  
    Title: drone laws monaco  
-   Link: <a href="https://drone-traveller.com/drone-laws-monaco/" target="_blank" rel="noopener noreferrer nofollow">https://drone-traveller.com/drone-laws-monaco/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone rules and laws in MonacoJan 30, 2026 — In Monaco, you need a permit for almost all drone flights. Only drones with a take-off weigh...</p></details>
+   Link:<a href="https://drone-traveller.com/drone-laws-monaco/" target="_blank" rel="noopener noreferrer nofollow">https://drone-traveller.com/drone-laws-monaco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone rules and laws in MonacoJan 30, 2026 — In Monaco, you need a permit for almost all drone flights. Only drones with a take-off weigh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: monacair.mc  
-   Link: <a href="https://monacair.mc/en/panoramic-helicopter-flight" target="_blank" rel="noopener noreferrer nofollow">https://monacair.mc/en/panoramic-helicopter-flight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Panoramic flightPanoramic Flights with MONACAIR. Discover the French Riviera and the Alps as you&#x27;ve never seen them before with our exclu...</p></details>
+   Link:<a href="https://monacair.mc/en/panoramic-helicopter-flight" target="_blank" rel="noopener noreferrer nofollow">https://monacair.mc/en/panoramic-helicopter-flight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Panoramic flightPanoramic Flights with MONACAIR. Discover the French Riviera and the Alps as you&#x27;ve never seen them before with our exclu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: service-public.gouv.fr  
-   Link: <a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F34630?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.service-public.gouv.fr/particuliers/vosdroits/F34630?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone: Pilotage rules to be respectedWant to fly a drone for leisure or, more generally, for a low-risk flight? You must then comply with...</p></details>
+   Link:<a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F34630?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.service-public.gouv.fr/particuliers/vosdroits/F34630?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone: Pilotage rules to be respectedWant to fly a drone for leisure or, more generally, for a low-risk flight? You must then comply with...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: visitmonaco.com  
-   Link: <a href="https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting to Monaco by helicopter: access to the PrincipalityArrive in Monaco by helicopter in 7 minutes from Nice. Enjoy a panoramic fligh...</p></details>
+   Link:<a href="https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting to Monaco by helicopter: access to the PrincipalityArrive in Monaco by helicopter in 7 minutes from Nice. Enjoy a panoramic fligh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: visitmonaco.com  
-   Link: <a href="https://www.visitmonaco.com/en/explore/activities/routes-walks/exploring-the-city/exploration-by-air" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmonaco.com/en/explore/activities/routes-walks/exploring-the-city/exploration-by-air</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monaco, between sky and MediterraneanFrom the heliport on the Mediterranean coast, the Principality is revealed in a whole new light, wit...</p></details>
+   Link:<a href="https://www.visitmonaco.com/en/explore/activities/routes-walks/exploring-the-city/exploration-by-air" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmonaco.com/en/explore/activities/routes-walks/exploring-the-city/exploration-by-air</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monaco, between sky and MediterraneanFrom the heliport on the Mediterranean coast, the Principality is revealed in a whole new light, wit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: monaconow.com  
-   Link: <a href="https://monaconow.com/a-pioneering-programme-to-manage-drones/" target="_blank" rel="noopener noreferrer nofollow">https://monaconow.com/a-pioneering-programme-to-manage-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A pioneering programme to manage dronesThe FlySafe programme makes it possible to identify and monitor all authorised drone flights in th...</p></details>
+   Link:<a href="https://monaconow.com/a-pioneering-programme-to-manage-drones/" target="_blank" rel="noopener noreferrer nofollow">https://monaconow.com/a-pioneering-programme-to-manage-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A pioneering programme to manage dronesThe FlySafe programme makes it possible to identify and monitor all authorised drone flights in th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: grimaldiforum.com  
-   Link: <a href="https://www.grimaldiforum.com/en/destination-monaco" target="_blank" rel="noopener noreferrer nofollow">https://www.grimaldiforum.com/en/destination-monaco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grimaldi Forum MonacoDestination Monaco: Organise your event at...Monaco is 25 km from Nice Côte d &#x27;Azur International Airport by car vi...</p></details>
+   Link:<a href="https://www.grimaldiforum.com/en/destination-monaco" target="_blank" rel="noopener noreferrer nofollow">https://www.grimaldiforum.com/en/destination-monaco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grimaldi Forum MonacoDestination Monaco: Organise your event at...Monaco is 25 km from Nice Côte d &#x27;Azur International Airport by car vi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g190408-d26106846-Reviews-BLADE_Monaco-Monaco_Ville.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g190408-d26106846-Reviews-BLADE_Monaco-Monaco_Ville.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BLADE MONACO (2026) All You SHOULD Know Before...BLADE is a helicopter airline that organizes flights between Nice airport and Monaco, c...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g190408-d26106846-Reviews-BLADE_Monaco-Monaco_Ville.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g190408-d26106846-Reviews-BLADE_Monaco-Monaco_Ville.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BLADE MONACO (2026) All You SHOULD Know Before...BLADE is a helicopter airline that organizes flights between Nice airport and Monaco, c...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Checklist for drone pilotsPublic liability insurance needed · Minimum age 16 years · Maximum altitude 120 metres above ground · Maximum t...</p></details>
+   Link:<a href="https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Checklist for drone pilotsPublic liability insurance needed · Minimum age 16 years · Maximum altitude 120 metres above ground · Maximum t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-monaco/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-monaco/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in MonacoCertification Requirements for Flying a Drone in Monaco · Operators of drones weighing over 500 grams (1.1 pounds) mu...</p></details>
+   Link:<a href="https://uavcoach.com/drone-laws-in-monaco/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-monaco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in MonacoCertification Requirements for Flying a Drone in Monaco · Operators of drones weighing over 500 grams (1.1 pounds) mu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lWK3zi5o-Yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lWK3zi5o-Yk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lWK3zi5o-Yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lWK3zi5o-Yk</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: seeantibes.com  
-   Link: <a href="https://www.seeantibes.com/helicopters/monacair-helicopters-678425" target="_blank" rel="noopener noreferrer nofollow">https://www.seeantibes.com/helicopters/monacair-helicopters-678425</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>airport transfers and helicopter brunch flights into the Nice and Provence Regions.Read more...</p></details>
+   Link:<a href="https://www.seeantibes.com/helicopters/monacair-helicopters-678425" target="_blank" rel="noopener noreferrer nofollow">https://www.seeantibes.com/helicopters/monacair-helicopters-678425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>airport transfers and helicopter brunch flights into the Nice and Provence Regions.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: earthofdrones.com  
    Title: Latest Drone Rules In Monaco For fly your drone in Monaco  
-   Link: <a href="https://earthofdrones.com/latest-drone-rules-in-monaco/" target="_blank" rel="noopener noreferrer nofollow">https://earthofdrones.com/latest-drone-rules-in-monaco/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest Drone Rules In MonacoFor fly your drone in Monaco - you have to be up to date with latest drone laws and drone rules in Monaco. He...</p></details>
+   Link:<a href="https://earthofdrones.com/latest-drone-rules-in-monaco/" target="_blank" rel="noopener noreferrer nofollow">https://earthofdrones.com/latest-drone-rules-in-monaco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest Drone Rules In MonacoFor fly your drone in Monaco - you have to be up to date with latest drone laws and drone rules in Monaco. He...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: grupooneair.com  
-   Link: <a href="https://www.grupooneair.com/spanish-drones-laws/" target="_blank" rel="noopener noreferrer nofollow">https://www.grupooneair.com/spanish-drones-laws/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spanish Drone Laws in 2026: Everything you need to knowYes, for most drones you need a certificate that proves a minimum level of training...</p></details>
+   Link:<a href="https://www.grupooneair.com/spanish-drones-laws/" target="_blank" rel="noopener noreferrer nofollow">https://www.grupooneair.com/spanish-drones-laws/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spanish Drone Laws in 2026: Everything you need to knowYes, for most drones you need a certificate that proves a minimum level of training...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWKwhniiAp9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWKwhniiAp9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s more than just transportation—it is a definitive statement...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWKwhniiAp9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWKwhniiAp9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s more than just transportation—it is a definitive statement...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DU8TOYXkyIv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8TOYXkyIv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ade operates helicopter ride between the two cities and can be booked...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DU8TOYXkyIv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU8TOYXkyIv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ade operates helicopter ride between the two cities and can be booked...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: monacolife.net  
    Title: monaco opens path for use of unmanned craft  
-   Link: <a href="https://monacolife.net/monaco-opens-path-for-use-of-unmanned-craft/" target="_blank" rel="noopener noreferrer nofollow">https://monacolife.net/monaco-opens-path-for-use-of-unmanned-craft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2022 — The government has introduced new air mobility regulation designed to safeguard Monaco&#x27;s airspace and the population while b...</p></details>
+   Link:<a href="https://monacolife.net/monaco-opens-path-for-use-of-unmanned-craft/" target="_blank" rel="noopener noreferrer nofollow">https://monacolife.net/monaco-opens-path-for-use-of-unmanned-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2022 — The government has introduced new air mobility regulation designed to safeguard Monaco&#x27;s airspace and the population while b...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tripadvisor.com  
    Title: Panoramic flight shared by helicopter  
-   Link: <a href="https://www.tripadvisor.com/AttractionProductReview-g190408-d17801260-Panoramic_flight_shared_by_helicopter_Overview_of_Monaco-Monaco_Ville.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/AttractionProductReview-g190408-d17801260-Panoramic_flight_shared_by_helicopter_Overview_of_Monaco-Monaco_Ville.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of MonacoAbout. Climb aboard a new, air-conditioned helicopter with a 180 ° panoramic view to discover the best of Monaco from t...</p></details>
+   Link:<a href="https://www.tripadvisor.com/AttractionProductReview-g190408-d17801260-Panoramic_flight_shared_by_helicopter_Overview_of_Monaco-Monaco_Ville.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/AttractionProductReview-g190408-d17801260-Panoramic_flight_shared_by_helicopter_Overview_of_Monaco-Monaco_Ville.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of MonacoAbout. Climb aboard a new, air-conditioned helicopter with a 180 ° panoramic view to discover the best of Monaco from t...</p></details>

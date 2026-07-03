@@ -255,23 +255,23 @@ During the 1960s, Argentina experienced what long‑time UFO researchers describ
 
 One of the earliest and most cited chapters in Argentina’s UFO lore centres on a series of sightings around **Bahía Blanca and the nearby Puerto Belgrano/Naval and Espora Air Base areas in May 1962**. According to compiled reports, **multiple sightings occurred over successive days**, and at least two incidents drew attention in local newspapers and later compilations of declassified material.
 
-* On **11 and 18 May 1962**, unidentified objects were reportedly observed near **Espora Air Base**, a naval air facility close to Bahía Blanca. Witnesses described luminous bodies in the sky, though details are sparse in surviving open‑source material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
-* **12 May 1962**: Three truck drivers on Route 35 claimed to see an illuminated object sitting in a field. They reported it rising, crossing the road, and then splitting into two separate luminous parts before departing at speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
-* **21 May 1962**: A photographer from the newspaper *La Nueva Provincia*, **Miguel Tohmé**, reportedly took two photographs of a bright, oval‑shaped object over Bahía Blanca; at least one image was published on the front page the next day. Subsequent later‑reported CIA files mention this sighting, though details beyond basic descriptions are minimal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lacapital.com.ar">[La Capital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lacapital.com.ar</span><span class="citation-popover-title">un avistamiento ovni bahia blanca los documentos desclasificados la cia n501176</span><span class="citation-popover-snippet">La CapitalUn avistamiento de ovni en Bahía Blanca entre los documentos desclasificados de la CIAFebruary 3, 2016...</span><span class="citation-popover-meta">Published: February 3, 2016</span></span></span>
+* On **11 and 18 May 1962**, unidentified objects were reportedly observed near **Espora Air Base**, a naval air facility close to Bahía Blanca. Witnesses described luminous bodies in the sky, though details are sparse in surviving open‑source material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+* **12 May 1962**: Three truck drivers on Route 35 claimed to see an illuminated object sitting in a field. They reported it rising, crossing the road, and then splitting into two separate luminous parts before departing at speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+* **21 May 1962**: A photographer from the newspaper *La Nueva Provincia*, **Miguel Tohmé**, reportedly took two photographs of a bright, oval‑shaped object over Bahía Blanca; at least one image was published on the front page the next day. Subsequent later‑reported CIA files mention this sighting, though details beyond basic descriptions are minimal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lacapital.com.ar">[La Capital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lacapital.com.ar</span><span class="citation-popover-title">un avistamiento ovni bahia blanca los documentos desclasificados la cia n501176</span><span class="citation-popover-snippet">La CapitalUn avistamiento de ovni en Bahía Blanca entre los documentos desclasificados de la CIAFebruary 3, 2016...</span><span class="citation-popover-meta">Published: February 3, 2016</span></span></span>
 
-Contemporary local press framed these events as unexplained aerial phenomena; one 1962 *La Razon* article noted “saucers” sighted over several regions and said that radio networks had requested all possible eyewitness reports during a mid‑year wave of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/larazon17jul1962.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: the newspapers, flying saucers in Argentina, 1962July 17, 1962...</span><span class="citation-popover-meta">Published: July 17, 1962</span></span></span>
+Contemporary local press framed these events as unexplained aerial phenomena; one 1962 *La Razon* article noted “saucers” sighted over several regions and said that radio networks had requested all possible eyewitness reports during a mid‑year wave of sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/larazon17jul1962.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: the newspapers, flying saucers in Argentina, 1962July 17, 1962...</span><span class="citation-popover-meta">Published: July 17, 1962</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/06bicArT70U" title="¿Ovnis enfrentando a militares? Esto sabemos del supuesto ataque a base de Bahía Blanca en Argentina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=06bicArT70U" target="_blank" rel="noopener noreferrer">¿Ovnis enfrentando a militares? Esto sabemos del supuesto ataque a base de Bahía Blanca en Argentina</a></p><p class="youtube-embed-meta">Channel: El Heraldo de México &middot; Views: 214.2K &middot; Uploaded: September 2023 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=06bicArT70U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=06bicArT70U">Open on YouTube</a></p></div></div></div>
 
 ### Claims Versus Confirmed Evidence
 
-Some later UFO enthusiasts and organisations, citing declassified U.S. intelligence records and interviews, have claimed more sensational details — for example, that naval personnel recovered a crashed craft near Puerto Belgrano on **22 May 1962** and that components were later transferred to the United States. These narratives also include alleged “metamaterials” recovered from the site and even accounts of deceased occupants. However, these claims **rest on secondary interpretations and unverified documents within ufology communities**, not on publicly released official Argentine military records with clear provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cadena3.com/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadena3.com">[Cadena 3 Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadena3.com</span><span class="citation-popover-title">Cadena 3 Argentina Aseguran que un ovni cayó en Bahía Blanca en los &#x27;60</span><span class="citation-popover-snippet">Cadena 3 ArgentinaAseguran que un ovni cayó en Bahía Blanca en los &#x27;60 - Noticias - Cadena 3 ArgentinaFebruary 20, 2021...</span><span class="citation-popover-meta">Published: February 20, 2021</span></span></span>
+Some later UFO enthusiasts and organisations, citing declassified U.S. intelligence records and interviews, have claimed more sensational details — for example, that naval personnel recovered a crashed craft near Puerto Belgrano on **22 May 1962** and that components were later transferred to the United States. These narratives also include alleged “metamaterials” recovered from the site and even accounts of deceased occupants. However, these claims **rest on secondary interpretations and unverified documents within ufology communities**, not on publicly released official Argentine military records with clear provenance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cadena3.com/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadena3.com">[Cadena 3 Argentina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadena3.com</span><span class="citation-popover-title">Cadena 3 Argentina Aseguran que un ovni cayó en Bahía Blanca en los &#x27;60</span><span class="citation-popover-snippet">Cadena 3 ArgentinaAseguran que un ovni cayó en Bahía Blanca en los &#x27;60 - Noticias - Cadena 3 ArgentinaFebruary 20, 2021...</span><span class="citation-popover-meta">Published: February 20, 2021</span></span></span>
 
 ## Military Scrambles and Buenos Aires Sightings
 
 Beyond the Bahía Blanca area, the **intersection of UFO reports with formal air service actions** became notable in mid‑1960s Buenos Aires.
 
-* On **16 July 1965**, multiple residents of Buenos Aires reported seeing bright disc‑shaped objects hovering and departing quickly. The volume of reports that day prompted the Argentine Air Force’s **Seventh Air Brigade** to dispatch **three Gloster Meteor jets from Morón Air Base** to investigate. According to compiled listings of sightings, the jets were unable to make contact, and no physical trace or confirmation resulted from the interception attempt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+* On **16 July 1965**, multiple residents of Buenos Aires reported seeing bright disc‑shaped objects hovering and departing quickly. The volume of reports that day prompted the Argentine Air Force’s **Seventh Air Brigade** to dispatch **three Gloster Meteor jets from Morón Air Base** to investigate. According to compiled listings of sightings, the jets were unable to make contact, and no physical trace or confirmation resulted from the interception attempt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
 
 This incident illustrates the early point at which reported sightings began to intersect with **formal military responses**, even if the outcome was an absence of intercept success.
 
@@ -280,9 +280,9 @@ This incident illustrates the early point at which reported sightings began to i
 
 ### What the Records Are
 
-* **Eyewitness reports and newspaper coverage** from the 1960s demonstrate that unidentified aerial phenomena captured public and, at times, military attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
-* At least **one military scramble** (Buenos Aires, 1965) is documented in aggregated sighting lists as having occurred in response to multiple civilian reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
-* Photographic records from the period — most notably the May 1962 Bahía Blanca images — were widely disseminated in local media, though their interpretation remains contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lacapital.com.ar">[La Capital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lacapital.com.ar</span><span class="citation-popover-title">un avistamiento ovni bahia blanca los documentos desclasificados la cia n501176</span><span class="citation-popover-snippet">La CapitalUn avistamiento de ovni en Bahía Blanca entre los documentos desclasificados de la CIAFebruary 3, 2016...</span><span class="citation-popover-meta">Published: February 3, 2016</span></span></span>
+* **Eyewitness reports and newspaper coverage** from the 1960s demonstrate that unidentified aerial phenomena captured public and, at times, military attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+* At least **one military scramble** (Buenos Aires, 1965) is documented in aggregated sighting lists as having occurred in response to multiple civilian reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+* Photographic records from the period — most notably the May 1962 Bahía Blanca images — were widely disseminated in local media, though their interpretation remains contested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lacapital.com.ar">[La Capital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lacapital.com.ar</span><span class="citation-popover-title">un avistamiento ovni bahia blanca los documentos desclasificados la cia n501176</span><span class="citation-popover-snippet">La CapitalUn avistamiento de ovni en Bahía Blanca entre los documentos desclasificados de la CIAFebruary 3, 2016...</span><span class="citation-popover-meta">Published: February 3, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qBbnHLxE5nA" title="Los OVNIS de Bahía Blanca, Argentina | Relatos del lado oscuro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qBbnHLxE5nA" target="_blank" rel="noopener noreferrer">Los OVNIS de Bahía Blanca, Argentina | Relatos del lado oscuro</a></p><p class="youtube-embed-meta">Channel: Relatos del Lado Oscuro &middot; Views: 322.0K &middot; Uploaded: November 2024 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qBbnHLxE5nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qBbnHLxE5nA">Open on YouTube</a></p></div></div></div>
 
@@ -306,194 +306,194 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ySYsvYEKzvA" title="Canal 9 Bahía Blanca - 1971 - Charlando con un extraterrestre - Archivo Canal 9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ySYsvYEKzvA" target="_blank" rel="noopener noreferrer">Canal 9 Bahía Blanca - 1971 - Charlando con un extraterrestre - Archivo Canal 9</a></p><p class="youtube-embed-meta">Channel: El Nueve TV &middot; Views: 45.9K &middot; Uploaded: January 2014 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ySYsvYEKzvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ySYsvYEKzvA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Argentina&#x27;s 1960s UFO Waves Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Argentina&#x27;s 1960s UFO Waves Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers the era and investigative style associated with 1960s sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the era and investigative style associated with 1960s sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how mass sightings and military reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how mass sightings and military reports are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Adds perspective on aviation and military encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds perspective on aviation and military encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places historical waves within broader patterns of reported phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places historical waves within broader patterns of reported phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-argentina-s-1960s-ufo-waves-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,104 +699,104 @@ In sum, the **1960s sightings and military scrambles in Argentina remain importa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Argentina  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cadena3.com  
    Title: Cadena 3 Argentina Aseguran que un ovni cayó en Bahía Blanca en los '60  
-   Link: <a href="https://www.cadena3.com/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077" target="_blank" rel="noopener noreferrer nofollow">https://www.cadena3.com/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cadena 3 ArgentinaAseguran que un ovni cayó en Bahía Blanca en los &#x27;60 - Noticias - Cadena 3 ArgentinaFebruary 20, 2021...</p></details>
+   Link:<a href="https://www.cadena3.com/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077" target="_blank" rel="noopener noreferrer nofollow">https://www.cadena3.com/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cadena 3 ArgentinaAseguran que un ovni cayó en Bahía Blanca en los &#x27;60 - Noticias - Cadena 3 ArgentinaFebruary 20, 2021...</p></details>
    Published: February 20, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cadena3.com  
    Title: Aseguran que un ovni cayó en Bahía Blanca en los '60  
-   Link: <a href="https://www.cadena3.com/amp/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077" target="_blank" rel="noopener noreferrer nofollow">https://www.cadena3.com/amp/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias - Cadena 3 ArgentinaFebruary 20, 2021 — ASEGURAN QUE UN OVNI CAYÓ EN BAHÍA BLANCA EN LOS &#x27;60 20/02/2021 | 08:23 | Investigadores...</p></details>
+   Link:<a href="https://www.cadena3.com/amp/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077" target="_blank" rel="noopener noreferrer nofollow">https://www.cadena3.com/amp/noticia/sociedad/aseguran-que-un-ovni-cayo-en-bahia-blanca-en-los-60_284077</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noticias - Cadena 3 ArgentinaFebruary 20, 2021 — ASEGURAN QUE UN OVNI CAYÓ EN BAHÍA BLANCA EN LOS &#x27;60 20/02/2021 | 08:23 | Investigadores...</p></details>
    Published: February 20, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lacapital.com.ar  
    Title: un avistamiento ovni bahia blanca los documentos desclasificados la cia n501176  
-   Link: <a href="https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>La CapitalUn avistamiento de ovni en Bahía Blanca entre los documentos desclasificados de la CIAFebruary 3, 2016...</p></details>
+   Link:<a href="https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lacapital.com.ar/informacion-general/un-avistamiento-ovni-bahia-blanca-los-documentos-desclasificados-la-cia-n501176.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La CapitalUn avistamiento de ovni en Bahía Blanca entre los documentos desclasificados de la CIAFebruary 3, 2016...</p></details>
    Published: February 3, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/larazon17jul1962.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/larazon17jul1962.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: the newspapers, flying saucers in Argentina, 1962July 17, 1962...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/larazon17jul1962.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/larazon17jul1962.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: the newspapers, flying saucers in Argentina, 1962July 17, 1962...</p></details>
    Published: July 17, 1962  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ovni.fandom.com  
-   Link: <a href="https://ovni.fandom.com/es/wiki/Argentina" target="_blank" rel="noopener noreferrer nofollow">https://ovni.fandom.com/es/wiki/Argentina</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ovni Wiki | FandomARGENTINA Iniciar sesión para guardar Guardar Editar * Historial * Purgar página * Comentarios (0) iframe ARGENTINA O...</p></details>
+   Link:<a href="https://ovni.fandom.com/es/wiki/Argentina" target="_blank" rel="noopener noreferrer nofollow">https://ovni.fandom.com/es/wiki/Argentina</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ovni Wiki | FandomARGENTINA Iniciar sesión para guardar Guardar Editar * Historial * Purgar página * Comentarios (0) iframe ARGENTINA O...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academia-lab.com  
-   Link: <a href="https://academia-lab.com/enciclopedia/avistamientos-de-ovnis-en-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://academia-lab.com/enciclopedia/avistamientos-de-ovnis-en-argentina/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avistamientos de ovnis en Argentina _ AcademiaLabAVISTAMIENTOS DE OVNIS EN ARGENTINA format_list_bulleted Contenido keyboard_arrow_down I...</p></details>
+   Link:<a href="https://academia-lab.com/enciclopedia/avistamientos-de-ovnis-en-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://academia-lab.com/enciclopedia/avistamientos-de-ovnis-en-argentina/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avistamientos de ovnis en Argentina _ AcademiaLabAVISTAMIENTOS DE OVNIS EN ARGENTINA format_list_bulleted Contenido keyboard_arrow_down I...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eldiariodigital.com.ar  
    Title: en 1962 aviones de la armada argentina se toparon con una escuadrilla de ovnis  
-   Link: <a href="https://eldiariodigital.com.ar/2024/04/22/en-1962-aviones-de-la-armada-argentina-se-toparon-con-una-escuadrilla-de-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://eldiariodigital.com.ar/2024/04/22/en-1962-aviones-de-la-armada-argentina-se-toparon-con-una-escuadrilla-de-ovnis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El Diario DigitalApril 22, 2024 — EN 1962 AVIONES DE LA ARMADA ARGENTINA SE TOPARON CON UNA ESCUADRILLA DE OVNIS * 22 de abril, 2024 * Na...</p></details>
+   Link:<a href="https://eldiariodigital.com.ar/2024/04/22/en-1962-aviones-de-la-armada-argentina-se-toparon-con-una-escuadrilla-de-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://eldiariodigital.com.ar/2024/04/22/en-1962-aviones-de-la-armada-argentina-se-toparon-con-una-escuadrilla-de-ovnis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El Diario DigitalApril 22, 2024 — EN 1962 AVIONES DE LA ARMADA ARGENTINA SE TOPARON CON UNA ESCUADRILLA DE OVNIS * 22 de abril, 2024 * Na...</p></details>
    Published: April 22, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cronica.com.ar  
    Title: Crónica¿Un OVNI cayó en Bahía Blanca? | Crónica | Firme junto al pueblo  
-   Link: <a href="https://www.cronica.com.ar/paranormal/Un-OVNI-cayo-en-Bahia-Blanca-20210218-0063.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cronica.com.ar/paranormal/Un-OVNI-cayo-en-Bahia-Blanca-20210218-0063.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crónica | Firme junto al puebloFebruary 18, 2021 — ¿UN OVNI CAYÓ EN BAHÍA BLANCA? EXCLUSIVO DE CRONICA.COM.AR. INVESTIGADORES ASEGURAN...</p></details>
+   Link:<a href="https://www.cronica.com.ar/paranormal/Un-OVNI-cayo-en-Bahia-Blanca-20210218-0063.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cronica.com.ar/paranormal/Un-OVNI-cayo-en-Bahia-Blanca-20210218-0063.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crónica | Firme junto al puebloFebruary 18, 2021 — ¿UN OVNI CAYÓ EN BAHÍA BLANCA? EXCLUSIVO DE CRONICA.COM.AR. INVESTIGADORES ASEGURAN...</p></details>
    Published: February 18, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/ufoe/section_10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_10.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 6, 1952 Gulf of Mexico case; Coast Guard Cutter Sebago case, November 5, 1957, Section VIII...</p></details>
+   Link:<a href="https://www.nicap.org/ufoe/section_10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_10.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 6, 1952 Gulf of Mexico case; Coast Guard Cutter Sebago case, November 5, 1957, Section VIII...</p></details>
    Published: December 6, 1952  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: alien-ufo-research.com  
    Title: Bahia Blanca is just south of Buenos Aires. People sai  
-   Link: <a href="https://alien-ufo-research.com/documents/cia/bahia-alanca-auenos-aires-argentina-1962.php" target="_blank" rel="noopener noreferrer nofollow">https://alien-ufo-research.com/documents/cia/bahia-alanca-auenos-aires-argentina-1962.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bahia Blanca Buenos Aires Argentina 1962 |Alien-UFO-Research|May 25, 1962 — CIA FILE: BAHIA BLANCA BUENOS AIRES ARGENTINA 1962 Argentina...</p></details>
+   Link:<a href="https://alien-ufo-research.com/documents/cia/bahia-alanca-auenos-aires-argentina-1962.php" target="_blank" rel="noopener noreferrer nofollow">https://alien-ufo-research.com/documents/cia/bahia-alanca-auenos-aires-argentina-1962.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bahia Blanca Buenos Aires Argentina 1962 |Alien-UFO-Research|May 25, 1962 — CIA FILE: BAHIA BLANCA BUENOS AIRES ARGENTINA 1962 Argentina...</p></details>
    Published: May 25, 1962  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Canal 9 Bahía Blanca  
-   Link: <a href="http://www.youtube.com/watch?v=ySYsvYEKzvA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ySYsvYEKzvA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI Argentina años 60 Bahía Blanca Los OVNIS de Bahía Blanca, Argentina | Relatos del lado oscuro Relatos del Lado Oscuro...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ySYsvYEKzvA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ySYsvYEKzvA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI Argentina años 60 Bahía Blanca Los OVNIS de Bahía Blanca, Argentina | Relatos del lado oscuro Relatos del Lado Oscuro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: infozona.com.ar  
    Title: Aseguran que un ovni cayó en Bahía Blanca  
-   Link: <a href="https://www.infozona.com.ar/aseguran-que-un-ovni-cayo-en-bahia-blanca/" target="_blank" rel="noopener noreferrer nofollow">https://www.infozona.com.ar/aseguran-que-un-ovni-cayo-en-bahia-blanca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2021 — ASEGURAN QUE UN OVNI CAYÓ EN BAHÍA BLANCA Francisco Díaz 21/02/2021 Image Según la investigadora Andrea Pérez Simondi...</p></details>
+   Link:<a href="https://www.infozona.com.ar/aseguran-que-un-ovni-cayo-en-bahia-blanca/" target="_blank" rel="noopener noreferrer nofollow">https://www.infozona.com.ar/aseguran-que-un-ovni-cayo-en-bahia-blanca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2021 — ASEGURAN QUE UN OVNI CAYÓ EN BAHÍA BLANCA Francisco Díaz 21/02/2021 Image Según la investigadora Andrea Pérez Simondi...</p></details>
    Published: February 21, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: elterritorio.com.ar  
    Title: Indicios que un Ovni cayó en Bahía Blanca en los 60 | El Territorio  
-   Link: <a href="https://www.elterritorio.com.ar/noticias/2021/02/20/693436-indicios-que-un-ovni-cayo-en-bahia-blanca-en-los-60" target="_blank" rel="noopener noreferrer nofollow">https://www.elterritorio.com.ar/noticias/2021/02/20/693436-indicios-que-un-ovni-cayo-en-bahia-blanca-en-los-60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La investigadora Andrea Pérez Simondini, integrante de la Comisión de Estudio del Fenómeno Ovni...</p></details>
+   Link:<a href="https://www.elterritorio.com.ar/noticias/2021/02/20/693436-indicios-que-un-ovni-cayo-en-bahia-blanca-en-los-60" target="_blank" rel="noopener noreferrer nofollow">https://www.elterritorio.com.ar/noticias/2021/02/20/693436-indicios-que-un-ovni-cayo-en-bahia-blanca-en-los-60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La investigadora Andrea Pérez Simondini, integrante de la Comisión de Estudio del Fenómeno Ovni...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Argentina  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Argentina - Wikimedia CommonsApril 5, 2026 — CATEGORY:UFO SIGHTINGS IN ARGENTINA MEDIA IN CATEGORY...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Argentina - Wikimedia CommonsApril 5, 2026 — CATEGORY:UFO SIGHTINGS IN ARGENTINA MEDIA IN CATEGORY...</p></details>
    Published: April 5, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=06bicArT70U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=06bicArT70U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>¿Cayó un Extraño Aparato en Bahía Blanca? El Misterio Crece | ALTOMISTERIO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=06bicArT70U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=06bicArT70U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>¿Cayó un Extraño Aparato en Bahía Blanca? El Misterio Crece | ALTOMISTERIO...</p></details>

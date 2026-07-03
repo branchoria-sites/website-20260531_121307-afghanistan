@@ -1194,33 +1194,33 @@ image: /assets/images/Dominica_bc1cd4-overview-social.jpg
 
 ## What the Dominica record actually contains
 
-The first problem in researching UFO phenomena in Dominica is separation. Search engines and UFO databases often pull in Dominican Republic sightings when the intended country is the Commonwealth of Dominica. The National UFO Reporting Center’s location index, for example, lists “Dominican Republic” with multiple reports, while the visible country list around that entry does not show a comparable Dominica listing. It does list broad sea-region categories such as “Caribbean Sea”, which may capture some ambiguous regional reports, but that is not the same as a Dominica-specific case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The first problem in researching UFO phenomena in Dominica is separation. Search engines and UFO databases often pull in Dominican Republic sightings when the intended country is the Commonwealth of Dominica. The National UFO Reporting Center’s location index, for example, lists “Dominican Republic” with multiple reports, while the visible country list around that entry does not show a comparable Dominica listing. It does list broad sea-region categories such as “Caribbean Sea”, which may capture some ambiguous regional reports, but that is not the same as a Dominica-specific case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Dominica_bc1cd4-overview.webp" | relative_url }}" alt="Overview image for Does Dominica Have Real UFO Cases?" loading="eager" decoding="sync" fetchpriority="high">
-Within Dominica-facing sources, the visible record is much less dramatic. Dominica News Online has carried or indexed international UFO/UAP stories and has hosted reader comments using “UFO” jokingly or speculatively, but those are not investigated Dominica sightings. A 2024 local skywatching item on Venus is more useful than most sensational UFO pages because a reader from Giraudel described mistaking the bright evening object for a satellite or UFO before recognising that it appeared repeatedly after sunset and then disappeared — a classic pattern for a bright planet observed through changing atmospheric conditions near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominicanewsonline.com">[Dominica News Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominicanewsonline.com</span><span class="citation-popover-title">Dominica News Online Venus shines brightly as the &#x27;evening star</span><span class="citation-popover-snippet">Dominica News Online Venus shines brightly as the &#x27;evening star</span></span></span>
+Within Dominica-facing sources, the visible record is much less dramatic. Dominica News Online has carried or indexed international UFO/UAP stories and has hosted reader comments using “UFO” jokingly or speculatively, but those are not investigated Dominica sightings. A 2024 local skywatching item on Venus is more useful than most sensational UFO pages because a reader from Giraudel described mistaking the bright evening object for a satellite or UFO before recognising that it appeared repeatedly after sunset and then disappeared — a classic pattern for a bright planet observed through changing atmospheric conditions near the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominicanewsonline.com">[Dominica News Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominicanewsonline.com</span><span class="citation-popover-title">Dominica News Online Venus shines brightly as the &#x27;evening star</span><span class="citation-popover-snippet">Dominica News Online Venus shines brightly as the &#x27;evening star</span></span></span>
 
-One page marketed as “Dominica UFO Sightings & Reports” exists on a private UFO-themed website, but the visible text is generic: it invokes J. Allen Hynek and Project Blue Book rather than presenting a dated Dominica incident with location, witnesses, documents, photographs, radar data, or official follow-up. That kind of page may be a useful signpost that people search for the topic, but it is not strong evidence for a national case history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span></span></span>
+One page marketed as “Dominica UFO Sightings & Reports” exists on a private UFO-themed website, but the visible text is generic: it invokes J. Allen Hynek and Project Blue Book rather than presenting a dated Dominica incident with location, witnesses, documents, photographs, radar data, or official follow-up. That kind of page may be a useful signpost that people search for the topic, but it is not strong evidence for a national case history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span></span></span>
 
 ## A cautious chronology: few cases, many ordinary sky triggers
 
 A Dominica-specific chronology has to be modest. The strongest public items are not formal case files but scattered reports and explanations around unusual lights.
 
-Recent local discussion includes a social-media report of “flying lights” seen from Giraudel on several evenings around 9 pm. As a primary sighting claim it is weak: it is informal, has no verifiable track, no instrument data, and no documented investigation. Yet the description is consistent with a modern category of misidentified sky objects: satellite trains or satellite flares, especially where multiple lights appear on repeated evenings and move silently. Starlink-tracking services explain that newly launched Starlink groups can appear as chains of lights, later spreading out into separate orbits; their predicted passes depend on location, sunlight angle, and local time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1605442746412951/posts/3702471053376766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+Recent local discussion includes a social-media report of “flying lights” seen from Giraudel on several evenings around 9 pm. As a primary sighting claim it is weak: it is informal, has no verifiable track, no instrument data, and no documented investigation. Yet the description is consistent with a modern category of misidentified sky objects: satellite trains or satellite flares, especially where multiple lights appear on repeated evenings and move silently. Starlink-tracking services explain that newly launched Starlink groups can appear as chains of lights, later spreading out into separate orbits; their predicted passes depend on location, sunlight angle, and local time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1605442746412951/posts/3702471053376766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
-Dominica’s Starlink context has become more relevant since the service launched on the island in 2025. That does not mean every “line of lights” report is Starlink, but it does mean residents are more likely to hear about, use, and misrecognise low-Earth-orbit satellite infrastructure. Caribbean Journal reported that Starlink became available in Dominica in June 2025 and described it as a low-Earth-orbit satellite service aimed partly at difficult terrain and underserved areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caribjournal.com/2025/06/06/starlink-dominica-launch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caribjournal.com">[Caribbean Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caribjournal.com</span><span class="citation-popover-title">Caribbean Journal Starlink Just Launched in Dominica</span><span class="citation-popover-snippet">Caribbean Journal Starlink Just Launched in Dominica</span></span></span>
+Dominica’s Starlink context has become more relevant since the service launched on the island in 2025. That does not mean every “line of lights” report is Starlink, but it does mean residents are more likely to hear about, use, and misrecognise low-Earth-orbit satellite infrastructure. Caribbean Journal reported that Starlink became available in Dominica in June 2025 and described it as a low-Earth-orbit satellite service aimed partly at difficult terrain and underserved areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caribjournal.com/2025/06/06/starlink-dominica-launch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caribjournal.com">[Caribbean Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caribjournal.com</span><span class="citation-popover-title">Caribbean Journal Starlink Just Launched in Dominica</span><span class="citation-popover-snippet">Caribbean Journal Starlink Just Launched in Dominica</span></span></span>
 
-Older local references are weaker still. Dominica News Online comment threads include jokes about a “Minister for UFO Sightings over Dominica” and comments comparing unrelated stories to UFOs. These references show that UFO language circulates in local online culture, but they do not establish a case history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominicanewsonline.com">[Dominica News Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominicanewsonline.com</span><span class="citation-popover-title">Dominica News Online Venus shines brightly as the &#x27;evening star</span><span class="citation-popover-snippet">Dominica News Online Venus shines brightly as the &#x27;evening star</span></span></span>
+Older local references are weaker still. Dominica News Online comment threads include jokes about a “Minister for UFO Sightings over Dominica” and comments comparing unrelated stories to UFOs. These references show that UFO language circulates in local online culture, but they do not establish a case history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominicanewsonline.com">[Dominica News Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominicanewsonline.com</span><span class="citation-popover-title">Dominica News Online Venus shines brightly as the &#x27;evening star</span><span class="citation-popover-snippet">Dominica News Online Venus shines brightly as the &#x27;evening star</span></span></span>
 
 <img src="{{ "/assets/images/Dominica_bc1cd4-Illustration-1-dark.svg" | relative_url }}" alt="Does Dominica Have Real UFO Cases? illustration 1" data-theme-src-dark="{{ "/assets/images/Dominica_bc1cd4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dominica_bc1cd4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Dominica may produce strange-sky reports without famous UFO cases
 
 Dominica is a mountainous island with steep terrain, coastal weather shifts, and limited aviation corridors. Those conditions can make ordinary lights appear strange. A bright planet can shimmer, “dance”, vanish behind cloud, or fade near the horizon. Aircraft lights can appear stationary when an aircraft is approaching head-on. Drones, lanterns, flares, cruise-ship lighting, and satellites can all look unusual when viewed from valleys, ridges, or coastal roads without a clear frame of reference.
 
-Aviation is especially relevant. Dominica falls within the Eastern Caribbean Civil Aviation Authority’s accident and serious-incident investigation remit; the ECCAA explicitly includes the Commonwealth of Dominica among the OECS member states covered by its Aircraft Accident and Serious Incidents investigations contact page. That means unusual aviation safety events have an institutional route, but ordinary civilian UFO-style sightings do not automatically become official UAP investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[ECCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-title">AIG Contact Information</span><span class="citation-popover-snippet">AIG Contact Information</span></span></span>
+Aviation is especially relevant. Dominica falls within the Eastern Caribbean Civil Aviation Authority’s accident and serious-incident investigation remit; the ECCAA explicitly includes the Commonwealth of Dominica among the OECS member states covered by its Aircraft Accident and Serious Incidents investigations contact page. That means unusual aviation safety events have an institutional route, but ordinary civilian UFO-style sightings do not automatically become official UAP investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[ECCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-title">AIG Contact Information</span><span class="citation-popover-snippet">AIG Contact Information</span></span></span>
 
-Dominica’s 2023 Civil Aviation Amendment Act also shows that the national legal framework is concerned with civil aviation safety and security, including unlawful interference, false information jeopardising aircraft safety, and the safety of airports and aeronautical facilities. It is not a UFO-reporting statute, but it helps distinguish aviation-relevant hazards from casual skywatching reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dominica.gov.dm/laws/2023/civil_aviation_amendment_act_2023_9_of_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominica.gov.dm">[Government of Dominica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominica.gov.dm</span><span class="citation-popover-title">ernment of Dominica</span><span class="citation-popover-snippet">ernment of Dominica</span></span></span>
+Dominica’s 2023 Civil Aviation Amendment Act also shows that the national legal framework is concerned with civil aviation safety and security, including unlawful interference, false information jeopardising aircraft safety, and the safety of airports and aeronautical facilities. It is not a UFO-reporting statute, but it helps distinguish aviation-relevant hazards from casual skywatching reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dominica.gov.dm/laws/2023/civil_aviation_amendment_act_2023_9_of_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominica.gov.dm">[Government of Dominica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominica.gov.dm</span><span class="citation-popover-title">ernment of Dominica</span><span class="citation-popover-snippet">ernment of Dominica</span></span></span>
 
-The island’s growing aviation infrastructure also matters. Dominica told the International Civil Aviation Organization in 2025 that it was building its first international airport, a major shift in national aviation capacity. More flights, more night operations around the region, and more public attention to the sky can all increase reports of unusual lights without implying anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/sites/default/files/Meetings/FALC2025/STATEMENTS/Dominica.EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Open source on icao.int.</span></span></span>
+The island’s growing aviation infrastructure also matters. Dominica told the International Civil Aviation Organization in 2025 that it was building its first international airport, a major shift in national aviation capacity. More flights, more night operations around the region, and more public attention to the sky can all increase reports of unusual lights without implying anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icao.int/sites/default/files/Meetings/FALC2025/STATEMENTS/Dominica.EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Open source on icao.int.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vhdG0uegxMw" title="Mysterious UAP Caught on Doorbell Cam (Season 5) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vhdG0uegxMw" target="_blank" rel="noopener noreferrer">Mysterious UAP Caught on Doorbell Cam (Season 5) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 23.4K &middot; Uploaded: September 2025 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vhdG0uegxMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vhdG0uegxMw">Open on YouTube</a></p></div></div></div>
 
@@ -1228,22 +1228,22 @@ The island’s growing aviation infrastructure also matters. Dominica told the I
 
 A useful Dominica evidence split is simple:
 
-**Confirmed ordinary sky objects.** The clearest local example is Venus. The Dominica News Online item about Venus as the evening star directly fits a common UFO pattern: a bright object appears after sunset, seems to move or flicker, and becomes puzzling until identified as an astronomical body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominicanewsonline.com">[Dominica News Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominicanewsonline.com</span><span class="citation-popover-title">Dominica News Online Venus shines brightly as the &#x27;evening star</span><span class="citation-popover-snippet">Dominica News Online Venus shines brightly as the &#x27;evening star</span></span></span>
+**Confirmed ordinary sky objects.** The clearest local example is Venus. The Dominica News Online item about Venus as the evening star directly fits a common UFO pattern: a bright object appears after sunset, seems to move or flicker, and becomes puzzling until identified as an astronomical body.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dominicanewsonline.com">[Dominica News Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dominicanewsonline.com</span><span class="citation-popover-title">Dominica News Online Venus shines brightly as the &#x27;evening star</span><span class="citation-popover-snippet">Dominica News Online Venus shines brightly as the &#x27;evening star</span></span></span>
 
-**Contested or low-information sightings.** Informal “flying lights” posts from places such as Giraudel fall here. They may describe real observations, but without time-stamped images, direction, elevation, duration, weather, flight data, satellite-pass checks, and multiple independent witnesses, they remain unidentified only in the weak sense: insufficiently documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+**Contested or low-information sightings.** Informal “flying lights” posts from places such as Giraudel fall here. They may describe real observations, but without time-stamped images, direction, elevation, duration, weather, flight data, satellite-pass checks, and multiple independent witnesses, they remain unidentified only in the weak sense: insufficiently documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
-**Weak or non-case material.** Generic pages claiming Dominica UFO evidence, jokes in comment sections, and syndicated international UFO stories are not reliable Dominica case evidence. They can show public interest, but they do not carry the weight of a case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span></span></span>
+**Weak or non-case material.** Generic pages claiming Dominica UFO evidence, jokes in comment sections, and syndicated international UFO stories are not reliable Dominica case evidence. They can show public interest, but they do not carry the weight of a case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Research Center Global UFOs: Dominica UFO Sightings &amp; Reports</span></span></span>
 
-**Likely misattributions.** Many search results for “Dominica UFO” actually point to the Dominican Republic or wider Caribbean content. That creates an evidence trap: a reader may think they have found a Dominica cluster when the cases belong to another country, a sea corridor, or a regional social-media discussion. NUFORC’s separate listing for Dominican Republic illustrates why this distinction matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Likely misattributions.** Many search results for “Dominica UFO” actually point to the Dominican Republic or wider Caribbean content. That creates an evidence trap: a reader may think they have found a Dominica cluster when the cases belong to another country, a sea corridor, or a regional social-media discussion. NUFORC’s separate listing for Dominican Republic illustrates why this distinction matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Dominica_bc1cd4-Illustration-2-dark.svg" | relative_url }}" alt="Does Dominica Have Real UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Dominica_bc1cd4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dominica_bc1cd4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official UAP standards change the assessment
 
-Modern UAP practice is more conservative than UFO folklore. NASA’s public UAP FAQ states that there are no data supporting the idea that UAP are evidence of alien technologies and notes that most sightings come with limited data, making scientific conclusions difficult. That framework applies neatly to Dominica: a light can be genuinely unidentified to a witness while still falling far short of evidence for an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+Modern UAP practice is more conservative than UFO folklore. NASA’s public UAP FAQ states that there are no data supporting the idea that UAP are evidence of alien technologies and notes that most sightings come with limited data, making scientific conclusions difficult. That framework applies neatly to Dominica: a light can be genuinely unidentified to a witness while still falling far short of evidence for an extraordinary object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-The US All-domain Anomaly Resolution Office’s public imagery pages also show how many seemingly interesting reports are resolved or downgraded when better context is available. Some official cases are assessed as balloons, birds, or prosaic aircraft; others remain unresolved mainly because the available data are insufficient. The important lesson for Dominica is not that US cases explain Dominican sightings, but that “unresolved” does not automatically mean “anomalous”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The US All-domain Anomaly Resolution Office’s public imagery pages also show how many seemingly interesting reports are resolved or downgraded when better context is available. Some official cases are assessed as balloons, birds, or prosaic aircraft; others remain unresolved mainly because the available data are insufficient. The important lesson for Dominica is not that US cases explain Dominican sightings, but that “unresolved” does not automatically mean “anomalous”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-The National Archives has also established a formal Unidentified Anomalous Phenomena [records]({{ 'records-8c7ed7/' | relative_url }}) collection under US law and says it will add UAP records from federal agencies on a rolling basis. That is useful for international comparison and archival discipline, but there is no clear public indication that Dominica has an equivalent official UAP archive or declassified national UFO file set. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The National Archives has also established a formal Unidentified Anomalous Phenomena [records]({{ 'records-8c7ed7/' | relative_url }}) collection under US law and says it will add UAP records from federal agencies on a rolling basis. That is useful for international comparison and archival discipline, but there is no clear public indication that Dominica has an equivalent official UAP archive or declassified national UFO file set.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JXB39hZ60RE" title="Drone swarm mystery and new UAP revelations | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer">Drone swarm mystery and new UAP revelations | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 101.9K &middot; Uploaded: February 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JXB39hZ60RE">Open on YouTube</a></p></div></div></div>
 
@@ -1264,194 +1264,194 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
 <img src="{{ "/assets/images/Dominica_bc1cd4-Illustration-3-dark.svg" | relative_url }}" alt="Does Dominica Have Real UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Dominica_bc1cd4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dominica_bc1cd4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Dominica Have Real UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Dominica Have Real UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how sparse sightings are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how sparse sightings are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects local stories and cultural narratives to wider UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects local stories and cultural narratives to wider UFO traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Examines interpretations of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines interpretations of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced discussion of reported phenomena and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced discussion of reported phenomena and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-dominica-have-real-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-dominica-have-real-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1467,7 +1467,7 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1487,7 +1487,7 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1519,7 +1519,7 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1571,7 +1571,7 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1616,7 +1616,7 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1654,400 +1654,399 @@ That makes Dominica a useful sibling page in a Caribbean UFO project precisely b
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1605442746412951/posts/3702471053376766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1605442746412951/posts/3702471053376766/</a>  
+   Link:<a href="https://www.facebook.com/groups/1605442746412951/posts/3702471053376766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1605442746412951/posts/3702471053376766/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eccaa.aero  
    Title: AIG Contact Information  
-   Link: <a href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article</a>  
+   Link:<a href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dominica.gov.dm  
    Title: ernment of Dominica  
-   Link: <a href="https://dominica.gov.dm/laws/2023/civil_aviation_amendment_act_2023_9_of_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dominica.gov.dm/laws/2023/civil_aviation_amendment_act_2023_9_of_2023.pdf</a>  
+   Link:<a href="https://dominica.gov.dm/laws/2023/civil_aviation_amendment_act_2023_9_of_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dominica.gov.dm/laws/2023/civil_aviation_amendment_act_2023_9_of_2023.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/Meetings/FALC2025/STATEMENTS/Dominica.EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/Meetings/FALC2025/STATEMENTS/Dominica.EN.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/Meetings/FALC2025/STATEMENTS/Dominica.EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/Meetings/FALC2025/STATEMENTS/Dominica.EN.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
+   Link:<a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/</a>  
+   Link:<a href="https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61551914067825/posts/whats-going-on-here-strange-light-in-the-sky-at-grand-case-saint-martin-more-inf/122120516072063802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551914067825/posts/whats-going-on-here-strange-light-in-the-sky-at-grand-case-saint-martin-more-inf/122120516072063802/</a>  
+   Link:<a href="https://www.facebook.com/61551914067825/posts/whats-going-on-here-strange-light-in-the-sky-at-grand-case-saint-martin-more-inf/122120516072063802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551914067825/posts/whats-going-on-here-strange-light-in-the-sky-at-grand-case-saint-martin-more-inf/122120516072063802/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesCaribbean/posts/breaking-news-a-meteor-was-caught-shooting-through-the-sky-across-the-caribbean-/3367003066685733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesCaribbean/posts/breaking-news-a-meteor-was-caught-shooting-through-the-sky-across-the-caribbean-/3367003066685733/</a>  
+   Link:<a href="https://www.facebook.com/TimesCaribbean/posts/breaking-news-a-meteor-was-caught-shooting-through-the-sky-across-the-caribbean-/3367003066685733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesCaribbean/posts/breaking-news-a-meteor-was-caught-shooting-through-the-sky-across-the-caribbean-/3367003066685733/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX19Cincinnati/posts/green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-sky-/1342189967941550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX19Cincinnati/posts/green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-sky-/1342189967941550/</a>  
+   Link:<a href="https://www.facebook.com/FOX19Cincinnati/posts/green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-sky-/1342189967941550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX19Cincinnati/posts/green-fireball-captured-on-dashcam-video-as-a-meteor-streaks-across-the-sky-/1342189967941550/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/</a>  
+   Link:<a href="https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnortheast/videos/watch-the-bizarre-moment-a-suspected-meteor-lights-up-the-night-sky-%EF%B8%8F/1152273016985362/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/</a>  
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-bright-fireball-lit-up-the-night-sky-over-puerto-rico-on-sunday-as-the-leonids/1218133343504643/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GDNOnline/posts/a-meteor-burning-up-over-spains-and-portugals-skies-stunned-residents-as-it-turn/848108630695848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-meteor-burning-up-over-spains-and-portugals-skies-stunned-residents-as-it-turn/848108630695848/</a>  
+   Link:<a href="https://www.facebook.com/GDNOnline/posts/a-meteor-burning-up-over-spains-and-portugals-skies-stunned-residents-as-it-turn/848108630695848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-meteor-burning-up-over-spains-and-portugals-skies-stunned-residents-as-it-turn/848108630695848/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/</a>  
+   Link:<a href="https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/embracedominica/posts/when-was-the-last-time-you-flew-into-dominicas-douglas-charles-airport-global-pa/1095229009309828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/embracedominica/posts/when-was-the-last-time-you-flew-into-dominicas-douglas-charles-airport-global-pa/1095229009309828/</a>  
+   Link:<a href="https://www.facebook.com/embracedominica/posts/when-was-the-last-time-you-flew-into-dominicas-douglas-charles-airport-global-pa/1095229009309828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/embracedominica/posts/when-was-the-last-time-you-flew-into-dominicas-douglas-charles-airport-global-pa/1095229009309828/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SupportRooseveltSkerrit/posts/eastern-caribbean-civil-aviation-authority-eccaa-representatives-conduct-latest-/1447188103439902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SupportRooseveltSkerrit/posts/eastern-caribbean-civil-aviation-authority-eccaa-representatives-conduct-latest-/1447188103439902/</a>  
+   Link:<a href="https://www.facebook.com/SupportRooseveltSkerrit/posts/eastern-caribbean-civil-aviation-authority-eccaa-representatives-conduct-latest-/1447188103439902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SupportRooseveltSkerrit/posts/eastern-caribbean-civil-aviation-authority-eccaa-representatives-conduct-latest-/1447188103439902/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SupportRooseveltSkerrit/posts/a-momentous-occasion-as-united-airlines-touched-down-at-douglas-charles-airport-/1208229170669131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SupportRooseveltSkerrit/posts/a-momentous-occasion-as-united-airlines-touched-down-at-douglas-charles-airport-/1208229170669131/</a>  
+   Link:<a href="https://www.facebook.com/SupportRooseveltSkerrit/posts/a-momentous-occasion-as-united-airlines-touched-down-at-douglas-charles-airport-/1208229170669131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SupportRooseveltSkerrit/posts/a-momentous-occasion-as-united-airlines-touched-down-at-douglas-charles-airport-/1208229170669131/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abstvradio/posts/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/1342174481282318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abstvradio/posts/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/1342174481282318/</a>  
+   Link:<a href="https://www.facebook.com/abstvradio/posts/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/1342174481282318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abstvradio/posts/the-eastern-caribbean-civil-aviation-authority-eccaa-says-it-has-now-completed-a/1342174481282318/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abstvradio/posts/dominica-the-dominica-air-and-sea-ports-authority-daspa-has-confirmed-the-missin/1090340256465743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abstvradio/posts/dominica-the-dominica-air-and-sea-ports-authority-daspa-has-confirmed-the-missin/1090340256465743/</a>  
+   Link:<a href="https://www.facebook.com/abstvradio/posts/dominica-the-dominica-air-and-sea-ports-authority-daspa-has-confirmed-the-missin/1090340256465743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abstvradio/posts/dominica-the-dominica-air-and-sea-ports-authority-daspa-has-confirmed-the-missin/1090340256465743/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CarlowWeather/videos/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1171318654548076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CarlowWeather/videos/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1171318654548076/</a>  
+   Link:<a href="https://www.facebook.com/CarlowWeather/videos/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1171318654548076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CarlowWeather/videos/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1171318654548076/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/193188597550698/posts/2790942894441909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/193188597550698/posts/2790942894441909/</a>  
+   Link:<a href="https://www.facebook.com/groups/193188597550698/posts/2790942894441909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/193188597550698/posts/2790942894441909/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
+   Link:<a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scotlandsscenery/posts/7087895791229733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/7087895791229733/</a>  
+   Link:<a href="https://www.facebook.com/groups/scotlandsscenery/posts/7087895791229733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandsscenery/posts/7087895791229733/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/stlucianewsonline/posts/navy-ufo-mystery-deepens-amid-disclosure-that-unknown-individuals-told-officers-/2786298338076684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stlucianewsonline/posts/navy-ufo-mystery-deepens-amid-disclosure-that-unknown-individuals-told-officers-/2786298338076684/</a>  
+   Link:<a href="https://www.facebook.com/stlucianewsonline/posts/navy-ufo-mystery-deepens-amid-disclosure-that-unknown-individuals-told-officers-/2786298338076684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stlucianewsonline/posts/navy-ufo-mystery-deepens-amid-disclosure-that-unknown-individuals-told-officers-/2786298338076684/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DominicaNewsOnline/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DominicaNewsOnline/</a>  
+   Link:<a href="https://www.facebook.com/DominicaNewsOnline/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DominicaNewsOnline/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: eccaa.aero  
-   Link: <a href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/</a>  
+   Link:<a href="https://www.eccaa.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.eccaa.aero/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cDominican_Republic</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cDominican_Republic</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=137587" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137587</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=137587" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137587</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=59558" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59558</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=59558" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59558</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=188048" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188048</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=188048" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188048</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=167799" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=167799</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=167799" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=167799</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197806</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197806</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
+   Link:<a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/support/article/4497c64e-d214-803a-bd8d-1f0c957b894d?srsltid=AfmBOooUB4YRapr7ucpAad1YVKC0P-NtKddarRD_ZGB-LGPU8U8CTlF_" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/support/article/4497c64e-d214-803a-bd8d-1f0c957b894d?srsltid=AfmBOooUB4YRapr7ucpAad1YVKC0P-NtKddarRD_ZGB-LGPU8U8CTlF_</a>  
+   Link:<a href="https://starlink.com/support/article/4497c64e-d214-803a-bd8d-1f0c957b894d?srsltid=AfmBOooUB4YRapr7ucpAad1YVKC0P-NtKddarRD_ZGB-LGPU8U8CTlF_" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/support/article/4497c64e-d214-803a-bd8d-1f0c957b894d?srsltid=AfmBOooUB4YRapr7ucpAad1YVKC0P-NtKddarRD_ZGB-LGPU8U8CTlF_</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/lc/map?srsltid=AfmBOopdybZB24w-j1x987M9x--qoxwn5vCKQxCponNqIPZbUK3pypWw" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/lc/map?srsltid=AfmBOopdybZB24w-j1x987M9x--qoxwn5vCKQxCponNqIPZbUK3pypWw</a>  
+   Link:<a href="https://starlink.com/lc/map?srsltid=AfmBOopdybZB24w-j1x987M9x--qoxwn5vCKQxCponNqIPZbUK3pypWw" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/lc/map?srsltid=AfmBOopdybZB24w-j1x987M9x--qoxwn5vCKQxCponNqIPZbUK3pypWw</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: change.org  
-   Link: <a href="https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421" target="_blank" rel="noopener noreferrer nofollow">https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421</a>  
+   Link:<a href="https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421" target="_blank" rel="noopener noreferrer nofollow">https://www.change.org/p/save-projectbluebook-sign-the-petition-to-join-the-show-s-35-000-supporters-discoveryplus-tntdrama-paramountplus-savebluebook-ufotwitter/u/29014421</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: pressroom.oecs.int  
    Title: int Improving Eastern Caribbean Aviation  
-   Link: <a href="https://pressroom.oecs.int/improving-eastern-caribbean-aviation" target="_blank" rel="noopener noreferrer nofollow">https://pressroom.oecs.int/improving-eastern-caribbean-aviation</a>  
+   Link:<a href="https://pressroom.oecs.int/improving-eastern-caribbean-aviation" target="_blank" rel="noopener noreferrer nofollow">https://pressroom.oecs.int/improving-eastern-caribbean-aviation</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: dominicanewsonline.com  
    Title: Dominica News Online Venus shines brightly as the 'evening star'  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/venus-shines-brightly-as-the-evening-star/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: usufocenter.com  
    Title: UFO Research Center Global UFOs: Dominica UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/dominica-ufo-sightings.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: caribjournal.com  
    Title: Caribbean Journal Starlink Just Launched in Dominica  
-   Link: <a href="https://www.caribjournal.com/2025/06/06/starlink-dominica-launch/" target="_blank" rel="noopener noreferrer nofollow">https://www.caribjournal.com/2025/06/06/starlink-dominica-launch/</a>  
+   Link:<a href="https://www.caribjournal.com/2025/06/06/starlink-dominica-launch/" target="_blank" rel="noopener noreferrer nofollow">https://www.caribjournal.com/2025/06/06/starlink-dominica-launch/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: dominicanewsonline.com  
    Title: Dominica News Online IN PICTURES: Swearing-in of new DLP cabinet  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/in-pictures-swearing-in-of-new-dlp-cabinet/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/in-pictures-swearing-in-of-new-dlp-cabinet/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/in-pictures-swearing-in-of-new-dlp-cabinet/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/in-pictures-swearing-in-of-new-dlp-cabinet/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: dominicanewsonline.com  
    Title: ghost stories the eyes and the smell of a jumbie  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/columns/ghost-stories/ghost-stories-the-eyes-and-the-smell-of-a-jumbie/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/columns/ghost-stories/ghost-stories-the-eyes-and-the-smell-of-a-jumbie/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/columns/ghost-stories/ghost-stories-the-eyes-and-the-smell-of-a-jumbie/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/columns/ghost-stories/ghost-stories-the-eyes-and-the-smell-of-a-jumbie/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/trump-administration-releases-long-secret-ufo-files-revealing-decades-of-military-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/trump-administration-releases-long-secret-ufo-files-revealing-decades-of-military-encounters/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/trump-administration-releases-long-secret-ufo-files-revealing-decades-of-military-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/trump-administration-releases-long-secret-ufo-files-revealing-decades-of-military-encounters/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: Wikipedia  
    Title: Eastern Caribbean Civil Aviation Authority  
-   Link: <a href="https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Caribbean_Civil_Aviation_Authority</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: dominicanewsonline.com  
    Title: unidentified object spotted near air force one  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/unidentified-object-spotted-near-air-force-one/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/unidentified-object-spotted-near-air-force-one/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/unidentified-object-spotted-near-air-force-one/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/unidentified-object-spotted-near-air-force-one/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: dominicanewsonline.com  
    Title: photo of the day strange cloud and blue sky  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/features/photo-of-the-day/photo-of-the-day-strange-cloud-and-blue-sky/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/features/photo-of-the-day/photo-of-the-day-strange-cloud-and-blue-sky/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/features/photo-of-the-day/photo-of-the-day-strange-cloud-and-blue-sky/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/features/photo-of-the-day/photo-of-the-day-strange-cloud-and-blue-sky/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: dominicanewsonline.com  
    Title: a triple rainbow in dominica  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/a-triple-rainbow-in-dominica/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/a-triple-rainbow-in-dominica/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/homepage-carousel/a-triple-rainbow-in-dominica/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/homepage-carousel/a-triple-rainbow-in-dominica/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/category/all-news/international-news/?t=w" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/category/all-news/international-news/?t=w</a>  
+   Link:<a href="https://dominicanewsonline.com/news/category/all-news/international-news/?t=w" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/category/all-news/international-news/?t=w</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/entry-page/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/entry-page/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/entry-page/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/entry-page/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: dominicanewsonline.com  
    Title: strange occurrences heights morne prosper  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/general/strange-occurrences-heights-morne-prosper/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/general/strange-occurrences-heights-morne-prosper/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/general/strange-occurrences-heights-morne-prosper/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/general/strange-occurrences-heights-morne-prosper/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: dominicanewsonline.com  
    Title: 2 million contract signed for restoration of sport stadiums lighting  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/2-million-contract-signed-for-restoration-of-sport-stadiums-lighting/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/2-million-contract-signed-for-restoration-of-sport-stadiums-lighting/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/2-million-contract-signed-for-restoration-of-sport-stadiums-lighting/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/2-million-contract-signed-for-restoration-of-sport-stadiums-lighting/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/news/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/news/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/news/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/news/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/the-ravages-of-a-monster-storm-on-a-tropical-island-dominica-days-and-nights-to-remember/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/the-ravages-of-a-monster-storm-on-a-tropical-island-dominica-days-and-nights-to-remember/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/the-ravages-of-a-monster-storm-on-a-tropical-island-dominica-days-and-nights-to-remember/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/the-ravages-of-a-monster-storm-on-a-tropical-island-dominica-days-and-nights-to-remember/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: dominicanewsonline.com  
    Title: commentary the post erika victims the less fortunate of delices and boetica  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/commentary-the-post-erika-victims-the-less-fortunate-of-delices-and-boetica/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/commentary-the-post-erika-victims-the-less-fortunate-of-delices-and-boetica/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/commentary-the-post-erika-victims-the-less-fortunate-of-delices-and-boetica/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/commentary-the-post-erika-victims-the-less-fortunate-of-delices-and-boetica/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: dominicanewsonline.com  
    Title: dominica news online not associated with fake post circulating on social media  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/dominica-news-online-not-associated-with-fake-post-circulating-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/dominica-news-online-not-associated-with-fake-post-circulating-on-social-media/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/dominica-news-online-not-associated-with-fake-post-circulating-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/dominica-news-online-not-associated-with-fake-post-circulating-on-social-media/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: dominicanewsonline.com  
    Title: stay well sparkle year already  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-year-already/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-year-already/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-year-already/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-year-already/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: dominicanewsonline.com  
    Title: unidentified body found near marigot  
-   Link: <a href="https://dominicanewsonline.com/news/death/unidentified-body-found-near-marigot/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/death/unidentified-body-found-near-marigot/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/death/unidentified-body-found-near-marigot/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/death/unidentified-body-found-near-marigot/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: dominicanewsonline.com  
    Title: dlp suspends all official party activities during easter season  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/dlp-suspends-all-official-party-activities-during-easter-season/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/dlp-suspends-all-official-party-activities-during-easter-season/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/dlp-suspends-all-official-party-activities-during-easter-season/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/dlp-suspends-all-official-party-activities-during-easter-season/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: dominicanewsonline.com  
    Title: controversy rages over my dominica trade house  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/general/controversy-rages-over-my-dominica-trade-house/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/general/controversy-rages-over-my-dominica-trade-house/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/general/controversy-rages-over-my-dominica-trade-house/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/general/controversy-rages-over-my-dominica-trade-house/</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: dominicanewsonline.com  
    Title: landslide leaves thousands without power  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/business/landslide-leaves-thousands-without-power/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/business/landslide-leaves-thousands-without-power/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/business/landslide-leaves-thousands-without-power/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/business/landslide-leaves-thousands-without-power/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: dominicanewsonline.com  
    Title: crime stoppers dominica reports 90 valid tips in three years  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/crime-court-law/crime-stoppers-dominica-reports-90-valid-tips-in-three-years/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/crime-court-law/crime-stoppers-dominica-reports-90-valid-tips-in-three-years/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/crime-court-law/crime-stoppers-dominica-reports-90-valid-tips-in-three-years/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/crime-court-law/crime-stoppers-dominica-reports-90-valid-tips-in-three-years/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: dominicanewsonline.com  
-   Link: <a href="https://dominicanewsonline.com/news/intl-news-links/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/intl-news-links/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/intl-news-links/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/intl-news-links/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: dominicanewsonline.com  
    Title: stay well sparkle what happened there  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-what-happened-there/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-what-happened-there/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-what-happened-there/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/stay-well-sparkle-what-happened-there/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: dominicanewsonline.com  
    Title: UPDAT E: No loss of airline activity  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/accidents-tragedy/update-no-confirmation-of-airplane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/accidents-tragedy/update-no-confirmation-of-airplane-crash/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/accidents-tragedy/update-no-confirmation-of-airplane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/accidents-tragedy/update-no-confirmation-of-airplane-crash/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: dominicanewsonline.com  
    Title: dominica observes international mountain day  
-   Link: <a href="https://dominicanewsonline.com/news/homepage/news/environment/dominica-observes-international-mountain-day/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/environment/dominica-observes-international-mountain-day/</a>  
+   Link:<a href="https://dominicanewsonline.com/news/homepage/news/environment/dominica-observes-international-mountain-day/" target="_blank" rel="noopener noreferrer nofollow">https://dominicanewsonline.com/news/homepage/news/environment/dominica-observes-international-mountain-day/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: ag.linkedin.com  
    Title: eccaa eastern caribbean civil aviation authority  
-   Link: <a href="https://ag.linkedin.com/company/eccaa-eastern-caribbean-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://ag.linkedin.com/company/eccaa-eastern-caribbean-civil-aviation-authority</a>  
+   Link:<a href="https://ag.linkedin.com/company/eccaa-eastern-caribbean-civil-aviation-authority" target="_blank" rel="noopener noreferrer nofollow">https://ag.linkedin.com/company/eccaa-eastern-caribbean-civil-aviation-authority</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: letterboxd.com  
-   Link: <a href="https://letterboxd.com/film/the-flying-saucer/watch/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/the-flying-saucer/watch/</a>  
+   Link:<a href="https://letterboxd.com/film/the-flying-saucer/watch/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/the-flying-saucer/watch/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: muckrack.com  
-   Link: <a href="https://muckrack.com/media-outlet/dominicanewsonline" target="_blank" rel="noopener noreferrer nofollow">https://muckrack.com/media-outlet/dominicanewsonline</a>  
+   Link:<a href="https://muckrack.com/media-outlet/dominicanewsonline" target="_blank" rel="noopener noreferrer nofollow">https://muckrack.com/media-outlet/dominicanewsonline</a>  
 
 ### Additional References
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: youtube.com  
    Title: Mysterious UAP Caught on Doorbell Cam (Season 5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=vhdG0uegxMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vhdG0uegxMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.A.P Appears Over Trinidad and Tobago During Night Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vhdG0uegxMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vhdG0uegxMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.A.P Appears Over Trinidad and Tobago During Night Sky...</p></details>
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: youtube.com  
    Title: Drone swarm mystery and new UAP revelations | UFO Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JXB39hZ60RE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UAP Caught on Doorbell Cam (Season 5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JXB39hZ60RE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UAP Caught on Doorbell Cam (Season 5) | The Proof Is Out There...</p></details>
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: youtube.com  
    Title: UFO Drones, BOHEMIA, and a Day Exploring BARBADOS  
-   Link: <a href="https://www.youtube.com/watch?v=jnD71lKpNik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jnD71lKpNik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Investigating the Unknown Season Two | Official Trailer | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jnD71lKpNik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jnD71lKpNik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Investigating the Unknown Season Two | Official Trailer | National Geographic...</p></details>
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: youtube.com  
    Title: U.A.P Appears Over Trinidad and Tobago During Night Sky  
-   Link: <a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Drones, BOHEMIA, and a Day Exploring BARBADOS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Drones, BOHEMIA, and a Day Exploring BARBADOS...</p></details>
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358911696_Meteors_and_bolides_across_the_Caribbean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358911696_Meteors_and_bolides_across_the_Caribbean</a>  
+   Link:<a href="https://www.researchgate.net/publication/358911696_Meteors_and_bolides_across_the_Caribbean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358911696_Meteors_and_bolides_across_the_Caribbean</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXTbMFJDHDi/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXTbMFJDHDi/</a>
+   Link:<a href="https://www.instagram.com/reel/DXTbMFJDHDi/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXTbMFJDHDi/</a>

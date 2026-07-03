@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tonga-e8a123-index/
 description: Focused pages that expand on What Really Exists in Tonga's UFO Record?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Tonga_e8a123
 parent_title: What Really Exists in Tonga's UFO Record?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-exists-in-tongas-ufo-record/
 
 # Explore Topics in What Really Exists in Tonga's UFO Record?
 
-The following pages expand on the main **[What Really Exists in Tonga's UFO Record?]({{ '/what-really-exists-in-tongas-ufo-record/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Exists in Tonga's UFO Record?]({{ '/what-really-exists-in-tongas-ufo-record/' | relative_url }})** page and cover its key branches in.
 
 - [1978 Report]({{ '/1978-report/' | relative_url }})
 - [Island Effects]({{ '/island-effects-5ac504/' | relative_url }})

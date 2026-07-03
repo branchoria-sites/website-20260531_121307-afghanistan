@@ -255,9 +255,9 @@ That does not mean every sighting is immediately identifiable. Witnesses frequen
 
 ## The 2022 rocket launch that looked like a UFO invasion
 
-The clearest modern example occurred on 30 December 2022, when people across Seoul, Gyeonggi, Gangwon and other regions reported a strange luminous object moving through the evening sky. Social media quickly filled with photographs and videos showing a bright white point surrounded by expanding blue, green and rainbow-coloured spirals. Many witnesses suspected a UFO, while others feared a North Korean missile attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span>
+The clearest modern example occurred on 30 December 2022, when people across Seoul, Gyeonggi, Gangwon and other regions reported a strange luminous object moving through the evening sky. Social media quickly filled with photographs and videos showing a bright white point surrounded by expanding blue, green and rainbow-coloured spirals. Many witnesses suspected a UFO, while others feared a North Korean missile attack.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span>
 
-The explanation was much more ordinary, though still dramatic. South Korea's Ministry of National Defense later confirmed that it had conducted an unannounced solid-fuel rocket test connected to its space-surveillance programme. Because the launch had not been publicly announced, thousands of people encountered the phenomenon without any context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ap south korea seoul ufo twitter b2253548</span><span class="citation-popover-snippet">South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — South Korea&#x27;s military confirms it test-fired a solid-fueled rocket a...</span></span></span>
+The explanation was much more ordinary, though still dramatic. South Korea's Ministry of National Defense later confirmed that it had conducted an unannounced solid-fuel rocket test connected to its space-surveillance programme. Because the launch had not been publicly announced, thousands of people encountered the phenomenon without any context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ap south korea seoul ufo twitter b2253548</span><span class="citation-popover-snippet">South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — South Korea&#x27;s military confirms it test-fired a solid-fueled rocket a...</span></span></span>
 
 What made the event appear extraordinary was not simply the rocket itself but the visual conditions:
 
@@ -270,7 +270,7 @@ What made the event appear extraordinary was not simply the rocket itself but th
 
 </div>
 
-Photographs from different parts of the country showed remarkably similar luminous trails, helping [investigators]({{ 'investigators-e18dbd/' | relative_url }}) match witness reports to the rocket launch. The military later apologised for poor public communication after the incident triggered widespread alarm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianews.network">[asianews.network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianews.network</span><span class="citation-popover-title">UFO appearance or a North Korean missile or drone flying. (Photo</span><span class="citation-popover-snippet">SK ministry sorry for poor communication after public...Jan 3, 2023 — South Korea`s military confirmed it test-fired a solid-fueled rocket...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreaherald.com/article/3032867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaherald.com">[Korea Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaherald.com</span><span class="citation-popover-snippet">unannounced launch triggered brief public scare of a suspected UFO appearance or a North Korean missile or drone flying. (Photo - AP). Th...</span></span></span>
+Photographs from different parts of the country showed remarkably similar luminous trails, helping [investigators]({{ 'investigators-e18dbd/' | relative_url }}) match witness reports to the rocket launch. The military later apologised for poor public communication after the incident triggered widespread alarm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianews.network">[asianews.network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianews.network</span><span class="citation-popover-title">UFO appearance or a North Korean missile or drone flying. (Photo</span><span class="citation-popover-snippet">SK ministry sorry for poor communication after public...Jan 3, 2023 — South Korea`s military confirmed it test-fired a solid-fueled rocket...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreaherald.com/article/3032867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaherald.com">[Korea Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaherald.com</span><span class="citation-popover-snippet">unannounced launch triggered brief public scare of a suspected UFO appearance or a North Korean missile or drone flying. (Photo - AP). Th...</span></span></span>
 
 This episode became an important lesson for Korean UFO discussions because it demonstrated how a fully documented aerospace event could still generate nationwide speculation within minutes.
 
@@ -280,7 +280,7 @@ Rocket launches are especially effective at producing UFO reports because they c
 
 Most aircraft remain close to the horizon and follow predictable paths. Rockets behave differently. They climb rapidly, change apparent direction as perspective shifts and release gases that spread into enormous illuminated clouds. To ground observers, the result can resemble a glowing orb, a comet-like object or even multiple objects moving together.
 
-South Korea's growing space and missile programmes increase the chances of such sightings. The country has conducted multiple solid-fuel rocket tests in recent years as part of surveillance and launch-vehicle development. One later test flight in December 2023 again produced visible sky effects, although public awareness was higher because the 2022 incident had already become a widely discussed example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News S</span><span class="citation-popover-snippet">Korea conducts test flight of solid-fuel space rocket4 Dec 2023 — It was the third of its kind to test-launch the homegrown solid-fuel sp...</span></span></span>
+South Korea's growing space and missile programmes increase the chances of such sightings. The country has conducted multiple solid-fuel rocket tests in recent years as part of surveillance and launch-vehicle development. One later test flight in December 2023 again produced visible sky effects, although public awareness was higher because the 2022 incident had already become a widely discussed example.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News S</span><span class="citation-popover-snippet">Korea conducts test flight of solid-fuel space rocket4 Dec 2023 — It was the third of its kind to test-launch the homegrown solid-fuel sp...</span></span></span>
 
 For UFO investigators, rocket-related sightings have become a useful benchmark. When reports include expanding spirals, coloured plumes, rapidly growing clouds or long-lasting luminous trails visible across multiple provinces, aerospace activity is often one of the first explanations examined.
 
@@ -292,7 +292,7 @@ Meteor events create a different kind of mystery. Unlike rockets, they arrive wi
 
 A recent example occurred in April 2026 when witnesses from multiple regions reported a large burning object crossing the sky. Descriptions included an oval-shaped glowing body and a dramatic descent that led some observers to wonder whether they had seen an aircraft accident or unidentified object. The Korea Astronomy and Space Science Institute assessed the phenomenon as a meteor, specifically a bright fireball produced by a larger meteoroid entering the atmosphere. [조선일보]
 
-The same pattern appeared after earlier Korean fireball events. A particularly influential case was the 2014 Jinju fireball, which attracted scientific attention and encouraged the development of dedicated Korean meteor-monitoring systems. Researchers later described how Korean observatories expanded efforts to track and analyse fireballs precisely because public reports often began as unexplained sky mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Proto-type installation of a double-station system for the optical-video-detection and orbital characterisation of a meteor/fireball...</span></span></span>
+The same pattern appeared after earlier Korean fireball events. A particularly influential case was the 2014 Jinju fireball, which attracted scientific attention and encouraged the development of dedicated Korean meteor-monitoring systems. Researchers later described how Korean observatories expanded efforts to track and analyse fireballs precisely because public reports often began as unexplained sky mysteries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Proto-type installation of a double-station system for the optical-video-detection and orbital characterisation of a meteor/fireball...</span></span></span>
 
 Several features make meteors especially easy to misidentify:
 
@@ -314,7 +314,7 @@ In heavily populated regions around Seoul and the capital area, thousands of peo
 
 Balloons create a different challenge because they are often real physical objects that remain unidentified for long periods.
 
-The Korean Peninsula has a long history of balloon activity connected to propaganda campaigns, weather monitoring and military tensions. Activist groups in South Korea have launched balloons carrying leaflets, electronic devices and other materials toward North Korea, while North Korea has sent balloons southward carrying rubbish and other payloads. In 2024 South Korean authorities reported detecting more than 150 balloons crossing from the North. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">South Korea accuses North of &#x27;base&#x27; act by sending balloons with trash</span><span class="citation-popover-snippet">El equipo de respuesta militar fue desplegado para inspeccionar y recolectar los objetos, y se emitió una alerta para advertir a los resi...</span></span></span>
+The Korean Peninsula has a long history of balloon activity connected to propaganda campaigns, weather monitoring and military tensions. Activist groups in South Korea have launched balloons carrying leaflets, electronic devices and other materials toward North Korea, while North Korea has sent balloons southward carrying rubbish and other payloads. In 2024 South Korean authorities reported detecting more than 150 balloons crossing from the North.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">South Korea accuses North of &#x27;base&#x27; act by sending balloons with trash</span><span class="citation-popover-snippet">El equipo de respuesta militar fue desplegado para inspeccionar y recolectar los objetos, y se emitió una alerta para advertir a los resi...</span></span></span>
 
 From the ground, especially at dawn or dusk, such balloons can appear highly unusual:
 
@@ -344,7 +344,7 @@ A bright object emerging between towers can appear far closer than it really is.
 
 ### Social media turns local sightings into national events
 
-The 2022 rocket incident showed how quickly photographs spread across Korean online communities. Within minutes, images from different provinces appeared on social platforms, messaging apps and news sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">south koreas unannounced rocket launch causes ufo scare</span><span class="citation-popover-snippet">South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — A twisty tendril of vapor in white-to-red ombre could be seen...</span></span></span>
+The 2022 rocket incident showed how quickly photographs spread across Korean online communities. Within minutes, images from different provinces appeared on social platforms, messaging apps and news sites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">south koreas unannounced rocket launch causes ufo scare</span><span class="citation-popover-snippet">South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — A twisty tendril of vapor in white-to-red ombre could be seen...</span></span></span>
 
 This rapid sharing has two opposing effects:
 
@@ -359,7 +359,7 @@ Once an event is framed as a possible UFO, later viewers often interpret new ima
 
 South Korean observers do not watch the sky in a neutral environment. Missile tests, military exercises, drone incidents and inter-Korean tensions all influence public perception.
 
-During the 2022 rocket launch, many witnesses initially feared a North Korean missile or drone rather than extraterrestrial visitors. The UFO interpretation competed with a security interpretation, illustrating how national context affects the meaning people assign to unfamiliar lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbc.co.uk">[LBC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbc.co.uk</span><span class="citation-popover-title">57db42fb73c449659318f8d4f8573907 DWzPYW 2</span><span class="citation-popover-snippet">scare of a suspected UFO appearance or a North Korean missile launch. The Defence Ministry said the rocket launch was part of its efforts...</span></span></span>
+During the 2022 rocket launch, many witnesses initially feared a North Korean missile or drone rather than extraterrestrial visitors. The UFO interpretation competed with a security interpretation, illustrating how national context affects the meaning people assign to unfamiliar lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbc.co.uk">[LBC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbc.co.uk</span><span class="citation-popover-title">57db42fb73c449659318f8d4f8573907 DWzPYW 2</span><span class="citation-popover-snippet">scare of a suspected UFO appearance or a North Korean missile launch. The Defence Ministry said the rocket launch was part of its efforts...</span></span></span>
 
 ## How investigators separate anomalies from misidentifications
 
@@ -399,194 +399,194 @@ Rocket exhaust becomes a glowing spiral over Seoul. A meteor becomes a fireball 
 That cycle helps explain why mystery-light stories continue to reappear even when many individual cases receive ordinary explanations. The underlying conditions remain the same: dense urban populations, active aerospace programmes, visible military activity, rapid online communication and skies that occasionally produce spectacular natural phenomena. In the Republic of Korea, those factors ensure that UFO reports are often less a story about unknown craft than a story about how ordinary events become extraordinary when seen without context.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Korea&#x27;s Mystery Lights Keep Reappearing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Korea&#x27;s Mystery Lights Keep Reappearing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how unusual observations can be misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual observations can be misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing mystery lights and aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing mystery lights and aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparisons with better-documented aerial cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparisons with better-documented aerial cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Shows how rockets, atmospheric events and folklore create UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how rockets, atmospheric events and folklore create UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-korea-s-mystery-lights-keep-reappearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-korea-s-mystery-lights-keep-reappearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ That cycle helps explain why mystery-light stories continue to reappear even whe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ That cycle helps explain why mystery-light stories continue to reappear even whe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ That cycle helps explain why mystery-light stories continue to reappear even whe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ That cycle helps explain why mystery-light stories continue to reappear even whe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ That cycle helps explain why mystery-light stories continue to reappear even whe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,122 +789,121 @@ That cycle helps explain why mystery-light stories continue to reappear even whe
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: asianews.network  
    Title: UFO appearance or a North Korean missile or drone flying. (Photo  
-   Link: <a href="https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/" target="_blank" rel="noopener noreferrer nofollow">https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SK ministry sorry for poor communication after public...Jan 3, 2023 — South Korea`s military confirmed it test-fired a solid-fueled rocket...</p></details>
+   Link:<a href="https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/" target="_blank" rel="noopener noreferrer nofollow">https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SK ministry sorry for poor communication after public...Jan 3, 2023 — South Korea`s military confirmed it test-fired a solid-fueled rocket...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08196</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proto-type installation of a double-station system for the optical-video-detection and orbital characterisation of a meteor/fireball...</p></details>
+   Link:<a href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08196</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proto-type installation of a double-station system for the optical-video-detection and orbital characterisation of a meteor/fireball...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: South Korea accuses North of 'base' act by sending balloons with trash  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El equipo de respuesta militar fue desplegado para inspeccionar y recolectar los objetos, y se emitió una alerta para advertir a los resi...</p></details>
+   Link:<a href="https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El equipo de respuesta militar fue desplegado para inspeccionar y recolectar los objetos, y se emitió una alerta para advertir a los resi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/seoul-activists-develop-smart-balloons-send-messages-deep-into-north-korea-2024-06-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/seoul-activists-develop-smart-balloons-send-messages-deep-into-north-korea-2024-06-10/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These balloons, made with 3D printers and costing up to $1,000 each, are designed to travel hundreds of kilometers across the border, pot...</p></details>
+   Link:<a href="https://www.reuters.com/world/asia-pacific/seoul-activists-develop-smart-balloons-send-messages-deep-into-north-korea-2024-06-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/seoul-activists-develop-smart-balloons-send-messages-deep-into-north-korea-2024-06-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These balloons, made with 3D printers and costing up to $1,000 each, are designed to travel hundreds of kilometers across the border, pot...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: c4isrnet.com  
    Title: south koreas unannounced rocket launch causes ufo scare  
-   Link: <a href="https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — A twisty tendril of vapor in white-to-red ombre could be seen...</p></details>
+   Link:<a href="https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — A twisty tendril of vapor in white-to-red ombre could be seen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lbc.co.uk  
    Title: 57db42fb73c449659318f8d4f8573907 DWzPYW 2  
-   Link: <a href="https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/" target="_blank" rel="noopener noreferrer nofollow">https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scare of a suspected UFO appearance or a North Korean missile launch. The Defence Ministry said the rocket launch was part of its efforts...</p></details>
+   Link:<a href="https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/" target="_blank" rel="noopener noreferrer nofollow">https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scare of a suspected UFO appearance or a North Korean missile launch. The Defence Ministry said the rocket launch was part of its efforts...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: Video shows rocket launch in South Korea, not a UFO in Poland  
-   Link: <a href="https://www.reuters.com/article/fact-check/video-shows-rocket-launch-in-south-korea-not-a-ufo-in-poland-idUSL1N3521NV/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/video-shows-rocket-launch-in-south-korea-not-a-ufo-in-poland-idUSL1N3521NV/</a>  
+   Link:<a href="https://www.reuters.com/article/fact-check/video-shows-rocket-launch-in-south-korea-not-a-ufo-in-poland-idUSL1N3521NV/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/video-shows-rocket-launch-in-south-korea-not-a-ufo-in-poland-idUSL1N3521NV/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</p></details>
+   Link:<a href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: independent.co.uk  
    Title: ap south korea seoul ufo twitter b2253548  
-   Link: <a href="https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — South Korea&#x27;s military confirms it test-fired a solid-fueled rocket a...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — South Korea&#x27;s military confirms it test-fired a solid-fueled rocket a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: koreaherald.com  
-   Link: <a href="https://www.koreaherald.com/article/3032867" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaherald.com/article/3032867</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unannounced launch triggered brief public scare of a suspected UFO appearance or a North Korean missile or drone flying. (Photo - AP). Th...</p></details>
+   Link:<a href="https://www.koreaherald.com/article/3032867" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaherald.com/article/3032867</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unannounced launch triggered brief public scare of a suspected UFO appearance or a North Korean missile or drone flying. (Photo - AP). Th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: english.news.cn  
    Title: Xinhua News S  
-   Link: <a href="https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html" target="_blank" rel="noopener noreferrer nofollow">https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea conducts test flight of solid-fuel space rocket4 Dec 2023 — It was the third of its kind to test-launch the homegrown solid-fuel sp...</p></details>
+   Link:<a href="https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html" target="_blank" rel="noopener noreferrer nofollow">https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea conducts test flight of solid-fuel space rocket4 Dec 2023 — It was the third of its kind to test-launch the homegrown solid-fuel sp...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXiYIgTGG4f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXiYIgTGG4f/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KOREANOPNILER 業 MASSIVE &#x27;FIREBALL&#x27; LIGHTS UP...Not everything that streaks across the sky is a meteor. UFO and UAP reports going back de...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXiYIgTGG4f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXiYIgTGG4f/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KOREANOPNILER 業 MASSIVE &#x27;FIREBALL&#x27; LIGHTS UP...Not everything that streaks across the sky is a meteor. UFO and UAP reports going back de...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: straitstimes.com  
-   Link: <a href="https://www.straitstimes.com/asia/east-asia/south-korean-military-s-solid-fuel-rocket-test-sparks-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/asia/east-asia/south-korean-military-s-solid-fuel-rocket-test-sparks-ufo-scare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits TimesSouth Korean military&#x27;s solid fuel rocket test sparks UFO...The meandering path and colour of the rocket caused some wi...</p></details>
+   Link:<a href="https://www.straitstimes.com/asia/east-asia/south-korean-military-s-solid-fuel-rocket-test-sparks-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.straitstimes.com/asia/east-asia/south-korean-military-s-solid-fuel-rocket-test-sparks-ufo-scare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits TimesSouth Korean military&#x27;s solid fuel rocket test sparks UFO...The meandering path and colour of the rocket caused some wi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/south-korea-ufo-scare-south-koreans-report-ufo-sighting-after-secret-rocket-launch-101672469214506.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/south-korea-ufo-scare-south-koreans-report-ufo-sighting-after-secret-rocket-launch-101672469214506.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans report UFO sighting after secret rocket launch31 Dec 2022 — Hundreds of people called police in South Korea after fearing t...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/south-korea-ufo-scare-south-koreans-report-ufo-sighting-after-secret-rocket-launch-101672469214506.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/south-korea-ufo-scare-south-koreans-report-ufo-sighting-after-secret-rocket-launch-101672469214506.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans report UFO sighting after secret rocket launch31 Dec 2022 — Hundreds of people called police in South Korea after fearing t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KoreaJoongAngDaily/posts/witness-accounts-emerged-from-multiple-areas-across-korea-on-friday-evening-of-a/1366444208854466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KoreaJoongAngDaily/posts/witness-accounts-emerged-from-multiple-areas-across-korea-on-friday-evening-of-a/1366444208854466/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses report &#x27;fireball&#x27; falling from sky over KoreaSeoul UFO Sightings (1995): Mysterious Object Over South Korea&#x27;s Capital In 1995...</p></details>
+   Link:<a href="https://www.facebook.com/KoreaJoongAngDaily/posts/witness-accounts-emerged-from-multiple-areas-across-korea-on-friday-evening-of-a/1366444208854466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KoreaJoongAngDaily/posts/witness-accounts-emerged-from-multiple-areas-across-korea-on-friday-evening-of-a/1366444208854466/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses report &#x27;fireball&#x27; falling from sky over KoreaSeoul UFO Sightings (1995): Mysterious Object Over South Korea&#x27;s Capital In 1995...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: denvergazette.com  
    Title: south koreas unannounced rocket launch has people saying they saw ufos  
-   Link: <a href="https://www.denvergazette.com/2022/12/30/south-koreas-unannounced-rocket-launch-has-people-saying-they-saw-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2022/12/30/south-koreas-unannounced-rocket-launch-has-people-saying-they-saw-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch has people...30 Dec 2022 — The South Korean military took responsibility for an unannounced rock...</p></details>
+   Link:<a href="https://www.denvergazette.com/2022/12/30/south-koreas-unannounced-rocket-launch-has-people-saying-they-saw-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2022/12/30/south-koreas-unannounced-rocket-launch-has-people-saying-they-saw-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch has people...30 Dec 2022 — The South Korean military took responsibility for an unannounced rock...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scmp.com  
    Title: im scared south koreas unannounced rocket launch causes ufo scare  
-   Link: <a href="https://www.scmp.com/news/asia/east-asia/article/3205143/im-scared-south-koreas-unannounced-rocket-launch-causes-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/asia/east-asia/article/3205143/im-scared-south-koreas-unannounced-rocket-launch-causes-ufo-scare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostSouth Koreans report UFO sighting after secret rocket launch30 Dec 2022 — Some people said they saw mysterious li...</p></details>
+   Link:<a href="https://www.scmp.com/news/asia/east-asia/article/3205143/im-scared-south-koreas-unannounced-rocket-launch-causes-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/asia/east-asia/article/3205143/im-scared-south-koreas-unannounced-rocket-launch-causes-ufo-scare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostSouth Koreans report UFO sighting after secret rocket launch30 Dec 2022 — Some people said they saw mysterious li...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VOANews/videos/south-korea-ufo-was-military-rocket-test/3448443275474418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VOANews/videos/south-korea-ufo-was-military-rocket-test/3448443275474418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s military confirmed it test-fired a solid- fueled rocket Friday after its unannounced...</p></details>
+   Link:<a href="https://www.facebook.com/VOANews/videos/south-korea-ufo-was-military-rocket-test/3448443275474418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VOANews/videos/south-korea-ufo-was-military-rocket-test/3448443275474418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s military confirmed it test-fired a solid- fueled rocket Friday after its unannounced...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foxnews.com  
    Title: south korean rocket launch causes ufo scare what is this  
-   Link: <a href="https://www.foxnews.com/world/south-korean-rocket-launch-causes-ufo-scare-what-is-this" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/south-korean-rocket-launch-causes-ufo-scare-what-is-this</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean rocket launch causes UFO scare: &#x27;What is this?&#x27;30 Dec 2022 — South Korea&#x27;s military confirmed that it had test-fired a solid...</p></details>
+   Link:<a href="https://www.foxnews.com/world/south-korean-rocket-launch-causes-ufo-scare-what-is-this" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/south-korean-rocket-launch-causes-ufo-scare-what-is-this</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean rocket launch causes UFO scare: &#x27;What is this?&#x27;30 Dec 2022 — South Korea&#x27;s military confirmed that it had test-fired a solid...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: koreajoongangdaily.joins.com  
    Title: Witnesses report fireball falling from sky over Korea  
-   Link: <a href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyWitnesses report &#x27;fireball&#x27; falling from sky over Korea25 Apr 2026 — Witness accounts emerged from multiple areas acr...</p></details>
+   Link:<a href="https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyWitnesses report &#x27;fireball&#x27; falling from sky over Korea25 Apr 2026 — Witness accounts emerged from multiple areas acr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/newsofbahrain_/p/Cm1JtI5pv4M/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/newsofbahrain_/p/Cm1JtI5pv4M/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ced launch triggered brief scare of a suspected UFO appearance or a...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/newsofbahrain_/p/Cm1JtI5pv4M/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/newsofbahrain_/p/Cm1JtI5pv4M/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ced launch triggered brief scare of a suspected UFO appearance or a...Read more...</p></details>

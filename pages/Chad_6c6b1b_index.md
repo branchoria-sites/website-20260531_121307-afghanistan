@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /chad-6c6b1b-index/
 description: Focused pages that expand on What Is Really Behind Chad's UFO Reports?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Chad_6c6b1b
 parent_title: What Is Really Behind Chad's UFO Reports?
@@ -16,7 +16,7 @@ parent_permalink: /what-is-really-behind-chads-ufo-reports/
 
 # Explore Topics in What Is Really Behind Chad's UFO Reports?
 
-The following pages expand on the main **[What Is Really Behind Chad's UFO Reports?]({{ '/what-is-really-behind-chads-ufo-reports/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Is Really Behind Chad's UFO Reports?]({{ '/what-is-really-behind-chads-ufo-reports/' | relative_url }})** page and cover its key branches in.
 
 - [Eyewitnesses]({{ '/eyewitnesses/' | relative_url }})
 - [Sky Explanations]({{ '/sky-explanations/' | relative_url }})

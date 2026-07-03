@@ -254,7 +254,7 @@ image: /assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-1-so
 
 ## Introduction
 
-In **November 2024**, the **Jordanian Armed Forces** publicly reported that a **“flying object” fell inside **Aqaba Governorate**, the kingdom’s southernmost coastal region on the Red Sea. This statement sparked local and international media coverage because it occurred against a backdrop of **heightened regional conflict‑zone airspace activity**, with neighbouring countries experiencing drone and missile operations. A closer look at what was said, how [Jordan]({{ 'what-counts-as-a-ufo-in-jordan/' | relative_url }}) framed the event, and how this fits into broader airspace security dynamics shows why the **Aqaba object** sits at the intersection of **security monitoring, airspace sovereignty, and unidentified object reporting** — but not at the centre of any confirmed extraterrestrial or “UFO” phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
+In **November 2024**, the **Jordanian Armed Forces** publicly reported that a **“flying object” fell inside **Aqaba Governorate**, the kingdom’s southernmost coastal region on the Red Sea. This statement sparked local and international media coverage because it occurred against a backdrop of **heightened regional conflict‑zone airspace activity**, with neighbouring countries experiencing drone and missile operations. A closer look at what was said, how [Jordan]({{ 'what-counts-as-a-ufo-in-jordan/' | relative_url }}) framed the event, and how this fits into broader airspace security dynamics shows why the **Aqaba object** sits at the intersection of **security monitoring, airspace sovereignty, and unidentified object reporting** — but not at the centre of any confirmed extraterrestrial or “UFO” phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-1-dark.svg" | relative_url }}" alt="Aqaba Object illustration 1" data-theme-src-dark="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Official Armed Forces Statement in Aqaba
@@ -263,7 +263,7 @@ In a **Jordan Armed Forces statement on 18 November 2024**, the military ann
 
 * **No human injuries or material damage** were reported.
 * **Civil defence and military engineering teams** were dispatched to the location for assessment and recovery.
-* Citizens were **urged to avoid the object** and not to handle it for safety reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
+* Citizens were **urged to avoid the object** and not to handle it for safety reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
 
 The official wording did not characterise the object as a known aircraft, drone or missile fragment at the time of the announcement. The phrasing left its identity **unconfirmed**, reflecting a cautious security‑oriented report rather than a sensational claim of “alien” artefacts.
 
@@ -274,18 +274,18 @@ The official wording did not characterise the object as a known aircraft, drone 
 Aqaba lies at a **geopolitically sensitive crossroads**: Jordan’s only Red Sea outlet, adjacent to air and maritime routes used by civilian traffic and near zones of ongoing conflict affecting Israel, Egypt and the wider Middle East. In the years around 2024–26:
 
 * Jordan routinely **monitored and enforced its airspace**, responding to reports of debris, unidentified aerial objects or hostile incursions.
-* Government communications repeatedly stressed **sovereignty and security vigilance**, especially amid drone and missile activity in neighbouring regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News Jordan condemns airspace violations following recent drone incidents</span><span class="citation-popover-snippet">Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
+* Government communications repeatedly stressed **sovereignty and security vigilance**, especially amid drone and missile activity in neighbouring regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News Jordan condemns airspace violations following recent drone incidents</span><span class="citation-popover-snippet">Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
 
-The **Jordanian Armed Forces** and **Public Security Directorate (PSD)** have logged dozens of incidents involving **falling debris and unidentified flying objects**, often linked to broader regional operations or security responses rather than unexplained phenomena. For example, PSD reported **hundreds of falling debris reports** across multiple governorates, including Aqaba, with material but no fatal consequences, and issued safety warnings to citizens about approaching unknown objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jordannews.jo/Section-109/News/Public-Security-Directorate-73-Reports-of-Falling-Debris-Handled-Causing-Material-Damage-Without-Injuries-49221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jordannews.jo">[Jordan News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jordannews.jo</span><span class="citation-popover-title">Jordan News Public Security Directorate: 73 Reports of Falling Debris Hand</span><span class="citation-popover-snippet">Jordan NewsPublic Security Directorate: 73 Reports of Falling Debris Hand...March 1, 2026...</span><span class="citation-popover-meta">Published: March 1, 2026</span></span></span>
+The **Jordanian Armed Forces** and **Public Security Directorate (PSD)** have logged dozens of incidents involving **falling debris and unidentified flying objects**, often linked to broader regional operations or security responses rather than unexplained phenomena. For example, PSD reported **hundreds of falling debris reports** across multiple governorates, including Aqaba, with material but no fatal consequences, and issued safety warnings to citizens about approaching unknown objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jordannews.jo/Section-109/News/Public-Security-Directorate-73-Reports-of-Falling-Debris-Handled-Causing-Material-Damage-Without-Injuries-49221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jordannews.jo">[Jordan News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jordannews.jo</span><span class="citation-popover-title">Jordan News Public Security Directorate: 73 Reports of Falling Debris Hand</span><span class="citation-popover-snippet">Jordan NewsPublic Security Directorate: 73 Reports of Falling Debris Hand...March 1, 2026...</span><span class="citation-popover-meta">Published: March 1, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-2-dark.svg" | relative_url }}" alt="Aqaba Object illustration 2" data-theme-src-dark="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conflict‑Zone Dynamics and Airspace Enforcement
 
 Jordan does not sit within a conflict itself, but it borders regions where **drones, missiles and aircraft movements** have been active due to conflicts involving Iran‑aligned groups, Israel, and other actors. In this environment:
 
-* Jordan has **rejected unauthorized airspace violations**, insisting all use of its airspace must respect national sovereignty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News Jordan condemns airspace violations following recent drone incidents</span><span class="citation-popover-snippet">Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
-* Instances of **drones entering Jordanian airspace** have been publicly condemned as security threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News Jordan condemns airspace violations following recent drone incidents</span><span class="citation-popover-snippet">Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
-* Regional military engagements have seen **Jordanian air defences intercept drones and other aerial threats**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2026 Iranian strikes on Jordan</span><span class="citation-popover-snippet">2026 Iranian strikes on Jordan</span></span></span>
+* Jordan has **rejected unauthorized airspace violations**, insisting all use of its airspace must respect national sovereignty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News Jordan condemns airspace violations following recent drone incidents</span><span class="citation-popover-snippet">Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
+* Instances of **drones entering Jordanian airspace** have been publicly condemned as security threats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News Jordan condemns airspace violations following recent drone incidents</span><span class="citation-popover-snippet">Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span>
+* Regional military engagements have seen **Jordanian air defences intercept drones and other aerial threats**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2026 Iranian strikes on Jordan</span><span class="citation-popover-snippet">2026 Iranian strikes on Jordan</span></span></span>
 
 This security background explains why unidentified aerial objects or falling debris, even when innocuous or unclear in origin, prompt **official notices and military responses** in Jordan. They are treated as potential incursions or hazards — not immediate indications of extraordinary phenomena.
 
@@ -297,204 +297,204 @@ The **Aqaba object** incident, as publicly described, remains **unidentified in 
 
 * The cautious official announcement fits a **security response protocol** rather than an extraordinary unexplained event.
 * There is **no credible evidence in open reporting** linking the object to non‑terrestrial origins.
-* The lack of reported damage or casualty, combined with the rapid deployment of technical teams, suggests **standard military and civil procedures** in dealing with unidentified objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
+* The lack of reported damage or casualty, combined with the rapid deployment of technical teams, suggests **standard military and civil procedures** in dealing with unidentified objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-3-dark.svg" | relative_url }}" alt="Aqaba Object illustration 3" data-theme-src-dark="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_aqaba_flying_object_6d7969-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reader Takeaway
 
-The **Aqaba falling object case** illustrates how Jordan’s government responds when an aerial object is spotted or retrieved in sensitive border regions. The incident highlights **airspace sovereignty, regional conflict spill‑over risks, and public safety communication** rather than any confirmed UFO phenomenon. It belongs to a broader pattern of **military vigilance and civil‑security reporting** in Jordan, where unidentified objects often turn out to be debris, security‑related materials or require technical assessment rather than signalling unexplained or extraterrestrial origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
+The **Aqaba falling object case** illustrates how Jordan’s government responds when an aerial object is spotted or retrieved in sensitive border regions. The incident highlights **airspace sovereignty, regional conflict spill‑over risks, and public safety communication** rather than any confirmed UFO phenomenon. It belongs to a broader pattern of **military vigilance and civil‑security reporting** in Jordan, where unidentified objects often turn out to be debris, security‑related materials or require technical assessment rather than signalling unexplained or extraterrestrial origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabic.cnn.com">[CNN Arabic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabic.cnn.com</span><span class="citation-popover-title">Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد</span><span class="citation-popover-snippet">CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4nzlSz3rJBc" title="Watch: New video shows U.S. missile bounce off UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4nzlSz3rJBc" target="_blank" rel="noopener noreferrer">Watch: New video shows U.S. missile bounce off UFO</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 1.6M &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4nzlSz3rJBc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4nzlSz3rJBc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Fell Near Aqaba?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Fell Near Aqaba?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explains how governments investigate unexplained aerial incidents and why many cases remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how governments investigate unexplained aerial incidents and why many cases remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers military, intelligence and unidentified-object cases similar to security-focused incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military, intelligence and unidentified-object cases similar to security-focused incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating reports and distinguishing evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating reports and distinguishing evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for official investigations into unidentified aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official investigations into unidentified aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-fell-near-aqaba-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-fell-near-aqaba-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ The **Aqaba falling object case** illustrates how Jordan’s government responds
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ The **Aqaba falling object case** illustrates how Jordan’s government responds
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ The **Aqaba falling object case** illustrates how Jordan’s government responds
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ The **Aqaba falling object case** illustrates how Jordan’s government responds
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ The **Aqaba falling object case** illustrates how Jordan’s government responds
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,100 +700,100 @@ The **Aqaba falling object case** illustrates how Jordan’s government responds
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arabic.cnn.com  
    Title: Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد  
-   Link: <a href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow">https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</p></details>
+   Link:<a href="https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow">https://arabic.cnn.com/amphtml/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNN Arabicالأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلاد - CNN ArabicNovember 18, 2024...</p></details>
    Published: November 18, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 2026 Iranian strikes on Jordan  
-   Link: <a href="https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arabic.cnn.com  
-   Link: <a href="https://arabic.cnn.com/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow">https://arabic.cnn.com/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلادNovember 18, 2024 — الأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البل...</p></details>
+   Link:<a href="https://arabic.cnn.com/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate" target="_blank" rel="noopener noreferrer nofollow">https://arabic.cnn.com/middle-east/article/2024/11/18/jordan-projectile-fell-aqaba-southern-governorate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البلادNovember 18, 2024 — الأردن.. الجيش يُعلن سقوط جسم طائر في محافظة العقبة جنوبي البل...</p></details>
    Published: November 18, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: english.news.cn  
    Title: Xinhua News Jordan condemns airspace violations following recent drone incidents  
-   Link: <a href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow">https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</p></details>
+   Link:<a href="https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html" target="_blank" rel="noopener noreferrer nofollow">https://english.news.cn/20241103/c1f44826568b46269ff7fde94dbe7def/c.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Xinhua NewsJordan condemns airspace violations following recent drone incidentsNovember 3, 2024...</p></details>
    Published: November 3, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jordannews.jo  
    Title: Jordan News Public Security Directorate: 73 Reports of Falling Debris Hand  
-   Link: <a href="https://www.jordannews.jo/Section-109/News/Public-Security-Directorate-73-Reports-of-Falling-Debris-Handled-Causing-Material-Damage-Without-Injuries-49221" target="_blank" rel="noopener noreferrer nofollow">https://www.jordannews.jo/Section-109/News/Public-Security-Directorate-73-Reports-of-Falling-Debris-Handled-Causing-Material-Damage-Without-Injuries-49221</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan NewsPublic Security Directorate: 73 Reports of Falling Debris Hand...March 1, 2026...</p></details>
+   Link:<a href="https://www.jordannews.jo/Section-109/News/Public-Security-Directorate-73-Reports-of-Falling-Debris-Handled-Causing-Material-Damage-Without-Injuries-49221" target="_blank" rel="noopener noreferrer nofollow">https://www.jordannews.jo/Section-109/News/Public-Security-Directorate-73-Reports-of-Falling-Debris-Handled-Causing-Material-Damage-Without-Injuries-49221</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan NewsPublic Security Directorate: 73 Reports of Falling Debris Hand...March 1, 2026...</p></details>
    Published: March 1, 2026  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jordantimes.com  
-   Link: <a href="https://jordantimes.com/news/local/former-employee-opens-fire-aqaba-factory-kills-one-critically-injures-another" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/former-employee-opens-fire-aqaba-factory-kills-one-critically-injures-another</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2024 — FORMER EMPLOYEE OPENS FIRE IN AQABA FACTORY, KILLS ONE, CRITICALLY INJURES ANOTHER Image: JT file By Rana Husseini |...</p></details>
+   Link:<a href="https://jordantimes.com/news/local/former-employee-opens-fire-aqaba-factory-kills-one-critically-injures-another" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/former-employee-opens-fire-aqaba-factory-kills-one-critically-injures-another</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2024 — FORMER EMPLOYEE OPENS FIRE IN AQABA FACTORY, KILLS ONE, CRITICALLY INJURES ANOTHER Image: JT file By Rana Husseini |...</p></details>
    Published: September 30, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNovember 20, 2024 — PENTAGON SOLVES 1 UFO MYSTERY BUT STILL PROBING CASES OF &quot;LARGE ORANGE ORB,&quot; &quot;LARGE METALLIC CYLINDER&quot; By Ele...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNovember 20, 2024 — PENTAGON SOLVES 1 UFO MYSTERY BUT STILL PROBING CASES OF &quot;LARGE ORANGE ORB,&quot; &quot;LARGE METALLIC CYLINDER&quot; By Ele...</p></details>
    Published: November 20, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/world-news/explosives-found-in-jordan-residential-apartment-near-military-airport-used-by-us-planes-5948729" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/explosives-found-in-jordan-residential-apartment-near-military-airport-used-by-us-planes-5948729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 23, 2024 — This Article is From Jun 23, 2024 EXPLOSIVES FOUND IN JORDAN RESIDENTIAL APARTMENT NEAR MILITARY AIRPORT USED BY US PLANE...</p></details>
+   Link:<a href="https://www.ndtv.com/world-news/explosives-found-in-jordan-residential-apartment-near-military-airport-used-by-us-planes-5948729" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/explosives-found-in-jordan-residential-apartment-near-military-airport-used-by-us-planes-5948729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 23, 2024 — This Article is From Jun 23, 2024 EXPLOSIVES FOUND IN JORDAN RESIDENTIAL APARTMENT NEAR MILITARY AIRPORT USED BY US PLANE...</p></details>
    Published: June 23, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: investing.com  
-   Link: <a href="https://www.investing.com/news/world-news/gunman-shot-dead-3-police-injured-in-shooting-near-israeli-embassy-in-jordan-3738426" target="_blank" rel="noopener noreferrer nofollow">https://www.investing.com/news/world-news/gunman-shot-dead-3-police-injured-in-shooting-near-israeli-embassy-in-jordan-3738426</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2024 — GUNMAN SHOT DEAD, 3 POLICE INJURED IN SHOOTING NEAR ISRAELI EMBASSY IN JORDAN By Published 11/23/2024, 11:59 PM Updat...</p></details>
+   Link:<a href="https://www.investing.com/news/world-news/gunman-shot-dead-3-police-injured-in-shooting-near-israeli-embassy-in-jordan-3738426" target="_blank" rel="noopener noreferrer nofollow">https://www.investing.com/news/world-news/gunman-shot-dead-3-police-injured-in-shooting-near-israeli-embassy-in-jordan-3738426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2024 — GUNMAN SHOT DEAD, 3 POLICE INJURED IN SHOOTING NEAR ISRAELI EMBASSY IN JORDAN By Published 11/23/2024, 11:59 PM Updat...</p></details>
    Published: November 23, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jordantimes.com  
-   Link: <a href="https://jordantimes.com/news/local/jaf-says-airplane-sounds-over-northern-regions-were-jordanian-jets-0" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/jaf-says-airplane-sounds-over-northern-regions-were-jordanian-jets-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JAF says airplane sounds over northern regions were from Jordanian jets | Jordan TimesMarch 19, 2024 — JAF SAYS AIRPLANE SOUNDS OVER NORT...</p></details>
+   Link:<a href="https://jordantimes.com/news/local/jaf-says-airplane-sounds-over-northern-regions-were-jordanian-jets-0" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/jaf-says-airplane-sounds-over-northern-regions-were-jordanian-jets-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAF says airplane sounds over northern regions were from Jordanian jets | Jordan TimesMarch 19, 2024 — JAF SAYS AIRPLANE SOUNDS OVER NORT...</p></details>
    Published: March 19, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jordantimes.com  
-   Link: <a href="https://jordantimes.com/news/local/jaf-thwarts-drug-smuggling-attempts-using-drone-western-border-0" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/jaf-thwarts-drug-smuggling-attempts-using-drone-western-border-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JAF thwarts drug smuggling attempts using drone on western border | Jordan TimesOctober 31, 2024 — JAF THWARTS DRUG SMUGGLING ATTEMPTS US...</p></details>
+   Link:<a href="https://jordantimes.com/news/local/jaf-thwarts-drug-smuggling-attempts-using-drone-western-border-0" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/jaf-thwarts-drug-smuggling-attempts-using-drone-western-border-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAF thwarts drug smuggling attempts using drone on western border | Jordan TimesOctober 31, 2024 — JAF THWARTS DRUG SMUGGLING ATTEMPTS US...</p></details>
    Published: October 31, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jordantimes.com  
    Title: Army foils drug smuggling attempt using drone on western frontier | Jordan Times  
-   Link: <a href="https://jordantimes.com/news/local/army-foils-drug-smuggling-attempt-using-drone-western-frontier" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/army-foils-drug-smuggling-attempt-using-drone-western-frontier</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2024 — ARMY FOILS DRUG SMUGGLING ATTEMPT USING DRONE ON WESTERN FRONTIER Image: No Image By JT | 21:46 December 9, 2024 | AMM...</p></details>
+   Link:<a href="https://jordantimes.com/news/local/army-foils-drug-smuggling-attempt-using-drone-western-frontier" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/army-foils-drug-smuggling-attempt-using-drone-western-frontier</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2024 — ARMY FOILS DRUG SMUGGLING ATTEMPT USING DRONE ON WESTERN FRONTIER Image: No Image By JT | 21:46 December 9, 2024 | AMM...</p></details>
    Published: December 9, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jordantimes.com  
    Title: Jordan not targeted by missiles, drones over past 24 hours – JAF | Jordan Times  
-   Link: <a href="https://jordantimes.com/news/local/jordan-not-targeted-by-missiles-drones-despite-debris-reports-jaf" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/jordan-not-targeted-by-missiles-drones-despite-debris-reports-jaf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 2026 — JORDAN NOT TARGETED BY MISSILES, DRONES OVER PAST 24 HOURS – JAF Image: No Image By JT | 14:42 April 7, 2026 | AMMAN — Th...</p></details>
+   Link:<a href="https://jordantimes.com/news/local/jordan-not-targeted-by-missiles-drones-despite-debris-reports-jaf" target="_blank" rel="noopener noreferrer nofollow">https://jordantimes.com/news/local/jordan-not-targeted-by-missiles-drones-despite-debris-reports-jaf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 2026 — JORDAN NOT TARGETED BY MISSILES, DRONES OVER PAST 24 HOURS – JAF Image: No Image By JT | 14:42 April 7, 2026 | AMMAN — Th...</p></details>
    Published: April 7, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: petra.gov.jo  
    Title: Military: Sounds of Explosions Linked to Interceptions Outside Borders  
-   Link: <a href="https://petra.gov.jo/en/index.php/en/news/military-sounds-of-explosions-linked-to-interceptions-outside-borders" target="_blank" rel="noopener noreferrer nofollow">https://petra.gov.jo/en/index.php/en/news/military-sounds-of-explosions-linked-to-interceptions-outside-borders</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Jordan News AgencyApril 7, 2026 — MILITARY: SOUNDS OF EXPLOSIONS LINKED TO INTERCEPTIONS OUTSIDE BORDERS 07/04/2026 | 13:45:41 Image...</p></details>
+   Link:<a href="https://petra.gov.jo/en/index.php/en/news/military-sounds-of-explosions-linked-to-interceptions-outside-borders" target="_blank" rel="noopener noreferrer nofollow">https://petra.gov.jo/en/index.php/en/news/military-sounds-of-explosions-linked-to-interceptions-outside-borders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Jordan News AgencyApril 7, 2026 — MILITARY: SOUNDS OF EXPLOSIONS LINKED TO INTERCEPTIONS OUTSIDE BORDERS 07/04/2026 | 13:45:41 Image...</p></details>
    Published: April 7, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newarab.com  
    Title: British company director shot dead in Jordan 'by fired employee'  
-   Link: <a href="https://www.newarab.com/news/british-company-director-shot-dead-jordan-fired-employee" target="_blank" rel="noopener noreferrer nofollow">https://www.newarab.com/news/british-company-director-shot-dead-jordan-fired-employee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2024 — BRITISH COMPANY DIRECTOR IN JORDAN SHOT DEAD WITH KALASHNIKOV &#x27;BY FIRED EMPLOYEE&#x27; A British national was among three pe...</p></details>
+   Link:<a href="https://www.newarab.com/news/british-company-director-shot-dead-jordan-fired-employee" target="_blank" rel="noopener noreferrer nofollow">https://www.newarab.com/news/british-company-director-shot-dead-jordan-fired-employee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2024 — BRITISH COMPANY DIRECTOR IN JORDAN SHOT DEAD WITH KALASHNIKOV &#x27;BY FIRED EMPLOYEE&#x27; A British national was among three pe...</p></details>
    Published: October 1, 2024

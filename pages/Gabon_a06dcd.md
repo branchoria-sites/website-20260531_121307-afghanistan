@@ -1196,46 +1196,46 @@ image: /assets/images/Gabon_a06dcd-overview-social.jpg
 
 ### 1963 Libreville Encounter
 
-One of the oldest accounts circulated among ufology catalogues concerns an alleged event in **Libreville on 25 December 1963**, when a local fisherman reportedly saw a landed craft and a humanoid being emerge from it at night. The account describes the being producing unfamiliar sounds and leaving footprints in the sand before the object departed. This incident is cited in ufology catalogues compiled decades later and stems from secondary sources rather than contemporaneous reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1963-12-25-gabon-librevillef.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: URECAT-000096 - 25 décembre 1963, Libreville, Libreville, Gabon, un pêcheur...</span></span></span>
+One of the oldest accounts circulated among ufology catalogues concerns an alleged event in **Libreville on 25 December 1963**, when a local fisherman reportedly saw a landed craft and a humanoid being emerge from it at night. The account describes the being producing unfamiliar sounds and leaving footprints in the sand before the object departed. This incident is cited in ufology catalogues compiled decades later and stems from secondary sources rather than contemporaneous reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1963-12-25-gabon-librevillef.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: URECAT-000096 - 25 décembre 1963, Libreville, Libreville, Gabon, un pêcheur...</span></span></span>
 
 <img src="{{ "/assets/images/Gabon_a06dcd-overview.webp" | relative_url }}" alt="Overview image for What Do Gabon&#x27;s UFO Stories Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ### Contemporary Reporting Efforts
 
-More recent interest is visible in online reporting forums that invite Gabon residents to share sightings. For example, a global UFO database run by a U.S. ufology group claims a growing number of reports from Gabon during the 2020s and encourages witnesses to submit accounts and photos. However, such platforms are **informal and often unverified**, mixing eyewitness testimony with promotional language, and do not provide rigorous investigation or classification of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Gabon UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+More recent interest is visible in online reporting forums that invite Gabon residents to share sightings. For example, a global UFO database run by a U.S. ufology group claims a growing number of reports from Gabon during the 2020s and encourages witnesses to submit accounts and photos. However, such platforms are **informal and often unverified**, mixing eyewitness testimony with promotional language, and do not provide rigorous investigation or classification of events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Gabon UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
 ### Anecdotal and Online Testimonies
 
-Personal accounts from residents occasionally circulate on internet forums, describing unexplained lights or airborne objects in Gabonese skies. One first‑person narrative recounts a nocturnal encounter with a light above trees that stayed stationary while emitting beams reminiscent of searchlights; the witness and companions saw it for several minutes before it disappeared. Such accounts are **anecdotal**, lacking photographic evidence or follow‑up study, but reflect real local testimony about unidentified sky phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/o6mviy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I Need Your Help To explain A thing</span><span class="citation-popover-snippet">I Need Your Help To explain A thingJune 23, 2021...</span><span class="citation-popover-meta">Published: June 23, 2021</span></span></span>
+Personal accounts from residents occasionally circulate on internet forums, describing unexplained lights or airborne objects in Gabonese skies. One first‑person narrative recounts a nocturnal encounter with a light above trees that stayed stationary while emitting beams reminiscent of searchlights; the witness and companions saw it for several minutes before it disappeared. Such accounts are **anecdotal**, lacking photographic evidence or follow‑up study, but reflect real local testimony about unidentified sky phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/o6mviy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I Need Your Help To explain A thing</span><span class="citation-popover-snippet">I Need Your Help To explain A thingJune 23, 2021...</span><span class="citation-popover-meta">Published: June 23, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Gabon_a06dcd-Illustration-1-dark.svg" | relative_url }}" alt="What Do Gabon&#x27;s UFO Stories Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cultural Engagement and Interpretation
 
 ### UAP Afrique and Public Discourse
 
-In recent years, cultural engagement with UFO themes has emerged from Gabonese and broader African diaspora voices. The **[UAP Afrique]({{ 'uap-afrique/' | relative_url }})** network, co‑founded by a Franco‑Gabonese artist, has promoted exhibitions and written work exploring how African perspectives intersect with global ufology debates. A 2024 exhibition in Paris explicitly showcased African testimonies and challenged predominantly Western frames of UFO discourse, including testimonies from Gabon about strange lights and shapes seen over Port‑Gentil and rural areas. Such events blend **art, cultural narrative and eyewitness accounts**, and highlight how UFO topics are interpreted within Gabonese cultural contexts rather than as established empirical phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">July 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
+In recent years, cultural engagement with UFO themes has emerged from Gabonese and broader African diaspora voices. The **[UAP Afrique]({{ 'uap-afrique/' | relative_url }})** network, co‑founded by a Franco‑Gabonese artist, has promoted exhibitions and written work exploring how African perspectives intersect with global ufology debates. A 2024 exhibition in Paris explicitly showcased African testimonies and challenged predominantly Western frames of UFO discourse, including testimonies from Gabon about strange lights and shapes seen over Port‑Gentil and rural areas. Such events blend **art, cultural narrative and eyewitness accounts**, and highlight how UFO topics are interpreted within Gabonese cultural contexts rather than as established empirical phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">July 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u4v6rSzXPjU" title="Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer">Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 23.8K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u4v6rSzXPjU">Open on YouTube</a></p></div></div></div>
 
 ### Local Worldviews and Skepticism
 
-Commentators involved in these cultural projects often emphasise that UFO concepts are **not deeply rooted in Gabonese culture** in the same way as in Western ufology. Some local witnesses may frame unexplained sightings within traditional spiritual beliefs or hesitate to report them due to social norms about discussing the mysterious or taboo. This reflects a broader point: in Gabon, unidentified aerial phenomena are often discussed in **cultural or narrative terms** rather than as systematically documented scientific anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/gabon-elle-termine-son-voyage-mystique-dans-une-concession-a-bambouchine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">October 7, 2020 — GABON: ELLE TERMINE SON «VOYAGE MYSTIQUE» DANS UNE CONCESSION À BAMBOUCHINE poste par David Makoumba Dissumba / 7 octo...</span><span class="citation-popover-meta">Published: October 7, 2020</span></span></span>
+Commentators involved in these cultural projects often emphasise that UFO concepts are **not deeply rooted in Gabonese culture** in the same way as in Western ufology. Some local witnesses may frame unexplained sightings within traditional spiritual beliefs or hesitate to report them due to social norms about discussing the mysterious or taboo. This reflects a broader point: in Gabon, unidentified aerial phenomena are often discussed in **cultural or narrative terms** rather than as systematically documented scientific anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/gabon-elle-termine-son-voyage-mystique-dans-une-concession-a-bambouchine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">October 7, 2020 — GABON: ELLE TERMINE SON «VOYAGE MYSTIQUE» DANS UNE CONCESSION À BAMBOUCHINE poste par David Makoumba Dissumba / 7 octo...</span><span class="citation-popover-meta">Published: October 7, 2020</span></span></span>
 
 ## Evidence Quality and Investigative Status
 
 ### Lack of Official Records
 
-To date, there is **no known official government archive, scientific study, or air‑force investigation** in Gabon focused on UFOs or UAPs comparable to CNES’s GEIPAN in France or NASA/DoD task forces in the United States. This means that most claims remain **unverified and anecdotal**, with no transparent bodies applying rigorous methodology to separate misidentified natural or human‑made objects from truly unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+To date, there is **no known official government archive, scientific study, or air‑force investigation** in Gabon focused on UFOs or UAPs comparable to CNES’s GEIPAN in France or NASA/DoD task forces in the United States. This means that most claims remain **unverified and anecdotal**, with no transparent bodies applying rigorous methodology to separate misidentified natural or human‑made objects from truly unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 <img src="{{ "/assets/images/Gabon_a06dcd-Illustration-2-dark.svg" | relative_url }}" alt="What Do Gabon&#x27;s UFO Stories Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Distinguishing Testimony from Verified Observation
 
-In ufology research globally, a high proportion of reported sightings are later explained by conventional phenomena (satellites, aircraft, astronomical objects, atmospheric effects). Without systematic investigation in Gabon, individual accounts should be treated cautiously: eyewitness testimony alone is not sufficient to confirm anomalous aerial craft. The emphasis in credible research is on gathering **multi‑sensor data, corroborated reports, and follow‑up analysis**, which are absent in the Gabonese context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPANPOSTERS THE GEIPAN&#x27;S MISSION The GEIPAN&#x27;s mission (Group for Study and Information on Unidentified Aerospace Phenomena) is to provi...</span></span></span>
+In ufology research globally, a high proportion of reported sightings are later explained by conventional phenomena (satellites, aircraft, astronomical objects, atmospheric effects). Without systematic investigation in Gabon, individual accounts should be treated cautiously: eyewitness testimony alone is not sufficient to confirm anomalous aerial craft. The emphasis in credible research is on gathering **multi‑sensor data, corroborated reports, and follow‑up analysis**, which are absent in the Gabonese context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPANPOSTERS THE GEIPAN&#x27;S MISSION The GEIPAN&#x27;s mission (Group for Study and Information on Unidentified Aerospace Phenomena) is to provi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_rnJ8iNtLsI" title="DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_rnJ8iNtLsI" target="_blank" rel="noopener noreferrer">DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025</a></p><p class="youtube-embed-meta">Channel: Matt Novak &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_rnJ8iNtLsI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_rnJ8iNtLsI">Open on YouTube</a></p></div></div></div>
 
 ## Contested Claims vs Debunking
 
-At present, there are **no widely recognised cases from Gabon** that have undergone rigorous scientific scrutiny and been confirmed as unexplained after elimination of known causes. Reports that circulate in online communities often mix cultural storytelling, personal testimony, and ufology interpretation without verification by independent observers or instruments. As such, claims of extraterrestrial craft or close encounters remain **contested and unsubstantiated**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Gabon UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+At present, there are **no widely recognised cases from Gabon** that have undergone rigorous scientific scrutiny and been confirmed as unexplained after elimination of known causes. Reports that circulate in online communities often mix cultural storytelling, personal testimony, and ufology interpretation without verification by independent observers or instruments. As such, claims of extraterrestrial craft or close encounters remain **contested and unsubstantiated**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Gabon UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JUNO7qqSJ9o" title="The Ariel School UFO Incident: 60 Students Saw Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer">The Ariel School UFO Incident: 60 Students Saw Aliens</a></p><p class="youtube-embed-meta">Channel: The Official Channel &middot; Views: 51.3K &middot; Uploaded: September 2025 &middot; Length: 1 hour 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JUNO7qqSJ9o">Open on YouTube</a></p></div></div></div>
 
@@ -1245,199 +1245,199 @@ Because documented reports are few, it is not possible to delineate a reliable p
 
 ## Summary
 
-In Gabon, UFO phenomena are primarily found in **cultural narratives, individual eyewitness accounts, and the work of independent enthusiasts** rather than in official investigation archives. There are a handful of anecdotal reports dating back decades, but **no verified or scientifically corroborated cases** that rise above local testimony. Cultural projects such as the UAP Afrique exhibition demonstrate that Gabonese and wider African perspectives are joining international discussions about unidentified aerial phenomena, though within a context that blends folklore, personal experience and artistic exploration rather than documented empirical research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/gabon-un-couple-de-pantheres-seme-la-panique-a-oyem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">December 4, 2019 — GABON: UN COUPLE DE PANTHÈRES SÈME LA PANIQUE À OYEM poste par Griffin Ondo Nzuey / 4 décembre, 2019 Chien retrouvé m...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
+In Gabon, UFO phenomena are primarily found in **cultural narratives, individual eyewitness accounts, and the work of independent enthusiasts** rather than in official investigation archives. There are a handful of anecdotal reports dating back decades, but **no verified or scientifically corroborated cases** that rise above local testimony. Cultural projects such as the UAP Afrique exhibition demonstrate that Gabonese and wider African perspectives are joining international discussions about unidentified aerial phenomena, though within a context that blends folklore, personal experience and artistic exploration rather than documented empirical research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gabonreview.com/gabon-un-couple-de-pantheres-seme-la-panique-a-oyem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gabonreview.com">[gabonreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gabonreview.com</span><span class="citation-popover-snippet">December 4, 2019 — GABON: UN COUPLE DE PANTHÈRES SÈME LA PANIQUE À OYEM poste par Griffin Ondo Nzuey / 4 décembre, 2019 Chien retrouvé m...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Gabon_a06dcd-Illustration-3-dark.svg" | relative_url }}" alt="What Do Gabon&#x27;s UFO Stories Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Gabon&#x27;s UFO Stories Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Gabon&#x27;s UFO Stories Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for interpreting sparse folklore-linked UFO reports like those attributed to Gabon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting sparse folklore-linked UFO reports like those attributed to Gabon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how sightings are evaluated when evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how sightings are evaluated when evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparative cases involving credible witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparative cases involving credible witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/690963-M.jpg" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/690963-M.jpg" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Helps readers understand how sightings are evaluated when evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how sightings are evaluated when evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-gabon-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-gabon-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1453,7 +1453,7 @@ In Gabon, UFO phenomena are primarily found in **cultural narratives, individual
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1473,7 +1473,7 @@ In Gabon, UFO phenomena are primarily found in **cultural narratives, individual
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1505,7 +1505,7 @@ In Gabon, UFO phenomena are primarily found in **cultural narratives, individual
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1557,7 +1557,7 @@ In Gabon, UFO phenomena are primarily found in **cultural narratives, individual
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1602,7 +1602,7 @@ In Gabon, UFO phenomena are primarily found in **cultural narratives, individual
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1643,119 +1643,119 @@ In Gabon, UFO phenomena are primarily found in **cultural narratives, individual
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2024...</p></details>
+   Link:<a href="https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/les-ovni-a-lheure-africaine-quand-le-gabon-sinvite-dans-le-debat-ufologique/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2024...</p></details>
    Published: July 8, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/ce3/1963-12-25-gabon-librevillef.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1963-12-25-gabon-librevillef.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: URECAT-000096 - 25 décembre 1963, Libreville, Libreville, Gabon, un pêcheur...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/ce3/1963-12-25-gabon-librevillef.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1963-12-25-gabon-librevillef.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: URECAT-000096 - 25 décembre 1963, Libreville, Libreville, Gabon, un pêcheur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Gabon UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/gabon-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
    Published: March 22, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: I Need Your Help To explain A thing  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/o6mviy" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o6mviy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Need Your Help To explain A thingJune 23, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/o6mviy" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o6mviy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Need Your Help To explain A thingJune 23, 2021...</p></details>
    Published: June 23, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/gabon-elle-termine-son-voyage-mystique-dans-une-concession-a-bambouchine/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/gabon-elle-termine-son-voyage-mystique-dans-une-concession-a-bambouchine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 7, 2020 — GABON: ELLE TERMINE SON «VOYAGE MYSTIQUE» DANS UNE CONCESSION À BAMBOUCHINE poste par David Makoumba Dissumba / 7 octo...</p></details>
+   Link:<a href="https://www.gabonreview.com/gabon-elle-termine-son-voyage-mystique-dans-une-concession-a-bambouchine/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/gabon-elle-termine-son-voyage-mystique-dans-une-concession-a-bambouchine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 7, 2020 — GABON: ELLE TERMINE SON «VOYAGE MYSTIQUE» DANS UNE CONCESSION À BAMBOUCHINE poste par David Makoumba Dissumba / 7 octo...</p></details>
    Published: October 7, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/gabon-un-couple-de-pantheres-seme-la-panique-a-oyem/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/gabon-un-couple-de-pantheres-seme-la-panique-a-oyem/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2019 — GABON: UN COUPLE DE PANTHÈRES SÈME LA PANIQUE À OYEM poste par Griffin Ondo Nzuey / 4 décembre, 2019 Chien retrouvé m...</p></details>
+   Link:<a href="https://www.gabonreview.com/gabon-un-couple-de-pantheres-seme-la-panique-a-oyem/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/gabon-un-couple-de-pantheres-seme-la-panique-a-oyem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2019 — GABON: UN COUPLE DE PANTHÈRES SÈME LA PANIQUE À OYEM poste par Griffin Ondo Nzuey / 4 décembre, 2019 Chien retrouvé m...</p></details>
    Published: December 4, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gabonreview.com  
-   Link: <a href="https://www.gabonreview.com/recherche-scientifique-une-grotte-sepulcrale-decouverte-dans-la-ngounie/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/recherche-scientifique-une-grotte-sepulcrale-decouverte-dans-la-ngounie/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2018 — RECHERCHE SCIENTIFIQUE: UNE GROTTE SÉPULCRALE DÉCOUVERTE DANS LA NGOUNIÉ poste par La Rédaction / 19 décembre, 2018...</p></details>
+   Link:<a href="https://www.gabonreview.com/recherche-scientifique-une-grotte-sepulcrale-decouverte-dans-la-ngounie/" target="_blank" rel="noopener noreferrer nofollow">https://www.gabonreview.com/recherche-scientifique-une-grotte-sepulcrale-decouverte-dans-la-ngounie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2018 — RECHERCHE SCIENTIFIQUE: UNE GROTTE SÉPULCRALE DÉCOUVERTE DANS LA NGOUNIÉ poste par La Rédaction / 19 décembre, 2018...</p></details>
    Published: December 19, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANPOSTERS THE GEIPAN&#x27;S MISSION The GEIPAN&#x27;s mission (Group for Study and Information on Unidentified Aerospace Phenomena) is to provi...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANPOSTERS THE GEIPAN&#x27;S MISSION The GEIPAN&#x27;s mission (Group for Study and Information on Unidentified Aerospace Phenomena) is to provi...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theufodatabase.com  
-   Link: <a href="https://theufodatabase.com/organizations/geipan" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/geipan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Group for studies and information on non-aerospace phenomena | The UFO DatabaseGROUP FOR STUDIES AND INFORMATION ON NON-AEROSPACE PHENOME...</p></details>
+   Link:<a href="https://theufodatabase.com/organizations/geipan" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Group for studies and information on non-aerospace phenomena | The UFO DatabaseGROUP FOR STUDIES AND INFORMATION ON NON-AEROSPACE PHENOME...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoinsight.com  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 13, 2021 — THE TOGO BEACH UFO INCIDENT – PARALYSIS, BLINDING LIGHTS, AND FURTHER SUGGESTIONS OF UNDERWATER BASES By Marcu...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/togo-beach-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 13, 2021 — THE TOGO BEACH UFO INCIDENT – PARALYSIS, BLINDING LIGHTS, AND FURTHER SUGGESTIONS OF UNDERWATER BASES By Marcu...</p></details>
    Published: June 13, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uapafrique.com  
-   Link: <a href="https://uapafrique.com/2025/10/04/ovnis-ces-etres-la-ont-ete-vus-dans-les-forets-du-gabon-un-diplomate-africain-sexprime/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2025/10/04/ovnis-ces-etres-la-ont-ete-vus-dans-les-forets-du-gabon-un-diplomate-africain-sexprime/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS ‘Ces êtres-la ont été vus dans les forêts du Gabon’: un diplomate africain s’exprime – UAP AFRIQUEOctober 4, 2025 — OVNIS ‘CES ÊTR...</p></details>
+   Link:<a href="https://uapafrique.com/2025/10/04/ovnis-ces-etres-la-ont-ete-vus-dans-les-forets-du-gabon-un-diplomate-africain-sexprime/" target="_blank" rel="noopener noreferrer nofollow">https://uapafrique.com/2025/10/04/ovnis-ces-etres-la-ont-ete-vus-dans-les-forets-du-gabon-un-diplomate-africain-sexprime/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS ‘Ces êtres-la ont été vus dans les forêts du Gabon’: un diplomate africain s’exprime – UAP AFRIQUEOctober 4, 2025 — OVNIS ‘CES ÊTR...</p></details>
    Published: October 4, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DESK? I’M CALLING TO REPORT A… Craig Mellow September 2010 Image: Lenticular clouds tend to remain stationary; their longevity and th...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DESK? I’M CALLING TO REPORT A… Craig Mellow September 2010 Image: Lenticular clouds tend to remain stationary; their longevity and th...</p></details>
    Published: September 2010  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: foxnews.com  
    Title: 'UFO' found in Congo turns out to be Project Loon balloon | Fox News  
-   Link: <a href="https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 2020 — &#x27;UFO&#x27; FOUND IN CONGO TURNS OUT TO BE PROJECT LOON BALLOON FOOTAGE OF THE BALLOON WAS SHARED TO TWITTER, SHOWING A SILVE...</p></details>
+   Link:<a href="https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/mysterious-ufo-congo-project-loon-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 2020 — &#x27;UFO&#x27; FOUND IN CONGO TURNS OUT TO BE PROJECT LOON BALLOON FOOTAGE OF THE BALLOON WAS SHARED TO TWITTER, SHOWING A SILVE...</p></details>
    Published: August 27, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ktwb.com  
    Title: ufo in congo jungle turns out to be internet balloon  
-   Link: <a href="https://ktwb.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://ktwb.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>‘UFO’ in Congo jungle turns out to be internet balloon | KTWB Big Country 92.5August 25, 2020 — * * * * * * * * * * * * * * * * * * * * *...</p></details>
+   Link:<a href="https://ktwb.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://ktwb.com/2020/08/25/ufo-in-congo-jungle-turns-out-to-be-internet-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>‘UFO’ in Congo jungle turns out to be internet balloon | KTWB Big Country 92.5August 25, 2020 — * * * * * * * * * * * * * * * * * * * * *...</p></details>
    Published: August 25, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanguardngr.com  
    Title: Congo ‘UFO’ turns out to be Project Loon balloon  
-   Link: <a href="https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2020 — August 30, 2020 CONGO ‘UFO’ TURNS OUT TO BE PROJECT LOON BALLOON Image: Congo ‘UFO’ turns out to be Project Loon balloo...</p></details>
+   Link:<a href="https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2020/08/congo-ufo-turns-out-to-be-project-loon-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2020 — August 30, 2020 CONGO ‘UFO’ TURNS OUT TO BE PROJECT LOON BALLOON Image: Congo ‘UFO’ turns out to be Project Loon balloo...</p></details>
    Published: August 30, 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lesrepasufologiques.org  
    Title: Les OVNIS en Afrique  
-   Link: <a href="https://lesrepasufologiques.org/les-ovnis-en-afrique/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/les-ovnis-en-afrique/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESJanuary 8, 2025 — Image LES OVNIS EN AFRIQUE * Hugues SAUTOT * 08/01/2025 * |info - Agenda|, Montpellier * 0 * 429 A...</p></details>
+   Link:<a href="https://lesrepasufologiques.org/les-ovnis-en-afrique/" target="_blank" rel="noopener noreferrer nofollow">https://lesrepasufologiques.org/les-ovnis-en-afrique/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LES REPAS UFOLOGIQUESJanuary 8, 2025 — Image LES OVNIS EN AFRIQUE * Hugues SAUTOT * 08/01/2025 * |info - Agenda|, Montpellier * 0 * 429 A...</p></details>
    Published: January 8, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Crash Retrieval  
-   Link: <a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CBKYNwC-bjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CBKYNwC-bjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)...</p></details>

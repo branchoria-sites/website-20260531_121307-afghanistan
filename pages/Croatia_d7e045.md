@@ -1201,34 +1201,34 @@ That matters because Croatia sits at a natural crossroads for UFO interpretation
 
 A UFO, or unidentified flying object, is not automatically an alien spacecraft. In the Croatian record, the term is most useful when it is treated literally: something seen in the sky, airspace, sea horizon, or near-flight environment that was not identified at the time. The more modern term UAP, unidentified anomalous phenomenon, is broader and is now used by US and European institutions for reports that may involve aircraft, balloons, satellites, drones, sensor artefacts, atmospheric effects, or genuinely unresolved observations.
 
-This distinction is especially important in Croatia because some of the best-known “UFO” references are not extraterrestrial claims at all. The 2022 Zagreb crash was unidentified when it entered Croatian airspace and fell near Jarun, but investigators and reporting soon identified it as a Soviet-era Tupolev Tu-141 military drone linked to the wider Ukraine-war airspace environment. Reuters reported that the drone entered Croatia from Hungary at about 1,300 metres and crashed seven minutes after crossing into Croatian airspace; a later expert panel said it carried an aerial bomb that exploded after impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+This distinction is especially important in Croatia because some of the best-known “UFO” references are not extraterrestrial claims at all. The 2022 Zagreb crash was unidentified when it entered Croatian airspace and fell near Jarun, but investigators and reporting soon identified it as a Soviet-era Tupolev Tu-141 military drone linked to the wider Ukraine-war airspace environment. Reuters reported that the drone entered Croatia from Hungary at about 1,300 metres and crashed seven minutes after crossing into Croatian airspace; a later expert panel said it carried an aerial bomb that exploded after impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 Croatia’s UFO record is therefore best read as an evidence map rather than a belief map. Some reports are aviation-safety or defence incidents. Some are folklore-like local stories. Some are citizen observations that might be explained by Starlink satellites, meteors, aircraft, drones, Chinese lanterns, camera reflections, or advertising stunts. A small number remain interesting because they involve trained observers, multiple witnesses, radar claims, or unusual persistence — but even those are often weakened by missing primary documents.
 
 ## The high-value chronology: from Yugoslav skies to modern Croatia
 
-Croatia’s UFO chronology is uneven. There is no single official Croatian public catalogue equivalent to France’s GEIPAN, the French space-agency unit that collects, analyses, archives, and publishes unidentified aerospace reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Instead, Croatian cases appear in fragmented form: local media articles, UFO-enthusiast archives, aviation memoirs, international sighting databases, television programmes, and defence-related reporting.
+Croatia’s UFO chronology is uneven. There is no single official Croatian public catalogue equivalent to France’s GEIPAN, the French space-agency unit that collects, analyses, archives, and publishes unidentified aerospace reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Instead, Croatian cases appear in fragmented form: local media articles, UFO-enthusiast archives, aviation memoirs, international sighting databases, television programmes, and defence-related reporting.
 
 The most useful way to read the chronology is by evidence type.
 
-**1970s: shared Yugoslav aviation cases.** Two cases dominate regional UFO discussion: the 172nd Aviation Regiment reports and the Pan Adria airliner incident. Both belong to the former Yugoslav setting, but Croatia is relevant because the alleged activity touched the southern Croatian coast, Dubrovnik/Prevlaka radar narratives, Croatian airspace, or a Croatian airline route. Local UFO group DUAP Polaris describes the 172nd Aviation Regiment case as involving radar observations from the Prevlaka area near Dubrovnik and a military unit based in then-Titograd, now Podgorica. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">124 172 aviacijski puk</span><span class="citation-popover-snippet">124 172 aviacijski puk</span></span></span> The same group describes the Pan Adria case as a night flight involving a Pan Adria Fokker aircraft on a Zagreb–Surčin–Titograd route, with later research suggesting 1976 rather than the often-repeated 1977 date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">129 panadria</span><span class="citation-popover-snippet">129 panadria</span></span></span>
+**1970s: shared Yugoslav aviation cases.** Two cases dominate regional UFO discussion: the 172nd Aviation Regiment reports and the Pan Adria airliner incident. Both belong to the former Yugoslav setting, but Croatia is relevant because the alleged activity touched the southern Croatian coast, Dubrovnik/Prevlaka radar narratives, Croatian airspace, or a Croatian airline route. Local UFO group DUAP Polaris describes the 172nd Aviation Regiment case as involving radar observations from the Prevlaka area near Dubrovnik and a military unit based in then-Titograd, now Podgorica.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">124 172 aviacijski puk</span><span class="citation-popover-snippet">124 172 aviacijski puk</span></span></span> The same group describes the Pan Adria case as a night flight involving a Pan Adria Fokker aircraft on a Zagreb–Surčin–Titograd route, with later research suggesting 1976 rather than the often-repeated 1977 date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">129 panadria</span><span class="citation-popover-snippet">129 panadria</span></span></span>
 
-**2008: the Zagreb radio hoax.** A widely repeated Zagreb UFO scare was not a sighting investigation but a media event. A Croatian radio station reportedly staged a fake alien-invasion story in December 2008, describing a bright moving light over Zagreb and broadcasting invented witness testimony; the episode was picked up by news agencies as a public-reaction story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/htm/2008dec.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span> It is a useful warning case: a UFO narrative can become “international” without any aerial anomaly behind it.
+**2008: the Zagreb radio hoax.** A widely repeated Zagreb UFO scare was not a sighting investigation but a media event. A Croatian radio station reportedly staged a fake alien-invasion story in December 2008, describing a bright moving light over Zagreb and broadcasting invented witness testimony; the episode was picked up by news agencies as a public-reaction story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/htm/2008dec.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span> It is a useful warning case: a UFO narrative can become “international” without any aerial anomaly behind it.
 
-**2012 and 2018: ordinary urban mysteries.** In April 2012, Croatian media reported multiple emergency calls about a formation of lights over Zagreb, visible for several hours across central parts of the city; the report did not establish a firm identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tportal.hr">[naslovnica - tportal.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tportal.hr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In January 2018, a photograph circulated as alleged UFOs over Zagreb, but local reporting traced the effect to a cropped or enlarged sunset image in which the wider photograph made the mundane visual context clearer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: index.hr">[Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">index.hr</span><span class="citation-popover-title">Istina o NLO-u nad Zagrebom: Kad vidite cijelu fotografiju</span><span class="citation-popover-snippet">Istina o NLO-u nad Zagrebom: Kad vidite cijelu fotografiju</span></span></span> These cases show the modern pattern: the mystery often lives in the framing, crop, or short clip rather than in a stable body of evidence.
+**2012 and 2018: ordinary urban mysteries.** In April 2012, Croatian media reported multiple emergency calls about a formation of lights over Zagreb, visible for several hours across central parts of the city; the report did not establish a firm identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tportal.hr">[naslovnica - tportal.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tportal.hr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In January 2018, a photograph circulated as alleged UFOs over Zagreb, but local reporting traced the effect to a cropped or enlarged sunset image in which the wider photograph made the mundane visual context clearer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: index.hr">[Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">index.hr</span><span class="citation-popover-title">Istina o NLO-u nad Zagrebom: Kad vidite cijelu fotografiju</span><span class="citation-popover-snippet">Istina o NLO-u nad Zagrebom: Kad vidite cijelu fotografiju</span></span></span> These cases show the modern pattern: the mystery often lives in the framing, crop, or short clip rather than in a stable body of evidence.
 
-**2014: Dugi Otok underwater circles.** The strange circular gaps in seagrass off Croatian islands were sometimes pulled into UFO culture, but they were not flying-object sightings. Environmental group Sunce, whose work on marine mapping helped bring attention to the circles, discussed possible explanations such as underwater explosions, geological or oil exploration, chemical causes, and other human activity, while stressing that no explanation could be treated as certain without evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sunce-st.org">[sunce-st.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sunce-st.org</span><span class="citation-popover-title">Seagrass circles in the Adriatic</span><span class="citation-popover-snippet">Seagrass circles in the Adriatic</span></span></span> Later public commentary continued to treat the circles as unresolved, but the most evidence-based reading is ecological and human-impact focused, not extraterrestrial. A specialist profile by Donat Petricioli states that Croatian Posidonia damage circles are likely caused by human activity such as submarine explosions, blast fishing, or military shelling, while allowing that more than one cause may be involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2014: Dugi Otok underwater circles.** The strange circular gaps in seagrass off Croatian islands were sometimes pulled into UFO culture, but they were not flying-object sightings. Environmental group Sunce, whose work on marine mapping helped bring attention to the circles, discussed possible explanations such as underwater explosions, geological or oil exploration, chemical causes, and other human activity, while stressing that no explanation could be treated as certain without evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sunce-st.org">[sunce-st.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sunce-st.org</span><span class="citation-popover-title">Seagrass circles in the Adriatic</span><span class="citation-popover-snippet">Seagrass circles in the Adriatic</span></span></span> Later public commentary continued to treat the circles as unresolved, but the most evidence-based reading is ecological and human-impact focused, not extraterrestrial. A specialist profile by Donat Petricioli states that Croatian Posidonia damage circles are likely caused by human activity such as submarine explosions, blast fishing, or military shelling, while allowing that more than one cause may be involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**2022: Zagreb Tu-141 drone crash.** This is Croatia’s clearest modern “unidentified object” event with hard national-security significance. It was tracked as an airspace incident, crashed in the capital, damaged vehicles, and exposed NATO air-defence questions. The Guardian reported that Croatian authorities said the pilotless military aircraft entered from Hungary at about 700 km/h and 1,300 metres altitude, and that it flew undetected or unchallenged across NATO airspace before crashing in Zagreb. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Military drone from Ukraine war crashes into Croatian</span><span class="citation-popover-snippet">The Guardian Military drone from Ukraine war crashes into Croatian</span></span></span> The case is debunked only in the narrow sense that it was not alien; it remains important as a real unidentified-aircraft and air-defence failure case.
+**2022: Zagreb Tu-141 drone crash.** This is Croatia’s clearest modern “unidentified object” event with hard national-security significance. It was tracked as an airspace incident, crashed in the capital, damaged vehicles, and exposed NATO air-defence questions. The Guardian reported that Croatian authorities said the pilotless military aircraft entered from Hungary at about 700 km/h and 1,300 metres altitude, and that it flew undetected or unchallenged across NATO airspace before crashing in Zagreb.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Military drone from Ukraine war crashes into Croatian</span><span class="citation-popover-snippet">The Guardian Military drone from Ukraine war crashes into Croatian</span></span></span> The case is debunked only in the narrow sense that it was not alien; it remains important as a real unidentified-aircraft and air-defence failure case.
 
-**2020s: database and social-media reports.** Croatia now appears in international reporting platforms, but these entries are mostly raw witness reports rather than completed investigations. Enigma Labs lists Croatia as having more than a hundred published sightings when its own submissions and third-party sources are combined, while NUFORC’s location index lists dozens of reports under Croatia and a few more under “Croatia (Hrvatska)”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting These figures are useful for locating claims, not for proving anomalous craft.
+**2020s: database and social-media reports.** Croatia now appears in international reporting platforms, but these entries are mostly raw witness reports rather than completed investigations. Enigma Labs lists Croatia as having more than a hundred published sightings when its own submissions and third-party sources are combined, while NUFORC’s location index lists dozens of reports under Croatia and a few more under “Croatia (Hrvatska)”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting These figures are useful for locating claims, not for proving anomalous craft.
 
 <img src="{{ "/assets/images/Croatia_d7e045-Illustration-1-dark.svg" | relative_url }}" alt="What Croatia’s UFO Records Reveal About... illustration 1" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest contested aviation cases
 
 ### Pan Adria: a Croatian airline case with a documentation problem
 
-The Pan Adria case is the Croatian-linked UFO story most often treated by regional enthusiasts as a premier case. The core claim is that a Pan Adria aircraft on a night route from Zagreb toward Belgrade/Surčin and Titograd was paced or approached by an unusual light or object, with pilots and possibly other witnesses involved. The case has become tangled in date uncertainty: some summaries give August 1977, while later discussion by researcher Giuliano Marinković, reported by DUAP Polaris, says an internal document points to 1976. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[sh.wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NL O Pan Adria incident</span><span class="citation-popover-snippet">NL O Pan Adria incident</span></span></span>
+The Pan Adria case is the Croatian-linked UFO story most often treated by regional enthusiasts as a premier case. The core claim is that a Pan Adria aircraft on a night route from Zagreb toward Belgrade/Surčin and Titograd was paced or approached by an unusual light or object, with pilots and possibly other witnesses involved. The case has become tangled in date uncertainty: some summaries give August 1977, while later discussion by researcher Giuliano Marinković, reported by DUAP Polaris, says an internal document points to 1976.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[sh.wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NL O Pan Adria incident</span><span class="citation-popover-snippet">NL O Pan Adria incident</span></span></span>
 
 The case is interesting because it has the ingredients that normally raise evidential value: professional flight crew, a commercial aircraft, a route with defined times and locations, and claims that the event was discussed privately before becoming public after Yugoslavia’s collapse. It also has a major weakness: much of the publicly accessible account still depends on secondary retellings, specialist UFO circles, interviews, and promised or unpublished research rather than a readily available official incident file, radar plot, cockpit transcript, or airline report.
 
@@ -1236,9 +1236,9 @@ A fair reading is therefore neither dismissal nor endorsement. Pan Adria belongs
 
 ### The 172nd Aviation Regiment reports: Croatian coastline, Yugoslav command structure
 
-The 172nd Aviation Regiment case is broader than Croatia but relevant to this page because accounts place part of the activity over the southern Adriatic and around the Dubrovnik/Prevlaka region. DUAP Polaris summarises the case as beginning with unusual radar observations from Prevlaka near Dubrovnik, with objects reportedly arriving from the direction of Italy across the Adriatic and sometimes showing implausible behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">106 guliano</span><span class="citation-popover-snippet">106 guliano</span></span></span>
+The 172nd Aviation Regiment case is broader than Croatia but relevant to this page because accounts place part of the activity over the southern Adriatic and around the Dubrovnik/Prevlaka region. DUAP Polaris summarises the case as beginning with unusual radar observations from Prevlaka near Dubrovnik, with objects reportedly arriving from the direction of Italy across the Adriatic and sometimes showing implausible behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">106 guliano</span><span class="citation-popover-snippet">106 guliano</span></span></span>
 
-The case matters because it links several recurring UFO-evidence themes: military pilots, radar operators, repeated events, and later testimony after a state system became more open. Public television listings and regional programme descriptions also show that the case has been discussed in Croatian popular-science media, especially through HRT’s long-running programme on fringe and controversial science topics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://program4102.rssing.com/chan-63354506/article24391.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: program4102.rssing.com">[program4102.rssing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">program4102.rssing.com</span><span class="citation-popover-title">Na rubu znanosti: NLO i 172. avijacijski puk</span><span class="citation-popover-snippet">Na rubu znanosti: NLO i 172. avijacijski puk</span></span></span>
+The case matters because it links several recurring UFO-evidence themes: military pilots, radar operators, repeated events, and later testimony after a state system became more open. Public television listings and regional programme descriptions also show that the case has been discussed in Croatian popular-science media, especially through HRT’s long-running programme on fringe and controversial science topics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://program4102.rssing.com/chan-63354506/article24391.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: program4102.rssing.com">[program4102.rssing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">program4102.rssing.com</span><span class="citation-popover-title">Na rubu znanosti: NLO i 172. avijacijski puk</span><span class="citation-popover-snippet">Na rubu znanosti: NLO i 172. avijacijski puk</span></span></span>
 
 The caution is geographical and archival. The regiment was based in what is now Montenegro, under Yugoslav military structures, so it should not be forced into a purely Croatian national frame. For a Croatia page, its relevance is strongest where reports mention Croatian coastal airspace, Dubrovnik-area radar, Adriatic routes, and the wider Yugoslav aviation environment that also produced Pan Adria. It also naturally links to sibling pages on Montenegro, Serbia, and the former Yugoslav military archive problem.
 
@@ -1246,46 +1246,46 @@ The caution is geographical and archival. The regiment was based in what is now 
 
 ## The confirmed case: Zagreb’s 2022 drone crash
 
-The Zagreb Tu-141 crash is the most concrete modern Croatian UAP-type incident because it began as an unidentified aerial object, was physically recovered, and had official security implications. On 10 March 2022, an unmanned military aircraft crashed near Lake Jarun in Zagreb. Croatian reporting and Reuters described a loud explosion, damaged cars, parachutes found nearby, and an aircraft that had entered from Hungary after crossing other NATO airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">soviet era drone that crashed croatia carried aerial bomb experts say 2022 04 13</span><span class="citation-popover-snippet">soviet era drone that crashed croatia carried aerial bomb experts say 2022 04 13</span></span></span>
+The Zagreb Tu-141 crash is the most concrete modern Croatian UAP-type incident because it began as an unidentified aerial object, was physically recovered, and had official security implications. On 10 March 2022, an unmanned military aircraft crashed near Lake Jarun in Zagreb. Croatian reporting and Reuters described a loud explosion, damaged cars, parachutes found nearby, and an aircraft that had entered from Hungary after crossing other NATO airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">soviet era drone that crashed croatia carried aerial bomb experts say</span><span class="citation-popover-snippet">soviet era drone that crashed croatia carried aerial bomb experts say</span></span></span>
 
 What makes the case valuable is that it demonstrates how “unidentified” can be a temporary operational status rather than a permanent mystery. The object was initially unknown to the public, alarming, and unexplained. Within the investigation, it became a known class of aircraft: a Soviet-era Tupolev Tu-141 reconnaissance drone. The unresolved elements moved from “what was it?” to “who launched it, why did it fly that route, why was it not intercepted, and what did NATO members know in real time?”
 
-The case also shows why Croatia’s UFO topic should not be detached from airspace governance. Tportal’s 2025 retrospective noted that three years after the crash, important questions still remained publicly unresolved, including details around origin and responsibility, while Croatian Ministry of Defence statements had described the drone as a military type entering from the east, from Hungarian airspace, at roughly 700 km/h and 1,300 metres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tportal.hr">[naslovnica - tportal.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tportal.hr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is not an alien case, but it is a serious unidentified-aircraft case whose public record remains partly incomplete.
+The case also shows why Croatia’s UFO topic should not be detached from airspace governance. Tportal’s 2025 retrospective noted that three years after the crash, important questions still remained publicly unresolved, including details around origin and responsibility, while Croatian Ministry of Defence statements had described the drone as a military type entering from the east, from Hungarian airspace, at roughly 700 km/h and 1,300 metres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tportal.hr">[naslovnica - tportal.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tportal.hr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is not an alien case, but it is a serious unidentified-aircraft case whose public record remains partly incomplete.
 
 ## Debunked, explained, or likely mundane Croatian cases
 
 Croatia has several cases where the best explanation is not exotic. These cases are still useful because they show the main failure modes in local UFO reporting.
 
-**The 2008 Zagreb radio scare was a hoax.** A staged radio story about a bright object and alien invasion over Zagreb reportedly led residents to contact police, but the episode was a media prank rather than an aerial mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/htm/news2008.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+**The 2008 Zagreb radio scare was a hoax.** A staged radio story about a bright object and alien invasion over Zagreb reportedly led residents to contact police, but the episode was a media prank rather than an aerial mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/htm/news2008.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-**The 2018 Zagreb photograph appears to be a framing problem.** A viral image of alleged UFOs over Zagreb lost much of its force when wider context showed it was connected to a sunset photograph and a visual effect noticed only after enlargement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: index.hr">[Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">index.hr</span><span class="citation-popover-snippet">Open source on index.hr.</span></span></span>
+**The 2018 Zagreb photograph appears to be a framing problem.** A viral image of alleged UFOs over Zagreb lost much of its force when wider context showed it was connected to a sunset photograph and a visual effect noticed only after enlargement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: index.hr">[Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">index.hr</span><span class="citation-popover-snippet">Open source on index.hr.</span></span></span>
 
-**Satellite trains are a growing source of Croatian reports.** Starlink satellite groups often appear as a line or train of moving lights and are widely mistaken for UFOs; Space.com’s tracker guide notes that these trains are often misidentified because of their unusual appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span> This matters for Croatia because the Adriatic coast and islands produce many dark-sky tourist observations, and short phone videos of moving light strings are now common worldwide.
+**Satellite trains are a growing source of Croatian reports.** Starlink satellite groups often appear as a line or train of moving lights and are widely mistaken for UFOs; Space.com’s tracker guide notes that these trains are often misidentified because of their unusual appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span> This matters for Croatia because the Adriatic coast and islands produce many dark-sky tourist observations, and short phone videos of moving light strings are now common worldwide.
 
-**The Dugi Otok circles are not an aerial case.** They are visually striking and genuinely worth investigating as marine ecology, but their best evidence points to damaged Posidonia seagrass and possible human or environmental causes. Reuters has separately reported on Croatian scientific concern over Posidonia meadows near Dugi Otok and Kornati, noting threats from anchoring, trawling, pollution, development, warmer waters, and invasive species. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Croatia&#x27;s scientists seek to ward off threat to Posidonia seagrass</span><span class="citation-popover-snippet">Croatia&#x27;s scientists seek to ward off threat to Posidonia seagrass</span></span></span> The UFO label here is more cultural packaging than evidence.
+**The Dugi Otok circles are not an aerial case.** They are visually striking and genuinely worth investigating as marine ecology, but their best evidence points to damaged Posidonia seagrass and possible human or environmental causes. Reuters has separately reported on Croatian scientific concern over Posidonia meadows near Dugi Otok and Kornati, noting threats from anchoring, trawling, pollution, development, warmer waters, and invasive species.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Croatia&#x27;s scientists seek to ward off threat to Posidonia seagrass</span><span class="citation-popover-snippet">Croatia&#x27;s scientists seek to ward off threat to Posidonia seagrass</span></span></span> The UFO label here is more cultural packaging than evidence.
 
-**Meteors and bolides have a strong local monitoring context.** Croatia is unusually relevant to meteor science because the Croatian Meteor Network helped inspire the Global Meteor Network. The GMN recounts that Damir Šegon started the Croatian Meteor Network years before the global system developed, and the GMN now operates international low-cost meteor cameras to compute trajectories and orbits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-title">Global Meteor Network How the Global Meteor Network came to be</span><span class="citation-popover-snippet">Global Meteor Network How the Global Meteor Network came to be</span></span></span> That matters because many dramatic “fire in the sky” reports are exactly the sort of event meteor networks can test.
+**Meteors and bolides have a strong local monitoring context.** Croatia is unusually relevant to meteor science because the Croatian Meteor Network helped inspire the Global Meteor Network. The GMN recounts that Damir Šegon started the Croatian Meteor Network years before the global system developed, and the GMN now operates international low-cost meteor cameras to compute trajectories and orbits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-title">Global Meteor Network How the Global Meteor Network came to be</span><span class="citation-popover-snippet">Global Meteor Network How the Global Meteor Network came to be</span></span></span> That matters because many dramatic “fire in the sky” reports are exactly the sort of event meteor networks can test.
 
 <img src="{{ "/assets/images/Croatia_d7e045-Illustration-2-dark.svg" | relative_url }}" alt="What Croatia’s UFO Records Reveal About... illustration 2" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Region-level variation inside Croatia
 
 Croatian UFO reports cluster where people, cameras, and sky visibility cluster, not necessarily where unknown craft would logically choose to appear.
 
-**Zagreb is the media and emergency-call centre.** Zagreb produces hoaxes, photographs, mass-light reports, and the 2022 drone crash because it is the capital, has dense witnesses, has media infrastructure, and sits under important civil and military airspace. The 2012 lights report, 2018 photo story, 2008 radio hoax, and 2022 Tu-141 crash all show different versions of the same pattern: an unusual sky event becomes public quickly because Zagreb has the institutions and audience to amplify it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tportal.hr">[naslovnica - tportal.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tportal.hr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: index.hr">[Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">index.hr</span><span class="citation-popover-snippet">Open source on index.hr.</span></span></span>
+**Zagreb is the media and emergency-call centre.** Zagreb produces hoaxes, photographs, mass-light reports, and the 2022 drone crash because it is the capital, has dense witnesses, has media infrastructure, and sits under important civil and military airspace. The 2012 lights report, 2018 photo story, 2008 radio hoax, and 2022 Tu-141 crash all show different versions of the same pattern: an unusual sky event becomes public quickly because Zagreb has the institutions and audience to amplify it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tportal.hr">[naslovnica - tportal.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tportal.hr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: index.hr">[Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">index.hr</span><span class="citation-popover-snippet">Open source on index.hr.</span></span></span>
 
 **The Adriatic coast produces high-visibility reports.** Dubrovnik, Hvar, Pula, Dugi Otok, Kornati, and the islands are naturally fertile UFO-reporting territory because skies can be dark, horizons are open, tourists take many photographs, and aircraft, satellites, meteors, naval activity, drones, and reflections over water can look dramatic. This does not make the coast less interesting; it makes careful identification more important.
 
-**Southern Croatia links to former Yugoslav military narratives.** Dubrovnik and Prevlaka matter because the 172nd Aviation Regiment accounts refer to radar and flight activity along the southern Adriatic. Those claims are not easily separable from Montenegro and former Yugoslav military structures, but they remain relevant to Croatian-region variation because the alleged observation corridor crosses the Adriatic-facing edge of Croatia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">DUA P Polaris</span><span class="citation-popover-snippet">DUA P Polaris</span></span></span>
+**Southern Croatia links to former Yugoslav military narratives.** Dubrovnik and Prevlaka matter because the 172nd Aviation Regiment accounts refer to radar and flight activity along the southern Adriatic. Those claims are not easily separable from Montenegro and former Yugoslav military structures, but they remain relevant to Croatian-region variation because the alleged observation corridor crosses the Adriatic-facing edge of Croatia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">DUA P Polaris</span><span class="citation-popover-snippet">DUA P Polaris</span></span></span>
 
-**Inland and smaller-county reports are under-documented.** Modern databases include reports from places such as Zagreb County and Sisak-Moslavina County, but most entries are raw witness submissions. NUFORC, for example, lists individual Croatia reports with dates, locations, durations, and observer counts, but such records rarely include enough independent evidence to resolve the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Inland and smaller-county reports are under-documented.** Modern databases include reports from places such as Zagreb County and Sisak-Moslavina County, but most entries are raw witness submissions. NUFORC, for example, lists individual Croatia reports with dates, locations, durations, and observer counts, but such records rarely include enough independent evidence to resolve the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## Official records and the Croatian archive gap
 
-There is no clear public evidence of a standing Croatian UAP office with a searchable national database comparable to GEIPAN. Croatia does have normal public-information channels and defence-archive rules. The Croatian Information Commissioner describes its role as protecting, monitoring, and promoting the right of access to information, while the Ministry of Defence publishes annual reports on implementation of the access-to-information law and identifies an information officer and contact channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pristupinfo.hr">[pristupinfo.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pristupinfo.hr</span><span class="citation-popover-title">o povjereniku za informiranje</span><span class="citation-popover-snippet">o povjereniku za informiranje</span></span></span>
+There is no clear public evidence of a standing Croatian UAP office with a searchable national database comparable to GEIPAN. Croatia does have normal public-information channels and defence-archive rules. The Croatian Information Commissioner describes its role as protecting, monitoring, and promoting the right of access to information, while the Ministry of Defence publishes annual reports on implementation of the access-to-information law and identifies an information officer and contact channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pristupinfo.hr">[pristupinfo.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pristupinfo.hr</span><span class="citation-popover-title">o povjereniku za informiranje</span><span class="citation-popover-snippet">o povjereniku za informiranje</span></span></span>
 
-That means a researcher can ask for records, but it does not mean a neat UFO archive exists. The Croatian Ministry of Defence website functions primarily as a defence-news and public-information site, not as a UAP catalogue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morh.hr">[MORH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morh.hr</span><span class="citation-popover-title">izvjesce o provedbi zakona o pravu na pristup informacijama za 2025 godinu</span><span class="citation-popover-snippet">izvjesce o provedbi zakona o pravu na pristup informacijama za 2025 godinu</span></span></span> Archival material concerning the Yugoslav period is even more complicated because relevant files may sit across successor states, military memoirs, unit monographs, personal collections, and classified or uncatalogued holdings.
+That means a researcher can ask for records, but it does not mean a neat UFO archive exists. The Croatian Ministry of Defence website functions primarily as a defence-news and public-information site, not as a UAP catalogue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morh.hr">[MORH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morh.hr</span><span class="citation-popover-title">izvjesce o provedbi zakona o pravu na pristup informacijama za 2025 godinu</span><span class="citation-popover-snippet">izvjesce o provedbi zakona o pravu na pristup informacijama za 2025 godinu</span></span></span> Archival material concerning the Yugoslav period is even more complicated because relevant files may sit across successor states, military memoirs, unit monographs, personal collections, and classified or uncatalogued holdings.
 
-This archive gap shapes the evidence quality. In France, GEIPAN’s public mission creates a formal pipeline: collect, analyse, investigate, publish, archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In Croatia, the pipeline is fragmented. A Zagreb light report may appear in media, a pilot case may be preserved by a private researcher, a drone crash may be handled as defence and police evidence, and a meteor may be captured by an amateur-professional camera network. The result is not necessarily less truth, but it is less centralised truth.
+This archive gap shapes the evidence quality. In France, GEIPAN’s public mission creates a formal pipeline: collect, analyse, investigate, publish, archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In Croatia, the pipeline is fragmented. A Zagreb light report may appear in media, a pilot case may be preserved by a private researcher, a drone crash may be handled as defence and police evidence, and a meteor may be captured by an amateur-professional camera network. The result is not necessarily less truth, but it is less centralised truth.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YbgbviR6NtM" title="UFO(orb) sightings above Hvar, Croatia 28.Aug.2016." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer">UFO(orb) sightings above Hvar, Croatia 28.Aug.2016.</a></p><p class="youtube-embed-meta">Channel: Hvar Live &middot; Views: 10.7K &middot; Uploaded: August 2016 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YbgbviR6NtM">Open on YouTube</a></p></div></div></div>
 
@@ -1293,25 +1293,25 @@ This archive gap shapes the evidence quality. In France, GEIPAN’s public missi
 
 Croatian UFO material should be sorted by source strength before interpretation.
 
-**Strongest sources:** official defence or police statements, aviation-safety material, radar or sensor records, meteor-network detections, civil-aviation logs, and physical debris. The Zagreb Tu-141 crash belongs here because it involved an actual recovered object and official investigation, even though some responsibility details remain restricted or politically sensitive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+**Strongest sources:** official defence or police statements, aviation-safety material, radar or sensor records, meteor-network detections, civil-aviation logs, and physical debris. The Zagreb Tu-141 crash belongs here because it involved an actual recovered object and official investigation, even though some responsibility details remain restricted or politically sensitive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
 **Useful but incomplete sources:** named pilot testimony, regional television interviews, specialist UFO [research groups]({{ 'research-groups/' | relative_url }}), and monographs. Pan Adria and the 172nd Aviation Regiment reports sit in this middle category. They are not trivial, but their public evidence is not as complete as a modern aviation incident file.
 
-**Low-confidence sources:** social-media clips, tourist photos, Reddit posts, short videos without exact time/location metadata, tabloid retellings, and listicles. These can point to leads but rarely settle a case. International databases such as Enigma and NUFORC are valuable for discovery because they aggregate reports, but their entries should be treated as reports, not conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+**Low-confidence sources:** social-media clips, tourist photos, Reddit posts, short videos without exact time/location metadata, tabloid retellings, and listicles. These can point to leads but rarely settle a case. International databases such as Enigma and NUFORC are valuable for discovery because they aggregate reports, but their entries should be treated as reports, not conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-**Context sources:** NASA, AARO, GEIPAN, and meteor networks help interpret Croatian cases even when they are not about Croatia specifically. NASA’s independent UAP study warned that poor data, stigma, missing metadata, and lack of multiple calibrated measurements are major barriers to understanding sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> That warning applies directly to Croatia’s civilian reports.
+**Context sources:** NASA, AARO, GEIPAN, and meteor networks help interpret Croatian cases even when they are not about Croatia specifically. NASA’s independent UAP study warned that poor data, stigma, missing metadata, and lack of multiple calibrated measurements are major barriers to understanding sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> That warning applies directly to Croatia’s civilian reports.
 
 ## Confirmed, contested, and debunked Croatian claims
 
 A practical classification keeps the subject honest.
 
-**Confirmed as real but not exotic:** the Zagreb Tu-141 crash. It was an unidentified aircraft event with debris, damage, and defence implications, later identified as a military drone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+**Confirmed as real but not exotic:** the Zagreb Tu-141 crash. It was an unidentified aircraft event with debris, damage, and defence implications, later identified as a military drone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-**Contested and historically interesting:** Pan Adria and the 172nd Aviation Regiment accounts. They involve aviation professionals or military settings and are repeatedly discussed in regional UFO research, but public primary evidence is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">Kineski Roswell</span><span class="citation-popover-snippet">Kineski Roswell</span></span></span>
+**Contested and historically interesting:** Pan Adria and the 172nd Aviation Regiment accounts. They involve aviation professionals or military settings and are repeatedly discussed in regional UFO research, but public primary evidence is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">Kineski Roswell</span><span class="citation-popover-snippet">Kineski Roswell</span></span></span>
 
-**Unresolved but low-evidence:** many database and social-media sightings from Zagreb, the coast, islands, and inland counties. These can be sincere observations while still lacking the data needed for confident classification. Enigma and NUFORC counts show that Croatia has a continuing report stream, but not that Croatia has a verified anomalous craft stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+**Unresolved but low-evidence:** many database and social-media sightings from Zagreb, the coast, islands, and inland counties. These can be sincere observations while still lacking the data needed for confident classification. Enigma and NUFORC counts show that Croatia has a continuing report stream, but not that Croatia has a verified anomalous craft stream.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-**Debunked or likely explained:** the 2008 Zagreb radio hoax, the 2018 Zagreb photo claim, many satellite-train sightings, and marine “UFO circle” narratives around Dugi Otok. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sunce-st.org">[sunce-st.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sunce-st.org</span><span class="citation-popover-title">Seagrass circles in the Adriatic</span><span class="citation-popover-snippet">Seagrass circles in the Adriatic</span></span></span>
+**Debunked or likely explained:** the 2008 Zagreb radio hoax, the 2018 Zagreb photo claim, many satellite-train sightings, and marine “UFO circle” narratives around Dugi Otok.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sunce-st.org">[sunce-st.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sunce-st.org</span><span class="citation-popover-title">Seagrass circles in the Adriatic</span><span class="citation-popover-snippet">Seagrass circles in the Adriatic</span></span></span>
 
 This split is more useful than asking whether Croatia “believes in UFOs”. The real question is which reports survive better documentation. So far, the answer is: the drone crash survives as a defence incident; the 1970s aviation stories survive as historically important but contested cases; most modern civilian reports remain weak unless matched to independent sky, flight, satellite, or meteor data.
 
@@ -1320,9 +1320,9 @@ This split is more useful than asking whether Croatia “believes in UFOs”. Th
 
 Croatia already has pieces of the infrastructure needed for better UAP investigation: astronomy outreach, meteor cameras, defence reporting channels, a freedom-of-information framework, and aviation expertise. The missing piece is a public, standardised reporting and review process.
 
-A strong Croatian UAP record would need exact time, location, direction, elevation angle, duration, weather, camera metadata, original files rather than compressed social-media uploads, aircraft and satellite cross-checks, and independent sensor confirmation. NASA’s UAP report emphasised the need for better data and reduced stigma; AARO’s historical review similarly found no verifiable evidence of extraterrestrial activity while noting that many cases suffer from insufficient or poor-quality information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+A strong Croatian UAP record would need exact time, location, direction, elevation angle, duration, weather, camera metadata, original files rather than compressed social-media uploads, aircraft and satellite cross-checks, and independent sensor confirmation. NASA’s UAP report emphasised the need for better data and reduced stigma; AARO’s historical review similarly found no verifiable evidence of extraterrestrial activity while noting that many cases suffer from insufficient or poor-quality information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-For Croatia, the most productive model would not be sensational disclosure. It would be a modest national or academic clearing process that can say, case by case: aircraft, satellite, meteor, drone, atmospheric effect, camera artefact, insufficient data, or unresolved. France’s GEIPAN shows that a public archive can be useful even when most cases turn out to be ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Croatia does not need to prove anything exotic for such a system to have value; airspace safety, public education, and better sky-event literacy are already enough.
+For Croatia, the most productive model would not be sensational disclosure. It would be a modest national or academic clearing process that can say, case by case: aircraft, satellite, meteor, drone, atmospheric effect, camera artefact, insufficient data, or unresolved. France’s GEIPAN shows that a public archive can be useful even when most cases turn out to be ordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Croatia does not need to prove anything exotic for such a system to have value; airspace safety, public education, and better sky-event literacy are already enough.
 
 ## The bottom line on Croatia
 
@@ -1333,194 +1333,194 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/npl7uuMe_u8" title="UFO Connection: Yugoslavian Pan Adria Incident &amp; Wow! Signal in 1977" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer">UFO Connection: Yugoslavian Pan Adria Incident &amp; Wow! Signal in 1977</a></p><p class="youtube-embed-meta">Channel: Sanjin Đumišić &middot; Views: 7.3K &middot; Uploaded: January 2016 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=npl7uuMe_u8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Croatia’s UFO Records Reveal About Unidentified Objects. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Croatia’s UFO Records Reveal About Unidentified Objects. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to comparing strong and weak case evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to comparing strong and weak case evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unidentified-object reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating unidentified-object reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on aviation-linked and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on aviation-linked and documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding cultural layers in UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding cultural layers in UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-croatia-s-ufo-records-reveal-about-unidentified-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1536,7 +1536,7 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1556,7 +1556,7 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1588,7 +1588,7 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1640,7 +1640,7 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1685,7 +1685,7 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1723,437 +1723,436 @@ The most defensible conclusion is that Croatia is a good case study in how UFO e
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: soviet era drone that crashed croatia carried aerial bomb experts say 2022 04 13  
-   Link: <a href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: duap-polaris.hr  
    Title: 124 172 aviacijski puk  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html</a>  
+   Link:<a href="https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/124-172-aviacijski-puk.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: duap-polaris.hr  
    Title: 129 panadria  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html</a>  
+   Link:<a href="https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/129-panadria.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: duap-polaris.hr  
    Title: 106 guliano  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html</a>  
+   Link:<a href="https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/ufologija/106-guliano.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/2008dec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/2008dec.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/2008dec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/2008dec.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tportal.hr  
-   Link: <a href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow">https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427</a>  
+   Link:<a href="https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427" target="_blank" rel="noopener noreferrer nofollow">https://www.tportal.hr/fun/clanak/nlo-iznad-zagreba-preplasio-gradane-20120427</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: index.hr  
    Title: Istina o NLO-u nad Zagrebom: Kad vidite cijelu fotografiju  
-   Link: <a href="https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx</a>  
+   Link:<a href="https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/magazin/clanak/istina-o-nlou-nad-zagrebom-kad-vidite-cijelu-fotografiju-bit-ce-vam-jasno-sto-se-dogodilo/1018263.aspx</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sunce-st.org  
    Title: Seagrass circles in the Adriatic  
-   Link: <a href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow">https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/</a>  
+   Link:<a href="https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/" target="_blank" rel="noopener noreferrer nofollow">https://sunce-st.org/en/news/seagrass-circles-in-the-adriatic/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: independent.academia.edu  
    Title: Donat Petricioli  
-   Link: <a href="https://independent.academia.edu/DonatPetricioli" target="_blank" rel="noopener noreferrer nofollow">https://independent.academia.edu/DonatPetricioli</a>  
+   Link:<a href="https://independent.academia.edu/DonatPetricioli" target="_blank" rel="noopener noreferrer nofollow">https://independent.academia.edu/DonatPetricioli</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/hr</a>  
+   Link:<a href="https://enigmalabs.io/explore/hr" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/hr</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: NL O Pan Adria incident  
-   Link: <a href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident</a>  
+   Link:<a href="https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/NLO_Pan_Adria_incident</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: program4102.rssing.com  
    Title: Na rubu znanosti: NLO i 172. avijacijski puk  
-   Link: <a href="https://program4102.rssing.com/chan-63354506/article24391.html" target="_blank" rel="noopener noreferrer nofollow">https://program4102.rssing.com/chan-63354506/article24391.html</a>  
+   Link:<a href="https://program4102.rssing.com/chan-63354506/article24391.html" target="_blank" rel="noopener noreferrer nofollow">https://program4102.rssing.com/chan-63354506/article24391.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tportal.hr  
-   Link: <a href="https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310" target="_blank" rel="noopener noreferrer nofollow">https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310</a>  
+   Link:<a href="https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310" target="_blank" rel="noopener noreferrer nofollow">https://www.tportal.hr/vijesti/clanak/tri-su-godine-prosle-od-pada-drona-u-zagrebu-sto-sve-ne-znamo-foto-20250310</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reuters.com  
    Title: Croatia's scientists seek to ward off threat to Posidonia seagrass  
-   Link: <a href="https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/</a>  
+   Link:<a href="https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/croatias-scientists-seek-ward-off-threat-posidonia-seagrass-2025-06-20/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187438" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187438</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=187438" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187438</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191332" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191332</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=191332" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191332</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pristupinfo.hr  
    Title: o povjereniku za informiranje  
-   Link: <a href="https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en</a>  
+   Link:<a href="https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://pristupinfo.hr/o-povjereniku-za-informiranje/?lang=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: morh.hr  
    Title: izvjesce o provedbi zakona o pravu na pristup informacijama za 2025 godinu  
-   Link: <a href="https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/</a>  
+   Link:<a href="https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/izvjesce-o-provedbi-zakona-o-pravu-na-pristup-informacijama-za-2025-godinu/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: morh.hr  
-   Link: <a href="https://www.morh.hr/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/</a>  
+   Link:<a href="https://www.morh.hr/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: 2022 Zagreb Tu 141 drone crash  
-   Link: <a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Pad bespilotne letjelice u Zagrebu 2022  
-   Link: <a href="https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022</a>  
+   Link:<a href="https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Pad_bespilotne_letjelice_u_Zagrebu_2022</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Pan Adria NLO incident  
-   Link: <a href="https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident</a>  
+   Link:<a href="https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Pan_Adria_NLO_incident</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Neidentifikovani leteći objekat  
-   Link: <a href="https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat</a>  
+   Link:<a href="https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Neidentifikovani_lete%C4%87i_objekat</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://sh.wikipedia.org/wiki/Kategorija%3AUfologija" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Kategorija%3AUfologija</a>  
+   Link:<a href="https://sh.wikipedia.org/wiki/Kategorija%3AUfologija" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Kategorija%3AUfologija</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://sh.wikipedia.org/wiki/Kategorija%3A1977" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Kategorija%3A1977</a>  
+   Link:<a href="https://sh.wikipedia.org/wiki/Kategorija%3A1977" target="_blank" rel="noopener noreferrer nofollow">https://sh.wikipedia.org/wiki/Kategorija%3A1977</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Dodatak:Popis epizoda emisije Na rubu znanosti  
-   Link: <a href="https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti</a>  
+   Link:<a href="https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti" target="_blank" rel="noopener noreferrer nofollow">https://hr.wikipedia.org/wiki/Dodatak%3APopis_epizoda_emisije_Na_rubu_znanosti</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Access to public information in Croatia  
-   Link: <a href="https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Access_to_public_information_in_Croatia</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=39714" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39714</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=39714" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39714</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/news2008.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/news2008.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/news2008.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/news2008.htm</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/2008decf.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/2008decf.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/2008decf.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/2008decf.htm</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr</a>  
+   Link:<a href="https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/hr/support/article/9ede0174-9d0b-6133-27d7-5607cc21ce24?srsltid=AfmBOorwvuaT2ODsLAsDl7D3nlwVpmmnAoJCXLUM15qf0bNtLgGSqdRr</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z</a>  
+   Link:<a href="https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOoq1r8FONm4z1rYCGbFCoeYs_nrnVvLeeD_Ch0-n0FNM37hLCD2Z</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776</a>  
+   Link:<a href="https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/hr/business?srsltid=AfmBOoq3gLJenFNAHTlk31nWcvmXtdJuQPO3SA8CHtdbgLfd-_67l776</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: morh.hr  
    Title: manji incident tijekom uvjezbavanja na jarunu  
-   Link: <a href="https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/</a>  
+   Link:<a href="https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/" target="_blank" rel="noopener noreferrer nofollow">https://www.morh.hr/manji-incident-tijekom-uvjezbavanja-na-jarunu/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: js.ugd.edu.mk  
-   Link: <a href="https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0" target="_blank" rel="noopener noreferrer nofollow">https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0</a>  
+   Link:<a href="https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0" target="_blank" rel="noopener noreferrer nofollow">https://js.ugd.edu.mk/index.php/BSSR/article/download/950/918/0</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rkxa12/side_by_side_of_my_sighting_along_with/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/</a>  
+   Link:<a href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/</a>  
+   Link:<a href="https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/?tl=sr</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ye2i5d/did_i_see_ufos_in_dubrovnik/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16niyld/starlink_spotted_i_can_finally_understand_why/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/</a>  
+   Link:<a href="https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mysteriesoftheworld/comments/25k00c/mysterious_circles_in_the_adriatic_sea/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: pristupinfo.hr  
-   Link: <a href="https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf</a>  
+   Link:<a href="https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pristupinfo.hr/wp-content/uploads/2019/01/novinar-morh.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: index.hr  
-   Link: <a href="https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx</a>  
+   Link:<a href="https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/vijesti/clanak/1960ih-su-mnogi-prijavljivali-da-su-vidjeli-nloe-pentagon-objavio-o-cemu-se-radilo/2545630.aspx</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: index.hr  
-   Link: <a href="https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx</a>  
+   Link:<a href="https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/vijesti/clanak/dron-od-sest-tona-mogao-je-izazvati-katastrofu-ovo-su-najveci-propusti-i-krivci/2346636.aspx</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: duap-polaris.hr  
    Title: DUA P Polaris  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php</a>  
+   Link:<a href="https://duap-polaris.hr/polaris/index.php" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: duap-polaris.hr  
    Title: Kineski Roswell  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html</a>  
+   Link:<a href="https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/astroarheologija/97-kineski-roswell.html</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: duap-polaris.hr  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html</a>  
+   Link:<a href="https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/astroarheologija/69-piramide-elektrane.html</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: catalog.archives.gov  
-   Link: <a href="https://catalog.archives.gov/id/567812943" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/567812943</a>  
+   Link:<a href="https://catalog.archives.gov/id/567812943" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/567812943</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/276375" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/276375</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/276375" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/276375</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: nato.int  
-   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives</a>  
+   Link:<a href="https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: acsce.edu.in  
-   Link: <a href="https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/</a>  
+   Link:<a href="https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.acsce.edu.in/blog/spacex-launch-starlink-satellites-ufos/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/countries/archives/croatia" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/croatia</a>  
+   Link:<a href="https://history.state.gov/countries/archives/croatia" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/croatia</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_</a>  
+   Link:<a href="https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/127893526/%C5%BDivjeti_s_nadnaravnim_bi%C4%87ima_Vukodlaci_vile_i_vje%C5%A1tice_hrvatskih_tradicijskih_vjerovanja_To_Live_with_Supernatural_Beings_Werewolves_Fairies_and_Witches_of_Croatian_Traditional_Beliefs_</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Croatia - Aliens - Križevci - NEW FOOTAGE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Croatia - Aliens - Križevci - NEW FOOTAGE...</p></details>
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=R5dhT82VAy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R5dhT82VAy4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Triangle of Pag! Motorcycle adventure towards TET Croatia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R5dhT82VAy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R5dhT82VAy4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Triangle of Pag! Motorcycle adventure towards TET Croatia...</p></details>
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: theguardian.com  
    Title: The Guardian Military drone from Ukraine war crashes into Croatian  
-   Link: <a href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb</a>  
+   Link:<a href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: globalmeteornetwork.org  
    Title: Global Meteor Network How the Global Meteor Network came to be  
-   Link: <a href="https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/</a>  
+   Link:<a href="https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/blog/2018/12/28/how-the-global-meteor-network-came-to-be/</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: emeteornews.net  
    Title: global meteor network report 2023  
-   Link: <a href="https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/</a>  
+   Link:<a href="https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2024/02/06/global-meteor-network-report-2023/</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: emeteornews.net  
    Title: global meteor network report 2024  
-   Link: <a href="https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/</a>  
+   Link:<a href="https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2025/02/15/global-meteor-network-report-2024/</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: freedominfo.org  
-   Link: <a href="https://www.freedominfo.org/regions/europe/croatia/" target="_blank" rel="noopener noreferrer nofollow">https://www.freedominfo.org/regions/europe/croatia/</a>  
+   Link:<a href="https://www.freedominfo.org/regions/europe/croatia/" target="_blank" rel="noopener noreferrer nofollow">https://www.freedominfo.org/regions/europe/croatia/</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: globalmeteornetwork.org  
-   Link: <a href="https://globalmeteornetwork.org/weblog/HR/index.html" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/weblog/HR/index.html</a>  
+   Link:<a href="https://globalmeteornetwork.org/weblog/HR/index.html" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/weblog/HR/index.html</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: theguardian.com  
    Title: pentagon ufo files  
-   Link: <a href="https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
+   Link:<a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
 
 ### Additional References
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: youtube.com  
    Title: A Drone Fell on Croatia — Today We React in 15 Minutes | PM Andrej Plenković  
-   Link: <a href="https://www.youtube.com/watch?v=4Kh0cep4X60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Kh0cep4X60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Compilation April - July 2013 CROATIA Hrvatska...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4Kh0cep4X60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Kh0cep4X60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Compilation April - July 2013 CROATIA Hrvatska...</p></details>
    Published: July 2013  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: youtube.com  
    Title: UFO Triangle of Pag! Motorcycle adventure towards TET Croatia  
-   Link: <a href="https://www.youtube.com/watch?v=TKPSIMEzp9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TKPSIMEzp9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Drone Fell on Croatia — Today We React in 15 Minutes | PM Andrej Plenković...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TKPSIMEzp9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TKPSIMEzp9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Drone Fell on Croatia — Today We React in 15 Minutes | PM Andrej Plenković...</p></details>
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: amazon.ie  
-   Link: <a href="https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260</a>  
+   Link:<a href="https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ie/172-avijacijski-puk-%C4%90uro-Stupar/dp/8651506260</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: yumpu.com  
-   Link: <a href="https://www.yumpu.com/user/arhiva.morh.hr" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/user/arhiva.morh.hr</a>  
+   Link:<a href="https://www.yumpu.com/user/arhiva.morh.hr" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/user/arhiva.morh.hr</a>  
 
-92. <a id="endnote-92"></a>
+92.<a id="endnote-92"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203751257427440/posts/357955572007007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203751257427440/posts/357955572007007/</a>  
+   Link:<a href="https://www.facebook.com/groups/203751257427440/posts/357955572007007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203751257427440/posts/357955572007007/</a>  
 
-93. <a id="endnote-93"></a>
+93.<a id="endnote-93"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
-94. <a id="endnote-94"></a>
+94.<a id="endnote-94"></a>
    Source: monitor.hr  
-   Link: <a href="https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/" target="_blank" rel="noopener noreferrer nofollow">https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/</a>  
+   Link:<a href="https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/" target="_blank" rel="noopener noreferrer nofollow">https://www.monitor.hr/tag/americki-dokumenti-o-nlo-ima/</a>  
 
-95. <a id="endnote-95"></a>
+95.<a id="endnote-95"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/320707950/172-avijacijski-puk" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/320707950/172-avijacijski-puk</a>  
+   Link:<a href="https://www.scribd.com/document/320707950/172-avijacijski-puk" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/320707950/172-avijacijski-puk</a>  
 
-96. <a id="endnote-96"></a>
+96.<a id="endnote-96"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE</a>  
+   Link:<a href="https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/51315169/Britanski-Kompjutorski-Haker-Pristupio-Tajnim-Dokumentima-NASE</a>  
 
-97. <a id="endnote-97"></a>
+97.<a id="endnote-97"></a>
    Source: thinkaboutitdocs.com  
-   Link: <a href="https://thinkaboutitdocs.com/tag/croatia-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/tag/croatia-sightings/</a>
+   Link:<a href="https://thinkaboutitdocs.com/tag/croatia-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/tag/croatia-sightings/</a>

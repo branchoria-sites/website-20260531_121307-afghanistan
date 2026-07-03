@@ -1194,56 +1194,56 @@ image: /assets/images/Honduras_5aa588-overview-social.jpg
 
 ## What the Honduran record actually contains
 
-The most structured public index is the National UFO Reporting Center database, which lists 23 Honduras reports in its country-by-country table. That is not a complete national archive, and it depends on voluntary submissions, but it gives a useful starting point because entries are dated, located and categorised by reported shape. The listed Honduras cases range from a 1968 oval report in Nacaome and 1970s disk or oval reports in Tegucigalpa and San Pedro Sula, through 2010s light/fireball cases, to several 2024–2026 reports from Tegucigalpa, Colón, Choluteca, La Lima and Comayagüela. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The most structured public index is the National UFO Reporting Center database, which lists 23 Honduras reports in its country-by-country table. That is not a complete national archive, and it depends on voluntary submissions, but it gives a useful starting point because entries are dated, located and categorised by reported shape. The listed Honduras cases range from a 1968 oval report in Nacaome and 1970s disk or oval reports in Tegucigalpa and San Pedro Sula, through 2010s light/fireball cases, to several 2024–2026 reports from Tegucigalpa, Colón, Choluteca, La Lima and Comayagüela.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Honduras_5aa588-overview.webp" | relative_url }}" alt="Overview image for What Do Honduras UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
-That spread matters because it argues against a single “Honduras UFO flap” in the public record. Instead, the reports look episodic and uneven. Tegucigalpa appears repeatedly, which is unsurprising for a capital city with more witnesses, more phones and more chances of online reporting. San Pedro Sula and La Lima point to the north-western urban corridor, while La Ceiba and Caribbean-adjacent reports fit a separate coastal pattern where aircraft, ships, weather, satellites and maritime horizon effects can all complicate observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Honduras</span><span class="citation-popover-snippet">Reports for Country Honduras</span></span></span>
+That spread matters because it argues against a single “Honduras UFO flap” in the public record. Instead, the reports look episodic and uneven. Tegucigalpa appears repeatedly, which is unsurprising for a capital city with more witnesses, more phones and more chances of online reporting. San Pedro Sula and La Lima point to the north-western urban corridor, while La Ceiba and Caribbean-adjacent reports fit a separate coastal pattern where aircraft, ships, weather, satellites and maritime horizon effects can all complicate observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Honduras</span><span class="citation-popover-snippet">Reports for Country Honduras</span></span></span>
 
-The local cultural record is also real but modest. WorldCat lists Jorge Montenegro’s 2007 Spanish-language book *Extraterrestres: el fenómeno OVNI en Honduras*, published in Tegucigalpa by Litografía López. Its existence shows that Honduran UFO narratives have been collected locally, not only imported from US or Mexican UFO culture, but the bibliographic listing alone does not verify the cases inside it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://search.worldcat.org/title/Extraterrestres-%3A-el-fenomeno-OVNI-en-Honduras/oclc/268957981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[WorldCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-title">World Cat Extraterrestres: el fenómeno OVNI en Honduras &#124; World Cat.org</span><span class="citation-popover-snippet">World Cat Extraterrestres: el fenómeno OVNI en Honduras &#124; World Cat.org</span></span></span>
+The local cultural record is also real but modest. WorldCat lists Jorge Montenegro’s 2007 Spanish-language book *Extraterrestres: el fenómeno OVNI en Honduras*, published in Tegucigalpa by Litografía López. Its existence shows that Honduran UFO narratives have been collected locally, not only imported from US or Mexican UFO culture, but the bibliographic listing alone does not verify the cases inside it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://search.worldcat.org/title/Extraterrestres-%3A-el-fenomeno-OVNI-en-Honduras/oclc/268957981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[WorldCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-title">World Cat Extraterrestres: el fenómeno OVNI en Honduras &#124; World Cat.org</span><span class="citation-popover-snippet">World Cat Extraterrestres: el fenómeno OVNI en Honduras &#124; World Cat.org</span></span></span>
 
 ## A compact chronology of higher-value cases
 
 Honduras does not have an equivalent of a famous official case file such as those associated with some other Latin American countries. The useful approach is therefore to separate recurring report types by period and source quality.
 
-**1968–1974: early rural and urban memory reports.** NUFORC’s Honduras list includes an oval report from Nacaome dated 5 November 1968, a San Pedro Sula oval report dated 1 July 1974, and a Tegucigalpa disk report dated Christmas Eve 1974. The Tegucigalpa entry, reported decades later in 2000, describes a small disk-like object with coloured lights allegedly passing close to a balcony and making no sound. Its vividness makes it memorable, but the long delay before reporting, the childhood context, and the absence of independent documentation keep it firmly in the anecdotal category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=14501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**1968–1974: early rural and urban memory reports.** NUFORC’s Honduras list includes an oval report from Nacaome dated 5 November 1968, a San Pedro Sula oval report dated 1 July 1974, and a Tegucigalpa disk report dated Christmas Eve 1974. The Tegucigalpa entry, reported decades later in 2000, describes a small disk-like object with coloured lights allegedly passing close to a balcony and making no sound. Its vividness makes it memorable, but the long delay before reporting, the childhood context, and the absence of independent documentation keep it firmly in the anecdotal category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=14501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**1980s: lights, bases and military-adjacent stories.** NUFORC includes a 1980 Honduras report of two steady lights and two separate 1985 Palmerola Air Base entries describing an orb-like object seen by two observers. The detailed Palmerola account says the witness was a US Army medic on temporary duty at the base and describes a bright point of light making rapid stops and arcing movements over the Comayagua Valley. This is one of the more interesting Honduras entries because it is placed at a named military site, but it still rests on retrospective witness testimony rather than radar data, official logs or contemporaneous investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=146939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**1980s: lights, bases and military-adjacent stories.** NUFORC includes a 1980 Honduras report of two steady lights and two separate 1985 Palmerola Air Base entries describing an orb-like object seen by two observers. The detailed Palmerola account says the witness was a US Army medic on temporary duty at the base and describes a bright point of light making rapid stops and arcing movements over the Comayagua Valley. This is one of the more interesting Honduras entries because it is placed at a named military site, but it still rests on retrospective witness testimony rather than radar data, official logs or contemporaneous investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=146939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**2010–2014: lights and fireballs enter the phone-camera era.** The database lists reports from La Ceiba in 2010, Tegucigalpa in 2011, San Pedro Sula in 2013, and Tegucigalpa again in 2013 and 2014. These are mostly “light”, “flash” or “fireball” classifications, which are among the hardest UFO categories to evaluate after the fact because meteors, aircraft, satellites, drones, lanterns, flares and camera artefacts can all produce striking but ambiguous impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+**2010–2014: lights and fireballs enter the phone-camera era.** The database lists reports from La Ceiba in 2010, Tegucigalpa in 2011, San Pedro Sula in 2013, and Tegucigalpa again in 2013 and 2014. These are mostly “light”, “flash” or “fireball” classifications, which are among the hardest UFO categories to evaluate after the fact because meteors, aircraft, satellites, drones, lanterns, flares and camera artefacts can all produce striking but ambiguous impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-**2020–2026: viral videos, metallic ovals and social media reports.** A 2020 La Prensa article reported a viral San Pedro Sula video from Colonia Universidad showing a bright object moving in several directions and appearing and disappearing as residents reacted. The story is useful as evidence of public attention, but it does not establish what the object was. By contrast, a 2023 La Prensa photo-gallery item about a strange light seen in Honduras explicitly pointed to a SpaceX Falcon 9/Starlink launch as the explanation, showing how quickly a genuine “what was that?” sky event can become a UFO rumour before being identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/mundo/virales/video-viral-avistan-supuesto-ovni-en-san-pedro-sula-honduras-jaime-maussan-NALP1411927" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">www.laprensa.hn Video viral: avistan supuesto Ovni en San Pedro Sula</span><span class="citation-popover-snippet">www.laprensa.hn Video viral: avistan supuesto Ovni en San Pedro Sula</span></span></span>
+**2020–2026: viral videos, metallic ovals and social media reports.** A 2020 La Prensa article reported a viral San Pedro Sula video from Colonia Universidad showing a bright object moving in several directions and appearing and disappearing as residents reacted. The story is useful as evidence of public attention, but it does not establish what the object was. By contrast, a 2023 La Prensa photo-gallery item about a strange light seen in Honduras explicitly pointed to a SpaceX Falcon 9/Starlink launch as the explanation, showing how quickly a genuine “what was that?” sky event can become a UFO rumour before being identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/mundo/virales/video-viral-avistan-supuesto-ovni-en-san-pedro-sula-honduras-jaime-maussan-NALP1411927" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">www.laprensa.hn Video viral: avistan supuesto Ovni en San Pedro Sula</span><span class="citation-popover-snippet">www.laprensa.hn Video viral: avistan supuesto Ovni en San Pedro Sula</span></span></span>
 
 <img src="{{ "/assets/images/Honduras_5aa588-Illustration-1-dark.svg" | relative_url }}" alt="What Do Honduras UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why geography shapes the sightings
 
-Honduras is not a neutral viewing platform. It has mountainous interior terrain, coastal plains, Caribbean and Pacific-facing skies, and major aviation corridors. The country’s [geography]({{ 'geography/' | relative_url }}) makes some reports more plausible as honest misidentifications rather than fabricated stories. Interior valleys can create dramatic sightlines over ridges; coastal humidity and cloud layers can distort lights; and urban observers may see aircraft, drones or balloons without enough angular reference to judge distance or size. The CIA World Factbook summarises Honduras as mostly mountainous in the interior with narrow coastal plains, while Britannica notes its Caribbean coastline, Pacific access through the Gulf of Fonseca, and Bay Islands offshore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://user.iiasa.ac.at/~marek/fbook/04/print/ho.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: user.iiasa.ac.at">[user.iiasa.ac.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">user.iiasa.ac.at</span><span class="citation-popover-snippet">Open source on iiasa.ac.at.</span></span></span>
+Honduras is not a neutral viewing platform. It has mountainous interior terrain, coastal plains, Caribbean and Pacific-facing skies, and major aviation corridors. The country’s [geography]({{ 'geography/' | relative_url }}) makes some reports more plausible as honest misidentifications rather than fabricated stories. Interior valleys can create dramatic sightlines over ridges; coastal humidity and cloud layers can distort lights; and urban observers may see aircraft, drones or balloons without enough angular reference to judge distance or size. The CIA World Factbook summarises Honduras as mostly mountainous in the interior with narrow coastal plains, while Britannica notes its Caribbean coastline, Pacific access through the Gulf of Fonseca, and Bay Islands offshore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://user.iiasa.ac.at/~marek/fbook/04/print/ho.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: user.iiasa.ac.at">[user.iiasa.ac.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">user.iiasa.ac.at</span><span class="citation-popover-snippet">Open source on iiasa.ac.at.</span></span></span>
 
-Aviation context is especially important. Honduras has multiple civil and military aviation sites, including the Tegucigalpa/Comayagua region and the north coast around La Ceiba and San Pedro Sula. IATA’s country-level aviation brief reported around 52,600 aircraft landings per year and identified Ramón Villeda Morales International Airport as the passenger leader in the country at the time of that report. That does not explain any specific UFO case by itself, but it raises the baseline probability that many bright moving lights near cities are ordinary aircraft, helicopters, drones or aviation-related reflections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iata.org/contentassets/bc041f5b6b96476a80db109f220f8904/honduras20-20eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iata.org">[IATA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iata.org</span><span class="citation-popover-title">Economic Benefits of Air Transport in Honduras</span><span class="citation-popover-snippet">Economic Benefits of Air Transport in Honduras</span></span></span>
+Aviation context is especially important. Honduras has multiple civil and military aviation sites, including the Tegucigalpa/Comayagua region and the north coast around La Ceiba and San Pedro Sula. IATA’s country-level aviation brief reported around 52,600 aircraft landings per year and identified Ramón Villeda Morales International Airport as the passenger leader in the country at the time of that report. That does not explain any specific UFO case by itself, but it raises the baseline probability that many bright moving lights near cities are ordinary aircraft, helicopters, drones or aviation-related reflections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iata.org/contentassets/bc041f5b6b96476a80db109f220f8904/honduras20-20eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iata.org">[IATA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iata.org</span><span class="citation-popover-title">Economic Benefits of Air Transport in Honduras</span><span class="citation-popover-snippet">Economic Benefits of Air Transport in Honduras</span></span></span>
 
-Palmerola/Soto Cano deserves separate caution. The base is naturally attractive to UFO storytelling because it is military, international and historically associated with US activity. Public summaries identify Soto Cano/Palmerola as a Honduran military installation used by the Honduran Air Force and US Joint Task Force-Bravo, with Comayagua’s civil airport now sharing the wider site. A military setting can make reports feel more significant, but it also increases the number of ordinary candidate explanations: aircraft operations, training, lighting, security activity and restricted areas where observers lack full context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Base_a%C3%A9rea_Jos%C3%A9_Enrique_Soto_Cano" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base aérea José Enrique Soto Cano</span><span class="citation-popover-snippet">Base aérea José Enrique Soto Cano</span></span></span>
+Palmerola/Soto Cano deserves separate caution. The base is naturally attractive to UFO storytelling because it is military, international and historically associated with US activity. Public summaries identify Soto Cano/Palmerola as a Honduran military installation used by the Honduran Air Force and US Joint Task Force-Bravo, with Comayagua’s civil airport now sharing the wider site. A military setting can make reports feel more significant, but it also increases the number of ordinary candidate explanations: aircraft operations, training, lighting, security activity and restricted areas where observers lack full context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Base_a%C3%A9rea_Jos%C3%A9_Enrique_Soto_Cano" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base aérea José Enrique Soto Cano</span><span class="citation-popover-snippet">Base aérea José Enrique Soto Cano</span></span></span>
 
 <img src="{{ "/assets/images/Honduras_5aa588-Illustration-3-dark.svg" | relative_url }}" alt="What Do Honduras UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
 The Honduras material is best sorted into three evidence bands.
 
-**Confirmed sky events, not confirmed alien craft.** The 2023 “strange light” story is a good example. Hondurans saw and shared an unusual light; the event was real as a public observation, but La Prensa’s explanation tied it to SpaceX’s Falcon 9 launch carrying second-generation Starlink satellites. In UFO research terms, this is a valuable debunked or identified case, not a failed case: it shows how documented aerospace activity can account for a dramatic sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">www.laprensa.hn¿Ovnis? La explicación de la extraña luz vista en Honduras</span><span class="citation-popover-snippet">www.laprensa.hn¿Ovnis? La explicación de la extraña luz vista en Honduras</span></span></span>
+**Confirmed sky events, not confirmed alien craft.** The 2023 “strange light” story is a good example. Hondurans saw and shared an unusual light; the event was real as a public observation, but La Prensa’s explanation tied it to SpaceX’s Falcon 9 launch carrying second-generation Starlink satellites. In UFO research terms, this is a valuable debunked or identified case, not a failed case: it shows how documented aerospace activity can account for a dramatic sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">www.laprensa.hn¿Ovnis? La explicación de la extraña luz vista en Honduras</span><span class="citation-popover-snippet">www.laprensa.hn¿Ovnis? La explicación de la extraña luz vista en Honduras</span></span></span>
 
-**Contested witness reports.** The 1974 Tegucigalpa disk and 1985 Palmerola orb cases are stronger as human-interest testimony than as physical evidence. They contain specific details, named locations and coherent narratives, but they lack independent sensor records, photographs, official investigation files or contemporaneous local reporting. They should be preserved as reports, not upgraded into confirmed events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Honduras</span><span class="citation-popover-snippet">Reports for Country Honduras</span></span></span>
+**Contested witness reports.** The 1974 Tegucigalpa disk and 1985 Palmerola orb cases are stronger as human-interest testimony than as physical evidence. They contain specific details, named locations and coherent narratives, but they lack independent sensor records, photographs, official investigation files or contemporaneous local reporting. They should be preserved as reports, not upgraded into confirmed events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Honduras</span><span class="citation-popover-snippet">Reports for Country Honduras</span></span></span>
 
-**Unverified viral and social-media cases.** The 2020 San Pedro Sula object reported by La Prensa and later social posts about spheres or objects over Honduran cities sit in the weakest evidentiary band unless original files, metadata, location, time, weather, flight data and witness interviews are available. A video can be useful, but a clipped viral video rarely contains enough information to distinguish a balloon, drone, aircraft, reflection or edited artefact from something genuinely anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/honduras/militares-entregaran-datos-sobre-ovnis-KDLP660381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">www.laprensa.hn Militares entregarán datos sobre ovnis</span><span class="citation-popover-snippet">www.laprensa.hn Militares entregarán datos sobre ovnis</span></span></span>
+**Unverified viral and social-media cases.** The 2020 San Pedro Sula object reported by La Prensa and later social posts about spheres or objects over Honduran cities sit in the weakest evidentiary band unless original files, metadata, location, time, weather, flight data and witness interviews are available. A video can be useful, but a clipped viral video rarely contains enough information to distinguish a balloon, drone, aircraft, reflection or edited artefact from something genuinely anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/honduras/militares-entregaran-datos-sobre-ovnis-KDLP660381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">www.laprensa.hn Militares entregarán datos sobre ovnis</span><span class="citation-popover-snippet">www.laprensa.hn Militares entregarán datos sobre ovnis</span></span></span>
 
-This pattern is consistent with wider UAP assessment practice. AARO, the US All-domain Anomaly Resolution Office, describes its role as applying a rigorous scientific and data-driven approach to UAP, and its public imagery page shows many cases being resolved as balloons, birds or prosaic aircraft when enough data exists. It also shows that some cases remain unresolved not because they prove extraordinary technology, but because the available data are insufficient for confident attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+This pattern is consistent with wider UAP assessment practice. AARO, the US All-domain Anomaly Resolution Office, describes its role as applying a rigorous scientific and data-driven approach to UAP, and its public imagery page shows many cases being resolved as balloons, birds or prosaic aircraft when enough data exists. It also shows that some cases remain unresolved not because they prove extraordinary technology, but because the available data are insufficient for confident attribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DagOq0MPig8" title="Watch: Witnesses recount UFO sightings in opening statements at House hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DagOq0MPig8" target="_blank" rel="noopener noreferrer">Watch: Witnesses recount UFO sightings in opening statements at House hearing</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 143.9K &middot; Uploaded: September 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DagOq0MPig8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DagOq0MPig8">Open on YouTube</a></p></div></div></div>
 
 ## What is missing from the official record
 
-The key gap for Honduras is the absence of a readily accessible official Honduran UFO archive. There are public records and reports about Honduran aviation, airports and military infrastructure, but not a visible national equivalent of a declassified UFO investigation programme. Searches also turn up Honduran newspaper coverage of foreign official UFO developments, such as Ecuador’s 2007 military disclosures, rather than evidence of a comparable Honduran release. La Prensa’s 2007 “Militares entregarán datos sobre ovnis” story, for example, concerns Ecuadorian president Rafael Correa authorising military information to be supplied to a UFO researcher, not a Honduran government disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/videos/mundo/captan-supuesto-ovni-en-medio-de-tormento-alberto-DA20023198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">captan supuesto ovni en medio de tormento alberto DA20023198</span><span class="citation-popover-snippet">captan supuesto ovni en medio de tormento alberto DA20023198</span></span></span>
+The key gap for Honduras is the absence of a readily accessible official Honduran UFO archive. There are public records and reports about Honduran aviation, airports and military infrastructure, but not a visible national equivalent of a declassified UFO investigation programme. Searches also turn up Honduran newspaper coverage of foreign official UFO developments, such as Ecuador’s 2007 military disclosures, rather than evidence of a comparable Honduran release. La Prensa’s 2007 “Militares entregarán datos sobre ovnis” story, for example, concerns Ecuadorian president Rafael Correa authorising military information to be supplied to a UFO researcher, not a Honduran government disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laprensa.hn/videos/mundo/captan-supuesto-ovni-en-medio-de-tormento-alberto-DA20023198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensa.hn">[www.laprensa.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensa.hn</span><span class="citation-popover-title">captan supuesto ovni en medio de tormento alberto DA20023198</span><span class="citation-popover-snippet">captan supuesto ovni en medio de tormento alberto DA20023198</span></span></span>
 
 That distinction is important for readers comparing Honduras with sibling country pages in a Latin American UFO project. Some countries have famous military files, air-force commissions, pilot cases or mass-sighting episodes. Honduras, by contrast, currently appears to rely more on private reporting databases, local journalism, social media, and individual investigators or writers. Its record is therefore more vulnerable to duplication, translation drift, missing dates and unverifiable retellings.
 
-NASA’s public UAP framing also applies here: the useful research question is not “are these aliens?” but “what data would allow a sighting to be resolved?” NASA describes its UAP study as an interdisciplinary effort to coordinate analysis and advice, which reflects the broader shift from folklore-style UFO collecting towards standardised observation, metadata, sensor quality and transparent uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+NASA’s public UAP framing also applies here: the useful research question is not “are these aliens?” but “what data would allow a sighting to be resolved?” NASA describes its UAP study as an interdisciplinary effort to coordinate analysis and advice, which reflects the broader shift from folklore-style UFO collecting towards standardised observation, metadata, sensor quality and transparent uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
 
@@ -1280,194 +1280,194 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9OXaBBhpDoY" title="Taxista asegura haber tenido varios encuentros con ovnis en Honduras" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9OXaBBhpDoY" target="_blank" rel="noopener noreferrer">Taxista asegura haber tenido varios encuentros con ovnis en Honduras</a></p><p class="youtube-embed-meta">Channel: Al Rojo Vivo &middot; Views: 7.5K &middot; Uploaded: July 2024 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9OXaBBhpDoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9OXaBBhpDoY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Honduras UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Honduras UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding patterns found in fragmented sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding patterns found in fragmented sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides a framework for interpreting scattered national UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for interpreting scattered national UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for evaluating anecdotal reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for evaluating anecdotal reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented cases and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented cases and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-honduras-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-honduras-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1483,7 +1483,7 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1503,7 +1503,7 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1535,7 +1535,7 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1587,7 +1587,7 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1632,7 +1632,7 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1673,284 +1673,284 @@ The strongest Honduras page should therefore avoid two errors. The first is dism
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Honduras  
-   Link: <a href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cHonduras</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cHonduras" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cHonduras</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: laprensa.hn  
    Title: www.laprensa.hn Video viral: avistan supuesto Ovni en San Pedro Sula  
-   Link: <a href="https://www.laprensa.hn/mundo/virales/video-viral-avistan-supuesto-ovni-en-san-pedro-sula-honduras-jaime-maussan-NALP1411927" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/mundo/virales/video-viral-avistan-supuesto-ovni-en-san-pedro-sula-honduras-jaime-maussan-NALP1411927</a>  
+   Link:<a href="https://www.laprensa.hn/mundo/virales/video-viral-avistan-supuesto-ovni-en-san-pedro-sula-honduras-jaime-maussan-NALP1411927" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/mundo/virales/video-viral-avistan-supuesto-ovni-en-san-pedro-sula-honduras-jaime-maussan-NALP1411927</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: search.worldcat.org  
    Title: World Cat Extraterrestres: el fenómeno OVNI en Honduras | World Cat.org  
-   Link: <a href="https://search.worldcat.org/title/Extraterrestres-%3A-el-fenomeno-OVNI-en-Honduras/oclc/268957981" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/Extraterrestres-%3A-el-fenomeno-OVNI-en-Honduras/oclc/268957981</a>  
+   Link:<a href="https://search.worldcat.org/title/Extraterrestres-%3A-el-fenomeno-OVNI-en-Honduras/oclc/268957981" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/Extraterrestres-%3A-el-fenomeno-OVNI-en-Honduras/oclc/268957981</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=14501" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=14501</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=14501" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=14501</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=146939" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=146939</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=146939" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=146939</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: laprensa.hn  
    Title: www.laprensa.hn¿Ovnis? La explicación de la extraña luz vista en Honduras  
-   Link: <a href="https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189</a>  
+   Link:<a href="https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: user.iiasa.ac.at  
-   Link: <a href="https://user.iiasa.ac.at/~marek/fbook/04/print/ho.html" target="_blank" rel="noopener noreferrer nofollow">https://user.iiasa.ac.at/~marek/fbook/04/print/ho.html</a>  
+   Link:<a href="https://user.iiasa.ac.at/~marek/fbook/04/print/ho.html" target="_blank" rel="noopener noreferrer nofollow">https://user.iiasa.ac.at/~marek/fbook/04/print/ho.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kids.britannica.com  
    Title: Kids Honduras  
-   Link: <a href="https://kids.britannica.com/students/article/Honduras/274929" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Honduras/274929</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Honduras/274929" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Honduras/274929</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iata.org  
    Title: Economic Benefits of Air Transport in Honduras  
-   Link: <a href="https://www.iata.org/contentassets/bc041f5b6b96476a80db109f220f8904/honduras20-20eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iata.org/contentassets/bc041f5b6b96476a80db109f220f8904/honduras20-20eng.pdf</a>  
+   Link:<a href="https://www.iata.org/contentassets/bc041f5b6b96476a80db109f220f8904/honduras20-20eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iata.org/contentassets/bc041f5b6b96476a80db109f220f8904/honduras20-20eng.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Base aérea José Enrique Soto Cano  
-   Link: <a href="https://es.wikipedia.org/wiki/Base_a%C3%A9rea_Jos%C3%A9_Enrique_Soto_Cano" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Base_a%C3%A9rea_Jos%C3%A9_Enrique_Soto_Cano</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Base_a%C3%A9rea_Jos%C3%A9_Enrique_Soto_Cano" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Base_a%C3%A9rea_Jos%C3%A9_Enrique_Soto_Cano</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Soto Cano Air Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Soto_Cano_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soto_Cano_Air_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Soto_Cano_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soto_Cano_Air_Base</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laprensa.hn  
    Title: www.laprensa.hn Militares entregarán datos sobre ovnis  
-   Link: <a href="https://www.laprensa.hn/honduras/militares-entregaran-datos-sobre-ovnis-KDLP660381" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/militares-entregaran-datos-sobre-ovnis-KDLP660381</a>  
+   Link:<a href="https://www.laprensa.hn/honduras/militares-entregaran-datos-sobre-ovnis-KDLP660381" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/militares-entregaran-datos-sobre-ovnis-KDLP660381</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
    Title: FOIA CASE LOG CALENDER YE[16111550]  
-   Link: <a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_collection%3A1834881&amp;f%5B2%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=dm_field_release_date%3A%5B2014-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=dm_field_release_date%3A%5B2014-02-01T00%3A00%3A00Z+TO-03-01T00%3A00%3A00Z%5D&amp;f%5B5%5D=dm_field_release_date%3A%5B2014-02-06T00%3A00%3A00Z+TO-02-07T00%3A00%3A00Z%5D&amp;keyword=&amp;label=&amp;order=label&amp;page=2&amp;sm_field_case_number=&amp;sm_field_content_type=&amp;sm_field_document_number=&amp;sm_field_original_classification=&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_collection%3A1834881&amp;f%5B2%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=dm_field_release_date%3A%5B2014-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=dm_field_release_date%3A%5B2014-02-01T00%3A00%3A00Z+TO-03-01T00%3A00%3A00Z%5D&amp;f%5B5%5D=dm_field_release_date%3A%5B2014-02-06T00%3A00%3A00Z+TO-02-07T00%3A00%3A00Z%5D&amp;keyword=&amp;label=&amp;order=label&amp;page=2&amp;sm_field_case_number=&amp;sm_field_content_type=&amp;sm_field_document_number=&amp;sm_field_original_classification=&amp;sort=asc</a>  
+   Link:<a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_collection%3A1834881&amp;f%5B2%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=dm_field_release_date%3A%5B2014-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=dm_field_release_date%3A%5B2014-02-01T00%3A00%3A00Z+TO-03-01T00%3A00%3A00Z%5D&amp;f%5B5%5D=dm_field_release_date%3A%5B2014-02-06T00%3A00%3A00Z+TO-02-07T00%3A00%3A00Z%5D&amp;keyword=&amp;label=&amp;order=label&amp;page=2&amp;sm_field_case_number=&amp;sm_field_content_type=&amp;sm_field_document_number=&amp;sm_field_original_classification=&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_collection%3A1834881&amp;f%5B2%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=dm_field_release_date%3A%5B2014-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=dm_field_release_date%3A%5B2014-02-01T00%3A00%3A00Z+TO-03-01T00%3A00%3A00Z%5D&amp;f%5B5%5D=dm_field_release_date%3A%5B2014-02-06T00%3A00%3A00Z+TO-02-07T00%3A00%3A00Z%5D&amp;keyword=&amp;label=&amp;order=label&amp;page=2&amp;sm_field_case_number=&amp;sm_field_content_type=&amp;sm_field_document_number=&amp;sm_field_original_classification=&amp;sort=asc</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/human-rights-latin-america" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/human-rights-latin-america</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/human-rights-latin-america" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/human-rights-latin-america</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06871085" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06871085</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06871085" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06871085</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-19T01%3A00%3A00Z+TO-10-19T02%3A00%3A00Z%5D&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T01%3A33%3A00Z+TO-10-19T01%3A34%3A00Z%5D&amp;order=label&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-19T01%3A00%3A00Z+TO-10-19T02%3A00%3A00Z%5D&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T01%3A33%3A00Z+TO-10-19T01%3A34%3A00Z%5D&amp;order=label&amp;sort=desc</a>  
+   Link:<a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-19T01%3A00%3A00Z+TO-10-19T02%3A00%3A00Z%5D&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T01%3A33%3A00Z+TO-10-19T01%3A34%3A00Z%5D&amp;order=label&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=ds_created%3A%5B2012-10-01T00%3A00%3A00Z+TO-11-01T00%3A00%3A00Z%5D&amp;f%5B2%5D=ds_created%3A%5B2012-10-19T00%3A00%3A00Z+TO-10-20T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2012-10-19T01%3A00%3A00Z+TO-10-19T02%3A00%3A00Z%5D&amp;f%5B4%5D=ds_created%3A%5B2012-10-19T01%3A33%3A00Z+TO-10-19T01%3A34%3A00Z%5D&amp;order=label&amp;sort=desc</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=1955&amp;ds_field_pub_date%5Bmin%5D=1949&amp;ds_field_pub_date_op=between&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_taxonomy_nic_geography%3A9&amp;f%5B2%5D=im_field_taxonomy_nic_geography%3A12&amp;f%5B3%5D=dm_field_release_date%3A%5B1986-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;order=label&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=1955&amp;ds_field_pub_date%5Bmin%5D=1949&amp;ds_field_pub_date_op=between&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_taxonomy_nic_geography%3A9&amp;f%5B2%5D=im_field_taxonomy_nic_geography%3A12&amp;f%5B3%5D=dm_field_release_date%3A%5B1986-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;order=label&amp;sort=desc</a>  
+   Link:<a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=1955&amp;ds_field_pub_date%5Bmin%5D=1949&amp;ds_field_pub_date_op=between&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_taxonomy_nic_geography%3A9&amp;f%5B2%5D=im_field_taxonomy_nic_geography%3A12&amp;f%5B3%5D=dm_field_release_date%3A%5B1986-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;order=label&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=1955&amp;ds_field_pub_date%5Bmin%5D=1949&amp;ds_field_pub_date_op=between&amp;f%5B0%5D=ds_created%3A%5B2012-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_taxonomy_nic_geography%3A9&amp;f%5B2%5D=im_field_taxonomy_nic_geography%3A12&amp;f%5B3%5D=dm_field_release_date%3A%5B1986-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;order=label&amp;sort=desc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06984633" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984633</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06984633" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984633</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Honduras</a>  
+   Link:<a href="https://www.britannica.com/place/Honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Honduras</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Caribbean-Sea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Caribbean-Sea</a>  
+   Link:<a href="https://www.britannica.com/place/Caribbean-Sea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Caribbean-Sea</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Honduras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Honduras</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Honduras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Honduras</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Geography of Honduras  
-   Link: <a href="https://en.wikipedia.org/wiki/Geography_of_Honduras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Honduras</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Geography_of_Honduras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Honduras</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: laprensa.hn  
    Title: captan supuesto ovni en medio de tormento alberto DA20023198  
-   Link: <a href="https://www.laprensa.hn/videos/mundo/captan-supuesto-ovni-en-medio-de-tormento-alberto-DA20023198" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/videos/mundo/captan-supuesto-ovni-en-medio-de-tormento-alberto-DA20023198</a>  
+   Link:<a href="https://www.laprensa.hn/videos/mundo/captan-supuesto-ovni-en-medio-de-tormento-alberto-DA20023198" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/videos/mundo/captan-supuesto-ovni-en-medio-de-tormento-alberto-DA20023198</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: laprensa.hn  
-   Link: <a href="https://www.laprensa.hn/videos/?c=US&amp;mId=Qxz0xft5&amp;mobile=&amp;seccion=suc" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/videos/?c=US&amp;mId=Qxz0xft5&amp;mobile=&amp;seccion=suc</a>  
+   Link:<a href="https://www.laprensa.hn/videos/?c=US&amp;mId=Qxz0xft5&amp;mobile=&amp;seccion=suc" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/videos/?c=US&amp;mId=Qxz0xft5&amp;mobile=&amp;seccion=suc</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: laprensa.hn  
-   Link: <a href="https://www.laprensa.hn/mundo/ovni-destruye-campamento-en-afganistan-PCLP707844" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/mundo/ovni-destruye-campamento-en-afganistan-PCLP707844</a>  
+   Link:<a href="https://www.laprensa.hn/mundo/ovni-destruye-campamento-en-afganistan-PCLP707844" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/mundo/ovni-destruye-campamento-en-afganistan-PCLP707844</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: laprensa.hn  
-   Link: <a href="https://www.laprensa.hn/honduras/las-visiones-de-ovnis-se-deben-a-un-fenomeno-atmosferico-LFLP642191" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/las-visiones-de-ovnis-se-deben-a-un-fenomeno-atmosferico-LFLP642191</a>  
+   Link:<a href="https://www.laprensa.hn/honduras/las-visiones-de-ovnis-se-deben-a-un-fenomeno-atmosferico-LFLP642191" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/las-visiones-de-ovnis-se-deben-a-un-fenomeno-atmosferico-LFLP642191</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: laprensa.hn  
    Title: hondureno viajes extraterrestres venus teodocio paz trump BK29451514  
-   Link: <a href="https://www.laprensa.hn/honduras/hondureno-viajes-extraterrestres-venus-teodocio-paz-trump-BK29451514" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/hondureno-viajes-extraterrestres-venus-teodocio-paz-trump-BK29451514</a>  
+   Link:<a href="https://www.laprensa.hn/honduras/hondureno-viajes-extraterrestres-venus-teodocio-paz-trump-BK29451514" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/hondureno-viajes-extraterrestres-venus-teodocio-paz-trump-BK29451514</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: laprensa.hn  
    Title: documentos sobre ovnis causan revuelo AGLP653254  
-   Link: <a href="https://www.laprensa.hn/honduras/documentos-sobre-ovnis-causan-revuelo-AGLP653254" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/documentos-sobre-ovnis-causan-revuelo-AGLP653254</a>  
+   Link:<a href="https://www.laprensa.hn/honduras/documentos-sobre-ovnis-causan-revuelo-AGLP653254" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/documentos-sobre-ovnis-causan-revuelo-AGLP653254</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: laprensa.hn  
-   Link: <a href="https://www.laprensa.hn/honduras/han-visitado-extraterrestres-la-cupula-de-la-roca-de-las-mezquitas-de-CELP545755" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/han-visitado-extraterrestres-la-cupula-de-la-roca-de-las-mezquitas-de-CELP545755</a>  
+   Link:<a href="https://www.laprensa.hn/honduras/han-visitado-extraterrestres-la-cupula-de-la-roca-de-las-mezquitas-de-CELP545755" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/honduras/han-visitado-extraterrestres-la-cupula-de-la-roca-de-las-mezquitas-de-CELP545755</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: user.iiasa.ac.at  
-   Link: <a href="https://user.iiasa.ac.at/~marek/fbook/01/geos/ho.html" target="_blank" rel="noopener noreferrer nofollow">https://user.iiasa.ac.at/~marek/fbook/01/geos/ho.html</a>  
+   Link:<a href="https://user.iiasa.ac.at/~marek/fbook/01/geos/ho.html" target="_blank" rel="noopener noreferrer nofollow">https://user.iiasa.ac.at/~marek/fbook/01/geos/ho.html</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: openfactbook.org  
-   Link: <a href="https://openfactbook.org/countries/honduras/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/honduras/</a>  
+   Link:<a href="https://openfactbook.org/countries/honduras/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/honduras/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: relief.unboundmedicine.com  
-   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563103/all/Honduras?q=3+g-3+group" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563103/all/Honduras?q=3+g-3+group</a>  
+   Link:<a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563103/all/Honduras?q=3+g-3+group" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563103/all/Honduras?q=3+g-3+group</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Honduras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Honduras</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Honduras" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Honduras</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/honduras</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/honduras</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: kids.nationalgeographic.com  
-   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/honduras" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/honduras</a>  
+   Link:<a href="https://kids.nationalgeographic.com/geography/countries/article/honduras" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/honduras</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: searchworks.stanford.edu  
-   Link: <a href="https://searchworks.stanford.edu/view/8549983" target="_blank" rel="noopener noreferrer nofollow">https://searchworks.stanford.edu/view/8549983</a>  
+   Link:<a href="https://searchworks.stanford.edu/view/8549983" target="_blank" rel="noopener noreferrer nofollow">https://searchworks.stanford.edu/view/8549983</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: geofactbook.com  
-   Link: <a href="https://geofactbook.com/countries/honduras/airports" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/honduras/airports</a>  
+   Link:<a href="https://geofactbook.com/countries/honduras/airports" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/honduras/airports</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: geofactbook.com  
-   Link: <a href="https://geofactbook.com/countries/honduras" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/honduras</a>  
+   Link:<a href="https://geofactbook.com/countries/honduras" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/honduras</a>  
 
 ### Additional References
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VLGX1nkrBa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VLGX1nkrBa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VLGX1nkrBa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VLGX1nkrBa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: Taxista asegura haber tenido varios encuentros con ovnis en Honduras  
-   Link: <a href="https://www.youtube.com/watch?v=9OXaBBhpDoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9OXaBBhpDoY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taxista hondureño que vio un OVNI sorprende a pasajeros con historias paranormales en Tegucigalpa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9OXaBBhpDoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9OXaBBhpDoY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taxista hondureño que vio un OVNI sorprende a pasajeros con historias paranormales en Tegucigalpa...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: ¡TERROR! Supuesto Ovni provoca miedo en varios puntos del país  
-   Link: <a href="https://www.youtube.com/watch?v=-z2vjLHIbno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-z2vjLHIbno</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taxista asegura haber tenido varios encuentros con ovnis en Honduras...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-z2vjLHIbno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-z2vjLHIbno</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taxista asegura haber tenido varios encuentros con ovnis en Honduras...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Wave Over Chile (Season 18) | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Wave Over Chile (Season 18) | Ancient Aliens...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DDbXdDdhSUp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDbXdDdhSUp/</a>  
+   Link:<a href="https://www.instagram.com/reel/DDbXdDdhSUp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDbXdDdhSUp/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/sites/default/files/publication/files/2018-autumn-winter-skyway-issue-69.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/publication/files/2018-autumn-winter-skyway-issue-69.pdf</a>  
+   Link:<a href="https://www.eurocontrol.int/sites/default/files/publication/files/2018-autumn-winter-skyway-issue-69.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/publication/files/2018-autumn-winter-skyway-issue-69.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DU53AifkQr1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU53AifkQr1/</a>  
+   Link:<a href="https://www.instagram.com/p/DU53AifkQr1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU53AifkQr1/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hchcomayagua/videos/captan-nuevamente-el-ovni-real-en-comayaguacomayaguense-piden-que-vengan-a-inves/1225753766394053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hchcomayagua/videos/captan-nuevamente-el-ovni-real-en-comayaguacomayaguense-piden-que-vengan-a-inves/1225753766394053/</a>  
+   Link:<a href="https://www.facebook.com/hchcomayagua/videos/captan-nuevamente-el-ovni-real-en-comayaguacomayaguense-piden-que-vengan-a-inves/1225753766394053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hchcomayagua/videos/captan-nuevamente-el-ovni-real-en-comayaguacomayaguense-piden-que-vengan-a-inves/1225753766394053/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hchcomayagua/videos/captan-objeto-extra%C3%B1o-cerca-de-palmerola-/2144707669400594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hchcomayagua/videos/captan-objeto-extra%C3%B1o-cerca-de-palmerola-/2144707669400594/</a>  
+   Link:<a href="https://www.facebook.com/hchcomayagua/videos/captan-objeto-extra%C3%B1o-cerca-de-palmerola-/2144707669400594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hchcomayagua/videos/captan-objeto-extra%C3%B1o-cerca-de-palmerola-/2144707669400594/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Honduras/comments/1lmwcgf/casos_de_ovnis_honduras/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Honduras/comments/1lmwcgf/casos_de_ovnis_honduras/</a>
+   Link:<a href="https://www.reddit.com/r/Honduras/comments/1lmwcgf/casos_de_ovnis_honduras/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Honduras/comments/1lmwcgf/casos_de_ovnis_honduras/</a>

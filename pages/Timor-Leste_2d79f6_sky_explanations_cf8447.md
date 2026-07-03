@@ -251,13 +251,13 @@ image: /assets/images/Timor-Leste_2d79f6_sky_explanations_cf8447-Illustration-1-
 Most reported unidentified lights in Timor-Leste can be assessed more effectively by asking a simple question before discussing extraordinary explanations: what would the sky have looked like from that specific place, during that specific season, at that specific hour?
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_sky_explanations_cf8447-Illustration-1-dark.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_sky_explanations_cf8447-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_sky_explanations_cf8447-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because Timor-Leste combines steep mountains, dark rural valleys, bright coastal horizons, seasonal cloud shifts, fishing and shipping activity, scattered electrical infrastructure, and a small but active aviation network. A light seen before dawn in the mountains near Ainaro can have very different explanations from a light filmed over Dili harbour or observed from the southern coast during the wet season. The country's geography creates unusually varied viewing conditions over short distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weadapt.org/knowledge-base/small-islands-and-climate-change/climate-overview-timor-leste-east-timor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weadapt.org">[2weADAPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weadapt.org</span><span class="citation-popover-title">climate overview timor leste east timor</span><span class="citation-popover-snippet">Climate Overview: Timor Leste (East Timor)25 Mar 2011 — The main climatic hazards in Timor Leste are floods, landslides and tropical cycl...</span></span></span>
+That matters because Timor-Leste combines steep mountains, dark rural valleys, bright coastal horizons, seasonal cloud shifts, fishing and shipping activity, scattered electrical infrastructure, and a small but active aviation network. A light seen before dawn in the mountains near Ainaro can have very different explanations from a light filmed over Dili harbour or observed from the southern coast during the wet season. The country's geography creates unusually varied viewing conditions over short distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weadapt.org/knowledge-base/small-islands-and-climate-change/climate-overview-timor-leste-east-timor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weadapt.org">[2weADAPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weadapt.org</span><span class="citation-popover-title">climate overview timor leste east timor</span><span class="citation-popover-snippet">Climate Overview: Timor Leste (East Timor)25 Mar 2011 — The main climatic hazards in Timor Leste are floods, landslides and tropical cycl...</span></span></span>
 
 For many Timor-Leste sightings, the most useful investigation path is not asking whether an object looked strange, but checking local terrain, atmospheric conditions, visible planets, aircraft routes, offshore lighting, and camera behaviour first.
 
 ## Coastal and Mountain Views Can Produce Different Illusions
 
-Timor-Leste's landscape changes rapidly between the northern coastline, central mountain spine, and southern plains. The interior contains high ridges and peaks approaching 3,000 metres, while much of the population lives along coastal corridors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Timor-Leste's landscape changes rapidly between the northern coastline, central mountain spine, and southern plains. The interior contains high ridges and peaks approaching 3,000 metres, while much of the population lives along coastal corridors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 These differences affect how lights appear.
 
@@ -276,13 +276,13 @@ Several factors can make ordinary lights seem unusual:
 
 </div>
 
-A witness standing near the waterfront in Dili may therefore see a bright object hanging low over the sea and conclude it is stationary over the water when it is actually an astronomical object or distant aircraft viewed through unstable air. Visible planets such as Venus and Jupiter are frequently bright enough to generate such reports when positioned near the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Dili</span><span class="citation-popover-snippet">Time and DateNight Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon...</span></span></span>
+A witness standing near the waterfront in Dili may therefore see a bright object hanging low over the sea and conclude it is stationary over the water when it is actually an astronomical object or distant aircraft viewed through unstable air. Visible planets such as Venus and Jupiter are frequently bright enough to generate such reports when positioned near the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Dili</span><span class="citation-popover-snippet">Time and DateNight Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon...</span></span></span>
 
 ### Mountain observations around Ainaro, Ermera and the central highlands
 
 Mountain reports create a different set of interpretation problems.
 
-Higher elevations often experience rapidly changing mist, cloud layers, and temperature differences. Local lights can appear through gaps in fog, vanish behind ridges, or seem suspended above valleys. Timor-Leste's mountain regions are specifically described as cooler and at times wet and misty compared with the coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span>
+Higher elevations often experience rapidly changing mist, cloud layers, and temperature differences. Local lights can appear through gaps in fog, vanish behind ridges, or seem suspended above valleys. Timor-Leste's mountain regions are specifically described as cooler and at times wet and misty compared with the coast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span>
 
 In rural areas, witnesses may also have fewer visual reference points. A single moving light can become difficult to judge for:
 
@@ -295,11 +295,11 @@ This is particularly relevant to the better-known Ainaro report from April 2000.
 
 ## Why the Dry Season Produces Different Reports
 
-Timor-Leste's dry season generally runs from May through October or November, depending on region and source. Skies are often clearer, especially compared with the monsoon months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climateknowledgeportal.worldbank.org">[Climate Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climateknowledgeportal.worldbank.org</span><span class="citation-popover-snippet">Climate Knowledge PortalClimate Risk Country Profile: Timor-Lesteby CRC PROFILE · 2025 · Cited by 5 — The dry season takes place from May...</span></span></span>
+Timor-Leste's dry season generally runs from May through October or November, depending on region and source. Skies are often clearer, especially compared with the monsoon months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climateknowledgeportal.worldbank.org">[Climate Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climateknowledgeportal.worldbank.org</span><span class="citation-popover-snippet">Climate Knowledge PortalClimate Risk Country Profile: Timor-Lesteby CRC PROFILE · 2025 · Cited by 5 — The dry season takes place from May...</span></span></span>
 
 For UFO-style reports, clearer skies create two opposite effects.
 
-First, observers can genuinely see more astronomical objects. Bright planets, satellites, meteor activity, and the Milky Way become easier to notice, particularly outside Dili where light pollution is limited. Large areas of Timor-Leste remain comparatively dark compared with heavily urbanised countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lightpollutionmap.app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lightpollutionmap.app">[Light Pollution Map]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lightpollutionmap.app</span><span class="citation-popover-snippet">Check Bortle Scale and SQM data, and discover dark-sky, Milky Way, and aurora spots near you...</span></span></span>
+First, observers can genuinely see more astronomical objects. Bright planets, satellites, meteor activity, and the Milky Way become easier to notice, particularly outside Dili where light pollution is limited. Large areas of Timor-Leste remain comparatively dark compared with heavily urbanised countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lightpollutionmap.app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lightpollutionmap.app">[Light Pollution Map]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lightpollutionmap.app</span><span class="citation-popover-snippet">Check Bortle Scale and SQM data, and discover dark-sky, Milky Way, and aurora spots near you...</span></span></span>
 
 Second, increased visibility can make unfamiliar celestial objects appear more striking.
 
@@ -316,13 +316,13 @@ Common examples include:
 
 Someone unfamiliar with seasonal sky patterns may interpret these events as unusual aerial activity rather than normal astronomical phenomena.
 
-The dry season is also associated with stronger visibility over long distances. Lights from vessels, settlements, or vehicles can therefore be observed from farther away than during cloudier months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climateknowledgeportal.worldbank.org">[Climate Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climateknowledgeportal.worldbank.org</span><span class="citation-popover-snippet">Climate Knowledge PortalClimate Risk Country Profile: Timor-Lesteby CRC PROFILE · 2025 · Cited by 5 — The dry season takes place from May...</span></span></span>
+The dry season is also associated with stronger visibility over long distances. Lights from vessels, settlements, or vehicles can therefore be observed from farther away than during cloudier months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climateknowledgeportal.worldbank.org">[Climate Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climateknowledgeportal.worldbank.org</span><span class="citation-popover-snippet">Climate Knowledge PortalClimate Risk Country Profile: Timor-Lesteby CRC PROFILE · 2025 · Cited by 5 — The dry season takes place from May...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7x7QcJqAQ54" title="Preparing for climate chaos in Timor-Leste | United Nations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7x7QcJqAQ54" target="_blank" rel="noopener noreferrer">Preparing for climate chaos in Timor-Leste | United Nations</a></p><p class="youtube-embed-meta">Channel: United Nations &middot; Views: 1.5K &middot; Uploaded: November 2024 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7x7QcJqAQ54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7x7QcJqAQ54">Open on YouTube</a></p></div></div></div>
 
 ## Wet-Season Clouds, Storms and Atmospheric Effects
 
-The wet season, generally from November or December through April or May, introduces a different set of explanations. Heavy cloud cover, rain systems, thunderstorms, and rapidly changing atmospheric conditions become much more common. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/2_PCCSP_Poster_Timor-Leste.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificclimatechangescience.org">[2pacificclimatechangescience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificclimatechangescience.org</span><span class="citation-popover-snippet">Timor- LesteThe seasonal cycle of rainfall (Fig. 2) shows that Dili has a very marked wet season from December to May and a dry season a...</span></span></span>
+The wet season, generally from November or December through April or May, introduces a different set of explanations. Heavy cloud cover, rain systems, thunderstorms, and rapidly changing atmospheric conditions become much more common.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/2_PCCSP_Poster_Timor-Leste.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificclimatechangescience.org">[2pacificclimatechangescience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificclimatechangescience.org</span><span class="citation-popover-snippet">Timor- LesteThe seasonal cycle of rainfall (Fig. 2) shows that Dili has a very marked wet season from December to May and a dry season a...</span></span></span>
 
 When witnesses report unusual lights during these months, several natural mechanisms deserve attention.
 
@@ -363,7 +363,7 @@ In wet-season conditions, shifting cloud layers provide a straightforward explan
 
 Globally, Venus is one of the most common sources of UFO reports, and there is little reason to think Timor-Leste would be an exception.
 
-Planet visibility changes throughout the year, but bright planets are frequently visible from Dili and other parts of the country. Astronomical tracking services regularly show Venus, Jupiter, Saturn, and Mercury becoming prominent at different times of year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=7&amp;n=768&amp;year=2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Dili</span><span class="citation-popover-snippet">Night Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon and planets...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Dili</span><span class="citation-popover-snippet">Time and DateNight Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon...</span></span></span>
+Planet visibility changes throughout the year, but bright planets are frequently visible from Dili and other parts of the country. Astronomical tracking services regularly show Venus, Jupiter, Saturn, and Mercury becoming prominent at different times of year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=7&amp;n=768&amp;year=2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Dili</span><span class="citation-popover-snippet">Night Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon and planets...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Dili</span><span class="citation-popover-snippet">Time and DateNight Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon...</span></span></span>
 
 Several characteristics make planets easy to misidentify:
 
@@ -387,7 +387,7 @@ This explanation becomes especially strong when reports involve a single bright 
 
 The maritime environment around Timor-Leste introduces another category of potential misidentifications.
 
-The country sits between major sea routes and possesses extensive coastal waters. Fishing vessels, transport ships, and support operations may all generate bright nighttime lighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Baucau_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Baucau Airport</span><span class="citation-popover-snippet">Baucau Airport</span></span></span>
+The country sits between major sea routes and possesses extensive coastal waters. Fishing vessels, transport ships, and support operations may all generate bright nighttime lighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Baucau_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Baucau Airport</span><span class="citation-popover-snippet">Baucau Airport</span></span></span>
 
 From shore, several effects can occur:
 
@@ -420,7 +420,7 @@ In these locations, open-water sightlines can extend for many kilometres, making
 
 Timor-Leste does not have a large aviation system, but it does possess several airfields and receives regular international flights.
 
-Presidente Nicolau Lobato Airport in Dili handles most civilian traffic, while Baucau Airport has historically supported military, logistical, and medical operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lca.logcluster.org/22-timor-leste-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lca.logcluster.org">[lca.logcluster.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lca.logcluster.org</span><span class="citation-popover-snippet">2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...</span></span></span> Wikipedia Aircraft create several recurring UFO-style observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Presidente Nicolau Lobato Airport in Dili handles most civilian traffic, while Baucau Airport has historically supported military, logistical, and medical operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lca.logcluster.org/22-timor-leste-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lca.logcluster.org">[lca.logcluster.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lca.logcluster.org</span><span class="citation-popover-snippet">2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...</span></span></span> Wikipedia Aircraft create several recurring UFO-style observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ### Landing lights
 
@@ -442,7 +442,7 @@ Without awareness of flight paths, these can appear mysterious.
 
 ### Military and humanitarian flights
 
-Baucau's long runway and periodic operational use mean that unusual aircraft activity should not automatically be treated as evidence of unidentified phenomena. Historical use for military and logistical purposes makes aviation checks particularly important in eastern Timor-Leste. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lca.logcluster.org/22-timor-leste-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lca.logcluster.org">[lca.logcluster.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lca.logcluster.org</span><span class="citation-popover-snippet">2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...</span></span></span>
+Baucau's long runway and periodic operational use mean that unusual aircraft activity should not automatically be treated as evidence of unidentified phenomena. Historical use for military and logistical purposes makes aviation checks particularly important in eastern Timor-Leste.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lca.logcluster.org/22-timor-leste-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lca.logcluster.org">[lca.logcluster.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lca.logcluster.org</span><span class="citation-popover-snippet">2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cU0-fpyj5rg" title="Maubisse – Hill station in the heart of East Timor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cU0-fpyj5rg" target="_blank" rel="noopener noreferrer">Maubisse – Hill station in the heart of East Timor</a></p><p class="youtube-embed-meta">Channel: Travel Asia &amp; Beyond &middot; Views: 2.0K &middot; Uploaded: November 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cU0-fpyj5rg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cU0-fpyj5rg">Open on YouTube</a></p></div></div></div>
 
@@ -466,9 +466,9 @@ This is especially important for lightly sourced Dili harbour videos and similar
 
 ## A Practical Sky-Check Sequence for Timor-Leste Reports
 
-For sightings anywhere in Timor-Leste, the most useful order of investigation is usually: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For sightings anywhere in Timor-Leste, the most useful order of investigation is usually:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-1. **Check season and weather.** Was it during the wet monsoon period or the clearer dry season? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span>
+1. **Check season and weather.** Was it during the wet monsoon period or the clearer dry season?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timorleste.tl">[Tourism Timor-Leste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timorleste.tl</span><span class="citation-popover-snippet">Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</span></span></span>
 2. **Check location type.** Coastal horizon, mountain valley, harbour area, or inland ridge?
 3. **Check astronomy.** Were Venus, Jupiter, Saturn, or a bright star low in the sky at that time? [Time and Date](https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&mode=nightsky&month=7&n=768&year=2014)
 4. **Check aviation activity.** Were aircraft operating near Dili, Baucau, or regional air routes? [lca.logcluster.org](#endnote-6 "Snippet: 2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...")
@@ -479,194 +479,194 @@ For sightings anywhere in Timor-Leste, the most useful order of investigation is
 In a country with relatively few documented UFO investigations and limited publicly available case files, these place-and-season checks often provide more reliable answers than speculation about unknown craft. The strongest lesson from Timor-Leste's existing sighting record is not that every report has an obvious explanation, but that geography and seasonality are essential parts of any serious assessment.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Else Could Timor Leste Witnesses See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Else Could Timor Leste Witnesses See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers classification of lights, atmospheric effects, and observational limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers classification of lights, atmospheric effects, and observational limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, stars, and common sky objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, stars, and common sky objects often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for understanding what observers actually see in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding what observers actually see in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context on how unexplained observations are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how unexplained observations are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-timor-leste-witnesses-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-else-could-timor-leste-witnesses-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -682,7 +682,7 @@ In a country with relatively few documented UFO investigations and limited publi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -702,7 +702,7 @@ In a country with relatively few documented UFO investigations and limited publi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -734,7 +734,7 @@ In a country with relatively few documented UFO investigations and limited publi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -786,7 +786,7 @@ In a country with relatively few documented UFO investigations and limited publi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -831,7 +831,7 @@ In a country with relatively few documented UFO investigations and limited publi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -869,124 +869,123 @@ In a country with relatively few documented UFO investigations and limited publi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weadapt.org  
    Title: climate overview timor leste east timor  
-   Link: <a href="https://weadapt.org/knowledge-base/small-islands-and-climate-change/climate-overview-timor-leste-east-timor/" target="_blank" rel="noopener noreferrer nofollow">https://weadapt.org/knowledge-base/small-islands-and-climate-change/climate-overview-timor-leste-east-timor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Overview: Timor Leste (East Timor)25 Mar 2011 — The main climatic hazards in Timor Leste are floods, landslides and tropical cycl...</p></details>
+   Link:<a href="https://weadapt.org/knowledge-base/small-islands-and-climate-change/climate-overview-timor-leste-east-timor/" target="_blank" rel="noopener noreferrer nofollow">https://weadapt.org/knowledge-base/small-islands-and-climate-change/climate-overview-timor-leste-east-timor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Overview: Timor Leste (East Timor)25 Mar 2011 — The main climatic hazards in Timor Leste are floods, landslides and tropical cycl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timor-Leste</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Timor-Leste" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timor-Leste</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/tl/dili/3484/astronomy-weather/3484" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/tl/dili/3484/astronomy-weather/3484</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, conditions like transparency, referring to the clarity in the sky, affect your ability to see the night sky. The...Read more...</p></details>
+   Link:<a href="https://www.accuweather.com/en/tl/dili/3484/astronomy-weather/3484" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/tl/dili/3484/astronomy-weather/3484</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also, conditions like transparency, referring to the clarity in the sky, affect your ability to see the night sky. The...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: climateknowledgeportal.worldbank.org  
-   Link: <a href="https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Knowledge PortalClimate Risk Country Profile: Timor-Lesteby CRC PROFILE · 2025 · Cited by 5 — The dry season takes place from May...</p></details>
+   Link:<a href="https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/17190-WB_Timor-Leste%20Country%20Profile-WEB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Knowledge PortalClimate Risk Country Profile: Timor-Lesteby CRC PROFILE · 2025 · Cited by 5 — The dry season takes place from May...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pacificclimatechangescience.org  
-   Link: <a href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/2_PCCSP_Poster_Timor-Leste.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/2_PCCSP_Poster_Timor-Leste.pdf</a>  
+   Link:<a href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/2_PCCSP_Poster_Timor-Leste.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/2_PCCSP_Poster_Timor-Leste.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lca.logcluster.org  
-   Link: <a href="https://www.lca.logcluster.org/22-timor-leste-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.lca.logcluster.org/22-timor-leste-aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...</p></details>
+   Link:<a href="https://www.lca.logcluster.org/22-timor-leste-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.lca.logcluster.org/22-timor-leste-aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2.2 Timor-Leste AviationThe Baucau airport (WPEC) is used to coordinate medical evacuations and military operations. It has in the past b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Baucau Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Baucau_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Baucau_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Baucau_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Baucau_Airport</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: timorleste.tl  
-   Link: <a href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow">https://www.timorleste.tl/east-timor/about/geography-climate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</p></details>
+   Link:<a href="https://www.timorleste.tl/east-timor/about/geography-climate/" target="_blank" rel="noopener noreferrer nofollow">https://www.timorleste.tl/east-timor/about/geography-climate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tourism Timor-LesteTimor Leste Geography &amp; ClimateTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet seaso...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: timeanddate.com  
    Title: Time and Date Night Sky Tonight: Visible Planets in Dili  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/timor-leste/dili</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and DateNight Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/night/timor-leste/dili" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/timor-leste/dili</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time and DateNight Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lightpollutionmap.app  
-   Link: <a href="https://lightpollutionmap.app/" target="_blank" rel="noopener noreferrer nofollow">https://lightpollutionmap.app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check Bortle Scale and SQM data, and discover dark-sky, Milky Way, and aurora spots near you...</p></details>
+   Link:<a href="https://lightpollutionmap.app/" target="_blank" rel="noopener noreferrer nofollow">https://lightpollutionmap.app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Check Bortle Scale and SQM data, and discover dark-sky, Milky Way, and aurora spots near you...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: adaptation-undp.org  
    Title: timor leste  
-   Link: <a href="https://www.adaptation-undp.org/explore/asia-and-pacific/timor-leste" target="_blank" rel="noopener noreferrer nofollow">https://www.adaptation-undp.org/explore/asia-and-pacific/timor-leste</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timor-LesteTimor-Leste has a hot and humid tropical climate (CIA 2009). The mean temperature in Timor-Leste is approximately 24 degrees C...</p></details>
+   Link:<a href="https://www.adaptation-undp.org/explore/asia-and-pacific/timor-leste" target="_blank" rel="noopener noreferrer nofollow">https://www.adaptation-undp.org/explore/asia-and-pacific/timor-leste</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timor-LesteTimor-Leste has a hot and humid tropical climate (CIA 2009). The mean temperature in Timor-Leste is approximately 24 degrees C...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: timeanddate.com  
    Title: Time and Date Night Sky Tonight: Visible Planets in Dili  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=7&amp;n=768&amp;year=2014" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=7&amp;n=768&amp;year=2014</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon and planets...</p></details>
+   Link:<a href="https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=7&amp;n=768&amp;year=2014" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/timor-leste/dili?day=1&amp;mode=nightsky&amp;month=7&amp;n=768&amp;year=2014</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Tonight: Visible Planets in Dili - Timor-LesteOur Interactive Night Sky Map simulates the sky above Dili. The Moon and planets...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: xray-mag.com  
    Title: timor leste  
-   Link: <a href="https://xray-mag.com/content/timor-leste" target="_blank" rel="noopener noreferrer nofollow">https://xray-mag.com/content/timor-leste</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timor-Leste: Pristine Reefs, White Sandy Beaches &amp;...16 Nov 2024 — Timor-Leste is located at the far eastern end of the Indonesian archi...</p></details>
+   Link:<a href="https://xray-mag.com/content/timor-leste" target="_blank" rel="noopener noreferrer nofollow">https://xray-mag.com/content/timor-leste</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timor-Leste: Pristine Reefs, White Sandy Beaches &amp;...16 Nov 2024 — Timor-Leste is located at the far eastern end of the Indonesian archi...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: miga.org  
-   Link: <a href="https://www.miga.org/sites/default/files/2026-01/TL%20Solar%20IPP%20-%20EIS%2C%20ANLA-V2_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.miga.org/sites/default/files/2026-01/TL%20Solar%20IPP%20-%20EIS%2C%20ANLA-V2_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEMOCRATIC REPUBLIC OF TIMOR-LESTE• The light goes off 3-5 times a month. • Sometimes the light goes off until 1-2 hours and sometimes it...</p></details>
+   Link:<a href="https://www.miga.org/sites/default/files/2026-01/TL%20Solar%20IPP%20-%20EIS%2C%20ANLA-V2_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.miga.org/sites/default/files/2026-01/TL%20Solar%20IPP%20-%20EIS%2C%20ANLA-V2_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEMOCRATIC REPUBLIC OF TIMOR-LESTE• The light goes off 3-5 times a month. • Sometimes the light goes off until 1-2 hours and sometimes it...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: visitsoutheastasia.travel  
-   Link: <a href="https://www.visitsoutheastasia.travel/visit-timor-leste/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsoutheastasia.travel/visit-timor-leste/about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timor-Leste AboutTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet season, December-April.... coast is u...</p></details>
+   Link:<a href="https://www.visitsoutheastasia.travel/visit-timor-leste/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsoutheastasia.travel/visit-timor-leste/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timor-Leste AboutTimor-Leste has a hot tropical climate with a dry season, May-November, and a wet season, December-April.... coast is u...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asiafoundation.org  
-   Link: <a href="https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asia FoundationANALYSIS OF TIMOR-LESTE CIVIL AVIATION AND...Thus airlines have to board their own engineers on aircraft from the des...</p></details>
+   Link:<a href="https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asiafoundation.org/wp-content/uploads/2024/08/Timor-Leste-Civil-Aviation-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Asia FoundationANALYSIS OF TIMOR-LESTE CIVIL AVIATION AND...Thus airlines have to board their own engineers on aircraft from the des...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: responsibletravel.com  
-   Link: <a href="https://www.responsibletravel.com/holidays/timor-leste/travel-guide/best-time-to-visit" target="_blank" rel="noopener noreferrer nofollow">https://www.responsibletravel.com/holidays/timor-leste/travel-guide/best-time-to-visit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best time to visit Timor-LesteDuring the May to October dry season, it&#x27;s warm and sunny, with only an occasional light shower. The rainy...</p></details>
+   Link:<a href="https://www.responsibletravel.com/holidays/timor-leste/travel-guide/best-time-to-visit" target="_blank" rel="noopener noreferrer nofollow">https://www.responsibletravel.com/holidays/timor-leste/travel-guide/best-time-to-visit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best time to visit Timor-LesteDuring the May to October dry season, it&#x27;s warm and sunny, with only an occasional light shower. The rainy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bluegreenatlas.com  
-   Link: <a href="https://bluegreenatlas.com/climate/east_timor_climate.html" target="_blank" rel="noopener noreferrer nofollow">https://bluegreenatlas.com/climate/east_timor_climate.html</a>  
+   Link:<a href="https://bluegreenatlas.com/climate/east_timor_climate.html" target="_blank" rel="noopener noreferrer nofollow">https://bluegreenatlas.com/climate/east_timor_climate.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/guide?geoid=1622471" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/guide?geoid=1622471</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sky LiveThe Sky Tonight from Viqueque, Timor-Leste (East Timor)An observing guide for the sky tonight, customized for Viqueque, Timor...</p></details>
+   Link:<a href="https://theskylive.com/guide?geoid=1622471" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/guide?geoid=1622471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sky LiveThe Sky Tonight from Viqueque, Timor-Leste (East Timor)An observing guide for the sky tonight, customized for Viqueque, Timor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/juslyadrianus.lakapu/posts/a-moment-in-northern-part-of-the-timor-islandsetoranmeta-photosession-story-star/25523945303890174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/juslyadrianus.lakapu/posts/a-moment-in-northern-part-of-the-timor-islandsetoranmeta-photosession-story-star/25523945303890174/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Airglow that was present that night. A Perseid...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/juslyadrianus.lakapu/posts/a-moment-in-northern-part-of-the-timor-islandsetoranmeta-photosession-story-star/25523945303890174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/juslyadrianus.lakapu/posts/a-moment-in-northern-part-of-the-timor-islandsetoranmeta-photosession-story-star/25523945303890174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Airglow that was present that night. A Perseid...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: weatherspark.com  
-   Link: <a href="https://weatherspark.com/y/141893/Average-Weather-in-Baucau-Timor-Leste" target="_blank" rel="noopener noreferrer nofollow">https://weatherspark.com/y/141893/Average-Weather-in-Baucau-Timor-Leste</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>indy, and partly cloudy; and it is warm year round...</p></details>
+   Link:<a href="https://weatherspark.com/y/141893/Average-Weather-in-Baucau-Timor-Leste" target="_blank" rel="noopener noreferrer nofollow">https://weatherspark.com/y/141893/Average-Weather-in-Baucau-Timor-Leste</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>indy, and partly cloudy; and it is warm year round...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/planets-visible-tonight?geoid=1942811" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planets-visible-tonight?geoid=1942811</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planets Visible Tonight from Gleno, Timor-Leste (East Timor)This page shows planetary visibility conditions for Gleno, Timor-Leste (East...</p></details>
+   Link:<a href="https://theskylive.com/planets-visible-tonight?geoid=1942811" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planets-visible-tonight?geoid=1942811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planets Visible Tonight from Gleno, Timor-Leste (East Timor)This page shows planetary visibility conditions for Gleno, Timor-Leste (East...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theskylive.com  
-   Link: <a href="https://theskylive.com/planets-visible-tonight?geoid=1637730" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planets-visible-tonight?geoid=1637730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planets Visible Tonight from Liquica, Timor-Leste (East...This page shows planetary visibility conditions for Liquica, Timor-Leste (East...</p></details>
+   Link:<a href="https://theskylive.com/planets-visible-tonight?geoid=1637730" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/planets-visible-tonight?geoid=1637730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planets Visible Tonight from Liquica, Timor-Leste (East...This page shows planetary visibility conditions for Liquica, Timor-Leste (East...</p></details>

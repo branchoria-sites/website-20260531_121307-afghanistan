@@ -296,7 +296,7 @@ Multiple witnesses are useful only if they are genuinely independent. Ten people
 
 ## Why Bujumbura sightings need aviation checks first
 
-Most Burundi sky reports would probably occur near Bujumbura because it is the country’s main urban and transport centre. Melchior Ndadaye International Airport is Burundi’s primary international airport and the country’s only major paved-runway facility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[AACB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-title">AACBBurundi Civil Aviation Authority</span><span class="citation-popover-snippet">BCAAWelcome word, Leisure and coffee, Airport Taxi, Airport car park, Access badges, Covid-19, Downloading, AIRCRAFT FLIGHT CLEARANCE REQ...</span></span></span>
+Most Burundi sky reports would probably occur near Bujumbura because it is the country’s main urban and transport centre. Melchior Ndadaye International Airport is Burundi’s primary international airport and the country’s only major paved-runway facility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[AACB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-title">AACBBurundi Civil Aviation Authority</span><span class="citation-popover-snippet">BCAAWelcome word, Leisure and coffee, Airport Taxi, Airport car park, Access badges, Covid-19, Downloading, AIRCRAFT FLIGHT CLEARANCE REQ...</span></span></span>
 
 That immediately creates ordinary [explanations]({{ 'explanations-97105f/' | relative_url }}) for unusual lights:
 
@@ -313,7 +313,7 @@ That immediately creates ordinary [explanations]({{ 'explanations-97105f/' | rel
 
 </div>
 
-Burundi’s Civil Aviation Authority publishes flight-clearance and operational material connected to national aviation activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[AACB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-title">AACBBurundi Civil Aviation Authority</span><span class="citation-popover-snippet">BCAAWelcome word, Leisure and coffee, Airport Taxi, Airport car park, Access badges, Covid-19, Downloading, AIRCRAFT FLIGHT CLEARANCE REQ...</span></span></span> Public flight trackers also monitor arrivals and departures at Bujumbura airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">Bujumbura Airport (BJM) Arrivals and DeparturesCheck the status of your domestic or international Bujumbura (BJM) flight with t...</span></span></span>
+Burundi’s Civil Aviation Authority publishes flight-clearance and operational material connected to national aviation activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aacb.gov.bi">[AACB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aacb.gov.bi</span><span class="citation-popover-title">AACBBurundi Civil Aviation Authority</span><span class="citation-popover-snippet">BCAAWelcome word, Leisure and coffee, Airport Taxi, Airport car park, Access badges, Covid-19, Downloading, AIRCRAFT FLIGHT CLEARANCE REQ...</span></span></span> Public flight trackers also monitor arrivals and departures at Bujumbura airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">Bujumbura Airport (BJM) Arrivals and DeparturesCheck the status of your domestic or international Bujumbura (BJM) flight with t...</span></span></span>
 
 When checking a Burundi UFO claim, the first practical questions are:
 
@@ -350,7 +350,7 @@ A Burundi witness describing:
 
 is often describing a satellite rather than an unknown craft.
 
-The most practical verification tool is Heavens-Above, which generates satellite visibility predictions for specific locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-title">Satellite predictions and other astronomical data customised for your location</span><span class="citation-popover-snippet">Heavens-AboveSatellite predictions and other astronomical data customised for your location...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any point on the Ea...</span></span></span> The system allows observers to set exact coordinates and compare satellite passes against reported times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Select locationEntering your coordinates and time zone manually. Use the mouse to drag the map, and if you have a mouse whee...</span></span></span>
+The most practical verification tool is Heavens-Above, which generates satellite visibility predictions for specific locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-title">Satellite predictions and other astronomical data customised for your location</span><span class="citation-popover-snippet">Heavens-AboveSatellite predictions and other astronomical data customised for your location...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any point on the Ea...</span></span></span> The system allows observers to set exact coordinates and compare satellite passes against reported times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Select locationEntering your coordinates and time zone manually. Use the mouse to drag the map, and if you have a mouse whee...</span></span></span>
 
 This matters because many “formation UFO” reports are now explained by Starlink launches. Witnesses unfamiliar with satellite trains may interpret evenly spaced moving lights as coordinated craft.
 
@@ -478,194 +478,194 @@ A careful investigator should therefore begin with the simplest question first:
 Can this object be matched to a known aircraft, satellite, meteor, weather effect, or optical illusion before treating it as genuinely unexplained?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Would You Check a Burundi UFO Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Would You Check a Burundi UFO Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides structured approaches to case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structured approaches to case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Focuses on checking and debunking weak cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on checking and debunking weak cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights stronger evidence standards for reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights stronger evidence standards for reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches evidence testing and claim verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evidence testing and claim verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-would-you-check-a-burundi-ufo-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-would-you-check-a-burundi-ufo-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -681,7 +681,7 @@ Can this object be matched to a known aircraft, satellite, meteor, weather effec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -701,7 +701,7 @@ Can this object be matched to a known aircraft, satellite, meteor, weather effec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -733,7 +733,7 @@ Can this object be matched to a known aircraft, satellite, meteor, weather effec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -785,7 +785,7 @@ Can this object be matched to a known aircraft, satellite, meteor, weather effec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -830,7 +830,7 @@ Can this object be matched to a known aircraft, satellite, meteor, weather effec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -868,123 +868,122 @@ Can this object be matched to a known aircraft, satellite, meteor, weather effec
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aacb.gov.bi  
    Title: AACBBurundi Civil Aviation Authority  
-   Link: <a href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BCAAWelcome word, Leisure and coffee, Airport Taxi, Airport car park, Access badges, Covid-19, Downloading, AIRCRAFT FLIGHT CLEARANCE REQ...</p></details>
+   Link:<a href="https://aacb.gov.bi/en/" target="_blank" rel="noopener noreferrer nofollow">https://aacb.gov.bi/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCAAWelcome word, Leisure and coffee, Airport Taxi, Airport car park, Access badges, Covid-19, Downloading, AIRCRAFT FLIGHT CLEARANCE REQ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) Arrivals and DeparturesCheck the status of your domestic or international Bujumbura (BJM) flight with t...</p></details>
+   Link:<a href="https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/bjm/bujumbura-arrivals-departures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) Arrivals and DeparturesCheck the status of your domestic or international Bujumbura (BJM) flight with t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skyscanner.com  
-   Link: <a href="https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura (BJM) Arrivals and Departures | Live Flight StatusCheck the status of your domestic or international Bujumbura (BJM) flight wit...</p></details>
+   Link:<a href="https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/flights/arrivals-departures/bjm/bujumbura-arrivals-departures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura (BJM) Arrivals and Departures | Live Flight StatusCheck the status of your domestic or international Bujumbura (BJM) flight wit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: heavens-above.com  
    Title: Satellite predictions and other astronomical data customised for your location  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location...</p></details>
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any point on the Ea...</p></details>
+   Link:<a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any point on the Ea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/SelectLocation.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Select locationEntering your coordinates and time zone manually. Use the mouse to drag the map, and if you have a mouse whee...</p></details>
+   Link:<a href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/SelectLocation.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Select locationEntering your coordinates and time zone manually. Use the mouse to drag the map, and if you have a mouse whee...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mahitaji.bihimo/photos/mah-show-heres-what-credible-reporting-and-aviation-sources-currently-indicate-a/1444236857447077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mahitaji.bihimo/photos/mah-show-heres-what-credible-reporting-and-aviation-sources-currently-indicate-a/1444236857447077/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mah show Here&#x27;s what *credible reporting and aviation...13 Feb 2026 — #mah show Here&#x27;s what *credible reporting and aviation sources cur...</p></details>
+   Link:<a href="https://www.facebook.com/mahitaji.bihimo/photos/mah-show-heres-what-credible-reporting-and-aviation-sources-currently-indicate-a/1444236857447077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mahitaji.bihimo/photos/mah-show-heres-what-credible-reporting-and-aviation-sources-currently-indicate-a/1444236857447077/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mah show Here&#x27;s what *credible reporting and aviation...13 Feb 2026 — #mah show Here&#x27;s what *credible reporting and aviation sources cur...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1647308752976242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1647308752976242/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mis is and alerts when there is a sighting overhead?...</p></details>
+   Link:<a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1647308752976242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1647308752976242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mis is and alerts when there is a sighting overhead?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Melchior Ndadaye International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melchior_Ndadaye_International_Airport</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveIt provides detailed star charts showing the trajectory of the satellites against the background of the stars as seen dur...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveIt provides detailed star charts showing the trajectory of the satellites against the background of the stars as seen dur...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.heavens_above.viewer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comHeavens-Above – Apps on Google Play1 Sept 2023 — Identify lights in the night sky, predict passes of the ISS and of satellites...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.heavens_above.viewer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comHeavens-Above – Apps on Google Play1 Sept 2023 — Identify lights in the night sky, predict passes of the ISS and of satellites...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=piBZrt2nR3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=piBZrt2nR3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rvations, check out this great android app...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=piBZrt2nR3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=piBZrt2nR3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rvations, check out this great android app...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) guide – Melchior Ndadaye infoComplete guide to Melchior Ndadaye International Airport in Burundi. Find terminal d...</p></details>
+   Link:<a href="https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/burundi/bujumbura/bujumbura-international-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport (BJM) guide – Melchior Ndadaye infoComplete guide to Melchior Ndadaye International Airport in Burundi. Find terminal d...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jetmate.aero  
-   Link: <a href="https://jetmate.aero/airport/bujumbura-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://jetmate.aero/airport/bujumbura-international-airport/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International AirportJetMate Aviation delivers top-tier Ground Handling services at Bujumbura International Airport in Bujumbur...</p></details>
+   Link:<a href="https://jetmate.aero/airport/bujumbura-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://jetmate.aero/airport/bujumbura-international-airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura International AirportJetMate Aviation delivers top-tier Ground Handling services at Bujumbura International Airport in Bujumbur...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kiwi.com  
-   Link: <a href="https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Bujumbura International airportBujumbura International Airport operates from early morning until late evening. The exact ope...</p></details>
+   Link:<a href="https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiwi.com/en/airport/bjm/bujumbura-international-bujumbura-burundi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Bujumbura International airportBujumbura International Airport operates from early morning until late evening. The exact ope...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cd.textfiles.com  
-   Link: <a href="https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>textfiles.comad-words.txt... bujumbura buka bukako buker bukhari bukkoroshite buko bukoskey... ufo ufomadu ufonaut ufonauts ufos ufpine...</p></details>
+   Link:<a href="https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>textfiles.comad-words.txt... bujumbura buka bukako buker bukhari bukkoroshite buko bukoskey... ufo ufomadu ufonaut ufonauts ufos ufpine...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thegreatlakeseye.com  
-   Link: <a href="https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113" target="_blank" rel="noopener noreferrer nofollow">https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ews and passengers increasingly vulnerable during take off and landing operations.Read more...</p></details>
+   Link:<a href="https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113" target="_blank" rel="noopener noreferrer nofollow">https://thegreatlakeseye.com/thegreatlakes/post?s=Telecom--failures--undermine--aviation--safety--at--Burundi%E2%80%99s--main--airport_2113</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ews and passengers increasingly vulnerable during take off and landing operations.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1gnm726/made_a_website_that_shows_satellites_above_you_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1gnm726/made_a_website_that_shows_satellites_above_you_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>track satellites above you. Pictures of satellites in space.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1gnm726/made_a_website_that_shows_satellites_above_you_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1gnm726/made_a_website_that_shows_satellites_above_you_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>track satellites above you. Pictures of satellites in space.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uas.aero  
    Title: bujumbura international airport closure  
-   Link: <a href="https://www.uas.aero/bujumbura-international-airport-closure/" target="_blank" rel="noopener noreferrer nofollow">https://www.uas.aero/bujumbura-international-airport-closure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport Closure: What You Need to Know13 May 2015 — Bujumbura International Airport is closed with no landing or take off and a...</p></details>
+   Link:<a href="https://www.uas.aero/bujumbura-international-airport-closure/" target="_blank" rel="noopener noreferrer nofollow">https://www.uas.aero/bujumbura-international-airport-closure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bujumbura Airport Closure: What You Need to Know13 May 2015 — Bujumbura International Airport is closed with no landing or take off and a...</p></details>
    Published: May 2015  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nlp.biu.ac.il  
-   Link: <a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rites nl xanax ambient gluten obsession chen...Read more...</p></details>
+   Link:<a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rites nl xanax ambient gluten obsession chen...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spacecomms.wordpress.com  
    Title: spacecomms Howto Use Heavens-Above.com to Track the ISS  
-   Link: <a href="https://spacecomms.wordpress.com/howto-use-heavens-above-com-to-track-the-iss/" target="_blank" rel="noopener noreferrer nofollow">https://spacecomms.wordpress.com/howto-use-heavens-above-com-to-track-the-iss/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Click ISS under “Satellites” and “10-day predictions for satellites of special interest”.Read more...</p></details>
+   Link:<a href="https://spacecomms.wordpress.com/howto-use-heavens-above-com-to-track-the-iss/" target="_blank" rel="noopener noreferrer nofollow">https://spacecomms.wordpress.com/howto-use-heavens-above-com-to-track-the-iss/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click ISS under “Satellites” and “10-day predictions for satellites of special interest”.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How Do Scientists Analyze UFO Sightings?  
-   Link: <a href="https://www.youtube.com/watch?v=DdlYYyIHpEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DdlYYyIHpEA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to investigate UFO sightings methodology How Are UFO Sightings Investigated? - Inside the Supernatural Inside the Supernatural...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DdlYYyIHpEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DdlYYyIHpEA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to investigate UFO sightings methodology How Are UFO Sightings Investigated? - Inside the Supernatural Inside the Supernatural...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /libya-55949d-index/
 description: Focused pages that expand on What Do Libya's UFO Reports Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Libya_55949d
 parent_title: What Do Libya's UFO Reports Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-libyas-ufo-reports-really-show/
 
 # Explore Topics in What Do Libya's UFO Reports Really Show?
 
-The following pages expand on the main **[What Do Libya's UFO Reports Really Show?]({{ '/what-do-libyas-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do Libya's UFO Reports Really Show?]({{ '/what-do-libyas-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Civilian Reports]({{ '/civilian-reports-22214a/' | relative_url }})
 - [Blue Book]({{ '/blue-book/' | relative_url }})

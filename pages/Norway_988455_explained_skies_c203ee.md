@@ -251,30 +251,30 @@ image: /assets/images/Norway_988455_explained_skies_c203ee-Illustration-1-social
 Some of [Norway]({{ 'what-makes-norways-ufo-record-different/' | relative_url }})’s most dramatic UFO reports turned out to be valuable lessons in how easily the sky can deceive even careful observers. Bright green fireballs have crossed the country with enough brilliance to trigger emergency calls, while the famous 2009 Norway spiral produced photographs so extraordinary that many people initially rejected conventional explanations. Yet in both cases, subsequent investigation pointed toward identifiable physical causes rather than unknown craft.
 
 <img src="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-1-dark.svg" | relative_url }}" alt="Explained Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-These incidents matter because they demonstrate a recurring pattern in Norwegian UFO history. A rare atmospheric or aerospace event appears over a vast area, witnesses struggle to judge its distance and scale, rumours spread rapidly, and only later do meteor data, missile [records]({{ 'records-2b5d25/' | relative_url }}), photographs, and trajectory analysis reveal what happened. Rather than diminishing the events, these explanations show how genuine and impressive natural or technological phenomena can generate sincere UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
+These incidents matter because they demonstrate a recurring pattern in Norwegian UFO history. A rare atmospheric or aerospace event appears over a vast area, witnesses struggle to judge its distance and scale, rumours spread rapidly, and only later do meteor data, missile [records]({{ 'records-2b5d25/' | relative_url }}), photographs, and trajectory analysis reveal what happened. Rather than diminishing the events, these explanations show how genuine and impressive natural or technological phenomena can generate sincere UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
 
 ## The 2006 Green Fireball
 
-One of the clearest examples came on 7 June 2006, when a sizeable meteoroid entered Earth's atmosphere over northern Norway near the Finnish border. Witnesses across the region reported an exceptionally bright fireball, while others later described hearing sounds resembling an explosion. Researchers documented photographs of the lingering dust trail and analysed observations from multiple locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span>
+One of the clearest examples came on 7 June 2006, when a sizeable meteoroid entered Earth's atmosphere over northern Norway near the Finnish border. Witnesses across the region reported an exceptionally bright fireball, while others later described hearing sounds resembling an explosion. Researchers documented photographs of the lingering dust trail and analysed observations from multiple locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span>
 
 The event illustrates why bright meteors are often mistaken for unusual craft:
 
 * They can appear far larger than ordinary stars or aircraft.
 * Green colouring is uncommon in everyday experience and can seem artificial.
 * A fireball may fragment or flare suddenly, creating the impression of manoeuvring.
-* Witnesses often have no reliable reference for distance, making a meteor tens of kilometres away seem much closer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span>
+* Witnesses often have no reliable reference for distance, making a meteor tens of kilometres away seem much closer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span>
 
-The green colour itself is not evidence of exotic technology. Meteor researchers have long documented green fireballs produced by specific chemical emissions as meteoroids heat and vaporise during atmospheric entry. Because these objects travel at tremendous speeds, the resulting light can illuminate large areas and remain visible over hundreds of kilometres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span>
+The green colour itself is not evidence of exotic technology. Meteor researchers have long documented green fireballs produced by specific chemical emissions as meteoroids heat and vaporise during atmospheric entry. Because these objects travel at tremendous speeds, the resulting light can illuminate large areas and remain visible over hundreds of kilometres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span>
 
 In Norway, where dark skies and sparsely populated regions provide excellent visibility, a single bright meteor can generate reports from numerous counties simultaneously. Witnesses comparing accounts afterwards may assume they observed a nearby object, when in reality they were all looking at the same distant atmospheric event.
 
 ## The 2009 Norway Spiral
 
-No explained Norwegian UFO case is more famous than the spiral seen before dawn on 9 December 2009. Thousands of people across northern Norway and parts of Sweden observed a remarkable formation consisting of a bright blue beam and an expanding spiral pattern. The display lasted several minutes and was photographed extensively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Anomalia_Espiral_na_Noruega_%282009%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalia Espiral na Noruega (2009</span><span class="citation-popover-snippet">Anomalia Espiral na Noruega (2009</span></span></span>
+No explained Norwegian UFO case is more famous than the spiral seen before dawn on 9 December 2009. Thousands of people across northern Norway and parts of Sweden observed a remarkable formation consisting of a bright blue beam and an expanding spiral pattern. The display lasted several minutes and was photographed extensively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Anomalia_Espiral_na_Noruega_%282009%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalia Espiral na Noruega (2009</span><span class="citation-popover-snippet">Anomalia Espiral na Noruega (2009</span></span></span>
 
 For many observers, the phenomenon seemed unlike any known natural event. The shape looked highly structured, almost geometric, and appeared to hover while expanding. Unsurprisingly, UFO theories proliferated almost immediately.
 
-However, the explanation emerged rapidly. Russian authorities acknowledged that a test of the RSM-56 Bulava submarine-launched ballistic missile had suffered a malfunction. According to official accounts and subsequent technical analysis, the missile's first stages functioned normally before a failure occurred in the third stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">russian nuclear missile test fails visible in norway id USTRE5B92FI</span><span class="citation-popover-snippet">Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">The Christian Science MonitorNorway spiral: A rocket scientist explains the mystery10 Dec 2009 — The Russians said problems emerged when...</span></span></span>
+However, the explanation emerged rapidly. Russian authorities acknowledged that a test of the RSM-56 Bulava submarine-launched ballistic missile had suffered a malfunction. According to official accounts and subsequent technical analysis, the missile's first stages functioned normally before a failure occurred in the third stage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">russian nuclear missile test fails visible in norway id USTRE5B92FI</span><span class="citation-popover-snippet">Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">The Christian Science MonitorNorway spiral: A rocket scientist explains the mystery10 Dec 2009 — The Russians said problems emerged when...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J5_8MVctp30" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS &middot; Views: 443.7K &middot; Uploaded: December 2009 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J5_8MVctp30">Open on YouTube</a></p></div></div></div>
 
@@ -289,11 +289,11 @@ The result is a surprisingly elegant pattern:
 1. The rotating missile acts like a spinning sprinkler.
 2. Exhaust is released in a circular motion.
 3. Sunlight illuminates the expanding cloud at high altitude.
-4. Observers on the ground see a growing spiral centred on the spinning rocket. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">The Christian Science MonitorNorway spiral: A rocket scientist explains the mystery10 Dec 2009 — The Russians said problems emerged when...</span></span></span> [2Space]
+4. Observers on the ground see a growing spiral centred on the spinning rocket.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">The Christian Science MonitorNorway spiral: A rocket scientist explains the mystery10 Dec 2009 — The Russians said problems emerged when...</span></span></span> [2Space]
 
 </div>
 
-Norwegian Space Centre adviser Paal Brekke and other specialists quickly noted that the videos matched the behaviour expected from a rocket or missile spinning out of control at high altitude. Russia's Ministry of Defence subsequently confirmed a failed Bulava test, providing a direct match between the observed phenomenon and a documented aerospace event. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">russian nuclear missile test fails visible in norway id USTRE5B92FI</span><span class="citation-popover-snippet">Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</span></span></span>
+Norwegian Space Centre adviser Paal Brekke and other specialists quickly noted that the videos matched the behaviour expected from a rocket or missile spinning out of control at high altitude. Russia's Ministry of Defence subsequently confirmed a failed Bulava test, providing a direct match between the observed phenomenon and a documented aerospace event. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">russian nuclear missile test fails visible in norway id USTRE5B92FI</span><span class="citation-popover-snippet">Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</span></span></span>
 
 <img src="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-2-dark.svg" | relative_url }}" alt="Explained Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why So Many People Thought It Was Unexplainable
@@ -307,7 +307,7 @@ Most people have never seen:
 * A rotating rocket producing a symmetrical plume.
 * An event visible across an enormous geographic area at once.
 
-Because the display was genuinely rare, witnesses often compared it to science-fiction imagery rather than aerospace failures. Yet the combination of photographs, timing, missile-test records, and technical analysis created one of the strongest conventional explanations for any famous Norwegian UFO incident. The Christian Science Monitor <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">russian nuclear missile test fails visible in norway id USTRE5B92FI</span><span class="citation-popover-snippet">Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</span></span></span>
+Because the display was genuinely rare, witnesses often compared it to science-fiction imagery rather than aerospace failures. Yet the combination of photographs, timing, missile-test records, and technical analysis created one of the strongest conventional explanations for any famous Norwegian UFO incident. The Christian Science Monitor<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">russian nuclear missile test fails visible in norway id USTRE5B92FI</span><span class="citation-popover-snippet">Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zEeibCkCupY" title="Giant Green Fireball Lights Up Night Sky of Norway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zEeibCkCupY" target="_blank" rel="noopener noreferrer">Giant Green Fireball Lights Up Night Sky of Norway</a></p><p class="youtube-embed-meta">Channel: Storyful Viral &middot; Views: 26.1K &middot; Uploaded: November 2020 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zEeibCkCupY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zEeibCkCupY">Open on YouTube</a></p></div></div></div>
 
@@ -329,212 +329,212 @@ Norway's geography amplifies this effect. Long winter darkness, clear northern s
 <img src="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-3-dark.svg" | relative_url }}" alt="Explained Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_explained_skies_c203ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Recent Meteor Events Reveal
 
-Modern meteor-monitoring networks continue to show how frequently dramatic sky events generate public alarm before being identified. The bright fireball that flashed over the Oslo region in July 2021 is a good example. Witnesses reported brilliant light, rumbling sounds, and apparent impacts, prompting widespread attention. Subsequent analysis classified it as a fireball meteor and enabled researchers to estimate its trajectory and search for meteorite fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/meteor-hunters-chase-fireball-norway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">meteor hunters chase fireball norway</span><span class="citation-popover-snippet">Flashing meteor that exploded over Norway landed...27 Jul 2021 — The blazing rock that rumbled and flashed above Oslo was a special...</span></span></span>
+Modern meteor-monitoring networks continue to show how frequently dramatic sky events generate public alarm before being identified. The bright fireball that flashed over the Oslo region in July 2021 is a good example. Witnesses reported brilliant light, rumbling sounds, and apparent impacts, prompting widespread attention. Subsequent analysis classified it as a fireball meteor and enabled researchers to estimate its trajectory and search for meteorite fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/meteor-hunters-chase-fireball-norway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">meteor hunters chase fireball norway</span><span class="citation-popover-snippet">Flashing meteor that exploded over Norway landed...27 Jul 2021 — The blazing rock that rumbled and flashed above Oslo was a special...</span></span></span>
 
 Such incidents reinforce a broader pattern seen throughout Norway's UFO record:
 
 * Initial reports often describe extraordinary aerial objects.
 * Witness testimony is sincere and sometimes highly detailed.
 * Additional evidence usually improves rather than weakens understanding.
-* Meteor science, atmospheric analysis, and aerospace records frequently provide answers unavailable on the first day of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7656 bizarre sky spiral caused failed missile</span><span class="citation-popover-snippet">Bizarre Sky Spiral Caused by Failed MissileDec 10, 2009 — The Russian defense ministry confirmed to the Itar-Tassnews agency that a...</span></span></span>
+* Meteor science, atmospheric analysis, and aerospace records frequently provide answers unavailable on the first day of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7656 bizarre sky spiral caused failed missile</span><span class="citation-popover-snippet">Bizarre Sky Spiral Caused by Failed MissileDec 10, 2009 — The Russian defense ministry confirmed to the Itar-Tassnews agency that a...</span></span></span>
 
 ## When Explanation Strengthens the Story
 
 The 2006 fireball and the 2009 Norway spiral remain memorable precisely because they were real, dramatic events witnessed by large numbers of people. Their importance within Norway's UFO history lies not in unresolved mystery but in successful investigation.
 
-The green fireball showed how a natural meteoroid can create a spectacle large enough to be interpreted as an unidentified craft. The Norway spiral demonstrated how a failed missile test can generate imagery so extraordinary that many observers initially doubt any conventional explanation. Together they form some of the strongest examples in Norway of how careful analysis, technical data, and later evidence can transform apparent UFO mysteries into well-understood physical events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
+The green fireball showed how a natural meteoroid can create a spectacle large enough to be interpreted as an unidentified craft. The Norway spiral demonstrated how a failed missile test can generate imagery so extraordinary that many observers initially doubt any conventional explanation. Together they form some of the strongest examples in Norway of how careful analysis, technical data, and later evidence can transform apparent UFO mysteries into well-understood physical events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">is norway</span><span class="citation-popover-snippet">Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2mUXBqJbQKg" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 190.4K &middot; Uploaded: December 2009 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2mUXBqJbQKg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Norway&#x27;s UFOs Became Fireballs and Missiles. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Norway&#x27;s UFOs Became Fireballs and Missiles. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
         
-        <p class="fr-book-desc">Examines how ordinary phenomena become extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how ordinary phenomena become extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Helps identify fireballs, satellites, and other mistaken UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify fireballs, satellites, and other mistaken UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains meteors, atmospheric effects, and unusual sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteors, atmospheric effects, and unusual sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Relevant to the fireball events discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to the fireball events discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-norway-s-ufos-became-fireballs-and-missiles-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ The green fireball showed how a natural meteoroid can create a spectacle large e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ The green fireball showed how a natural meteoroid can create a spectacle large e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ The green fireball showed how a natural meteoroid can create a spectacle large e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ The green fireball showed how a natural meteoroid can create a spectacle large e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ The green fireball showed how a natural meteoroid can create a spectacle large e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,102 +740,102 @@ The green fireball showed how a natural meteoroid can create a spectacle large e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2009 Norwegian spiral anomaly  
-   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: meteor hunters chase fireball norway  
-   Link: <a href="https://www.space.com/meteor-hunters-chase-fireball-norway" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-hunters-chase-fireball-norway</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flashing meteor that exploded over Norway landed...27 Jul 2021 — The blazing rock that rumbled and flashed above Oslo was a special...</p></details>
+   Link:<a href="https://www.space.com/meteor-hunters-chase-fireball-norway" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-hunters-chase-fireball-norway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flashing meteor that exploded over Norway landed...27 Jul 2021 — The blazing rock that rumbled and flashed above Oslo was a special...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Anomalia Espiral na Noruega (2009)  
-   Link: <a href="https://pt.wikipedia.org/wiki/Anomalia_Espiral_na_Noruega_%282009%29" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Anomalia_Espiral_na_Noruega_%282009%29</a>  
+   Link:<a href="https://pt.wikipedia.org/wiki/Anomalia_Espiral_na_Noruega_%282009%29" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Anomalia_Espiral_na_Noruega_%282009%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: russian nuclear missile test fails visible in norway id USTRE5B92FI  
-   Link: <a href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</p></details>
+   Link:<a href="https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/russian-nuclear-missile-test-fails-visible-in-norway-idUSTRE5B92FI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian nuclear missile test fails, visible in Norway10 Dec 2009 — Russia admitted on Thursday another failed test of its much-tou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: 7656 bizarre sky spiral caused failed missile  
-   Link: <a href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Sky Spiral Caused by Failed MissileDec 10, 2009 — The Russian defense ministry confirmed to the Itar-Tassnews agency that a...</p></details>
+   Link:<a href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Sky Spiral Caused by Failed MissileDec 10, 2009 — The Russian defense ministry confirmed to the Itar-Tassnews agency that a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aquarid.physics.uwo.ca  
    Title: is norway  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/is_norway.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observations of the Norwegian Fireball of June 7th, 2006On June 7th, 2006 just after 00 UT (2 am Local time) a moderate sized mete...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: csmonitor.com  
-   Link: <a href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorNorway spiral: A rocket scientist explains the mystery10 Dec 2009 — The Russians said problems emerged when...</p></details>
+   Link:<a href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorNorway spiral: A rocket scientist explains the mystery10 Dec 2009 — The Russians said problems emerged when...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amusingplanet.com  
    Title: the norway spiral  
-   Link: <a href="https://www.amusingplanet.com/2016/02/the-norway-spiral.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2016/02/the-norway-spiral.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 25, 2016 — The spiraling blue light was caused by a failed test firing of a Russian Bulava missile. The Russian Ministry of Defence i...</p></details>
+   Link:<a href="https://www.amusingplanet.com/2016/02/the-norway-spiral.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2016/02/the-norway-spiral.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 25, 2016 — The spiraling blue light was caused by a failed test firing of a Russian Bulava missile. The Russian Ministry of Defence i...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright-green fireball meteor caught exploding over famous...16 Apr 2026 — A photographer snapped a bright-green fireball streaking acros...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright-green fireball meteor caught exploding over famous...16 Apr 2026 — A photographer snapped a bright-green fireball streaking acros...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: in 2009 a weird spiral appeared in the night sky of norway people all around th  
-   Link: <a href="https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🌀 In 2009, a weird spiral appeared in the night sky...The official explanation was that it was caused by a failed Russian Bulava missile...</p></details>
+   Link:<a href="https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🌀 In 2009, a weird spiral appeared in the night sky...The official explanation was that it was caused by a failed Russian Bulava missile...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zEeibCkCupY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zEeibCkCupY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Green Fireball Lights Up Night Sky of NorwayA meteor camera captured a giant green fireball shooting across the night sky of Larvik...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zEeibCkCupY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zEeibCkCupY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Green Fireball Lights Up Night Sky of NorwayA meteor camera captured a giant green fireball shooting across the night sky of Larvik...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2mUXBqJbQKg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2mUXBqJbQKg</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J5_8MVctp30</a>  
+   Link:<a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J5_8MVctp30</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Norway/comments/d3uzb/do_norwegians_accept_the_blue_spiral_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Norway/comments/d3uzb/do_norwegians_accept_the_blue_spiral_in_the_sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rocket was never over Norway, but exploede in the Barents Sea...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Norway/comments/d3uzb/do_norwegians_accept_the_blue_spiral_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Norway/comments/d3uzb/do_norwegians_accept_the_blue_spiral_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rocket was never over Norway, but exploede in the Barents Sea...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: themoscowtimes.com  
    Title: spirals sighted over norway as bulava fails  
-   Link: <a href="https://www.themoscowtimes.com/archive/spirals-sighted-over-norway-as-bulava-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/archive/spirals-sighted-over-norway-as-bulava-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2009 — Officials have insisted that the Bulava&#x27;s design is fine and have blamed its failed tests on manufacturing flaws resulting...</p></details>
+   Link:<a href="https://www.themoscowtimes.com/archive/spirals-sighted-over-norway-as-bulava-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/archive/spirals-sighted-over-norway-as-bulava-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2009 — Officials have insisted that the Bulava&#x27;s design is fine and have blamed its failed tests on manufacturing flaws resulting...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbsnews.com  
    Title: mysterious spiral light in sky over norway  
-   Link: <a href="https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2009 — Space experts point to the spiraling of this missile as it malfunctioned as an explanation for the shape seen over Norway...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2009 — Space experts point to the spiraling of this missile as it malfunctioned as an explanation for the shape seen over Norway...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: explorersweb.com  
    Title: green fireball explodes above great lakes  
-   Link: <a href="https://explorersweb.com/green-fireball-explodes-above-great-lakes/" target="_blank" rel="noopener noreferrer nofollow">https://explorersweb.com/green-fireball-explodes-above-great-lakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Dec 2025 — Such fireballs are often associated with meteor showers, but NASA said this was a one-off explosion, unrelated to the Leonid...</p></details>
+   Link:<a href="https://explorersweb.com/green-fireball-explodes-above-great-lakes/" target="_blank" rel="noopener noreferrer nofollow">https://explorersweb.com/green-fireball-explodes-above-great-lakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Dec 2025 — Such fireballs are often associated with meteor showers, but NASA said this was a one-off explosion, unrelated to the Leonid...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: russianforces.org  
    Title: Bulava test was not quite successful  
-   Link: <a href="https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml" target="_blank" rel="noopener noreferrer nofollow">https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>test met its objective fully or was a failure for some reasons. If the Bulava warhead has indeed failed to seperate from BUS then its a f...</p></details>
+   Link:<a href="https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml" target="_blank" rel="noopener noreferrer nofollow">https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>test met its objective fully or was a failure for some reasons. If the Bulava warhead has indeed failed to seperate from BUS then its a f...</p></details>

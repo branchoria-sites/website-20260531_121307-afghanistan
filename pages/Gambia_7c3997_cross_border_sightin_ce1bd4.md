@@ -251,7 +251,7 @@ image: /assets/images/Gambia_7c3997_cross_border_sightin_ce1bd4-Illustration-1-s
 The Gambia’s geography makes purely “national” UFO cases unusually difficult to separate from regional events. The country is a narrow corridor wrapped around the River Gambia and almost entirely enclosed by Senegal, so any bright meteor, aircraft anomaly, drone flight, sonic boom or falling debris event can easily cross borders within minutes. That matters because many Gambian reports become more understandable only when witness accounts from Senegal are added to the timeline.
 
 <img src="{{ "/assets/images/Gambia_7c3997_cross_border_sightin_ce1bd4-Illustration-1-dark.svg" | relative_url }}" alt="Border Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997_cross_border_sightin_ce1bd4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997_cross_border_sightin_ce1bd4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This cross-border problem is especially visible in the June 2025 metal-ring incident near Sare Gubu in eastern Gambia. Reports from Gambian media linked the event to another falling object in nearby Senegal, suggesting either a shared debris field or a single atmospheric event observed from both sides of the border. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Gambia: On Friday, a metal ring fell on the outskirts of Sare...Gambia: On Friday, a metal ring fell on the outskirts of Sare Gu...</span></span></span> Rather than proving an extraordinary craft, the case illustrates how Gambian aerial mysteries often depend on regional geography, incomplete reporting networks and fragmented evidence spread across two countries.
+This cross-border problem is especially visible in the June 2025 metal-ring incident near Sare Gubu in eastern Gambia. Reports from Gambian media linked the event to another falling object in nearby Senegal, suggesting either a shared debris field or a single atmospheric event observed from both sides of the border.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Gambia: On Friday, a metal ring fell on the outskirts of Sare...Gambia: On Friday, a metal ring fell on the outskirts of Sare Gu...</span></span></span> Rather than proving an extraordinary craft, the case illustrates how Gambian aerial mysteries often depend on regional geography, incomplete reporting networks and fragmented evidence spread across two countries.
 
 ## Why the River Gambia changes how sightings are interpreted
 
@@ -273,9 +273,9 @@ The result is a reporting environment where geography itself encourages confusio
 
 ## The 2025 Sare Gubu and Tabanding debris reports
 
-The strongest modern example of a cross-border Gambian aerial incident is the June 2025 metal-ring event reported near Sare Gubu in Sandu District. Gambian outlets stated that residents heard a loud sound and saw a flaming object descending before a large metallic ring was recovered. Reports further stated that the Gambia Armed Forces collected the object for investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">GambiaEyewitnesses reported hearing a loud noise and seeing a flaming object falling from the sky. A resident of Sare Gubu told us: “It h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://m.facebook.com/atvgambia/photos/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593392601508/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.facebook.com</span><span class="citation-popover-snippet">Eyewitnesses reported hearing a loud noise and seeing a flaming object falling from the...Read more...</span></span></span>
+The strongest modern example of a cross-border Gambian aerial incident is the June 2025 metal-ring event reported near Sare Gubu in Sandu District. Gambian outlets stated that residents heard a loud sound and saw a flaming object descending before a large metallic ring was recovered. Reports further stated that the Gambia Armed Forces collected the object for investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">GambiaEyewitnesses reported hearing a loud noise and seeing a flaming object falling from the sky. A resident of Sare Gubu told us: “It h...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://m.facebook.com/atvgambia/photos/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593392601508/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.facebook.com</span><span class="citation-popover-snippet">Eyewitnesses reported hearing a loud noise and seeing a flaming object falling from the...Read more...</span></span></span>
 
-What made the case regionally important was the simultaneous mention of another object reportedly landing in Tabanding village in Senegal, close to the Gambian frontier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ILOVEBASSEGAMBIA/posts/mysterious-object-according-to-reports-this-unusual-item-reportedly-fell-during-/1271212297911605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Mysterious Object?</span><span class="citation-popover-snippet">👀 According to reports, this unusual...Tria Syce ▻ Mysterious Aliens &amp; UFO Disclosure ✓. 42w · Public · A mysterious recording of an uni...</span></span></span> That detail shifted the incident away from a simple “mysterious object” narrative and toward a broader cross-border reconstruction problem.
+What made the case regionally important was the simultaneous mention of another object reportedly landing in Tabanding village in Senegal, close to the Gambian frontier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ILOVEBASSEGAMBIA/posts/mysterious-object-according-to-reports-this-unusual-item-reportedly-fell-during-/1271212297911605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Mysterious Object?</span><span class="citation-popover-snippet">👀 According to reports, this unusual...Tria Syce ▻ Mysterious Aliens &amp; UFO Disclosure ✓. 42w · Public · A mysterious recording of an uni...</span></span></span> That detail shifted the incident away from a simple “mysterious object” narrative and toward a broader cross-border reconstruction problem.
 
 Several interpretations became plausible:
 
@@ -309,7 +309,7 @@ This matters especially for:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Fireballs and meteors
-* Re-entering space debris <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=OlZfC_6b-dY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Gambia senegal cross border aerial space debris 10 Profitable Agriculture Business Ideas which requires no farming The New Africa Wealth...</span></span></span>
+* Re-entering space debris<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=OlZfC_6b-dY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Gambia senegal cross border aerial space debris 10 Profitable Agriculture Business Ideas which requires no farming The New Africa Wealth...</span></span></span>
 * Military aircraft
 * Civilian aircraft with unusual lighting
 * High-altitude balloons
@@ -359,7 +359,7 @@ Because the Gambia-Senegal border cuts across populated communities rather than 
 
 ### Space debris confusion
 
-The Sare Gubu case also demonstrates how re-entering debris can create UFO-style narratives before identification occurs. Residents reported both flame and noise, features commonly associated with uncontrolled re-entry events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Mr.December25/posts/february-12-i-made-this-post-and-some-people-understood-it/4298401777113835/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">8y · Public · A ZOOMED IN VERSION OF A BLINKING OBJECT DESCENDING TO EARTH. I CAUGHT THIS TODAY ON THE ISS...</span></span></span>
+The Sare Gubu case also demonstrates how re-entering debris can create UFO-style narratives before identification occurs. Residents reported both flame and noise, features commonly associated with uncontrolled re-entry events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/Mr.December25/posts/february-12-i-made-this-post-and-some-people-understood-it/4298401777113835/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">8y · Public · A ZOOMED IN VERSION OF A BLINKING OBJECT DESCENDING TO EARTH. I CAUGHT THIS TODAY ON THE ISS...</span></span></span>
 
 Globally, recovered aerospace debris is often initially described as:
 
@@ -399,7 +399,7 @@ Several factors matter:
 
 The result is a pattern where intriguing incidents survive mainly as partial narratives. The underlying event may be real, but the evidence trail is too fragmented for confident conclusions.
 
-The June 2025 debris reports fit this pattern precisely. The event appears genuine in the sense that witnesses, local media and military collection activity were all reported publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WhatsOnGambia/photos/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116936910478640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Are we safe?</span><span class="citation-popover-snippet">On Friday, a metal ring fell on the outskirts...Jun 9, 2025 · 󰟠. Mobile uploads. Are we safe? On Friday, a metal ring fell on the outski...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/goldennationnetwork.ph/posts/world-news-alas-ocho-january-30-2026to-watch-a-recap-of-gnn-main-news-stories-ca/1318218166988421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">world news alas ocho january 30 2026to watch a recap of gnn main news stories ca</span><span class="citation-popover-snippet">Golden Nation NetworkWest Africa News Ghana Ghana secures direct qualification to the 2026 World Cup despite failing to qualify for the A...</span></span></span> Yet the absence of transparent technical findings leaves the object suspended between aerospace debris, unidentified re-entry material and unresolved local mystery.
+The June 2025 debris reports fit this pattern precisely. The event appears genuine in the sense that witnesses, local media and military collection activity were all reported publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/WhatsOnGambia/photos/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116936910478640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Are we safe?</span><span class="citation-popover-snippet">On Friday, a metal ring fell on the outskirts...Jun 9, 2025 · 󰟠. Mobile uploads. Are we safe? On Friday, a metal ring fell on the outski...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/goldennationnetwork.ph/posts/world-news-alas-ocho-january-30-2026to-watch-a-recap-of-gnn-main-news-stories-ca/1318218166988421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">world news alas ocho january 30 2026to watch a recap of gnn main news stories ca</span><span class="citation-popover-snippet">Golden Nation NetworkWest Africa News Ghana Ghana secures direct qualification to the 2026 World Cup despite failing to qualify for the A...</span></span></span> Yet the absence of transparent technical findings leaves the object suspended between aerospace debris, unidentified re-entry material and unresolved local mystery.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OlZfC_6b-dY" title="Project Summary: Space Debris Tracking and Collision Avoidance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OlZfC_6b-dY" target="_blank" rel="noopener noreferrer">Project Summary: Space Debris Tracking and Collision Avoidance</a></p><p class="youtube-embed-meta">Channel: Wersel Workdesk &middot; Views: 241 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OlZfC_6b-dY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OlZfC_6b-dY">Open on YouTube</a></p></div></div></div>
 
@@ -412,194 +412,194 @@ The geography of The Gambia encourages shared sightings, duplicated reports and 
 That does not mean Gambian UFO claims are fabricated. It means that interpretation depends heavily on regional comparison, aviation knowledge and cross-border evidence gathering. In many cases, the most credible explanation is not extraterrestrial technology but an ordinary atmospheric or aerospace event viewed through the unusual geography of one of Africa’s narrowest states.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Gambian UFO Cases May Cross Borders. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Gambian UFO Cases May Cross Borders. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Contains examples of multi-witness and geographically dispersed cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains examples of multi-witness and geographically dispersed cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helpful for understanding witness comparisons across regions and jurisdictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helpful for understanding witness comparisons across regions and jurisdictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the value of multiple independent witnesses and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the value of multiple independent witnesses and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for recurring reports that travel across borders and cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for recurring reports that travel across borders and cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gambian-ufo-cases-may-cross-borders-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-gambian-ufo-cases-may-cross-borders-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ That does not mean Gambian UFO claims are fabricated. It means that interpretati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ That does not mean Gambian UFO claims are fabricated. It means that interpretati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ That does not mean Gambian UFO claims are fabricated. It means that interpretati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ That does not mean Gambian UFO claims are fabricated. It means that interpretati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ That does not mean Gambian UFO claims are fabricated. It means that interpretati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,96 +805,96 @@ That does not mean Gambian UFO claims are fabricated. It means that interpretati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia: On Friday, a metal ring fell on the outskirts of Sare...Gambia: On Friday, a metal ring fell on the outskirts of Sare Gu...</p></details>
+   Link:<a href="https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atvgambia/posts/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593475934833/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia: On Friday, a metal ring fell on the outskirts of Sare...Gambia: On Friday, a metal ring fell on the outskirts of Sare Gu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GambiaEyewitnesses reported hearing a loud noise and seeing a flaming object falling from the sky. A resident of Sare Gubu told us: “It h...</p></details>
+   Link:<a href="https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WhatsOnGambia/posts/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116938010478530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GambiaEyewitnesses reported hearing a loud noise and seeing a flaming object falling from the sky. A resident of Sare Gubu told us: “It h...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: m.facebook.com  
-   Link: <a href="https://m.facebook.com/atvgambia/photos/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593392601508/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/atvgambia/photos/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593392601508/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitnesses reported hearing a loud noise and seeing a flaming object falling from the...Read more...</p></details>
+   Link:<a href="https://m.facebook.com/atvgambia/photos/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593392601508/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/atvgambia/photos/gambia-on-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sandu-di/1062593392601508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitnesses reported hearing a loud noise and seeing a flaming object falling from the...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: Mysterious Object?  
-   Link: <a href="https://www.facebook.com/ILOVEBASSEGAMBIA/posts/mysterious-object-according-to-reports-this-unusual-item-reportedly-fell-during-/1271212297911605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ILOVEBASSEGAMBIA/posts/mysterious-object-according-to-reports-this-unusual-item-reportedly-fell-during-/1271212297911605/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>👀 According to reports, this unusual...Tria Syce ▻ Mysterious Aliens &amp; UFO Disclosure ✓. 42w · Public · A mysterious recording of an uni...</p></details>
+   Link:<a href="https://www.facebook.com/ILOVEBASSEGAMBIA/posts/mysterious-object-according-to-reports-this-unusual-item-reportedly-fell-during-/1271212297911605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ILOVEBASSEGAMBIA/posts/mysterious-object-according-to-reports-this-unusual-item-reportedly-fell-during-/1271212297911605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>👀 According to reports, this unusual...Tria Syce ▻ Mysterious Aliens &amp; UFO Disclosure ✓. 42w · Public · A mysterious recording of an uni...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Mr.December25/posts/february-12-i-made-this-post-and-some-people-understood-it/4298401777113835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mr.December25/posts/february-12-i-made-this-post-and-some-people-understood-it/4298401777113835/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8y · Public · A ZOOMED IN VERSION OF A BLINKING OBJECT DESCENDING TO EARTH. I CAUGHT THIS TODAY ON THE ISS...</p></details>
+   Link:<a href="https://www.facebook.com/Mr.December25/posts/february-12-i-made-this-post-and-some-people-understood-it/4298401777113835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mr.December25/posts/february-12-i-made-this-post-and-some-people-understood-it/4298401777113835/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8y · Public · A ZOOMED IN VERSION OF A BLINKING OBJECT DESCENDING TO EARTH. I CAUGHT THIS TODAY ON THE ISS...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Are we safe?  
-   Link: <a href="https://www.facebook.com/WhatsOnGambia/photos/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116936910478640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WhatsOnGambia/photos/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116936910478640/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On Friday, a metal ring fell on the outskirts...Jun 9, 2025 · 󰟠. Mobile uploads. Are we safe? On Friday, a metal ring fell on the outski...</p></details>
+   Link:<a href="https://www.facebook.com/WhatsOnGambia/photos/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116936910478640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WhatsOnGambia/photos/are-we-safeon-friday-a-metal-ring-fell-on-the-outskirts-of-sare-gubu-in-the-sand/1116936910478640/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Friday, a metal ring fell on the outskirts...Jun 9, 2025 · 󰟠. Mobile uploads. Are we safe? On Friday, a metal ring fell on the outski...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: world news alas ocho january 30 2026to watch a recap of gnn main news stories ca  
-   Link: <a href="https://www.facebook.com/goldennationnetwork.ph/posts/world-news-alas-ocho-january-30-2026to-watch-a-recap-of-gnn-main-news-stories-ca/1318218166988421/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/goldennationnetwork.ph/posts/world-news-alas-ocho-january-30-2026to-watch-a-recap-of-gnn-main-news-stories-ca/1318218166988421/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Golden Nation NetworkWest Africa News Ghana Ghana secures direct qualification to the 2026 World Cup despite failing to qualify for the A...</p></details>
+   Link:<a href="https://www.facebook.com/goldennationnetwork.ph/posts/world-news-alas-ocho-january-30-2026to-watch-a-recap-of-gnn-main-news-stories-ca/1318218166988421/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/goldennationnetwork.ph/posts/world-news-alas-ocho-january-30-2026to-watch-a-recap-of-gnn-main-news-stories-ca/1318218166988421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Golden Nation NetworkWest Africa News Ghana Ghana secures direct qualification to the 2026 World Cup despite failing to qualify for the A...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/aba/publications/Archived-LCSH37/F.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/aba/publications/Archived-LCSH37/F.pdf</a>  
+   Link:<a href="https://www.loc.gov/aba/publications/Archived-LCSH37/F.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/aba/publications/Archived-LCSH37/F.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wilenet.widoj.gov  
    Title: ncic code manual mar 31 2021  
-   Link: <a href="https://wilenet.widoj.gov/sites/default/files/public_files-2021-04/ncic_code_manual_mar_31_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wilenet.widoj.gov/sites/default/files/public_files-2021-04/ncic_code_manual_mar_31_2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code Manual as of March 31, 2021 - WILENETNOTE: To enter a record for an item not listed in the Article Name dictionary, use the category...</p></details>
+   Link:<a href="https://wilenet.widoj.gov/sites/default/files/public_files-2021-04/ncic_code_manual_mar_31_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wilenet.widoj.gov/sites/default/files/public_files-2021-04/ncic_code_manual_mar_31_2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code Manual as of March 31, 2021 - WILENETNOTE: To enter a record for an item not listed in the Article Name dictionary, use the category...</p></details>
    Published: March 31, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OlZfC_6b-dY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OlZfC_6b-dY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia senegal cross border aerial space debris 10 Profitable Agriculture Business Ideas which requires no farming The New Africa Wealth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OlZfC_6b-dY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OlZfC_6b-dY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gambia senegal cross border aerial space debris 10 Profitable Agriculture Business Ideas which requires no farming The New Africa Wealth...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ucjis-tac.utah.gov  
    Title: NCICCode Manual 2 1  
-   Link: <a href="https://ucjis-tac.utah.gov/wp-content/uploads/sites/38/2023/01/NCICCodeManual-2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ucjis-tac.utah.gov/wp-content/uploads/sites/38/2023/01/NCICCodeManual-2-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code Manual as of June 30, 2022NOTE: To enter a record for an item not listed in the Article Name dictionary, use the category code Y fol...</p></details>
+   Link:<a href="https://ucjis-tac.utah.gov/wp-content/uploads/sites/38/2023/01/NCICCodeManual-2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ucjis-tac.utah.gov/wp-content/uploads/sites/38/2023/01/NCICCodeManual-2-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code Manual as of June 30, 2022NOTE: To enter a record for an item not listed in the Article Name dictionary, use the category code Y fol...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iafastro.org  
    Title: IAC2025 FP TECHNICAL PROGRAMME WEB  
-   Link: <a href="https://www.iafastro.org/assets/files/events/iac/2025/IAC2025_FP_TECHNICAL-PROGRAMME_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iafastro.org/assets/files/events/iac/2025/IAC2025_FP_TECHNICAL-PROGRAMME_WEB.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FINAL PROGRAMME29 Sept 2025 — The IAC 2025 Proceedings are available on a password-protected site. The Congress participants will be prov...</p></details>
+   Link:<a href="https://www.iafastro.org/assets/files/events/iac/2025/IAC2025_FP_TECHNICAL-PROGRAMME_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iafastro.org/assets/files/events/iac/2025/IAC2025_FP_TECHNICAL-PROGRAMME_WEB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FINAL PROGRAMME29 Sept 2025 — The IAC 2025 Proceedings are available on a password-protected site. The Congress participants will be prov...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/yb/1994fy/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/yb/1994fy/report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEOLOGICAL SURVEY - USGS Publications WarehouseFrom a long- term study of contaminants in the Mississippi River. (see p. 52) to establish...</p></details>
+   Link:<a href="https://pubs.usgs.gov/yb/1994fy/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/yb/1994fy/report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEOLOGICAL SURVEY - USGS Publications WarehouseFrom a long- term study of contaminants in the Mississippi River. (see p. 52) to establish...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: github.com  
    Title: english words.py  
-   Link: <a href="https://github.com/stacks-archive/pybitcoin/blob/master/pybitcoin/passphrases/english_words.py" target="_blank" rel="noopener noreferrer nofollow">https://github.com/stacks-archive/pybitcoin/blob/master/pybitcoin/passphrases/english_words.py</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pybitcoin/pybitcoin/passphrases/english_words.py at master26 Mar 2025 — A Bitcoin python library for private + public keys, addresses, tr...</p></details>
+   Link:<a href="https://github.com/stacks-archive/pybitcoin/blob/master/pybitcoin/passphrases/english_words.py" target="_blank" rel="noopener noreferrer nofollow">https://github.com/stacks-archive/pybitcoin/blob/master/pybitcoin/passphrases/english_words.py</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pybitcoin/pybitcoin/passphrases/english_words.py at master26 Mar 2025 — A Bitcoin python library for private + public keys, addresses, tr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eecis.udel.edu  
-   Link: <a href="https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>udel.eduDictionary... Africa African Africanism Africanist Africanization Africanizations... aviation aviations aviator aviators aviator...</p></details>
+   Link:<a href="https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>udel.eduDictionary... Africa African Africanism Africanist Africanization Africanizations... aviation aviations aviator aviators aviator...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: snap.berkeley.edu  
-   Link: <a href="https://snap.berkeley.edu/project/10053261" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/10053261</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>berkeley.edu[https://snap.berkeley.edu/project/10053261](https://snap.berkeley.edu/project/10053261)... reports. Instead this block reports how many milliseconds it took to perform th...</p></details>
+   Link:<a href="https://snap.berkeley.edu/project/10053261" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/10053261</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>berkeley.edu[https://snap.berkeley.edu/project/10053261](https://snap.berkeley.edu/project/10053261)... reports. Instead this block reports how many milliseconds it took to perform th...</p></details>

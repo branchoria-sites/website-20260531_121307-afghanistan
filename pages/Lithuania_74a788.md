@@ -1194,35 +1194,35 @@ image: /assets/images/Lithuania_74a788-overview-social.jpg
 
 ## The Lithuanian UFO record is thin, but not empty
 
-Publicly accessible Lithuanian UFO material is fragmented. The National UFO Reporting Center lists 34 country-coded reports for Lithuania, with entries spread across Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys, Alytus, Telšiai and smaller localities. The list begins with early-2000s reports filed in English or broken English, and also includes later records from 2023 and 2024, some with media attachments and some with suggested explanations such as “Rocket”, “Planet/Star” or “Drone?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLithuania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Lithuania</span><span class="citation-popover-snippet">Reports for Country Lithuania</span></span></span>
+Publicly accessible Lithuanian UFO material is fragmented. The National UFO Reporting Center lists 34 country-coded reports for Lithuania, with entries spread across Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys, Alytus, Telšiai and smaller localities. The list begins with early-2000s reports filed in English or broken English, and also includes later records from 2023 and 2024, some with media attachments and some with suggested explanations such as “Rocket”, “Planet/Star” or “Drone?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLithuania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Lithuania</span><span class="citation-popover-snippet">Reports for Country Lithuania</span></span></span>
 
 <img src="{{ "/assets/images/Lithuania_74a788-overview.webp" | relative_url }}" alt="Overview image for What Lithuania&#x27;s UFO Reports Really Show" loading="eager" decoding="sync" fetchpriority="high">
-That pattern matters. It suggests that Lithuania’s UFO record is not organised around a single nationally famous case, but around scattered witness reports: lights, discs, triangles, ovals, formations and “unknown” objects. NUFORC’s Lithuania table includes coastal sightings near Klaipėda and Juodkrantė, inland reports from Kaunas and Vilnius, and more rural or district-level entries from places such as Perloja, Bubiai and Elniškiai. This is useful for a case index, but it is not the same as a verified incident archive. Most entries are short witness submissions, often without corroborating radar, official investigation records, image metadata, chain of custody or independent follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+That pattern matters. It suggests that Lithuania’s UFO record is not organised around a single nationally famous case, but around scattered witness reports: lights, discs, triangles, ovals, formations and “unknown” objects. NUFORC’s Lithuania table includes coastal sightings near Klaipėda and Juodkrantė, inland reports from Kaunas and Vilnius, and more rural or district-level entries from places such as Perloja, Bubiai and Elniškiai. This is useful for a case index, but it is not the same as a verified incident archive. Most entries are short witness submissions, often without corroborating radar, official investigation records, image metadata, chain of custody or independent follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 The practical conclusion is sober: Lithuania has a recognisable UFO-reporting footprint, but its open record is mostly anecdotal. It is strong enough to show recurring public interest and regional spread, yet too weak to support confident claims about extraordinary aircraft, non-human technology or a hidden national UFO programme.
 
 ## The 1996 Nemežis case is the closest thing to a classic Lithuanian incident
 
-The best-known Lithuanian case in international UFO files is the 25 June 1996 sighting near Nemežis, close to Vilnius. A CIA-indexed news translation, sourced to the Moscow ITAR-TASS World Service and attributed to a report by Vladas Burbulis, described police officers seeing a spherical object near the Lithuanian border. The object was reportedly “hanging” and “pulsing”, alternately shrinking and expanding, accompanied by a crackling electrical or electronic sound, and observed for about half an hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
+The best-known Lithuanian case in international UFO files is the 25 June 1996 sighting near Nemežis, close to Vilnius. A CIA-indexed news translation, sourced to the Moscow ITAR-TASS World Service and attributed to a report by Vladas Burbulis, described police officers seeing a spherical object near the Lithuanian border. The object was reportedly “hanging” and “pulsing”, alternately shrinking and expanding, accompanied by a crackling electrical or electronic sound, and observed for about half an hour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
 
-This case is interesting because it has more institutional texture than an ordinary witness report. The summary says police officers were involved, and the title refers to a rapid reaction force being alerted. That gives the case a higher evidential starting point than anonymous online reports, because it implies that at least some authorities treated the event as operationally noteworthy at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
+This case is interesting because it has more institutional texture than an ordinary witness report. The summary says police officers were involved, and the title refers to a rapid reaction force being alerted. That gives the case a higher evidential starting point than anonymous online reports, because it implies that at least some authorities treated the event as operationally noteworthy at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
 
 Yet the case still falls short of being strong evidence. The available public version is a news translation, not a full Lithuanian investigative file with witness interviews, logs, radar plots, photographs, recovered material or a formal conclusion. The phrase “near the Lithuanian border” also needs caution: Nemežis is near Vilnius, and the surviving international summary is mediated through Russian-language wire reporting and later archive indexing. The case is therefore best classified as **contested but historically significant**: important within Lithuania’s UFO chronology, but not confirmed as anything beyond an unidentified report involving police witnesses.
 
 <img src="{{ "/assets/images/Lithuania_74a788-Illustration-1-dark.svg" | relative_url }}" alt="What Lithuania&#x27;s UFO Reports Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Lithuania_74a788-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lithuania_74a788-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Vilnius dominates the modern sighting pattern
 
-Vilnius appears repeatedly in Lithuania’s modern UFO material for an obvious reason: it has the country’s largest concentration of witnesses, media outlets, airports, government sites and social-media communities. In October 2023, Made in Vilnius reported a reader account from Antakalnis describing three bright points seen around 23:00, apparently moving in formation and later flashing. Other residents reportedly discussed similar lights from several north-eastern parts of the city, including areas near Valakampiai Bridge and Žirmūnai. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Vilnius appears repeatedly in Lithuania’s modern UFO material for an obvious reason: it has the country’s largest concentration of witnesses, media outlets, airports, government sites and social-media communities. In October 2023, Made in Vilnius reported a reader account from Antakalnis describing three bright points seen around 23:00, apparently moving in formation and later flashing. Other residents reportedly discussed similar lights from several north-eastern parts of the city, including areas near Valakampiai Bridge and Žirmūnai.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same report shows both the value and limits of local-source UFO coverage. It checked civil aviation movements using Flightradar24 and noted that no civil aircraft were recorded flying, landing or taking off in the relevant districts at the stated time; it also referred to Stellarium, an astronomy program, and said no matching group of bright celestial objects was found. But the article did not establish a final identification. Commenters and witnesses suggested possibilities including drones, military activity, sky lanterns or celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same report shows both the value and limits of local-source UFO coverage. It checked civil aviation movements using Flightradar24 and noted that no civil aircraft were recorded flying, landing or taking off in the relevant districts at the stated time; it also referred to Stellarium, an astronomy program, and said no matching group of bright celestial objects was found. But the article did not establish a final identification. Commenters and witnesses suggested possibilities including drones, military activity, sky lanterns or celestial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is a typical urban UFO pattern: multiple people see lights, ordinary explanations are considered, some are weakened, but the available evidence still does not pin down the source. In a city like Vilnius, plausible candidates include consumer drones, police or military aircraft, reflected lights, lanterns, satellites, aircraft outside the immediate checked area, advertising or event lighting, and simple distance misjudgement. The 2023 Vilnius case is therefore **unresolved in the public record**, not “confirmed extraordinary”.
 
 ## Kaunas, Šiauliai and the regions show why location matters
 
-Lithuania’s regional UFO reports look different depending on where they are made. Kaunas appears frequently in NUFORC’s table, including reports of formations, discs, unusual lights and short-duration fast-moving objects. One 2014 Kaunas report described about seven grey lights moving quickly in changing formation for six to ten seconds, but NUFORC noted that the witness remained totally anonymous and provided no contact information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=112437" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Lithuania’s regional UFO reports look different depending on where they are made. Kaunas appears frequently in NUFORC’s table, including reports of formations, discs, unusual lights and short-duration fast-moving objects. One 2014 Kaunas report described about seven grey lights moving quickly in changing formation for six to ten seconds, but NUFORC noted that the witness remained totally anonymous and provided no contact information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=112437" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Šiauliai and its surrounding region deserve separate attention because Šiauliai is associated with military aviation activity, including NATO air policing in the Baltic region. That does not mean every report there is military; it means observers in the area are more likely to see aircraft, training activity or unusual lighting conditions connected with aviation. NUFORC includes a 1990 retrospective report from multiple places around Kelmė, Aukštelkė and Šiauliai describing a disc-like object, but it was reported only in 2023, more than three decades after the stated event. Such a delay makes memory contamination, local retelling and missing context harder to control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=176869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Šiauliai and its surrounding region deserve separate attention because Šiauliai is associated with military aviation activity, including NATO air policing in the Baltic region. That does not mean every report there is military; it means observers in the area are more likely to see aircraft, training activity or unusual lighting conditions connected with aviation. NUFORC includes a 1990 retrospective report from multiple places around Kelmė, Aukštelkė and Šiauliai describing a disc-like object, but it was reported only in 2023, more than three decades after the stated event. Such a delay makes memory contamination, local retelling and missing context harder to control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=176869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Coastal and rural reports have their own problems. Near the coast, distant aircraft, maritime lights, atmospheric refraction and event lighting can be misread as objects in the sky. In rural areas, fewer reference points can make height, distance and speed harder to judge. This is why a regional map of sightings is useful, but it should not be read as a map of “UFO activity”. It is also a map of population density, airports, military zones, weather, visibility, cultural reporting habits and the presence or absence of local media.
 
@@ -1230,11 +1230,11 @@ Coastal and rural reports have their own problems. Near the coast, distant aircr
 
 ## Several Lithuanian cases are already partly explained
 
-A healthy Lithuanian UFO page needs a debunking column, because some of the most instructive cases are not the most mysterious ones. NUFORC’s recent Lithuania entries include explicit or suggested explanations. A 10 July 2024 report from Elniškiai in Panevėžys County is marked “Rocket - Probable”. A 4 November 2024 report from Bubiai in Šiauliai County is marked “Planet/Star - Possible”. A retrospective Perloja report from 2015, filed in 2024, is marked “Drone - Possible”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A healthy Lithuanian UFO page needs a debunking column, because some of the most instructive cases are not the most mysterious ones. NUFORC’s recent Lithuania entries include explicit or suggested explanations. A 10 July 2024 report from Elniškiai in Panevėžys County is marked “Rocket - Probable”. A 4 November 2024 report from Bubiai in Šiauliai County is marked “Planet/Star - Possible”. A retrospective Perloja report from 2015, filed in 2024, is marked “Drone - Possible”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Those labels should not be treated as courtroom verdicts, but they show how ordinary explanations enter the record. A rocket or re-entry can produce a bright, slow-changing or plume-like object over a wide area. A planet or bright star can appear to move when viewed through clouds, tree branches or from different observer positions. A small drone can make a brief sound and flash past at low level before the witness has time to identify it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Those labels should not be treated as courtroom verdicts, but they show how ordinary explanations enter the record. A rocket or re-entry can produce a bright, slow-changing or plume-like object over a wide area. A planet or bright star can appear to move when viewed through clouds, tree branches or from different observer positions. A small drone can make a brief sound and flash past at low level before the witness has time to identify it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The clearest public debunking example is not a NUFORC case, but a 2025 Lithuanian sky-photo story from the Anykščiai area. Residents reportedly debated whether a glowing vertical object might be a UFO, alien sign or missile trail. Local weather observers explained it instead as a light pillar: an optical effect caused when intense artificial light, in this case linked to brightly lit greenhouse complexes, reflects from ice crystals in the atmosphere. The article also noted similar effects near Elektrėnai and Kietaviškis greenhouses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest public debunking example is not a NUFORC case, but a 2025 Lithuanian sky-photo story from the Anykščiai area. Residents reportedly debated whether a glowing vertical object might be a UFO, alien sign or missile trail. Local weather observers explained it instead as a light pillar: an optical effect caused when intense artificial light, in this case linked to brightly lit greenhouse complexes, reflects from ice crystals in the atmosphere. The article also noted similar effects near Elektrėnai and Kietaviškis greenhouses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That example is especially valuable because it is a near-perfect UFO lesson: the sight was visually striking, the public interpretation was initially open-ended, and the explanation required local knowledge of both weather and artificial lighting. It shows why the most reliable UFO analysis in Lithuania will often come from combining witness testimony with meteorology, astronomy, aviation data and local infrastructure knowledge.
 
@@ -1242,22 +1242,22 @@ That example is especially valuable because it is a near-perfect UFO lesson: the
 
 In older UFO culture, “unidentified flying object” often suggested strange lights or craft-like shapes. In Lithuania today, the word “unidentified” can also mean a live safety problem: a drone, balloon, smuggling device or radar contact whose origin is not yet established. This shift is crucial because Lithuania sits on NATO’s eastern flank, borders Belarus and the Russian exclave of Kaliningrad, and has had repeated airspace-security incidents.
 
-In May 2026, LRT reported that Lithuania’s armed forces activated the NATO air policing mission and issued an air alert in Vilnius after a suspected drone was detected near the border. The alert covered eastern districts including Ignalina, Utena, Zarasai and Švenčionys before being extended to Vilnius and its surrounding region. Officials said the object was detected by Lithuanian and Latvian military radars; NATO jets were scrambled from Ämari air base in Estonia, but no hostile aircraft was visually identified, and the object disappeared from radar near Merkinė. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In May 2026, LRT reported that Lithuania’s armed forces activated the NATO air policing mission and issued an air alert in Vilnius after a suspected drone was detected near the border. The alert covered eastern districts including Ignalina, Utena, Zarasai and Švenčionys before being extended to Vilnius and its surrounding region. Officials said the object was detected by Lithuanian and Latvian military radars; NATO jets were scrambled from Ämari air base in Estonia, but no hostile aircraft was visually identified, and the object disappeared from radar near Merkinė.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This incident belongs in a Lithuania UFO page only if handled carefully. It is not a “UFO case” in the classic extraterrestrial sense. It is a modern unidentified aerial incident: radar-tracked, security-relevant, and treated through military and civil-defence procedures. Its importance is that it shows how quickly unidentified aerial objects in Lithuania can become public-safety events involving shelters, airspace closure and transport disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This incident belongs in a Lithuania UFO page only if handled carefully. It is not a “UFO case” in the classic extraterrestrial sense. It is a modern unidentified aerial incident: radar-tracked, security-relevant, and treated through military and civil-defence procedures. Its importance is that it shows how quickly unidentified aerial objects in Lithuania can become public-safety events involving shelters, airspace closure and transport disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The balloon problem is even more concrete. In 2025, Vilnius Airport faced repeated closures after unmanned helium balloons from Belarus entered Lithuanian airspace, many reportedly carrying smuggled cigarettes. Flightradar24 reported that in October 2025 alone Vilnius Airport closed at least six times, with inbound flights diverted to Kaunas, Riga and Warsaw and departures suspended. The same account noted recovered balloons carrying more than 18,000 packs of cigarettes and described the official framing as a hybrid threat combining smuggling with geopolitical pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/blog/aviation-news/aviation-safety/vilnius-airport-closed-ballons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">Why Vilnius Airport Keeps Closing &#124; Flightradar24 Blog</span><span class="citation-popover-snippet">Why Vilnius Airport Keeps Closing &#124; Flightradar24 Blog</span></span></span>
+The balloon problem is even more concrete. In 2025, Vilnius Airport faced repeated closures after unmanned helium balloons from Belarus entered Lithuanian airspace, many reportedly carrying smuggled cigarettes. Flightradar24 reported that in October 2025 alone Vilnius Airport closed at least six times, with inbound flights diverted to Kaunas, Riga and Warsaw and departures suspended. The same account noted recovered balloons carrying more than 18,000 packs of cigarettes and described the official framing as a hybrid threat combining smuggling with geopolitical pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/blog/aviation-news/aviation-safety/vilnius-airport-closed-ballons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">Why Vilnius Airport Keeps Closing &#124; Flightradar24 Blog</span><span class="citation-popover-snippet">Why Vilnius Airport Keeps Closing &#124; Flightradar24 Blog</span></span></span>
 
 For UFO researchers, the lesson is straightforward: in Lithuania, “mysterious objects” near airports or borders now require a security-first reading. Balloons and drones may look strange, may be unidentified at first, and may generate rumours, but they often have terrestrial explanations tied to smuggling, surveillance, navigation failure, electronic warfare or military alert procedures.
 
 <img src="{{ "/assets/images/Lithuania_74a788-Illustration-2-dark.svg" | relative_url }}" alt="What Lithuania&#x27;s UFO Reports Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/Lithuania_74a788-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lithuania_74a788-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records exist, but not as a dedicated Lithuanian UFO archive
 
-There is no strong public evidence of a central, declassified Lithuanian government UFO programme equivalent to Britain’s former Ministry of Defence UFO desk or France’s official GEIPAN system. The clearest official-adjacent record for Lithuania is the CIA-indexed 1996 Nemežis news translation, but that is a foreign intelligence archive preserving a translated media report, not a Lithuanian investigative archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
+There is no strong public evidence of a central, declassified Lithuanian government UFO programme equivalent to Britain’s former Ministry of Defence UFO desk or France’s official GEIPAN system. The clearest official-adjacent record for Lithuania is the CIA-indexed 1996 Nemežis news translation, but that is a foreign intelligence archive preserving a translated media report, not a Lithuanian investigative archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
 
-Modern Lithuanian official material is more useful for identifying mundane explanations and airspace constraints than for validating UFO claims. Oro Navigacija, Lithuania’s air navigation service provider, explains that Lithuanian drone geozones are designed to protect civil aviation, military and strategic objects, the public and privacy. It identifies prohibited zones, restricted zones, special operations zones and U-Space zones, and says approved geozones are published on the UTM platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ans.lt">[Ans.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ans.lt</span><span class="citation-popover-title">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span><span class="citation-popover-snippet">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span></span></span>
+Modern Lithuanian official material is more useful for identifying mundane explanations and airspace constraints than for validating UFO claims. Oro Navigacija, Lithuania’s air navigation service provider, explains that Lithuanian drone geozones are designed to protect civil aviation, military and strategic objects, the public and privacy. It identifies prohibited zones, restricted zones, special operations zones and U-Space zones, and says approved geozones are published on the UTM platform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ans.lt">[Ans.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ans.lt</span><span class="citation-popover-title">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span><span class="citation-popover-snippet">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span></span></span>
 
-Lithuanian Airports also states that drone flights around Vilnius, Kaunas and Palanga aerodromes require additional procedures and approvals, with applications handled through the UTM system. The same guidance explains that the UTM platform lets operators view geozones, determine whether a permit is required, submit flight plans and coordinate with agencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ltou.lt/en/engagement-and-public-relations/dronu-valdytojams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltou.lt">[LTOU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltou.lt</span><span class="citation-popover-title">Drone operators</span><span class="citation-popover-snippet">Drone operators</span></span></span>
+Lithuanian Airports also states that drone flights around Vilnius, Kaunas and Palanga aerodromes require additional procedures and approvals, with applications handled through the UTM system. The same guidance explains that the UTM platform lets operators view geozones, determine whether a permit is required, submit flight plans and coordinate with agencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ltou.lt/en/engagement-and-public-relations/dronu-valdytojams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltou.lt">[LTOU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltou.lt</span><span class="citation-popover-title">Drone operators</span><span class="citation-popover-snippet">Drone operators</span></span></span>
 
 These sources matter because many contemporary UFO reports are really airspace-identification questions. A light over Vilnius, Kaunas or Palanga may be a legal drone, an illegal drone, a police or military operation, a permitted inspection flight, an aircraft in controlled airspace, or an object violating a restricted zone. Without checking those systems, a witness report remains incomplete.
 
@@ -1265,11 +1265,11 @@ These sources matter because many contemporary UFO reports are really airspace-i
 
 A reader-friendly Lithuania UFO file should avoid treating all sightings equally. The evidence naturally falls into three groups.
 
-**Confirmed ordinary or probable ordinary cases.** These include the Anykščiai-area light pillar explained by weather observers as artificial light reflecting from ice crystals, and NUFORC entries where the database itself records probable or possible explanations such as rocket, planet/star or drone. These cases are useful not because they prove something exotic, but because they show the kinds of ordinary events that can look extraordinary under Lithuanian sky conditions. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=135480" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Confirmed ordinary or probable ordinary cases.** These include the Anykščiai-area light pillar explained by weather observers as artificial light reflecting from ice crystals, and NUFORC entries where the database itself records probable or possible explanations such as rocket, planet/star or drone. These cases are useful not because they prove something exotic, but because they show the kinds of ordinary events that can look extraordinary under Lithuanian sky conditions. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=135480" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Contested or unresolved witness reports.** This group includes the 2023 Vilnius three-light report and many short NUFORC entries from Vilnius, Kaunas, Klaipėda and other regions. Some include multiple witnesses or basic checks against flight and sky data; others are anonymous, delayed, brief or unsupported. They are legitimate reports of unidentified observations, but not strong evidence of extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested or unresolved witness reports.** This group includes the 2023 Vilnius three-light report and many short NUFORC entries from Vilnius, Kaunas, Klaipėda and other regions. Some include multiple witnesses or basic checks against flight and sky data; others are anonymous, delayed, brief or unsupported. They are legitimate reports of unidentified observations, but not strong evidence of extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Security-relevant unidentified aerial incidents.** Recent drone and balloon events sit in a different category. They may begin as unidentified objects, but they are investigated through air defence, border security, aviation safety and crisis-management systems. The May 2026 suspected drone alert and the 2025 balloon disruptions show how Lithuania’s practical concern has shifted from “What did a witness see?” to “Does this object threaten airspace, infrastructure or civilians?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Security-relevant unidentified aerial incidents.** Recent drone and balloon events sit in a different category. They may begin as unidentified objects, but they are investigated through air defence, border security, aviation safety and crisis-management systems. The May 2026 suspected drone alert and the 2025 balloon disruptions show how Lithuania’s practical concern has shifted from “What did a witness see?” to “Does this object threaten airspace, infrastructure or civilians?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This classification is more useful than a simple believer-versus-sceptic split. It lets the Lithuania page connect older ufology, local witness culture and modern airspace security without confusing them.
 
@@ -1279,11 +1279,11 @@ This classification is more useful than a simple believer-versus-sceptic split. 
 
 Lithuania’s UFO material does not support a strong claim of alien visitation, crashed craft, recovered technology or a systematic state cover-up. The public evidence is too thin, too scattered and too often dependent on short witness accounts. But the record is still worth studying because it shows how unidentified aerial phenomena behave as a social and technical problem in a smaller European state.
 
-First, Lithuania demonstrates how a single stronger case can dominate a thin archive. The 1996 Nemežis police report remains notable because of its official flavour and unusual description, but its evidential ceiling is limited by the lack of a full public case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
+First, Lithuania demonstrates how a single stronger case can dominate a thin archive. The 1996 Nemežis police report remains notable because of its official flavour and unusual description, but its evidential ceiling is limited by the lack of a full public case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hatch.kookscience.com">[Hatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hatch.kookscience.com</span><span class="citation-popover-title">Hatch CIA UFO Files</span><span class="citation-popover-snippet">Hatch CIA UFO Files</span></span></span>
 
-Second, Lithuania shows how urban UFO reports can remain unresolved without becoming extraordinary. The 2023 [Vilnius lights]({{ 'vilnius-lights/' | relative_url }}) were checked against civil flight movements and basic sky-position tools, yet no firm answer emerged. That is a common endpoint in UFO research: not “explained”, but also not “evidence of non-human craft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Second, Lithuania shows how urban UFO reports can remain unresolved without becoming extraordinary. The 2023 [Vilnius lights]({{ 'vilnius-lights/' | relative_url }}) were checked against civil flight movements and basic sky-position tools, yet no firm answer emerged. That is a common endpoint in UFO research: not “explained”, but also not “evidence of non-human craft”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madeinvilnius.lt">[MadeinVilnius.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madeinvilnius.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Third, Lithuania is a strong example of the new European UAP environment, where drones, balloons, GPS interference, border tensions and airport safety can generate public alerts that look, at first glance, like UFO stories. In this setting, the most important investigators are often not ufologists but air navigation authorities, military radar operators, airport staff, meteorologists and crisis-management officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ans.lt">[Ans.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ans.lt</span><span class="citation-popover-title">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span><span class="citation-popover-snippet">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span></span></span>
+Third, Lithuania is a strong example of the new European UAP environment, where drones, balloons, GPS interference, border tensions and airport safety can generate public alerts that look, at first glance, like UFO stories. In this setting, the most important investigators are often not ufologists but air navigation authorities, military radar operators, airport staff, meteorologists and crisis-management officials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrt.lt">[Lietuvos Radijas ir Televizija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrt.lt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ans.lt">[Ans.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ans.lt</span><span class="citation-popover-title">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span><span class="citation-popover-snippet">Unmanned aerial vehicles (drones) &#124; Oro navigacija, AB</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r8at5BQo2i0" title="“We Cannot Say” — Lithuania Says Origin of Drone ‘Not Known’ After Incursion | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r8at5BQo2i0" target="_blank" rel="noopener noreferrer">“We Cannot Say” — Lithuania Says Origin of Drone ‘Not Known’ After Incursion | APT</a></p><p class="youtube-embed-meta">Channel: APT &middot; Views: 369 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r8at5BQo2i0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r8at5BQo2i0">Open on YouTube</a></p></div></div></div>
 
@@ -1296,194 +1296,194 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
 <img src="{{ "/assets/images/Lithuania_74a788-Illustration-3-dark.svg" | relative_url }}" alt="What Lithuania&#x27;s UFO Reports Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Lithuania_74a788-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lithuania_74a788-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Lithuania&#x27;s UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Lithuania&#x27;s UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding recurring patterns in international UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding recurring patterns in international UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO cases are assessed and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO cases are assessed and classified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for official and semi-official UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official and semi-official UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on evaluating real-world reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on evaluating real-world reports and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-lithuania-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-lithuania-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1499,7 +1499,7 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1519,7 +1519,7 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1551,7 +1551,7 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1603,7 +1603,7 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1648,7 +1648,7 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1686,150 +1686,149 @@ Compared with countries that have large public UFO bureaucracies, Lithuania’s 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Lithuania  
-   Link: <a href="https://nuforc.org/subndx/?id=cLithuania" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLithuania</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cLithuania" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLithuania</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lrt.lt  
-   Link: <a href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M</a>  
+   Link:<a href="https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/en/news-in-english/19/2934073/air-alert-in-vilnius-lifted-following-drone-sighting-in-border-regions?srsltid=AfmBOopy03EhRX119Noig7Cn9katwQSCCnM0vadDj6WVnXbPX2hGzr_M</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: madeinvilnius.lt  
-   Link: <a href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow">https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/</a>  
+   Link:<a href="https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/" target="_blank" rel="noopener noreferrer nofollow">https://madeinvilnius.lt/en/the-voice-of-Vilnius/In-Vilnius%2C-there-are-videos-that-are-recorded-even-in-several-micro-districts/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=112437" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=112437</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=112437" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=112437</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=176869" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176869</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=176869" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176869</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=182221" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182221</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=182221" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182221</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184840" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184840</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184840" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184840</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185361" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185361</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185361" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185361</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: madeinvilnius.lt  
-   Link: <a href="https://madeinvilnius.lt/en/weather-in-Vilnius/Mysterious-pillar-of-light-captured-in-Lithuanian-sky--what-was-it-really/" target="_blank" rel="noopener noreferrer nofollow">https://madeinvilnius.lt/en/weather-in-Vilnius/Mysterious-pillar-of-light-captured-in-Lithuanian-sky--what-was-it-really/</a>  
+   Link:<a href="https://madeinvilnius.lt/en/weather-in-Vilnius/Mysterious-pillar-of-light-captured-in-Lithuanian-sky--what-was-it-really/" target="_blank" rel="noopener noreferrer nofollow">https://madeinvilnius.lt/en/weather-in-Vilnius/Mysterious-pillar-of-light-captured-in-Lithuanian-sky--what-was-it-really/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightradar24.com  
    Title: Why Vilnius Airport Keeps Closing | Flightradar24 Blog  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-news/aviation-safety/vilnius-airport-closed-ballons/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-news/aviation-safety/vilnius-airport-closed-ballons/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/aviation-news/aviation-safety/vilnius-airport-closed-ballons/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-news/aviation-safety/vilnius-airport-closed-ballons/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ans.lt  
    Title: Unmanned aerial vehicles (drones) | Oro navigacija, AB  
-   Link: <a href="https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones</a>  
+   Link:<a href="https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.ans.lt/en/services/unmanned-aerial-vehicles-drones</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ltou.lt  
    Title: Drone operators  
-   Link: <a href="https://ltou.lt/en/engagement-and-public-relations/dronu-valdytojams/" target="_blank" rel="noopener noreferrer nofollow">https://ltou.lt/en/engagement-and-public-relations/dronu-valdytojams/</a>  
+   Link:<a href="https://ltou.lt/en/engagement-and-public-relations/dronu-valdytojams/" target="_blank" rel="noopener noreferrer nofollow">https://ltou.lt/en/engagement-and-public-relations/dronu-valdytojams/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=26125" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=26125</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=26125" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=26125</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=135480" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135480</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=135480" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135480</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e201708" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e201708</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e201708" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e201708</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: utm.ans.lt  
-   Link: <a href="https://utm.ans.lt/avm/" target="_blank" rel="noopener noreferrer nofollow">https://utm.ans.lt/avm/</a>  
+   Link:<a href="https://utm.ans.lt/avm/" target="_blank" rel="noopener noreferrer nofollow">https://utm.ans.lt/avm/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
+   Link:<a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000098713.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lrt.lt  
-   Link: <a href="https://www.lrt.lt/en/news-in-english/19/2400518/lithuania-set-to-certify-first-of-its-kind-drone-traffic-management-app-in-europe?srsltid=AfmBOopsrSIGFtVWF9z9l2OMCnydV4ybodiu1X60XcGXzmWhrRVqKuqY" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/en/news-in-english/19/2400518/lithuania-set-to-certify-first-of-its-kind-drone-traffic-management-app-in-europe?srsltid=AfmBOopsrSIGFtVWF9z9l2OMCnydV4ybodiu1X60XcGXzmWhrRVqKuqY</a>  
+   Link:<a href="https://www.lrt.lt/en/news-in-english/19/2400518/lithuania-set-to-certify-first-of-its-kind-drone-traffic-management-app-in-europe?srsltid=AfmBOopsrSIGFtVWF9z9l2OMCnydV4ybodiu1X60XcGXzmWhrRVqKuqY" target="_blank" rel="noopener noreferrer nofollow">https://www.lrt.lt/en/news-in-english/19/2400518/lithuania-set-to-certify-first-of-its-kind-drone-traffic-management-app-in-europe?srsltid=AfmBOopsrSIGFtVWF9z9l2OMCnydV4ybodiu1X60XcGXzmWhrRVqKuqY</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hatch.kookscience.com  
    Title: Hatch CIA UFO Files  
-   Link: <a href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://hatch.kookscience.com/wiki/CIA_UFO_Files</a>  
+   Link:<a href="https://hatch.kookscience.com/wiki/CIA_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://hatch.kookscience.com/wiki/CIA_UFO_Files</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eaglepubs.erau.edu  
-   Link: <a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/lithuania/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/lithuania/</a>  
+   Link:<a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/lithuania/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/lithuania/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Lithuania issues shelter order after drone triggers security alert  
-   Link: <a href="https://www.youtube.com/watch?v=eBX77ZL0LMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBX77ZL0LMY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lithuania Says Origin of Drone &#x27;Not Known&#x27; After Incursion | APT...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eBX77ZL0LMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBX77ZL0LMY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lithuania Says Origin of Drone &#x27;Not Known&#x27; After Incursion | APT...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Lithuania Says Origin of Drone 'Not Known' After Incursion | APT  
-   Link: <a href="https://www.youtube.com/watch?v=r8at5BQo2i0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r8at5BQo2i0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police Confirmed UFO Sighting | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r8at5BQo2i0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r8at5BQo2i0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police Confirmed UFO Sighting | National Geographic...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GByuBv53bSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GByuBv53bSY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lithuania issues shelter order after drone triggers security alert...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GByuBv53bSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GByuBv53bSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lithuania issues shelter order after drone triggers security alert...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/lithuania-has-declared-a-state-of-emergency-following-repeated-air-traffic-disru/1275257517981766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/lithuania-has-declared-a-state-of-emergency-following-repeated-air-traffic-disru/1275257517981766/</a>  
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/lithuania-has-declared-a-state-of-emergency-following-repeated-air-traffic-disru/1275257517981766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/lithuania-has-declared-a-state-of-emergency-following-repeated-air-traffic-disru/1275257517981766/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/333752848/185-ezine-185" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/333752848/185-ezine-185</a>  
+   Link:<a href="https://www.scribd.com/document/333752848/185-ezine-185" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/333752848/185-ezine-185</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PUBG/comments/6myq1x/aliens_in_pubg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PUBG/comments/6myq1x/aliens_in_pubg/</a>  
+   Link:<a href="https://www.reddit.com/r/PUBG/comments/6myq1x/aliens_in_pubg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PUBG/comments/6myq1x/aliens_in_pubg/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DV66-6qEX28/?hl=ar&amp;img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV66-6qEX28/?hl=ar&amp;img_index=7</a>  
+   Link:<a href="https://www.instagram.com/p/DV66-6qEX28/?hl=ar&amp;img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV66-6qEX28/?hl=ar&amp;img_index=7</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/irishleftwithukraine/posts/1273163211497652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/irishleftwithukraine/posts/1273163211497652/</a>  
+   Link:<a href="https://www.facebook.com/groups/irishleftwithukraine/posts/1273163211497652/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/irishleftwithukraine/posts/1273163211497652/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-lithuania/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-lithuania/</a>
+   Link:<a href="https://uavcoach.com/drone-laws-in-lithuania/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-lithuania/</a>

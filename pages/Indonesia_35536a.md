@@ -1194,49 +1194,49 @@ image: /assets/images/Indonesia_35536a-overview-social.jpg
 
 ## Introduction
 
-The most useful Indonesian cases are not the most spectacular ones. They are the ones that show how the phenomenon travels through local media, astronomy, aviation, folklore, photography, and online communities: the Alor story of 1959, the Surabaya reports during the Indonesia–Malaysia confrontation, the Mount Agung and Cilamaya photographs, the 2011 Yogyakarta [crop circle]({{ 'crop-circle/' | relative_url }}), and the work of BETA-UFO as a civilian collector of reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
+The most useful Indonesian cases are not the most spectacular ones. They are the ones that show how the phenomenon travels through local media, astronomy, aviation, folklore, photography, and online communities: the Alor story of 1959, the Surabaya reports during the Indonesia–Malaysia confrontation, the Mount Agung and Cilamaya photographs, the 2011 Yogyakarta [crop circle]({{ 'crop-circle/' | relative_url }}), and the work of BETA-UFO as a civilian collector of reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
 
 <img src="{{ "/assets/images/Indonesia_35536a-overview.webp" | relative_url }}" alt="Overview image for What Indonesia&#x27;s UFO Record Really Shows" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Indonesia’s UFO record is unusually fragmented
 
 Indonesia’s geography makes UFO reporting difficult to compare with countries that have a single dominant media and archival centre. Sightings have been reported from Java, Bali, Sumatra, Sulawesi, Kalimantan, East Nusa Tenggara, and Papua-adjacent regions, but the documentation varies sharply by place. Java produces the densest accessible record because it has the largest concentration of media outlets, universities, amateur astronomy groups, internet communities, and BETA-UFO activity. Bali appears repeatedly because of tourism and photography. Remote eastern cases, such as Alor and Pantar, are culturally memorable but much harder to verify because they depend heavily on later retellings.
 
-A simple list of alleged Indonesian sightings includes reports from Sumatra in 1942, Medan and Malang in 1953, Alor and Pantar in 1959, Jakarta and Surabaya in the 1960s, Mount Agung in 1973, Cilamaya in 1975, Porong in 1977, Tarakan in the mid-1980s, Mount Salak in 1998, Denpasar in 2000, Pekanbaru in 2007, Padang in 2009, Seminyak in 2011, and Sanga-Sanga in 2015. That spread is useful as a map of reporting, not as a map of confirmed anomalous craft. The entries range from historic newspaper items and photograph claims to web-era eyewitness submissions and media stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Indonesia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Indonesia</span><span class="citation-popover-snippet">UFO sightings in Indonesia</span></span></span>
+A simple list of alleged Indonesian sightings includes reports from Sumatra in 1942, Medan and Malang in 1953, Alor and Pantar in 1959, Jakarta and Surabaya in the 1960s, Mount Agung in 1973, Cilamaya in 1975, Porong in 1977, Tarakan in the mid-1980s, Mount Salak in 1998, Denpasar in 2000, Pekanbaru in 2007, Padang in 2009, Seminyak in 2011, and Sanga-Sanga in 2015. That spread is useful as a map of reporting, not as a map of confirmed anomalous craft. The entries range from historic newspaper items and photograph claims to web-era eyewitness submissions and media stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Indonesia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Indonesia</span><span class="citation-popover-snippet">UFO sightings in Indonesia</span></span></span>
 
 The strongest pattern is not “UFOs prefer one Indonesian region”. It is that reports cluster where three things coincide: witnesses with access to media, a cultural vocabulary for calling something a UFO, and a later group willing to preserve the story. This matters because Indonesia’s UFO history can look more coherent than it is. A case preserved by BETA-UFO, cited in a newspaper, then repeated on social media may seem like three independent confirmations when it is often one original report moving through several channels.
 
 ## The Salatun thread: the closest Indonesia has to an official UFO tradition
 
-The central figure in Indonesian UFO history is Raden Jacob [Salatun]({{ 'salatun/' | relative_url }}), an Indonesian Air Force officer associated with the founding of the National Institute of Aeronautics and Space, commonly known by its former acronym LAPAN. Salatun wrote early Indonesian UFO books, including a 1960 work on flying saucers, and later became a reference point for Indonesian enthusiasts who wanted the subject treated as a serious aerospace and security question rather than only as fantasy or folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AMenjingkap_Rahasia_Piring_Terbang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Menjingkap Rahasia Piring Terbang.pdf</span><span class="citation-popover-snippet">Commons File:Menjingkap Rahasia Piring Terbang.pdf</span></span></span>
+The central figure in Indonesian UFO history is Raden Jacob [Salatun]({{ 'salatun/' | relative_url }}), an Indonesian Air Force officer associated with the founding of the National Institute of Aeronautics and Space, commonly known by its former acronym LAPAN. Salatun wrote early Indonesian UFO books, including a 1960 work on flying saucers, and later became a reference point for Indonesian enthusiasts who wanted the subject treated as a serious aerospace and security question rather than only as fantasy or folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AMenjingkap_Rahasia_Piring_Terbang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Menjingkap Rahasia Piring Terbang.pdf</span><span class="citation-popover-snippet">Commons File:Menjingkap Rahasia Piring Terbang.pdf</span></span></span>
 
-Salatun’s importance should not be overstated. His writings and status gave Indonesian UFO study prestige, but they did not create a transparent government archive of case files, radar records, pilot reports, or technical analyses. The historical record is closer to a respected aerospace figure taking the subject seriously than to an Indonesian state confirmation of non-human technology. BETA-UFO and later enthusiasts inherited this “serious investigation” posture, often presenting Salatun as a founding patron rather than as a source of conclusive proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
+Salatun’s importance should not be overstated. His writings and status gave Indonesian UFO study prestige, but they did not create a transparent government archive of case files, radar records, pilot reports, or technical analyses. The historical record is closer to a respected aerospace figure taking the subject seriously than to an Indonesian state confirmation of non-human technology. BETA-UFO and later enthusiasts inherited this “serious investigation” posture, often presenting Salatun as a founding patron rather than as a source of conclusive proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
 
-This distinction is essential. In the United States, “official UFO files” usually means declassified military or intelligence documents. In Indonesia, the closest equivalent is more diffuse: Salatun’s writings, later civilian archives, media stories, and occasional statements by LAPAN scientists. Since 2021, LAPAN itself has no longer existed as a separate agency in the old form; it was merged with other national research bodies into the National Research and Innovation Agency, BRIN. That institutional change makes old claims about “LAPAN files” even more important to handle carefully, because modern BRIN is not a UFO-investigation body and no public Indonesian UAP archive comparable to the major US repositories is evident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-spider.org">[UN-SPIDER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-spider.org</span><span class="citation-popover-title">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span><span class="citation-popover-snippet">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span></span></span>
+This distinction is essential. In the United States, “official UFO files” usually means declassified military or intelligence documents. In Indonesia, the closest equivalent is more diffuse: Salatun’s writings, later civilian archives, media stories, and occasional statements by LAPAN scientists. Since 2021, LAPAN itself has no longer existed as a separate agency in the old form; it was merged with other national research bodies into the National Research and Innovation Agency, BRIN. That institutional change makes old claims about “LAPAN files” even more important to handle carefully, because modern BRIN is not a UFO-investigation body and no public Indonesian UAP archive comparable to the major US repositories is evident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-spider.org">[UN-SPIDER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-spider.org</span><span class="citation-popover-title">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span><span class="citation-popover-snippet">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span></span></span>
 
 <img src="{{ "/assets/images/Indonesia_35536a-Illustration-1-dark.svg" | relative_url }}" alt="What Indonesia&#x27;s UFO Record Really Shows illustration 1" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical chronology of the better-known Indonesian cases
 
 The Indonesian case record is best approached chronologically, with each incident assigned a confidence level. “Unidentified” does not mean “extraterrestrial”; it means the available public evidence does not allow a confident ordinary identification.
 
-**1959: Alor and Pantar, East Nusa Tenggara.** The Alor incident is one of Indonesia’s most famous close-encounter stories. Later accounts describe unusual beings, local alarm, and police involvement, with the case later associated with Jacob Salatun’s notes. A 60th-anniversary publication states that Salatun recorded and studied the Alor incident and that three notes from him existed, including a communication to astronomer J. Allen Hynek in 1977. That makes Alor historically important inside Indonesian ufology, but the public evidence remains a chain of later reports rather than a robust file of contemporary forensic material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/alor-incident-60-years-of-unknown-1959-2019-indonesia-ufo-network-978-602-71493-5-9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">978-602-71493-5-9 - DOKUMEN.PUB...</span></span></span>
+**1959: Alor and Pantar, East Nusa Tenggara.** The Alor incident is one of Indonesia’s most famous close-encounter stories. Later accounts describe unusual beings, local alarm, and police involvement, with the case later associated with Jacob Salatun’s notes. A 60th-anniversary publication states that Salatun recorded and studied the Alor incident and that three notes from him existed, including a communication to astronomer J. Allen Hynek in 1977. That makes Alor historically important inside Indonesian ufology, but the public evidence remains a chain of later reports rather than a robust file of contemporary forensic material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/alor-incident-60-years-of-unknown-1959-2019-indonesia-ufo-network-978-602-71493-5-9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">978-602-71493-5-9 - DOKUMEN.PUB...</span></span></span>
 
-**1964: Surabaya during the Indonesia–Malaysia confrontation.** This is often presented as Indonesia’s strongest military UFO episode: pilots or defence personnel allegedly saw and fired at a dark, mango-shaped object with coloured lights during a tense military period. The case’s appeal is obvious: military context, national-security pressure, and an alleged aerial pursuit. Yet the accessible record is largely secondary and tied to Salatun-linked retellings. It deserves attention as a security-era UFO narrative, but not the evidential status of a fully documented radar-and-interceptor file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+**1964: Surabaya during the Indonesia–Malaysia confrontation.** This is often presented as Indonesia’s strongest military UFO episode: pilots or defence personnel allegedly saw and fired at a dark, mango-shaped object with coloured lights during a tense military period. The case’s appeal is obvious: military context, national-security pressure, and an alleged aerial pursuit. Yet the accessible record is largely secondary and tied to Salatun-linked retellings. It deserves attention as a security-era UFO narrative, but not the evidential status of a fully documented radar-and-interceptor file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
-**1973: Mount Agung, Bali.** A Japanese tourist, Ryo Terumoto, reportedly photographed Mount Agung on 17 August 1973 and noticed a disc-shaped object only after the photo was developed. BETA-UFO describes it as an early Indonesian UFO photograph and notes that the image was later published in a Japanese magazine. The case is memorable because it is photographic rather than purely testimonial, but the public record available today does not settle whether the object was airborne, close to the lens, a photographic artefact, or something genuinely anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betaufo.id">[PERKUMPULAN PENGAMAT BENDA TERBANG ANEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betaufo.id</span><span class="citation-popover-title">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span><span class="citation-popover-snippet">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span></span></span>
+**1973: Mount Agung, Bali.** A Japanese tourist, Ryo Terumoto, reportedly photographed Mount Agung on 17 August 1973 and noticed a disc-shaped object only after the photo was developed. BETA-UFO describes it as an early Indonesian UFO photograph and notes that the image was later published in a Japanese magazine. The case is memorable because it is photographic rather than purely testimonial, but the public record available today does not settle whether the object was airborne, close to the lens, a photographic artefact, or something genuinely anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betaufo.id">[PERKUMPULAN PENGAMAT BENDA TERBANG ANEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betaufo.id</span><span class="citation-popover-title">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span><span class="citation-popover-snippet">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span></span></span>
 
-**1975: Cilamaya, West Java.** The Cilamaya photograph is often treated as one of Indonesia’s classic UFO images, reportedly taken by Tony Hartono Rusman near an oil-tanker setting off the West Java coast. It has circulated widely in Indonesian UFO culture, including through BETA-UFO-linked discussion and media summaries. Its significance is cultural and archival: it is a rare Indonesian case with an image attached. Its weakness is familiar to many historic [UFO photos]({{ 'ufo-photos/' | relative_url }}): without the original negative, full chain of custody, camera settings, independent witnesses, and environmental reconstruction, it cannot bear the weight often placed on it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+**1975: Cilamaya, West Java.** The Cilamaya photograph is often treated as one of Indonesia’s classic UFO images, reportedly taken by Tony Hartono Rusman near an oil-tanker setting off the West Java coast. It has circulated widely in Indonesian UFO culture, including through BETA-UFO-linked discussion and media summaries. Its significance is cultural and archival: it is a rare Indonesian case with an image attached. Its weakness is familiar to many historic [UFO photos]({{ 'ufo-photos/' | relative_url }}): without the original negative, full chain of custody, camera settings, independent witnesses, and environmental reconstruction, it cannot bear the weight often placed on it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
-**1977–2000: a wider Java–Bali run of reports.** Lists of Indonesian sightings include Porong in 1977, Jakarta reports in 1977, Tarakan around 1984, Bandung in 1989, Mount Salak in 1998, and Denpasar in 2000. These cases vary widely in detail and source quality. Many are valuable as leads for a national chronology, but most are not strong enough, from public evidence alone, to classify as anything more than contested or unresolved witness reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://id.wikipedia.org/wiki/Lingkaran_tanaman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lingkaran tanaman</span><span class="citation-popover-snippet">Lingkaran tanaman</span></span></span>
+**1977–2000: a wider Java–Bali run of reports.** Lists of Indonesian sightings include Porong in 1977, Jakarta reports in 1977, Tarakan around 1984, Bandung in 1989, Mount Salak in 1998, and Denpasar in 2000. These cases vary widely in detail and source quality. Many are valuable as leads for a national chronology, but most are not strong enough, from public evidence alone, to classify as anything more than contested or unresolved witness reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://id.wikipedia.org/wiki/Lingkaran_tanaman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lingkaran tanaman</span><span class="citation-popover-snippet">Lingkaran tanaman</span></span></span>
 
-**2007–2015: the web-era cases.** Pekanbaru in 2007, Padang in 2009, Seminyak in 2011, and Sanga-Sanga in 2015 show how Indonesian UFO reporting shifted into online circulation. This period benefits from easier reporting and wider public archiving, but also suffers from the usual internet-age problems: low-resolution images, duplicated claims, missing metadata, and the rapid transformation of ordinary lights, balloons, aircraft, drones, or celestial objects into viral UFO stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://id.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacob Salatun</span><span class="citation-popover-snippet">Jacob Salatun</span></span></span>
+**2007–2015: the web-era cases.** Pekanbaru in 2007, Padang in 2009, Seminyak in 2011, and Sanga-Sanga in 2015 show how Indonesian UFO reporting shifted into online circulation. This period benefits from easier reporting and wider public archiving, but also suffers from the usual internet-age problems: low-resolution images, duplicated claims, missing metadata, and the rapid transformation of ordinary lights, balloons, aircraft, drones, or celestial objects into viral UFO stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://id.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacob Salatun</span><span class="citation-popover-snippet">Jacob Salatun</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RhrH0KzKft4" title="&#x27;I was intimidated, I had surveillance, I had threats&#x27;: U.S. Marine who saw craft | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RhrH0KzKft4" target="_blank" rel="noopener noreferrer">&#x27;I was intimidated, I had surveillance, I had threats&#x27;: U.S. Marine who saw craft | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.6M &middot; Uploaded: August 2025 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RhrH0KzKft4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RhrH0KzKft4">Open on YouTube</a></p></div></div></div>
 
 ## The 2011 Yogyakarta crop circle shows how fast a claim can harden
 
-The 2011 crop circle at Rejosari village, Jogotirto, Berbah, Sleman, is one of the most instructive Indonesian UFO-related events because it moved quickly from local curiosity to national media story. ANTARA reported that a crop-circle pattern in a rice field was popularly believed by some to be the footprint of a UFO. Witness accounts included a claimed helicopter-like noise the previous night, while another local who had been nearby said he heard nothing unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.antaranews.com">[ANTARA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.antaranews.com</span><span class="citation-popover-title">ufo related crop circle found in yogyakarta rice field</span><span class="citation-popover-snippet">ufo related crop circle found in yogyakarta rice field</span></span></span>
+The 2011 crop circle at Rejosari village, Jogotirto, Berbah, Sleman, is one of the most instructive Indonesian UFO-related events because it moved quickly from local curiosity to national media story. ANTARA reported that a crop-circle pattern in a rice field was popularly believed by some to be the footprint of a UFO. Witness accounts included a claimed helicopter-like noise the previous night, while another local who had been nearby said he heard nothing unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.antaranews.com">[ANTARA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.antaranews.com</span><span class="citation-popover-title">ufo related crop circle found in yogyakarta rice field</span><span class="citation-popover-snippet">ufo related crop circle found in yogyakarta rice field</span></span></span>
 
-This case also produced one of the clearest sceptical responses from an Indonesian scientific authority. Thomas Djamaluddin of LAPAN argued that [crop circles]({{ 'crop-circle/' | relative_url }}) in general were often man-made and that UFOs were not treated in astronomy as extraterrestrial craft. Detik reported LAPAN’s confidence that the Sleman formation was human-made and that it would not send a team to investigate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span><span class="citation-popover-snippet">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span></span></span>
+This case also produced one of the clearest sceptical responses from an Indonesian scientific authority. Thomas Djamaluddin of LAPAN argued that [crop circles]({{ 'crop-circle/' | relative_url }}) in general were often man-made and that UFOs were not treated in astronomy as extraterrestrial craft. Detik reported LAPAN’s confidence that the Sleman formation was human-made and that it would not send a team to investigate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span><span class="citation-popover-snippet">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span></span></span>
 
 The Yogyakarta crop circle is therefore better understood as a media-and-belief event than as a strong UFO case. Its value lies in showing the mechanics of Indonesian UFO culture: a strange visual pattern, local testimony, religious or symbolic interpretations, media amplification, enthusiast debate, and then a scientific rebuttal. It also links Indonesia to a global crop-circle pattern in which elaborate formations have repeatedly been shown to be compatible with human construction, art, hoaxing, or publicity.
 
@@ -1244,30 +1244,30 @@ The Yogyakarta crop circle is therefore better understood as a media-and-belief 
 
 A fair Indonesian UFO page needs to separate three categories that often get blurred.
 
-**Confirmed phenomena, not confirmed aliens.** Some Indonesian UFO-related events are confirmed in the limited sense that something was reported, photographed, published, or publicly debated. The 2011 Sleman crop circle existed. BETA-UFO exists as a civilian organisation. Salatun’s 1960 book exists. The Mount Agung photograph claim exists in BETA-UFO’s archive. These facts do not confirm non-human craft; they confirm the presence of a report, image, cultural event, or research tradition. PERKUMPULAN PENGAMAT BENDA TERBANG ANEH <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.antaranews.com">[ANTARA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.antaranews.com</span><span class="citation-popover-title">ufo related crop circle found in yogyakarta rice field</span><span class="citation-popover-snippet">ufo related crop circle found in yogyakarta rice field</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
+**Confirmed phenomena, not confirmed aliens.** Some Indonesian UFO-related events are confirmed in the limited sense that something was reported, photographed, published, or publicly debated. The 2011 Sleman crop circle existed. BETA-UFO exists as a civilian organisation. Salatun’s 1960 book exists. The Mount Agung photograph claim exists in BETA-UFO’s archive. These facts do not confirm non-human craft; they confirm the presence of a report, image, cultural event, or research tradition. PERKUMPULAN PENGAMAT BENDA TERBANG ANEH<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.antaranews.com">[ANTARA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.antaranews.com</span><span class="citation-popover-title">ufo related crop circle found in yogyakarta rice field</span><span class="citation-popover-snippet">ufo related crop circle found in yogyakarta rice field</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
 
 **Contested cases.** Alor, Surabaya 1964, Mount Agung 1973, Cilamaya 1975, and later regional sightings remain contested. They contain elements that make them interesting — alleged official attention, photographs, multiple witnesses, or unusual behaviour — but the public evidence is usually incomplete. In most cases, the missing pieces are precisely the ones that would raise evidential value: original records, independent contemporaneous documentation, radar data, verifiable chain of custody for images, and careful elimination of aircraft, astronomical objects, weather, balloons, drones, birds, insects, or camera artefacts.
 
-**Debunked or strongly explained claims.** The 2011 Yogyakarta crop circle is the clearest example of an Indonesian UFO-adjacent claim that official scientific opinion treated as man-made. “Debunked” should not mean every individual detail was reconstructed with the names of the makers; it means the claim does not require a non-human explanation and was assessed by relevant experts as consistent with ordinary human construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span><span class="citation-popover-snippet">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span></span></span>
+**Debunked or strongly explained claims.** The 2011 Yogyakarta crop circle is the clearest example of an Indonesian UFO-adjacent claim that official scientific opinion treated as man-made. “Debunked” should not mean every individual detail was reconstructed with the names of the makers; it means the claim does not require a non-human explanation and was assessed by relevant experts as consistent with ordinary human construction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span><span class="citation-popover-snippet">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span></span></span>
 
 This three-part split is the safest way to read Indonesian UFO material. It lets the interesting cases remain interesting without converting every unresolved light into a spacecraft.
 
 <img src="{{ "/assets/images/Indonesia_35536a-Illustration-2-dark.svg" | relative_url }}" alt="What Indonesia&#x27;s UFO Record Really Shows illustration 2" data-theme-src-dark="{{ "/assets/images/Indonesia_35536a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indonesia_35536a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## BETA-UFO and the civilian archive problem
 
-BETA-UFO is Indonesia’s most visible civilian UFO community. VICE reported that the group was formed in 1997 and that its work shifted towards networking Indonesian UFO hunters through internet forums. The same report presents BETA-UFO as a community influenced by Salatun, drawing members from varied backgrounds and keeping contact with overseas UFO observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
+BETA-UFO is Indonesia’s most visible civilian UFO community. VICE reported that the group was formed in 1997 and that its work shifted towards networking Indonesian UFO hunters through internet forums. The same report presents BETA-UFO as a community influenced by Salatun, drawing members from varied backgrounds and keeping contact with overseas UFO observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Bertemu Para Pemburu UFO di Indonesia</span><span class="citation-popover-snippet">Bertemu Para Pemburu UFO di Indonesia</span></span></span>
 
-The strength of BETA-UFO is preservation. Without groups like it, many Indonesian sightings would disappear into old newspapers, broken web pages, local memory, and social-media fragments. It has helped keep cases such as Mount Agung, Cilamaya, Tarakan, Probolinggo, Salatiga, and Pekanbaru visible to later readers. That is valuable, especially in a country where national UFO material is not centrally archived in a public official repository. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacob Salatun</span><span class="citation-popover-snippet">Jacob Salatun</span></span></span>
+The strength of BETA-UFO is preservation. Without groups like it, many Indonesian sightings would disappear into old newspapers, broken web pages, local memory, and social-media fragments. It has helped keep cases such as Mount Agung, Cilamaya, Tarakan, Probolinggo, Salatiga, and Pekanbaru visible to later readers. That is valuable, especially in a country where national UFO material is not centrally archived in a public official repository.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacob Salatun</span><span class="citation-popover-snippet">Jacob Salatun</span></span></span>
 
 The weakness is that civilian UFO archives mix different evidence levels. A photograph, a newspaper clipping, a witness questionnaire, a rumour, a translated foreign case, and a later social-media submission can sit close together. For researchers, that means BETA-UFO should be treated as a lead-generating archive, not as final adjudication. The archive can tell readers what Indonesians reported and how the stories circulated; it cannot by itself prove what the objects were.
 
 ## Region-level variation: Java, Bali, eastern Indonesia, and the internet age
 
-Java dominates the accessible Indonesian UFO record because it dominates much of Indonesia’s media, administration, and research infrastructure. Jakarta, Bandung, Yogyakarta, Surabaya, Sleman, Porong, Salatiga, Cilamaya, Bekasi, and Mount Salak all appear in Indonesian UFO chronologies. This does not necessarily mean Java has more anomalous aerial activity; it means Java has more observers connected to newspapers, universities, amateur astronomy networks, and online reporting channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+Java dominates the accessible Indonesian UFO record because it dominates much of Indonesia’s media, administration, and research infrastructure. Jakarta, Bandung, Yogyakarta, Surabaya, Sleman, Porong, Salatiga, Cilamaya, Bekasi, and Mount Salak all appear in Indonesian UFO chronologies. This does not necessarily mean Java has more anomalous aerial activity; it means Java has more observers connected to newspapers, universities, amateur astronomy networks, and online reporting channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
-Bali’s role is different. It appears in part because of tourism and photography: Mount Agung in 1973, later Bali reports, Denpasar in 2000, and Seminyak in 2011. A tourist photograph can travel further than a local oral report because it gives the story a portable object — an image — even when the image itself remains ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betaufo.id">[PERKUMPULAN PENGAMAT BENDA TERBANG ANEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betaufo.id</span><span class="citation-popover-title">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span><span class="citation-popover-snippet">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span></span></span>
+Bali’s role is different. It appears in part because of tourism and photography: Mount Agung in 1973, later Bali reports, Denpasar in 2000, and Seminyak in 2011. A tourist photograph can travel further than a local oral report because it gives the story a portable object — an image — even when the image itself remains ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betaufo.id">[PERKUMPULAN PENGAMAT BENDA TERBANG ANEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betaufo.id</span><span class="citation-popover-title">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span><span class="citation-popover-snippet">wisatawan jepang memotret penampakan ufo di gunung agung bali 1973</span></span></span>
 
-Eastern Indonesia contributes the opposite kind of case: Alor is powerful because of narrative, not because of easy verification. It is remote, dramatic, and tied to local memory and later ufological reconstruction. That makes it one of Indonesia’s most culturally important UFO stories, but also one of the hardest to assess with modern evidential standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">indonesian ufo contact cases database version 09 draft raw english translation</span><span class="citation-popover-snippet">indonesian ufo contact cases database version 09 draft raw english translation</span></span></span>
+Eastern Indonesia contributes the opposite kind of case: Alor is powerful because of narrative, not because of easy verification. It is remote, dramatic, and tied to local memory and later ufological reconstruction. That makes it one of Indonesia’s most culturally important UFO stories, but also one of the hardest to assess with modern evidential standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">indonesian ufo contact cases database version 09 draft raw english translation</span><span class="citation-popover-snippet">indonesian ufo contact cases database version 09 draft raw english translation</span></span></span>
 
 The internet age has widened participation but lowered the average evidential quality. Mobile-phone cameras and social media produce more reports, but the typical record is a short clip, a light in the sky, or a compressed image stripped of useful context. In Indonesia, as elsewhere, the rise of drones, lanterns, balloons, satellites, aircraft lights, and atmospheric optics means recent reports often need more sceptical screening, not less.
 
@@ -1275,15 +1275,15 @@ The internet age has widened participation but lowered the average evidential qu
 
 ## Official records and what is missing
 
-The biggest gap in Indonesia’s UFO record is not public interest; it is official documentation. There is no obvious public Indonesian equivalent of a large declassified UAP archive with military case files, sensor logs, pilot statements, and technical assessments. LAPAN had aerospace authority and some scientists commented on UFO-adjacent claims, but the clearest accessible official-style intervention is sceptical: the 2011 crop-circle response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span><span class="citation-popover-snippet">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span></span></span>
+The biggest gap in Indonesia’s UFO record is not public interest; it is official documentation. There is no obvious public Indonesian equivalent of a large declassified UAP archive with military case files, sensor logs, pilot statements, and technical assessments. LAPAN had aerospace authority and some scientists commented on UFO-adjacent claims, but the clearest accessible official-style intervention is sceptical: the 2011 crop-circle response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.detik.com">[detiknews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.detik.com</span><span class="citation-popover-title">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span><span class="citation-popover-snippet">news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman</span></span></span>
 
-Institutionally, the old LAPAN landscape has changed. UN-SPIDER notes that LAPAN merged with other Indonesian research bodies under BRIN in September 2021, and that BRIN remains a regulator in space activities. That matters because modern readers may search for a current “LAPAN UFO office” and find a confusing institutional trail. The current Indonesian space-research environment is about satellites, remote sensing, space policy, and aeronautics, not public UFO case adjudication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-spider.org">[UN-SPIDER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-spider.org</span><span class="citation-popover-title">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span><span class="citation-popover-snippet">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span></span></span>
+Institutionally, the old LAPAN landscape has changed. UN-SPIDER notes that LAPAN merged with other Indonesian research bodies under BRIN in September 2021, and that BRIN remains a regulator in space activities. That matters because modern readers may search for a current “LAPAN UFO office” and find a confusing institutional trail. The current Indonesian space-research environment is about satellites, remote sensing, space policy, and aeronautics, not public UFO case adjudication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un-spider.org">[UN-SPIDER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un-spider.org</span><span class="citation-popover-title">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span><span class="citation-popover-snippet">National Research and Innovation Agency (BRIN) &#124; UN-SPIDER Knowledge Portal</span></span></span>
 
 For Indonesia, the most realistic archival path is therefore mixed-source research: old newspapers, Salatun publications, BETA-UFO material, local press, astronomy institutions, military history context, and modern scientific explanations. The absence of a public official archive does not mean every claim is false. It means the claims must be held at lower confidence unless independent records emerge.
 
 ## Indonesia’s UFO culture is now partly science outreach, partly folklore, partly fandom
 
-Indonesia’s UFO scene is no longer only about sightings. It has become a cultural space where astronomy, art, science fiction, local mystery, and public curiosity overlap. The Associated Press reported that Indonesia’s UFO Festival in Yogyakarta has run since 2016 and brings together enthusiasts interested in space science, UAP, and the search for extraterrestrial intelligence. The 2025 event included an Alien Village, UFO Village, UFO Camp, a Mars exploration module, art galleries, and workshops for adults and students. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/350b16a9ce92683297619c62164beaeb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Indonesia’s UFO scene is no longer only about sightings. It has become a cultural space where astronomy, art, science fiction, local mystery, and public curiosity overlap. The Associated Press reported that Indonesia’s UFO Festival in Yogyakarta has run since 2016 and brings together enthusiasts interested in space science, UAP, and the search for extraterrestrial intelligence. The 2025 event included an Alien Village, UFO Village, UFO Camp, a Mars exploration module, art galleries, and workshops for adults and students.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/350b16a9ce92683297619c62164beaeb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That contemporary scene changes how older cases are interpreted. For some readers, UFOs are evidence claims. For others, they are a doorway into astronomy, speculative technology, creativity, or community. Indonesia’s UFO culture therefore sits between investigation and imagination. A sober page on Indonesian UFOs should not mock that culture, but it also should not confuse cultural vitality with evidential strength.
 
@@ -1316,194 +1316,194 @@ Indonesia’s UFO history is real as a history of reports, communities, photogra
 That makes Indonesia a valuable branch in any country-by-country UFO project. It illustrates a version of the phenomenon shaped less by official disclosure and more by archipelago geography, local media, amateur investigators, aerospace personalities, and cultural creativity. The serious reader should keep two ideas together: Indonesia has a long and distinctive UFO tradition, and most of its famous cases remain unconfirmed, contested, or explainable with ordinary mechanisms once the available evidence is weighed carefully.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Indonesia&#x27;s UFO Record Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Indonesia&#x27;s UFO Record Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for interpreting mixed-quality sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting mixed-quality sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Connects local reports to wider global UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects local reports to wider global UAP discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a strong framework for evaluating national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a strong framework for evaluating national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Relevant to folklore, culture, and interpretation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to folklore, culture, and interpretation of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-indonesia-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-indonesia-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1519,7 +1519,7 @@ That makes Indonesia a valuable branch in any country-by-country UFO project. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1539,7 +1539,7 @@ That makes Indonesia a valuable branch in any country-by-country UFO project. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1571,7 +1571,7 @@ That makes Indonesia a valuable branch in any country-by-country UFO project. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1623,7 +1623,7 @@ That makes Indonesia a valuable branch in any country-by-country UFO project. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1668,7 +1668,7 @@ That makes Indonesia a valuable branch in any country-by-country UFO project. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1706,182 +1706,181 @@ That makes Indonesia a valuable branch in any country-by-country UFO project. It
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/alor-incident-60-years-of-unknown-1959-2019-indonesia-ufo-network-978-602-71493-5-9.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/alor-incident-60-years-of-unknown-1959-2019-indonesia-ufo-network-978-602-71493-5-9.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>978-602-71493-5-9 - DOKUMEN.PUB...</p></details>
+   Link:<a href="https://dokumen.pub/alor-incident-60-years-of-unknown-1959-2019-indonesia-ufo-network-978-602-71493-5-9.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/alor-incident-60-years-of-unknown-1959-2019-indonesia-ufo-network-978-602-71493-5-9.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>978-602-71493-5-9 - DOKUMEN.PUB...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Indonesia  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Indonesia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Indonesia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Indonesia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Indonesia</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: betaufo.id  
    Title: wisatawan jepang memotret penampakan ufo di gunung agung bali 1973  
-   Link: <a href="https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/" target="_blank" rel="noopener noreferrer nofollow">https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/</a>  
+   Link:<a href="https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/" target="_blank" rel="noopener noreferrer nofollow">https://betaufo.id/wisatawan-jepang-memotret-penampakan-ufo-di-gunung-agung-bali-1973/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vice.com  
    Title: Bertemu Para Pemburu UFO di Indonesia  
-   Link: <a href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/</a>  
+   Link:<a href="https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/id/article/bertemu-para-pemburu-ufo-di-indonesia/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Menjingkap Rahasia Piring Terbang.pdf  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMenjingkap_Rahasia_Piring_Terbang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMenjingkap_Rahasia_Piring_Terbang.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AMenjingkap_Rahasia_Piring_Terbang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMenjingkap_Rahasia_Piring_Terbang.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: un-spider.org  
    Title: National Research and Innovation Agency (BRIN) | UN-SPIDER Knowledge Portal  
-   Link: <a href="https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin" target="_blank" rel="noopener noreferrer nofollow">https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin</a>  
+   Link:<a href="https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin" target="_blank" rel="noopener noreferrer nofollow">https://www.un-spider.org/network/regional-support-offices/national-research-and-innovation-agency-brin</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.detik.com  
    Title: news Yakin Crop Circle Buatan Manusia, LAPAN Tak Akan Kirim Tim ke Sleman  
-   Link: <a href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow">https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman</a>  
+   Link:<a href="https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman" target="_blank" rel="noopener noreferrer nofollow">https://news.detik.com/berita/d-1552992/yakin-crop-circle-buatan-manusia-lapan-tak-akan-kirim-tim-ke-sleman</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Lingkaran tanaman  
-   Link: <a href="https://id.wikipedia.org/wiki/Lingkaran_tanaman" target="_blank" rel="noopener noreferrer nofollow">https://id.wikipedia.org/wiki/Lingkaran_tanaman</a>  
+   Link:<a href="https://id.wikipedia.org/wiki/Lingkaran_tanaman" target="_blank" rel="noopener noreferrer nofollow">https://id.wikipedia.org/wiki/Lingkaran_tanaman</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Jacob Salatun  
-   Link: <a href="https://id.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow">https://id.wikipedia.org/wiki/Jacob_Salatun</a>  
+   Link:<a href="https://id.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow">https://id.wikipedia.org/wiki/Jacob_Salatun</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Jacob Salatun  
-   Link: <a href="https://en.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacob_Salatun</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jacob_Salatun" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacob_Salatun</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dokumen.pub  
    Title: indonesian ufo contact cases database version 09 draft raw english translation  
-   Link: <a href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html</a>  
+   Link:<a href="https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/indonesian-ufo-contact-cases-database-version-09-draft-raw-english-translation.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufo-uap-in-defense-and-security-perspective.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufo-uap-in-defense-and-security-perspective.html</a>  
+   Link:<a href="https://dokumen.pub/ufo-uap-in-defense-and-security-perspective.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufo-uap-in-defense-and-security-perspective.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jhmovie.fandom.com  
    Title: Unidentified flying object  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: obscurban-legend.fandom.com  
    Title: Alor Island Humanoids  
-   Link: <a href="https://obscurban-legend.fandom.com/wiki/Alor_Island_Humanoids" target="_blank" rel="noopener noreferrer nofollow">https://obscurban-legend.fandom.com/wiki/Alor_Island_Humanoids</a>  
+   Link:<a href="https://obscurban-legend.fandom.com/wiki/Alor_Island_Humanoids" target="_blank" rel="noopener noreferrer nofollow">https://obscurban-legend.fandom.com/wiki/Alor_Island_Humanoids</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: disclosure.org  
    Title: nsa top secret umbra uap foia release  
-   Link: <a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
+   Link:<a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1964-68v26/d163" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1964-68v26/d163</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1964-68v26/d163" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1964-68v26/d163</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.antaranews.com  
    Title: ufo related crop circle found in yogyakarta rice field  
-   Link: <a href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow">https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field</a>  
+   Link:<a href="https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field" target="_blank" rel="noopener noreferrer nofollow">https://en.antaranews.com/news/67268/ufo-related-crop-circle-found-in-yogyakarta-rice-field</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/350b16a9ce92683297619c62164beaeb" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/350b16a9ce92683297619c62164beaeb</a>  
+   Link:<a href="https://apnews.com/article/350b16a9ce92683297619c62164beaeb" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/350b16a9ce92683297619c62164beaeb</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/842000311679550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/842000311679550/</a>  
+   Link:<a href="https://www.facebook.com/groups/617328327480084/posts/842000311679550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/842000311679550/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/525166652709431/posts/1115844640308293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/525166652709431/posts/1115844640308293/</a>  
+   Link:<a href="https://www.facebook.com/groups/525166652709431/posts/1115844640308293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/525166652709431/posts/1115844640308293/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: x.com  
-   Link: <a href="https://x.com/kabarufo/status/1037262230180392960" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kabarufo/status/1037262230180392960</a>  
+   Link:<a href="https://x.com/kabarufo/status/1037262230180392960" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kabarufo/status/1037262230180392960</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufoconnect.com  
-   Link: <a href="https://ufoconnect.com/journalist-profile/jacob-salatun/" target="_blank" rel="noopener noreferrer nofollow">https://ufoconnect.com/journalist-profile/jacob-salatun/</a>  
+   Link:<a href="https://ufoconnect.com/journalist-profile/jacob-salatun/" target="_blank" rel="noopener noreferrer nofollow">https://ufoconnect.com/journalist-profile/jacob-salatun/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: slideshare.net  
    Title: ufo phenomenon  
-   Link: <a href="https://www.slideshare.net/slideshow/ufo-phenomenon/78402225" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/ufo-phenomenon/78402225</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/ufo-phenomenon/78402225" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/ufo-phenomenon/78402225</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: UFO CRASH IN INDONESIA? FACTS, CONSPIRACY, AND THE EXPOSURE!  
-   Link: <a href="https://www.youtube.com/watch?v=3zMNAEearho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3zMNAEearho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Object Crashed in the Jabun Region Over Indonesia. | Berita Indonesia hari ini| The thaat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3zMNAEearho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3zMNAEearho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Object Crashed in the Jabun Region Over Indonesia. | Berita Indonesia hari ini| The thaat...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RhrH0KzKft4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RhrH0KzKft4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TJP Documentaries: Indonesia&#x27;s UFO Believers Never Stop Looking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RhrH0KzKft4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RhrH0KzKft4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TJP Documentaries: Indonesia&#x27;s UFO Believers Never Stop Looking...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: TJP Documentaries: Indonesia's UFO Believers Never Stop Looking  
-   Link: <a href="https://www.youtube.com/watch?v=jNB5bNlDVWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jNB5bNlDVWE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CRASH IN INDONESIA? FACTS, CONSPIRACY, AND THE EXPOSURE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jNB5bNlDVWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jNB5bNlDVWE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CRASH IN INDONESIA? FACTS, CONSPIRACY, AND THE EXPOSURE...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: I Went Hunting for Aliens in Indonesia (UFOMO)  
-   Link: <a href="https://www.youtube.com/watch?v=rt4kPu582a0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rt4kPu582a0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I was intimidated, I had surveillance, I had threats&#x27;: U.S. Marine who saw craft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rt4kPu582a0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rt4kPu582a0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I was intimidated, I had surveillance, I had threats&#x27;: U.S. Marine who saw craft...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259844289_Development_of_Micro-satellite_Technology_at_the_Indonesian_National_Institute_of_Aeronautics_and_Space_LAPAN" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259844289_Development_of_Micro-satellite_Technology_at_the_Indonesian_National_Institute_of_Aeronautics_and_Space_LAPAN</a>  
+   Link:<a href="https://www.researchgate.net/publication/259844289_Development_of_Micro-satellite_Technology_at_the_Indonesian_National_Institute_of_Aeronautics_and_Space_LAPAN" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259844289_Development_of_Micro-satellite_Technology_at_the_Indonesian_National_Institute_of_Aeronautics_and_Space_LAPAN</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: x.com  
-   Link: <a href="https://x.com/JukiHoki/status/2031197149879480591" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JukiHoki/status/2031197149879480591</a>  
+   Link:<a href="https://x.com/JukiHoki/status/2031197149879480591" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JukiHoki/status/2031197149879480591</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXLA1Vekbdl/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXLA1Vekbdl/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DXLA1Vekbdl/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXLA1Vekbdl/?hl=en</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DP-DhWsid3X/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DP-DhWsid3X/</a>  
+   Link:<a href="https://www.instagram.com/reel/DP-DhWsid3X/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DP-DhWsid3X/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iapitb/posts/kalian-mungkin-tak-banyak-tahu-kalau-indonesia-memiliki-bapak-ufo-yang-bernama-j/3753754818044471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iapitb/posts/kalian-mungkin-tak-banyak-tahu-kalau-indonesia-memiliki-bapak-ufo-yang-bernama-j/3753754818044471/</a>
+   Link:<a href="https://www.facebook.com/iapitb/posts/kalian-mungkin-tak-banyak-tahu-kalau-indonesia-memiliki-bapak-ufo-yang-bernama-j/3753754818044471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iapitb/posts/kalian-mungkin-tak-banyak-tahu-kalau-indonesia-memiliki-bapak-ufo-yang-bernama-j/3753754818044471/</a>

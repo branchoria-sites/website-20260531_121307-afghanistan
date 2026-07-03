@@ -253,19 +253,19 @@ In the Malaysian UFO record, a distinct pattern emerges around **viral sky video
 <img src="{{ "/assets/images/Malaysia_ff3ea3_viral_ufo_videos_c903df-Illustration-1-dark.svg" | relative_url }}" alt="Viral Videos illustration 1" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_viral_ufo_videos_c903df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_viral_ufo_videos_c903df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Kuala Krai viral footage and official dismissal
 
-One of the most notable Malaysian UFO videos to go viral was shared in 2016, allegedly showing a large unidentified flying object hovering over a rural area near **Kuala Krai** in the state of Kelantan. The one‑and‑a‑half‑minute clip was widely circulated on social media with claims that villagers had witnessed an unusual aerial object for several minutes. Local police quickly responded to the online buzz, **rubbing out the sighting** in official statements. Kuala Krai police chief Supt Abdullah Roning said **no report had been lodged by residents**, and that the footage had been spread by “certain parties” without any verification; the clip was also **falsely attributed to the Malaysian National News Agency (Bernama)** in some shares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay MailUFO sighted over Kuala Krai? (VIDEO) &#124; Malay MailSeptember 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span>
+One of the most notable Malaysian UFO videos to go viral was shared in 2016, allegedly showing a large unidentified flying object hovering over a rural area near **Kuala Krai** in the state of Kelantan. The one‑and‑a‑half‑minute clip was widely circulated on social media with claims that villagers had witnessed an unusual aerial object for several minutes. Local police quickly responded to the online buzz, **rubbing out the sighting** in official statements. Kuala Krai police chief Supt Abdullah Roning said **no report had been lodged by residents**, and that the footage had been spread by “certain parties” without any verification; the clip was also **falsely attributed to the Malaysian National News Agency (Bernama)** in some shares.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay MailUFO sighted over Kuala Krai? (VIDEO) &#124; Malay MailSeptember 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span>
 
-News outlets reported that the alleged UFO was spotted near the Cembong Batu Nang Centre, and villagers were said to have been “shocked” by it; but authorities emphasised there was **no credible witness testimony or formal incident record**. These details illustrate a common pattern: a low‑quality video is shared as proof of an extraordinary event, but later official scrutiny reveals that **no local authority or reliable observer has confirmed anything out of the ordinary**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay MailUFO sighted over Kuala Krai? (VIDEO) &#124; Malay MailSeptember 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span>
+News outlets reported that the alleged UFO was spotted near the Cembong Batu Nang Centre, and villagers were said to have been “shocked” by it; but authorities emphasised there was **no credible witness testimony or formal incident record**. These details illustrate a common pattern: a low‑quality video is shared as proof of an extraordinary event, but later official scrutiny reveals that **no local authority or reliable observer has confirmed anything out of the ordinary**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay MailUFO sighted over Kuala Krai? (VIDEO) &#124; Malay MailSeptember 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span>
 
-Independent commentators at the time also pointed out the likelihood of fabricated or edited footage. Although some news sites treated the clip as noteworthy because of its viral spread, sceptical analyses noted that poor camera quality and the presence of dramatic overlay effects made it difficult to treat the footage as evidence of an actual unidentified aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.enstarz.com/articles/172338/20160902/ufo-2016-malaysian-sighting-spots-mysterious-spaceship-straight-out-independence.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enstarz.com">[Enstarz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enstarz.com</span><span class="citation-popover-title">ufo 2016 malaysian sighting spots mysterious spaceship straight out independence</span><span class="citation-popover-snippet">UFO 2016: Malaysian Sighting Spots Mysterious Spaceship Straight Out Of &#x27;Independence Day&#x27; [VIDEO]September 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span>
+Independent commentators at the time also pointed out the likelihood of fabricated or edited footage. Although some news sites treated the clip as noteworthy because of its viral spread, sceptical analyses noted that poor camera quality and the presence of dramatic overlay effects made it difficult to treat the footage as evidence of an actual unidentified aerial phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.enstarz.com/articles/172338/20160902/ufo-2016-malaysian-sighting-spots-mysterious-spaceship-straight-out-independence.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enstarz.com">[Enstarz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enstarz.com</span><span class="citation-popover-title">ufo 2016 malaysian sighting spots mysterious spaceship straight out independence</span><span class="citation-popover-snippet">UFO 2016: Malaysian Sighting Spots Mysterious Spaceship Straight Out Of &#x27;Independence Day&#x27; [VIDEO]September 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7ybA9gPgCvY" title="Is this incredible leaked alien footage real?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7ybA9gPgCvY" target="_blank" rel="noopener noreferrer">Is this incredible leaked alien footage real?</a></p><p class="youtube-embed-meta">Channel: EckhartsLadder &middot; Views: 203.8K &middot; Uploaded: August 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7ybA9gPgCvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7ybA9gPgCvY">Open on YouTube</a></p></div></div></div>
 
 ## Penang “Komtar UFOs” and speculative interpretations
 
-Another widely shared clip came from **George Town, Penang**, in early 2017. A 30‑second video posted on Facebook allegedly showed two small white objects flying alongside the **Komtar tower**, one of Penang’s tallest buildings. The clip was **shared thousands of times** and triggered speculation that local residents were witnessing something inexplicable in the city sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/news/nation/2017/01/18/video-of-alleged-ufos-over-komtar-goes-viral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Video of &#x27;UFOs&#x27; over Komtar goes viral</span><span class="citation-popover-snippet">The StarVideo of &#x27;UFOs&#x27; over Komtar goes viralJanuary 18, 2017 — 18 Jan 2017 — PETALING JAYA: A video purportedly showing UFOs floating n...</span><span class="citation-popover-meta">Published: January 18, 2017</span></span></span>
+Another widely shared clip came from **George Town, Penang**, in early 2017. A 30‑second video posted on Facebook allegedly showed two small white objects flying alongside the **Komtar tower**, one of Penang’s tallest buildings. The clip was **shared thousands of times** and triggered speculation that local residents were witnessing something inexplicable in the city sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/news/nation/2017/01/18/video-of-alleged-ufos-over-komtar-goes-viral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Video of &#x27;UFOs&#x27; over Komtar goes viral</span><span class="citation-popover-snippet">The StarVideo of &#x27;UFOs&#x27; over Komtar goes viralJanuary 18, 2017 — 18 Jan 2017 — PETALING JAYA: A video purportedly showing UFOs floating n...</span><span class="citation-popover-meta">Published: January 18, 2017</span></span></span>
 
-Local reporting on this case emphasised the **viral nature of the video**, with netizens debating whether the objects were drones, birds, or something else entirely. Some social posts speculated in jest about alien visitors; others suggested more mundane explanations such as **consumer quadcopters (e.g., DJI Phantom drones)** as plausible sources of the objects seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://worldofbuzz.com/malaysians-uploaded-footage-ufos-flying-komtar-going-viral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldofbuzz.com">[WORLD OF BUZZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldofbuzz.com</span><span class="citation-popover-snippet">WORLD OF BUZZMalaysians Uploaded Footage Of &#x27;Ufos&#x27; Flying Over Komtar...January 18, 2017 — 18 Jan 2017 — The video showed 2 white uniden...</span><span class="citation-popover-meta">Published: January 18, 2017</span></span></span>
+Local reporting on this case emphasised the **viral nature of the video**, with netizens debating whether the objects were drones, birds, or something else entirely. Some social posts speculated in jest about alien visitors; others suggested more mundane explanations such as **consumer quadcopters (e.g., DJI Phantom drones)** as plausible sources of the objects seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://worldofbuzz.com/malaysians-uploaded-footage-ufos-flying-komtar-going-viral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldofbuzz.com">[WORLD OF BUZZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldofbuzz.com</span><span class="citation-popover-snippet">WORLD OF BUZZMalaysians Uploaded Footage Of &#x27;Ufos&#x27; Flying Over Komtar...January 18, 2017 — 18 Jan 2017 — The video showed 2 white uniden...</span><span class="citation-popover-meta">Published: January 18, 2017</span></span></span>
 
 Importantly, none of the credible news coverage **verified these objects as extraterrestrial or technically unidentified beyond ordinary technology or wildlife**. The absence of official endorsement and reliance on social speculation highlights how easily ambiguous footage can be misread, especially in an urban context where drones, aircraft and birds are common.
 
@@ -274,7 +274,7 @@ Importantly, none of the credible news coverage **verified these objects as extr
 
 A recurring issue with Malaysian UFO videos is **how descriptions evolve as clips are reshared across platforms**. A low‑resolution video originally meant to show a strange silhouette in the sky can later be captioned with dramatic claims (“alien spaceship hovering overhead!”, “proof of extraterrestrial life!”) as it jumps from one social network account to another. This phenomenon is common in internet virality but particularly consequential for UFO narratives because **ordinary objects easily generate misinterpretation without clear metadata** (such as time, location, camera angle, or independent eyewitness verification).
 
-In many cases, posts attach **authoritative attributions that are inaccurate**—for example, claiming that national news agencies or government sources confirmed the video, when in fact local police explicitly denied any such events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mstar.com.my/lokal/semasa/2016/09/02/polis-nafi-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mstar.com.my">[mStar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mstar.com.my</span><span class="citation-popover-title">m Star Polis Nafi Viral UFO Berlegar Di Kuala Krai</span><span class="citation-popover-snippet">Polis Nafi Viral UFO Berlegar Di Kuala Krai - Semasa &#124; mStarSeptember 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span> Such misattributions contribute to a narrative momentum that is not grounded in verifiable evidence.
+In many cases, posts attach **authoritative attributions that are inaccurate**—for example, claiming that national news agencies or government sources confirmed the video, when in fact local police explicitly denied any such events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mstar.com.my/lokal/semasa/2016/09/02/polis-nafi-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mstar.com.my">[mStar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mstar.com.my</span><span class="citation-popover-title">m Star Polis Nafi Viral UFO Berlegar Di Kuala Krai</span><span class="citation-popover-snippet">Polis Nafi Viral UFO Berlegar Di Kuala Krai - Semasa &#124; mStarSeptember 2, 2016...</span><span class="citation-popover-meta">Published: September 2, 2016</span></span></span> Such misattributions contribute to a narrative momentum that is not grounded in verifiable evidence.
 
 Another layer is the role of **CGI and digital editing tools**. Independent discussions and fact‑checkers have noted that some viral clips circulating under Malaysian tags are **indistinguishable from computer‑generated imagery**, whether posted on UFO enthusiast channels or general social platforms. While these discussions are often informal and not tied to Malaysian authorities per se, they raise awareness that **visual effects can easily be mistaken for genuine footage online when context is incomplete**.
 
@@ -313,194 +313,194 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q0HRS_IzTmU" title="Are they aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer">Are they aliens?</a></p><p class="youtube-embed-meta">Channel: ReasonTV &middot; Views: 20.7K &middot; Uploaded: October 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q0HRS_IzTmU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Malaysian UFO Videos Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Malaysian UFO Videos Go Viral. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides context for video-era sightings and recurring explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for video-era sightings and recurring explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Examines how media amplification shapes UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how media amplification shapes UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality and evaluating reported visual material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality and evaluating reported visual material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Discusses evidence assessment and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence assessment and witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-malaysian-ufo-videos-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-malaysian-ufo-videos-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -703,202 +703,201 @@ In Malaysia’s case, viral UFO videos have repeatedly shown how **social media 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: enstarz.com  
    Title: ufo 2016 malaysian sighting spots mysterious spaceship straight out independence  
-   Link: <a href="https://www.enstarz.com/articles/172338/20160902/ufo-2016-malaysian-sighting-spots-mysterious-spaceship-straight-out-independence.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.enstarz.com/articles/172338/20160902/ufo-2016-malaysian-sighting-spots-mysterious-spaceship-straight-out-independence.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO 2016: Malaysian Sighting Spots Mysterious Spaceship Straight Out Of &#x27;Independence Day&#x27; [VIDEO]September 2, 2016...</p></details>
+   Link:<a href="https://www.enstarz.com/articles/172338/20160902/ufo-2016-malaysian-sighting-spots-mysterious-spaceship-straight-out-independence.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.enstarz.com/articles/172338/20160902/ufo-2016-malaysian-sighting-spots-mysterious-spaceship-straight-out-independence.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO 2016: Malaysian Sighting Spots Mysterious Spaceship Straight Out Of &#x27;Independence Day&#x27; [VIDEO]September 2, 2016...</p></details>
    Published: September 2, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: worldofbuzz.com  
-   Link: <a href="https://worldofbuzz.com/malaysians-uploaded-footage-ufos-flying-komtar-going-viral/" target="_blank" rel="noopener noreferrer nofollow">https://worldofbuzz.com/malaysians-uploaded-footage-ufos-flying-komtar-going-viral/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD OF BUZZMalaysians Uploaded Footage Of &#x27;Ufos&#x27; Flying Over Komtar...January 18, 2017 — 18 Jan 2017 — The video showed 2 white uniden...</p></details>
+   Link:<a href="https://worldofbuzz.com/malaysians-uploaded-footage-ufos-flying-komtar-going-viral/" target="_blank" rel="noopener noreferrer nofollow">https://worldofbuzz.com/malaysians-uploaded-footage-ufos-flying-komtar-going-viral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD OF BUZZMalaysians Uploaded Footage Of &#x27;Ufos&#x27; Flying Over Komtar...January 18, 2017 — 18 Jan 2017 — The video showed 2 white uniden...</p></details>
    Published: January 18, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: in 2019 multiple witnesses reported seeing a massive black triangular object hov  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/in-2019-multiple-witnesses-reported-seeing-a-massive-black-triangular-object-hov/1656158886510744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/in-2019-multiple-witnesses-reported-seeing-a-massive-black-triangular-object-hov/1656158886510744/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced military technology? Or just a figment of people&#x27;s imaginations? Black Triangles are UFOs that have...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/in-2019-multiple-witnesses-reported-seeing-a-massive-black-triangular-object-hov/1656158886510744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/in-2019-multiple-witnesses-reported-seeing-a-massive-black-triangular-object-hov/1656158886510744/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced military technology? Or just a figment of people&#x27;s imaginations? Black Triangles are UFOs that have...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanakkammalaysiadotcom/posts/second-batch-of-ufo-videos-released-in-us-sparking-renewed-global-debatelatest-v/1389963376496393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanakkammalaysiadotcom/posts/second-batch-of-ufo-videos-released-in-us-sparking-renewed-global-debatelatest-v/1389963376496393/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Second batch of UFO videos released in US, sparking...#UFO #UniverseMysteries #AlienLife #Xiamen #ViralNews #IncrediblePhoto #SpaceExplo...</p></details>
+   Link:<a href="https://www.facebook.com/vanakkammalaysiadotcom/posts/second-batch-of-ufo-videos-released-in-us-sparking-renewed-global-debatelatest-v/1389963376496393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanakkammalaysiadotcom/posts/second-batch-of-ufo-videos-released-in-us-sparking-renewed-global-debatelatest-v/1389963376496393/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Second batch of UFO videos released in US, sparking...#UFO #UniverseMysteries #AlienLife #Xiamen #ViralNews #IncrediblePhoto #SpaceExplo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thescarecast/posts/a-viral-video-linked-to-the-disappearance-of-malaysia-airlines-flight-mh370-show/1646703559837945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/posts/a-viral-video-linked-to-the-disappearance-of-malaysia-airlines-flight-mh370-show/1646703559837945/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nds.... Some people are saying this was alien UFOs saving...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/thescarecast/posts/a-viral-video-linked-to-the-disappearance-of-malaysia-airlines-flight-mh370-show/1646703559837945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/posts/a-viral-video-linked-to-the-disappearance-of-malaysia-airlines-flight-mh370-show/1646703559837945/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nds.... Some people are saying this was alien UFOs saving...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1498905597085509/posts/3283058598670191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1498905597085509/posts/3283058598670191/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ammed Mousa. Try cleaning both lenses of your phone cameras.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1498905597085509/posts/3283058598670191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1498905597085509/posts/3283058598670191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ammed Mousa. Try cleaning both lenses of your phone cameras.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7ybA9gPgCvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ybA9gPgCvY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is this incredible leaked alien footage real?Reddit has rediscovered a video which originally appeared in 2014 which purports to show fro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7ybA9gPgCvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ybA9gPgCvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is this incredible leaked alien footage real?Reddit has rediscovered a video which originally appeared in 2014 which purports to show fro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Viral Palsu: UFO Berlegar Di Kuala Krai  
-   Link: <a href="https://www.youtube.com/watch?v=yXDBLDUbSB0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yXDBLDUbSB0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yXDBLDUbSB0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yXDBLDUbSB0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Pentagon UFO files show no alien evidence, analyst says  
-   Link: <a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are they aliens?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are they aliens?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Are they aliens?  
-   Link: <a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q0HRS_IzTmU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My UFO Mistake...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q0HRS_IzTmU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My UFO Mistake...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: My UFO Mistake  
-   Link: <a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YIS16GfzfQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress UFO Hearing - It&#x27;s even crazier than you think...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YIS16GfzfQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congress UFO Hearing - It&#x27;s even crazier than you think...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Congress UFO Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EDyZvv3D3ws</a>  
+   Link:<a href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EDyZvv3D3ws</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: malaymail.com  
    Title: Malay Mail UFO sighted over Kuala Krai? (VIDEO) | Malay Mail  
-   Link: <a href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malay MailUFO sighted over Kuala Krai? (VIDEO) | Malay MailSeptember 2, 2016...</p></details>
+   Link:<a href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malay MailUFO sighted over Kuala Krai? (VIDEO) | Malay MailSeptember 2, 2016...</p></details>
    Published: September 2, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thestar.com.my  
    Title: The Star Video of 'UFOs' over Komtar goes viral  
-   Link: <a href="https://www.thestar.com.my/news/nation/2017/01/18/video-of-alleged-ufos-over-komtar-goes-viral" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/news/nation/2017/01/18/video-of-alleged-ufos-over-komtar-goes-viral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The StarVideo of &#x27;UFOs&#x27; over Komtar goes viralJanuary 18, 2017 — 18 Jan 2017 — PETALING JAYA: A video purportedly showing UFOs floating n...</p></details>
+   Link:<a href="https://www.thestar.com.my/news/nation/2017/01/18/video-of-alleged-ufos-over-komtar-goes-viral" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/news/nation/2017/01/18/video-of-alleged-ufos-over-komtar-goes-viral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The StarVideo of &#x27;UFOs&#x27; over Komtar goes viralJanuary 18, 2017 — 18 Jan 2017 — PETALING JAYA: A video purportedly showing UFOs floating n...</p></details>
    Published: January 18, 2017  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mstar.com.my  
    Title: m Star Polis Nafi Viral UFO Berlegar Di Kuala Krai  
-   Link: <a href="https://www.mstar.com.my/lokal/semasa/2016/09/02/polis-nafi-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.mstar.com.my/lokal/semasa/2016/09/02/polis-nafi-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Polis Nafi Viral UFO Berlegar Di Kuala Krai - Semasa | mStarSeptember 2, 2016...</p></details>
+   Link:<a href="https://www.mstar.com.my/lokal/semasa/2016/09/02/polis-nafi-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.mstar.com.my/lokal/semasa/2016/09/02/polis-nafi-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Polis Nafi Viral UFO Berlegar Di Kuala Krai - Semasa | mStarSeptember 2, 2016...</p></details>
    Published: September 2, 2016  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mstar.com.my  
    Title: PETALING JAYA: Sebuah video yang menunjukkan kononnya objek terbang tidak dike  
-   Link: <a href="https://www.mstar.com.my/lokal/semasa/2017/01/18/video-ufo-komtar" target="_blank" rel="noopener noreferrer nofollow">https://www.mstar.com.my/lokal/semasa/2017/01/18/video-ufo-komtar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video &#x27;UFO&#x27; Di Ruang Udara Komtar Jadi Viral - Semasa | mStarJanuary 18, 2017 — VIDEO &#x27;UFO&#x27; DI RUANG UDARA KOMTAR JADI VIRAL Rabu, 18 Jan...</p></details>
+   Link:<a href="https://www.mstar.com.my/lokal/semasa/2017/01/18/video-ufo-komtar" target="_blank" rel="noopener noreferrer nofollow">https://www.mstar.com.my/lokal/semasa/2017/01/18/video-ufo-komtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video &#x27;UFO&#x27; Di Ruang Udara Komtar Jadi Viral - Semasa | mStarJanuary 18, 2017 — VIDEO &#x27;UFO&#x27; DI RUANG UDARA KOMTAR JADI VIRAL Rabu, 18 Jan...</p></details>
    Published: January 18, 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: portsmouth.co.uk  
-   Link: <a href="https://www.portsmouth.co.uk/news/video-offbeat-ufo-spotted-circulating-malaysia-1204713" target="_blank" rel="noopener noreferrer nofollow">https://www.portsmouth.co.uk/news/video-offbeat-ufo-spotted-circulating-malaysia-1204713</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Offbeat: UFO spotted circulating MalaysiaSeptember 3, 2016 — VIDEO - OFFBEAT: UFO SPOTTED CIRCULATING MALAYSIA By The Newsroom Published...</p></details>
+   Link:<a href="https://www.portsmouth.co.uk/news/video-offbeat-ufo-spotted-circulating-malaysia-1204713" target="_blank" rel="noopener noreferrer nofollow">https://www.portsmouth.co.uk/news/video-offbeat-ufo-spotted-circulating-malaysia-1204713</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Offbeat: UFO spotted circulating MalaysiaSeptember 3, 2016 — VIDEO - OFFBEAT: UFO SPOTTED CIRCULATING MALAYSIA By The Newsroom Published...</p></details>
    Published: September 3, 2016  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: inquisitr.com  
-   Link: <a href="https://www.inquisitr.com/independence-day-style-flying-saucer-ufo-filmed-flying-over-remote-malaysian-village-real-or-fake-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/independence-day-style-flying-saucer-ufo-filmed-flying-over-remote-malaysian-village-real-or-fake-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Video] - Inquisitr NewsSeptember 2, 2016 — INDEPENDENCE DAY-STYLE FLYING SAUCER UFO FILMED FLYING OVER REMOTE MALAYSIAN VILLAGE — REAL O...</p></details>
+   Link:<a href="https://www.inquisitr.com/independence-day-style-flying-saucer-ufo-filmed-flying-over-remote-malaysian-village-real-or-fake-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/independence-day-style-flying-saucer-ufo-filmed-flying-over-remote-malaysian-village-real-or-fake-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Video] - Inquisitr NewsSeptember 2, 2016 — INDEPENDENCE DAY-STYLE FLYING SAUCER UFO FILMED FLYING OVER REMOTE MALAYSIAN VILLAGE — REAL O...</p></details>
    Published: September 2, 2016  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: malaymail.com  
    Title: UF O sighted over Kuala Krai?  
-   Link: <a href="https://www.malaymail.com/amp/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/amp/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(VIDEO) | Malay MailSeptember 2, 2016 — Malaysia UFO sighted over Kuala Krai? (VIDEO) A YouTube screenshot of the alleged UFO sighting in...</p></details>
+   Link:<a href="https://www.malaymail.com/amp/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/amp/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(VIDEO) | Malay MailSeptember 2, 2016 — Malaysia UFO sighted over Kuala Krai? (VIDEO) A YouTube screenshot of the alleged UFO sighting in...</p></details>
    Published: September 2, 2016  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thestar.com.my  
    Title: Police rubbish UFO sighting in Kuala Krai | The Star  
-   Link: <a href="https://www.thestar.com.my/news/nation/2016/09/02/police-rubbish-ufo-sighting-in-kuala-krai/" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/news/nation/2016/09/02/police-rubbish-ufo-sighting-in-kuala-krai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2016 — POLICE RUBBISH UFO SIGHTING IN KUALA KRAI * * * Friday, 02 Sep 2016 | 1:49 AM MYT bookmark [Input] [Input] iframe KOT...</p></details>
+   Link:<a href="https://www.thestar.com.my/news/nation/2016/09/02/police-rubbish-ufo-sighting-in-kuala-krai/" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/news/nation/2016/09/02/police-rubbish-ufo-sighting-in-kuala-krai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2016 — POLICE RUBBISH UFO SIGHTING IN KUALA KRAI * * * Friday, 02 Sep 2016 | 1:49 AM MYT bookmark [Input] [Input] iframe KOT...</p></details>
    Published: September 2, 2016  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: stomp.sg  
    Title: video of ufos flying in malaysian skies goes viral  
-   Link: <a href="https://www.stomp.sg/singapore-seen/video-of-ufos-flying-in-malaysian-skies-goes-viral" target="_blank" rel="noopener noreferrer nofollow">https://www.stomp.sg/singapore-seen/video-of-ufos-flying-in-malaysian-skies-goes-viral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video of &#x27;UFOs&#x27; flying in Malaysian skies goes viral17 Jan 2017 — A video allegedly showing UFOs flying near Komtar in George Town, Penan...</p></details>
+   Link:<a href="https://www.stomp.sg/singapore-seen/video-of-ufos-flying-in-malaysian-skies-goes-viral" target="_blank" rel="noopener noreferrer nofollow">https://www.stomp.sg/singapore-seen/video-of-ufos-flying-in-malaysian-skies-goes-viral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video of &#x27;UFOs&#x27; flying in Malaysian skies goes viral17 Jan 2017 — A video allegedly showing UFOs flying near Komtar in George Town, Penan...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dailymotion.com  
    Title: 'UFO' sighted at Penang Komtar?  
-   Link: <a href="https://www.dailymotion.com/video/x7vkply" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x7vkply</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>video DailymotionA video of a supposed &quot;UFO&quot; sighting has gone viral on social media. The video uploaded on Jan 17 has received over 250...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/x7vkply" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x7vkply</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>video DailymotionA video of a supposed &quot;UFO&quot; sighting has gone viral on social media. The video uploaded on Jan 17 has received over 250...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: leadstories.com  
-   Link: <a href="https://leadstories.com/hoax-alert/2024/07/fact-check-video-does-not-show-malaysia-airlines-flight-370-vanishing-in-2014-its-fake.html" target="_blank" rel="noopener noreferrer nofollow">https://leadstories.com/hoax-alert/2024/07/fact-check-video-does-not-show-malaysia-airlines-flight-370-vanishing-in-2014-its-fake.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check: Video Does NOT Show Malaysia Airlines Flight MH370 Vanishing In 2014 -- It&#x27;s Fake | Lead StoriesJuly 17, 2024 — FACT CHECK: V...</p></details>
+   Link:<a href="https://leadstories.com/hoax-alert/2024/07/fact-check-video-does-not-show-malaysia-airlines-flight-370-vanishing-in-2014-its-fake.html" target="_blank" rel="noopener noreferrer nofollow">https://leadstories.com/hoax-alert/2024/07/fact-check-video-does-not-show-malaysia-airlines-flight-370-vanishing-in-2014-its-fake.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check: Video Does NOT Show Malaysia Airlines Flight MH370 Vanishing In 2014 -- It&#x27;s Fake | Lead StoriesJuly 17, 2024 — FACT CHECK: V...</p></details>
    Published: July 17, 2024  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and have provided exhaustive evidence that these videos are legitimate...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and have provided exhaustive evidence that these videos are legitimate...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sportskeeda.com  
    Title: Was the MH370 Boeing abducted by UFOs?  
-   Link: <a href="https://www.sportskeeda.com/pop-culture/news-fact-check-was-mh370-boeing-abducted-ufos-viral-claim-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.sportskeeda.com/pop-culture/news-fact-check-was-mh370-boeing-abducted-ufos-viral-claim-debunked</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral NROL-22 theory exploredAugust 14, 2023 — WAS THE MH370 BOEING ABDUCTED BY UFOS? VIRAL NROL-22 THEORY EXPLORED By Deeksha Modified A...</p></details>
+   Link:<a href="https://www.sportskeeda.com/pop-culture/news-fact-check-was-mh370-boeing-abducted-ufos-viral-claim-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.sportskeeda.com/pop-culture/news-fact-check-was-mh370-boeing-abducted-ufos-viral-claim-debunked</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viral NROL-22 theory exploredAugust 14, 2023 — WAS THE MH370 BOEING ABDUCTED BY UFOS? VIRAL NROL-22 THEORY EXPLORED By Deeksha Modified A...</p></details>
    Published: August 14, 2023  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mynewshub.tv  
    Title: Polis Nafi UFO Berlegar Di Kuala Krai  
-   Link: <a href="https://www.mynewshub.tv/2016/09/polis-nafi-ufo-berlegar-di-kuala-krai/" target="_blank" rel="noopener noreferrer nofollow">https://www.mynewshub.tv/2016/09/polis-nafi-ufo-berlegar-di-kuala-krai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2016 — POLIS NAFI UFO BERLEGAR DI KUALA KRAI oleh Ahmad Albab 02/09/2016 dalam Jenayah, Utama &amp; Sensasi KOTA BHARU – POLIS K...</p></details>
+   Link:<a href="https://www.mynewshub.tv/2016/09/polis-nafi-ufo-berlegar-di-kuala-krai/" target="_blank" rel="noopener noreferrer nofollow">https://www.mynewshub.tv/2016/09/polis-nafi-ufo-berlegar-di-kuala-krai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2016 — POLIS NAFI UFO BERLEGAR DI KUALA KRAI oleh Ahmad Albab 02/09/2016 dalam Jenayah, Utama &amp; Sensasi KOTA BHARU – POLIS K...</p></details>
    Published: September 2, 2016  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: malaysiakini.com  
    Title: Police rubbish UFO ‘sighting’ in Kuala Krai  
-   Link: <a href="https://www.malaysiakini.com/news/354383" target="_blank" rel="noopener noreferrer nofollow">https://www.malaysiakini.com/news/354383</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2016 — Image: story imageImage: story image Image: mk-logo News Police rubbish UFO ‘sighting’ in Kuala Krai Bernama...</p></details>
+   Link:<a href="https://www.malaysiakini.com/news/354383" target="_blank" rel="noopener noreferrer nofollow">https://www.malaysiakini.com/news/354383</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2016 — Image: story imageImage: story image Image: mk-logo News Police rubbish UFO ‘sighting’ in Kuala Krai Bernama...</p></details>
    Published: September 2, 2016  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: snopes.com  
    Title: ufo spotted malaysia  
-   Link: <a href="https://www.snopes.com/fact-check/ufo-spotted-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufo-spotted-malaysia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was a Large Disc-Shaped UFO Spotted in Malaysia?3 Feb 2017 — Video of a supposed UFO sighting in Malaysia in 2016 was actually taken from...</p></details>
+   Link:<a href="https://www.snopes.com/fact-check/ufo-spotted-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufo-spotted-malaysia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was a Large Disc-Shaped UFO Spotted in Malaysia?3 Feb 2017 — Video of a supposed UFO sighting in Malaysia in 2016 was actually taken from...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nst.com.my  
    Title: NST Online Police rubbish UFO sighting in Kuala Krai  
-   Link: <a href="https://www.nst.com.my/news/nation/2016/09/170126/police-rubbish-ufo-sighting-kuala-krai" target="_blank" rel="noopener noreferrer nofollow">https://www.nst.com.my/news/nation/2016/09/170126/police-rubbish-ufo-sighting-kuala-krai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The police today rubbished an unidentified flying object (...</p></details>
+   Link:<a href="https://www.nst.com.my/news/nation/2016/09/170126/police-rubbish-ufo-sighting-kuala-krai" target="_blank" rel="noopener noreferrer nofollow">https://www.nst.com.my/news/nation/2016/09/170126/police-rubbish-ufo-sighting-kuala-krai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The police today rubbished an unidentified flying object (...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: factcheck.afp.com  
-   Link: <a href="https://factcheck.afp.com/doc.afp.com.39GH3WJ" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/doc.afp.com.39GH3WJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>posts share AI-generated footage of fire caused by gas leak in Malaysia | Fact CheckApril 9, 2025 — FALSE POSTS SHARE AI-GENERATED FOOTAG...</p></details>
+   Link:<a href="https://factcheck.afp.com/doc.afp.com.39GH3WJ" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/doc.afp.com.39GH3WJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>posts share AI-generated footage of fire caused by gas leak in Malaysia | Fact CheckApril 9, 2025 — FALSE POSTS SHARE AI-GENERATED FOOTAG...</p></details>
    Published: April 9, 2025  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/malaysia/comments/ybbuv9/malaysia_also_have_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/malaysia/comments/ybbuv9/malaysia_also_have_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ch 5 as at the time...</p></details>
+   Link:<a href="https://www.reddit.com/r/malaysia/comments/ybbuv9/malaysia_also_have_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/malaysia/comments/ybbuv9/malaysia_also_have_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ch 5 as at the time...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
    Title: DWHSun QAKfy  
-   Link: <a href="https://www.instagram.com/p/DWHSunQAKfy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHSunQAKfy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2019, multiple witnesses in Kuala Lumpur, Malaysia...A UFO the size of a football field landed in Malaysia. The government said it wa...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWHSunQAKfy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHSunQAKfy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2019, multiple witnesses in Kuala Lumpur, Malaysia...A UFO the size of a football field landed in Malaysia. The government said it wa...</p></details>

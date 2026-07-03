@@ -254,14 +254,14 @@ image: /assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-1
 
 ## Introduction
 
-Mauritius provides an unusual setting for understanding UFO reports because the island combines relatively dark ocean horizons, a long-standing astronomy community, university-based radio astronomy projects, and active public outreach. The result is a culture in which many people pay attention to the sky, increasing the likelihood that unusual lights or atmospheric events will be noticed. At the same time, that scientific awareness often supplies the tools needed to identify those events as satellites, rocket launches, planets, meteors, aircraft, or atmospheric phenomena rather than genuinely unexplained objects. In Mauritius, astronomy culture does not simply increase UFO reporting; it also acts as one of the strongest mechanisms for evaluating and often resolving reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro4dev.org">[IAU Office of Astronomy for Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro4dev.org</span><span class="citation-popover-snippet">IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</span></span></span>
+Mauritius provides an unusual setting for understanding UFO reports because the island combines relatively dark ocean horizons, a long-standing astronomy community, university-based radio astronomy projects, and active public outreach. The result is a culture in which many people pay attention to the sky, increasing the likelihood that unusual lights or atmospheric events will be noticed. At the same time, that scientific awareness often supplies the tools needed to identify those events as satellites, rocket launches, planets, meteors, aircraft, or atmospheric phenomena rather than genuinely unexplained objects. In Mauritius, astronomy culture does not simply increase UFO reporting; it also acts as one of the strongest mechanisms for evaluating and often resolving reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro4dev.org">[IAU Office of Astronomy for Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro4dev.org</span><span class="citation-popover-snippet">IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</span></span></span>
 
 <img src="{{ "/assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-1-dark.svg" | relative_url }}" alt="Astronomy Context illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The island's UFO record therefore reflects a recurring tension. A population that watches the sky more closely will inevitably notice more anomalies, but a population with greater sky literacy is also better equipped to distinguish extraordinary claims from ordinary celestial events.
 
 ## Why Astronomy Matters in the Mauritian UFO Context
 
-Unlike countries where UFO reports emerge primarily through popular culture or social media, Mauritius has developed astronomy through educational institutions, public science programmes, and radio astronomy research. The country's scientific engagement with the sky dates back decades and has produced a community of students, educators, amateur observers, and researchers who regularly monitor celestial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwws.rri.res.in">[RRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwws.rri.res.in</span><span class="citation-popover-snippet">RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span>
+Unlike countries where UFO reports emerge primarily through popular culture or social media, Mauritius has developed astronomy through educational institutions, public science programmes, and radio astronomy research. The country's scientific engagement with the sky dates back decades and has produced a community of students, educators, amateur observers, and researchers who regularly monitor celestial activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwws.rri.res.in">[RRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwws.rri.res.in</span><span class="citation-popover-snippet">RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span>
 
 This influences UFO reporting in several ways:
 
@@ -281,7 +281,7 @@ As a result, many Mauritian sightings move relatively quickly from the category 
 
 ## Mauritius Radio Telescope and the Scientific View of the Sky
 
-One of the most important scientific influences on Mauritian sky observation is the Mauritius Radio Telescope (MRT) at Bras d'Eau. Built through collaboration between the University of Mauritius and Indian research institutions, the MRT became one of Africa's earliest radio interferometers and was designed to survey the southern sky at low radio frequencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwws.rri.res.in">[RRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwws.rri.res.in</span><span class="citation-popover-snippet">RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</span></span></span> ResearchGate The telescope itself does not investigate UFOs. However <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/230662009_The_Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The Mauritius Radio TelescopeThe Mauritius Radio Telescope (MRT) is a Fourier synthesis instrument which has been built to fill the...</span></span></span>, its broader significance lies in the scientific culture it helped create. The MRT contributed to astronomy education, trained students in observational techniques, and established astronomy as a visible scientific field within Mauritius. Researchers associated with radio astronomy routinely work with data verification, signal analysis, and the identification of natural and human-made sources of electromagnetic activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2021/10/25/mauritius-space-journey-strategic-goals-and-roadmap-to-the-future-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">mauritius space journey strategic goals and roadmap to the future 2</span><span class="citation-popover-snippet">Space in AfricaMauritius&#x27; Space Journey, Strategic Goals and Roadmap to...25 Oct 2021 — The country built its telescope, the Mauritius R...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span>
+One of the most important scientific influences on Mauritian sky observation is the Mauritius Radio Telescope (MRT) at Bras d'Eau. Built through collaboration between the University of Mauritius and Indian research institutions, the MRT became one of Africa's earliest radio interferometers and was designed to survey the southern sky at low radio frequencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwws.rri.res.in">[RRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwws.rri.res.in</span><span class="citation-popover-snippet">RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</span></span></span> ResearchGate The telescope itself does not investigate UFOs. However<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/230662009_The_Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The Mauritius Radio TelescopeThe Mauritius Radio Telescope (MRT) is a Fourier synthesis instrument which has been built to fill the...</span></span></span>, its broader significance lies in the scientific culture it helped create. The MRT contributed to astronomy education, trained students in observational techniques, and established astronomy as a visible scientific field within Mauritius. Researchers associated with radio astronomy routinely work with data verification, signal analysis, and the identification of natural and human-made sources of electromagnetic activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2021/10/25/mauritius-space-journey-strategic-goals-and-roadmap-to-the-future-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">mauritius space journey strategic goals and roadmap to the future 2</span><span class="citation-popover-snippet">Space in AfricaMauritius&#x27; Space Journey, Strategic Goals and Roadmap to...25 Oct 2021 — The country built its telescope, the Mauritius R...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span>
 
 This mindset is important when unusual aerial reports appear. Scientific observers are generally trained to ask questions such as:
 
@@ -301,7 +301,7 @@ Such questions shift discussion away from speculation and towards evidence-based
 
 ## Université des Mascareignes Observatories and Modern Sky Monitoring
 
-Mauritius' astronomy infrastructure has continued to develop. In 2024, the Université des Mascareignes hosted the first African deployment of the Transient Array Radio Telescope (TART), a low-cost radio astronomy instrument designed for all-sky observations and educational research. The installation was supported by the South African Radio Astronomy Observatory and international collaborators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Transient Array Radio Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Transient Array Radio TelescopeThe Transient Array Radio Telescope (TART) is a low-cost open-source array radio telescope consisting o...</span></span></span>
+Mauritius' astronomy infrastructure has continued to develop. In 2024, the Université des Mascareignes hosted the first African deployment of the Transient Array Radio Telescope (TART), a low-cost radio astronomy instrument designed for all-sky observations and educational research. The installation was supported by the South African Radio Astronomy Observatory and international collaborators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Transient Array Radio Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Transient Array Radio TelescopeThe Transient Array Radio Telescope (TART) is a low-cost open-source array radio telescope consisting o...</span></span></span>
 
 Although TART is not a UFO detection system, projects of this kind increase local expertise in observing transient events—brief phenomena that appear unexpectedly in the sky. Scientists and students involved in such programmes become familiar with distinguishing between:
 
@@ -315,7 +315,7 @@ Although TART is not a UFO detection system, projects of this kind increase loca
 
 </div>
 
-This knowledge affects the wider observation culture. When unusual reports emerge, local astronomy communities are more likely to investigate them through established scientific methods rather than treating them as inherently mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+This knowledge affects the wider observation culture. When unusual reports emerge, local astronomy communities are more likely to investigate them through established scientific methods rather than treating them as inherently mysterious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 The presence of university-based astronomy projects therefore acts as a filtering mechanism within Mauritius' UFO landscape.
 
@@ -324,7 +324,7 @@ The presence of university-based astronomy projects therefore acts as a filterin
 
 Perhaps the strongest influence on UFO reporting comes from public astronomy outreach rather than from research facilities alone.
 
-Studies of astronomy development in Mauritius describe telescope viewing events, school outreach programmes, public observations of astronomical phenomena, and organised sky-watching activities conducted through scientific and educational organisations. Public observing sessions have included events such as solar observations, planetary viewing, and broader astronomy awareness campaigns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro4dev.org">[IAU Office of Astronomy for Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro4dev.org</span><span class="citation-popover-snippet">IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</span></span></span>
+Studies of astronomy development in Mauritius describe telescope viewing events, school outreach programmes, public observations of astronomical phenomena, and organised sky-watching activities conducted through scientific and educational organisations. Public observing sessions have included events such as solar observations, planetary viewing, and broader astronomy awareness campaigns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro4dev.org">[IAU Office of Astronomy for Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro4dev.org</span><span class="citation-popover-snippet">IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</span></span></span>
 
 This creates a population that is more familiar with common sources of UFO misidentification, including:
 
@@ -348,7 +348,7 @@ Greater familiarity does not eliminate UFO reports. Instead, it tends to improve
 
 The best-known Mauritius UFO episode illustrates how astronomy culture can transform a mystery into an identified event.
 
-On 29 September 2013, observers across Mauritius and neighbouring regions reported a glowing object in the night sky. Initial reactions included speculation about a UFO. Subsequent investigation connected the phenomenon to venting from the second stage of a SpaceX Falcon 9 rocket launched earlier that day from California. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+On 29 September 2013, observers across Mauritius and neighbouring regions reported a glowing object in the night sky. Initial reactions included speculation about a UFO. Subsequent investigation connected the phenomenon to venting from the second stage of a SpaceX Falcon 9 rocket launched earlier that day from California.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 The significance of the event is not merely that it was explained. It demonstrates the value of astronomical awareness and access to external data. Once launch schedules, orbital information, witness timing, and regional observations were compared, the extraordinary interpretation became unnecessary.
 
@@ -356,7 +356,7 @@ For Mauritius, this case established an important pattern: unusual observations 
 
 ## Why Mauritius Produces Both More Observers and More Skepticism
 
-Astronomy culture can increase the number of reported anomalies because people who observe the sky frequently notice unusual events that others would miss. This phenomenon appears in many regions with active amateur astronomy communities and is relevant to Mauritius as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.12543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The contribution of the modern amateur astronomer to the science of astronomyDecember 23, 2022...</span><span class="citation-popover-meta">Published: December 23, 2022</span></span></span>
+Astronomy culture can increase the number of reported anomalies because people who observe the sky frequently notice unusual events that others would miss. This phenomenon appears in many regions with active amateur astronomy communities and is relevant to Mauritius as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.12543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The contribution of the modern amateur astronomer to the science of astronomyDecember 23, 2022...</span><span class="citation-popover-meta">Published: December 23, 2022</span></span></span>
 
 However, Mauritius also demonstrates the opposite effect. Scientific engagement encourages scepticism grounded in observation rather than dismissal. Observers are often willing to acknowledge that a phenomenon appears unusual while simultaneously withholding conclusions until additional evidence is available.
 
@@ -375,197 +375,197 @@ The island's astronomy culture therefore tends to reduce the number of strong UF
 <img src="{{ "/assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-3-dark.svg" | relative_url }}" alt="Astronomy Context illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Astronomy Culture Reveals About Mauritius UFO Reports
 
-The strongest lesson from Mauritius is that observation culture shapes UFO narratives as much as the phenomena themselves. The country's radio astronomy heritage, university research activity, astronomy outreach programmes, and active skywatching community have created an environment where unusual aerial observations are more likely to be noticed, documented, discussed, and critically examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iau-noc-mur.netlify.app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iau-noc-mur.netlify.app">[IAU-NOC Mauritius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iau-noc-mur.netlify.app</span><span class="citation-popover-snippet">IAU-NOC Mauritius: HomeOfficial website from the International Astronomical Union (IAU) dedicated to Astronomy Outreach in Mauritius...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwws.rri.res.in">[RRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwws.rri.res.in</span><span class="citation-popover-snippet">RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO Consequently]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>, astronomy in Mauritius functions as both a source of sightings and a source of explanations. Many reports begin with genuine surprise, but the island's scientific infrastructure and public familiarity with the sky often provide the context needed to separate misidentifications from events that remain genuinely unresolved. In the Mauritian UFO record, that filtering role may be the most important influence astronomy has had on what ultimately becomes a credible sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro4dev.org">[IAU Office of Astronomy for Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro4dev.org</span><span class="citation-popover-snippet">IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span>
+The strongest lesson from Mauritius is that observation culture shapes UFO narratives as much as the phenomena themselves. The country's radio astronomy heritage, university research activity, astronomy outreach programmes, and active skywatching community have created an environment where unusual aerial observations are more likely to be noticed, documented, discussed, and critically examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iau-noc-mur.netlify.app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iau-noc-mur.netlify.app">[IAU-NOC Mauritius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iau-noc-mur.netlify.app</span><span class="citation-popover-snippet">IAU-NOC Mauritius: HomeOfficial website from the International Astronomical Union (IAU) dedicated to Astronomy Outreach in Mauritius...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwws.rri.res.in">[RRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwws.rri.res.in</span><span class="citation-popover-snippet">RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarao.ac.za">[SARAO Consequently]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarao.ac.za</span><span class="citation-popover-snippet">First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>, astronomy in Mauritius functions as both a source of sightings and a source of explanations. Many reports begin with genuine surprise, but the island's scientific infrastructure and public familiarity with the sky often provide the context needed to separate misidentifications from events that remain genuinely unresolved. In the Mauritian UFO record, that filtering role may be the most important influence astronomy has had on what ultimately becomes a credible sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro4dev.org">[IAU Office of Astronomy for Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro4dev.org</span><span class="citation-popover-snippet">IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Night Sky Observations...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mauritius Astronomy and Its Impact on UFO Observations. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mauritius Astronomy and Its Impact on UFO Observations. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how observers interpret unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how observers interpret unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Improves sky literacy and identification of celestial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Improves sky literacy and identification of celestial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers distinguish planets, stars, and astronomical objects from anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish planets, stars, and astronomical objects from anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages scientific observation of the sky and space phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scientific observation of the sky and space phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mauritius-astronomy-and-its-impact-on-ufo-observations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ The strongest lesson from Mauritius is that observation culture shapes UFO narra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ The strongest lesson from Mauritius is that observation culture shapes UFO narra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ The strongest lesson from Mauritius is that observation culture shapes UFO narra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ The strongest lesson from Mauritius is that observation culture shapes UFO narra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ The strongest lesson from Mauritius is that observation culture shapes UFO narra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,162 +768,161 @@ The strongest lesson from Mauritius is that observation culture shapes UFO narra
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wwws.rri.res.in  
-   Link: <a href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow">https://wwws.rri.res.in/surveys/MRT/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</p></details>
+   Link:<a href="https://wwws.rri.res.in/surveys/MRT/index.html" target="_blank" rel="noopener noreferrer nofollow">https://wwws.rri.res.in/surveys/MRT/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RRIMauritius Radio TelescopeIt is situated at Bras d&#x27;Eau (Latitude: ~20°.14 S, Longitude: ~57°.73 E) in the north-east of Mauritius, an i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230662009_The_Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230662009_The_Mauritius_Radio_Telescope</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Mauritius Radio TelescopeThe Mauritius Radio Telescope (MRT) is a Fourier synthesis instrument which has been built to fill the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230662009_The_Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230662009_The_Mauritius_Radio_Telescope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Mauritius Radio TelescopeThe Mauritius Radio Telescope (MRT) is a Fourier synthesis instrument which has been built to fill the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258805633_Astrophysical_Results_of_the_Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258805633_Astrophysical_Results_of_the_Mauritius_Radio_Telescope</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysical Results of the Mauritius Radio TelescopeOne of the first scientific justifications of building the Mauritius Radio Telescop...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258805633_Astrophysical_Results_of_the_Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258805633_Astrophysical_Results_of_the_Mauritius_Radio_Telescope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysical Results of the Mauritius Radio TelescopeOne of the first scientific justifications of building the Mauritius Radio Telescop...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sarao.ac.za  
-   Link: <a href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</p></details>
+   Link:<a href="https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.sarao.ac.za/news/first-tart-telescope-deployment-in-mauritius-marks-a-milestone-for-african-radio-astronomy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First TART telescope deployment in Mauritius marks a...5 Jun 2024 — April 2024 marked a significant milestone for African radio ast...</p></details>
    Published: April 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2212.12543" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.12543</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The contribution of the modern amateur astronomer to the science of astronomyDecember 23, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2212.12543" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.12543</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The contribution of the modern amateur astronomer to the science of astronomyDecember 23, 2022...</p></details>
    Published: December 23, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2012AfrSk..16...24H</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observations...Read more...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/2012AfrSk..16...24H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2012AfrSk..16...24H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observations...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: astro4dev.org  
-   Link: <a href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow">https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</p></details>
+   Link:<a href="https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/" target="_blank" rel="noopener noreferrer nofollow">https://astro4dev.org/an-island-gem-for-astronomy-mauritius-the-next-frontier/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAU Office of Astronomy for DevelopmentAn Island Gem for Astronomy: Mauritius the Next FrontierThe small island, hosted the first radio i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iau-noc-mur.netlify.app  
-   Link: <a href="https://iau-noc-mur.netlify.app/" target="_blank" rel="noopener noreferrer nofollow">https://iau-noc-mur.netlify.app/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAU-NOC Mauritius: HomeOfficial website from the International Astronomical Union (IAU) dedicated to Astronomy Outreach in Mauritius...</p></details>
+   Link:<a href="https://iau-noc-mur.netlify.app/" target="_blank" rel="noopener noreferrer nofollow">https://iau-noc-mur.netlify.app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAU-NOC Mauritius: HomeOfficial website from the International Astronomical Union (IAU) dedicated to Astronomy Outreach in Mauritius...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2008ca07.conf..518S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008ca07.conf..518S/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysics Data SystemThe unique role of the Mauritius Radio Telescopeby S Saddul-Hauzaree · 2008 — It is located at Bras d&#x27;Eau, northe...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2008ca07.conf..518S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008ca07.conf..518S/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysics Data SystemThe unique role of the Mauritius Radio Telescopeby S Saddul-Hauzaree · 2008 — It is located at Bras d&#x27;Eau, northe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: spaceinafrica.com  
    Title: mauritius space journey strategic goals and roadmap to the future 2  
-   Link: <a href="https://spaceinafrica.com/2021/10/25/mauritius-space-journey-strategic-goals-and-roadmap-to-the-future-2/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2021/10/25/mauritius-space-journey-strategic-goals-and-roadmap-to-the-future-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaMauritius&#x27; Space Journey, Strategic Goals and Roadmap to...25 Oct 2021 — The country built its telescope, the Mauritius R...</p></details>
+   Link:<a href="https://spaceinafrica.com/2021/10/25/mauritius-space-journey-strategic-goals-and-roadmap-to-the-future-2/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2021/10/25/mauritius-space-journey-strategic-goals-and-roadmap-to-the-future-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaMauritius&#x27; Space Journey, Strategic Goals and Roadmap to...25 Oct 2021 — The country built its telescope, the Mauritius R...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2024IAUGA..32P2934H/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024IAUGA..32P2934H/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysics Data SystemDevelopment in Africa with Radio Astronomy (DARA)...by N Heeralall-Issur · 2024 — The University of Mauritius (U...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2024IAUGA..32P2934H/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024IAUGA..32P2934H/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysics Data SystemDevelopment in Africa with Radio Astronomy (DARA)...by N Heeralall-Issur · 2024 — The University of Mauritius (U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tart.elec.ac.nz  
    Title: tart install udm  
-   Link: <a href="https://tart.elec.ac.nz/sw/blog/tart-install-udm/" target="_blank" rel="noopener noreferrer nofollow">https://tart.elec.ac.nz/sw/blog/tart-install-udm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>install in Mauritius, April 20249 May 2024 — A successful TART installation workshop was held at Université des Mascareignes, on April 14...</p></details>
+   Link:<a href="https://tart.elec.ac.nz/sw/blog/tart-install-udm/" target="_blank" rel="noopener noreferrer nofollow">https://tart.elec.ac.nz/sw/blog/tart-install-udm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>install in Mauritius, April 20249 May 2024 — A successful TART installation workshop was held at Université des Mascareignes, on April 14...</p></details>
    Published: May 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tart.elec.ac.nz  
-   Link: <a href="https://tart.elec.ac.nz/fr/blog/" target="_blank" rel="noopener noreferrer nofollow">https://tart.elec.ac.nz/fr/blog/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Array Radio TelescopeA successful TART installation workshop was held at Université des Mascareignes, on April 14-19 2024. Th...</p></details>
+   Link:<a href="https://tart.elec.ac.nz/fr/blog/" target="_blank" rel="noopener noreferrer nofollow">https://tart.elec.ac.nz/fr/blog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Array Radio TelescopeA successful TART installation workshop was held at Université des Mascareignes, on April 14-19 2024. Th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SKASOUTHAFRICA/posts/the-prestigious-steve-rawlings-lecture-presented-by-dr-tim-molteno-university-of/1111427350987106/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SKASOUTHAFRICA/posts/the-prestigious-steve-rawlings-lecture-presented-by-dr-tim-molteno-university-of/1111427350987106/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South African Radio Astronomy Observatory - SARAO&#x27;s postHe is known for his innovative work in radio astronomy, particularly the developm...</p></details>
+   Link:<a href="https://www.facebook.com/SKASOUTHAFRICA/posts/the-prestigious-steve-rawlings-lecture-presented-by-dr-tim-molteno-university-of/1111427350987106/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SKASOUTHAFRICA/posts/the-prestigious-steve-rawlings-lecture-presented-by-dr-tim-molteno-university-of/1111427350987106/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South African Radio Astronomy Observatory - SARAO&#x27;s postHe is known for his innovative work in radio astronomy, particularly the developm...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Transient Array Radio Telescope  
-   Link: <a href="https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Array Radio TelescopeThe Transient Array Radio Telescope (TART) is a low-cost open-source array radio telescope consisting o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transient_Array_Radio_Telescope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Array Radio TelescopeThe Transient Array Radio Telescope (TART) is a low-cost open-source array radio telescope consisting o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Mauritius Radio Telescope  
-   Link: <a href="https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mauritius Radio TelescopeThe Mauritius Radio Telescope (MRT) is a synthesis radio telescope in Mauritius that is used to make images o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mauritius_Radio_Telescope</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mauritius Radio TelescopeThe Mauritius Radio Telescope (MRT) is a synthesis radio telescope in Mauritius that is used to make images o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Amateur astronomy  
-   Link: <a href="https://en.wikipedia.org/wiki/Amateur_astronomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Amateur_astronomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amateur astronomyAmateurs commonly join amateur astronomical societies, which can advise, educate, or guide individuals towards ways o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Amateur_astronomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Amateur_astronomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amateur astronomyAmateurs commonly join amateur astronomical societies, which can advise, educate, or guide individuals towards ways o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spaceinafrica.com  
    Title: kenya becomes the third african country to install the tart  
-   Link: <a href="https://spaceinafrica.com/2024/09/04/kenya-becomes-the-third-african-country-to-install-the-tart/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2024/09/04/kenya-becomes-the-third-african-country-to-install-the-tart/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Array (SKA) partner countries. The team recently installed the TART in the Université des Mascareignes, Mauritius, in June 2024. The full...</p></details>
+   Link:<a href="https://spaceinafrica.com/2024/09/04/kenya-becomes-the-third-african-country-to-install-the-tart/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2024/09/04/kenya-becomes-the-third-african-country-to-install-the-tart/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Array (SKA) partner countries. The team recently installed the TART in the Université des Mascareignes, Mauritius, in June 2024. The full...</p></details>
    Published: June 2024  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/mauritiusastronomy/posts/8764088910332838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mauritiusastronomy/posts/8764088910332838/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mauritius Amateur Astronomy/AstrophotographySend us your photos to our email address. astrocienciasecuador@gmail.com The astrophotography...</p></details>
+   Link:<a href="https://www.facebook.com/groups/mauritiusastronomy/posts/8764088910332838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mauritiusastronomy/posts/8764088910332838/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mauritius Amateur Astronomy/AstrophotographySend us your photos to our email address. astrocienciasecuador@gmail.com The astrophotography...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ras.ac.uk  
-   Link: <a href="https://ras.ac.uk/about-the-ras/external-links/131" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/about-the-ras/external-links/131</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anizations and SocietiesThe Web site lists what&#x27;s in the night sky, and all the latest amateur astronomy news. o SpaceWeather.Com Scie...</p></details>
+   Link:<a href="https://ras.ac.uk/about-the-ras/external-links/131" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/about-the-ras/external-links/131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anizations and SocietiesThe Web site lists what&#x27;s in the night sky, and all the latest amateur astronomy news. o SpaceWeather.Com Scie...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ru.ac.za  
    Title: first tart telescope deployment in mauritius marks a milestone for african radio  
-   Link: <a href="https://www.ru.ac.za/physicsandelectronics/latestnews/first_tart_telescope_deployment_in_mauritius_marks_a_milestone_for_african_radio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ru.ac.za/physicsandelectronics/latestnews/first_tart_telescope_deployment_in_mauritius_marks_a_milestone_for_african_radio.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes UniversityFirst TART telescope deployment in Mauritius marks a...22 May 2025 — The installation workshop at Université des Mascar...</p></details>
+   Link:<a href="https://www.ru.ac.za/physicsandelectronics/latestnews/first_tart_telescope_deployment_in_mauritius_marks_a_milestone_for_african_radio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ru.ac.za/physicsandelectronics/latestnews/first_tart_telescope_deployment_in_mauritius_marks_a_milestone_for_african_radio.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes UniversityFirst TART telescope deployment in Mauritius marks a...22 May 2025 — The installation workshop at Université des Mascar...</p></details>
    Published: May 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cotswoldas.org.uk  
-   Link: <a href="https://cotswoldas.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cotswoldas.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cotswold Astronomical Society – Amateur astronomy in...Our monthly meetings take place at Deer Park Archers, Shurdington...</p></details>
+   Link:<a href="https://cotswoldas.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cotswoldas.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cotswold Astronomical Society – Amateur astronomy in...Our monthly meetings take place at Deer Park Archers, Shurdington...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: mauritius radio telescope bras deau national park  
-   Link: <a href="https://www.reddit.com/r/mauritius/comments/ljllvx/mauritius_radio_telescope_bras_deau_national_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mauritius/comments/ljllvx/mauritius_radio_telescope_bras_deau_national_park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mauritius Radio Telescope, Bras d&#x27;Eau National Park [2012]The MRT is a T-shaped array consisting of a 2048m-long East-West arm with 1024...</p></details>
+   Link:<a href="https://www.reddit.com/r/mauritius/comments/ljllvx/mauritius_radio_telescope_bras_deau_national_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mauritius/comments/ljllvx/mauritius_radio_telescope_bras_deau_national_park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mauritius Radio Telescope, Bras d&#x27;Eau National Park [2012]The MRT is a T-shaped array consisting of a 2048m-long East-West arm with 1024...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/mauritiusastronomy/posts/26492233030425153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mauritiusastronomy/posts/26492233030425153/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s where we can come and learn about astronomy as well as admire the beauty...</p></details>
+   Link:<a href="https://www.facebook.com/groups/mauritiusastronomy/posts/26492233030425153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mauritiusastronomy/posts/26492233030425153/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s where we can come and learn about astronomy as well as admire the beauty...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mauritius/comments/1198w6s/is_anyone_on_mauritius_interested_in_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mauritius/comments/1198w6s/is_anyone_on_mauritius_interested_in_space/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd the world. I&#x27;m currently in Mauritius and curious if there are any...</p></details>
+   Link:<a href="https://www.reddit.com/r/mauritius/comments/1198w6s/is_anyone_on_mauritius_interested_in_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mauritius/comments/1198w6s/is_anyone_on_mauritius_interested_in_space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd the world. I&#x27;m currently in Mauritius and curious if there are any...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iomastronomy.org  
    Title: Isle of Man Astronomical Society  
-   Link: <a href="https://www.iomastronomy.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.iomastronomy.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeWe hold regular open evenings for non-members that include a tour of the Observatory, a short talk on astronomy, and the chance to vi...</p></details>
+   Link:<a href="https://www.iomastronomy.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.iomastronomy.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeWe hold regular open evenings for non-members that include a tour of the Observatory, a short talk on astronomy, and the chance to vi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ias.ac.in  
-   Link: <a href="https://www.ias.ac.in/article/fulltext/joaa/019/01-02/0035-0053" target="_blank" rel="noopener noreferrer nofollow">https://www.ias.ac.in/article/fulltext/joaa/019/01-02/0035-0053</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A low frequency radio telescope at mauritius for a southern...by K Golap · 2026 · Cited by 31 — For this purpose a radio telescope opera...</p></details>
+   Link:<a href="https://www.ias.ac.in/article/fulltext/joaa/019/01-02/0035-0053" target="_blank" rel="noopener noreferrer nofollow">https://www.ias.ac.in/article/fulltext/joaa/019/01-02/0035-0053</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A low frequency radio telescope at mauritius for a southern...by K Golap · 2026 · Cited by 31 — For this purpose a radio telescope opera...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Space Perspective: Why do most scientists not believe that UFOs are aliens?  
-   Link: <a href="https://www.youtube.com/watch?v=_PkSdjPZhIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_PkSdjPZhIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCHERS OF THE SKY, The UFO Phenomenon, A Grand History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_PkSdjPZhIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_PkSdjPZhIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCHERS OF THE SKY, The UFO Phenomenon, A Grand History...</p></details>

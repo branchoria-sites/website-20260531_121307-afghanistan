@@ -254,21 +254,21 @@ image: /assets/images/Sudan_1193ba_missing_ufo_records_34e877-Illustration-1-soc
 
 ## Introduction
 
-Sudan’s UFO record is notable less for what it contains than for what it lacks. Unlike the United States, Britain, France, or several Latin American countries, Sudan has no widely known public UFO reporting system, no large civilian archive, no declassified military collection devoted to unexplained aerial phenomena, and no long-running research organisation that systematically preserves witness reports. As a result, anyone trying to assess Sudanese UFO history quickly encounters a problem: the available record is extremely sparse, and it is often impossible to tell whether that reflects a genuine lack of sightings or a lack of preserved documentation. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</span></span></span> That distinction matters. A thin archive does not automatically mean a quiet sky. In Sudan’s case, reporting infrastructure, media preservation, political instability, archival limitations, language barriers, and the destruction or dispersal of records all complicate attempts to measure how many unusual aerial events were actually witnessed. The result is a country where researchers can identify a handful of public cases, especially the 2018 Khartoum sighting, but cannot confidently reconstruct a broader historical pattern. Al Arabiya English <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanarchive.net">[Sudan Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanarchive.net</span><span class="citation-popover-snippet">Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</span></span></span>
+Sudan’s UFO record is notable less for what it contains than for what it lacks. Unlike the United States, Britain, France, or several Latin American countries, Sudan has no widely known public UFO reporting system, no large civilian archive, no declassified military collection devoted to unexplained aerial phenomena, and no long-running research organisation that systematically preserves witness reports. As a result, anyone trying to assess Sudanese UFO history quickly encounters a problem: the available record is extremely sparse, and it is often impossible to tell whether that reflects a genuine lack of sightings or a lack of preserved documentation. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</span></span></span> That distinction matters. A thin archive does not automatically mean a quiet sky. In Sudan’s case, reporting infrastructure, media preservation, political instability, archival limitations, language barriers, and the destruction or dispersal of records all complicate attempts to measure how many unusual aerial events were actually witnessed. The result is a country where researchers can identify a handful of public cases, especially the 2018 Khartoum sighting, but cannot confidently reconstruct a broader historical pattern. Al Arabiya English<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanarchive.net">[Sudan Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanarchive.net</span><span class="citation-popover-snippet">Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</span></span></span>
 
 <img src="{{ "/assets/images/Sudan_1193ba_missing_ufo_records_34e877-Illustration-1-dark.svg" | relative_url }}" alt="Missing Records illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_missing_ufo_records_34e877-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_missing_ufo_records_34e877-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Open Sources Actually Preserve
 
 The publicly accessible Sudan UFO record is remarkably small.
 
-Most international UFO databases contain either no Sudan entries or only scattered references. The major global repositories most frequently cited by researchers, such as the National UFO Reporting Center (NUFORC) and MUFON, were built primarily around voluntary submissions from countries with established reporting cultures and internet-based witness networks. Sudan contributes little material to these collections compared with North America, Europe, or parts of Latin America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Most international UFO databases contain either no Sudan entries or only scattered references. The major global repositories most frequently cited by researchers, such as the National UFO Reporting Center (NUFORC) and MUFON, were built primarily around voluntary submissions from countries with established reporting cultures and internet-based witness networks. Sudan contributes little material to these collections compared with North America, Europe, or parts of Latin America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 In practical terms, modern discussions of Sudanese UFO incidents often circle back to the same small set of sources:
 
 * Regional news coverage of the January 2018 Khartoum sighting.
 * Satellite-tracking analysis connecting that event to the Falcon 9 Zuma mission.
 * General lists of African UFO reports that briefly mention Sudan.
-* Occasional retellings in paranormal or UFO-focused media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
+* Occasional retellings in paranormal or UFO-focused media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
 
 What is largely absent are the materials that make historical reconstruction easier elsewhere:
 
@@ -276,13 +276,13 @@ What is largely absent are the materials that make historical reconstruction eas
 * Freedom-of-information releases devoted to UFO investigations.
 * Digitised police, aviation, or military case files.
 * National UFO newsletters and research journals.
-* Preserved correspondence between witnesses and investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenceweb.co.za">[defenceWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenceweb.co.za</span><span class="citation-popover-title">uk government releases ufo sighting and policy files</span><span class="citation-popover-snippet">UK Government releases UFO sighting and policy files3 Mar 2011 — The UK government released 35 previously classified files docu...</span></span></span> NUFORC This means that Sudan researchers often work from isolated media references rather than from original investigative files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+* Preserved correspondence between witnesses and investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenceweb.co.za">[defenceWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenceweb.co.za</span><span class="citation-popover-title">uk government releases ufo sighting and policy files</span><span class="citation-popover-snippet">UK Government releases UFO sighting and policy files3 Mar 2011 — The UK government released 35 previously classified files docu...</span></span></span> NUFORC This means that Sudan researchers often work from isolated media references rather than from original investigative files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 ## Why Sudan's Record Cannot Be Read Like a Western Database
 
 A common mistake is to compare Sudan’s small number of recorded UFO cases directly with countries that possess extensive reporting systems.
 
-Countries such as Britain generated thousands of archived UFO reports partly because government agencies accepted and catalogued public submissions for decades. The British Ministry of Defence, for example, eventually released thousands of pages of UFO-related files. Those records do not necessarily indicate more unexplained phenomena than elsewhere; they indicate more systematic collection and preservation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenceweb.co.za">[defenceWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenceweb.co.za</span><span class="citation-popover-title">uk government releases ufo sighting and policy files</span><span class="citation-popover-snippet">UK Government releases UFO sighting and policy files3 Mar 2011 — The UK government released 35 previously classified files docu...</span></span></span>
+Countries such as Britain generated thousands of archived UFO reports partly because government agencies accepted and catalogued public submissions for decades. The British Ministry of Defence, for example, eventually released thousands of pages of UFO-related files. Those records do not necessarily indicate more unexplained phenomena than elsewhere; they indicate more systematic collection and preservation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenceweb.co.za">[defenceWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenceweb.co.za</span><span class="citation-popover-title">uk government releases ufo sighting and policy files</span><span class="citation-popover-snippet">UK Government releases UFO sighting and policy files3 Mar 2011 — The UK government released 35 previously classified files docu...</span></span></span>
 
 Sudan lacks an equivalent publicly known pipeline.
 
@@ -300,7 +300,7 @@ The absence of evidence and the absence of records become difficult to separate.
 
 The scarcity of UFO material also reflects wider archival challenges.
 
-Sudan possesses important historical repositories, including the National Records Office and major preservation projects such as the Sudan Open Archive. However, these institutions were created to preserve government, historical, academic, and cultural records rather than to maintain specialised UFO collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanmemory.org/collections/national-record-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanmemory.org">[Sudan Memory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanmemory.org</span><span class="citation-popover-snippet">Sudan MemoryNational Records OfficeThe National Records Office (NRO) serves as the National Archives of Sudan, an institution dedicated t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanarchive.net">[Sudan Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanarchive.net</span><span class="citation-popover-snippet">Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</span></span></span>
+Sudan possesses important historical repositories, including the National Records Office and major preservation projects such as the Sudan Open Archive. However, these institutions were created to preserve government, historical, academic, and cultural records rather than to maintain specialised UFO collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanmemory.org/collections/national-record-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanmemory.org">[Sudan Memory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanmemory.org</span><span class="citation-popover-snippet">Sudan MemoryNational Records OfficeThe National Records Office (NRO) serves as the National Archives of Sudan, an institution dedicated t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanarchive.net">[Sudan Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanarchive.net</span><span class="citation-popover-snippet">Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</span></span></span>
 
 Even outside the UFO subject, preservation has often faced structural difficulties:
 
@@ -314,7 +314,7 @@ Even outside the UFO subject, preservation has often faced structural difficulti
 
 </div>
 
-Recent conflict has further strained Sudanese information infrastructure and media preservation. Journalists, archives, and cultural institutions have faced severe pressures, making the long-term survival of niche reporting even more uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://institute.aljazeera.net/en/ajr/article/3364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: institute.aljazeera.net">[Al Jazeera Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">institute.aljazeera.net</span><span class="citation-popover-snippet">Al Jazeera InstituteSudan&#x27;s Journalists Are Being Silenced: By Bullets, Exile...17 Sept 2025 — The Sudanese Journalists&#x27; Syndicate has...</span></span></span>
+Recent conflict has further strained Sudanese information infrastructure and media preservation. Journalists, archives, and cultural institutions have faced severe pressures, making the long-term survival of niche reporting even more uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://institute.aljazeera.net/en/ajr/article/3364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: institute.aljazeera.net">[Al Jazeera Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">institute.aljazeera.net</span><span class="citation-popover-snippet">Al Jazeera InstituteSudan&#x27;s Journalists Are Being Silenced: By Bullets, Exile...17 Sept 2025 — The Sudanese Journalists&#x27; Syndicate has...</span></span></span>
 
 For UFO researchers, this matters because many historical sighting reports would most likely have appeared first in local newspapers, radio coverage, municipal records, or informal community accounts. If those materials disappear, later investigators lose access to the primary evidence.
 
@@ -323,7 +323,7 @@ For UFO researchers, this matters because many historical sighting reports would
 
 Global UFO maps often create an illusion of precision.
 
-When researchers display worldwide sightings using databases such as NUFORC, the resulting maps show dramatic concentrations in North America, Britain, Australia, and parts of Europe. Sudan and several neighbouring countries often appear nearly blank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map...</span></span></span>
+When researchers display worldwide sightings using databases such as NUFORC, the resulting maps show dramatic concentrations in North America, Britain, Australia, and parts of Europe. Sudan and several neighbouring countries often appear nearly blank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCWorldwide UFO / UAP sightings plotted on an interactive map...</span></span></span>
 
 That visual pattern can reflect at least four different realities:
 
@@ -338,7 +338,7 @@ That visual pattern can reflect at least four different realities:
 
 The second, third, and fourth possibilities are especially important.
 
-NUFORC and similar databases depend heavily on direct public submissions. They are not comprehensive national censuses of unusual aerial observations. Countries with stronger internet access, English-language participation, established UFO communities, and public reporting traditions naturally generate larger datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+NUFORC and similar databases depend heavily on direct public submissions. They are not comprehensive national censuses of unusual aerial observations. Countries with stronger internet access, English-language participation, established UFO communities, and public reporting traditions naturally generate larger datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 A country can therefore appear nearly absent from a UFO database without proving that witnesses rarely observed unusual phenomena.
 
@@ -357,7 +357,7 @@ That event survived in the historical record because several preservation mechan
 * Photographs circulated online.
 * International media noticed the story.
 * Aerospace researchers analysed the imagery.
-* Satellite trackers connected it to a known launch event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
+* Satellite trackers connected it to a known launch event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
 
 </div>
 
@@ -396,7 +396,7 @@ One original report can be repeated by dozens of websites, creating the appearan
 
 ### Is there a conventional explanation?
 
-The strongest Sudan case in public circulation, the 2018 Khartoum event, eventually acquired a persuasive aerospace explanation linked to Falcon 9 upper-stage activity. That does not invalidate witness observations, but it demonstrates how unusual aerial displays can initially appear mysterious while still having identifiable causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
+The strongest Sudan case in public circulation, the 2018 Khartoum event, eventually acquired a persuasive aerospace explanation linked to Falcon 9 upper-stage activity. That does not invalidate witness observations, but it demonstrates how unusual aerial displays can initially appear mysterious while still having identifiable causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
 
 Claims lacking this level of supporting evidence should generally be regarded as unresolved anecdotes rather than established mysteries.
 
@@ -406,199 +406,199 @@ Popular UFO discussions often focus on secrecy, cover-ups, and withheld files. I
 
 That distinction changes how the country’s UFO history should be interpreted.
 
-The strongest conclusion currently supported by open sources is not that Sudan has a rich hidden archive of unexplained aerial encounters, nor that Sudan has experienced no unusual sightings. Instead, the available evidence suggests that researchers are working with a fragmentary record shaped by preservation gaps, limited reporting infrastructure, and uneven archival survival. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanarchive.net">[Sudan Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanarchive.net</span><span class="citation-popover-snippet">Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanmemory.org/collections/national-record-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanmemory.org">[Sudan Memory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanmemory.org</span><span class="citation-popover-snippet">Sudan MemoryNational Records OfficeThe National Records Office (NRO) serves as the National Archives of Sudan, an institution dedicated t...</span></span></span>
+The strongest conclusion currently supported by open sources is not that Sudan has a rich hidden archive of unexplained aerial encounters, nor that Sudan has experienced no unusual sightings. Instead, the available evidence suggests that researchers are working with a fragmentary record shaped by preservation gaps, limited reporting infrastructure, and uneven archival survival.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanarchive.net">[Sudan Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanarchive.net</span><span class="citation-popover-snippet">Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudanmemory.org/collections/national-record-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudanmemory.org">[Sudan Memory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudanmemory.org</span><span class="citation-popover-snippet">Sudan MemoryNational Records OfficeThe National Records Office (NRO) serves as the National Archives of Sudan, an institution dedicated t...</span></span></span>
 
 For that reason, Sudan’s UFO story is partly an archive story. The most important unanswered question may not be what was seen in the sky, but how much documentation disappeared before anyone had the chance to study it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Sudan UFO Records So Sparse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Sudan UFO Records So Sparse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines official reporting systems and record-keeping challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official reporting systems and record-keeping challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documentation quality, records, witnesses, and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentation quality, records, witnesses, and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating weak evidence and anecdotal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating weak evidence and anecdotal claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for understanding how national UFO archives and case records are compiled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how national UFO archives and case records are compiled.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-sudan-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-are-sudan-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ For that reason, Sudan’s UFO story is partly an archive story. The most import
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ For that reason, Sudan’s UFO story is partly an archive story. The most import
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ For that reason, Sudan’s UFO story is partly an archive story. The most import
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ For that reason, Sudan’s UFO story is partly an archive story. The most import
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ For that reason, Sudan’s UFO story is partly an archive story. The most import
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,127 +804,127 @@ For that reason, Sudan’s UFO story is partly an archive story. The most import
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCWorldwide UFO / UAP sightings plotted on an interactive map...</p></details>
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCWorldwide UFO / UAP sightings plotted on an interactive map...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: finding aid  
-   Link: <a href="https://www.archives.gov/files/research/9-11/finding-aid.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/9-11/finding-aid.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memoranda for the Record14 Jan 2009 — Description: This series contains memoranda for the record; notes of interviews with federal govern...</p></details>
+   Link:<a href="https://www.archives.gov/files/research/9-11/finding-aid.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/9-11/finding-aid.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memoranda for the Record14 Jan 2009 — Description: This series contains memoranda for the record; notes of interviews with federal govern...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defenceweb.co.za  
    Title: uk government releases ufo sighting and policy files  
-   Link: <a href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow">https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government releases UFO sighting and policy files3 Mar 2011 — The UK government released 35 previously classified files docu...</p></details>
+   Link:<a href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow">https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government releases UFO sighting and policy files3 Mar 2011 — The UK government released 35 previously classified files docu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: english.alarabiya.net  
    Title: Mysterious UFO seen over Khartoum on Monday night and stifles military  
-   Link: <a href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous body, seen clearly at around 3:15 am local...Read more...</p></details>
+   Link:<a href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous body, seen clearly at around 3:15 am local...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sudanarchive.net  
-   Link: <a href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.sudanarchive.net/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</p></details>
+   Link:<a href="https://www.sudanarchive.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.sudanarchive.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan ArchiveSudan Open ArchiveThe Sudan Open Archive offers free digital access to knowledge about all regions of Sudan. It is an expand...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sudanmemory.org  
-   Link: <a href="https://www.sudanmemory.org/collections/national-record-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.sudanmemory.org/collections/national-record-office/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan MemoryNational Records OfficeThe National Records Office (NRO) serves as the National Archives of Sudan, an institution dedicated t...</p></details>
+   Link:<a href="https://www.sudanmemory.org/collections/national-record-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.sudanmemory.org/collections/national-record-office/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan MemoryNational Records OfficeThe National Records Office (NRO) serves as the National Archives of Sudan, an institution dedicated t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: institute.aljazeera.net  
-   Link: <a href="https://institute.aljazeera.net/en/ajr/article/3364" target="_blank" rel="noopener noreferrer nofollow">https://institute.aljazeera.net/en/ajr/article/3364</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Jazeera InstituteSudan&#x27;s Journalists Are Being Silenced: By Bullets, Exile...17 Sept 2025 — The Sudanese Journalists&#x27; Syndicate has...</p></details>
+   Link:<a href="https://institute.aljazeera.net/en/ajr/article/3364" target="_blank" rel="noopener noreferrer nofollow">https://institute.aljazeera.net/en/ajr/article/3364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Al Jazeera InstituteSudan&#x27;s Journalists Are Being Silenced: By Bullets, Exile...17 Sept 2025 — The Sudanese Journalists&#x27; Syndicate has...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: public.tableau.com  
    Title: National UFOReporting Center NUFORCdata  
-   Link: <a href="https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata" target="_blank" rel="noopener noreferrer nofollow">https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center (NUFORC) dataDetails. 1 Favorite 4,174 Views. National UFO Reporting Center (NUFORC) data #ufo #alien #uap #extrater...</p></details>
+   Link:<a href="https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata" target="_blank" rel="noopener noreferrer nofollow">https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center (NUFORC) dataDetails. 1 Favorite 4,174 Views. National UFO Reporting Center (NUFORC) data #ufo #alien #uap #extrater...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/aba/publications/Archived-LCSH36/U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/aba/publications/Archived-LCSH36/U.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LCSH Section Uby UK MARC — [DT159.927.U38 (South Sudan)]. [DT155.2.U38 (Sudan)]. UF Kebeirka (African... UFO sightings. USE Unidentified...</p></details>
+   Link:<a href="https://www.loc.gov/aba/publications/Archived-LCSH36/U.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/aba/publications/Archived-LCSH36/U.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LCSH Section Uby UK MARC — [DT159.927.U38 (South Sudan)]. [DT155.2.U38 (Sudan)]. UF Kebeirka (African... UFO sightings. USE Unidentified...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAPE. 5 min...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAPE. 5 min...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dataherb.github.io  
-   Link: <a href="https://dataherb.github.io/flora/nuforc_ufo_events/" target="_blank" rel="noopener noreferrer nofollow">https://dataherb.github.io/flora/nuforc_ufo_events/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Events from National UFO Reporting CenterUFO Events from National UFO Reporting Center · DataHerb ID: nuforc_ufo_events · DataHerb Na...</p></details>
+   Link:<a href="https://dataherb.github.io/flora/nuforc_ufo_events/" target="_blank" rel="noopener noreferrer nofollow">https://dataherb.github.io/flora/nuforc_ufo_events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Events from National UFO Reporting CenterUFO Events from National UFO Reporting Center · DataHerb ID: nuforc_ufo_events · DataHerb Na...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404249109_Urban_Flood_Observations_UFO_A_hand-labeled_training_and_validation_dataset_of_post-flood_inundation/fulltext/69f04f200338c916d63239dc/Urban-Flood-Observations-UFO-A-hand-labeled-training-and-validation-dataset-of-post-flood-inundation.pdf?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404249109_Urban_Flood_Observations_UFO_A_hand-labeled_training_and_validation_dataset_of_post-flood_inundation/fulltext/69f04f200338c916d63239dc/Urban-Flood-Observations-UFO-A-hand-labeled-training-and-validation-dataset-of-post-flood-inundation.pdf?origin=scientificContributions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hand-labeled training and validation dataset of post-flood...24 Apr 2026 — To demonstrate this capability, we compared the UFO labels...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404249109_Urban_Flood_Observations_UFO_A_hand-labeled_training_and_validation_dataset_of_post-flood_inundation/fulltext/69f04f200338c916d63239dc/Urban-Flood-Observations-UFO-A-hand-labeled-training-and-validation-dataset-of-post-flood-inundation.pdf?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404249109_Urban_Flood_Observations_UFO_A_hand-labeled_training_and_validation_dataset_of_post-flood_inundation/fulltext/69f04f200338c916d63239dc/Urban-Flood-Observations-UFO-A-hand-labeled-training-and-validation-dataset-of-post-flood-inundation.pdf?origin=scientificContributions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A hand-labeled training and validation dataset of post-flood...24 Apr 2026 — To demonstrate this capability, we compared the UFO labels...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: web.acjps.org  
    Title: violations against free press and freedom of expression in sudan mayjune 2018  
-   Link: <a href="https://web.acjps.org/violations-against-free-press-and-freedom-of-expression-in-sudan-mayjune-2018/" target="_blank" rel="noopener noreferrer nofollow">https://web.acjps.org/violations-against-free-press-and-freedom-of-expression-in-sudan-mayjune-2018/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>against free press and freedom of expression in...4 Jul 2018 — On 7 May 2018, the Sudan National Intelligence and Security Services (NIS...</p></details>
+   Link:<a href="https://web.acjps.org/violations-against-free-press-and-freedom-of-expression-in-sudan-mayjune-2018/" target="_blank" rel="noopener noreferrer nofollow">https://web.acjps.org/violations-against-free-press-and-freedom-of-expression-in-sudan-mayjune-2018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>against free press and freedom of expression in...4 Jul 2018 — On 7 May 2018, the Sudan National Intelligence and Security Services (NIS...</p></details>
    Published: june 2018  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17. Denmark. 548. “Glowing red UFO spotted in the night sky above Denmark as sce ptics search for.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17. Denmark. 548. “Glowing red UFO spotted in the night sky above Denmark as sce ptics search for.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>place it into one of three categories: Identified, Insufficient...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>place it into one of three categories: Identified, Insufficient...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseA clear linear trend of sightings increased from 1995 - 2005. Then it peaks and st...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseA clear linear trend of sightings increased from 1995 - 2005. Then it peaks and st...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: myfivethings.com  
    Title: james fox unidentified aerial phenomena ufos  
-   Link: <a href="https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Fox: Unidentified Aerial Phenomena20 Jan 2022 — In this 90-minute session, I&#x27;ll share with you: The remarkable, consistent, and sti...</p></details>
+   Link:<a href="https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://myfivethings.com/class/james-fox-unidentified-aerial-phenomena-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Fox: Unidentified Aerial Phenomena20 Jan 2022 — In this 90-minute session, I&#x27;ll share with you: The remarkable, consistent, and sti...</p></details>

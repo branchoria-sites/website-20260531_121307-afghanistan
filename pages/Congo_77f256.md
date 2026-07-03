@@ -1194,37 +1194,37 @@ image: /assets/images/Congo_77f256-overview-social.jpg
 
 ## What “Congo” Covers in the UFO Record
 
-The UFO material attached to “Congo” is unusually easy to confuse because the name can refer to several historical and political frames: the former Belgian Congo, today’s Democratic Republic of the Congo, and the Republic of the Congo. The best-known 1952 report belongs to the Belgian Congo period and describes events in the Elisabethville district, now associated with the southern mining region of the Democratic Republic of the Congo. The 1965 metal-fragment file, by contrast, is labelled by the US National Security Agency as concerning the Republic of the Congo. The 2020 balloon event happened in Bas-Uele province in the northern Democratic Republic of the Congo. Wikisource <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span>
+The UFO material attached to “Congo” is unusually easy to confuse because the name can refer to several historical and political frames: the former Belgian Congo, today’s Democratic Republic of the Congo, and the Republic of the Congo. The best-known 1952 report belongs to the Belgian Congo period and describes events in the Elisabethville district, now associated with the southern mining region of the Democratic Republic of the Congo. The 1965 metal-fragment file, by contrast, is labelled by the US National Security Agency as concerning the Republic of the Congo. The 2020 balloon event happened in Bas-Uele province in the northern Democratic Republic of the Congo. Wikisource<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span>
 
 <img src="{{ "/assets/images/Congo_77f256-overview.webp" | relative_url }}" alt="Overview image for What Really Counts as a Congo UFO?" loading="eager" decoding="sync" fetchpriority="high">
 That mixed geography is not a minor detail. A reader looking for “Congo UFO sightings” may find claims from Kinshasa, Katanga, Brazzaville, Bas-Uele and Central African regional UFO discussions folded together as though they were one coherent archive. They are not. The available record is fragmentary, and the most credible analysis has to treat each incident by date, place, source chain and evidential quality rather than assuming a single national pattern.
 
 ## The 1952 Uranium-Mine Case: The Famous Congo UFO Claim
 
-The central historical case is the 1952 report titled “Flying Saucers Over Belgian Congo Uranium Mines”, preserved in CIA records and transcribed on Wikisource from the declassified document. The file identifies the source as the Vienna newspaper Die Presse, with information from 1952 and distribution by the Central Intelligence Agency in August 1952. It describes two “fiery disks” seen over uranium mines in the Elisabethville district, east of the Luapula River, changing shape from below as plates, ovals and lines, then moving away in a zigzag path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines</span></span></span>
+The central historical case is the 1952 report titled “Flying Saucers Over Belgian Congo Uranium Mines”, preserved in CIA records and transcribed on Wikisource from the declassified document. The file identifies the source as the Vienna newspaper Die Presse, with information from 1952 and distribution by the Central Intelligence Agency in August 1952. It describes two “fiery disks” seen over uranium mines in the Elisabethville district, east of the Luapula River, changing shape from below as plates, ovals and lines, then moving away in a zigzag path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines</span></span></span>
 
-The most striking part of the account is the alleged pursuit by “Commander Pierre” from the Elisabethville airfield. According to the report, he approached one disc to roughly 120 metres, estimated its diameter at 12 to 15 metres, described a still inner core with a fiery rotating rim, and later abandoned pursuit after about 15 minutes as the objects disappeared towards Lake Tanganyika at an estimated 1,500 kilometres per hour. The report also says the whole ground observation lasted about 10 to 12 minutes and that onlookers heard a hissing or buzzing sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span>
+The most striking part of the account is the alleged pursuit by “Commander Pierre” from the Elisabethville airfield. According to the report, he approached one disc to roughly 120 metres, estimated its diameter at 12 to 15 metres, described a still inner core with a fiery rotating rim, and later abandoned pursuit after about 15 minutes as the objects disappeared towards Lake Tanganyika at an estimated 1,500 kilometres per hour. The report also says the whole ground observation lasted about 10 to 12 minutes and that onlookers heard a hissing or buzzing sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span>
 
-The case is valuable because it is an actual declassified intelligence clipping, not just a modern retelling. It is also weak because the document itself says it was “unevaluated information” drawn from foreign press reporting, not a completed technical investigation. The appended sketch and technical-looking explanation of rotating rims, jets, fuel chambers and radar steering read less like verified engineering and more like speculative 1950s saucer interpretation. The CIA’s preservation of the item proves that the report entered an intelligence collection stream; it does not prove that the objects were extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines</span></span></span>
+The case is valuable because it is an actual declassified intelligence clipping, not just a modern retelling. It is also weak because the document itself says it was “unevaluated information” drawn from foreign press reporting, not a completed technical investigation. The appended sketch and technical-looking explanation of rotating rims, jets, fuel chambers and radar steering read less like verified engineering and more like speculative 1950s saucer interpretation. The CIA’s preservation of the item proves that the report entered an intelligence collection stream; it does not prove that the objects were extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Flying saucers over Belgian Congo uranium mines</span><span class="citation-popover-snippet">Flying saucers over Belgian Congo uranium mines</span></span></span>
 
 The setting still explains why the report attracted attention. Southern Congo’s uranium resources were strategically sensitive in the early Cold War, and a flying-saucer report over uranium mines would have been exactly the kind of foreign press item worth clipping, translating and circulating. That does not make the sighting false, but it changes the evidential question: the file is best read as evidence of Cold War intelligence interest in unusual aerial reports near strategic sites, not as independent proof of non-human technology.
 
 <img src="{{ "/assets/images/Congo_77f256-Illustration-1-dark.svg" | relative_url }}" alt="What Really Counts as a Congo UFO? illustration 1" data-theme-src-dark="{{ "/assets/images/Congo_77f256-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1965 Metal Fragment: Official File, Limited Clarity
 
-The second major Congo-linked item is an NSA-listed document called “Exploitation Report - A Fragment, Metal Recovered in the Republic of the Congo”. The NSA’s UFO files index lists it among other declassified UFO-related materials and identifies the item as an exploitation report concerning a metal fragment recovered in the Republic of the Congo. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span>
+The second major Congo-linked item is an NSA-listed document called “Exploitation Report - A Fragment, Metal Recovered in the Republic of the Congo”. The NSA’s UFO files index lists it among other declassified UFO-related materials and identifies the item as an exploitation report concerning a metal fragment recovered in the Republic of the Congo.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span>
 
-The underlying PDF is difficult to read because of the scan quality, but its title and visible first page indicate an intelligence-style analysis of a recovered metal fragment, with the object’s origin reportedly believed to be an unidentified flying object. The document was later downgraded and released, but the surviving scan is not good enough to support confident public claims about composition, chain of custody, witness testimony or final identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761352/-1/-1/0/EXPLOITATION_REPORT_CONGO.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-5 "Endnote 5")
+The underlying PDF is difficult to read because of the scan quality, but its title and visible first page indicate an intelligence-style analysis of a recovered metal fragment, with the object’s origin reportedly believed to be an unidentified flying object. The document was later downgraded and released, but the surviving scan is not good enough to support confident public claims about composition, chain of custody, witness testimony or final identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761352/-1/-1/0/EXPLOITATION_REPORT_CONGO.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-5 "Endnote 5")
 
 This makes the 1965 fragment a contested archival lead rather than a confirmed UFO case. It is more interesting than a rumour because it appears in an official declassified file set; it is less probative than enthusiasts sometimes imply because a title and degraded scan cannot establish that the fragment was anomalous. A serious assessment would need a readable copy, laboratory details, provenance and comparison against known aerospace debris, meteorites, industrial fragments and military hardware.
 
 ## The 2020 Bas-Uele “UFO”: A Clear Debunking Case
 
-The clearest modern Congo UFO case is the August 2020 object found near Buta in Bas-Uele province, in the northern Democratic Republic of the Congo. Reuters reported that an unidentified object had parachuted into dense jungle, prompting confusion among local authorities and the detention of two people who had arrived to search for it. Images showed a silver-coloured device with solar panels, wiring and a large deflated balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span><span class="citation-popover-snippet">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span></span></span>
+The clearest modern Congo UFO case is the August 2020 object found near Buta in Bas-Uele province, in the northern Democratic Republic of the Congo. Reuters reported that an unidentified object had parachuted into dense jungle, prompting confusion among local authorities and the detention of two people who had arrived to search for it. Images showed a silver-coloured device with solar panels, wiring and a large deflated balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span><span class="citation-popover-snippet">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span></span></span>
 
-The mystery was resolved quickly. Loon, a subsidiary of Alphabet, confirmed that it had carried out a controlled landing of one of its stratospheric internet balloons in the region. Reuters reported that the balloon had been coordinated with local air traffic control and approved by the civil aviation authority, while flight-tracking information showed the balloon, HBAL166, had been circling central Africa before its last known location in northern Congo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+The mystery was resolved quickly. Loon, a subsidiary of Alphabet, confirmed that it had carried out a controlled landing of one of its stratospheric internet balloons in the region. Reuters reported that the balloon had been coordinated with local air traffic control and approved by the civil aviation authority, while flight-tracking information showed the balloon, HBAL166, had been circling central Africa before its last known location in northern Congo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
-Local reporting shows why the event initially looked stranger on the ground. Infocongo described an unidentified object in the forest near Bulumakete, close to Buta, with solar panels, cameras or camera-like equipment and a parachute cloth; at the time, early explanations ranged from a satellite to a flying prospecting device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infocongo.net">[Infocongo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infocongo.net</span><span class="citation-popover-title">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span><span class="citation-popover-snippet">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span></span></span> A later report carried by Vanguard said DR Congo’s civil aviation authority chief was suspended after authorising the Google balloon overflight without notifying the government, showing that the real issue became aviation governance and national-security procedure rather than extraterrestrial mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanguardngr.com">[Vanguard News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanguardngr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local reporting shows why the event initially looked stranger on the ground. Infocongo described an unidentified object in the forest near Bulumakete, close to Buta, with solar panels, cameras or camera-like equipment and a parachute cloth; at the time, early explanations ranged from a satellite to a flying prospecting device.<span class="citation-chip-wrap"><a class="citation-chip" href="https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infocongo.net">[Infocongo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infocongo.net</span><span class="citation-popover-title">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span><span class="citation-popover-snippet">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span></span></span> A later report carried by Vanguard said DR Congo’s civil aviation authority chief was suspended after authorising the Google balloon overflight without notifying the government, showing that the real issue became aviation governance and national-security procedure rather than extraterrestrial mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanguardngr.com">[Vanguard News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanguardngr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This incident is the best Congo example of how a UFO can be genuinely unidentified at first sight and still have an ordinary explanation. It also shows why “debunked” should not mean “stupid” or “fake”. To villagers, police and provincial officials encountering a solar-panelled stratospheric balloon payload in a remote forest, “unidentified object” was a reasonable first description. The case became explained only once operator information, aviation permissions and technical context were connected.
 
@@ -1232,9 +1232,9 @@ This incident is the best Congo example of how a UFO can be genuinely unidentifi
 
 ## Region-Level Pattern: Why Reports Cluster Around Mines, Forests and Air Corridors
 
-Congo’s UFO record is too sparse for a statistical map, but the better-documented cases still reveal a pattern. The 1952 case is tied to the southern mining belt and Cold War strategic attention. The 2020 case is tied to northern forest terrain, sparse public awareness of high-altitude balloon operations, and a cross-border regional technology project. The 1965 fragment sits in the Republic of the Congo but lacks enough readable detail to place it securely in a local incident chronology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span><span class="citation-popover-snippet">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span></span></span>
+Congo’s UFO record is too sparse for a statistical map, but the better-documented cases still reveal a pattern. The 1952 case is tied to the southern mining belt and Cold War strategic attention. The 2020 case is tied to northern forest terrain, sparse public awareness of high-altitude balloon operations, and a cross-border regional technology project. The 1965 fragment sits in the Republic of the Congo but lacks enough readable detail to place it securely in a local incident chronology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span><span class="citation-popover-snippet">UFO&#x27; in Congo jungle turns out to be internet balloon &#124; Reuters</span></span></span>
 
-These locations matter because many UFO reports become puzzling not simply because something is exotic, but because the observer lacks context. A high-altitude balloon, re-entering space debris, aircraft seen at odd angles, military or survey activity, and atmospheric phenomena can all appear extraordinary when they occur over remote areas with limited public notification. Project Loon documentation presented to an International Civil Aviation Organization regional meeting described the system as a network of heavy unmanned balloons intended to bring internet to underserved areas, with balloons remaining aloft for long periods, using winds for navigation and needing agreements with civil aviation authorities for overflight and landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/DGCA/DGCA-6/WP-10.2-Africa-DG-Conf-Project-Loon-CANSO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
+These locations matter because many UFO reports become puzzling not simply because something is exotic, but because the observer lacks context. A high-altitude balloon, re-entering space debris, aircraft seen at odd angles, military or survey activity, and atmospheric phenomena can all appear extraordinary when they occur over remote areas with limited public notification. Project Loon documentation presented to an International Civil Aviation Organization regional meeting described the system as a network of heavy unmanned balloons intended to bring internet to underserved areas, with balloons remaining aloft for long periods, using winds for navigation and needing agreements with civil aviation authorities for overflight and landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/DGCA/DGCA-6/WP-10.2-Africa-DG-Conf-Project-Loon-CANSO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
 
 The Congo cases therefore connect naturally to wider Central African UFO research, but with an important caution. Regional comparisons can help identify repeated explanation patterns — balloons, aircraft, military secrecy, media amplification and poor-quality data — but they should not be used to bulk out Congo’s thin case file with unrelated sightings from neighbouring countries.
 
@@ -1243,20 +1243,20 @@ The Congo cases therefore connect naturally to wider Central African UFO researc
 
 A useful Congo UFO page needs a disciplined evidence split.
 
-**Confirmed as mundane:** the 2020 Bas-Uele event is the strongest confirmed case, but confirmed in the opposite direction from a sensational UFO claim. The object was real, photographed and investigated locally, then identified by its operator as a controlled Project [Loon balloon]({{ 'loon-balloon/' | relative_url }}) landing. The later dispute over authorisation strengthens the mundane explanation because it places the object in a real aviation and regulatory chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+**Confirmed as mundane:** the 2020 Bas-Uele event is the strongest confirmed case, but confirmed in the opposite direction from a sensational UFO claim. The object was real, photographed and investigated locally, then identified by its operator as a controlled Project [Loon balloon]({{ 'loon-balloon/' | relative_url }}) landing. The later dispute over authorisation strengthens the mundane explanation because it places the object in a real aviation and regulatory chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
-**Contested archival claim:** the 1952 uranium-mine report remains historically important and genuinely interesting, but it is not a verified technical case. Its strengths are specificity, a named area, a reported pilot pursuit and preservation in CIA files. Its weaknesses are its origin in foreign newspaper reporting, the “unevaluated information” label, absence of photographs or physical evidence, and highly speculative mechanical diagrams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span>
+**Contested archival claim:** the 1952 uranium-mine report remains historically important and genuinely interesting, but it is not a verified technical case. Its strengths are specificity, a named area, a reported pilot pursuit and preservation in CIA files. Its weaknesses are its origin in foreign newspaper reporting, the “unevaluated information” label, absence of photographs or physical evidence, and highly speculative mechanical diagrams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span>
 
-**Official but unresolved lead:** the 1965 Republic of the Congo metal-fragment file deserves mention because it appears in NSA declassified UFO holdings, but the surviving public presentation is too degraded to support strong claims. It should be treated as an archival lead for further document work, not as proof of recovered anomalous material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span>
+**Official but unresolved lead:** the 1965 Republic of the Congo metal-fragment file deserves mention because it appears in NSA declassified UFO holdings, but the surviving public presentation is too degraded to support strong claims. It should be treated as an archival lead for further document work, not as proof of recovered anomalous material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span>
 
-**Low-reliability local or internet claims:** scattered reports and social-media items about unidentified objects in Congo exist, including local-language or French-language “OVNI” references, but many are either secondary, inaccessible, metaphorical, entertainment-related or later absorbed into already explained cases. The 2020 Buta story is a good example: early local reporting framed the object as unidentified, but later reporting identified it as a Loon balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infocongo.net">[Infocongo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infocongo.net</span><span class="citation-popover-title">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span><span class="citation-popover-snippet">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span></span></span>
+**Low-reliability local or internet claims:** scattered reports and social-media items about unidentified objects in Congo exist, including local-language or French-language “OVNI” references, but many are either secondary, inaccessible, metaphorical, entertainment-related or later absorbed into already explained cases. The 2020 Buta story is a good example: early local reporting framed the object as unidentified, but later reporting identified it as a Loon balloon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infocongo.net">[Infocongo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infocongo.net</span><span class="citation-popover-title">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span><span class="citation-popover-snippet">Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé</span></span></span>
 
 <img src="{{ "/assets/images/Congo_77f256-Illustration-2-dark.svg" | relative_url }}" alt="What Really Counts as a Congo UFO? illustration 2" data-theme-src-dark="{{ "/assets/images/Congo_77f256-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Congo Fits the Wider UAP Evidence Problem
 
-Modern UAP research has shifted away from “flying saucer” language towards data quality, sensor context and identification standards. NASA has defined UAP study as the investigation of observations that cannot initially be identified as aircraft or known natural phenomena, with emphasis on better data collection and scientific methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That framing is especially useful for Congo because the strongest cases are not laboratory-grade mysteries but reports filtered through press clippings, degraded archival scans, remote geography and delayed technical identification.
+Modern UAP research has shifted away from “flying saucer” language towards data quality, sensor context and identification standards. NASA has defined UAP study as the investigation of observations that cannot initially be identified as aircraft or known natural phenomena, with emphasis on better data collection and scientific methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That framing is especially useful for Congo because the strongest cases are not laboratory-grade mysteries but reports filtered through press clippings, degraded archival scans, remote geography and delayed technical identification.
 
-The US All-domain Anomaly Resolution Office’s public imagery archive also illustrates the broader lesson: some African-region military UAP reports remain unresolved because the available data is insufficient, while another Africa case was assessed with high confidence as migratory birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> This does not directly explain Congo’s historical claims, but it does show how modern investigators separate “unidentified due to limited information” from “anomalous in performance or origin”.
+The US All-domain Anomaly Resolution Office’s public imagery archive also illustrates the broader lesson: some African-region military UAP reports remain unresolved because the available data is insufficient, while another Africa case was assessed with high confidence as migratory birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> This does not directly explain Congo’s historical claims, but it does show how modern investigators separate “unidentified due to limited information” from “anomalous in performance or origin”.
 
 That distinction is the key to reading Congo’s UFO record fairly. The 1952 report is not worthless just because it may be explainable; it captures a Cold War moment when unusual aerial reports near strategic resources were taken seriously enough to circulate. The 2020 balloon case is not uninteresting just because it was solved; it shows how unfamiliar technology can become a national-security puzzle on the ground. The 1965 fragment is not proof of alien recovery; it is a pointer to a document trail that still needs better access and verification.
 
@@ -1266,7 +1266,7 @@ That distinction is the key to reading Congo’s UFO record fairly. The 1952 rep
 
 A cautious chronology for Congo-related UFO material looks like this:
 
-DatePlaceClaimBest current assessment1952Elisabethville district, Belgian CongoTwo fiery discs reportedly seen over uranium mines, with an alleged fighter pursuit by Commander PierreHistorically important, but based on unevaluated press-derived CIA reporting rather than a completed investigation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span> 1965Republic of the CongoMetal fragment recovered, with origin reportedly believed to be an unidentified flying objectOfficial archival lead, but public scan quality and missing context prevent strong conclusions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span> 2012Kimbanseke, KinshasaLocal press referenced an unresolved “OVNI de Kimbanseke” caseThinly accessible secondary record; should be treated cautiously unless original reporting and witness details are recovered <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201206290454.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-title">all Africa.fr OVN I de Kimbanseke</span><span class="citation-popover-snippet">all Africa.fr OVN I de Kimbanseke</span></span></span> 2020Bas-Uele, Democratic Republic of the CongoLarge unidentified device found after parachuting into forest near ButaExplained as an Alphabet Project Loon stratospheric internet balloon <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span></span></span>
+DatePlaceClaimBest current assessment1952Elisabethville district, Belgian CongoTwo fiery discs reportedly seen over uranium mines, with an alleged fighter pursuit by Commander PierreHistorically important, but based on unevaluated press-derived CIA reporting rather than a completed investigation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span><span class="citation-popover-snippet">Page:Flying saucers over Belgian Congo uranium mines, CIA report</span></span></span> 1965Republic of the CongoMetal fragment recovered, with origin reportedly believed to be an unidentified flying objectOfficial archival lead, but public scan quality and missing context prevent strong conclusions<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">U.F.O. Files: The Untold Story...</span></span></span> 2012Kimbanseke, KinshasaLocal press referenced an unresolved “OVNI de Kimbanseke” caseThinly accessible secondary record; should be treated cautiously unless original reporting and witness details are recovered<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201206290454.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-title">all Africa.fr OVN I de Kimbanseke</span><span class="citation-popover-snippet">all Africa.fr OVN I de Kimbanseke</span></span></span> 2020Bas-Uele, Democratic Republic of the CongoLarge unidentified device found after parachuting into forest near ButaExplained as an Alphabet Project Loon stratospheric internet balloon<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">nasa panel hold first public meeting ufo study ahead report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-ZXqwRULAVE" title="What&#x27;s Inside CIA&#x27;s Declassified UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-ZXqwRULAVE" target="_blank" rel="noopener noreferrer">What&#x27;s Inside CIA&#x27;s Declassified UFO Files</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 390.9K &middot; Uploaded: October 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-ZXqwRULAVE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-ZXqwRULAVE">Open on YouTube</a></p></div></div></div>
 
@@ -1277,194 +1277,194 @@ Congo’s UFO record is small but instructive. It contains one famous Cold War s
 The strongest reader takeaway is methodological: in Congo, the label “UFO” usually marks a starting point, not a conclusion. The most useful questions are where the report came from, whether it is primary or secondary, what local authorities actually observed, whether aviation or satellite records can explain it, and whether the case remains unidentified because it is extraordinary or simply because the surviving evidence is incomplete.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Counts as a Congo UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Counts as a Congo UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating mixed-quality reports like those associated with Congo.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating mixed-quality reports like those associated with Congo.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page comparing credible, disputed, and solved UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page comparing credible, disputed, and solved UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers broader context for interpreting unusual reports across cultures and eras.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader context for interpreting unusual reports across cultures and eras.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for historical case comparisons and archival context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for historical case comparisons and archival context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-a-congo-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-a-congo-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1480,7 +1480,7 @@ The strongest reader takeaway is methodological: in Congo, the label “UFO” u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1500,7 +1500,7 @@ The strongest reader takeaway is methodological: in Congo, the label “UFO” u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1532,7 +1532,7 @@ The strongest reader takeaway is methodological: in Congo, the label “UFO” u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1584,7 +1584,7 @@ The strongest reader takeaway is methodological: in Congo, the label “UFO” u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1629,7 +1629,7 @@ The strongest reader takeaway is methodological: in Congo, the label “UFO” u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1667,175 +1667,174 @@ The strongest reader takeaway is methodological: in Congo, the label “UFO” u
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: Flying saucers over Belgian Congo uranium mines  
-   Link: <a href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Flying_saucers_over_Belgian_Congo_uranium_mines</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: National Security Agency  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.F.O. Files: The Untold Story...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.F.O. Files: The Untold Story...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: 'UFO' in Congo jungle turns out to be internet balloon | Reuters  
-   Link: <a href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/</a>  
+   Link:<a href="https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/ufo-in-congo-jungle-turns-out-to-be-internet-balloon-idUSKBN25L2GT/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/take-a-peek-into-our-x-files</a>  
+   Link:<a href="https://www.cia.gov/stories/story/take-a-peek-into-our-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/take-a-peek-into-our-x-files</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761352/-1/-1/0/EXPLOITATION_REPORT_CONGO.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761352/-1/-1/0/EXPLOITATION_REPORT_CONGO.PDF</a>  
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761352/-1/-1/0/EXPLOITATION_REPORT_CONGO.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761352/-1/-1/0/EXPLOITATION_REPORT_CONGO.PDF</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: infocongo.net  
    Title: Un Objet volant non identifié (OVNI) est tombé dans le Bas-Uélé  
-   Link: <a href="https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/" target="_blank" rel="noopener noreferrer nofollow">https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/</a>  
+   Link:<a href="https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/" target="_blank" rel="noopener noreferrer nofollow">https://infocongo.net/2020/08/25/un-satellite-est-tombe-dans-le-bas-uele/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: icao.int  
    Title: Microsoft Word  
-   Link: <a href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/DGCA/DGCA-6/WP-10.2-Africa-DG-Conf-Project-Loon-CANSO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/WACAF/MeetingDocs/DGCA/DGCA-6/WP-10.2-Africa-DG-Conf-Project-Loon-CANSO.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/DGCA/DGCA-6/WP-10.2-Africa-DG-Conf-Project-Loon-CANSO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/WACAF/MeetingDocs/DGCA/DGCA-6/WP-10.2-Africa-DG-Conf-Project-Loon-CANSO.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fr.allafrica.com  
    Title: all Africa.fr OVN I de Kimbanseke  
-   Link: <a href="https://fr.allafrica.com/stories/201206290454.html" target="_blank" rel="noopener noreferrer nofollow">https://fr.allafrica.com/stories/201206290454.html</a>  
+   Link:<a href="https://fr.allafrica.com/stories/201206290454.html" target="_blank" rel="noopener noreferrer nofollow">https://fr.allafrica.com/stories/201206290454.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsa.gov  
    Title: Page 45Department of State AIRGRAM  
-   Link: <a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
+   Link:<a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsa.gov  
    Title: * Memorandum and Order  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nsa.gov  
    Title: NS A FOIA  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsa.gov  
    Title: national cryptologic museum library catalog  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/museum/national-cryptologic-museum-library-catalog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/museum/national-cryptologic-museum-library-catalog.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/museum/national-cryptologic-museum-library-catalog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/museum/national-cryptologic-museum-library-catalog.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nsa.gov  
    Title: cryptolog 78  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_78.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_78.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_78.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_78.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015463.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en.wikisource.org  
    Title: Page:Flying saucers over Belgian Congo uranium mines, CIA report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AFlying_saucers_over_Belgian_Congo_uranium_mines%2C_CIA_report.pdf/2</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: vanguardngr.com  
-   Link: <a href="https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/</a>  
+   Link:<a href="https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2020/09/congos-civil-aviation-chief-suspended-over-google-internet-balloon-flight/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: anaccongo.cg  
-   Link: <a href="https://anaccongo.cg/fr/tag/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://anaccongo.cg/fr/tag/ovni/</a>  
+   Link:<a href="https://anaccongo.cg/fr/tag/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://anaccongo.cg/fr/tag/ovni/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: disclosurenews.it  
    Title: Flying Saucers Over Belgian Congo Uranium Mines  
-   Link: <a href="https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/</a>  
+   Link:<a href="https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurenews.it/flying-saucers-over-belgian-congo-uranium-mines-1952/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=R6kw-rYoQhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R6kw-rYoQhI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Landing of Project Loon balloon LN-166 in Congo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R6kw-rYoQhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R6kw-rYoQhI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landing of Project Loon balloon LN-166 in Congo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: What's Inside CIA's Declassified UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=-ZXqwRULAVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ZXqwRULAVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers Over Belgian Congo Uranium Mines, 1952. | Real Documented UFO incidents Untold Archive · 1.4K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-ZXqwRULAVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ZXqwRULAVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers Over Belgian Congo Uranium Mines, 1952. | Real Documented UFO incidents Untold Archive · 1.4K views...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Why There's Fewer Balloons for Google's Project Loon  
-   Link: <a href="https://www.youtube.com/watch?v=cGewWkOi0bo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGewWkOi0bo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What 62 Children Can Teach Us About the Ariel School UFO Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cGewWkOi0bo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGewWkOi0bo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What 62 Children Can Teach Us About the Ariel School UFO Encounter...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: What 62 Children Can Teach Us About the Ariel School UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=8z5ZLY4I3hE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8z5ZLY4I3hE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Inside CIA&#x27;s Declassified UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8z5ZLY4I3hE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8z5ZLY4I3hE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Inside CIA&#x27;s Declassified UFO Files...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jannhalexander/la-question-des-ovnis-en-afrique-centrale-gabon-r%C3%A9publique-du-congo-r%C3%A9publique-d%C3%A9mocratique-du-42b3eaf5deb9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jannhalexander/la-question-des-ovnis-en-afrique-centrale-gabon-r%C3%A9publique-du-congo-r%C3%A9publique-d%C3%A9mocratique-du-42b3eaf5deb9</a>  
+   Link:<a href="https://medium.com/%40jannhalexander/la-question-des-ovnis-en-afrique-centrale-gabon-r%C3%A9publique-du-congo-r%C3%A9publique-d%C3%A9mocratique-du-42b3eaf5deb9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jannhalexander/la-question-des-ovnis-en-afrique-centrale-gabon-r%C3%A9publique-du-congo-r%C3%A9publique-d%C3%A9mocratique-du-42b3eaf5deb9</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWRZ-PzjC-C/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWRZ-PzjC-C/</a>  
+   Link:<a href="https://www.instagram.com/p/DWRZ-PzjC-C/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWRZ-PzjC-C/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ascleiden.nl  
-   Link: <a href="https://www.ascleiden.nl/sites/default/files/book_across_the_copperbelt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ascleiden.nl/sites/default/files/book_across_the_copperbelt.pdf</a>  
+   Link:<a href="https://www.ascleiden.nl/sites/default/files/book_across_the_copperbelt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ascleiden.nl/sites/default/files/book_across_the_copperbelt.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
+   Link:<a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: djolo.net  
-   Link: <a href="https://djolo.net/foret-disco-queen-et-congo-animal-le-nouveau-bantou-mentale-est-la/bantou-mentale-apocalypse-congo-animal-doctor-l-nouvel-ep-sorti-de-confinement-monde-apres-groupe-congolais-kinshasa-chateau-rouge-musique-electronique-ovni/" target="_blank" rel="noopener noreferrer nofollow">https://djolo.net/foret-disco-queen-et-congo-animal-le-nouveau-bantou-mentale-est-la/bantou-mentale-apocalypse-congo-animal-doctor-l-nouvel-ep-sorti-de-confinement-monde-apres-groupe-congolais-kinshasa-chateau-rouge-musique-electronique-ovni/</a>  
+   Link:<a href="https://djolo.net/foret-disco-queen-et-congo-animal-le-nouveau-bantou-mentale-est-la/bantou-mentale-apocalypse-congo-animal-doctor-l-nouvel-ep-sorti-de-confinement-monde-apres-groupe-congolais-kinshasa-chateau-rouge-musique-electronique-ovni/" target="_blank" rel="noopener noreferrer nofollow">https://djolo.net/foret-disco-queen-et-congo-animal-le-nouveau-bantou-mentale-est-la/bantou-mentale-apocalypse-congo-animal-doctor-l-nouvel-ep-sorti-de-confinement-monde-apres-groupe-congolais-kinshasa-chateau-rouge-musique-electronique-ovni/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/betordcongo/posts/bas-u%C3%A9l%C3%A9-engin-spatial-%C3%A0-buta-le-ministre-de-la-recherche-scientifique-propose-d/1702995176542803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/betordcongo/posts/bas-u%C3%A9l%C3%A9-engin-spatial-%C3%A0-buta-le-ministre-de-la-recherche-scientifique-propose-d/1702995176542803/</a>
+   Link:<a href="https://www.facebook.com/betordcongo/posts/bas-u%C3%A9l%C3%A9-engin-spatial-%C3%A0-buta-le-ministre-de-la-recherche-scientifique-propose-d/1702995176542803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/betordcongo/posts/bas-u%C3%A9l%C3%A9-engin-spatial-%C3%A0-buta-le-ministre-de-la-recherche-scientifique-propose-d/1702995176542803/</a>

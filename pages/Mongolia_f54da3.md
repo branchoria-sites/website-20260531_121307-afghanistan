@@ -1199,17 +1199,17 @@ That thin record matters. Mongolia’s geography makes it a tempting setting for
 <img src="{{ "/assets/images/Mongolia_f54da3-overview.webp" | relative_url }}" alt="Overview image for What Do Mongolia&#x27;s UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ## What has actually been reported in Mongolia?
 
-The clearest named public case is a NUFORC report from Ulaanbaatar on 30 September 2005. The entry describes a disk-shaped object, lights on the object, a trail, and the emission of smaller objects, with 15 observers and a claimed duration of about three minutes. The report was submitted the next day and is framed by the witness as a UFO over Ulaanbaatar. As a civilian database entry, it is useful as a record of what someone reported, but it is not an official investigation, radar track, photographic analysis, or independent confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2. Myanmar (Burma), 3... 68 New UFO Images Added to Gallery · NUFORC Participates in AARO...</span></span></span>
+The clearest named public case is a NUFORC report from Ulaanbaatar on 30 September 2005. The entry describes a disk-shaped object, lights on the object, a trail, and the emission of smaller objects, with 15 observers and a claimed duration of about three minutes. The report was submitted the next day and is framed by the witness as a UFO over Ulaanbaatar. As a civilian database entry, it is useful as a record of what someone reported, but it is not an official investigation, radar track, photographic analysis, or independent confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2. Myanmar (Burma), 3... 68 New UFO Images Added to Gallery · NUFORC Participates in AARO...</span></span></span>
 
-A second NUFORC-linked Mongolia report appears for Manlai in Ömnögovi Province, dated 30 April 2007 but not reported until 3 November 2025. It describes a very brief event, about three seconds, with one observer and a location in the South Gobi region. That delayed reporting makes it much weaker as evidence: memory, exact sky position, weather, and possible mundane explanations become harder to test nearly two decades after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A second NUFORC-linked Mongolia report appears for Manlai in Ömnögovi Province, dated 30 April 2007 but not reported until 3 November 2025. It describes a very brief event, about three seconds, with one observer and a location in the South Gobi region. That delayed reporting makes it much weaker as evidence: memory, exact sky position, weather, and possible mundane explanations become harder to test nearly two decades after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-There are also informal social-media and forum discussions asking whether Mongolia has UFO stories, plus reposted videos or image claims labelled as “Mongolia UFO” material. These can show local or online interest, but most do not provide the basic evidence needed for a serious case assessment: exact time, exact location, camera metadata, direction of view, duration, weather, astronomical conditions, air traffic checks, or witness separation. Reddit threads about Mongolian UFO or alien stories, for example, are useful as folklore and community-interest indicators, not as verified incident files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/mongolia/comments/17nnmun/mongolia_ufo_stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mongolia UFO Stories</span><span class="citation-popover-snippet">Mongolia UFO Stories</span></span></span>
+There are also informal social-media and forum discussions asking whether Mongolia has UFO stories, plus reposted videos or image claims labelled as “Mongolia UFO” material. These can show local or online interest, but most do not provide the basic evidence needed for a serious case assessment: exact time, exact location, camera metadata, direction of view, duration, weather, astronomical conditions, air traffic checks, or witness separation. Reddit threads about Mongolian UFO or alien stories, for example, are useful as folklore and community-interest indicators, not as verified incident files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/mongolia/comments/17nnmun/mongolia_ufo_stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mongolia UFO Stories</span><span class="citation-popover-snippet">Mongolia UFO Stories</span></span></span>
 
 ## Why Ulaanbaatar dominates the record
 
-Mongolia’s public UFO record is shaped by where people actually are. Ulaanbaatar is the country’s capital, transport hub, and largest city; UN-Habitat describes 47% of Mongolia’s population as living there, while World Bank material similarly notes that the city accounts for a very large share of the country’s population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unhabitat.org/mongolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhabitat.org">[UN-Habitat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhabitat.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mongolia’s public UFO record is shaped by where people actually are. Ulaanbaatar is the country’s capital, transport hub, and largest city; UN-Habitat describes 47% of Mongolia’s population as living there, while World Bank material similarly notes that the city accounts for a very large share of the country’s population.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unhabitat.org/mongolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhabitat.org">[UN-Habitat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhabitat.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That concentration changes the evidence landscape. A bright object over Ulaanbaatar has a better chance of being seen by multiple people, recorded on phones, discussed online, or noticed by air traffic services. A similar object over the Gobi, the Altai, or a northern steppe province may pass unnoticed or be remembered only as a private anecdote. Mongolia’s extremely low population density also means that “no reports” cannot be read as “no events”; it often means no observers, no cameras, no searchable local record, or no English-language trace. The World Bank’s population-density data underlines how unusual Mongolia is in this respect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/indicator/EN.POP.DNST?locations=MN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[World Bank Open Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That concentration changes the evidence landscape. A bright object over Ulaanbaatar has a better chance of being seen by multiple people, recorded on phones, discussed online, or noticed by air traffic services. A similar object over the Gobi, the Altai, or a northern steppe province may pass unnoticed or be remembered only as a private anecdote. Mongolia’s extremely low population density also means that “no reports” cannot be read as “no events”; it often means no observers, no cameras, no searchable local record, or no English-language trace. The World Bank’s population-density data underlines how unusual Mongolia is in this respect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/indicator/EN.POP.DNST?locations=MN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[World Bank Open Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Regionally, the small public sample suggests three different reporting environments:
 
@@ -1226,19 +1226,19 @@ This is why the [Ulaanbaatar 2005]({{ 'ulaanbaatar-2005/' | relative_url }}) rep
 <img src="{{ "/assets/images/Mongolia_f54da3-Illustration-1-dark.svg" | relative_url }}" alt="What Do Mongolia&#x27;s UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records: the silence is part of the story
 
-No publicly visible Mongolian equivalent of a national UFO archive, declassified UAP office, or official incident catalogue appears in the accessible record. Mongolia does have a formal aviation system: the Civil Aviation Authority of Mongolia is responsible for air service regulation and infrastructure in the Ulaanbaatar Flight Information Region, and the Mongolian aeronautical information publication states that aircraft entering the Ulaanbaatar FIR must use specified airways, report before entry, and obtain clearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centreforaviation.com/data/profiles/air-traffic-management/civil-aviation-authority-of-mongolia-caa-mongolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centreforaviation.com">[Centre for Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centreforaviation.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+No publicly visible Mongolian equivalent of a national UFO archive, declassified UAP office, or official incident catalogue appears in the accessible record. Mongolia does have a formal aviation system: the Civil Aviation Authority of Mongolia is responsible for air service regulation and infrastructure in the Ulaanbaatar Flight Information Region, and the Mongolian aeronautical information publication states that aircraft entering the Ulaanbaatar FIR must use specified airways, report before entry, and obtain clearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centreforaviation.com/data/profiles/air-traffic-management/civil-aviation-authority-of-mongolia-caa-mongolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centreforaviation.com">[Centre for Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centreforaviation.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters because some of the stronger UFO cases internationally involve aviation safety: pilots, controllers, radar, restricted airspace, or airport closures. In Mongolia, the public record does not show a well-documented national incident of that kind. The existence of controlled airspace does not mean every unusual light is logged publicly, but it does give researchers a sensible verification path: serious modern claims should be checked against civil aviation notices, flight tracks, airport operations, military restrictions where available, and satellite or rocket-re-entry data.
 
-Internationally, the United States and the United Kingdom provide useful contrasts. The US National Archives has a dedicated UAP records page, and the UK National Archives explains that many older Ministry of Defence UFO files were destroyed under earlier retention policy, with surviving files concentrated from 1970 onwards. These examples show what public state UFO records can look like when they exist or are released; Mongolia does not currently have a comparable public archive for national UFO incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Internationally, the United States and the United Kingdom provide useful contrasts. The US National Archives has a dedicated UAP records page, and the UK National Archives explains that many older Ministry of Defence UFO files were destroyed under earlier retention policy, with surviving files concentrated from 1970 onwards. These examples show what public state UFO records can look like when they exist or are released; Mongolia does not currently have a comparable public archive for national UFO incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The Inner Mongolia confusion
 
-A major source of confusion is the phrase “Mongolian airspace” in English-language UFO articles about China. Several widely circulated 2010 stories concerned Inner Mongolia, an autonomous region of China, not the sovereign state of Mongolia. ABC News reported that an airport in Inner Mongolia was shut for more than an hour after air traffic controllers saw what they believed was a UFO; other coverage described a string of Chinese sightings and airport disruptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span><span class="citation-popover-snippet">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span></span></span>
+A major source of confusion is the phrase “Mongolian airspace” in English-language UFO articles about China. Several widely circulated 2010 stories concerned Inner Mongolia, an autonomous region of China, not the sovereign state of Mongolia. ABC News reported that an airport in Inner Mongolia was shut for more than an hour after air traffic controllers saw what they believed was a UFO; other coverage described a string of Chinese sightings and airport disruptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span><span class="citation-popover-snippet">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span></span></span>
 
 Those cases are relevant only as a neighbouring or sibling-branch comparison. They should not be imported into Mongolia’s national chronology. Inner Mongolia is administratively Chinese, with a different aviation authority, media environment, security context, and reporting chain. For a Mongolia-specific UFO page, the correct handling is to note the confusion, separate the records, and avoid treating Chinese Inner Mongolia airport incidents as Mongolian national cases.
 
-This distinction is especially important for searchers. Many web results mix “Mongolia”, “Outer Mongolia”, “Inner Mongolia”, and “Mongolian airspace” loosely. “Outer Mongolia” is sometimes used in older or foreign descriptions of present-day Mongolia, including the NUFORC Ulaanbaatar entry, but “Inner Mongolia” usually points to China. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+This distinction is especially important for searchers. Many web results mix “Mongolia”, “Outer Mongolia”, “Inner Mongolia”, and “Mongolian airspace” loosely. “Outer Mongolia” is sometimes used in older or foreign descriptions of present-day Mongolia, including the NUFORC Ulaanbaatar entry, but “Inner Mongolia” usually points to China.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qd5FQJziZZ0" title="6 UFO GOVERNMENT COVER-UPS | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qd5FQJziZZ0" target="_blank" rel="noopener noreferrer">6 UFO GOVERNMENT COVER-UPS | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 3.4M &middot; Uploaded: November 2022 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qd5FQJziZZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qd5FQJziZZ0">Open on YouTube</a></p></div></div></div>
 
@@ -1246,11 +1246,11 @@ This distinction is especially important for searchers. Many web results mix “
 
 The most plausible explanations for thinly documented Mongolia UFO reports are the same explanations that resolve many skywatching cases elsewhere, but Mongolia’s geography gives some of them extra force.
 
-Bright meteors are a serious candidate. Mongolia has dark skies, broad horizons, and regions where a meteor can appear dramatic and isolated. One International Meteor Organization fireball report describes a pilot flying eastbound over Ulaanbaatar on 24 July 2020 who saw a very large meteor or fireball while looking for Comet NEOWISE. That report is not a UFO case, but it shows how spectacular natural sky events can occur over Mongolia and be observed from aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sza.imo.net/members/imo_view/report/201935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[SZA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">SZAHlásenie bolidu... meteor/fireball looking East</span><span class="citation-popover-snippet">SZAHlásenie bolidu... meteor/fireball looking East</span></span></span>
+Bright meteors are a serious candidate. Mongolia has dark skies, broad horizons, and regions where a meteor can appear dramatic and isolated. One International Meteor Organization fireball report describes a pilot flying eastbound over Ulaanbaatar on 24 July 2020 who saw a very large meteor or fireball while looking for Comet NEOWISE. That report is not a UFO case, but it shows how spectacular natural sky events can occur over Mongolia and be observed from aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sza.imo.net/members/imo_view/report/201935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[SZA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">SZAHlásenie bolidu... meteor/fireball looking East</span><span class="citation-popover-snippet">SZAHlásenie bolidu... meteor/fireball looking East</span></span></span>
 
-Meteor science also has a Mongolian connection. International observers travelled to the Ulaanbaatar area for Leonid meteor work in 1998, and Nature covered research into sounds associated with fireballs, drawing on a survey of hundreds of meteor-noise accounts. Such material matters because fireballs can be startling, brief, bright, fragmenting, and sometimes accompanied by delayed sound or perceived sound. Those features overlap with common UFO descriptions: glowing object, trail, sudden movement, breakup, and short duration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/1999JIMO...27...24R" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Meteor science also has a Mongolian connection. International observers travelled to the Ulaanbaatar area for Leonid meteor work in 1998, and Nature covered research into sounds associated with fireballs, drawing on a survey of hundreds of meteor-noise accounts. Such material matters because fireballs can be startling, brief, bright, fragmenting, and sometimes accompanied by delayed sound or perceived sound. Those features overlap with common UFO descriptions: glowing object, trail, sudden movement, breakup, and short duration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/1999JIMO...27...24R" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Space debris and rocket re-entry are another plausible category. Recent aviation research has focused on the safety implications of uncontrolled re-entries, noting that space-object re-entry can create risks for aircraft and require airspace responses. IATA likewise describes space debris re-entry as a civil aviation issue in an era of increased launches. For Mongolia, which sits under trans-Eurasian aviation routes and near major spacefaring neighbours, re-entry checks should be part of any serious modern sighting review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11757734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAirspace closures due to reentering space objects</span><span class="citation-popover-snippet">PMCAirspace closures due to reentering space objects</span></span></span>
+Space debris and rocket re-entry are another plausible category. Recent aviation research has focused on the safety implications of uncontrolled re-entries, noting that space-object re-entry can create risks for aircraft and require airspace responses. IATA likewise describes space debris re-entry as a civil aviation issue in an era of increased launches. For Mongolia, which sits under trans-Eurasian aviation routes and near major spacefaring neighbours, re-entry checks should be part of any serious modern sighting review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11757734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAirspace closures due to reentering space objects</span><span class="citation-popover-snippet">PMCAirspace closures due to reentering space objects</span></span></span>
 
 Other common candidates include high-altitude balloons, aircraft landing lights, military exercises, satellites, Starlink trains, drones near settlements, and camera artefacts. The key point is not that every Mongolia report is explained. It is that the public evidence rarely contains enough information to rule these explanations out.
 
@@ -1259,11 +1259,11 @@ Other common candidates include high-altitude balloons, aircraft landing lights,
 
 The Mongolia record is best read in three tiers.
 
-**Confirmed sky events** include meteors and fireballs independently reported through astronomy channels, such as the 2020 Ulaanbaatar-area fireball account from an experienced pilot. These are not UFOs in the extraordinary sense; they are identified or strongly identifiable natural events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sza.imo.net/members/imo_view/report/201935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[SZA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">SZAHlásenie bolidu... meteor/fireball looking East</span><span class="citation-popover-snippet">SZAHlásenie bolidu... meteor/fireball looking East</span></span></span>
+**Confirmed sky events** include meteors and fireballs independently reported through astronomy channels, such as the 2020 Ulaanbaatar-area fireball account from an experienced pilot. These are not UFOs in the extraordinary sense; they are identified or strongly identifiable natural events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sza.imo.net/members/imo_view/report/201935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[SZA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">SZAHlásenie bolidu... meteor/fireball looking East</span><span class="citation-popover-snippet">SZAHlásenie bolidu... meteor/fireball looking East</span></span></span>
 
-**Contested UFO reports** include the 2005 Ulaanbaatar NUFORC entry. It is a real report in a known civilian database, with a specific date and claimed multiple observers. But there is no public official file, radar release, image analysis, or matching independent investigation attached to it in the accessible record. It remains a reported unidentified object, not a demonstrated anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2. Myanmar (Burma), 3... 68 New UFO Images Added to Gallery · NUFORC Participates in AARO...</span></span></span>
+**Contested UFO reports** include the 2005 Ulaanbaatar NUFORC entry. It is a real report in a known civilian database, with a specific date and claimed multiple observers. But there is no public official file, radar release, image analysis, or matching independent investigation attached to it in the accessible record. It remains a reported unidentified object, not a demonstrated anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2. Myanmar (Burma), 3... 68 New UFO Images Added to Gallery · NUFORC Participates in AARO...</span></span></span>
 
-**Weak or folklore-level claims** include unsourced reposted videos, Facebook captions, short-form clips, and forum anecdotes that lack verifiable metadata. These may be culturally interesting, and some may preserve genuine witness experiences, but they cannot carry the evidential weight of a documented incident. Social-media posts claiming glowing orbs over Mongolia in January 2021, for example, circulate as UFO material, but without robust accompanying data they should be treated cautiously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/on-january-20-2021-residents-in-mongolia-captured-unusual-footage-showing-multip/841590868860336/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">on january 20 2021 residents in mongolia captured unusual footage showing multip</span><span class="citation-popover-snippet">on january 20 2021 residents in mongolia captured unusual footage showing multip</span></span></span>
+**Weak or folklore-level claims** include unsourced reposted videos, Facebook captions, short-form clips, and forum anecdotes that lack verifiable metadata. These may be culturally interesting, and some may preserve genuine witness experiences, but they cannot carry the evidential weight of a documented incident. Social-media posts claiming glowing orbs over Mongolia in January 2021, for example, circulate as UFO material, but without robust accompanying data they should be treated cautiously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientwhispers/posts/on-january-20-2021-residents-in-mongolia-captured-unusual-footage-showing-multip/841590868860336/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">on january 20 2021 residents in mongolia captured unusual footage showing multip</span><span class="citation-popover-snippet">on january 20 2021 residents in mongolia captured unusual footage showing multip</span></span></span>
 
 This split is useful because it prevents two opposite mistakes. One mistake is to dismiss every witness as foolish because evidence is incomplete. The other is to inflate incomplete material into proof of something extraordinary. Mongolia’s record supports neither extreme.
 
@@ -1271,7 +1271,7 @@ This split is useful because it prevents two opposite mistakes. One mistake is t
 
 ## How a Mongolia sighting should be checked
 
-A useful Mongolia UFO investigation would begin with ordinary verification rather than exotic assumptions. The country’s aviation framework gives one starting point: aircraft entering the Ulaanbaatar FIR require clearance and must operate on specified routes, so a well-timed sighting near controlled airspace can potentially be compared against aviation activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-ENR-1.1-en-MN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ais.mn">[Ais]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ais.mn</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A useful Mongolia UFO investigation would begin with ordinary verification rather than exotic assumptions. The country’s aviation framework gives one starting point: aircraft entering the Ulaanbaatar FIR require clearance and must operate on specified routes, so a well-timed sighting near controlled airspace can potentially be compared against aviation activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-ENR-1.1-en-MN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ais.mn">[Ais]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ais.mn</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a strong case file, the minimum useful data would be:
 
@@ -1295,201 +1295,201 @@ This approach would be especially valuable outside Ulaanbaatar, where a sighting
 
 Mongolia is not a high-volume public UFO hotspot. Its value in a country-by-country UFO project is different: it shows how national UFO records can be shaped as much by reporting infrastructure as by the sky itself. The country has the ingredients that make sightings memorable — dark horizons, open land, dramatic weather, sparse settlements, and proximity to regional aviation and space activity — but it lacks a deep public archive of investigated cases.
 
-For comparison with sibling country branches, Mongolia sits between better-documented aviation-centred cases and folklore-heavy regions. It has fewer public reports than countries with large UFO organisations, dense media archives, or declassified government collections. It also differs from China-related Inner Mongolia cases, where airport disruption stories entered international news but belong to a separate national and administrative context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span><span class="citation-popover-snippet">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For comparison with sibling country branches, Mongolia sits between better-documented aviation-centred cases and folklore-heavy regions. It has fewer public reports than countries with large UFO organisations, dense media archives, or declassified government collections. It also differs from China-related Inner Mongolia cases, where airport disruption stories entered international news but belong to a separate national and administrative context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span><span class="citation-popover-snippet">ABC News Fresh Report of UFO Over China Marks 8th Time Since June</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The careful conclusion is therefore modest but useful: Mongolia has a small number of public UFO reports, with the 2005 Ulaanbaatar case standing out as the main civilian-database anchor. No publicly available evidence establishes a confirmed extraordinary UFO incident in Mongolia. The strongest future cases would be those that bridge the current gap between anecdote and investigation: original files, multiple independent witnesses, aviation checks, astronomical screening, and local-source documentation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LnEFeca71Wo" title="China Launches SJ-10 Retrievable Space Science Probe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LnEFeca71Wo" target="_blank" rel="noopener noreferrer">China Launches SJ-10 Retrievable Space Science Probe</a></p><p class="youtube-embed-meta">Channel: CCTV Video News Agency &middot; Views: 2.6K &middot; Uploaded: April 2016 &middot; Length: 2 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LnEFeca71Wo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LnEFeca71Wo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Mongolia&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Mongolia&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Broad global UFO context suits a country-level overview page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad global UFO context suits a country-level overview page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses documented reports and official perspectives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses documented reports and official perspectives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers comparative perspectives on global UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers comparative perspectives on global UFO traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for placing sparse Mongolian reports in wider context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for placing sparse Mongolian reports in wider context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-mongolia-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-mongolia-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1505,7 +1505,7 @@ The careful conclusion is therefore modest but useful: Mongolia has a small numb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1525,7 +1525,7 @@ The careful conclusion is therefore modest but useful: Mongolia has a small numb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1557,7 +1557,7 @@ The careful conclusion is therefore modest but useful: Mongolia has a small numb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1609,7 +1609,7 @@ The careful conclusion is therefore modest but useful: Mongolia has a small numb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1654,7 +1654,7 @@ The careful conclusion is therefore modest but useful: Mongolia has a small numb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1692,294 +1692,293 @@ The careful conclusion is therefore modest but useful: Mongolia has a small numb
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2. Myanmar (Burma), 3... 68 New UFO Images Added to Gallery · NUFORC Participates in AARO...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2. Myanmar (Burma), 3... 68 New UFO Images Added to Gallery · NUFORC Participates in AARO...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46662</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46662</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193799" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193799</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193799" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193799</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Mongolia UFO Stories  
-   Link: <a href="https://www.reddit.com/r/mongolia/comments/17nnmun/mongolia_ufo_stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mongolia/comments/17nnmun/mongolia_ufo_stories/</a>  
+   Link:<a href="https://www.reddit.com/r/mongolia/comments/17nnmun/mongolia_ufo_stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mongolia/comments/17nnmun/mongolia_ufo_stories/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mongolia/comments/1ha0aa7/aliens_cryptids/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mongolia/comments/1ha0aa7/aliens_cryptids/</a>  
+   Link:<a href="https://www.reddit.com/r/mongolia/comments/1ha0aa7/aliens_cryptids/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mongolia/comments/1ha0aa7/aliens_cryptids/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ais.mn  
-   Link: <a href="https://ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-ENR-1.1-en-MN.html" target="_blank" rel="noopener noreferrer nofollow">https://ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-ENR-1.1-en-MN.html</a>  
+   Link:<a href="https://ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-ENR-1.1-en-MN.html" target="_blank" rel="noopener noreferrer nofollow">https://ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-ENR-1.1-en-MN.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/news020204-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/news020204-3.pdf</a>  
+   Link:<a href="https://www.nature.com/articles/news020204-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/news020204-3.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAirspace closures due to reentering space objects  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11757734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11757734/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11757734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11757734/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ic.iata.org  
    Title: safety issue  
-   Link: <a href="https://ic.iata.org/capture/safety-issue/188" target="_blank" rel="noopener noreferrer nofollow">https://ic.iata.org/capture/safety-issue/188</a>  
+   Link:<a href="https://ic.iata.org/capture/safety-issue/188" target="_blank" rel="noopener noreferrer nofollow">https://ic.iata.org/capture/safety-issue/188</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: on january 20 2021 residents in mongolia captured unusual footage showing multip  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/on-january-20-2021-residents-in-mongolia-captured-unusual-footage-showing-multip/841590868860336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/on-january-20-2021-residents-in-mongolia-captured-unusual-footage-showing-multip/841590868860336/</a>  
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/on-january-20-2021-residents-in-mongolia-captured-unusual-footage-showing-multip/841590868860336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/on-january-20-2021-residents-in-mongolia-captured-unusual-footage-showing-multip/841590868860336/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/photos/footage-reportedly-captured-over-mongolia-on-january-20-2021-has-resurfaced-and-/1512850634174904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/footage-reportedly-captured-over-mongolia-on-january-20-2021-has-resurfaced-and-/1512850634174904/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/photos/footage-reportedly-captured-over-mongolia-on-january-20-2021-has-resurfaced-and-/1512850634174904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/footage-reportedly-captured-over-mongolia-on-january-20-2021-has-resurfaced-and-/1512850634174904/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
+   Link:<a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ia801909.us.archive.org  
    Title: Stranger at the Pentagon  
-   Link: <a href="https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf</a>  
+   Link:<a href="https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
+   Link:<a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/UFODocumentsFBITopSecretFiles/UFO%20Documents%20%28FBI%20Top%20Secret%20Files%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFODocumentsFBITopSecretFiles/UFO%20Documents%20%28FBI%20Top%20Secret%20Files%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFODocumentsFBITopSecretFiles/UFO%20Documents%20%28FBI%20Top%20Secret%20Files%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFODocumentsFBITopSecretFiles/UFO%20Documents%20%28FBI%20Top%20Secret%20Files%29_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
+   Link:<a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/keeljohna.ourhauntedplanet/Keel%2C%20John%20A.%20-%20Our%20Haunted%20Planet_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/keeljohna.ourhauntedplanet/Keel%2C%20John%20A.%20-%20Our%20Haunted%20Planet_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/keeljohna.ourhauntedplanet/Keel%2C%20John%20A.%20-%20Our%20Haunted%20Planet_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/keeljohna.ourhauntedplanet/Keel%2C%20John%20A.%20-%20Our%20Haunted%20Planet_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/SecretOfTheAges/secret%20of%20the%20Ages_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/SecretOfTheAges/secret%20of%20the%20Ages_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/SecretOfTheAges/secret%20of%20the%20Ages_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/SecretOfTheAges/secret%20of%20the%20Ages_djvu.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ChinaGlobalTVNetwork/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/783536726473135/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChinaGlobalTVNetwork/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/783536726473135/</a>  
+   Link:<a href="https://www.facebook.com/ChinaGlobalTVNetwork/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/783536726473135/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChinaGlobalTVNetwork/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/783536726473135/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cgtnamerica/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/5697653210329904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnamerica/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/5697653210329904/</a>  
+   Link:<a href="https://www.facebook.com/cgtnamerica/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/5697653210329904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnamerica/posts/a-unidentified-luminous-object-was-spotted-in-the-night-sky-above-ordos-in-north/5697653210329904/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AstronomyNo1/posts/3362826447095747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/3362826447095747/</a>  
+   Link:<a href="https://www.facebook.com/groups/AstronomyNo1/posts/3362826447095747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/3362826447095747/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mongolialive.org/posts/ufo-mongolian-stylevia-margadism/1566752816719862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mongolialive.org/posts/ufo-mongolian-stylevia-margadism/1566752816719862/</a>  
+   Link:<a href="https://www.facebook.com/mongolialive.org/posts/ufo-mongolian-stylevia-margadism/1566752816719862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mongolialive.org/posts/ufo-mongolian-stylevia-margadism/1566752816719862/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/182791735124734/posts/2809264979144050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/182791735124734/posts/2809264979144050/</a>  
+   Link:<a href="https://www.facebook.com/groups/182791735124734/posts/2809264979144050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/182791735124734/posts/2809264979144050/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: the inner mongolia airport ufo incident 2013in 2013 a mysterious aerial object r  
-   Link: <a href="https://www.facebook.com/MoviesMemories.Hai/videos/the-inner-mongolia-airport-ufo-incident-2013in-2013-a-mysterious-aerial-object-r/746275108418879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesMemories.Hai/videos/the-inner-mongolia-airport-ufo-incident-2013in-2013-a-mysterious-aerial-object-r/746275108418879/</a>  
+   Link:<a href="https://www.facebook.com/MoviesMemories.Hai/videos/the-inner-mongolia-airport-ufo-incident-2013in-2013-a-mysterious-aerial-object-r/746275108418879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesMemories.Hai/videos/the-inner-mongolia-airport-ufo-incident-2013in-2013-a-mysterious-aerial-object-r/746275108418879/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bandufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bandufo/</a>  
+   Link:<a href="https://www.facebook.com/bandufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bandufo/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AcrossInnerMongolia/posts/watch-the-shooting-star-at-the-volcano-in-ulanqab-city-of-north-chinas-inner-mon/641085961576955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AcrossInnerMongolia/posts/watch-the-shooting-star-at-the-volcano-in-ulanqab-city-of-north-chinas-inner-mon/641085961576955/</a>  
+   Link:<a href="https://www.facebook.com/AcrossInnerMongolia/posts/watch-the-shooting-star-at-the-volcano-in-ulanqab-city-of-north-chinas-inner-mon/641085961576955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AcrossInnerMongolia/posts/watch-the-shooting-star-at-the-volcano-in-ulanqab-city-of-north-chinas-inner-mon/641085961576955/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/446757085724945/posts/1593200641080578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/446757085724945/posts/1593200641080578/</a>  
+   Link:<a href="https://www.facebook.com/groups/446757085724945/posts/1593200641080578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/446757085724945/posts/1593200641080578/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheStarKenya/posts/when-you-stand-on-the-edge-of-bayan-obo-all-you-see-is-an-expanse-of-scarred-gre/1188027186699822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStarKenya/posts/when-you-stand-on-the-edge-of-bayan-obo-all-you-see-is-an-expanse-of-scarred-gre/1188027186699822/</a>  
+   Link:<a href="https://www.facebook.com/TheStarKenya/posts/when-you-stand-on-the-edge-of-bayan-obo-all-you-see-is-an-expanse-of-scarred-gre/1188027186699822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStarKenya/posts/when-you-stand-on-the-edge-of-bayan-obo-all-you-see-is-an-expanse-of-scarred-gre/1188027186699822/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/1322318292266542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1322318292266542/</a>  
+   Link:<a href="https://www.facebook.com/groups/253550249143357/posts/1322318292266542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1322318292266542/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1s8rew6/mysterious_surge_of_giant_fireballs_across_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1s8rew6/mysterious_surge_of_giant_fireballs_across_us/</a>  
+   Link:<a href="https://www.reddit.com/r/abovethenormnews/comments/1s8rew6/mysterious_surge_of_giant_fireballs_across_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1s8rew6/mysterious_surge_of_giant_fireballs_across_us/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
    Title: 2010 ufo that caused china airports to shut down  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/12kaed7/2010_ufo_that_caused_china_airports_to_shut_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/12kaed7/2010_ufo_that_caused_china_airports_to_shut_down/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/12kaed7/2010_ufo_that_caused_china_airports_to_shut_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/12kaed7/2010_ufo_that_caused_china_airports_to_shut_down/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aviation/comments/1sq6124/abrupt_turn_midpacific/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1sq6124/abrupt_turn_midpacific/</a>  
+   Link:<a href="https://www.reddit.com/r/aviation/comments/1sq6124/abrupt_turn_midpacific/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1sq6124/abrupt_turn_midpacific/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/MapPorn/comments/1avfpr8/mongolias_population_density/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1avfpr8/mongolias_population_density/</a>  
+   Link:<a href="https://www.reddit.com/r/MapPorn/comments/1avfpr8/mongolias_population_density/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1avfpr8/mongolias_population_density/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: open.kg  
    Title: 96875 pentagon nachal publikovat rassekrechennye fajly ob nlo  
-   Link: <a href="https://open.kg/en/news/in-the-world/96875-pentagon-nachal-publikovat-rassekrechennye-fajly-ob-nlo.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/in-the-world/96875-pentagon-nachal-publikovat-rassekrechennye-fajly-ob-nlo.html</a>  
+   Link:<a href="https://open.kg/en/news/in-the-world/96875-pentagon-nachal-publikovat-rassekrechennye-fajly-ob-nlo.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/news/in-the-world/96875-pentagon-nachal-publikovat-rassekrechennye-fajly-ob-nlo.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: unhabitat.org  
-   Link: <a href="https://unhabitat.org/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://unhabitat.org/mongolia</a>  
+   Link:<a href="https://unhabitat.org/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://unhabitat.org/mongolia</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: openknowledge.worldbank.org  
-   Link: <a href="https://openknowledge.worldbank.org/entities/publication/ab39a5c4-42fa-57bc-9625-ca83399422e5" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/ab39a5c4-42fa-57bc-9625-ca83399422e5</a>  
+   Link:<a href="https://openknowledge.worldbank.org/entities/publication/ab39a5c4-42fa-57bc-9625-ca83399422e5" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/ab39a5c4-42fa-57bc-9625-ca83399422e5</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: data.worldbank.org  
-   Link: <a href="https://data.worldbank.org/indicator/EN.POP.DNST?locations=MN" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/EN.POP.DNST?locations=MN</a>  
+   Link:<a href="https://data.worldbank.org/indicator/EN.POP.DNST?locations=MN" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/EN.POP.DNST?locations=MN</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: centreforaviation.com  
-   Link: <a href="https://centreforaviation.com/data/profiles/air-traffic-management/civil-aviation-authority-of-mongolia-caa-mongolia" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/air-traffic-management/civil-aviation-authority-of-mongolia-caa-mongolia</a>  
+   Link:<a href="https://centreforaviation.com/data/profiles/air-traffic-management/civil-aviation-authority-of-mongolia-caa-mongolia" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/air-traffic-management/civil-aviation-authority-of-mongolia-caa-mongolia</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: abcnews.com  
    Title: ABC News Fresh Report of UFO Over China Marks 8th Time Since June  
-   Link: <a href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100</a>  
+   Link:<a href="https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/fresh-report-ufo-chinas-skies/story?id=11814100</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1999JIMO...27...24R" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1999JIMO...27...24R</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/1999JIMO...27...24R" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1999JIMO...27...24R</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ulaanbaatar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ulaanbaatar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ulaanbaatar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ulaanbaatar</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mongolia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mongolia</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: documents1.worldbank.org  
-   Link: <a href="https://documents1.worldbank.org/curated/en/099121824023021701/pdf/P178172-2a6a4a5f-cba8-442b-a8ed-e6b2d4965a1c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099121824023021701/pdf/P178172-2a6a4a5f-cba8-442b-a8ed-e6b2d4965a1c.pdf</a>  
+   Link:<a href="https://documents1.worldbank.org/curated/en/099121824023021701/pdf/P178172-2a6a4a5f-cba8-442b-a8ed-e6b2d4965a1c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099121824023021701/pdf/P178172-2a6a4a5f-cba8-442b-a8ed-e6b2d4965a1c.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: documents1.worldbank.org  
-   Link: <a href="https://documents1.worldbank.org/curated/en/099120524125074017/pdf/P178812-21da1361-3b7c-4050-8065-2e6ec48ffe7e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099120524125074017/pdf/P178812-21da1361-3b7c-4050-8065-2e6ec48ffe7e.pdf</a>  
+   Link:<a href="https://documents1.worldbank.org/curated/en/099120524125074017/pdf/P178812-21da1361-3b7c-4050-8065-2e6ec48ffe7e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099120524125074017/pdf/P178812-21da1361-3b7c-4050-8065-2e6ec48ffe7e.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: data.worldbank.org  
    Title: SP.RUR.TOT L.ZS  
-   Link: <a href="https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=MN" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=MN</a>  
+   Link:<a href="https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=MN" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=MN</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: data.worldbank.org  
-   Link: <a href="https://data.worldbank.org/country/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/mongolia</a>  
+   Link:<a href="https://data.worldbank.org/country/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/country/mongolia</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/foreign-travel-advice/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/mongolia</a>  
+   Link:<a href="https://www.gov.uk/foreign-travel-advice/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/mongolia</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/mongolia</a>  
+   Link:<a href="https://www.theguardian.com/world/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/mongolia</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: intrepidtravel.com  
-   Link: <a href="https://www.intrepidtravel.com/uk/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.intrepidtravel.com/uk/mongolia</a>  
+   Link:<a href="https://www.intrepidtravel.com/uk/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.intrepidtravel.com/uk/mongolia</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: kids.nationalgeographic.com  
-   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/mongolia</a>  
+   Link:<a href="https://kids.nationalgeographic.com/geography/countries/article/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/mongolia</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: 1flt.com  
-   Link: <a href="https://www.1flt.com/country-route-info/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.1flt.com/country-route-info/mongolia</a>  
+   Link:<a href="https://www.1flt.com/country-route-info/mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.1flt.com/country-route-info/mongolia</a>  
 
 ### Additional References
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: Rare Red Aurora Appears Over Mongolia's Ergun Wetland on New Year's Day  
-   Link: <a href="https://www.youtube.com/watch?v=NPOQW5DHfEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NPOQW5DHfEE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s SpaceX Clone FAILED! Stole the Blueprints, Crashed Twice &amp; Missed by 2KM...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NPOQW5DHfEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NPOQW5DHfEE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s SpaceX Clone FAILED! Stole the Blueprints, Crashed Twice &amp; Missed by 2KM...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Me14KuG_NGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Me14KuG_NGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China Launches SJ-10 Retrievable Space Science Probe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Me14KuG_NGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Me14KuG_NGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China Launches SJ-10 Retrievable Space Science Probe...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: 6 UFO GOVERNMENT COVER-UPS | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=qd5FQJziZZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qd5FQJziZZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Red Aurora Appears Over Mongolia&#x27;s Ergun Wetland on New Year&#x27;s Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qd5FQJziZZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qd5FQJziZZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Red Aurora Appears Over Mongolia&#x27;s Ergun Wetland on New Year&#x27;s Day...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/MN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/MN.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/MN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/MN.pdf</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
+   Link:<a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: youtube.com  
    Title: China Launches SJ-10 Retrievable Space Science Probe  
-   Link: <a href="https://www.youtube.com/watch?v=LnEFeca71Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnEFeca71Wo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular Aurora Seen in the Skies of Mongolia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LnEFeca71Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnEFeca71Wo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular Aurora Seen in the Skies of Mongolia...</p></details>
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: ncac.mn  
-   Link: <a href="https://ncac.mn/en/news/postCategory/55" target="_blank" rel="noopener noreferrer nofollow">https://ncac.mn/en/news/postCategory/55</a>  
+   Link:<a href="https://ncac.mn/en/news/postCategory/55" target="_blank" rel="noopener noreferrer nofollow">https://ncac.mn/en/news/postCategory/55</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: warufo.com  
-   Link: <a href="https://warufo.com/archive" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/archive</a>  
+   Link:<a href="https://warufo.com/archive" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/archive</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Mongolia</a>
+   Link:<a href="https://www.britannica.com/place/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Mongolia</a>

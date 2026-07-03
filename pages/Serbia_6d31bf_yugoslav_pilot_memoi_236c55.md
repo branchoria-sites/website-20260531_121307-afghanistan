@@ -251,7 +251,7 @@ image: /assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-1-s
 Yugoslav pilot memoirs occupy a special place in Serbia’s UFO history because they sit at the boundary between military testimony and folklore. Unlike anonymous civilian sightings, these stories come from trained aircrew, radar operators, air-defence personnel, and former officers who later described encounters with unexplained lights or objects during the socialist Yugoslav period. Yet they also reveal the main problem facing researchers today: most of the stories became public decades after the alleged events, while the original flight logs, radar records, operational reports, and command documents remain inaccessible, incomplete, or unverified.
 
 <img src="{{ "/assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Memoirs illustration 1" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-As a result, pilot memoirs have shaped Serbian UFO culture less by proving extraordinary events than by creating a lasting narrative. The image of Yugoslav fighter pilots pursuing unknown objects over the Adriatic, receiving interception orders from military command, or struggling to explain unusual radar returns became one of the defining themes of Serbian UFO discussion after the breakup of Yugoslavia. The stories are influential precisely because they combine military credibility with documentary uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span>
+As a result, pilot memoirs have shaped Serbian UFO culture less by proving extraordinary events than by creating a lasting narrative. The image of Yugoslav fighter pilots pursuing unknown objects over the Adriatic, receiving interception orders from military command, or struggling to explain unusual radar returns became one of the defining themes of Serbian UFO discussion after the breakup of Yugoslavia. The stories are influential precisely because they combine military credibility with documentary uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span>
 
 ## Why Yugoslav Cases Matter to Serbia
 
@@ -263,11 +263,11 @@ This distinction is important because it explains why Serbian UFO discussions of
 
 ## The 1975 Wave and the Birth of a Military UFO Legend
 
-The most influential cluster of stories concerns a series of alleged encounters during the mid-1970s. Former personnel have described unusual lights or objects appearing near military aircraft, producing radar anomalies, and prompting interception attempts by Yugoslav fighters. Later retellings claim the incidents lasted for weeks and drew attention from both civilian and military radar stations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Yugoslav 172nd Air Wing UFO cases</span><span class="citation-popover-snippet">Yugoslav 172nd Air Wing UFO casesMarch 9, 2023 — According to former pilots and other army personell, back in 1975, Yugoslav Air Fo...</span><span class="citation-popover-meta">Published: March 9, 2023</span></span></span>
+The most influential cluster of stories concerns a series of alleged encounters during the mid-1970s. Former personnel have described unusual lights or objects appearing near military aircraft, producing radar anomalies, and prompting interception attempts by Yugoslav fighters. Later retellings claim the incidents lasted for weeks and drew attention from both civilian and military radar stations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Yugoslav 172nd Air Wing UFO cases</span><span class="citation-popover-snippet">Yugoslav 172nd Air Wing UFO casesMarch 9, 2023 — According to former pilots and other army personell, back in 1975, Yugoslav Air Fo...</span><span class="citation-popover-meta">Published: March 9, 2023</span></span></span>
 
-One frequently cited account comes from retired commander Zvonimir Jurjević, who described seeing a bright object during a night flight in early 1975. According to later interviews, the object appeared unexpectedly, changed colours, and manoeuvred in a way he considered unusual. Jurjević's recollections became widely circulated in Balkan UFO discussions because they involved a senior military figure rather than an anonymous witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span>
+One frequently cited account comes from retired commander Zvonimir Jurjević, who described seeing a bright object during a night flight in early 1975. According to later interviews, the object appeared unexpectedly, changed colours, and manoeuvred in a way he considered unusual. Jurjević's recollections became widely circulated in Balkan UFO discussions because they involved a senior military figure rather than an anonymous witness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span>
 
-Several later retellings expanded the story considerably. Some versions claim multiple aircraft were scrambled. Others state that command authorities considered the objects a possible security threat. Still others suggest that pilots were ordered to intercept or even engage unknown targets. These claims became part of a broader Yugoslav UFO mythology that portrayed the military as confronting a phenomenon it could neither identify nor control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Yugoslav Air Force pilot Suad Hamzić reported multiple</span><span class="citation-popover-snippet">Yugoslav Air Force pilot Suad Hamzić and his UFO encounters over former Yugoslavia... r/UFOs - Pilots document UFO sighting in July 2024...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
+Several later retellings expanded the story considerably. Some versions claim multiple aircraft were scrambled. Others state that command authorities considered the objects a possible security threat. Still others suggest that pilots were ordered to intercept or even engage unknown targets. These claims became part of a broader Yugoslav UFO mythology that portrayed the military as confronting a phenomenon it could neither identify nor control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Yugoslav Air Force pilot Suad Hamzić reported multiple</span><span class="citation-popover-snippet">Yugoslav Air Force pilot Suad Hamzić and his UFO encounters over former Yugoslavia... r/UFOs - Pilots document UFO sighting in July 2024...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
 
 The problem for historians is that the public evidence remains fragmentary. Most accounts rely on retrospective interviews rather than contemporary documents. Researchers have not produced a publicly available archive containing the complete radar data, mission records, command communications, or investigative reports needed to independently verify the stories.
 
@@ -304,11 +304,11 @@ These details create the impression of a documented military event rather than a
 
 Memoirs reveal how unidentified aerial reports were treated within Yugoslav aviation circles.
 
-Several former personnel have described a culture that was neither openly enthusiastic about UFO claims nor completely dismissive. Unusual observations could be discussed internally, but witnesses often believed the subject carried professional risks. Whether those perceptions were accurate or exaggerated, they helped create the later narrative that significant information remained hidden within military archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gfserbia.blogspot.com">[gfserbia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gfserbia.blogspot.com</span><span class="citation-popover-title">yugoslav pilots speak about ufos</span><span class="citation-popover-snippet">25 Aug 2011 — UFOs had regular flyovers above former Yugoslavia JNA lieutenant: They ordered us to shoot down a UFO! The craft was moving...</span></span></span>
+Several former personnel have described a culture that was neither openly enthusiastic about UFO claims nor completely dismissive. Unusual observations could be discussed internally, but witnesses often believed the subject carried professional risks. Whether those perceptions were accurate or exaggerated, they helped create the later narrative that significant information remained hidden within military archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gfserbia.blogspot.com">[gfserbia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gfserbia.blogspot.com</span><span class="citation-popover-title">yugoslav pilots speak about ufos</span><span class="citation-popover-snippet">25 Aug 2011 — UFOs had regular flyovers above former Yugoslavia JNA lieutenant: They ordered us to shoot down a UFO! The craft was moving...</span></span></span>
 
 ## The Suad Hamzić Accounts and the Credible Witness Problem
 
-Among former Yugoslav military aviators, Suad Hamzić became one of the most frequently cited figures in regional UFO discussions. Later interviews and retellings describe him reporting unusual aerial observations during service as a military pilot. His accounts are regularly presented by enthusiasts as examples of highly credible testimony because of his aviation background and operational experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">A former Yugoslav soldier describes how UFO took out</span><span class="citation-popover-snippet">A former Yugoslav soldier describes how UFO took out...October 24, 2023 — The video contains a testimony of Damir Bokunić, a man w...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Incredible stories in aviation In 1999, the &quot;invisible&quot; F-117...&quot; Yugoslavian Army jet fighter pilot Sauda Hamzica shared his UF...</span></span></span>
+Among former Yugoslav military aviators, Suad Hamzić became one of the most frequently cited figures in regional UFO discussions. Later interviews and retellings describe him reporting unusual aerial observations during service as a military pilot. His accounts are regularly presented by enthusiasts as examples of highly credible testimony because of his aviation background and operational experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">A former Yugoslav soldier describes how UFO took out</span><span class="citation-popover-snippet">A former Yugoslav soldier describes how UFO took out...October 24, 2023 — The video contains a testimony of Damir Bokunić, a man w...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Incredible stories in aviation In 1999, the &quot;invisible&quot; F-117...&quot; Yugoslavian Army jet fighter pilot Sauda Hamzica shared his UF...</span></span></span>
 
 The Hamzić material illustrates a recurring problem in Serbian UFO history. Credibility and evidence are not the same thing.
 
@@ -319,7 +319,7 @@ For believers, that testimony is persuasive because it comes from a trained mili
 <img src="{{ "/assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Memoirs illustration 2" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Pan Adria Story and Regional Memory
 
-Another influential case in former Yugoslav UFO culture is the so-called Pan Adria incident of 1977. Although associated primarily with aviation events outside present-day Serbia, the story became deeply embedded in Serbian-language UFO discussions because it involved professional aircrew, air-traffic personnel, and military responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...The doc mentions a 250-page report created by the KGB about an encounter with a UFO...</span></span></span>
+Another influential case in former Yugoslav UFO culture is the so-called Pan Adria incident of 1977. Although associated primarily with aviation events outside present-day Serbia, the story became deeply embedded in Serbian-language UFO discussions because it involved professional aircrew, air-traffic personnel, and military responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...The doc mentions a 250-page report created by the KGB about an encounter with a UFO...</span></span></span>
 
 Accounts generally describe a prolonged observation involving airline personnel and radar monitoring. Later researchers and enthusiasts argued that the official explanations failed to account for reported manoeuvres or the duration of the encounter. Critics, meanwhile, point out that surviving public documentation remains limited and that many later retellings substantially expanded the original narrative.
 
@@ -351,7 +351,7 @@ Several points appear well supported:
 * Former Yugoslav military personnel have publicly reported unusual aerial observations.
 * Some reports involved experienced pilots and officers.
 * These accounts became widely discussed in Serbian media and UFO circles.
-* Certain incidents prompted genuine interest within aviation communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span>
+* Certain incidents prompted genuine interest within aviation communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span>
 
 </div>
 
@@ -385,199 +385,199 @@ The importance of Yugoslav pilot memoirs lies less in what they prove than in ho
 
 They transformed UFO discussion from a topic associated with isolated civilians into one connected with fighter pilots, military command structures, radar systems, and Cold War secrecy. The stories also linked Serbia's UFO culture to the broader history of Yugoslav aviation, giving local enthusiasts a set of regional cases that felt distinct from the better-known American or Soviet narratives.
 
-At the same time, the memoirs demonstrate why Serbia's UFO history remains difficult to evaluate. The most compelling stories often involve the weakest documentation, while the best-documented cases tend to be far less dramatic. That tension between testimony and evidence runs through nearly every major Yugoslav pilot account and remains the central question facing anyone trying to separate Serbian UFO history from Serbian UFO mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gfserbia.blogspot.com">[2gfserbia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gfserbia.blogspot.com</span><span class="citation-popover-title">yugoslav pilots speak about ufos</span><span class="citation-popover-snippet">25 Aug 2011 — UFOs had regular flyovers above former Yugoslavia JNA lieutenant: They ordered us to shoot down a UFO! The craft was moving...</span></span></span>
+At the same time, the memoirs demonstrate why Serbia's UFO history remains difficult to evaluate. The most compelling stories often involve the weakest documentation, while the best-documented cases tend to be far less dramatic. That tension between testimony and evidence runs through nearly every major Yugoslav pilot account and remains the central question facing anyone trying to separate Serbian UFO history from Serbian UFO mythology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gfserbia.blogspot.com">[2gfserbia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gfserbia.blogspot.com</span><span class="citation-popover-title">yugoslav pilots speak about ufos</span><span class="citation-popover-snippet">25 Aug 2011 — UFOs had regular flyovers above former Yugoslavia JNA lieutenant: They ordered us to shoot down a UFO! The craft was moving...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwFQfKvKs3w" title="Soviet Union Declassified UFO Encounters Revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwFQfKvKs3w" target="_blank" rel="noopener noreferrer">Soviet Union Declassified UFO Encounters Revealed</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 2.4M &middot; Uploaded: July 2023 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwFQfKvKs3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwFQfKvKs3w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Pilot Stories Shaped Serbia&#x27;s UFO Myth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Pilot Stories Shaped Serbia&#x27;s UFO Myth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Contains many military and aviation-related case studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains many military and aviation-related case studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating pilot and radar reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating pilot and radar reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Shows how military testimony shapes UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how military testimony shapes UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Pilot testimony is a major focus of the book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Pilot testimony is a major focus of the book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-pilot-stories-shaped-serbia-s-ufo-myth-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ At the same time, the memoirs demonstrate why Serbia's UFO history remains diffi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ At the same time, the memoirs demonstrate why Serbia's UFO history remains diffi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ At the same time, the memoirs demonstrate why Serbia's UFO history remains diffi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ At the same time, the memoirs demonstrate why Serbia's UFO history remains diffi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ At the same time, the memoirs demonstrate why Serbia's UFO history remains diffi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,140 +780,139 @@ At the same time, the memoirs demonstrate why Serbia's UFO history remains diffi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gfserbia.blogspot.com  
    Title: yugoslav pilots speak about ufos  
-   Link: <a href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Aug 2011 — UFOs had regular flyovers above former Yugoslavia JNA lieutenant: They ordered us to shoot down a UFO! The craft was moving...</p></details>
+   Link:<a href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Aug 2011 — UFOs had regular flyovers above former Yugoslavia JNA lieutenant: They ordered us to shoot down a UFO! The craft was moving...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: Yugoslav 172nd Air Wing UFO cases  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav 172nd Air Wing UFO casesMarch 9, 2023 — According to former pilots and other army personell, back in 1975, Yugoslav Air Fo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11mlzlh/yugoslav_172nd_air_wing_ufo_cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav 172nd Air Wing UFO casesMarch 9, 2023 — According to former pilots and other army personell, back in 1975, Yugoslav Air Fo...</p></details>
    Published: March 9, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Yugoslav Air Force pilot Suad Hamzić reported multiple  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav Air Force pilot Suad Hamzić and his UFO encounters over former Yugoslavia... r/UFOs - Pilots document UFO sighting in July 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1o2c5z3/yugoslav_air_force_pilot_suad_hamzi%C4%87_reported/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav Air Force pilot Suad Hamzić and his UFO encounters over former Yugoslavia... r/UFOs - Pilots document UFO sighting in July 2024...</p></details>
    Published: July 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible stories in aviation In 1999, the &quot;invisible&quot; F-117...&quot; Yugoslavian Army jet fighter pilot Sauda Hamzica shared his UF...</p></details>
+   Link:<a href="https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationReviewMaterials/posts/the-invisible-jet-and-the-unlikely-friendship-incredible-stories-in-aviationin-1/1017423794151400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible stories in aviation In 1999, the &quot;invisible&quot; F-117...&quot; Yugoslavian Army jet fighter pilot Sauda Hamzica shared his UF...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: Suad Hamzic, former Yugoslav Army jet pilot, talks about  
-   Link: <a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav Army jet pilot, talks about his personal encounters with UFOs. Former Military Pilot recalls UFO encounters -. CONEXAOUFO.COM. F...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2135436853640329/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yugoslav Army jet pilot, talks about his personal encounters with UFOs. Former Military Pilot recalls UFO encounters -. CONEXAOUFO.COM. F...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: A former Yugoslav soldier describes how UFO took out  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A former Yugoslav soldier describes how UFO took out...October 24, 2023 — The video contains a testimony of Damir Bokunić, a man w...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A former Yugoslav soldier describes how UFO took out...October 24, 2023 — The video contains a testimony of Damir Bokunić, a man w...</p></details>
    Published: October 24, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...The doc mentions a 250-page report created by the KGB about an encounter with a UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...The doc mentions a 250-page report created by the KGB about an encounter with a UFO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: spinning ufo captured in serbia  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This UFO / UAP was filmed in Serbia on 28.02.2024 in a village named Obrež. Here is the exact location on Google Maps where this was film...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b5s2a4/spinning_ufo_captured_in_serbia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This UFO / UAP was filmed in Serbia on 28.02.2024 in a village named Obrež. Here is the exact location on Google Maps where this was film...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird UFO recently filmed over Belgrade, Serbia: r/aliensWhat are the most credible UFO sightings? r/aliens. • 6mo ago. What are the mos...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird UFO recently filmed over Belgrade, Serbia: r/aliensWhat are the most credible UFO sightings? r/aliens. • 6mo ago. What are the mos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: ufo close up serbia 2020  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/181aedj/ufo_close_up_serbia_2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/181aedj/ufo_close_up_serbia_2020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO close up, Serbia 2020: r/aliensUFO close up, Serbia 2020... Filmed in serbia 2020, it&#x27;s one of the closest UFOs I have ever seen. T...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/181aedj/ufo_close_up_serbia_2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/181aedj/ufo_close_up_serbia_2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO close up, Serbia 2020: r/aliensUFO close up, Serbia 2020... Filmed in serbia 2020, it&#x27;s one of the closest UFOs I have ever seen. T...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211497820250134/posts/1362881751778396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1362881751778396/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Belgrade, Yugoslavia 1968Autopsy of recovered alien being after UFO crash in Yugoslavia in 1966, authentic photos release...</p></details>
+   Link:<a href="https://www.facebook.com/groups/211497820250134/posts/1362881751778396/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1362881751778396/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Belgrade, Yugoslavia 1968Autopsy of recovered alien being after UFO crash in Yugoslavia in 1966, authentic photos release...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sky, displaying unusual flight patterns and glowing lights that...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/recent-sighting-over-serbia-has-captured-the-attention-of-both-locals-and-ufo-en/855471094138980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky, displaying unusual flight patterns and glowing lights that...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sputnikglobe.com  
-   Link: <a href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow">https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</p></details>
+   Link:<a href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow">https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vreme.com  
-   Link: <a href="https://vreme.com/en/vesti/vucic-naredio-srusiti-spijunski-nlo-drugi-put/" target="_blank" rel="noopener noreferrer nofollow">https://vreme.com/en/vesti/vucic-naredio-srusiti-spijunski-nlo-drugi-put/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vučić ordered: Shoot down a spy UFO... the second timeVučić ordered: Shoot down a spy UFO... a second time. March 31, 2024... Serbia has...</p></details>
+   Link:<a href="https://vreme.com/en/vesti/vucic-naredio-srusiti-spijunski-nlo-drugi-put/" target="_blank" rel="noopener noreferrer nofollow">https://vreme.com/en/vesti/vucic-naredio-srusiti-spijunski-nlo-drugi-put/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vučić ordered: Shoot down a spy UFO... the second timeVučić ordered: Shoot down a spy UFO... a second time. March 31, 2024... Serbia has...</p></details>
    Published: March 31, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/rs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/rs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in SerbiaExplore UFO &amp; UAP sightings in Serbia. Discover sighting maps, historical and recent trends, and video highlights...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/rs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/rs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in SerbiaExplore UFO &amp; UAP sightings in Serbia. Discover sighting maps, historical and recent trends, and video highlights...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: radiobijelopolje.me  
-   Link: <a href="https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire" target="_blank" rel="noopener noreferrer nofollow">https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio Bijelo PoljeUFOs, Yugoslavia and science: When atmospheric...13 Aug 2021 — It was also determined that &quot;none of the UFOs reported...</p></details>
+   Link:<a href="https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire" target="_blank" rel="noopener noreferrer nofollow">https://radiobijelopolje.me/en/magazin/29455/nlo-jugoslavija-i-nauka-kada-atmosferske-i-astronomske-pojave-zali%C4%8De-na-lete%C4%87e-tanjire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radio Bijelo PoljeUFOs, Yugoslavia and science: When atmospheric...13 Aug 2021 — It was also determined that &quot;none of the UFOs reported...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: telegraf.rs  
-   Link: <a href="https://www.telegraf.rs/english/2379918-this-is-a-militarys-best-kept-secret-aliens-killed-serbian-pilot-tito-was-almost-averted-from-his-trip-video-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/english/2379918-this-is-a-militarys-best-kept-secret-aliens-killed-serbian-pilot-tito-was-almost-averted-from-his-trip-video-photo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens killed Serbian pilot, Tito was almost averted from his...Sep 29, 2016 — THIS IS A MILITARY&#x27;S BEST KEPT SECRET: Aliens killed Serb...</p></details>
+   Link:<a href="https://www.telegraf.rs/english/2379918-this-is-a-militarys-best-kept-secret-aliens-killed-serbian-pilot-tito-was-almost-averted-from-his-trip-video-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraf.rs/english/2379918-this-is-a-militarys-best-kept-secret-aliens-killed-serbian-pilot-tito-was-almost-averted-from-his-trip-video-photo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens killed Serbian pilot, Tito was almost averted from his...Sep 29, 2016 — THIS IS A MILITARY&#x27;S BEST KEPT SECRET: Aliens killed Serb...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gizmodo.com  
    Title: ufo photographed floating over serbian village 5842049  
-   Link: <a href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographed floating over Serbian village20 Sept 2011 — A man snapped a UFO floating over the town of Bukovac. He&#x27;s offered the foot...</p></details>
+   Link:<a href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographed floating over Serbian village20 Sept 2011 — A man snapped a UFO floating over the town of Bukovac. He&#x27;s offered the foot...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: huckmag.com  
-   Link: <a href="https://www.huckmag.com/article/video-communicating-aliens-former-yugoslavia" target="_blank" rel="noopener noreferrer nofollow">https://www.huckmag.com/article/video-communicating-aliens-former-yugoslavia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t aliens whilst a series of futuristic Yugoslavian war monuments stand...Read more...</p></details>
+   Link:<a href="https://www.huckmag.com/article/video-communicating-aliens-former-yugoslavia" target="_blank" rel="noopener noreferrer nofollow">https://www.huckmag.com/article/video-communicating-aliens-former-yugoslavia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t aliens whilst a series of futuristic Yugoslavian war monuments stand...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
    Title: Foreign Broadcast Information Service Glossary | PDF  
-   Link: <a href="https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO unidentified flying object Use: UFO. altitude above sea level. People&#x27;s... Serbian Radical Party (Yu) Alliance of Reform Forces of Y...</p></details>
+   Link:<a href="https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/168031273/Foreign-Broadcast-Information-Service-Glossary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO unidentified flying object Use: UFO. altitude above sea level. People&#x27;s... Serbian Radical Party (Yu) Alliance of Reform Forces of Y...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=x5QYbPE9Ed8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x5QYbPE9Ed8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=x5QYbPE9Ed8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x5QYbPE9Ed8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular Ufos An Estimate of The Situation by David...case, the pilots have had a visual contact with the UFO.” A quick example of the...</p></details>
+   Link:<a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular Ufos An Estimate of The Situation by David...case, the pilots have had a visual contact with the UFO.” A quick example of the...</p></details>

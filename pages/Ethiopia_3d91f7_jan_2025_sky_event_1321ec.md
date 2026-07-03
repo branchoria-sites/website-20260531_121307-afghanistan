@@ -248,39 +248,39 @@ image: /assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-1-s
 
 ## Introduction
 
-In early January 2025, residents across southern and south‑western Ethiopia reported a remarkable sky spectacle — fast‑moving luminous objects streaking across the evening sky. This incident drew attention not as an unexplained “UFO” encounter but as a case where Ethiopian observers, science groups and space analysts assessed what was seen and weighed natural [explanations]({{ 'explanations-5fe3ff/' | relative_url }}) like meteors or space debris re‑entry. Credible reporting and expert commentary from Ethiopian space organisations and regional news outlets frame this as a grounded astronomical event, linking public observation to known solar system phenomena rather than extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span>
+In early January 2025, residents across southern and south‑western Ethiopia reported a remarkable sky spectacle — fast‑moving luminous objects streaking across the evening sky. This incident drew attention not as an unexplained “UFO” encounter but as a case where Ethiopian observers, science groups and space analysts assessed what was seen and weighed natural [explanations]({{ 'explanations-5fe3ff/' | relative_url }}) like meteors or space debris re‑entry. Credible reporting and expert commentary from Ethiopian space organisations and regional news outlets frame this as a grounded astronomical event, linking public observation to known solar system phenomena rather than extraterrestrial visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Falling Space Debris Incident Reported in Ethiopia</span><span class="citation-popover-snippet">Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-1-dark.svg" | relative_url }}" alt="2025 Sky Event illustration 1" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses reported across southern Ethiopia
 
-On the evening of 10 January 2025, just after sunset in parts of southern and south‑eastern Ethiopia, multiple eyewitnesses described bright, rapidly moving objects crossing the sky at around 7:30 p.m. local time. According to reports, these objects left visible trails and were seen over broad areas of the southern highlands and lowlands. Local observers shared videos and accounts on social media and community platforms noting unusual brightness and speed, prompting questions about their origin. At the time, there was no immediately available official announcement describing these as “unidentified aircraft” in the alien sense, but the unusual sight sparked active discussion in local circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/addisstandard/status/1877626213558039023?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Space Society probes &#x27;meteorite cluster...The cluster of objects observed moving rapidly across the sky in southern...</span></span></span>
+On the evening of 10 January 2025, just after sunset in parts of southern and south‑eastern Ethiopia, multiple eyewitnesses described bright, rapidly moving objects crossing the sky at around 7:30 p.m. local time. According to reports, these objects left visible trails and were seen over broad areas of the southern highlands and lowlands. Local observers shared videos and accounts on social media and community platforms noting unusual brightness and speed, prompting questions about their origin. At the time, there was no immediately available official announcement describing these as “unidentified aircraft” in the alien sense, but the unusual sight sparked active discussion in local circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/addisstandard/status/1877626213558039023?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Space Society probes &#x27;meteorite cluster...The cluster of objects observed moving rapidly across the sky in southern...</span></span></span>
 
-Social‑media posts from residents of the Arba Minch region in southern Ethiopia captured similar phenomena, with users describing a blazing object crossing the sky with a fiery trail. While these posts are informal and not scientific data, they reflect the depth of public engagement and initial uncertainty about the nature of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">A strange object, possibly a rocket, was observed in the skies</span><span class="citation-popover-snippet">A strange object, possibly a rocket, was observed in the skies...January 9, 2025 — A strange object, possibly a rocket, was observ...</span><span class="citation-popover-meta">Published: January 9, 2025</span></span></span>
+Social‑media posts from residents of the Arba Minch region in southern Ethiopia captured similar phenomena, with users describing a blazing object crossing the sky with a fiery trail. While these posts are informal and not scientific data, they reflect the depth of public engagement and initial uncertainty about the nature of the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">A strange object, possibly a rocket, was observed in the skies</span><span class="citation-popover-snippet">A strange object, possibly a rocket, was observed in the skies...January 9, 2025 — A strange object, possibly a rocket, was observ...</span><span class="citation-popover-meta">Published: January 9, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qWIrQd08YTY" title="A new INTERSTELLAR object discovered! | Night Sky News July 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qWIrQd08YTY" target="_blank" rel="noopener noreferrer">A new INTERSTELLAR object discovered! | Night Sky News July 2025</a></p><p class="youtube-embed-meta">Channel: Dr. Becky &middot; Views: 181.5K &middot; Uploaded: July 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qWIrQd08YTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qWIrQd08YTY">Open on YouTube</a></p></div></div></div>
 
 ## How Ethiopian space groups interpreted the videos
 
-Ethiopian scientific bodies responded with measured, science‑oriented commentary. The Ethiopian Space Science Society (part of broader national and academic space‑science networks) issued statements noting that clusters of fast‑moving luminous objects observed over southern and south‑western Ethiopia could plausibly be meteors or fragments of space debris re‑entering Earth’s atmosphere. These initial assessments emphasised ongoing investigation while urging calm and patience for definitive analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Society probes &#x27;meteorite cluster&#x27; sighted over...The cluster of objects observed moving rapidly across the sky in souther...</span></span></span>
+Ethiopian scientific bodies responded with measured, science‑oriented commentary. The Ethiopian Space Science Society (part of broader national and academic space‑science networks) issued statements noting that clusters of fast‑moving luminous objects observed over southern and south‑western Ethiopia could plausibly be meteors or fragments of space debris re‑entering Earth’s atmosphere. These initial assessments emphasised ongoing investigation while urging calm and patience for definitive analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Society probes &#x27;meteorite cluster&#x27; sighted over...The cluster of objects observed moving rapidly across the sky in souther...</span></span></span>
 
-Although detailed official position papers or radars tracks were not immediately released in public archives, the involvement of national science and space societies illustrates how state‑aligned expert channels grounded the event in atmospheric and aerospace science rather than unexplained visitation. Preliminary hypotheses referenced both natural meteoroid activity and anthropogenic space junk as plausible causes worth exploring with observational data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ለቁጣ የሚወድቁ እንደ ችቦ የተቃጠለ የሚመስል እንደሚወድቅ እንዲህ...Read more...</span></span></span>
+Although detailed official position papers or radars tracks were not immediately released in public archives, the involvement of national science and space societies illustrates how state‑aligned expert channels grounded the event in atmospheric and aerospace science rather than unexplained visitation. Preliminary hypotheses referenced both natural meteoroid activity and anthropogenic space junk as plausible causes worth exploring with observational data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ለቁጣ የሚወድቁ እንደ ችቦ የተቃጠለ የሚመስል እንደሚወድቅ እንዲህ...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-2-dark.svg" | relative_url }}" alt="2025 Sky Event illustration 2" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor, re‑entry or still unresolved?
 
 ### Meteor activity and known sky phenomena
 
-Astronomical phenomena in January regularly include meteor showers and sporadic meteors visible worldwide. Early January sees the tail end of the **Quadrantid meteor shower**, an annual event that often produces bright meteors as Earth passes through a stream of cometary debris in its orbit. Although this shower’s peak — typically around January 3–4 — technically precedes the Ethiopian sightings by a week, residual meteoroid activity can still be present, especially as sporadic meteors outside strongly defined shower peaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">15 must see naked eye skywatching events in 2025</span><span class="citation-popover-snippet">15 must-see naked-eye skywatching events in 2025 &#124; SpaceJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
+Astronomical phenomena in January regularly include meteor showers and sporadic meteors visible worldwide. Early January sees the tail end of the **Quadrantid meteor shower**, an annual event that often produces bright meteors as Earth passes through a stream of cometary debris in its orbit. Although this shower’s peak — typically around January 3–4 — technically precedes the Ethiopian sightings by a week, residual meteoroid activity can still be present, especially as sporadic meteors outside strongly defined shower peaks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">15 must see naked eye skywatching events in 2025</span><span class="citation-popover-snippet">15 must-see naked-eye skywatching events in 2025 &#124; SpaceJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
 
-Independent of annual meteor showers, random meteoroids — fragments of asteroids or comets — frequently enter Earth’s atmosphere. Most burn up completely, producing brief flashes of light familiar to observers worldwide. These events can occur at any time and are typically indistinguishable by eye from small space debris re‑entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up january 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">NASA ScienceWhat&#x27;s Up: January 2025 Skywatching Tips from NASADecember 30, 2024...</span><span class="citation-popover-meta">Published: january 2025</span></span></span>
+Independent of annual meteor showers, random meteoroids — fragments of asteroids or comets — frequently enter Earth’s atmosphere. Most burn up completely, producing brief flashes of light familiar to observers worldwide. These events can occur at any time and are typically indistinguishable by eye from small space debris re‑entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up january 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">NASA ScienceWhat&#x27;s Up: January 2025 Skywatching Tips from NASADecember 30, 2024...</span><span class="citation-popover-meta">Published: january 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3TyL5WoQqOU" title="ISS Timelapse - From Ethiopia to Uzbekistan (23 Jun 2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3TyL5WoQqOU" target="_blank" rel="noopener noreferrer">ISS Timelapse - From Ethiopia to Uzbekistan (23 Jun 2025)</a></p><p class="youtube-embed-meta">Channel: AstronautiCAST &middot; Views: 109.8K &middot; Uploaded: August 2025 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3TyL5WoQqOU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3TyL5WoQqOU">Open on YouTube</a></p></div></div></div>
 
 ### Space debris re‑entry explanations
 
-Space debris — remnants of defunct satellites, rocket bodies, or other human‑launched hardware — also regularly re‑enters the atmosphere. As these objects descend, friction with atmospheric gases heats them to incandescence, sometimes producing long, bright trails and fragmentation patterns reminiscent of meteors. Such debris re‑entries have been documented over East Africa, including a notable case when a large metallic ring suspected to be rocket debris fell near Mukuku village in neighbouring Kenya at the turn of the year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.golem.de/news/weltraumschrott-ring-aus-metall-faellt-in-kenia-vom-himmel-2501-192074.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golem.de">[Golem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golem.de</span><span class="citation-popover-title">Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel</span><span class="citation-popover-snippet">Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel - Golem.deJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
+Space debris — remnants of defunct satellites, rocket bodies, or other human‑launched hardware — also regularly re‑enters the atmosphere. As these objects descend, friction with atmospheric gases heats them to incandescence, sometimes producing long, bright trails and fragmentation patterns reminiscent of meteors. Such debris re‑entries have been documented over East Africa, including a notable case when a large metallic ring suspected to be rocket debris fell near Mukuku village in neighbouring Kenya at the turn of the year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.golem.de/news/weltraumschrott-ring-aus-metall-faellt-in-kenia-vom-himmel-2501-192074.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golem.de">[Golem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golem.de</span><span class="citation-popover-title">Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel</span><span class="citation-popover-snippet">Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel - Golem.deJanuary 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
 
-In the Ethiopian case, early hypotheses from local space science observers pointed to the possibility that the January 10 sighting could be related to space debris or a cluster of meteoritic material. While definitive attribution to a specific rocket body or satellite fragment — such as an identified rocket stage — was not publicly confirmed, the pattern of reports aligns with known debris re‑entry behaviour: bright, fast objects crossing the sky at moderate altitude and rapidly disintegrating, exactly the sort of signature seen when orbital junk decays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Society probes &#x27;meteorite cluster&#x27; sighted over...The cluster of objects observed moving rapidly across the sky in souther...</span></span></span>
+In the Ethiopian case, early hypotheses from local space science observers pointed to the possibility that the January 10 sighting could be related to space debris or a cluster of meteoritic material. While definitive attribution to a specific rocket body or satellite fragment — such as an identified rocket stage — was not publicly confirmed, the pattern of reports aligns with known debris re‑entry behaviour: bright, fast objects crossing the sky at moderate altitude and rapidly disintegrating, exactly the sort of signature seen when orbital junk decays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Society probes &#x27;meteorite cluster&#x27; sighted over...The cluster of objects observed moving rapidly across the sky in souther...</span></span></span>
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-3-dark.svg" | relative_url }}" alt="2025 Sky Event illustration 3" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_jan_2025_sky_event_1321ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What remains unresolved
@@ -289,199 +289,199 @@ As is common with transient sky events, especially in regions without dense netw
 
 ## Summary
 
-The January 2025 sky event over southern and south‑western Ethiopia stands as a clear example of how impressive sky phenomena can draw wide public attention and quickly pivot to scientific analysis. Witnesses saw bright, fast‑moving objects; local space science organisations promptly interpreted these in terms of known causes — meteors or space debris — and publicly framed the event accordingly. There is no credible evidence tying this occurrence to extraterrestrial craft or unexplained aerial technologies. Rather, the balance of evidence points toward atmospheric entry of space material, either natural meteoroids or anthropogenic debris, consistent with global patterns of such sightings and known orbital decay processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ለቁጣ የሚወድቁ እንደ ችቦ የተቃጠለ የሚመስል እንደሚወድቅ እንዲህ...Read more...</span></span></span>
+The January 2025 sky event over southern and south‑western Ethiopia stands as a clear example of how impressive sky phenomena can draw wide public attention and quickly pivot to scientific analysis. Witnesses saw bright, fast‑moving objects; local space science organisations promptly interpreted these in terms of known causes — meteors or space debris — and publicly framed the event accordingly. There is no credible evidence tying this occurrence to extraterrestrial craft or unexplained aerial technologies. Rather, the balance of evidence points toward atmospheric entry of space material, either natural meteoroids or anthropogenic debris, consistent with global patterns of such sightings and known orbital decay processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ለቁጣ የሚወድቁ እንደ ችቦ የተቃጠለ የሚመስል እንደሚወድቅ እንዲህ...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x-nKA9fSFCk" title="ESA reentry expertise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x-nKA9fSFCk" target="_blank" rel="noopener noreferrer">ESA reentry expertise</a></p><p class="youtube-embed-meta">Channel: European Space Agency, ESA &middot; Views: 23.8K &middot; Uploaded: March 2018 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x-nKA9fSFCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x-nKA9fSFCk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Ethiopia&#x27;s 2025 UFO Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Ethiopia&#x27;s 2025 UFO Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for how unusual aerial sightings are investigated and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how unusual aerial sightings are investigated and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly helps readers understand meteor trails, fireballs, and atmospheric sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers understand meteor trails, fireballs, and atmospheric sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Provides context for observing unusual lights and objects in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for observing unusual lights and objects in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps readers interpret sky phenomena using observational astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers interpret sky phenomena using observational astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ethiopia-s-2025-ufo-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-ethiopia-s-2025-ufo-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -497,7 +497,7 @@ The January 2025 sky event over southern and south‑western Ethiopia stands a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -517,7 +517,7 @@ The January 2025 sky event over southern and south‑western Ethiopia stands a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -549,7 +549,7 @@ The January 2025 sky event over southern and south‑western Ethiopia stands a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -601,7 +601,7 @@ The January 2025 sky event over southern and south‑western Ethiopia stands a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -646,7 +646,7 @@ The January 2025 sky event over southern and south‑western Ethiopia stands a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,154 +684,153 @@ The January 2025 sky event over southern and south‑western Ethiopia stands a
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Society probes &#x27;meteorite cluster&#x27; sighted over...The cluster of objects observed moving rapidly across the sky in souther...</p></details>
+   Link:<a href="https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AddisstandardEng/posts/space-society-probes-meteorite-cluster-sighted-over-southern-ethiopiathe-ethiopi/1010846814413888/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Society probes &#x27;meteorite cluster&#x27; sighted over...The cluster of objects observed moving rapidly across the sky in souther...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: A strange object, possibly a rocket, was observed in the skies  
-   Link: <a href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange object, possibly a rocket, was observed in the skies...January 9, 2025 — A strange object, possibly a rocket, was observ...</p></details>
+   Link:<a href="https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ethiopia/comments/1hxlt5e/a_strange_object_possibly_a_rocket_was_observed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A strange object, possibly a rocket, was observed in the skies...January 9, 2025 — A strange object, possibly a rocket, was observ...</p></details>
    Published: January 9, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: 15 must see naked eye skywatching events in 2025  
-   Link: <a href="https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 must-see naked-eye skywatching events in 2025 | SpaceJanuary 2, 2025...</p></details>
+   Link:<a href="https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 must-see naked-eye skywatching events in 2025 | SpaceJanuary 2, 2025...</p></details>
    Published: January 2, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: whats up january 2025 skywatching tips from nasa  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhat&#x27;s Up: January 2025 Skywatching Tips from NASADecember 30, 2024...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhat&#x27;s Up: January 2025 Skywatching Tips from NASADecember 30, 2024...</p></details>
    Published: january 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: golem.de  
    Title: Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel  
-   Link: <a href="https://www.golem.de/news/weltraumschrott-ring-aus-metall-faellt-in-kenia-vom-himmel-2501-192074.html" target="_blank" rel="noopener noreferrer nofollow">https://www.golem.de/news/weltraumschrott-ring-aus-metall-faellt-in-kenia-vom-himmel-2501-192074.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel - Golem.deJanuary 2, 2025...</p></details>
+   Link:<a href="https://www.golem.de/news/weltraumschrott-ring-aus-metall-faellt-in-kenia-vom-himmel-2501-192074.html" target="_blank" rel="noopener noreferrer nofollow">https://www.golem.de/news/weltraumschrott-ring-aus-metall-faellt-in-kenia-vom-himmel-2501-192074.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weltraumschrott: Ring aus Metall fällt in Kenia vom Himmel - Golem.deJanuary 2, 2025...</p></details>
    Published: January 2, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: hayli gubbis explosive first impression  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/hayli-gubbis-explosive-first-impression/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/hayli-gubbis-explosive-first-impression/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gubbi’s Explosive First Impression - NASA ScienceDecember 4, 2025 — Earth Observatory 4 min read HAYLI GUBBI’S EXPLOSIVE FIRST IMPRESSION...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/hayli-gubbis-explosive-first-impression/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/hayli-gubbis-explosive-first-impression/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gubbi’s Explosive First Impression - NASA ScienceDecember 4, 2025 — Earth Observatory 4 min read HAYLI GUBBI’S EXPLOSIVE FIRST IMPRESSION...</p></details>
    Published: December 4, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: It also shows a quadrant  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/quadrantids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/quadrantids/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceApril 3, 2025 — QUADRANTIDS METEOR SHOWER An image of an etching of an astronomical chart showing Bootes the Ploughman holdin...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/quadrantids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/quadrantids/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceApril 3, 2025 — QUADRANTIDS METEOR SHOWER An image of an etching of an astronomical chart showing Bootes the Ploughman holdin...</p></details>
    Published: April 3, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Credit: NASA/MSFC/Danielle Moser, NASA's Met  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/geminids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/geminids/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceApril 3, 2025 — Meteor Showers GEMINIDS METEOR SHOWER Over 100 meteors are recorded in this composite image taken during the...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/geminids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/geminids/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceApril 3, 2025 — Meteor Showers GEMINIDS METEOR SHOWER Over 100 meteors are recorded in this composite image taken during the...</p></details>
    Published: April 3, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: modis.gsfc.nasa.gov  
-   Link: <a href="https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2025-01-10" target="_blank" rel="noopener noreferrer nofollow">https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2025-01-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10, 2025 - Southern Ethiopia - MODIS Web - NASA10 Jan 2025 — The remarkable and glorious colors of southern Ethiopia were shining brightl...</p></details>
+   Link:<a href="https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2025" target="_blank" rel="noopener noreferrer nofollow">https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10, 2025 - Southern Ethiopia - MODIS Web - NASA10 Jan 2025 — The remarkable and glorious colors of southern Ethiopia were shining brightl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ለቁጣ የሚወድቁ እንደ ችቦ የተቃጠለ የሚመስል እንደሚወድቅ እንዲህ...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/munit.mesfin/posts/%E1%8A%A0%E1%8A%95%E1%8B%B3%E1%8A%95%E1%8B%B4-%E1%88%B3%E1%89%B0%E1%88%8B%E1%8B%AD%E1%89%B6%E1%89%BD-%E1%8B%AD%E1%8B%88%E1%8B%B5%E1%89%83%E1%88%89-%E1%89%A0%E1%8A%A5%E1%8B%8D%E1%8A%90%E1%89%B1-%E1%88%9A%E1%8B%AB%E1%88%B5%E1%8C%A8%E1%8A%95%E1%89%85-%E1%8A%90%E1%8C%88%E1%88%AD-%E1%89%A0%E1%8B%9B-%E1%8A%A0%E1%8B%AD%E1%8B%9E%E1%8A%95-satellites-fall-to-earth-when-they-r/1111519250349840/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ለቁጣ የሚወድቁ እንደ ችቦ የተቃጠለ የሚመስል እንደሚወድቅ እንዲህ...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: spaceinafrica.com  
    Title: Space in Africa Falling Space Debris Incident Reported in Ethiopia  
-   Link: <a href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</p></details>
+   Link:<a href="https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/01/14/falling-space-debris-incident-reported-in-ethiopia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaFalling Space Debris Incident Reported in EthiopiaJanuary 14, 2025 — 14 Jan 2025 — On January 10th, incidents of high-spee...</p></details>
    Published: January 14, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: x.com  
-   Link: <a href="https://x.com/addisstandard/status/1877626213558039023?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/addisstandard/status/1877626213558039023?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Space Society probes &#x27;meteorite cluster...The cluster of objects observed moving rapidly across the sky in southern...</p></details>
+   Link:<a href="https://x.com/addisstandard/status/1877626213558039023?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/addisstandard/status/1877626213558039023?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Space Society probes &#x27;meteorite cluster...The cluster of objects observed moving rapidly across the sky in southern...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gadgets360.com  
-   Link: <a href="https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482" target="_blank" rel="noopener noreferrer nofollow">https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Crashes in Kenyan Village, Suspected Rocket Stage Part Identified | Technology NewsJanuary 4, 2025 — SPACE DEBRIS CRASHES IN...</p></details>
+   Link:<a href="https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482" target="_blank" rel="noopener noreferrer nofollow">https://www.gadgets360.com/science/news/space-debris-crash-kenya-village-suspected-rocket-part-7389482</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Crashes in Kenyan Village, Suspected Rocket Stage Part Identified | Technology NewsJanuary 4, 2025 — SPACE DEBRIS CRASHES IN...</p></details>
    Published: January 4, 2025  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/planet-earth/volcanos/like-a-sudden-bomb-see-photos-from-space-of-ethiopian-volcano-erupting-for-first-time-in-12-000-years" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/planet-earth/volcanos/like-a-sudden-bomb-see-photos-from-space-of-ethiopian-volcano-erupting-for-first-time-in-12-000-years</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 25, 2025 — &#x27;LIKE A SUDDEN BOMB&#x27;: SEE PHOTOS FROM SPACE OF ETHIOPIAN VOLCANO ERUPTING FOR FIRST TIME IN 12,000 YEARS Hayli Gubbi...</p></details>
+   Link:<a href="https://www.livescience.com/planet-earth/volcanos/like-a-sudden-bomb-see-photos-from-space-of-ethiopian-volcano-erupting-for-first-time-in-12-000-years" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/planet-earth/volcanos/like-a-sudden-bomb-see-photos-from-space-of-ethiopian-volcano-erupting-for-first-time-in-12-000-years</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 25, 2025 — &#x27;LIKE A SUDDEN BOMB&#x27;: SEE PHOTOS FROM SPACE OF ETHIOPIAN VOLCANO ERUPTING FOR FIRST TIME IN 12,000 YEARS Hayli Gubbi...</p></details>
    Published: November 25, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: watchers.news  
-   Link: <a href="https://watchers.news/2025/01/13/significant-damage-reported-two-injured-as-intense-seismo-volcanic-crisis-hits-main-ethiopian-rift/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2025/01/13/significant-damage-reported-two-injured-as-intense-seismo-volcanic-crisis-hits-main-ethiopian-rift/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The WatchersJanuary 13, 2025 — SIGNIFICANT DAMAGE REPORTED, TWO INJURED AS INTENSE SEISMO-VOLCANIC CRISIS HITS MAIN ETHIOPIAN RIFT ByTeo...</p></details>
+   Link:<a href="https://watchers.news/2025/01/13/significant-damage-reported-two-injured-as-intense-seismo-volcanic-crisis-hits-main-ethiopian-rift/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2025/01/13/significant-damage-reported-two-injured-as-intense-seismo-volcanic-crisis-hits-main-ethiopian-rift/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WatchersJanuary 13, 2025 — SIGNIFICANT DAMAGE REPORTED, TWO INJURED AS INTENSE SEISMO-VOLCANIC CRISIS HITS MAIN ETHIOPIAN RIFT ByTeo...</p></details>
    Published: January 13, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciety.org  
-   Link: <a href="https://sciety.org/articles/activity/10.21203/rs.3.rs-7021770/v1" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.21203/rs.3.rs-7021770/v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time Satellite Monitoring of the 2024-2025 dyke intrusion sequence at Fentale-Dofen Volcanoes, Ethiopia | ScietyJuly 7, 2025 — REAL...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.21203/rs.3.rs-7021770/v1" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.21203/rs.3.rs-7021770/v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time Satellite Monitoring of the 2024-2025 dyke intrusion sequence at Fentale-Dofen Volcanoes, Ethiopia | ScietyJuly 7, 2025 — REAL...</p></details>
    Published: July 7, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 24, 2025 — Image: people watch ash billow from the first time eruption of the Hayli Gubbi Volcano in Ethiopia 0:41 Ethiopian vol...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 24, 2025 — Image: people watch ash billow from the first time eruption of the Hayli Gubbi Volcano in Ethiopia 0:41 Ethiopian vol...</p></details>
    Published: November 24, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wired-gov.net  
-   Link: <a href="https://www.wired-gov.net/wg/news.nsf/articles/UK%2BSpace%2BAgency%2BHow%2Bwe%2Bprotected%2Bthe%2BUK%2Band%2Bspace%2Bin%2BJanuary%2B2025%2B27022025121500" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/UK%2BSpace%2BAgency%2BHow%2Bwe%2Bprotected%2Bthe%2BUK%2Band%2Bspace%2Bin%2BJanuary%2B2025%2B27022025121500</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Space Agency: How we protected the UK and space in January 2025 | WiredGov Newswire (news from other organisations) | Official Press R...</p></details>
+   Link:<a href="https://www.wired-gov.net/wg/news.nsf/articles/UK%2BSpace%2BAgency%2BHow%2Bwe%2Bprotected%2Bthe%2BUK%2Band%2Bspace%2Bin%2BJanuary%2B2025%2B27022025121500" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/UK%2BSpace%2BAgency%2BHow%2Bwe%2Bprotected%2Bthe%2BUK%2Band%2Bspace%2Bin%2BJanuary%2B2025%2B27022025121500</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Space Agency: How we protected the UK and space in January 2025 | WiredGov Newswire (news from other organisations) | Official Press R...</p></details>
    Published: January 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencealert.com  
    Title: kickstart 2025 with quadrantids peak one of the best meteor showers all year  
-   Link: <a href="https://www.sciencealert.com/kickstart-2025-with-quadrantids-peak-one-of-the-best-meteor-showers-all-year" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/kickstart-2025-with-quadrantids-peak-one-of-the-best-meteor-showers-all-year</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kickstart 2025 With Quadrantids Peak, One of The Best Meteor Showers All Year: ScienceAlertJanuary 2, 2025 — KICKSTART 2025 WITH QUADRAN...</p></details>
+   Link:<a href="https://www.sciencealert.com/kickstart-2025-with-quadrantids-peak-one-of-the-best-meteor-showers-all-year" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/kickstart-2025-with-quadrantids-peak-one-of-the-best-meteor-showers-all-year</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kickstart 2025 With Quadrantids Peak, One of The Best Meteor Showers All Year: ScienceAlertJanuary 2, 2025 — KICKSTART 2025 WITH QUADRAN...</p></details>
    Published: January 2, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: voanews.com  
    Title: Ethiopia evacuates 80,000 after earthquakes, fears of volcanic eruption  
-   Link: <a href="https://www.voanews.com/a/ethiopia-evacuates-80-000-after-earthquakes-fears-of-volcanic-eruption/7924462.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voanews.com/a/ethiopia-evacuates-80-000-after-earthquakes-fears-of-volcanic-eruption/7924462.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — ETHIOPIA EVACUATES 80,000 AFTER EARTHQUAKES, FEARS OF VOLCANIC ERUPTION * By Gelmo Dawit * Gebremichael Gebremedhin Jan...</p></details>
+   Link:<a href="https://www.voanews.com/a/ethiopia-evacuates-80-000-after-earthquakes-fears-of-volcanic-eruption/7924462.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voanews.com/a/ethiopia-evacuates-80-000-after-earthquakes-fears-of-volcanic-eruption/7924462.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — ETHIOPIA EVACUATES 80,000 AFTER EARTHQUAKES, FEARS OF VOLCANIC ERUPTION * By Gelmo Dawit * Gebremichael Gebremedhin Jan...</p></details>
    Published: January 4, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: capitalfm.co.ke  
    Title: Ethiopia villagers flee volcanic activity 'in panic' » Capital News  
-   Link: <a href="https://www.capitalfm.co.ke/news/2025/01/ethiopia-villagers-flee-volcanic-activity-in-panic/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalfm.co.ke/news/2025/01/ethiopia-villagers-flee-volcanic-activity-in-panic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — Image Image AFRICA ETHIOPIA VILLAGERS FLEE VOLCANIC ACTIVITY ‘IN PANIC’ Image By BBC Published January 4, 2025 Hundreds...</p></details>
+   Link:<a href="https://www.capitalfm.co.ke/news/2025/01/ethiopia-villagers-flee-volcanic-activity-in-panic/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalfm.co.ke/news/2025/01/ethiopia-villagers-flee-volcanic-activity-in-panic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — Image Image AFRICA ETHIOPIA VILLAGERS FLEE VOLCANIC ACTIVITY ‘IN PANIC’ Image By BBC Published January 4, 2025 Hundreds...</p></details>
    Published: January 4, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: keyt.com  
    Title: how to watch the quadrantids the first meteor shower of the year 2  
-   Link: <a href="https://keyt.com/news/national-world/cnn-other/2025/01/02/how-to-watch-the-quadrantids-the-first-meteor-shower-of-the-year-2/" target="_blank" rel="noopener noreferrer nofollow">https://keyt.com/news/national-world/cnn-other/2025/01/02/how-to-watch-the-quadrantids-the-first-meteor-shower-of-the-year-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to watch the Quadrantids, one of the strongest meteor showers of the year | News Channel 3-12January 2, 2025 — HOW TO WATCH THE QUADR...</p></details>
+   Link:<a href="https://keyt.com/news/national-world/cnn-other/2025/01/02/how-to-watch-the-quadrantids-the-first-meteor-shower-of-the-year-2/" target="_blank" rel="noopener noreferrer nofollow">https://keyt.com/news/national-world/cnn-other/2025/01/02/how-to-watch-the-quadrantids-the-first-meteor-shower-of-the-year-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to watch the Quadrantids, one of the strongest meteor showers of the year | News Channel 3-12January 2, 2025 — HOW TO WATCH THE QUADR...</p></details>
    Published: January 2, 2025  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arabiaweather.com  
    Title: 7 distinctive astronomical events during january 2025  
-   Link: <a href="https://www.arabiaweather.com/en/content/7-distinctive-astronomical-events-during-january-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.arabiaweather.com/en/content/7-distinctive-astronomical-events-during-january-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ArabiaWeatherJanuary 2, 2025 — 7 DISTINCTIVE ASTRONOMICAL EVENTS DURING JANUARY 2025 2025-01-02 2025-01-02T08:30:32Z ندى...</p></details>
+   Link:<a href="https://www.arabiaweather.com/en/content/7-distinctive-astronomical-events-during-january-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.arabiaweather.com/en/content/7-distinctive-astronomical-events-during-january-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ArabiaWeatherJanuary 2, 2025 — 7 DISTINCTIVE ASTRONOMICAL EVENTS DURING JANUARY 2025 2025-01-02 2025-01-02T08:30:32Z ندى...</p></details>
    Published: january 2025

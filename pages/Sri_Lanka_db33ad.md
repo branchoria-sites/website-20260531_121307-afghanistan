@@ -1194,10 +1194,10 @@ image: /assets/images/Sri_Lanka_db33ad-overview-social.jpg
 
 ## What the Sri Lankan UFO record actually contains
 
-Sri Lanka’s UFO material is mostly a civilian and media record rather than a large public body of declassified state files. An archived 1979 issue of the Sri Lanka UFO Register shows that local enthusiasts were already trying to collect reports, debate scepticism, and frame sightings as material for field investigation rather than mere folklore. The same issue lists an article on a “ball of fire” at Hunnasgiriya and presents the publication as “a non-political and non-religious journal” devoted to unidentified flying objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span></span></span>
+Sri Lanka’s UFO material is mostly a civilian and media record rather than a large public body of declassified state files. An archived 1979 issue of the Sri Lanka UFO Register shows that local enthusiasts were already trying to collect reports, debate scepticism, and frame sightings as material for field investigation rather than mere folklore. The same issue lists an article on a “ball of fire” at Hunnasgiriya and presents the publication as “a non-political and non-religious journal” devoted to unidentified flying objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span></span></span>
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad-overview.webp" | relative_url }}" alt="Overview image for What Is Sri Lanka&#x27;s UFO Record Really..." loading="eager" decoding="sync" fetchpriority="high">
-A second phase began in 1998, when the Sri Lanka Unidentified Flying Objects Research Association, or SLUFORA, was launched under the auspices of Dr Chandana Jayaratne of the University of Colombo and writer Mihindukulasuriya Susantha Fernando. The Sunday Times described SLUFORA as Sri Lanka’s first organisation intended to monitor and carry out scientific research on UFO reports, with plans for a database, district branches, school and university membership, a hotline, and a bi-monthly journal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A second phase began in 1998, when the Sri Lanka Unidentified Flying Objects Research Association, or SLUFORA, was launched under the auspices of Dr Chandana Jayaratne of the University of Colombo and writer Mihindukulasuriya Susantha Fernando. The Sunday Times described SLUFORA as Sri Lanka’s first organisation intended to monitor and carry out scientific research on UFO reports, with plans for a database, district branches, school and university membership, a hotline, and a bi-monthly journal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters because many Sri Lankan UFO stories now circulating online depend on SLUFORA case summaries rather than police files, radar logs, aviation records, or physical samples. The result is a record that is culturally rich but evidentially uneven: useful for mapping what people reported, weaker for proving what was physically present.
 
@@ -1205,40 +1205,40 @@ That matters because many Sri Lankan UFO stories now circulating online depend o
 
 The known Sri Lankan chronology is not a single continuous archive. It is a chain of better and worse documented episodes, with peaks around the late 1990s, early 2000s, 2017, 2020, and 2026.
 
-The archived Sri Lanka UFO Register places one early case in the Hunnasgiriya area in August 1969, where a jeep driver travelling towards Mahiyangane reportedly saw an unusual moving light near the road after sunset. The account is valuable mainly as evidence of early local collection practices: it is a written case narrative, but not an independently verified physical event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span></span></span>
+The archived Sri Lanka UFO Register places one early case in the Hunnasgiriya area in August 1969, where a jeep driver travelling towards Mahiyangane reportedly saw an unusual moving light near the road after sunset. The account is valuable mainly as evidence of early local collection practices: it is a written case narrative, but not an independently verified physical event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span></span></span>
 
-Roar Media’s review of SLUFORA-linked reports says the first major incident recorded by SLUFORA occurred in Polonnaruwa in 1984, when children and a teacher reportedly saw a blue spherical object near Mahawewa, followed by a humanoid-figure claim. The same review notes the limits of the older record: earlier Sri Lankan sightings from the late 1960s and 1970s are said to exist, but detailed witness documentation is scarce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+Roar Media’s review of SLUFORA-linked reports says the first major incident recorded by SLUFORA occurred in Polonnaruwa in 1984, when children and a teacher reportedly saw a blue spherical object near Mahawewa, followed by a humanoid-figure claim. The same review notes the limits of the older record: earlier Sri Lankan sightings from the late 1960s and 1970s are said to exist, but detailed witness documentation is scarce.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-The 1998 Bandarawela case is one of the better-known school-linked claims. SLUFORA’s casefile, as summarised by Roar, described two children seeing a large disc-shaped object with red and yellow lights landing or hovering near school grounds, while other people in the area reported a similar object in the sky. The weak point is just as important as the claim: the report noted no ground indentations where the object was said to have landed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+The 1998 Bandarawela case is one of the better-known school-linked claims. SLUFORA’s casefile, as summarised by Roar, described two children seeing a large disc-shaped object with red and yellow lights landing or hovering near school grounds, while other people in the area reported a similar object in the sky. The weak point is just as important as the claim: the report noted no ground indentations where the object was said to have landed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-In January 2000, three residents in Bollaththewa, Kosgama, reportedly saw a glowing spherical object with a blinking blue light moving erratically. SLUFORA itself treated the case cautiously, according to Roar’s summary, because witness descriptions differed on size, colour and speed. That makes Kosgama a useful example of “contested” evidence rather than a clean unexplained case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+In January 2000, three residents in Bollaththewa, Kosgama, reportedly saw a glowing spherical object with a blinking blue light moving erratically. SLUFORA itself treated the case cautiously, according to Roar’s summary, because witness descriptions differed on size, colour and speed. That makes Kosgama a useful example of “contested” evidence rather than a clean unexplained case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-The most prominent Sri Lankan wave was Polonnaruwa in 2002. Roar’s summary of SLUFORA casefile POL-CE-II-001 says more than 100 people reportedly saw single or multiple UFOs over one month, often described as glowing spherical objects in clusters with coloured lights and erratic flight patterns. The case drew attention from international UFO groups including MUFON and BUFORA, which reportedly sent investigators to Polonnaruwa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+The most prominent Sri Lankan wave was Polonnaruwa in 2002. Roar’s summary of SLUFORA casefile POL-CE-II-001 says more than 100 people reportedly saw single or multiple UFOs over one month, often described as glowing spherical objects in clusters with coloured lights and erratic flight patterns. The case drew attention from international UFO groups including MUFON and BUFORA, which reportedly sent investigators to Polonnaruwa.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-The 2002 episode also entered mainstream regional news. The Times of India reported that villagers and a journalist had seen an unusual glimmering object over Polonnaruwa for nearly a week, that the Sri Lankan Air Force had investigated, and that a team led by Dr Chandana Jayaratne had begun studying the sky. Arthur C. Clarke, then resident in Sri Lanka, publicly urged a distinction between science fiction and science fact, saying he did not accept that aliens were secretly visiting Earth in UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India UFO in Lanka? Clarke says no way</span><span class="citation-popover-snippet">The Times of India UFO in Lanka? Clarke says no way</span></span></span>
+The 2002 episode also entered mainstream regional news. The Times of India reported that villagers and a journalist had seen an unusual glimmering object over Polonnaruwa for nearly a week, that the Sri Lankan Air Force had investigated, and that a team led by Dr Chandana Jayaratne had begun studying the sky. Arthur C. Clarke, then resident in Sri Lanka, publicly urged a distinction between science fiction and science fact, saying he did not accept that aliens were secretly visiting Earth in UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India UFO in Lanka? Clarke says no way</span><span class="citation-popover-snippet">The Times of India UFO in Lanka? Clarke says no way</span></span></span>
 
-A different kind of case appeared in 2006 around Thanamalvila and Galle, where children and villagers reported small humanoid figures rather than lights or aerial objects. The claims spread widely enough to alarm villagers, but Roar’s summary says police, local scientists and others dismissed the incidents as probably involving disguised thieves attempting to distract people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+A different kind of case appeared in 2006 around Thanamalvila and Galle, where children and villagers reported small humanoid figures rather than lights or aerial objects. The claims spread widely enough to alarm villagers, but Roar’s summary says police, local scientists and others dismissed the incidents as probably involving disguised thieves attempting to distract people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-By 2017, Sri Lankan UFO reporting had moved into the video era. Daily Mirror reported that a bright square-shaped object with a moving core had been seen or captured from several areas, including Ratnapura, Hambantota, Galle and Matara. Professor Chandana Jayaratne said it could have been drone activity and warned that the available videos and images were not clear enough to claim alien activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span>
+By 2017, Sri Lankan UFO reporting had moved into the video era. Daily Mirror reported that a bright square-shaped object with a moving core had been seen or captured from several areas, including Ratnapura, Hambantota, Galle and Matara. Professor Chandana Jayaratne said it could have been drone activity and warned that the available videos and images were not clear enough to claim alien activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span>
 
-In 2020, another multi-area report circulated around Katana, Hambantota, Homagama and Trincomalee. Lankapuvath reported Jayaratne’s conclusion that there was no evidence to prove a UFO had been sighted, and that one claim from the Katana and Kelaniya areas had been found to be a floating balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.lankapuvath.lk">[Lanka Puvath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.lankapuvath.lk</span><span class="citation-popover-title">Lanka Puvath No evidence to prove UFO sighted in Sri Lanka</span><span class="citation-popover-snippet">Lanka Puvath No evidence to prove UFO sighted in Sri Lanka</span></span></span>
+In 2020, another multi-area report circulated around Katana, Hambantota, Homagama and Trincomalee. Lankapuvath reported Jayaratne’s conclusion that there was no evidence to prove a UFO had been sighted, and that one claim from the Katana and Kelaniya areas had been found to be a floating balloon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.lankapuvath.lk">[Lanka Puvath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.lankapuvath.lk</span><span class="citation-popover-title">Lanka Puvath No evidence to prove UFO sighted in Sri Lanka</span><span class="citation-popover-snippet">Lanka Puvath No evidence to prove UFO sighted in Sri Lanka</span></span></span>
 
-In January 2026, Daily Mirror reported a new social-media-driven case near Iranawila, close to the former Voice of America transmission centre, where a shrimp farmer said a blinking light moved towards him after he signalled it with a torch. Jayaratne, now also identified as chairman of the Arthur C. Clarke Institute for Modern Technologies, said videos purporting to show UFOs are regularly sent to him and associated scientific institutions in Sri Lanka. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span>
+In January 2026, Daily Mirror reported a new social-media-driven case near Iranawila, close to the former Voice of America transmission centre, where a shrimp farmer said a blinking light moved towards him after he signalled it with a torch. Jayaratne, now also identified as chairman of the Arthur C. Clarke Institute for Modern Technologies, said videos purporting to show UFOs are regularly sent to him and associated scientific institutions in Sri Lanka.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span>
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-1-dark.svg" | relative_url }}" alt="What Is Sri Lanka&#x27;s UFO Record Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Polonnaruwa keeps standing out
 
-Polonnaruwa stands out for three reasons: witness volume, repeated clustering of reports, and the way the region became attached to later “alien” tourism and folklore. The 2002 wave involved many claimed witnesses over roughly a month, and reports from different parts of the Polonnaruwa region were said to have similarities. That makes it stronger than a lone anecdote, but still not strong enough to treat as confirmed extraordinary technology without instrumental records, clear images, flight-path reconstruction, or eliminated conventional [explanations]({{ 'explanations-8de6d4/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+Polonnaruwa stands out for three reasons: witness volume, repeated clustering of reports, and the way the region became attached to later “alien” tourism and folklore. The 2002 wave involved many claimed witnesses over roughly a month, and reports from different parts of the Polonnaruwa region were said to have similarities. That makes it stronger than a lone anecdote, but still not strong enough to treat as confirmed extraordinary technology without instrumental records, clear images, flight-path reconstruction, or eliminated conventional [explanations]({{ 'explanations-8de6d4/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-The region also has a separate tourism mythology around Danigala, often called “Alien Mountain” in travel writing because of its circular shape and local UFO rumours. Travel and attraction sites describe Danigala near Aralaganwila in Polonnaruwa district as an unusual semi-circular rock associated with recent UFO-sighting stories, but those pages tend to use the UFO theme as local colour rather than as verified incident reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakpura.com">[Lakpura®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakpura.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The region also has a separate tourism mythology around Danigala, often called “Alien Mountain” in travel writing because of its circular shape and local UFO rumours. Travel and attraction sites describe Danigala near Aralaganwila in Polonnaruwa district as an unusual semi-circular rock associated with recent UFO-sighting stories, but those pages tend to use the UFO theme as local colour rather than as verified incident reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakpura.com">[Lakpura®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakpura.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is where Sri Lanka’s UFO record needs careful separation. Polonnaruwa 2002 is a reported sighting wave. Danigala is a landscape and folklore/tourism node. The 2012 Polonnaruwa meteorite controversy is a separate astrobiology claim, not a classic UFO sighting, though it often gets pulled into the same “aliens in Sri Lanka” conversation.
 
 ## The 2004 “doughnut” case: the clearest debunking trail
 
-The 2004 Sri Lanka “doughnut” photograph is one of the few Sri Lankan-linked cases tied to a formal foreign government archive. The Sunday Times reported in 2011 that the image was among UK Ministry of Defence UFO files released to the public, describing a retired RAF officer who photographed a doughnut-shaped phenomenon in Sri Lanka and sent it to RAF Fylingdales. The article quotes the witness describing an orange ring with a white or cream column and a second cloud of colour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2004 Sri Lanka “doughnut” photograph is one of the few Sri Lankan-linked cases tied to a formal foreign government archive. The Sunday Times reported in 2011 that the image was among UK Ministry of Defence UFO files released to the public, describing a retired RAF officer who photographed a doughnut-shaped phenomenon in Sri Lanka and sent it to RAF Fylingdales. The article quotes the witness describing an orange ring with a white or cream column and a second cloud of colour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case is valuable because it shows how a striking image can move from witness alarm to archive item to natural explanation. Sheffield Hallam University’s account by David Clarke says the photograph was taken by a retired RAF serviceman on holiday in Sri Lanka in 2004, and that a meteorologist identified the phenomenon as an iridescent ice cloud. Clarke uses the case to illustrate how some UFO reports are resolved by rare atmospheric phenomena rather than craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case is valuable because it shows how a striking image can move from witness alarm to archive item to natural explanation. Sheffield Hallam University’s account by David Clarke says the photograph was taken by a retired RAF serviceman on holiday in Sri Lanka in 2004, and that a meteorologist identified the phenomenon as an iridescent ice cloud. Clarke uses the case to illustrate how some UFO reports are resolved by rare atmospheric phenomena rather than craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In evidence-quality terms, this is Sri Lanka’s best “debunked” case: a named archival context, an image, a witness account, and a plausible expert explanation. It is not a weak UFO case; it is a strong example of why careful review matters.
 
@@ -1246,28 +1246,28 @@ In evidence-quality terms, this is Sri Lanka’s best “debunked” case: a nam
 
 ## Official records and the problem of missing local archives
 
-There is no obvious public Sri Lankan equivalent of the UK Ministry of Defence UFO file releases. The best publicly accessible “official” link to Sri Lanka is indirect: the UK archive-linked 2004 case. Local reports sometimes mention Sri Lankan Air Force investigation, as in Polonnaruwa 2002, but detailed publicly available files are not easily traceable from open sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India UFO in Lanka? Clarke says no way</span><span class="citation-popover-snippet">The Times of India UFO in Lanka? Clarke says no way</span></span></span>
+There is no obvious public Sri Lankan equivalent of the UK Ministry of Defence UFO file releases. The best publicly accessible “official” link to Sri Lanka is indirect: the UK archive-linked 2004 case. Local reports sometimes mention Sri Lankan Air Force investigation, as in Polonnaruwa 2002, but detailed publicly available files are not easily traceable from open sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India UFO in Lanka? Clarke says no way</span><span class="citation-popover-snippet">The Times of India UFO in Lanka? Clarke says no way</span></span></span>
 
-Sri Lanka does, however, have relevant scientific institutions. The Arthur C. Clarke Institute for Modern Technologies says its Space Applications Division was designated Sri Lanka’s national focal point for space technology applications in 1994, and its astronomy work includes the CALLISTO solar radio system, exoplanets, asteroseismology and cataclysmic variables. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accimt.ac.lk/space-applications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accimt.ac.lk">[accimt.ac.lk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accimt.ac.lk</span><span class="citation-popover-title">space applications</span><span class="citation-popover-snippet">space applications</span></span></span>
+Sri Lanka does, however, have relevant scientific institutions. The Arthur C. Clarke Institute for Modern Technologies says its Space Applications Division was designated Sri Lanka’s national focal point for space technology applications in 1994, and its astronomy work includes the CALLISTO solar radio system, exoplanets, asteroseismology and cataclysmic variables.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accimt.ac.lk/space-applications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accimt.ac.lk">[accimt.ac.lk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accimt.ac.lk</span><span class="citation-popover-title">space applications</span><span class="citation-popover-snippet">space applications</span></span></span>
 
-The institute’s CALLISTO station in Colombo monitors solar radio bursts and radio-frequency interference as part of the e-CALLISTO network, with a locally designed antenna covering 45–600 MHz. This matters for UFO evaluation because Sri Lanka does have legitimate sky-observation capacity, but that capacity is aimed at astronomy and space-weather research, not at validating every public mystery-light video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accimt.ac.lk/astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accimt.ac.lk">[accimt.ac.lk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accimt.ac.lk</span><span class="citation-popover-snippet">Open source on accimt.ac.lk.</span></span></span>
+The institute’s CALLISTO station in Colombo monitors solar radio bursts and radio-frequency interference as part of the e-CALLISTO network, with a locally designed antenna covering 45–600 MHz. This matters for UFO evaluation because Sri Lanka does have legitimate sky-observation capacity, but that capacity is aimed at astronomy and space-weather research, not at validating every public mystery-light video.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accimt.ac.lk/astronomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accimt.ac.lk">[accimt.ac.lk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accimt.ac.lk</span><span class="citation-popover-snippet">Open source on accimt.ac.lk.</span></span></span>
 
 ## Confirmed, contested and debunked claims
 
 Sri Lanka’s UFO cases are best read in three evidence bands.
 
-**Confirmed as reports, not confirmed as alien craft:** Hunnasgiriya 1969, Polonnaruwa 1984, Bandarawela 1998, Kosgama 2000, Polonnaruwa 2002, Thanamalvila 2006, the 2017 multi-district light, the 2020 claims, and the 2026 Iranawila video are all confirmed as reported claims in some combination of archive, media, or UFO-group summaries. None is confirmed in the public record as extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+**Confirmed as reports, not confirmed as alien craft:** Hunnasgiriya 1969, Polonnaruwa 1984, Bandarawela 1998, Kosgama 2000, Polonnaruwa 2002, Thanamalvila 2006, the 2017 multi-district light, the 2020 claims, and the 2026 Iranawila video are all confirmed as reported claims in some combination of archive, media, or UFO-group summaries. None is confirmed in the public record as extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Sri Lanka UFO Register no 02</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-**Contested or unresolved:** Polonnaruwa 2002 is the most substantial contested sighting wave because of the claimed number of witnesses and international UFO-group interest, but the public evidence remains mostly testimonial. Bandarawela 1998 is memorable because of the school-ground landing claim, yet the lack of reported ground traces weakens it. Kosgama 2000 is explicitly weakened by contradictory witness details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+**Contested or unresolved:** Polonnaruwa 2002 is the most substantial contested sighting wave because of the claimed number of witnesses and international UFO-group interest, but the public evidence remains mostly testimonial. Bandarawela 1998 is memorable because of the school-ground landing claim, yet the lack of reported ground traces weakens it. Kosgama 2000 is explicitly weakened by contradictory witness details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
-**Debunked or strongly explained:** The 2004 doughnut-shaped sky phenomenon is best treated as an atmospheric case, probably an iridescent ice cloud, based on the meteorological interpretation reported by Clarke. The 2020 Katana/Kelaniya claim was reported by Lankapuvath as a floating balloon rather than a genuine unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Debunked or strongly explained:** The 2004 doughnut-shaped sky phenomenon is best treated as an atmospheric case, probably an iridescent ice cloud, based on the meteorological interpretation reported by Clarke. The 2020 Katana/Kelaniya claim was reported by Lankapuvath as a floating balloon rather than a genuine unexplained craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-2-dark.svg" | relative_url }}" alt="What Is Sri Lanka&#x27;s UFO Record Really... illustration 2" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Polonnaruwa meteorite controversy belongs nearby, but not inside the UFO file
 
-The 2012 Polonnaruwa meteorite story often appears in “alien Sri Lanka” discussions, but it is not a sighting case in the same sense as Polonnaruwa 2002. It began with a reported fireball and recovered stones, then became controversial after Chandra Wickramasinghe and colleagues claimed the material contained fossil diatoms and supported cometary panspermia. Their arXiv abstract states that fragments were recovered after a witnessed fireball on 29 December 2012 and that oxygen-isotope, X-ray diffraction and scanning electron microscope studies were interpreted as inconsistent with recent terrestrial contamination or the fulgurite hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1303.1845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2012 Polonnaruwa meteorite story often appears in “alien Sri Lanka” discussions, but it is not a sighting case in the same sense as Polonnaruwa 2002. It began with a reported fireball and recovered stones, then became controversial after Chandra Wickramasinghe and colleagues claimed the material contained fossil diatoms and supported cometary panspermia. Their arXiv abstract states that fragments were recovered after a witnessed fireball on 29 December 2012 and that oxygen-isotope, X-ray diffraction and scanning electron microscope studies were interpreted as inconsistent with recent terrestrial contamination or the fulgurite hypothesis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1303.1845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The counterweight is that the claim sits outside mainstream consensus and has been heavily disputed. Even summaries sympathetic to the researchers acknowledge that the low density and porous structure of the stones led critics to challenge whether they were meteorites at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panspermia.org">[Panspermia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panspermia.org</span><span class="citation-popover-title">PDF] Polonnaruwa Stones Revisited – Evidence for Non-Terrestrial Life</span><span class="citation-popover-snippet">PDF] Polonnaruwa Stones Revisited – Evidence for Non-Terrestrial Life</span></span></span>
+The counterweight is that the claim sits outside mainstream consensus and has been heavily disputed. Even summaries sympathetic to the researchers acknowledge that the low density and porous structure of the stones led critics to challenge whether they were meteorites at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panspermia.org">[Panspermia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panspermia.org</span><span class="citation-popover-title">PDF] Polonnaruwa Stones Revisited – Evidence for Non-Terrestrial Life</span><span class="citation-popover-snippet">PDF] Polonnaruwa Stones Revisited – Evidence for Non-Terrestrial Life</span></span></span>
 
 For a Sri Lanka UFO page, the meteorite episode is useful only as a neighbouring branch: it shows how Sri Lanka became part of wider astrobiology and panspermia debates, but it does not strengthen the case for unidentified aerial craft over Sri Lanka.
 
@@ -1275,11 +1275,11 @@ For a Sri Lanka UFO page, the meteorite episode is useful only as a neighbouring
 
 ## Why many Sri Lankan sightings cluster around rural regions and coastal skies
 
-Sri Lanka’s better-known cases are not evenly distributed. Polonnaruwa, Bandarawela, Kosgama, Thanamalvila, Galle, Ratnapura, Hambantota, Matara, Trincomalee, Katana, Kelaniya and Iranawila all appear in the public record, but Colombo is more often the institutional analysis point than the sighting centre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
+Sri Lanka’s better-known cases are not evenly distributed. Polonnaruwa, Bandarawela, Kosgama, Thanamalvila, Galle, Ratnapura, Hambantota, Matara, Trincomalee, Katana, Kelaniya and Iranawila all appear in the public record, but Colombo is more often the institutional analysis point than the sighting centre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">Media Archive Roar Media Archive</span><span class="citation-popover-snippet">Media Archive Roar Media Archive</span></span></span>
 
 There are practical reasons this pattern can emerge without invoking anything exotic. Rural and semi-rural witnesses may have darker skies, fewer reference points, more horizon visibility, and more opportunity to notice meteors, aircraft, drones, balloons, sky lanterns, satellites, weather effects, or military/security-related lights. Coastal and lowland areas add fishing, agriculture, transmission facilities, airports, and maritime activity to the list of possible mundane sources.
 
-The 2017 and 2026 cases illustrate the modern version of the problem. In 2017, Jayaratne treated drone activity as a plausible explanation because the images were unclear. In 2026, he again stressed that videos claiming UFOs arrive regularly and require scientific checking rather than instant alien interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span>
+The 2017 and 2026 cases illustrate the modern version of the problem. In 2017, Jayaratne treated drone activity as a plausible explanation because the images were unclear. In 2026, he again stressed that videos claiming UFOs arrive regularly and require scientific checking rather than instant alien interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-title">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span><span class="citation-popover-snippet">Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9EmNlmC5Czk" title="Danigala Circular Rock | Alien Mountain | දානිගල කන්ද තරණය | ආදිතමයන්ගේ චිත්‍ර සොයා| 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9EmNlmC5Czk" target="_blank" rel="noopener noreferrer">Danigala Circular Rock | Alien Mountain | දානිගල කන්ද තරණය | ආදිතමයන්ගේ චිත්‍ර සොයා| 4K</a></p><p class="youtube-embed-meta">Channel: Dinesh A Pathum &middot; Views: 163.5K &middot; Uploaded: May 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9EmNlmC5Czk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9EmNlmC5Czk">Open on YouTube</a></p></div></div></div>
 
@@ -1287,9 +1287,9 @@ The 2017 and 2026 cases illustrate the modern version of the problem. In 2017, J
 
 A Sri Lankan UFO report is most useful when it includes time, location, direction, duration, weather, witness count, photographs or video metadata, and checks against aircraft, drones, balloons, satellites, astronomical events and atmospheric optics. Without those basics, even sincere testimony can only show that something was noticed, not what it was.
 
-The strongest Sri Lankan cases are therefore not necessarily the strangest ones. A frightening humanoid story may be memorable but weak if it rests on rumour. A bright light video may look impressive but collapse if it matches a balloon, drone, aircraft approach, satellite flare, or cloud effect. The 2004 doughnut case is the model: a striking observation became more useful after it acquired an archive trail and an expert atmospheric explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest Sri Lankan cases are therefore not necessarily the strangest ones. A frightening humanoid story may be memorable but weak if it rests on rumour. A bright light video may look impressive but collapse if it matches a balloon, drone, aircraft approach, satellite flare, or cloud effect. The 2004 doughnut case is the model: a striking observation became more useful after it acquired an archive trail and an expert atmospheric explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shu.ac.uk">[Sheffield Hallam University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shu.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most balanced position is close to Arthur C. Clarke’s response during the 2002 Polonnaruwa excitement: Sri Lanka’s reports are worth documenting, but science fiction and science fact need to be kept separate. Clarke’s warning was not anti-curiosity; it was a call to spend more attention on verifiable sky hazards and real astronomical objects rather than treating every mystery light as a secret visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India UFO in Lanka? Clarke says no way</span><span class="citation-popover-snippet">The Times of India UFO in Lanka? Clarke says no way</span></span></span>
+The most balanced position is close to Arthur C. Clarke’s response during the 2002 Polonnaruwa excitement: Sri Lanka’s reports are worth documenting, but science fiction and science fact need to be kept separate. Clarke’s warning was not anti-curiosity; it was a call to spend more attention on verifiable sky hazards and real astronomical objects rather than treating every mystery light as a secret visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India UFO in Lanka? Clarke says no way</span><span class="citation-popover-snippet">The Times of India UFO in Lanka? Clarke says no way</span></span></span>
 
 ## The bottom line for Sri Lanka
 
@@ -1300,194 +1300,194 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
 <img src="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-3-dark.svg" | relative_url }}" alt="What Is Sri Lanka&#x27;s UFO Record Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Sri Lanka&#x27;s UFO Record Really Showing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Sri Lanka&#x27;s UFO Record Really Showing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps frame recurring witness-based cases and classification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame recurring witness-based cases and classification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for comparing official and civilian UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing official and civilian UFO archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating national UFO records and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating national UFO records and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places Sri Lanka&#x27;s smaller archive into a wider international context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Sri Lanka&#x27;s smaller archive into a wider international context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-sri-lanka-s-ufo-record-really-showing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1503,7 +1503,7 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1523,7 +1523,7 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1555,7 +1555,7 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1607,7 +1607,7 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1652,7 +1652,7 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1693,221 +1693,221 @@ The highest-value cases for readers are Polonnaruwa 2002, because it is the most
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Sri Lanka UFO Register no 02"  
-   Link: <a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.roar.media  
    Title: Media Archive Roar Media Archive  
-   Link: <a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
+   Link:<a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: english.lankapuvath.lk  
    Title: Lanka Puvath No evidence to prove UFO sighted in Sri Lanka  
-   Link: <a href="https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow">https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/</a>  
+   Link:<a href="https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow">https://english.lankapuvath.lk/2020/06/08/no-evidence-to-prove-ufo-sighted-in-sri-lanka/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lakpura.com  
-   Link: <a href="https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn" target="_blank" rel="noopener noreferrer nofollow">https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn</a>  
+   Link:<a href="https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn" target="_blank" rel="noopener noreferrer nofollow">https://lakpura.com/pages/danigala-circular-rock?srsltid=AfmBOop8mnsyBVGBbxxUyz0j14uHlbGCoCHXtc5dKhhZtoby9BNlaazn</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: accimt.ac.lk  
    Title: space applications  
-   Link: <a href="https://www.accimt.ac.lk/space-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/space-applications/</a>  
+   Link:<a href="https://www.accimt.ac.lk/space-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/space-applications/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: accimt.ac.lk  
-   Link: <a href="https://www.accimt.ac.lk/astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/astronomy/</a>  
+   Link:<a href="https://www.accimt.ac.lk/astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/astronomy/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: accimt.ac.lk  
    Title: solar radio bursts  
-   Link: <a href="https://www.accimt.ac.lk/solar-radio-bursts/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/solar-radio-bursts/</a>  
+   Link:<a href="https://www.accimt.ac.lk/solar-radio-bursts/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/solar-radio-bursts/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1303.1845" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1303.1845</a>  
+   Link:<a href="https://arxiv.org/abs/1303.1845" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1303.1845</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: panspermia.org  
    Title: [PDF] Polonnaruwa Stones Revisited – Evidence for Non-Terrestrial Life  
-   Link: <a href="https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf</a>  
+   Link:<a href="https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.panspermia.org/AdAp_100158%20MiltPaper.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: accimt.ac.lk  
    Title: A Rare Celestial Event: Total Lunar Eclipse Over Sri Lanka  
-   Link: <a href="https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/</a>  
+   Link:<a href="https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/a-rare-celestial-event-total-lunar-eclipse-over-sri-lanka/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: accimt.ac.lk  
    Title: Type III Solar radio burst detected by the CALLISTO system at Arthur  
-   Link: <a href="https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/</a>  
+   Link:<a href="https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/type-iii-solar-radio-burst-detected-by-the-callisto-system-at-arthur-c-clarke-institute/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: accimt.ac.lk  
-   Link: <a href="https://www.accimt.ac.lk/2021/09/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/2021/09/</a>  
+   Link:<a href="https://www.accimt.ac.lk/2021/09/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/2021/09/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: panspermia.org  
-   Link: <a href="https://www.panspermia.org/presidentialsupport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.panspermia.org/presidentialsupport.pdf</a>  
+   Link:<a href="https://www.panspermia.org/presidentialsupport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.panspermia.org/presidentialsupport.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: [PDF] THE POLONNARUWA METEORITE: OXYGEN ISOTOPE  
-   Link: <a href="https://arxiv.org/pdf/1303.1845" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1303.1845</a>  
+   Link:<a href="https://arxiv.org/pdf/1303.1845" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1303.1845</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
    Title: [PDF] FOSSIL DIATOMS IN A NEW CARBONACEOUS METEORITE  
-   Link: <a href="https://arxiv.org/pdf/1303.2398" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1303.2398</a>  
+   Link:<a href="https://arxiv.org/pdf/1303.2398" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1303.2398</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: accimt.ac.lk  
-   Link: <a href="https://www.accimt.ac.lk/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/</a>  
+   Link:<a href="https://www.accimt.ac.lk/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: accimt.ac.lk  
    Title: Category: Slider  
-   Link: <a href="https://www.accimt.ac.lk/category/slider/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/slider/</a>  
+   Link:<a href="https://www.accimt.ac.lk/category/slider/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/slider/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: accimt.ac.lk  
    Title: Category: News and Events  
-   Link: <a href="https://www.accimt.ac.lk/category/blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/blog/</a>  
+   Link:<a href="https://www.accimt.ac.lk/category/blog/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/blog/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: accimt.ac.lk  
-   Link: <a href="https://www.accimt.ac.lk/exoplanets/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/exoplanets/</a>  
+   Link:<a href="https://www.accimt.ac.lk/exoplanets/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/exoplanets/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: accimt.ac.lk  
-   Link: <a href="https://www.accimt.ac.lk/accimt-space-application-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/accimt-space-application-program/</a>  
+   Link:<a href="https://www.accimt.ac.lk/accimt-space-application-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/accimt-space-application-program/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: accimt.ac.lk  
    Title: boxed homepage  
-   Link: <a href="https://www.accimt.ac.lk/boxed-homepage/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/boxed-homepage/</a>  
+   Link:<a href="https://www.accimt.ac.lk/boxed-homepage/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/boxed-homepage/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: accimt.ac.lk  
    Title: [PDF] Detecting the disappearing frames of the Baily's beads  
-   Link: <a href="https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf</a>  
+   Link:<a href="https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/ACCIMT2/wp-content/uploads/2022/02/Detecting-the-disappearing-frames-of-the-Baily3.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: accimt.ac.lk  
-   Link: <a href="https://www.accimt.ac.lk/timeline/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/timeline/</a>  
+   Link:<a href="https://www.accimt.ac.lk/timeline/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/timeline/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: accimt.ac.lk  
    Title: Space Consultancies  
-   Link: <a href="https://www.accimt.ac.lk/space-consultancies/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/space-consultancies/</a>  
+   Link:<a href="https://www.accimt.ac.lk/space-consultancies/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/space-consultancies/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: accimt.ac.lk  
    Title: News and Events – Page 4  
-   Link: <a href="https://www.accimt.ac.lk/category/blog/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/blog/page/4/</a>  
+   Link:<a href="https://www.accimt.ac.lk/category/blog/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.accimt.ac.lk/category/blog/page/4/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: shu.ac.uk  
-   Link: <a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
+   Link:<a href="https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.shu.ac.uk/news/all-articles/features-and-comment/ufo-archives</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/981206/plus9.html</a>  
+   Link:<a href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/981206/plus9.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: timesofindia.indiatimes.com  
    Title: The Times of India UFO in Lanka? Clarke says no way  
-   Link: <a href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms</a>  
+   Link:<a href="https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/ufo-in-lanka-clarke-says-no-way/articleshow/13242179.cms</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dailymirror.lk  
    Title: Daily Mirror UFO spotted, possible drone activity: Dr. Chandana Jayaratne  
-   Link: <a href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638</a>  
+   Link:<a href="https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/UFO-spotted-possible-drone-activity-Dr-Chandana-Jayaratne/108-122638</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dailymirror.lk  
    Title: Daily Mirror Frequent influx of purported UFO footage: Professor Jayaratne  
-   Link: <a href="https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360</a>  
+   Link:<a href="https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/110306/Timestwo/t2_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/110306/Timestwo/t2_12.html</a>  
+   Link:<a href="https://www.sundaytimes.lk/110306/Timestwo/t2_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/110306/Timestwo/t2_12.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUADgMRjexY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUADgMRjexY/</a>  
+   Link:<a href="https://www.instagram.com/p/DUADgMRjexY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUADgMRjexY/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dailymirror.lk  
    Title: UF O spotted in several areas: Prof. Jayaratne  
-   Link: <a href="https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590</a>  
+   Link:<a href="https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymirror.lk/breaking-news/UFO-spotted-in-several-areas-Prof-Jayaratne/108-189590</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: x.com  
-   Link: <a href="https://x.com/SriLankaTweet/status/1269629181299773442?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SriLankaTweet/status/1269629181299773442?lang=en</a>  
+   Link:<a href="https://x.com/SriLankaTweet/status/1269629181299773442?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SriLankaTweet/status/1269629181299773442?lang=en</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013EPSC....8..803C/abstract</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Chandra Wickramasinghe  
-   Link: <a href="https://en.wikipedia.org/wiki/Chandra_Wickramasinghe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chandra_Wickramasinghe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chandra_Wickramasinghe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chandra_Wickramasinghe</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980510/plusm.html</a>  
+   Link:<a href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980510/plusm.html</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Did Aliens Leave This Behind in Sri Lanka? | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=43LJLvMov_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43LJLvMov_g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=43LJLvMov_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43LJLvMov_g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Danigala Circular Rock | Alien Mountain | Polonnaruwa  
-   Link: <a href="https://www.youtube.com/watch?v=9EmNlmC5Czk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EmNlmC5Czk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO named &#x27;WTF&#x27; to bash the Indian Ocean | European Space Agency...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9EmNlmC5Czk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EmNlmC5Czk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO named &#x27;WTF&#x27; to bash the Indian Ocean | European Space Agency...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: most.gov.lk  
-   Link: <a href="https://most.gov.lk/web/index.php?Itemid=107&amp;catid=9&amp;id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&amp;lang=en&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://most.gov.lk/web/index.php?Itemid=107&amp;catid=9&amp;id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&amp;lang=en&amp;option=com_content&amp;view=article</a>  
+   Link:<a href="https://most.gov.lk/web/index.php?Itemid=107&amp;catid=9&amp;id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&amp;lang=en&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://most.gov.lk/web/index.php?Itemid=107&amp;catid=9&amp;id=131%3Aa-new-planetary-system-discovered-for-the-first-time-by-sri-lankan-scientists-si&amp;lang=en&amp;option=com_content&amp;view=article</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/</a>  
+   Link:<a href="https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/praveenmohanfans/posts/alien-mountain-found-in-sri-lanka-danigala-mysterypraveenmohan-ufo-alien-drone-s/1154218002734306/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/858531771724167/posts/1973637153546951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/858531771724167/posts/1973637153546951/</a>  
+   Link:<a href="https://www.facebook.com/groups/858531771724167/posts/1973637153546951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/858531771724167/posts/1973637153546951/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: fantasiatours.com  
-   Link: <a href="https://www.fantasiatours.com/activities/view-detailed-activity/335" target="_blank" rel="noopener noreferrer nofollow">https://www.fantasiatours.com/activities/view-detailed-activity/335</a>  
+   Link:<a href="https://www.fantasiatours.com/activities/view-detailed-activity/335" target="_blank" rel="noopener noreferrer nofollow">https://www.fantasiatours.com/activities/view-detailed-activity/335</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUADwITDJ0e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUADwITDJ0e/</a>  
+   Link:<a href="https://www.instagram.com/p/DUADwITDJ0e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUADwITDJ0e/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: travelblog.org  
-   Link: <a href="https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619" target="_blank" rel="noopener noreferrer nofollow">https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619</a>  
+   Link:<a href="https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619" target="_blank" rel="noopener noreferrer nofollow">https://www.travelblog.org/asia/sri-lanka/north-central-province/polonnaruwa/blog-956619</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/277933739075780/posts/820400364829112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/277933739075780/posts/820400364829112/</a>  
+   Link:<a href="https://www.facebook.com/groups/277933739075780/posts/820400364829112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/277933739075780/posts/820400364829112/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439</a>
+   Link:<a href="https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/mod-ufo-supporting-material/38661439</a>

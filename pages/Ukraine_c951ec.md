@@ -1194,16 +1194,16 @@ image: /assets/images/Ukraine_c951ec-overview-social.jpg
 
 ## Introduction
 
-Ukraine’s current relevance is also practical. Since Russia’s full-scale invasion in 2022, Ukrainian airspace has been among the most watched in Europe, but also among the most confusing: combat drones, decoys, thermal sensors, electronic warfare, air alerts, missiles, satellites, and battlefield rumours all increase both the chance of recording something odd and the chance of misidentifying it. Ukrainian reports therefore deserve attention, but they need a stricter evidence standard than ordinary civilian skywatching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ukraine’s current relevance is also practical. Since Russia’s full-scale invasion in 2022, Ukrainian airspace has been among the most watched in Europe, but also among the most confusing: combat drones, decoys, thermal sensors, electronic warfare, air alerts, missiles, satellites, and battlefield rumours all increase both the chance of recording something odd and the chance of misidentifying it. Ukrainian reports therefore deserve attention, but they need a stricter evidence standard than ordinary civilian skywatching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Ukraine_c951ec-overview.webp" | relative_url }}" alt="Overview image for What Is Really Seen Over Ukraine?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Ukraine’s UFO record is different
 
-Ukraine’s UFO history cannot be separated from the Soviet system that governed the country for most of the twentieth century. In the late Soviet period, anomalous aerial reports were not treated only as folklore. The Soviet research programme described by researchers such as Vladimir Rubtsov collected reports through military and scientific channels, with a January 1980 directive allowing the armed forces to gather accounts of unusual phenomena across the USSR. That programme reportedly accumulated around 3,000 pieces of testimony, data, and correspondence, with special priority for cases involving alleged equipment effects or military relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ukraine’s UFO history cannot be separated from the Soviet system that governed the country for most of the twentieth century. In the late Soviet period, anomalous aerial reports were not treated only as folklore. The Soviet research programme described by researchers such as Vladimir Rubtsov collected reports through military and scientific channels, with a January 1980 directive allowing the armed forces to gather accounts of unusual phenomena across the USSR. That programme reportedly accumulated around 3,000 pieces of testimony, data, and correspondence, with special priority for cases involving alleged equipment effects or military relevance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That background matters for Ukraine because Ukrainian sightings from the Soviet period were part of a larger reporting culture in which “UFO” did not automatically mean “extraterrestrial”. The Soviet framework recognised three broad possibilities: human activity, natural atmospheric or space phenomena, and extraterrestrial civilisation, while treating the last as possible but not favoured. The practical outcome was more prosaic: many mass night sightings were eventually associated with rocket launches or aerospace tests whose exhaust clouds could look enormous, silent, bright, and structured from hundreds or thousands of kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That background matters for Ukraine because Ukrainian sightings from the Soviet period were part of a larger reporting culture in which “UFO” did not automatically mean “extraterrestrial”. The Soviet framework recognised three broad possibilities: human activity, natural atmospheric or space phenomena, and extraterrestrial civilisation, while treating the last as possible but not favoured. The practical outcome was more prosaic: many mass night sightings were eventually associated with rocket launches or aerospace tests whose exhaust clouds could look enormous, silent, bright, and structured from hundreds or thousands of kilometres away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Ukraine’s post-independence record adds another layer. The Scientific Research Centre for Analyses of Anomalies “Zond” was founded in 2004 and presents itself as a Ukrainian successor to earlier local commissions on anomalous phenomena. Its researchers have focused not only on sightings but also on preserving and digitising archives from Ukraine and the wider former Soviet space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-snippet">Open source on ufology-news.com.</span></span></span>
+Ukraine’s post-independence record adds another layer. The Scientific Research Centre for Analyses of Anomalies “Zond” was founded in 2004 and presents itself as a Ukrainian successor to earlier local commissions on anomalous phenomena. Its researchers have focused not only on sightings but also on preserving and digitising archives from Ukraine and the wider former Soviet space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-snippet">Open source on ufology-news.com.</span></span></span>
 
 The result is a national record with three distinct kinds of material: inherited Soviet-era official or semi-official reports, Ukrainian civilian and research-group archives, and modern wartime sensor or witness reports. These categories should not be blended together. A rumoured Soviet military case, a Zond archive entry, and a drone video from the front line may all be called “UFO” in popular writing, but their evidential value is very different.
 
@@ -1211,26 +1211,26 @@ The result is a national record with three distinct kinds of material: inherited
 
 Ukraine does not have a single canonical UFO chronology comparable to a national aviation accident database. Instead, its record is scattered across Soviet-era programmes, local research groups, media reports, astronomy papers, and recent wartime accounts. The useful way to read it is by evidence environment.
 
-**Soviet period: reports inside a closed state system.** During the USSR, Ukrainian territory was part of a wider network where military personnel and state-linked scientific bodies could pass along reports of anomalous phenomena. The Soviet research programme’s strongest finding is a cautionary one: impressive mass sightings often became identifiable when checked against rocket launches and aerospace events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Soviet period: reports inside a closed state system.** During the USSR, Ukrainian territory was part of a wider network where military personnel and state-linked scientific bodies could pass along reports of anomalous phenomena. The Soviet research programme’s strongest finding is a cautionary one: impressive mass sightings often became identifiable when checked against rocket launches and aerospace events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Post-Soviet Ukraine: local research and archive preservation.** After independence, Ukrainian ufology became more visible through groups such as SRCAA Zond, which has described efforts to collect, classify, and preserve Ukrainian and former Soviet anomalous-phenomena materials. Interviews with Ukrainian researchers also point to state-linked meteorological testimony collections, including 30 testimonies reportedly received by Zond after a 2009 request to Ukraine’s Central Geophysical Observatory, with additional records from 2016 and 2018. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">ufology in ukraine interview with igor kalytyukpart 1</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+**Post-Soviet Ukraine: local research and archive preservation.** After independence, Ukrainian ufology became more visible through groups such as SRCAA Zond, which has described efforts to collect, classify, and preserve Ukrainian and former Soviet anomalous-phenomena materials. Interviews with Ukrainian researchers also point to state-linked meteorological testimony collections, including 30 testimonies reportedly received by Zond after a 2009 request to Ukraine’s Central Geophysical Observatory, with additional records from 2016 and 2018.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">ufology in ukraine interview with igor kalytyukpart 1</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
 
-**2018–2022: Kyiv-region astronomical claims.** The most internationally visible Ukrainian UFO claim came from researchers associated with the Main Astronomical Observatory of the National Academy of Sciences of Ukraine. Papers posted in 2022 claimed observations of fast “phantom” objects over Kyiv and the village of Vinarivka, using daytime sky monitoring and colour analysis. The authors explicitly said they did not interpret the objects as alien craft, but the claimed sizes and speeds attracted global attention and criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span></span></span>
+**2018–2022: Kyiv-region astronomical claims.** The most internationally visible Ukrainian UFO claim came from researchers associated with the Main Astronomical Observatory of the National Academy of Sciences of Ukraine. Papers posted in 2022 claimed observations of fast “phantom” objects over Kyiv and the village of Vinarivka, using daytime sky monitoring and colour analysis. The authors explicitly said they did not interpret the objects as alien craft, but the claimed sizes and speeds attracted global attention and criticism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span></span></span>
 
-**2022 onward: wartime sightings and military relevance.** Since the full-scale Russian invasion, the meaning of “UFO” in Ukraine has become more security-focused. Ukrainian science media reported in May 2026 that electronic warfare specialist Serhii Beskrestnov had described repeated unexplained sightings over combat zones and argued that unknown aerial objects should be treated as possible enemy technology until identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2022 onward: wartime sightings and military relevance.** Since the full-scale Russian invasion, the meaning of “UFO” in Ukraine has become more security-focused. Ukrainian science media reported in May 2026 that electronic warfare specialist Serhii Beskrestnov had described repeated unexplained sightings over combat zones and argued that unknown aerial objects should be treated as possible enemy technology until identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This chronology shows why Ukraine is a high-noise, high-interest case. There are more cameras, more sensors, and more motivated observers than in peacetime, but there are also more ordinary sources of false mystery.
 
 <img src="{{ "/assets/images/Ukraine_c951ec-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really Seen Over Ukraine? illustration 1" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Kyiv “phantoms”: the most famous scientific claim
 
-The Kyiv “phantoms” case is the central modern Ukrainian UFO controversy because it came from astronomers rather than anonymous witnesses. A 2022 paper by B. E. Zhilyaev and colleagues described daytime observations of dark objects in the Kyiv region, including claims of very high speeds and substantial sizes. A later arXiv paper claimed observations from Kyiv and Vinarivka and described oval-shaped dark objects appearing for fractions of a second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span></span></span>
+The Kyiv “phantoms” case is the central modern Ukrainian UFO controversy because it came from astronomers rather than anonymous witnesses. A 2022 paper by B. E. Zhilyaev and colleagues described daytime observations of dark objects in the Kyiv region, including claims of very high speeds and substantial sizes. A later arXiv paper claimed observations from Kyiv and Vinarivka and described oval-shaped dark objects appearing for fractions of a second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span></span></span>
 
 The claim was interesting because it tried to use instruments, not just testimony. It was also vulnerable for the same reason: once an instrumental method is described, other analysts can test whether the method supports the conclusion. The key issue was distance. A small insect close to a camera and a large object far away can both cross the frame quickly. If distance is inferred incorrectly, a fly can become a huge, hypersonic “phantom” on paper.
 
-Sceptical investigator Mick West argued that some of the published images resembled near-camera insects and that the paper’s colour-based distance method depended on assumptions about object darkness and reflectivity. He also argued that similar contrast curves could be generated with nearby flies, making the claimed distance and speed estimates unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sceptical investigator Mick West argued that some of the published images resembled near-camera insects and that the paper’s colour-based distance method depended on assumptions about object darkness and reflectivity. He also argued that similar contrast curves could be generated with nearby flies, making the claimed distance and speed estimates unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most damaging response was not from a casual debunker but from within the Ukrainian scientific establishment. According to Skeptical Inquirer’s account, the National Academy of Sciences of Ukraine reviewed the work after public attention and concluded that the article was pseudo-scientific in form and content, citing inaccuracies, simplifications, and unsupported conclusions. Avi Loeb of the Galileo Project also argued that objects moving at the claimed speeds and sizes should have produced visible fireballs rather than appearing as dark bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most damaging response was not from a casual debunker but from within the Ukrainian scientific establishment. According to Skeptical Inquirer’s account, the National Academy of Sciences of Ukraine reviewed the work after public attention and concluded that the article was pseudo-scientific in form and content, citing inaccuracies, simplifications, and unsupported conclusions. Avi Loeb of the Galileo Project also argued that objects moving at the claimed speeds and sizes should have produced visible fireballs rather than appearing as dark bodies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The case is therefore best classified as **contested and probably methodologically weak**, not as confirmed evidence of extraordinary craft. Its lasting value is methodological: Ukraine’s best-known UFO paper illustrates how a real image can still support a false conclusion if distance, scale, and sensor context are mishandled.
 
@@ -1238,11 +1238,11 @@ The case is therefore best classified as **contested and probably methodological
 
 In wartime Ukraine, the term UFO has a different practical meaning from its pop-culture use. An unidentified object may be a Russian drone, a Ukrainian drone, a decoy, a balloon, a missile fragment, a satellite, an aircraft seen under unusual lighting, electronic warfare clutter, or an optical artefact. That is why a Ukrainian military or defence-linked observer can take UFO reports seriously without implying anything extraterrestrial.
 
-Ukrainian science outlet Universe Today Ukraine reported in May 2026 that Serhii Beskrestnov, widely known for commentary on communications and electronic warfare, said unexplained phenomena had been observed over combat zones and urged reporting because an unknown object might be a new enemy weapon. The same report noted that early in the full-scale invasion, inexperienced troops sometimes fired at lights later identified as satellites, the International Space Station, or planets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ukrainian science outlet Universe Today Ukraine reported in May 2026 that Serhii Beskrestnov, widely known for commentary on communications and electronic warfare, said unexplained phenomena had been observed over combat zones and urged reporting because an unknown object might be a new enemy weapon. The same report noted that early in the full-scale invasion, inexperienced troops sometimes fired at lights later identified as satellites, the International Space Station, or planets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This wartime context improves and worsens the evidence at the same time. It improves it because drones, thermal cameras, and military observation networks can capture data that ordinary witnesses cannot. It worsens it because combat footage is often incomplete, compressed, stripped of metadata, filmed through sensors optimised for targeting rather than scientific measurement, and released through social media without chain-of-custody details.
 
-This is exactly the broader problem identified by official UAP investigators elsewhere. The US All-domain Anomaly Resolution Office has noted that many UAP sightings consist only of vague narrative accounts, and even hard sensor data is often incomplete or low quality because military sensors are calibrated for combat tasks, not anomaly science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Most UAP sightings have no data associated with them beyond an often vague narrative account...</span></span></span>
+This is exactly the broader problem identified by official UAP investigators elsewhere. The US All-domain Anomaly Resolution Office has noted that many UAP sightings consist only of vague narrative accounts, and even hard sensor data is often incomplete or low quality because military sensors are calibrated for combat tasks, not anomaly science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Most UAP sightings have no data associated with them beyond an often vague narrative account...</span></span></span>
 
 For Ukraine, the practical rule is simple: wartime UFO reports should be treated first as air-defence, intelligence, or sensor-identification problems. The extraordinary question comes only after ordinary threats and artefacts are excluded.
 
@@ -1250,17 +1250,17 @@ For Ukraine, the practical rule is simple: wartime UFO reports should be treated
 
 ## The 2026 six-pointed drone video
 
-The most visible recent Ukrainian case is a reported drone video of a six-pointed or star-like object, discussed in May 2026 after Beskrestnov’s posts. Kyiv Post described the footage as showing a spherical object with six pointed cones and a heat plume, reportedly filmed during combat operations. Universe Today Ukraine similarly reported that footage was said to have been captured by a drone near an unidentified object at roughly 800 metres above the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kyivpost.com/post/75962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kyivpost.com">[Kyiv Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kyivpost.com</span><span class="citation-popover-title">Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO</span><span class="citation-popover-snippet">Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO</span></span></span>
+The most visible recent Ukrainian case is a reported drone video of a six-pointed or star-like object, discussed in May 2026 after Beskrestnov’s posts. Kyiv Post described the footage as showing a spherical object with six pointed cones and a heat plume, reportedly filmed during combat operations. Universe Today Ukraine similarly reported that footage was said to have been captured by a drone near an unidentified object at roughly 800 metres above the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kyivpost.com/post/75962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kyivpost.com">[Kyiv Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kyivpost.com</span><span class="citation-popover-title">Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO</span><span class="citation-popover-snippet">Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO</span></span></span>
 
-The case remains unresolved publicly because the strongest necessary materials are missing: original full-resolution files, sensor metadata, exact location, exact time, independent radar or optical corroboration, and a clear chain of custody. Open-source analysts on Metabunk treated the footage cautiously, proposing possibilities such as an infrared decoy, a balloon-mounted object, optical diffraction spikes, reflection in a gimbal dome, or CGI. The discussion also noted that the star shape appeared to remain level relative to the sensor in part of the footage, which raises the possibility of a camera or optical effect rather than a solid object rotating in space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Ukrainian drone footage of 6 pointed star &#124; Metabunk</span><span class="citation-popover-snippet">Ukrainian drone footage of 6 pointed star &#124; Metabunk</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">ukrainian uap study observation of events.12607</span><span class="citation-popover-snippet">ukrainian uap study observation of events.12607</span></span></span>
+The case remains unresolved publicly because the strongest necessary materials are missing: original full-resolution files, sensor metadata, exact location, exact time, independent radar or optical corroboration, and a clear chain of custody. Open-source analysts on Metabunk treated the footage cautiously, proposing possibilities such as an infrared decoy, a balloon-mounted object, optical diffraction spikes, reflection in a gimbal dome, or CGI. The discussion also noted that the star shape appeared to remain level relative to the sensor in part of the footage, which raises the possibility of a camera or optical effect rather than a solid object rotating in space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Ukrainian drone footage of 6 pointed star &#124; Metabunk</span><span class="citation-popover-snippet">Ukrainian drone footage of 6 pointed star &#124; Metabunk</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">ukrainian uap study observation of events.12607</span><span class="citation-popover-snippet">ukrainian uap study observation of events.12607</span></span></span>
 
 This does not mean the video is fake, nor that it is solved. It means the public evidence is not yet strong enough to support an extraordinary interpretation. In a combat zone, a strange thermal or optical signature could matter greatly even if it is entirely human-made. The responsible classification is **unresolved, security-relevant, and technically underdetermined**.
 
 ## Region-level variation inside Ukraine
 
-Ukraine’s UFO reports are not evenly meaningful across the country because the observation environment differs sharply by region. Kyiv and the Kyiv region appear repeatedly in modern claims because of astronomical monitoring, dense population, media visibility, and the presence of research institutions. The Kyiv “phantoms” papers used observations from Kyiv and Vinarivka in the south of Kyiv region, making this area the best-known scientific-claim cluster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span></span></span>
+Ukraine’s UFO reports are not evenly meaningful across the country because the observation environment differs sharply by region. Kyiv and the Kyiv region appear repeatedly in modern claims because of astronomical monitoring, dense population, media visibility, and the presence of research institutions. The Kyiv “phantoms” papers used observations from Kyiv and Vinarivka in the south of Kyiv region, making this area the best-known scientific-claim cluster.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena II. Evaluation of UAP properties</span></span></span>
 
-Front-line and near-front regions are different. They produce more militarily interesting reports because they are saturated with drones, thermal cameras, electronic warfare, missiles, decoys, air-defence activity, and nervous observers. The same factors make reports harder to interpret publicly because full operational context is often classified or unsafe to release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Front-line and near-front regions are different. They produce more militarily interesting reports because they are saturated with drones, thermal cameras, electronic warfare, missiles, decoys, air-defence activity, and nervous observers. The same factors make reports harder to interpret publicly because full operational context is often classified or unsafe to release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 There is also a reporting-bias problem. Areas with more cameras, soldiers, air alerts, and social media attention will appear to have more UFOs even if the underlying rate of unusual phenomena is not higher. Conversely, rural areas may produce fewer documented cases not because nothing happens there, but because fewer observations are recorded, preserved, or digitised.
 
@@ -1269,11 +1269,11 @@ For readers, the important distinction is not “which Ukrainian region has the 
 <img src="{{ "/assets/images/Ukraine_c951ec-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really Seen Over Ukraine? illustration 2" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and archive reliability
 
-Ukraine’s strongest archive story is not a single declassified alien file. It is the survival and partial digitisation of anomalous-phenomena records from Soviet and post-Soviet research cultures. Zond-linked researchers have described “Global Archive” and “Heritage” projects aimed at preserving UAP archives, and UAP Check’s interview with Igor Kalytyuk describes a large electronic collection of books, bulletins, publications, and paper documents organised by country, organisation, or ministry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">AN D «HERITAGE» FOR THE SAVING OF UAP-ARCHIVES</span><span class="citation-popover-snippet">AN D «HERITAGE» FOR THE SAVING OF UAP-ARCHIVES</span></span></span>
+Ukraine’s strongest archive story is not a single declassified alien file. It is the survival and partial digitisation of anomalous-phenomena records from Soviet and post-Soviet research cultures. Zond-linked researchers have described “Global Archive” and “Heritage” projects aimed at preserving UAP archives, and UAP Check’s interview with Igor Kalytyuk describes a large electronic collection of books, bulletins, publications, and paper documents organised by country, organisation, or ministry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">AN D «HERITAGE» FOR THE SAVING OF UAP-ARCHIVES</span><span class="citation-popover-snippet">AN D «HERITAGE» FOR THE SAVING OF UAP-ARCHIVES</span></span></span>
 
 These archives are valuable, but their value is historical and investigative rather than automatically evidential. A stored testimony proves that someone reported something; it does not prove that the reported object was anomalous. The best archives preserve enough context to allow later identification: date, time, direction, angular size, duration, weather, aircraft activity, astronomical conditions, sensor type, and original images or files.
 
-The Ukrainian record also includes local-state or state-adjacent channels. Kalytyuk’s interview refers to anomalous-phenomena testimony collected through Ukrainian meteorological services and to Zond receiving 30 testimonies after a 2009 request, later supplemented by several more. That is important because meteorological observers are often better trained than casual witnesses, but it still does not remove the need for independent checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">2024 07 06 a short history of ufo research in the former soviet union</span><span class="citation-popover-snippet">2024 07 06 a short history of ufo research in the former soviet union</span></span></span>
+The Ukrainian record also includes local-state or state-adjacent channels. Kalytyuk’s interview refers to anomalous-phenomena testimony collected through Ukrainian meteorological services and to Zond receiving 30 testimonies after a 2009 request, later supplemented by several more. That is important because meteorological observers are often better trained than casual witnesses, but it still does not remove the need for independent checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">2024 07 06 a short history of ufo research in the former soviet union</span><span class="citation-popover-snippet">2024 07 06 a short history of ufo research in the former soviet union</span></span></span>
 
 The most reliable Ukrainian cases will therefore be those with original data and cross-checkable context, not those with the most dramatic story. A report with a dull explanation and complete metadata is more useful than a spectacular account with no date, no location, no original file, and no independent corroboration.
 
@@ -1281,15 +1281,15 @@ The most reliable Ukrainian cases will therefore be those with original data and
 
 Ukraine’s UFO material is easiest to understand when sorted by evidence quality.
 
-**Confirmed as reports, not confirmed as exotic objects.** Ukraine clearly has many UFO and UAP reports, including civilian testimony, research-group archives, wartime sightings, and drone footage claims. Zond-linked interviews and Ukrainian science-media reporting support the existence of active reporting channels and large volumes of reports, including claims of thousands of wartime-era submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">ufology in ukraine interview with igor kalytyukpart 1</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
+**Confirmed as reports, not confirmed as exotic objects.** Ukraine clearly has many UFO and UAP reports, including civilian testimony, research-group archives, wartime sightings, and drone footage claims. Zond-linked interviews and Ukrainian science-media reporting support the existence of active reporting channels and large volumes of reports, including claims of thousands of wartime-era submissions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[uapcheck.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-title">ufology in ukraine interview with igor kalytyukpart 1</span><span class="citation-popover-snippet">UAP Check...</span></span></span>
 
-**Contested scientific claims.** The Kyiv “phantoms” papers are real publications or preprints, but their conclusions are heavily disputed. The central objections concern scale, distance, colour analysis, lack of released underlying data, and the plausibility of dark high-speed objects not producing expected optical effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested scientific claims.** The Kyiv “phantoms” papers are real publications or preprints, but their conclusions are heavily disputed. The central objections concern scale, distance, colour analysis, lack of released underlying data, and the plausibility of dark high-speed objects not producing expected optical effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Probably explained or weakly evidenced cases.** Many wartime lights and aerial objects are plausibly satellites, planets, drones, balloons, decoys, sensor artefacts, or misread military activity. Ukrainian reporting itself has noted examples of troops mistaking familiar celestial or orbital objects for threats early in the invasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Probably explained or weakly evidenced cases.** Many wartime lights and aerial objects are plausibly satellites, planets, drones, balloons, decoys, sensor artefacts, or misread military activity. Ukrainian reporting itself has noted examples of troops mistaking familiar celestial or orbital objects for threats early in the invasion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universemagazine.com">[Universe Space Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universemagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunking pattern from the Soviet record.** The old Soviet archive lesson is especially relevant to Ukraine: mass night sightings that looked extraordinary were often explained by rocket launches and aerospace tests once correlated with launch schedules and viewing geometry. The Petrozavodsk case is outside Ukraine’s present national scope, but it is relevant as a Soviet sibling-branch example because it shaped the same investigative culture that later influenced Ukrainian anomaly research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Debunking pattern from the Soviet record.** The old Soviet archive lesson is especially relevant to Ukraine: mass night sightings that looked extraordinary were often explained by rocket launches and aerospace tests once correlated with launch schedules and viewing geometry. The Petrozavodsk case is outside Ukraine’s present national scope, but it is relevant as a Soviet sibling-branch example because it shaped the same investigative culture that later influenced Ukrainian anomaly research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Currently unresolved public cases.** The 2026 six-pointed drone footage remains unresolved in public. Plausible mundane hypotheses exist, but the available evidence does not conclusively establish one. It should be treated as an open identification problem, not as proof of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/forums/ufos-and-aliens.10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">UF Os and Aliens Ukrainian drone footage of 6 pointed star · Harabeck ·</span><span class="citation-popover-snippet">UF Os and Aliens Ukrainian drone footage of 6 pointed star · Harabeck ·</span></span></span>
+**Currently unresolved public cases.** The 2026 six-pointed drone footage remains unresolved in public. Plausible mundane hypotheses exist, but the available evidence does not conclusively establish one. It should be treated as an open identification problem, not as proof of non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/forums/ufos-and-aliens.10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">UF Os and Aliens Ukrainian drone footage of 6 pointed star · Harabeck ·</span><span class="citation-popover-snippet">UF Os and Aliens Ukrainian drone footage of 6 pointed star · Harabeck ·</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6RiI-VQtHg" title="The Unknown Physics of UFO/UAP With Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6RiI-VQtHg" target="_blank" rel="noopener noreferrer">The Unknown Physics of UFO/UAP With Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 165.2K &middot; Uploaded: March 2023 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6RiI-VQtHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6RiI-VQtHg">Open on YouTube</a></p></div></div></div>
 
@@ -1323,194 +1323,194 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
 <img src="{{ "/assets/images/Ukraine_c951ec-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really Seen Over Ukraine? illustration 3" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen Over Ukraine?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Seen Over Ukraine?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a national overview focused on evidence and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a national overview focused on evidence and official reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how UFO narratives evolve across societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how UFO narratives evolve across societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains classification and investigation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classification and investigation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers contemporary debates around government and military reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contemporary debates around government and military reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-ukraine-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-ukraine-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1526,7 +1526,7 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1546,7 +1546,7 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1578,7 +1578,7 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1630,7 +1630,7 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1675,7 +1675,7 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1713,174 +1713,173 @@ At present, the strongest evidence-supported conclusion is that Ukraine has a ri
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Most UAP sightings have no data associated with them beyond an often vague narrative account...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Most UAP sightings have no data associated with them beyond an often vague narrative account...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: uapcheck.com  
    Title: ufology in ukraine interview with igor kalytyukpart 1  
-   Link: <a href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Check...</p></details>
+   Link:<a href="https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2512/ufology-in-ukraine-interview-with-igor-kalytyukpart-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Check...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufology-news.com  
-   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf</a>  
+   Link:<a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Gershtein_M._Short_story_of_UFO_research_in_a_former_Soviet_Union_and_in_Ukraine_independence_time_2015.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: uapcheck.com  
    Title: 2024 07 06 a short history of ufo research in the former soviet union  
-   Link: <a href="https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/</a>  
+   Link:<a href="https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2024-07-06-a-short-history-of-ufo-research-in-the-former-soviet-union/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena II. Evaluation of UAP properties  
-   Link: <a href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.17085</a>  
+   Link:<a href="https://arxiv.org/abs/2211.17085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.17085</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: Ukrainian drone footage of 6 pointed star | Metabunk  
-   Link: <a href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/</a>  
+   Link:<a href="https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-drone-footage-of-6-pointed-star.14880/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufology-news.com  
    Title: AN D «HERITAGE» FOR THE SAVING OF UAP-ARCHIVES  
-   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf</a>  
+   Link:<a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Kalytyuk_I._Gershtein_M._Petrov_S._The_projects_Global_Archive_and_Heritage_for_the_saving_of_UAP-archives_2020.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2503.05627v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05627v1</a>  
+   Link:<a href="https://arxiv.org/html/2503.05627v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05627v1</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metabunk.org  
    Title: ukrainian uap study observation of events.12607  
-   Link: <a href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/</a>  
+   Link:<a href="https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ukrainian-uap-study-observation-of-events.12607/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: UF Os and Aliens Ukrainian drone footage of 6 pointed star · Harabeck ·  
-   Link: <a href="https://www.metabunk.org/forums/ufos-and-aliens.10/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufos-and-aliens.10/</a>  
+   Link:<a href="https://www.metabunk.org/forums/ufos-and-aliens.10/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufos-and-aliens.10/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/forums/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/</a>  
+   Link:<a href="https://www.metabunk.org/forums/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/</a>  
+   Link:<a href="https://www.metabunk.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/tags/uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/uap/</a>  
+   Link:<a href="https://www.metabunk.org/tags/uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/forums/general-discussion.2/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/general-discussion.2/</a>  
+   Link:<a href="https://www.metabunk.org/forums/general-discussion.2/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/general-discussion.2/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufology-news.com  
    Title: Bilyk A. Anomalous phenomena methodology and practice of research 2015  
-   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf</a>  
+   Link:<a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_phenomena_methodology_and_practice_of_research_2015.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufology-news.com  
    Title: Bilyk A. Anomalous Phenomena methodology and practice of research 2020  
-   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf</a>  
+   Link:<a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufology-news.com  
-   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf</a>  
+   Link:<a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Kirichenko_A._Anomalies_and_inevitability_of_humanity_cosmic_future_2015.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UAP data released: Astrophysicist Avi Loeb breaks down declassified records  
-   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb - Medium...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb - Medium...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: universemagazine.com  
-   Link: <a href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk</a>  
+   Link:<a href="https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/ufos-repeatedly-spotted-over-ukraine-during-the-large-scale-war/?srsltid=AfmBOoqB5wNtfR2Jtlu3Yi4bwlVXLbA3Exay8zR5s5KXXHxznEyvAFCk</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs over Kyiv | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/2022/12/ufos-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/12/ufos-over-kyiv/</a>  
+   Link:<a href="https://skepticalinquirer.org/2022/12/ufos-over-kyiv/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/12/ufos-over-kyiv/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: kyivpost.com  
    Title: Kyiv Post Senior Ukraine Official Reports Armed Forces Sighted UFO  
-   Link: <a href="https://www.kyivpost.com/post/75962" target="_blank" rel="noopener noreferrer nofollow">https://www.kyivpost.com/post/75962</a>  
+   Link:<a href="https://www.kyivpost.com/post/75962" target="_blank" rel="noopener noreferrer nofollow">https://www.kyivpost.com/post/75962</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: themoscowtimes.com  
-   Link: <a href="https://www.themoscowtimes.com/all/52335?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/all/52335?amp=1</a>  
+   Link:<a href="https://www.themoscowtimes.com/all/52335?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/all/52335?amp=1</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO OVER UKRAINE? DRONEWATCHERS noticed it! Shocking secrets of the PENTAGON  
-   Link: <a href="https://www.youtube.com/watch?v=OCeRUNRqebU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCeRUNRqebU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OCeRUNRqebU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCeRUNRqebU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: UFOs OVER UKRAINE? Why the US IS HIDING THE TRUTH about aliens  
-   Link: <a href="https://www.youtube.com/watch?v=0oo9s_SlsL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0oo9s_SlsL8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER UKRAINE? DRONEWATCHERS noticed it! Shocking secrets of the PENTAGON...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0oo9s_SlsL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0oo9s_SlsL8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER UKRAINE? DRONEWATCHERS noticed it! Shocking secrets of the PENTAGON...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Ukraine's astronomers say there are tons of UFOs over Kyiv  
-   Link: <a href="https://www.youtube.com/watch?v=h4g51PIm1sc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4g51PIm1sc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER UKRAINE? Why the US IS HIDING THE TRUTH about aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h4g51PIm1sc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4g51PIm1sc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER UKRAINE? Why the US IS HIDING THE TRUTH about aliens...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/</a>  
+   Link:<a href="https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Amateur.Microscopy/posts/879088712272545/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv</a>  
+   Link:<a href="https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121508627/Unidentified_aerial_phenomena_UAPs_over_Kyiv</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYpsMN5EeHZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYpsMN5EeHZ/</a>  
+   Link:<a href="https://www.instagram.com/p/DYpsMN5EeHZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYpsMN5EeHZ/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tahzt8/closeups_of_the_uap_from_the_ukrainian_video/</a>
